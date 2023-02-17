@@ -73,5 +73,5 @@ We selected 2% of the 2,237 custom mock classes is 44 for manual analysis.
 | Inheritance| Whether this class has inherited behavior | 
 | Isolation| Whether this class is doing isolation. (Is the concept of mock being used) | 
 | Can use mock| Whether it can be refactored to mock | 
-| Favor Mock| Whether or not you favor using mock framework | 
+| Favor Mock| Whether or not favor using mock framework | 
 | Reason| Explanation about labels | 
