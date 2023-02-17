@@ -1,0 +1,1811 @@
+commit_id,Author,Author_adress,Date
+082cc11234afc5c7fdc2775b809b8141afc548f0,Konrad Windszus,kwin@apache.org,Jul-7-2022
+e808e694fe43f2f620272037dc41c8a3c605b8c3,Slawomir Jaranowski,s.jaranowski@gmail.com,Jun-19-2022
+fd51e1c9f4a8c340fa46b6b708227e3b23aefa2f,Michael Osipov,michaelo@apache.org,Jun-18-2022
+229a0d29d776189f12a47eef4c204dc5354b8906,Michael Osipov,michaelo@apache.org,Jun-18-2022
+88402364c66374ac03b2e3c71337b005bf1cf424,Michael Osipov,michaelo@apache.org,Jun-18-2022
+777f8d3654d71f278a51fa86ebaf49f943d77ffb,Fred Eckertson,feckertson@cerner.com,Jun-1-2022
+adbc36bd00c15389714299fa3af1b2406fe9efb0,Michael Osipov,michaelo@apache.org,May-18-2022
+ca82243f1439877ca1f8a41765ef14e3635d97cc,Michael Osipov,michaelo@apache.org,Jun-11-2022
+9443d815a3219db5fe05871e0322547023a7ee18,Michael Osipov,michaelo@apache.org,May-28-2022
+9be64968af83dee44352916998a8e54a6c3ee03b,Michael Osipov,michaelo@apache.org,Jun-12-2022
+6538b6e2c1757700ca9628ac22c7febb7c53135c,Michael Osipov,michaelo@apache.org,Jun-12-2022
+8ef6a26a35946385ad55193a63e0180a5d5320ec,Michael Osipov,michaelo@apache.org,May-30-2022
+02026d1ffdf4164ce2d458a29f58dfaeb09b80ff,Michael Osipov,michaelo@apache.org,May-30-2022
+e3828acfb1cfe5ecf5b150a6d50e39423e5f36ed,Michael Osipov,michaelo@apache.org,May-30-2022
+daf457069755f743577c451a2cdf1703f9f1fa37,Michael Osipov,michaelo@apache.org,May-30-2022
+5508c6962434e9829ef36938e4a2a03290e3917d,Michael Osipov,michaelo@apache.org,May-27-2022
+74bfa2a315617425c1786373c913a570a7297105,Michael Osipov,michaelo@apache.org,May-28-2022
+87d1ab3979d9df3f6c9af2b2c9bb3baf4152d8b1,Michael Osipov,michaelo@apache.org,Jun-25-2021
+b0d40921bc90ae1c87177f3e343d7dcff4f9528e,Michael Osipov,michaelo@apache.org,May-27-2022
+c098cc9972b13c761091e66a57261e89195a9271,Slawomir Jaranowski,s.jaranowski@gmail.com,Feb-22-2022
+2aea4500ba6559b91fe3a4b83a5d3aafc10116b4,Tamas Cservenak,tamas@cservenak.net,Feb-17-2022
+e72135a6fd80cbf98aa522d74094ad7a3b2ac3c2,Michael Osipov,michaelo@apache.org,Feb-13-2022
+86048dbeaf5a6202ecd8ce7862c5463f1482c465,Michael Osipov,michaelo@apache.org,Feb-13-2022
+63843f67324e2db7753179d92a5f63608442f42c,Michael Osipov,michaelo@apache.org,Feb-6-2022
+c65bac0dd9973874f168564653a87753fc8084e3,Michael Osipov,michaelo@apache.org,Feb-6-2022
+9e998a51e60724ed396fb207d4987ea3d04f4b07,Guillaume Nodet,gnodet@gmail.com,Feb-3-2022
+adefec14abe2c013672dab4de63097afd0c3e249,Guillaume Nodet,gnodet@gmail.com,Feb-3-2022
+8013887518a46c5c7403bcb3b23845390b1ff202,Michael Osipov,michaelo@apache.org,Jan-22-2022
+4318fa7d2999faa019ec06fdca7e0581cdcca9d4,Michael Osipov,michaelo@apache.org,Jan-22-2022
+793cb886793a52bdf50a9c8ba72f9dbc57e8c4ae,Michael Osipov,michaelo@apache.org,Jan-17-2022
+4b86c5e316fd2bacf8cedfe6c5b03695f2246427,Michael Osipov,michaelo@apache.org,Jan-17-2022
+03e312be1f7d8050a2ff0815ffc8a54d6c00ab8a,Michael Osipov,michaelo@apache.org,Jan-17-2022
+5e5cdd84e6c08560350b36d45b75ef920494374a,Michael Osipov,michaelo@apache.org,Jan-8-2022
+2f340cb36a6cbde1a311d50a1fcfe95c5458c411,Michael Osipov,michaelo@apache.org,Jan-8-2022
+72b8490f30a109ca08305c09906a7713ae822866,Michael Osipov,michaelo@apache.org,Jan-8-2022
+6f92d3fd373821ab5f6159b82366c40b56182ab4,Michael Osipov,michaelo@apache.org,Jan-8-2022
+be44afd985dbbb6888782d9d947d83425a7ec791,Michael Osipov,michaelo@apache.org,Jan-8-2022
+8bdca3bb60cb11176244995b540ef49d428e8967,Michael Osipov,michaelo@apache.org,Jan-8-2022
+8e689f84c3b26257def33b1a243c35ad25e78dd2,Michael Osipov,michaelo@apache.org,Dec-31-2021
+efb1c4a3527b85ba6e5a05872c0736a91cf9f46e,Michael Osipov,michaelo@apache.org,Dec-31-2021
+9b535447708c2ba455e94dbbca09a5a50e388702,Hervé Boutemy,hboutemy@apache.org,Dec-31-2021
+ba9b17a4903f5efd873c02e20664d563a54bef66,Michael Osipov,michaelo@apache.org,Dec-29-2021
+72b50aa454329d743a2f4cf43534aa1ad2963f90,Michael Osipov,michaelo@apache.org,Dec-29-2021
+60e1c2c93f6e1db7b5cdb3c3ab09c32d0fc98f2e,Michael Osipov,michaelo@apache.org,Dec-29-2021
+b2d7537faca8196feecbe3d184a98331007d8867,Michael Osipov,michaelo@apache.org,Dec-29-2021
+bfee281f3719109c39f841926c0c300ae13b6a2e,Michael Osipov,michaelo@apache.org,Dec-29-2021
+07d070482d50dcf7b6ad9d8054e26a42efdc8db4,Hervé Boutemy,hboutemy@apache.org,Dec-23-2021
+bb357d9585179d53a11bd0387db2038c67a077c2,Michael Osipov,michaelo@apache.org,Nov-28-2021
+84c3babdeeadafb546985e00353c1dc71c770344,Michael Osipov,michaelo@apache.org,Nov-28-2021
+88fda8888e390aef87d540037133177be5f85670,Michael Osipov,michaelo@apache.org,Nov-27-2021
+ea9e1c6a54165daebe043067cfd0a72cba7ad91b,Michael Osipov,michaelo@apache.org,Nov-27-2021
+a5145159ec5d8c993612560fb2bb2ef10b3815ab,Michael Osipov,michaelo@apache.org,Nov-27-2021
+80e02c5cbf0ada390789af21235d41168ac8874a,Michael Osipov,michaelo@apache.org,Nov-27-2021
+21b3b82f9d74cd329258a1b137048a2205d169e6,Michael Osipov,michaelo@apache.org,Nov-27-2021
+05d719a105d1504fe78b72cc204185968c40ee20,Michael Osipov,michaelo@apache.org,Nov-27-2021
+ca9af5a8ef8298a8f21d6c5de2a3ccc53509b5b8,Michael Osipov,michaelo@apache.org,Nov-27-2021
+37cfeda9607a3aae177171e801c180b94f733ced,Michael Osipov,michaelo@apache.org,Nov-27-2021
+4df28158c8a291228b30a1bbb2506b7421a6a9fd,Michael Osipov,michaelo@apache.org,Nov-27-2021
+78c210ec95d9f186348fa9f60ee219cac592f599,Michael Osipov,michaelo@apache.org,Nov-27-2021
+eababeb42726b701a316f85f739cf641daf35420,Michael Osipov,michaelo@apache.org,Nov-27-2021
+7ba53199c6ae6aaba846a76bbe7a20793b342086,Michael Osipov,michaelo@apache.org,Nov-27-2021
+e0356e8cc0d6c63dba212255d7dac14732387936,Slawomir Jaranowski,s.jaranowski@gmail.com,Nov-26-2021
+e9589f24ffa7e8ae2a3562bcbb367e574ee0f3f0,Hervé Boutemy,hboutemy@apache.org,Jul-25-2021
+d8c629509a41acdd7f97742d37d9b92ad609df51,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-13-2021
+c5d842c57b97a8b5f03ab426664e092a1c087d05,Michael Osipov,michaelo@apache.org,Jun-21-2021
+a710b266c3da534b6ff03a27d1ec918d961448b0,Michael Osipov,michaelo@apache.org,Jun-21-2021
+382491c728df782381ab8db8d71724f81bc6497d,Elliotte Rusty Harold,elharo@users.noreply.github.com,May-31-2021
+80e16ac647e833c42f2233de577d1d1f2f4d0bf5,Elliotte Rusty Harold,elharo@users.noreply.github.com,May-31-2021
+587212b0b43fca836532a397080ec6e3a433fc6f,Elliotte Rusty Harold,elharo@ibiblio.org,May-30-2021
+497a4387007732ffe5c780451cbc3778c9e0b265,Abel Salgado Romero,abelromero@gmail.com,Jun-29-2020
+cb017d87f4a91f27c5a02f5cb3b1b148f4a8b23a,Sylwester Lachiewicz,slachiewicz@apache.org,Aug-20-2020
+64ddf82fc668754f682bba0a973a9090ae49a86d,Sylwester Lachiewicz,slachiewicz@apache.org,May-30-2021
+8bfb5be7e4ff728ba1bc8a1c4a8e884a2f37bacc,Abel Salgado Romero,abelromero@gmail.com,Jun-30-2020
+baa05cf312459d625b03bbc962388d378398f4e8,Sylwester Lachiewicz,slachiewicz@apache.org,May-30-2021
+35b96ae0e54fe9e31a34adc08101780c494f952e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2021
+5443de7c6eb24965775f0496cc7381a8df929a2b,dcruette,dcruette@qualitesys.com,Apr-26-2021
+794c39dbee17a35e2e74bf001450b2c3cf15959a,Sylwester Lachiewicz,slachiewicz@apache.org,May-30-2021
+589e703b1ac43a058435c297dbf7333364e44372,plan3d,plan3d@tutanota.com,Mar-29-2021
+98e259ca588c9d06d7e96adc1e5608c8cf515d80,Sylwester Lachiewicz,slachiewicz@apache.org,Apr-19-2021
+e02a241100c73273faa7e2b7c7473b9820401972,Sylwester Lachiewicz,slachiewicz@apache.org,Apr-3-2021
+e1d7a718a53e62df6f684df18263bbf163da0b51,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-15-2021
+793050265a80bc42884d634535eef3a965116a36,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-21-2021
+8128fd39f6407722f6bf83ef10637401c456dcef,Bertrand Martin,bertrand@sentrysoftware.com,Jan-6-2021
+82f421e86e26a830d6b4cf784f04a51441d47999,Bertrand Martin,bertrand@sentrysoftware.com,Jan-7-2021
+d679431b0b52dce4e6399f506cbc3f4ba180a07c,Bertrand Martin,bertrand@sentrysoftware.com,Jan-3-2021
+0ffc54ae3f82b45b92d3d8c4d6b35dba80f0ba4f,Michael Osipov,michaelo@apache.org,Jan-2-2021
+b55285cada6195ca227a21da0168462addbac6de,Bertrand Martin,bertrand@sentrysoftware.com,Dec-29-2020
+d66b4610509173d949d3b4bdcfa5629db855a681,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-1-2020
+c439714e8f4a9e86f9962ac6be9a0077ae9b4d30,Sylwester Lachiewicz,slachiewicz@apache.org,Oct-13-2020
+f2d1a1ef681e0ce149ae7596e38207036f9cf950,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Oct-1-2020
+74c3e876b5c7a044f5a6b7ad7be6ea3ac10a6f49,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Oct-7-2020
+7d53e9e7648f336a1329ade6d065e7553b171eef,Michael Boyles,michaelboyles@hotmail.co.uk,Sep-14-2020
+da83dca4c2512268c5cbb40b055efaaed23d3850,Hervé Boutemy,hboutemy@apache.org,Aug-29-2020
+512cc33037ecd504becd6d8de5a891f80064ecd3,Hervé Boutemy,hboutemy@apache.org,Aug-28-2020
+efbcfdde4244f746ef026b1ad27ced0b017f72be,Hervé Boutemy,hboutemy@apache.org,Aug-23-2020
+a3404a296f4657268cb52248ddad9b5d8f252391,Sylwester Lachiewicz,slachiewicz@apache.org,Aug-19-2020
+d55d6144a06b08e2f6972a61f247ad40e8c96de3,Hervé Boutemy,hboutemy@apache.org,Jun-30-2020
+aac72c3729bdc6e3668efc13532df62f842e6bf8,Hervé Boutemy,hboutemy@apache.org,Jun-30-2020
+3540aec7303ef105320c548ce5ed1ecaaaeac010,Elliotte Rusty Harold,elharo@users.noreply.github.com,Jun-17-2020
+72cd7f966ea7e746f4d3795a52096336fd650569,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+f59648176e4f67745ec55d06e7b2a8f39c44421d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+dca1483fdbd372a46d793cb4e3b3cd3877f2d3be,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+cb49c876d91d6e3dde93a7f6cae1ae9dbb55b614,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+4772e6f60a602bbcc000d87e74467acec7a6a55c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+dc7a28badf35a0165792e54c661e3f96b4c3ec54,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-17-2020
+f6a9f5891db7765dcc9d439ecc43706a7fb625e4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-16-2020
+5871d1722b7b8e3a58994be562d3fea89c2771d1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-16-2020
+5df0b6534bd64d867c783da47c68929051bb0381,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-16-2020
+c7ca821b7f6c7602c4feb415423ec284388436f8,Sylwester Lachiewicz,slachiewicz@apache.org,Jun-16-2020
+d7358627dbcd7797e82f843509ad6b45c3d611d1,dependabot-preview[bot],27856297+dependabot-preview[bot]@users.noreply.github.com,Jun-12-2020
+cdf36502590ad2a6ce68c8fc804e7588d38782a6,Hervé Boutemy,hboutemy@apache.org,Apr-13-2020
+ff7094ab170bc80b761bf058f29ee0ba15fd09bf,Hervé Boutemy,hboutemy@apache.org,Apr-12-2020
+3c7fca87071ff0f591b41abdc5151ef75607dd1a,Elliotte Rusty Harold,elharo@users.noreply.github.com,Apr-5-2020
+2ad48e150fce7c99fc2970a8d2588b66a0691162,minfrin,minfrin@users.noreply.github.com,Mar-1-2020
+45ff913e9198940391fb0f0d8b1618c6ffc7a9f7,Hervé Boutemy,hboutemy@apache.org,Feb-13-2020
+067f469861d5fb4c75fb7945aa19a8c559b69351,Hervé Boutemy,hboutemy@apache.org,Feb-13-2020
+99f54508109723995c8587a1b574e0a9aa56ce09,Hervé Boutemy,hboutemy@apache.org,Feb-13-2020
+be4769c1a53118aef753e484bacfaefc503ed7a5,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-11-2020
+033759896c801f8606f1744e38e42514f9105c2b,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-11-2020
+0da0685b23e8bd72c39c9aca53eae42f01c4a7b1,Elliotte Rusty Harold,elharo@users.noreply.github.com,Feb-11-2020
+558aff650f41ade433509d112a575ed204221f69,Jonathan Leitschuh,Jonathan.Leitschuh@gmail.com,Feb-10-2020
+faabbe76c1b304b6f6727810a6feba5c7ad437f4,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+751e544ed2a296c955502a86622836b30979ebb4,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-7-2020
+31beadfbbe874e521ecc5f884596b4bc17d43ea2,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+99043deee224059343f38b47fbee88f06ca8255b,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+40f42bff976ca0c8db28583aed4bf5936c26c612,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+fdbe5d45a743dd0492eebd035e535710145bf242,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+b73bacb2fd26f78caf26b64da3ea7eb4851d6910,Sylwester Lachiewicz,slachiewicz@apache.org,Feb-6-2020
+58bedd06b487ac27f57715642a2c16b695bbf1e9,Hervé Boutemy,hboutemy@apache.org,Feb-6-2020
+a8f19fc97cb7a0fa8c34ce5f0013fa974760fa6a,Hervé Boutemy,hboutemy@apache.org,Feb-5-2020
+bedca8353e18cb6e345501476e70c9181c65a318,Hervé Boutemy,hboutemy@apache.org,Jan-31-2020
+1a615e581edd239b714fde7c387020f7c5f21673,Hervé Boutemy,hboutemy@apache.org,Jan-31-2020
+6f7e585447b6bcd3237a59b0a47b6853462cbbb5,Hervé Boutemy,hboutemy@apache.org,Nov-24-2019
+9d93dbe74e78f1ff18f1fda889c8ec9cb835de59,Hervé Boutemy,hboutemy@apache.org,Nov-24-2019
+d089ca61f062e877f4feceaeedd37d67e68df2cd,Hervé Boutemy,hboutemy@apache.org,Nov-24-2019
+4abf8940814ed8c327741866ea02b1710dcfaad8,Hervé Boutemy,hboutemy@apache.org,Nov-24-2019
+e3434d03d43061c724e00632d2256ecf9020d06a,Michael Osipov,michaelo@apache.org,May-30-2019
+ac52371f374b29660a8b7b07c6ed6342c49aa36d,Michael Osipov,michaelo@apache.org,May-30-2019
+1eea8214aced4fcad79c6e9b6dc44518777ab8e8,Iwao AVE!,harawata@gmail.com,May-29-2019
+f6fd521f566de1cdb813507ed3023fdd5978a1ca,Iwao AVE!,harawata@gmail.com,May-29-2019
+b654bb6e75c8ff2d608ff902f7a5f2f92ac7c6cd,Sylwester Lachiewicz,slachiewicz@gmail.com,Feb-11-2018
+322ada0addaa3fab99a04a388f9e552902848044,Sylwester Lachiewicz,slachiewicz@apache.org,May-12-2019
+e5f8f7db48830d669fb4be7b2f4a35f534de315a,Sylwester Lachiewicz,slachiewicz@apache.org,May-8-2019
+8b7001ae32a5ef05385da8312b3c268ff2ae79cd,Sylwester Lachiewicz,slachiewicz@apache.org,May-7-2019
+e005c348ddd4367de8871f2e38d698b615db7dce,Sylwester Lachiewicz,slachiewicz@apache.org,May-8-2019
+2a0566c0e6dd4fa35fc601acbcaa98cda081f797,Sylwester Lachiewicz,slachiewicz@apache.org,May-7-2019
+3aafdd8c8793481b49d083695705ba943289d3f0,Sylwester Lachiewicz,slachiewicz@apache.org,May-4-2019
+a7b930b08b28be163e107fb02753c07a6e0cb8f5,Sylwester Lachiewicz,slachiewicz@apache.org,May-4-2019
+04070b889a2489d9b976b5fc865fd4e4e863b5c8,Graham Leggett,minfrin@apache.org,Apr-11-2019
+f418bd7ccebd55a2eb2d7f04f74fc4bea7576103,Karl Heinz Marbaise,kama@soebes.de,Feb-17-2019
+ee38aaf0342f1ca53e01e76ec315dc3b343d1919,Karl Heinz Marbaise,kama@soebes.de,Feb-16-2019
+20203d6c7f119e96fcf466ad1d72d8f8dcf5640f,Josep Mones,jmones@gmail.com,Jan-25-2019
+d977f4e4f4a9f7d5549f25daa56d3cd0f756023a,Hervé Boutemy,hboutemy@apache.org,Jan-23-2019
+ac4ce15d932eb91e4083a03c4888a09838200036,Dennis Lundberg,dennisl@apache.org,Nov-26-2018
+31f4e822df5f688399b1549a0308e93ab81a87cf,Dennis Lundberg,dennisl@apache.org,Nov-26-2018
+a76ef4a4c83cb98d86f8a6278a7e47df9e78110e,Dennis Lundberg,dennisl@apache.org,Nov-26-2018
+ae76bdc1e137c9beef707cb9c9207e33ce49917e,Dennis Lundberg,dennisl@apache.org,Nov-22-2018
+ec0d0d6f45bc34d087f82c4a905d3241c1f6f943,Dennis Lundberg,dennisl@apache.org,Nov-22-2018
+0b50239c05906390efc66f7522f57bd87fc7586e,Dennis Lundberg,dennisl@apache.org,Nov-22-2018
+41ad6cd454dcd6fed8d61e1ed712bdb23cc42286,Dennis Lundberg,dennisl@apache.org,Nov-22-2018
+99a60c79b72e82b121fc52d27ac69136a1231334,Hervé Boutemy,hboutemy@apache.org,Sep-15-2018
+e468626805b47cc0c7ba2cb66c74217962c81a52,Karl Heinz Marbaise,khmarbaise@apache.org,Apr-7-2018
+f4371504a867b88788d3c0c7111de9edfaf195f8,Hervé Boutemy,hboutemy@apache.org,Aug-29-2018
+c8ae7016f59545c29d96133a7b8b1dc3b6539a07,Hervé Boutemy,hboutemy@apache.org,Aug-29-2018
+26c6d1f638b14c02eab41fc8a8eb252bef5d506b,Hervé Boutemy,hboutemy@apache.org,Jul-16-2018
+d65da7e7052e6c133f2a4e5319569019713cba4a,Martin Kurz,mkurz,Apr-13-2014
+c99e7a4dffd4ba676134a4b46a30510a51320632,Hervé Boutemy,hboutemy@apache.org,Jun-19-2018
+b78b6c1e0e126bb7caa27cb76c02255aa5fa6419,Hervé Boutemy,hboutemy@apache.org,Jun-19-2018
+e8e3a15ec4b62296a45c3480c1a1db9840b455fe,Hervé Boutemy,hboutemy@apache.org,Jun-18-2018
+5d193c71b66ceb039bd88fe9b6cdebb62a033499,Hervé Boutemy,hboutemy@apache.org,May-11-2018
+58ca2032638ef7d37eee3a941d50c2acc8641ae3,Hervé Boutemy,hboutemy@apache.org,May-1-2018
+f8ec19dec3382eec77630c7ce9d2bd84c89dbdb8,Hervé Boutemy,hboutemy@apache.org,Apr-23-2018
+05dafd2d28a8f9506a503a7d3f40d5bb57dd020f,Karl Heinz Marbaise,khmarbaise@apache.org,Apr-7-2018
+f7d9a007b9027cc6e2c614d5b9d338d87da4c2ea,Hervé Boutemy,hboutemy@apache.org,Mar-13-2018
+7edfd001a9f61c700be3cefee0276ffe81b6a427,Hervé Boutemy,hboutemy@apache.org,Feb-7-2018
+4686c008218981d612ab35349f66756118c2804d,Sylwester Lachiewicz,slachiewicz@gmail.com,Jan-14-2018
+c0f309e4f286932be5977ccee056f05a805bf54a,Hervé Boutemy,hboutemy@apache.org,Dec-29-2017
+c93aeeb86a5a35a1865f6eb9800f6f9c70cc3e2d,Hervé Boutemy,hboutemy@apache.org,Dec-21-2017
+3417feb5306bec10b9eb68fff226b3b07f720b82,Hervé Boutemy,hboutemy@apache.org,Dec-21-2017
+b54e0ef11de780d8d61b3b4de78f45caabec2e73,rfscholte,rfscholte@apache.org,Dec-9-2017
+f11f7207191c0fce66981d26eddfa70b0aebb40c,rfscholte,rfscholte@apache.org,Dec-9-2017
+8c196a938b6ff6f21469582332ac6255f260677f,rfscholte,rfscholte@apache.org,Dec-9-2017
+64f888b4b1b48efaeb6d9d2696512b3b735c470f,rfscholte,rfscholte@apache.org,Dec-9-2017
+3221d47e5048a6a2992d92feb602b108a3080574,rfscholte,rfscholte@apache.org,Dec-9-2017
+8d893ab4ae88973979de9622009caccf4e6abd62,rfscholte,rfscholte@apache.org,Dec-9-2017
+c8f108ca7ed037d42e59565c4e4c48ec5e4cf82c,rfscholte,rfscholte@apache.org,Dec-9-2017
+304c6f49e8ead22a7e3f77f4e6dbe3547c92b2e4,Sylwester Lachiewicz,slachiewicz@gmail.com,Nov-29-2017
+76513d04cd59145b5faba17218335c35c9582c2d,rfscholte,rfscholte@apache.org,Dec-3-2017
+ae31b84d575b6df8c0a4c9b786152820307f25be,Stephen Connolly,stephen.alan.connolly@gmail.com,Nov-27-2017
+51310df6d77267fd4c3fd94391ec3b57df4e2e12,Hervé Boutemy,hboutemy@apache.org,Nov-16-2017
+1e62dde86b1bcf0bbfec37e2a5f0b2e6d178bacb,Hervé Boutemy,hboutemy@apache.org,Nov-16-2017
+a983dcd5eb299b339875e03ea90f27de49dde4c8,Hervé Boutemy,hboutemy@apache.org,Nov-5-2017
+d739b5d766b14a7f8708554717e2e685ed2e7d88,Hervé Boutemy,hboutemy@apache.org,Oct-22-2017
+ed94b39dc034cf78728d2f5de4e7fc96c7d34c91,Herve Boutemy,hboutemy@apache.org,Sep-9-2017
+55e157d379434ce14007a31458a3fd14426703ea,Herve Boutemy,hboutemy@apache.org,Sep-9-2017
+fd030380b7d4c565a645880b474c6133ec9d8bd7,Herve Boutemy,hboutemy@apache.org,Sep-9-2017
+6edc9d305bb7f70352d3ca1fb8703cbf3e58a0f6,Michael Osipov,michaelo@apache.org,Jul-4-2017
+6780868e89f8bbe70789b0581f27cadcf03b26af,Herve Boutemy,hboutemy@apache.org,Mar-25-2017
+f7a752d27f3755ba8b4154346c208d71c6aaaa5f,Herve Boutemy,hboutemy@apache.org,Mar-25-2017
+c0636dc6de5a97ffd7bec6e74e06eb126a9a1302,Herve Boutemy,hboutemy@apache.org,Mar-25-2017
+12801e2e4183baa543d77fec26c2bd0dd88ef447,Michael Osipov,michaelo@apache.org,Feb-4-2017
+abf307c5a4b2d109d12293fd029e21506f434618,Michael Osipov,michaelo@apache.org,Jan-7-2017
+b97230d19f41262e120a932fa376c593de3cb5f3,Michael Osipov,michaelo@apache.org,Jan-7-2017
+e1e0c1f39490681e10be488f4308e42bed159951,Michael Osipov,michaelo@apache.org,Jan-7-2017
+61af1ed3d63137fe18a116614dc0b2c456c52d3e,Michael Osipov,michaelo@apache.org,Jan-7-2017
+1b6717ff3bda89001d21ed9c0071a038392a128e,Michael Osipov,michaelo@apache.org,Jan-7-2017
+2fe00a3bac1576351f1d10938e730863121df840,Michael Osipov,michaelo@apache.org,Jan-7-2017
+6d45d68d84018e2aff9a60707cd532f8f79b00be,Robert Scholte,rfscholte@apache.org,Dec-3-2016
+82ae7fcb241657e020fb9be3f79b9c25e7718422,Herve Boutemy,hboutemy@apache.org,Nov-6-2016
+4ac61f6e80a155983516422b287a23cdd03e2e6e,Robert Scholte,rfscholte@apache.org,May-22-2016
+0d98711b00323a5d77871aa2a40534435ed911ad,Robert Scholte,rfscholte@apache.org,May-22-2016
+b87ea256f9f4cfcc6db5051a56695414df317c22,Herve Boutemy,hboutemy@apache.org,Apr-10-2016
+a45650707906872291a12b0e05a411bd4d05b080,Herve Boutemy,hboutemy@apache.org,Mar-28-2016
+d736bb4a3993e794c426b83a0e54e87f4081a659,Herve Boutemy,hboutemy@apache.org,Mar-2-2016
+7fc1b74b3b405267374f0ec291800fdd523dacb6,Herve Boutemy,hboutemy@apache.org,Feb-9-2016
+31650b978cd04adceef741acfcfd9709359405c2,Michael Osipov,michaelo@apache.org,Feb-8-2016
+29bce36bbf7ba570eafdf0c9cde24c7ef9da110a,Herve Boutemy,hboutemy@apache.org,Feb-5-2016
+0cf53cf205af6d8fe9c2244459dafe67c5a9db35,Herve Boutemy,hboutemy@apache.org,Feb-5-2016
+fb4a5a55e6fe42cd87dd755c4778e45e855bb078,Herve Boutemy,hboutemy@apache.org,Feb-2-2016
+5070a12cd572525b6f449016425ff4cbb1b5cd16,Herve Boutemy,hboutemy@apache.org,Jan-27-2016
+dc67377f9b264489d87dc8bdc045bd848518b343,Herve Boutemy,hboutemy@apache.org,Jan-27-2016
+70642f0fd1dbc7d0fb7780d347b87e1fd9b2d1b0,Robert Scholte,rfscholte@apache.org,Jan-26-2016
+4073e276d8bc94c7e2db525ce7c88225dfbfef3b,Robert Scholte,rfscholte@apache.org,Jan-25-2016
+e5441c5eae58ba9190764269e750a14f88fa4a03,Robert Scholte,rfscholte@apache.org,Jan-24-2016
+c2e776a0c08a8d8daa1b685a688a4cf568ead8d4,Herve Boutemy,hboutemy@apache.org,Jan-24-2016
+442540f213f1a5efc6627601d517dd5d6fd4bae3,Herve Boutemy,hboutemy@apache.org,Jan-24-2016
+9d1e7db5513a3ca6089ebf2a81f94df7138ae667,Robert Scholte,rfscholte@apache.org,Jan-24-2016
+7698afc44c9eb0868cafbb588b4481ada9a68daf,Robert Scholte,rfscholte@apache.org,Jan-23-2016
+16836d8a2dfea74be3bf4c1b0f5e50f2949fbc65,Robert Scholte,rfscholte@apache.org,Jan-23-2016
+fbe3e7c307f664396ae57159c7d9d935695cc90a,Herve Boutemy,hboutemy@apache.org,Jan-23-2016
+cc0cf036a2e07e33f437c2ddf8bcffb09592648e,Herve Boutemy,hboutemy@apache.org,Jan-23-2016
+8be80c78dee7d48c6fdf1a7751ec738d7beff17e,Herve Boutemy,hboutemy@apache.org,Jan-23-2016
+f78ee85c81cc4d84e919079c92e645ad6cd678ae,Herve Boutemy,hboutemy@apache.org,Jan-23-2016
+4c1275e01c8b060a673d44725075e3ba2193a1d0,Michael Osipov,michaelo@apache.org,Jan-3-2016
+9b51f261e0543ec2bd61f9d2367712d218f41575,Michael Osipov,michaelo@apache.org,Jan-2-2016
+731d8122a38990f7645d091b2a2ee50c187c2b16,Michael Osipov,michaelo@apache.org,Jan-2-2016
+5d5490422da46c7886f6cfbbe8cbe8afaf541df6,Michael Osipov,michaelo@apache.org,Dec-29-2015
+9bf71b2ca652382612ca104ee8d9335935229041,Herve Boutemy,hboutemy@apache.org,Dec-20-2015
+54e9ea50ca9c7cc682e1bd6950e2e8746df0f53d,Herve Boutemy,hboutemy@apache.org,Dec-20-2015
+f22720eb8feb3d290b8c0f3eac432fe08745aa51,Herve Boutemy,hboutemy@apache.org,Dec-19-2015
+74d21b3ebc4c784f423fcac23c9c4b7ac8571471,Christian Schulte,schulte@apache.org,Dec-12-2015
+ef3a06d9c0c463294a1ed8b68624472c4a8b4be5,Christian Schulte,schulte@apache.org,Dec-12-2015
+94caf4c9e60f04b860ef8def9c77787e35739504,Christian Schulte,schulte@apache.org,Dec-12-2015
+2fd0c1ff12addd0d06a786a689b497e513a5a548,Christian Schulte,schulte@apache.org,Dec-11-2015
+33e66967cc08844306e343c0efa82e70c9dd81c0,Herve Boutemy,hboutemy@apache.org,Dec-9-2015
+1c2ba2d75e619e6beb2757f802e42c3c179f28f5,Herve Boutemy,hboutemy@apache.org,Nov-25-2015
+bcbf741d71d7ebde8bb74d6f17e3051556d7f1d0,Herve Boutemy,hboutemy@apache.org,Nov-25-2015
+297e1fcb49ebaee1c9f34668838a65f70eb4e7a6,Herve Boutemy,hboutemy@apache.org,Nov-22-2015
+ecbfddcddb9ca55fe67b7a87d5fdc68c099c6dc3,Herve Boutemy,hboutemy@apache.org,Nov-21-2015
+0ebbd853c7b27a679fd344b21bf6cb8635a4b869,Herve Boutemy,hboutemy@apache.org,Nov-21-2015
+4d693ca98d7ec8f4662b46d5800eb8be719425bc,Herve Boutemy,hboutemy@apache.org,Sep-26-2015
+6b2c909caff8bef0cfb94c1abb3a00ad0c764aa5,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+be27293044c88284b1d0927deff0c1f40a109bb3,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+1c46690d258690c2f9be79a93b075134aeaa6fe8,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+e826b0f15b99b41103e7a94711aec1415f943cf9,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+7088a75c458ca905daa0063e630b4007781a440e,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+9b8b5e69f29dcdefda6f6b9060cb38499feaa2e9,Herve Boutemy,hboutemy@apache.org,Sep-20-2015
+83aa93ef681cc4b26a10ea55a3f5d1336a37a7a0,Herve Boutemy,hboutemy@apache.org,Sep-12-2015
+a92bf350b3f1dcc5065ce859a2af25068c5f52ff,Herve Boutemy,hboutemy@apache.org,Aug-30-2015
+66dc4553b8bb74eb2fbf6d4e06cda8bbcb4df6a6,Karl Heinz Marbaise,khmarbaise@apache.org,Aug-24-2015
+693033578b94856f70d05cc48acae08632aebc7d,Herve Boutemy,hboutemy@apache.org,Apr-5-2015
+2ae66df0e4db9f4c9816e88a16fd5f9b4f308b92,Herve Boutemy,hboutemy@apache.org,Apr-4-2015
+7885d26fbcd524d4e759f8d3c133fc7d9533a7ba,Herve Boutemy,hboutemy@apache.org,Mar-31-2015
+a4b3c83a86f7d579565c989daaab962b59fe90a1,Herve Boutemy,hboutemy@apache.org,Mar-31-2015
+3a314850f2b486fd4f36d7cbcfb7d99b20dfab45,Herve Boutemy,hboutemy@apache.org,Mar-31-2015
+d9c9c91963f20479e36e42d9dd48325bf1bd4a62,Herve Boutemy,hboutemy@apache.org,Feb-14-2015
+cb434c89bcacc9c543680d3d187ff2b0072dde7a,Herve Boutemy,hboutemy@apache.org,Feb-14-2015
+06958333e843fdfd07e8240daf7a2455755cdd56,Herve Boutemy,hboutemy@apache.org,Oct-23-2014
+810005f867b4042dcb639923155b0f4edb0b9b75,Herve Boutemy,hboutemy@apache.org,Aug-30-2014
+caa6546b73002e2dfab470a109b5fbcf45bfdeb0,Herve Boutemy,hboutemy@apache.org,Jul-23-2014
+8181f81beb3f70e5eea4ed1c155d084bd6619b78,Herve Boutemy,hboutemy@apache.org,Jul-22-2014
+7724d32618090142af20c1d0d351b1f73bc04efb,Herve Boutemy,hboutemy@apache.org,Jul-21-2014
+d7a4c2613abad268c074e4a388590bea3ab0fa07,Herve Boutemy,hboutemy@apache.org,Jul-21-2014
+cd50963c53d3f862ce28e48c8ba19b51bebb0925,Herve Boutemy,hboutemy@apache.org,Jun-28-2014
+6d4d12459d2fd823062464786105f2124840dba9,Herve Boutemy,hboutemy@apache.org,Jun-28-2014
+34f57d513606237cf468c6caa3a113c690b5c920,Herve Boutemy,hboutemy@apache.org,Jun-27-2014
+2d68de78cb0bb511e27b2365b2818e2db5586a2e,Herve Boutemy,hboutemy@apache.org,Jun-27-2014
+091d2aba83bc599e31ada7b6a7e712f95ef4b884,Herve Boutemy,hboutemy@apache.org,Jun-21-2014
+cc4ab820ad9576d1b4f53d8803582cbd5083c650,Herve Boutemy,hboutemy@apache.org,Jun-21-2014
+427302011dc2ad24e8e672151a5b122c1cc34854,Herve Boutemy,hboutemy@apache.org,Jun-21-2014
+4c33641e2bc6e5a3106ac2be92f9fd74d2805d37,Herve Boutemy,hboutemy@apache.org,Jun-21-2014
+904d09d9ef5a05a8eaacc99bbd9b72d7551fb1fc,Herve Boutemy <hboutemy@apache.org = hboutemy = Herve Boutemy,boutemy@apache.org@apache.org,Apr-13-2014
+26126f15bbc55e64106d8b22cce3173eaa25169f,Herve Boutemy <hboutemy@apache.org = hboutemy = Herve Boutemy,boutemy@apache.org@apache.org,Apr-12-2014
+b89204048a40dfa42303034637289f57c12e5f3c,Stephen Connolly,stephenc@apache.org,Feb-27-2014
+b0a0d9e848319061b1572dfac1f49669a4347b28,Stephen Connolly,stephenc@apache.org,Feb-27-2014
+877b6a472d6d0b08b8aa0fb7ef7e0f1d1aa568fb,Stephen Connolly,stephenc@apache.org,Feb-27-2014
+4b223b04e30fb05a7be9a33c384b8b02941ce114,Robert Scholte,rfscholte@apache.org,Feb-2-2014
+e26b082757da898c42df29728cc10a842bc34e46,Robert Scholte,rfscholte@apache.org,Jan-24-2014
+8f83687be07b2505d39e1009893381ff9d24da9b,Herve Boutemy,hboutemy@apache.org,Nov-27-2013
+2dc6082a7a47dfd0e3f5351632ca22fafedfb6e8,Michael Osipov,michaelo@apache.org,Nov-21-2013
+904f73192db9bfc244e3fac4543371a9b8751411,Stephen Connolly,stephenc@apache.org,Nov-21-2013
+31e8f388601b81cfb8f80c5099f8070b33f31bdb,Herve Boutemy,hboutemy@apache.org,Nov-19-2013
+5eaae6b6e3f7bf0caa18ad84f92da1309a616abc,Michael Osipov,michaelo@apache.org,Nov-19-2013
+3ce22222426163e5edaede85f3fde4e330ff857f,Herve Boutemy,hboutemy@apache.org,Nov-17-2013
+f6f0a6a436e97cf825f4150941d142be1ddf87e3,Herve Boutemy,hboutemy@apache.org,Nov-17-2013
+700a1b28e0bc757f4914d741d927b083a7d801c7,Stephen Connolly,stephenc@apache.org,Nov-14-2013
+307d1ba2804ad74cca317c275d7baf83e3257270,Stephen Connolly,stephenc@apache.org,Nov-14-2013
+f5e187d144236bbd7477b5e83b35559c26aa8887,Herve Boutemy,hboutemy@apache.org,Nov-14-2013
+677bc4f76e7b5c8fba97d9316b4df36e7b615a5c,Stephen Connolly,stephenc@apache.org,Nov-14-2013
+72f16ee64f4788e47d007a5492c4afd67ce2ad87,Herve Boutemy,hboutemy@apache.org,Nov-13-2013
+f2efecf9365817b48f6a7eb9f932311213f27e13,Stephen Connolly,stephenc@apache.org,Nov-13-2013
+d5295fe5d9060b8835573330102aeb7c3850e1dd,Stephen Connolly,stephenc@apache.org,Nov-13-2013
+9c8ad16277701280d0fa52877bee7f61da863148,Stephen Connolly,stephenc@apache.org,Nov-13-2013
+791eb92e0e162253d3e2bc3ae3e4d53dd9c39d87,Stephen Connolly,stephenc@apache.org,Nov-13-2013
+4c433bdbc75c1af78735bf2d2a804cc732a4abb8,Stephen Connolly,stephenc@apache.org,Nov-13-2013
+35e482beb9d803066c2b1f288f6d814558514539,Stephen Connolly,stephenc@apache.org,Nov-12-2013
+b4db89de14ba27f61467bf062047755dd2b4f0d5,Stephen Connolly,stephenc@apache.org,Nov-6-2013
+f6daafcf2e1e69c4a0c3907bb78d23b3389e6373,Herve Boutemy,hboutemy@apache.org,Oct-21-2013
+5ab74c57fc63875f5ef0907dfedffcd1b9619d82,Herve Boutemy,hboutemy@apache.org,Oct-21-2013
+b19ee1fda892693ac21947222d573c7abecf08f1,Kristian Rosenvold,krosenvold@apache.org,Oct-10-2013
+9c64d60aa1bc7286e06bb35935e12cdcb1c573da,Robert Scholte,rfscholte@apache.org,Aug-3-2013
+b2e5c8320037f545ff48a0bb93b586e184fcb04a,Dennis Lundberg,dennisl@apache.org,Jul-30-2013
+a8bd502e5bf7cab77cf44444646cea66c7931c14,Herve Boutemy,hboutemy@apache.org,Jun-9-2013
+43bf26e25a309401ff615ed05be1289f9c8eb23e,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+5cad0fb4c8a93822ab187d6f44414d791d4d5c0f,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+e35605cc72faebc1ced7e7c439e0f83a235b96da,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+90a53c2b3fcf7da88bc2bc67f18dcae7091a3a6c,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+65a5f9d1c78a430a12b1ef05fc5ded3aed66e9fd,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+d0eb50bb923e8640345c4f3b7910ec054eb5b3a3,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+d5941a2d4256ff20621fad00146c5d16b5e7a136,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+4127858558680d8cebb946319858ee6e0c880efb,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+8c607b810251bff24257a66dbe2e0fdf5185a9a0,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+36ffa7b2937db8b41bd3e6451ddd51de107b01be,Herve Boutemy,hboutemy@apache.org,Apr-23-2013
+1d257adea58fb075879f5414742436436e90da22,Herve Boutemy,hboutemy@apache.org,Apr-14-2013
+1fe48faec0d4bd8b09a1a5031faaf7a0b88e340b,Robert Scholte,rfscholte@apache.org,Apr-12-2013
+517f20387d5320b9d4fc2125b287c93cd92cea60,Robert Scholte,rfscholte@apache.org,Apr-11-2013
+3b41283044e9064c80b4f18f491c16ad7d50c497,Robert Scholte,rfscholte@apache.org,Apr-11-2013
+09362ffc6d5520c37d6825372f757a2dab284b04,Robert Scholte,rfscholte@apache.org,Apr-10-2013
+4572c8b430b7f3303ffab6ada70bfea8235824bf,Robert Scholte,rfscholte@apache.org,Apr-10-2013
+a0ab39a0dd2c3fac9ceb2a5842f4b12161e0adad,Kristian Rosenvold,krosenvold@apache.org,Apr-8-2013
+f1b9c184bc1fc0267828926b8367c01b9c0e35df,Herve Boutemy,hboutemy@apache.org,Apr-7-2013
+0ba7aa3a1898733d6c153bdb6671bee20bbd5bd3,Herve Boutemy,hboutemy@apache.org,Apr-7-2013
+df4347c7852b9c9710ab867f5eeae6f2a4158b6f,Robert Scholte,rfscholte@apache.org,Apr-7-2013
+ce972ad5681bdfd28a963696eaeef11470756c8f,Herve Boutemy,hboutemy@apache.org,Apr-7-2013
+0d01889ba111ab53da1783855a1f733cf1a5c64b,Robert Scholte,rfscholte@apache.org,Apr-7-2013
+a7b02afb6aaf03948618dd9a22c571b3b707dd1d,Herve Boutemy,hboutemy@apache.org,Apr-7-2013
+7ca939d3d8ce126ad62942b7fa0470ea8f521a08,Robert Scholte,rfscholte@apache.org,Apr-6-2013
+7f487885ff34f107fe858e7ecd3c4ac8eb5b0dc2,Robert Scholte,rfscholte@apache.org,Apr-6-2013
+6eb40ea14a105b44caf719dc2d3ed72fa8ec1b11,Robert Scholte,rfscholte@apache.org,Apr-6-2013
+f79cf0537b2fae3df09a2c2d00d9bd92be1aff89,Robert Scholte,rfscholte@apache.org,Apr-6-2013
+9f390afa872679939b23cbd9d8a92091650cfee1,Robert Scholte,rfscholte@apache.org,Apr-6-2013
+6fedde1a798958cc2dedfaadd1b7eec99ed3c685,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+8d16b2adc2ed02936cd1dd93a8d6a43956679a9e,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+c22e80b326790b95f1b5ab2cab36675cc4d96555,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+9f98a12ee8c1fbd22fbd4e2de3a662f5a7b51955,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+a27f7b643e104101e160d22a73300e5bd8e84a00,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+4ba4fdd38fd80df2e604a869c7145cc4377c8451,Robert Scholte,rfscholte@apache.org,Apr-1-2013
+6d4fd2cc3b52640bbde142c12a1443d6580e03c8,Robert Scholte,rfscholte@apache.org,Mar-31-2013
+bfa806fb73feb57b03084d79690a1e9210c4cb08,Robert Scholte,rfscholte@apache.org,Mar-31-2013
+9d9cadcac9b8ab9350b98b0e6f93fc20f7353fdb,Robert Scholte,rfscholte@apache.org,Mar-31-2013
+007c701347ab1e66ddfe6773d0137600f8ee8930,Robert Scholte,rfscholte@apache.org,Mar-31-2013
+e3046281e02ebf252dfbb8e2bb6911adfde4a348,Herve Boutemy,hboutemy@apache.org,Mar-31-2013
+45d7dde934ebbd71c1eb8450f382647e2c078092,Herve Boutemy,hboutemy@apache.org,Mar-31-2013
+a47e42e16828c0381d0b222b674a536179206579,Robert Scholte,rfscholte@apache.org,Mar-30-2013
+a213e5d2a7d5e08fedecfa72592ad9ff3494f8fb,Robert Scholte,rfscholte@apache.org,Mar-30-2013
+b7c0c112d07d5405b674829d75759d3d0d0df986,Robert Scholte,rfscholte@apache.org,Mar-30-2013
+540a0140f4ad9e91cb022874472b5a21f3135fbd,Robert Scholte,rfscholte@apache.org,Mar-30-2013
+5240a29c1f30d01240b251f4660cf62e0698fbc1,Robert Scholte,rfscholte@apache.org,Mar-29-2013
+f765792a33ea9c4461498068e6427771175d6664,Robert Scholte,rfscholte@apache.org,Mar-29-2013
+e84ac63f97d73cd5be75cbcfdd88e0fff68f9fd6,Herve Boutemy,hboutemy@apache.org,Mar-27-2013
+5f588b9730bdbb7e4cfd47f79789b53f77246d1b,Olivier Lamy,olamy@apache.org,Mar-27-2013
+6c88311d2369a1a76dd251a998e0b37f2414136e,Olivier Lamy,olamy@apache.org,Mar-27-2013
+c04fb6e3825ebc016692b49ab84465f06f17f041,Olivier Lamy,olamy@apache.org,Mar-27-2013
+aa9ca2178142cb4d0eba8b1a45f07937d07f5004,Olivier Lamy,olamy@apache.org,Feb-21-2013
+c1332823b137b38c271cb62eb0e538490960ecc0,Olivier Lamy,olamy@apache.org,Feb-21-2013
+daa157b8ec6e739b4826942f2e780a07387d92c6,Robert Scholte,rfscholte@apache.org,Jan-27-2013
+a61df7de5b3482bcfd521f6b8f1918ee2ab477c5,Olivier Lamy,olamy@apache.org,Jan-24-2013
+805c74829a6f9114653a8477dec1b706952d4fc6,Olivier Lamy,olamy@apache.org,Jan-24-2013
+40899fb1d21408d3aefdae3867d939aa72a29373,Olivier Lamy,olamy@apache.org,Jan-24-2013
+c17d331427695265f7c5bceccbc7e59695d003a5,Olivier Lamy,olamy@apache.org,Jan-24-2013
+69bf957e6fd0a0a2749399c9500f499370b0e5f4,Olivier Lamy,olamy@apache.org,Jan-21-2013
+46a5eab468b3ed15874b7eb1f436c10480985d8f,Herve Boutemy,hboutemy@apache.org,Nov-28-2012
+24616c9cb47048c272862da0bf9f526985dd7525,Herve Boutemy,hboutemy@apache.org,Nov-18-2012
+28a144a20d1c75ecc143b4b5140c8c7b4608db0f,Herve Boutemy,hboutemy@apache.org,Nov-18-2012
+59e7ae07e8f82cfffb2e04a013687d5752f51f9b,Herve Boutemy,hboutemy@apache.org,Nov-18-2012
+474d1b6297f5c32260dd0798b1f28cf979e35f39,Herve Boutemy,hboutemy@apache.org,Nov-11-2012
+c49543895672a31e0bb5d3d6d2a2b019f5f15901,Olivier Lamy,olamy@apache.org,Sep-10-2012
+33e51b196fa9470478e5b4cecf65ea196b158485,Herve Boutemy,hboutemy@apache.org,Aug-26-2012
+36a03c98d321ebc13e4379d894b8714a94af3e6b,Olivier Lamy,olamy@apache.org,Aug-24-2012
+084eafd1ccbf78f657aa8d37765ae307a0431d4a,Herve Boutemy,hboutemy@apache.org,Jun-3-2012
+4f9f04e83f11026b0845076db8982ae14a850d0b,Herve Boutemy,hboutemy@apache.org,Jun-2-2012
+305f514ce14e03c441aeabe4901d808795032745,Herve Boutemy,hboutemy@apache.org,Jun-2-2012
+62e1bafa4d9bc125e389bde971022b4899aeb126,Herve Boutemy,hboutemy@apache.org,Jun-2-2012
+4c288f7c061152e31d14d9c92b82520eca24dee3,Herve Boutemy,hboutemy@apache.org,Jun-2-2012
+25a01a361c428752fc02d563b1c9e22b8a5ae0cf,Herve Boutemy,hboutemy@apache.org,Jun-2-2012
+af1d79fcfafc8868c70d076dcee887abcf0d225e,Herve Boutemy,hboutemy@apache.org,Apr-11-2012
+71e1ef2e86e9b23e616f8f0ff7be4a7d3aa68169,Dennis Lundberg,dennisl@apache.org,Apr-10-2012
+6890100249d5168b3128e4e44ca5909e6b317e7b,Dennis Lundberg,dennisl@apache.org,Apr-10-2012
+49771f89f6c57acd42b1baca2cf88b2b015fc6fb,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+497e7b6060939d0d6af24d17cca129506ce99507,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+8a8741fe6eb74ff44cec6202c613b681964cda15,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+ec1b50709877efd533f60196d4cb271f6331597e,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+a66ed065f2a37b740d63fbe2d3c489e714a5955f,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+02f233264d4cd1d6cd6a6b4d6ab87c771cc8235e,Dennis Lundberg,dennisl@apache.org,Apr-9-2012
+395278424dc1c1e0118286b60da736ec104fadf9,Herve Boutemy,hboutemy@apache.org,Mar-31-2012
+95688e77201c58ab8a244ffc8c2b20b8e41268f7,Dennis Lundberg,dennisl@apache.org,Mar-31-2012
+27179377b22ae1bdd4e1497b7ad2206acd6ee512,Dennis Lundberg,dennisl@apache.org,Mar-31-2012
+554c311b1acec1231abbd247e9dc13289becec26,Herve Boutemy,hboutemy@apache.org,Mar-29-2012
+c3df43760b8a512e3ea4d975eb804b7fdcdcc6db,Lukas Theussl,ltheussl@apache.org,Mar-23-2012
+8b5ff9c7247ebd01328b6f1f6831bea3c146b9b4,Herve Boutemy,hboutemy@apache.org,Feb-29-2012
+d3cc3af50a34a08481229a0813a9feb3dba1cbb3,Herve Boutemy,hboutemy@apache.org,Feb-29-2012
+58c5118538abbf646ad20527ad21d3ccc977aef9,Dennis Lundberg,dennisl@apache.org,Feb-25-2012
+a52a8ff7dceaacfc5a2a5ba5690eb64119d221df,Dennis Lundberg,dennisl@apache.org,Feb-25-2012
+1168e10d4b620d5acce8167e3e361d187d6595a7,Dennis Lundberg,dennisl@apache.org,Feb-25-2012
+619402f391c1261943e4f88c037f58268275c024,Dennis Lundberg,dennisl@apache.org,Feb-25-2012
+7cdfcd644b711a4146a9bd4c31cd1802ff42c670,Dennis Lundberg,dennisl@apache.org,Feb-25-2012
+78f6f1147aa45c74abae87467a40ecb82f709514,Herve Boutemy,hboutemy@apache.org,Jan-14-2012
+836edc36082c023f0e5a3d359f654ad0b7eb6ced,Robert Scholte,rfscholte@apache.org,Jan-7-2012
+f4398deee926eca79f41c8ca4134da4c5eeed4c0,Herve Boutemy,hboutemy@apache.org,Nov-1-2011
+ca3cd1906d5494fc46fcd0d0b685464830fa7588,Lukas Theussl,ltheussl@apache.org,Oct-18-2011
+ba16d83fd03a64f2a3776a99458277a08286734b,Lukas Theussl,ltheussl@apache.org,Oct-18-2011
+9ead59e338118f15af19898f36c08c3b28608f6b,Lukas Theussl,ltheussl@apache.org,Oct-17-2011
+ef7d5f50cab4820523ceed38bb8eeb34731d92f1,Lukas Theussl,ltheussl@apache.org,Oct-17-2011
+f38ea9e9ebe115cff71b5c7ca92ec5ac0c2c5e69,Lukas Theussl,ltheussl@apache.org,Oct-12-2011
+86a2adfb12f657043a9e49ffef1b50d1e23e7567,Herve Boutemy,hboutemy@apache.org,Sep-18-2011
+cb37b659ab58ed47920304d9c8e3e5f1128e6270,Lukas Theussl,ltheussl@apache.org,Sep-16-2011
+54cc8dd802afd64ed3f6c57b912345b60529c1e8,Benson Margulies,bimargulies@apache.org,Sep-13-2011
+3c145929ff3447a1f0019e9e51c066e3f2565525,Herve Boutemy,hboutemy@apache.org,Sep-11-2011
+0aef47474c0a29f6bcca0576d042cd4b143b4c3d,Herve Boutemy,hboutemy@apache.org,Sep-11-2011
+07a2532824220d467f85b7ade6d392830452d626,Herve Boutemy,hboutemy@apache.org,Sep-11-2011
+d0ecbc0cf436735bc64b33daac54fc1c9fd9a002,Herve Boutemy,hboutemy@apache.org,Aug-28-2011
+d92107df8be07b41b64de74ae860cd9ed0521ae8,Herve Boutemy,hboutemy@apache.org,Aug-3-2011
+b557c2b4ef78fad4f9ff81d68f470365e20e6d5c,Lukas Theussl,ltheussl@apache.org,Jul-26-2011
+b8041fc111881f86d435fd8d48c999579e58691c,Lukas Theussl,ltheussl@apache.org,Jul-7-2011
+a6c2696e4a74d5daa9380ce2cc39c3377e0a0556,Lukas Theussl,ltheussl@apache.org,Jun-21-2011
+eae41c5e8c0db4a72364152952ff019560d10e5d,Lukas Theussl,ltheussl@apache.org,Jun-3-2011
+b0a33628a2cad73bfbbccbd22bfd646753bad8a2,Lukas Theussl,ltheussl@apache.org,May-30-2011
+467676525ce69cea9df381fc0eaac939353eeee5,Lukas Theussl,ltheussl@apache.org,May-30-2011
+2d718ec7d68f23c86ace32142eeb07edda2bf2db,Lukas Theussl,ltheussl@apache.org,May-28-2011
+f55c5770fd25af347f2e538ead62260477afcfe5,Lukas Theussl,ltheussl@apache.org,May-28-2011
+704680c5fe5f0c0b9bf3bbe5e431f41faa56766c,Lukas Theussl,ltheussl@apache.org,May-20-2011
+bdacf7c41410397753c7a3e1d8ab2144890f83d4,Lukas Theussl,ltheussl@apache.org,May-20-2011
+7a34760767c18687a0ed9fb51e956f0df8da094b,Lukas Theussl,ltheussl@apache.org,May-20-2011
+ab00f48517b08aa5c85266cf4dae397ec7232ac2,Herve Boutemy,hboutemy@apache.org,Apr-30-2011
+eb293d7772158506a0123ae69ab21227ca0ac8a8,Dennis Lundberg,dennisl@apache.org,Apr-26-2011
+841854bf0f40c116ebaa1497c7bce53b40c2e14e,Dennis Lundberg,dennisl@apache.org,Apr-26-2011
+135d2034b57c73b40ea88c4fc9e178374d52ef9e,Dennis Lundberg,dennisl@apache.org,Apr-26-2011
+b9eaa5fc104280285177f89909091e2f5851a38b,Dennis Lundberg,dennisl@apache.org,Apr-26-2011
+f9a7a405bd565a83b7f2ab6c49973a39caeaa49d,Lukas Theussl,ltheussl@apache.org,Apr-23-2011
+61cd241b09feb6966c1d219c6a02d1140b23d6ca,Lukas Theussl,ltheussl@apache.org,Apr-19-2011
+58ba3916a6294ba73458e25be1b6bd8b9e13af2c,Lukas Theussl,ltheussl@apache.org,Apr-12-2011
+bb6a1713ec2ccc989459a253f886103259d83f03,Lukas Theussl,ltheussl@apache.org,Apr-11-2011
+95c049834fdafce69860c1ed3aada7f4e28ce86f,Lukas Theussl,ltheussl@apache.org,Apr-11-2011
+dfaf7a369a364470bc52e0104206bdf10934b05a,Lukas Theussl,ltheussl@apache.org,Apr-11-2011
+8fa9cac61e9aa5061cdef9ddd67a8e2e09fc90a9,Herve Boutemy,hboutemy@apache.org,Apr-9-2011
+70d9cb254ff8de1dc1725b648ec8af0fa0f964c4,Lukas Theussl,ltheussl@apache.org,Apr-8-2011
+a6a14acbe0db6714f7d226f1cf08c72f1cd316fa,Lukas Theussl,ltheussl@apache.org,Apr-7-2011
+4ceb77c4781919ce052f7df333497940a313a682,Lukas Theussl,ltheussl@apache.org,Apr-5-2011
+d0ad520c90ca64ee55b597af49560a4cf57def30,Lukas Theussl,ltheussl@apache.org,Apr-5-2011
+0ede2df160bff6b4629ce62fb875bd66ae1d3d0f,Lukas Theussl,ltheussl@apache.org,Mar-24-2011
+facd07f7012cda913c8120a4f816c1e3f5352a7f,Lukas Theussl,ltheussl@apache.org,Mar-3-2011
+68a2c05f709046f61b47e846fae138145b336093,Lukas Theussl,ltheussl@apache.org,Mar-3-2011
+a80e7c28a5c3678745032ae80c355a78fbfbd1cd,Herve Boutemy,hboutemy@apache.org,Feb-26-2011
+76c1aadb05c832b3a62366c20d18b9374a880d77,Lukas Theussl,ltheussl@apache.org,Feb-24-2011
+610f947e552b9305ae60f71d0264dd000e8182cc,Herve Boutemy,hboutemy@apache.org,Feb-19-2011
+c53b03a5e1bc0c8d8540bc5464bb26141307c506,Lukas Theussl,ltheussl@apache.org,Feb-15-2011
+b22cb27dc3b5b9c18160b2897b795481ea8cf053,Herve Boutemy,hboutemy@apache.org,Feb-13-2011
+8e25baa6472043e38d4d59e59582dbc7ebc1273c,Herve Boutemy,hboutemy@apache.org,Feb-13-2011
+01840a1bce4ab3d63e03e8f0c87c1fbf4c886a19,Herve Boutemy,hboutemy@apache.org,Feb-13-2011
+4065fbd403412c9550483bebf7355eb1a12816a2,Lukas Theussl,ltheussl@apache.org,Feb-10-2011
+dfe5f65e7d2455031cdc427aacc70b7b6b6d0ac5,Lukas Theussl,ltheussl@apache.org,Jan-26-2011
+1ceec1680e1a73d58cbae1ace8c045d0e7a86673,Lukas Theussl,ltheussl@apache.org,Jan-26-2011
+81b38201eaa8b4bc0c327e83ca6b90b053977438,Lukas Theussl,ltheussl@apache.org,Jan-21-2011
+ff147af7f3316ecff27833906bdaafba204e8f7f,Lukas Theussl,ltheussl@apache.org,Jan-21-2011
+afb4f7ff9ce39d22b82901267775db102436d9b9,Lukas Theussl,ltheussl@apache.org,Jan-21-2011
+2a67a32a30b2b3a21a727d6ce698e4d62b779430,Lukas Theussl,ltheussl@apache.org,Jan-21-2011
+e2f0af32f873627f467277ce692bad336537770d,Brett Porter,brett@apache.org,Jan-19-2011
+86ba8577b2871456611beeff44bade21641ed768,Brett Porter,brett@apache.org,Jan-19-2011
+3f0bd34cc4d55e11dcec51d8ec80cec8f10e19f7,Brett Porter,brett@apache.org,Jan-19-2011
+853ca2c0de64cf312be0f02b2b130077078cc602,Brett Porter,brett@apache.org,Jan-19-2011
+c70e76614c5568d754c35caaabd23b1d8ab20b7e,Vincent Siveton,vsiveton@apache.org,Jan-18-2011
+cbcba9c6c99d650687164651713415b4d21daebb,Lukas Theussl,ltheussl@apache.org,Jan-13-2011
+5323799414bbd44da8e1822fcf6370b5a174b567,Brett Porter,brett@apache.org,Jan-12-2011
+f510bcaecf55b889cd6962580b5a24a99078dff1,Lukas Theussl,ltheussl@apache.org,Jan-1-2011
+472b800d014ac529264dd67696949274631bedde,Lukas Theussl,ltheussl@apache.org,Jan-1-2011
+ccb4c8b9bbf0bae496d722fc48fcb4de7144e1dc,Lukas Theussl,ltheussl@apache.org,Jan-1-2011
+81d4499e19105c727e1155d164a383717d73bd84,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+50a16b5a5966d8f1195aa5e5cd3ece6944e82929,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+127e8539fa916401d929abc577ed4bc63ef03628,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+e24cc4092d3d909a563266b783a8b8a2d7c9bdad,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+75c6b52cdae4e1d3284bf653a2fc2d75518ed042,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+95fb82c653f3a18b4e4ccb47c1b612261d15c70b,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+171b07d965b0ff0aa6fcc8fa7c1e23a99f0debbe,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+b15bc2c792fcc197c520ad41d0d01bc8e78a1e61,Dennis Lundberg,dennisl@apache.org,Nov-16-2010
+39b3807417bc2938cbc22b145898ea3f3d4014fd,Dennis Lundberg,dennisl@apache.org,Nov-15-2010
+0793a804b81a02bccd02acd73dacffdadd598641,Dennis Lundberg,dennisl@apache.org,Nov-13-2010
+6ca3c077da71cfc430223f64b3bba687967089eb,Dennis Lundberg,dennisl@apache.org,Nov-13-2010
+084d9172a928162a7f664613dd06621021170928,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+d8c575041b3d5c54cf439068a14691f830a2cd49,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+c7868129ed2a6099380e94fc54eb3075dad9cdc9,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+08fbc85b8b448f164f3cc6cd709fcd9c33632629,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+99692d714f43a6fd22dfad2c191ea25df9c51e62,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+636de9cb80428d7fcf74d76dae52912b49282ca5,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+2e8fb30d2fee72b492ee3136b010aee1c64693f1,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+245c229828547757715d49d4d05a7499f0cd5554,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+12f289147184d6d5f90fbd04b8db712b81622388,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+b03e8de90073ce4940f7a9264a8eba6a388d7132,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+d9dd74ba5db238576e43ab5d7b4cde3566df0116,Dennis Lundberg,dennisl@apache.org,Nov-10-2010
+68dbf98d0dc6e30e15abd6fd8b3529b768dbc5fd,Dennis Lundberg,dennisl@apache.org,Oct-8-2010
+6b0a181145c7fa5e8b2c1c3bd794250e6185fc7c,Lukas Theussl,ltheussl@apache.org,Oct-1-2010
+76e91ee98e91734e5955433d97ba887d8fca80f9,Lukas Theussl,ltheussl@apache.org,Oct-1-2010
+541258c82675c7b6b75310179d3443cc4afd8e6d,Lukas Theussl,ltheussl@apache.org,Sep-30-2010
+66e36db2212ad2e6b2d2e3fc85a033aee812df2c,Lukas Theussl,ltheussl@apache.org,Sep-30-2010
+7b9832683775fb8c00fac0ab26b859b88efe2207,Dennis Lundberg,dennisl@apache.org,Sep-14-2010
+e63e6383323c889e47c4420d4745604466f81901,Dennis Lundberg,dennisl@apache.org,Aug-15-2010
+1ad50225beaf03dce9d825bc3a8868bdee83d5de,Dennis Lundberg,dennisl@apache.org,Jun-2-2010
+965a99164a87fe4d6f14f20cca3c72243db1a481,Herve Boutemy,hboutemy@apache.org,May-31-2010
+13a4a7ff18e7afcb566f0a559a565585c893ac5b,Herve Boutemy,hboutemy@apache.org,May-31-2010
+1ac3b666fd17fdea114d07503a3c5411e89aa44b,Dennis Lundberg,dennisl@apache.org,May-24-2010
+b489180962ad6d4eba05d828e35800a4938c726b,Dennis Lundberg,dennisl@apache.org,May-24-2010
+f1ab0565bcffc2cefec3714c0e48b3300197d172,Dennis Lundberg,dennisl@apache.org,May-24-2010
+25e3f176d90787e39ae25ac53e0f1f00bd6e0ffd,Lukas Theussl,ltheussl@apache.org,May-22-2010
+fcf50ef8b1615b4c4daed5d854cfcf414c357269,Lukas Theussl,ltheussl@apache.org,May-22-2010
+91fee47f6d3d02403428e25f9ee0df5ee1d759ba,Lukas Theussl,ltheussl@apache.org,May-21-2010
+063318a78ed9a09971b68263cb93dff21b17fbde,Lukas Theussl,ltheussl@apache.org,May-21-2010
+c13dac1e1ec45f81b0172ae408a3532bec29634b,Lukas Theussl,ltheussl@apache.org,May-21-2010
+0b4be5c1ff347276dd26cd25b0452507a2f55992,Olivier Lamy,olamy@apache.org,May-14-2010
+666f393ff63b6e82a9ae9cbdb6118ed189b46857,Olivier Lamy,olamy@apache.org,May-14-2010
+74884df90f2ace04216313579313229c68a7293d,Lukas Theussl,ltheussl@apache.org,May-12-2010
+67e8bd191aff1a7a29ee4b0ae2fcc0de0a9f3037,Lukas Theussl,ltheussl@apache.org,May-12-2010
+a7138ac8fc0f68a748fd7a7a0a3df808db9a82fb,Lukas Theussl,ltheussl@apache.org,May-12-2010
+695022c60a095d301b69ca855eaf18f37a85462c,Lukas Theussl,ltheussl@apache.org,May-12-2010
+7e67d47d35199dfd49615c679d23396bb96933aa,Dennis Lundberg,dennisl@apache.org,May-9-2010
+3d0d542546d726b1f1b1b0c62b2fc156aee442d0,Herve Boutemy,hboutemy@apache.org,May-8-2010
+6ca524aa2b05272a258a4a2b2d4bfc0b7ed63af0,Herve Boutemy,hboutemy@apache.org,May-8-2010
+0e6850fc0e9ecf678809d7fbb6f4c4001089d580,Lukas Theussl,ltheussl@apache.org,May-7-2010
+4987b58ddd7cd963a10e6d9e4b6b0abc5ceeb4c8,Lukas Theussl,ltheussl@apache.org,May-4-2010
+d4f7b0fd3fac8350697ad691790b959d252938b9,Lukas Theussl,ltheussl@apache.org,Apr-28-2010
+b0bba331f6ce1da07a9367824828bffd416ce859,Lukas Theussl,ltheussl@apache.org,Mar-23-2010
+b453a4aa823684e37eff0271faef998e0ded9223,Lukas Theussl,ltheussl@apache.org,Mar-22-2010
+2353bd1464838f7cefade85bf6b47ff8f74028ac,Herve Boutemy,hboutemy@apache.org,Jan-31-2010
+b888cfa93e449bd9f68086ea93c0228e9ab80597,Herve Boutemy,hboutemy@apache.org,Jan-31-2010
+5388a52ec00b9f2d9865d1c95e805de7bbbc9fea,Herve Boutemy,hboutemy@apache.org,Jan-31-2010
+600e656ba62d387ed69fd6c7943cb6ce6a9ec5ab,Lukas Theussl,ltheussl@apache.org,Dec-20-2009
+cd426810ae880b81759fb45adff9d4c6f74dee57,Vincent Siveton,vsiveton@apache.org,Nov-30-2009
+7ddd59531aef87ac4c3f16f2f55d1e5a5bf6f716,Vincent Siveton,vsiveton@apache.org,Nov-30-2009
+3efc34e9673206e1dcdd0ecd642d5a9ce00b1acf,Vincent Siveton,vsiveton@apache.org,Nov-30-2009
+723e560d0229f76f14a63d6b1b263d3b5ba48529,Olivier Lamy,olamy@apache.org,Nov-17-2009
+2105e00cd2fc8d5907808bdbe99c00756a212eae,Lukas Theussl,ltheussl@apache.org,Sep-8-2009
+6f5b42544992325169aa48988251d5298d4310fa,Lukas Theussl,ltheussl@apache.org,Sep-7-2009
+912ee2ad5b29da38ef91a11bf9e4cb9201d95183,Vincent Siveton,vsiveton@apache.org,Sep-6-2009
+a032fdbf5581f58a5cbf0f5b4088638406bd3975,Vincent Siveton,vsiveton@apache.org,Sep-5-2009
+d90d5b707ab39b6fc702d5e7e2bb67829b2d3875,Vincent Siveton,vsiveton@apache.org,Sep-5-2009
+26aacd76489b5325a701d20ecfbe225a74df4c15,Vincent Siveton,vsiveton@apache.org,Sep-5-2009
+144b0748bb38c8a89d3bd9828d2bd87de05e1b23,Vincent Siveton,vsiveton@apache.org,Sep-2-2009
+b144955059158de63b4368cbf5b8ae1f4746b7fd,Vincent Siveton,vsiveton@apache.org,Sep-1-2009
+64bb1539a497ad2fd5dab23c204ba2908d51ce85,Vincent Siveton,vsiveton@apache.org,Aug-31-2009
+41f59dabf5bf7c9218a1652c8ed8ace4f76a2838,Vincent Siveton,vsiveton@apache.org,Aug-31-2009
+c30b03e00fce695a0d307ba2aba098cf362f2337,Vincent Siveton,vsiveton@apache.org,Aug-30-2009
+369b6c76f32ca3bfb31e0341d25fae200e0f8473,Vincent Siveton,vsiveton@apache.org,Aug-27-2009
+dcfa420100002d32acf471f266edef2614009bf4,Vincent Siveton,vsiveton@apache.org,Aug-26-2009
+9ec153e26e028887c8f06a53c43b155f85a89459,Vincent Siveton,vsiveton@apache.org,Aug-26-2009
+6d86b6f329de593d92c5e1487dc3d4e72f100af3,Vincent Siveton,vsiveton@apache.org,Aug-25-2009
+fd57828d02cdf06911c55350495b128b5d6d5fff,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+e199babb670667351f38b9d6dd9f471de579aec3,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+00812239fc151daa8f1c0b062f403467aeca43e2,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+753716db9f558085c65811f059e7c5a9ae42e690,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+395c586ecf48579a2cce43e7c974a62f41b7843c,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+5862118c9b10d145deb00f906138c91e0a266a16,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+98628ad660a08f65b5a86493f300a4b532ed3719,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+d94e63c2d9a0935ea2c13f4dd4c42a78140a517b,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+9d9d6629d9dad39a63cc44a59de1773513750bbe,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+b0522d501c182f0a1f4b015942d0e6b3e89f3b40,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+13173502c015e255468d5da120e3a89a3ad16a69,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+d322f44779d7d4996402703be803e8ed5da4fed7,Vincent Siveton,vsiveton@apache.org,Aug-24-2009
+3963181dee8f9890ab0cc0e72859d530a8e365aa,Lukas Theussl,ltheussl@apache.org,Aug-24-2009
+8a23bc670ce4543986d10464a739f69c4ffc7cd8,Vincent Siveton,vsiveton@apache.org,Aug-23-2009
+4ee07ec557c55d178a1191518da749406fcd326a,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+8b1aabc2a87517bdcab7c111bd495e6c074117df,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+83dba2a30c28bafd680f348b4aefcab428835f7b,Lukas Theussl,ltheussl@apache.org,Aug-21-2009
+3899c182618d4d4ab0342ebd7b2ff00365577fab,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+84d836f5dd000a4c734ce5280a422710c515e035,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+67e966abc0e17ae441b2e5c5fb4d184ed01b4d36,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+1594192b9b5a936d389fcf7f128ca241bf9d1105,Vincent Siveton,vsiveton@apache.org,Aug-21-2009
+809bf7b266a013ae4cde99bd3a6010485720f54c,Lukas Theussl,ltheussl@apache.org,Aug-21-2009
+2146f7c5b185db8347da482887b7e4795bd9761b,Vincent Siveton,vsiveton@apache.org,Aug-19-2009
+7bf69df1573ce19ce5b49b7a50835094b3680f76,Lukas Theussl,ltheussl@apache.org,Aug-19-2009
+8015653c7bfc2deeb5c6b82ba1641a791e0a4f65,Vincent Siveton,vsiveton@apache.org,Aug-18-2009
+b979b6e9f5788ebdb6f4773743b17450e061cfe0,Vincent Siveton,vsiveton@apache.org,Aug-18-2009
+22195dfcca2c416ae9ace30d66eb4f7882d1fc3e,Vincent Siveton,vsiveton@apache.org,Aug-15-2009
+9b27c83c1a95114068efc0ff7a34f9a3d04e0708,Vincent Siveton,vsiveton@apache.org,Aug-15-2009
+c9c3a36d6e029b2de6d79fd1b4aff50bb4adccfc,Herve Boutemy,hboutemy@apache.org,Aug-14-2009
+0f431905edc638d952e2653e52b4c8f6ddc6f9d8,Vincent Siveton,vsiveton@apache.org,Aug-8-2009
+ded9778a1094e778d1a1e33ef571a9790446fa2b,Vincent Siveton,vsiveton@apache.org,Aug-8-2009
+c648d1d30e0330a1e412c4afb96fe1321049de6b,Vincent Siveton,vsiveton@apache.org,Aug-4-2009
+ede7bac9003b9ea865df7b92d8cf785070d47f96,Vincent Siveton,vsiveton@apache.org,Aug-4-2009
+26017b623132be776e6b0ab10dc6d59c18066312,Vincent Siveton,vsiveton@apache.org,Jul-27-2009
+6308e6c00ede62248dd3cd479c2366b7a134efef,Lukas Theussl,ltheussl@apache.org,Jul-17-2009
+35566516ea8e1d05e7cc8107e6ef8003f6bfb0ba,Lukas Theussl,ltheussl@apache.org,Jun-25-2009
+65a31891aa148b8bc629c4648bd4d5dde5b90f03,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+4786faed7744f4ff36c23837046d0bd25cc7b84a,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+4f9708ba7e0c5ca5ec60e3ca10d429ed0019fe62,Vincent Siveton,vsiveton@apache.org,Jun-17-2009
+a7b17ae90fb2de2c7aa04af8b3895671324d0eb0,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+e3ef82d09a56be9ad70952918466ecd3138ffe02,Vincent Siveton,vsiveton@apache.org,Jun-17-2009
+9d5157a8dc398992616ef66db9b6c3e1b490e498,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+4c7ef0a8bd940372fb91a3620a1191fc83ddd32f,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+cabbf75920489fd17d66f10f1d6aa5102271c46e,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+a0c63eedf4d8670114611be52c8e9b3a0d006eea,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+ca2b9532a2c2840dd345c4547b3fbfa271c364d4,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+76a7e4ea5bd9e43452d6203dd77bbb42fff05945,Vincent Siveton,vsiveton@apache.org,Jun-17-2009
+5a0b21119a02b46763da455d5995c3dfa0f314f6,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+b31de8138dc23355464bc763b6b8b852e2aa2c25,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+62adf832d19037dc191392f91292d6fdbb20f50d,Lukas Theussl,ltheussl@apache.org,Jun-17-2009
+cde369533566c8aad733d1652c458890d1637099,Lukas Theussl,ltheussl@apache.org,Jun-16-2009
+89366506be4b69671f7965c94ad310fad03ddfac,Lukas Theussl,ltheussl@apache.org,Jun-16-2009
+3adb6d998143732e42ee5266793c789438aadd8c,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+2e36fea3b9882b16576f92fb0b3b317cd496f3e9,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+d1b12b50f50986a38bc283236722e782739c73b7,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+a5343b388e49e8d9a96e937a4f2afb1a1b02de89,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+507688910dc1c7379732e65f44f547def07766ac,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+d7ba321e3828806534ed2da98358d5fbb20be9c5,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+b1baf342b07ecc8b2353b91a3a5ed7e0c7415df7,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+1d687a2ee885f0f3b11a2cb21907bc18f8fa852f,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+503dbe151793220666452d829900966e5c8b8955,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+63948094fd64585dcce8fe46b25f9c19c2db2685,Vincent Siveton,vsiveton@apache.org,Jun-15-2009
+0ea38fdf97f0b44681837fbf74c184dd9fc2c937,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+e10f5aaeea51cad4aa96b7401616b659f5ac6f0c,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+9d78e8e9fb0ee533ffcfa2d1a9d338484b3db289,Lukas Theussl,ltheussl@apache.org,Jun-15-2009
+75f1de3c509ac2828f0ebe7b3f313b4960567a83,Vincent Siveton,vsiveton@apache.org,Jun-14-2009
+1f03d7f9db4216ba277f4f87184d8fab530ca8b9,Vincent Siveton,vsiveton@apache.org,Jun-14-2009
+1fca4f5037e80416fddf78519d72e97ee2a1eb50,Vincent Siveton,vsiveton@apache.org,Jun-14-2009
+33f061bce2e68dc4d7492f15ae8d69ce1923d987,Vincent Siveton,vsiveton@apache.org,Jun-14-2009
+d161caa56d34c9334af54bffdf5f8a3b20214d3d,Vincent Siveton,vsiveton@apache.org,Jun-14-2009
+55c29ed9cc61176fa985283c4dc83a503d7e4be8,Vincent Siveton,vsiveton@apache.org,Jun-13-2009
+1a65fdd244a68fba4863421d72e90785e9b4ff24,Vincent Siveton,vsiveton@apache.org,Jun-13-2009
+b3d1ee6078367673ddb2acdea4649ec2374d6209,Vincent Siveton,vsiveton@apache.org,Jun-13-2009
+6776670b6ec22f546d82ea67f7aee63e5af2b8fe,Lukas Theussl,ltheussl@apache.org,Jun-13-2009
+422b3d91b0ba806c1b1b33ecb8e58e9cf6d138f2,Lukas Theussl,ltheussl@apache.org,Jun-13-2009
+d16dd3e334e1d5c6e317010679a07f5666dc51d1,Lukas Theussl,ltheussl@apache.org,Jun-13-2009
+f7d157e977abea34d32b6d09ea07f764c58ce7c2,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+85b379aa199970a8920d05242bac154f2fbc5bcf,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+1aa9674b4663bbf573cac22bfba02cdf83f1de8a,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+cecb09c1a53dc85c8110dcf2bb469b06915b8d61,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+fc1a42a8e560df4e9b1d9c9ac36cb43d94b7cb1f,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+9bb3595b0a64f65e69326478f5f8407bb850b91c,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+09fd32318d6a386603362d07629f0815f0798296,Lukas Theussl,ltheussl@apache.org,Jun-12-2009
+8070f624070b53662481a32368e7f78c18d7961b,Lukas Theussl,ltheussl@apache.org,Jun-11-2009
+1d82b5444b70f3584d88f88a20b24673483e2188,Vincent Siveton,vsiveton@apache.org,Jun-11-2009
+da22a32cdc6e5e91495b00d6bde5882e8e862407,Vincent Siveton,vsiveton@apache.org,Jun-11-2009
+47516eca7ad3ad786edb20160cf278adce694dee,Vincent Siveton,vsiveton@apache.org,Jun-10-2009
+ba6600c0bc1dd0c9eaee150bc950ea30029a348b,Vincent Siveton,vsiveton@apache.org,Jun-10-2009
+07c18bf1f4a4948341fa604461f36cbb47d9e343,Vincent Siveton,vsiveton@apache.org,Jun-10-2009
+49906987347bed8168785b898db202d35bfb1def,Lukas Theussl,ltheussl@apache.org,Jun-10-2009
+006ce2a85254b8b795101590f46945ed46e957e4,Vincent Siveton,vsiveton@apache.org,Jun-10-2009
+459ee1f1bc98a4092b90bb8286f00e59b0aff8e5,Vincent Siveton,vsiveton@apache.org,Jun-9-2009
+d9cee6421d44b5f4347276bfc35d4dd19c9127a7,Lukas Theussl,ltheussl@apache.org,Jun-9-2009
+5d93a6afc05adbaae2dff3e6fe2b1b0a0749dacf,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+7f03aa9c42cea30d0ef40f05059b85fc9b73f647,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+8f149b6601a49cc909a1e69fe78384a044c0e1c2,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+489d217ddc1b8006c610364395dd6bb2f06dfa0e,Vincent Siveton,vsiveton@apache.org,Jun-8-2009
+764a86561f33320bdf6c47e4f3ea768737dbf1dc,Vincent Siveton,vsiveton@apache.org,Jun-8-2009
+18c954a4020893898e6fffe73f5f9b6b1115fad3,Vincent Siveton,vsiveton@apache.org,Jun-8-2009
+0d75cf970a5b198896fd182775c6ba81b7420d0d,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+89491b9c0c031552ae2aa35405d9e7d785f69097,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+6e697089859137d017b146fe2e59420b5aadd96d,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+383242cffcd766c67a901bd294c4ca6490fb9434,Lukas Theussl,ltheussl@apache.org,Jun-8-2009
+17d9b4b91e68a57aba23d43e3b2ee2262173f1c1,Vincent Siveton,vsiveton@apache.org,Jun-7-2009
+28cb23388766dadc4feabb077ab344f853b8a9b6,Vincent Siveton,vsiveton@apache.org,Jun-7-2009
+d78188ab510d33e3e1d3617abbeb47529dcc157f,Lukas Theussl,ltheussl@apache.org,Jun-7-2009
+9720fa8c87eb54ef34e33f058b6e81efee172214,Lukas Theussl,ltheussl@apache.org,Jun-7-2009
+f205632c5436f0e3a6a3d13abc57d5d68f2a9647,Vincent Siveton,vsiveton@apache.org,Jun-6-2009
+363b8a717b0ec02f30f2df25e93e0d6799005858,Lukas Theussl,ltheussl@apache.org,Jun-6-2009
+11f1366b3b85ce7000708f6c685dd5dc235aac5e,Vincent Siveton,vsiveton@apache.org,Jun-6-2009
+3d3f8367edcf0d851cc2d376e9d458de193e9cfa,Vincent Siveton,vsiveton@apache.org,Jun-6-2009
+84619ced0ed08c26cb8cd87d3ab84ee5a9b0f232,Vincent Siveton,vsiveton@apache.org,Jun-6-2009
+3fe78b670b6fcf224d2d454692d603b14a60e65b,Vincent Siveton,vsiveton@apache.org,Jun-6-2009
+49cd2f5e912a0a3592bf6d40cb0c144294da2a10,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+38670cae4753123d92b3e3e6409417ef42d72cd1,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+6c9079d9283a2c04fe2ed5ddcca3d9589ad51dab,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+8128a2f0d0f0233afc2bdd28d30d9868f93da74c,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+e7e66f2788b8b2d03e3742fbd899343f28b8df38,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+9c65cac0a363f5ea1cd8e8f8f795cf4782e552e2,Vincent Siveton,vsiveton@apache.org,Jun-5-2009
+2035573c53d3dc9b67a554116d621651545b413d,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+347e925214f683d4f7f62f421a7677726618df78,Vincent Siveton,vsiveton@apache.org,Jun-4-2009
+760a69b44590d279b9c125ff34ad95e1af22b9d0,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+71d1801074884ebc873486070c6bbaec37cf58c5,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+d814dca9ebdf38207a0065d396efaf19bc162f4e,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+6c1dcb7d9abe394802ab28de83f77b33cedfaebd,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+8c47882e85d50ef90419e5ee0838ad7a70731202,Lukas Theussl,ltheussl@apache.org,Jun-4-2009
+bda6cc6cc92232bafdad891021b1b8f83046c1c8,Vincent Siveton,vsiveton@apache.org,Jun-3-2009
+89a8eaa36cc00c4507c6470ad4cfb398d573b355,Vincent Siveton,vsiveton@apache.org,Jun-3-2009
+56c0d25606b803dc830d3901a9e57c28302e46ee,Vincent Siveton,vsiveton@apache.org,Jun-3-2009
+8a784103ad2fb4a882dcf1876c3469e890e8cc9e,Vincent Siveton,vsiveton@apache.org,Jun-3-2009
+5a6d2007afe1bef575f6382fd815e1efe7627099,Lukas Theussl,ltheussl@apache.org,Jun-3-2009
+593221e49835236e11e96748de90e0f949c94a99,Lukas Theussl,ltheussl@apache.org,Jun-3-2009
+f6b5cdb1e44d554ad939df68d7460baaac5c8fb9,Vincent Siveton,vsiveton@apache.org,Jun-2-2009
+d48a88f82106fbc7a5eb29680be82a26a6df3b27,Vincent Siveton,vsiveton@apache.org,Jun-2-2009
+bec64aa90214313668ee3b5ff752601644c973c9,Vincent Siveton,vsiveton@apache.org,Jun-2-2009
+2df6af28e3483003349784e7372c30d2c574d163,Lukas Theussl,ltheussl@apache.org,Jun-2-2009
+cdd32ec6cfcfaced3cc14cd49a027fdaebed5a6a,Lukas Theussl,ltheussl@apache.org,Jun-2-2009
+d95961833ed4b19ad0e0c31889c4844999c11532,Lukas Theussl,ltheussl@apache.org,Jun-2-2009
+3d5859495477ca1f87936d10ee8a2eeb56901c41,Lukas Theussl,ltheussl@apache.org,Jun-2-2009
+c38a3b54f342911955dc30527b9b5e3b9a277120,Lukas Theussl,ltheussl@apache.org,Jun-2-2009
+4f02643e1b1965012fc57f6e44635cdf6587f5c0,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+6349e5c9bbe3c1aa18632cf033f85577a3f3fbb2,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+d4fffd3011151aef8b24df912418f894ce67269d,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+7be9129ec327c94cbef50186175bbc8d1bbdceb6,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+bbbdf41b4291fecb0a6d43aa6a619d316328fe85,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+be077c513eada09fcd6eaafc75595b0f0bf58c0d,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+ccdee56db854d3fd9c4b3ac3aae5d45de9a3dbdd,Vincent Siveton,vsiveton@apache.org,Jun-1-2009
+e5d6fe25b402ca982eb3d75e0bba63e4bf8473e8,Vincent Siveton,vsiveton@apache.org,May-31-2009
+b43471a247b3d44f9f713b1e8dc7c7ac44166d65,Vincent Siveton,vsiveton@apache.org,May-31-2009
+31c494a3e93f86159eb5ccca86138ad3f0104588,Vincent Siveton,vsiveton@apache.org,May-31-2009
+90cec761380737ef37a5c7ac7104ea57e40140e4,Vincent Siveton,vsiveton@apache.org,May-31-2009
+fd395d4e280bf6840daddfa32c5662920b830c51,Vincent Siveton,vsiveton@apache.org,May-30-2009
+bbeecdc298a8ef141e40c93dc8a75c3b9b9fc94c,Vincent Siveton,vsiveton@apache.org,May-30-2009
+20c61f751f554c236007f0f9b54d7c27cfd17705,Vincent Siveton,vsiveton@apache.org,May-29-2009
+6bfc14deacf3628840df71619340f0b94b4edc63,Vincent Siveton,vsiveton@apache.org,May-29-2009
+98f81f0e254154957bc44c694dcfeef2e9db2275,Vincent Siveton,vsiveton@apache.org,May-29-2009
+610f58e0cb16d9e597249c5fee01551e0d39455b,Vincent Siveton,vsiveton@apache.org,May-29-2009
+9595970226fd4c907b24add94a01317a1c29a6b4,Vincent Siveton,vsiveton@apache.org,May-29-2009
+38b9819ebf11bdfcfc7a43836bced9649e5b3cb0,Lukas Theussl,ltheussl@apache.org,May-29-2009
+504d64ac257b36cd020952866b10fc4f658d0876,Lukas Theussl,ltheussl@apache.org,May-29-2009
+54de1257d2ff1c95869a76cd01a05b047e5bb1c6,Vincent Siveton,vsiveton@apache.org,May-28-2009
+9259def59b82765f64a0306cc1b2205fe857dd15,Lukas Theussl,ltheussl@apache.org,May-28-2009
+5937ab7d1e3a2a28d0fc6db0b27702727e52cb07,Vincent Siveton,vsiveton@apache.org,May-28-2009
+bbf40577c8535df451032a382252d50a375b3ed5,Vincent Siveton,vsiveton@apache.org,May-28-2009
+003dd40a03c2a6d120c54e10f857430bc5f5d111,Lukas Theussl,ltheussl@apache.org,May-28-2009
+d44b341888050c78fcce65d63d6c51c0ba658e74,Lukas Theussl,ltheussl@apache.org,May-28-2009
+2d3290c2b495bf153c17f179d0350a72aa0f3c3a,Vincent Siveton,vsiveton@apache.org,May-27-2009
+7668e1e654d4e6d2fd5a48cd3c1619a9fab66ac5,Vincent Siveton,vsiveton@apache.org,May-27-2009
+158c3fa20d18d7b9ccb588afcde6ec950a4f2590,Lukas Theussl,ltheussl@apache.org,May-27-2009
+7e38880d7c63d889852fb9e852f5aec9de5b9f34,Lukas Theussl,ltheussl@apache.org,May-27-2009
+cb190afe2f90db3a2ccf494a12229b9d98405f28,Vincent Siveton,vsiveton@apache.org,May-27-2009
+831cb9bde052a508c0f55281d703ea77907460e7,Vincent Siveton,vsiveton@apache.org,May-27-2009
+b8c15e3519befb55d0ef4c71aab9914aa638c3ba,Vincent Siveton,vsiveton@apache.org,May-27-2009
+a735e897d544a0c6ca4b4cedf0147c168f1b281a,Vincent Siveton,vsiveton@apache.org,May-27-2009
+87198fdcc80d1de47bcce745a7fcefe98198cbbb,Vincent Siveton,vsiveton@apache.org,May-27-2009
+d94bb9bf60de336b132aa2777cd0491b1c74ce12,Vincent Siveton,vsiveton@apache.org,May-26-2009
+a18bbf973a5bfd2f9ec1a5866d7561ee97f2cfb3,Vincent Siveton,vsiveton@apache.org,May-26-2009
+f1b81d14c0f6d1390e027071386d3596b7a2a12d,Lukas Theussl,ltheussl@apache.org,May-25-2009
+a8b788b7f5f8a43fff2a720d600450e7b7ca2cdd,Lukas Theussl,ltheussl@apache.org,May-25-2009
+4539a59f592daa6570c6ab8f4bc08d88a1497668,Lukas Theussl,ltheussl@apache.org,May-25-2009
+fa434d6e1018210a3d5e8542231c9720667f6de0,Lukas Theussl,ltheussl@apache.org,May-25-2009
+ef6a3a3ba2829f3875b6a3f88d34ecbb5465be6a,Lukas Theussl,ltheussl@apache.org,May-25-2009
+fe3c58fb4eb89be32aaa6277fa69ec0acac972d1,Lukas Theussl,ltheussl@apache.org,May-25-2009
+5a10879482fb2826abd776f8c78a08b07d6e47c7,Lukas Theussl,ltheussl@apache.org,May-24-2009
+08000e42d8bf8b81be328b35bc71f781ad93fd96,Lukas Theussl,ltheussl@apache.org,May-23-2009
+68a032d00a214ec5b92d0cb05410bac86d7321e5,Lukas Theussl,ltheussl@apache.org,May-23-2009
+f767056404c33f9c72daa721934bea3fb35935e3,Lukas Theussl,ltheussl@apache.org,May-23-2009
+2ff0e523c09f8ae68715b9b6fedf50389305004e,Lukas Theussl,ltheussl@apache.org,May-23-2009
+0cf16e8b6c4880991e01eb41b9cb22a9a6c6ef6c,Lukas Theussl,ltheussl@apache.org,May-23-2009
+cadbe509c899506a54bf856a5de25256aa6cb338,Lukas Theussl,ltheussl@apache.org,May-21-2009
+c0ee5684ba270cf59fda5db42b65214bf735db8a,Vincent Siveton,vsiveton@apache.org,May-20-2009
+be0fe688e6952b49230c2078eed2202f70c92f06,Lukas Theussl,ltheussl@apache.org,May-20-2009
+895837a3361ce65979b7b2f1bf9e6398fcced503,Vincent Siveton,vsiveton@apache.org,May-20-2009
+fed6fd7a8bd2daf16fe876a692cb1c3d9259d7c3,Vincent Siveton,vsiveton@apache.org,May-20-2009
+9618b8d7f026be88cd63616e80ead5262b4aeae9,Vincent Siveton,vsiveton@apache.org,May-20-2009
+52134f6f358a689c8b4147bdbfc2f3c13bfa58ee,Lukas Theussl,ltheussl@apache.org,May-20-2009
+d5fe8abedf0b9a5388e2d0136288cc5a7e067cfb,Lukas Theussl,ltheussl@apache.org,May-20-2009
+4ae7cb55c12b2b757586054bf6ee37684eadcd52,Lukas Theussl,ltheussl@apache.org,May-19-2009
+7176264a7e46b4ec52e174f6dc65f18e2053ad15,Lukas Theussl,ltheussl@apache.org,May-19-2009
+5895d97570b4118c4603c497844f82e01c5d7d2f,Vincent Siveton,vsiveton@apache.org,May-19-2009
+b4438d0c2ca7295cd578ccc83046412f9cec083f,Vincent Siveton,vsiveton@apache.org,May-19-2009
+14184b9572a3fc505e2711210de496eca3f8f195,Vincent Siveton,vsiveton@apache.org,May-19-2009
+44f80fd5085719b461fda493045191c9152962c3,Vincent Siveton,vsiveton@apache.org,May-19-2009
+ee2caadd2b54d19b57707a7ec3dc9d483695b386,Lukas Theussl,ltheussl@apache.org,May-18-2009
+b188b1bb01891e5b80bd998b1abed68e346dc2f9,Vincent Siveton,vsiveton@apache.org,May-18-2009
+9d7452a34fa31ca8bf5542a597861c53cd0dade6,Vincent Siveton,vsiveton@apache.org,May-18-2009
+2cd2f925417beeec1df47a98b7944e9b1bf96787,Vincent Siveton,vsiveton@apache.org,May-18-2009
+8862da01433825017c0f7aa1b94080c0e804cac6,Vincent Siveton,vsiveton@apache.org,May-18-2009
+ee9ca3c2dc3f44c776e52a8bca3ec3be7e2f9c7e,Lukas Theussl,ltheussl@apache.org,May-18-2009
+74d4049d2a7ad1b706414cf63966b22fb54b3db5,Lukas Theussl,ltheussl@apache.org,May-18-2009
+66c9eb822a2951b311d797ddb11619674be72935,Lukas Theussl,ltheussl@apache.org,May-18-2009
+0a9427794d7e7730c84205f54de14590ae1bc24d,Lukas Theussl,ltheussl@apache.org,May-18-2009
+8eb29c45759ac14b35f85404a14a03cb3a8512bd,Lukas Theussl,ltheussl@apache.org,May-18-2009
+69885301eebc352638ee95f4c45cda97975efa26,Lukas Theussl,ltheussl@apache.org,May-17-2009
+a740bfb14eda0e01081dd62e2df1a71d7ffd609b,Vincent Siveton,vsiveton@apache.org,May-17-2009
+0464c438b61cdc4925245ed2604b1583de88307d,Vincent Siveton,vsiveton@apache.org,May-17-2009
+271c97459686477992aebafc87d9e73d50500214,Vincent Siveton,vsiveton@apache.org,May-17-2009
+b7f2dfed622062e512aaa2be73b1090a79d43826,Vincent Siveton,vsiveton@apache.org,May-17-2009
+b0a7b37715072dd60735f8b4e1cd57061367d921,Vincent Siveton,vsiveton@apache.org,May-16-2009
+1664a1d5b3e6a94c21eb1bb6df727051ebdbee59,Vincent Siveton,vsiveton@apache.org,May-16-2009
+1506ba71403c934275c1a87480e3409ecc254d01,Lukas Theussl,ltheussl@apache.org,May-15-2009
+82dbc9bee4a35124f738581554824fa3c899b20e,Lukas Theussl,ltheussl@apache.org,May-15-2009
+f13e0f81c278ad4e56d40adaed7a0121d52067f2,Vincent Siveton,vsiveton@apache.org,May-15-2009
+06c8009a3cb8a96d3a64a349ab546c1a21535f1d,Lukas Theussl,ltheussl@apache.org,May-15-2009
+662af9e989768b6f46a9335e7d48961789da7b9f,Lukas Theussl,ltheussl@apache.org,May-15-2009
+15dc1f1f2c6b6d6b3421f5e74d0917414246e569,Lukas Theussl,ltheussl@apache.org,May-15-2009
+17a73973d203ca728fd97e10064a58e82ebda8dc,Vincent Siveton,vsiveton@apache.org,May-15-2009
+d2278fefe3c285e8c27c2b3cfa1f9ac7d1f0d70b,Lukas Theussl,ltheussl@apache.org,May-15-2009
+94baa11fe28c362743f663797a33de91f5577cf3,Vincent Siveton,vsiveton@apache.org,May-15-2009
+f2c0395eb2651dda013a1a56bfb87f1cfd6a998d,Lukas Theussl,ltheussl@apache.org,May-15-2009
+dc718bcfa8df1ffa72563f641ec2ef996dff4818,Lukas Theussl,ltheussl@apache.org,May-14-2009
+fea91326832586853956fda40613be390ff99d93,Lukas Theussl,ltheussl@apache.org,May-14-2009
+acaf44f1ab1f2baeb6b3acedaf228ad542150b97,Lukas Theussl,ltheussl@apache.org,May-14-2009
+ac6e74db7b964553030d9055759033846da1dbf4,Lukas Theussl,ltheussl@apache.org,May-13-2009
+b8e9c6e7d2f2867675f4a5ea5362e30438fad032,Lukas Theussl,ltheussl@apache.org,May-13-2009
+fdda8168302e4f127836ecb248ecd02ab0717aa7,Vincent Siveton,vsiveton@apache.org,May-13-2009
+55d0285dfda55518a300214796e76bb06496de8f,Lukas Theussl,ltheussl@apache.org,May-12-2009
+d7c8933be9649feda104d2e52ec2ffea9ba6699a,Lukas Theussl,ltheussl@apache.org,May-12-2009
+a9c6f7dcd1db22ed7291507900cad8e2ca222efd,Lukas Theussl,ltheussl@apache.org,May-12-2009
+5f32af0cb2b3ac333c5a41fd67fc7bdb3f613fa1,Lukas Theussl,ltheussl@apache.org,May-12-2009
+f595ab41e5e3f940bcbff5326ccfe7cd71f8fdf9,Lukas Theussl,ltheussl@apache.org,May-12-2009
+463ade4cc0cc61b08f3f334718687c47fef201a4,Vincent Siveton,vsiveton@apache.org,May-12-2009
+0a097a07bae24d9a04d0837484cc85efd87de462,Vincent Siveton,vsiveton@apache.org,May-12-2009
+25eed7ca1a9b5d5398af6ad999df8d561a67553d,Lukas Theussl,ltheussl@apache.org,May-12-2009
+d38ff0d53562637680b30d98ed468f14848f39bf,Lukas Theussl,ltheussl@apache.org,May-11-2009
+a661f2703b89faa155284d4b405c4ac0f99cd0e0,Vincent Siveton,vsiveton@apache.org,May-11-2009
+b9851190caff5135d6e919310f9ea32fba41bc5b,Lukas Theussl,ltheussl@apache.org,May-11-2009
+f0aa7e496634f1507550e7381d7c7eb740dda98a,Lukas Theussl,ltheussl@apache.org,May-11-2009
+3fd58e38a1df7cc5a2339512ab6775af414eea3e,Herve Boutemy,hboutemy@apache.org,May-9-2009
+9bad786a304b81eea33fd840ea5373d298132b7b,Vincent Siveton,vsiveton@apache.org,May-9-2009
+96a897ce1fd4590336fd0b5da195fbdf144215ae,Lukas Theussl,ltheussl@apache.org,May-9-2009
+6c5682e2d198635167989112bacc0199e8e105f0,Lukas Theussl,ltheussl@apache.org,May-8-2009
+2d53b526a4f3728111909d04c900a3778992418b,Lukas Theussl,ltheussl@apache.org,May-8-2009
+34930bc5c8bcc9ccf7973b53e1a10e2d14dedbe6,Lukas Theussl,ltheussl@apache.org,May-8-2009
+c4f8580d8a99139a420c63c93ee230e504c56f7c,Vincent Siveton,vsiveton@apache.org,May-7-2009
+dc4bab0a6e5f94e1ad347269125282de05439181,Lukas Theussl,ltheussl@apache.org,May-7-2009
+4ca0f0aed40f6497e7b496b2bceb69854d90850b,Vincent Siveton,vsiveton@apache.org,May-7-2009
+cb978a1a486e7d0c4a78e62ebc73e0982192e1aa,Lukas Theussl,ltheussl@apache.org,May-7-2009
+f2dd14e718071d95d40444956526883972b224d5,Lukas Theussl,ltheussl@apache.org,May-7-2009
+ffc9ca0c95dd906258af42490ce4c37bd7bfe48d,Lukas Theussl,ltheussl@apache.org,May-7-2009
+d997cd941489d36fb4026a313be647b09c48eb23,Lukas Theussl,ltheussl@apache.org,May-6-2009
+d60ca2caf5403c637690e4480e2cfc4d78818118,Lukas Theussl,ltheussl@apache.org,May-6-2009
+37be6efff7ded154481b0c5ad4ff2e2a14ef116b,Lukas Theussl,ltheussl@apache.org,May-6-2009
+98c2e1f0c5ca82cd5c3d9a4283d6546afce45951,Lukas Theussl,ltheussl@apache.org,May-6-2009
+231f2b4492e611d6752db52b29c8f83a18e2b41d,Lukas Theussl,ltheussl@apache.org,May-6-2009
+cdb5a3e673c4d1422855d0e5a7fa899086069430,Lukas Theussl,ltheussl@apache.org,May-6-2009
+a4516446e02d6211c33e675acbb273e383b6ebcc,Lukas Theussl,ltheussl@apache.org,May-5-2009
+c60749b4508b03d947c2c82ec824332f0c42c348,Vincent Siveton,vsiveton@apache.org,May-5-2009
+96d26bebd38e39b513501d929e428001ec66c0ab,Lukas Theussl,ltheussl@apache.org,May-5-2009
+5e83a7e68ee0584f47c81c9fc12088a77d31a3df,Lukas Theussl,ltheussl@apache.org,May-5-2009
+88c90092ab95d88701375e3bae8cd7cf46bfff36,Lukas Theussl,ltheussl@apache.org,May-5-2009
+593f6bd62023787b955f864c189ca256a65830f8,Vincent Siveton,vsiveton@apache.org,May-4-2009
+92250b08a75f789da470f300457a45cb458d237d,Vincent Siveton,vsiveton@apache.org,May-4-2009
+7afa94a9b5925a24f19f2aa67b41a8976610913e,Vincent Siveton,vsiveton@apache.org,May-4-2009
+655f266725ea7f4805f8cf7187fb6ad48f74a646,Vincent Siveton,vsiveton@apache.org,May-4-2009
+ae89a7bce636d31d5b14a018c11cba3c5adea524,Lukas Theussl,ltheussl@apache.org,May-4-2009
+28134f8326e7c4a3e44e46b62d26cc692d8af05b,Vincent Siveton,vsiveton@apache.org,May-3-2009
+8fb020276338b108624b24044a1c42aacc85713e,Herve Boutemy,hboutemy@apache.org,May-3-2009
+a484fc08428fcc9cf32505203567fca84f45499a,Herve Boutemy,hboutemy@apache.org,May-3-2009
+4c127739e06c89edb421018762a0667f455d1566,Lukas Theussl,ltheussl@apache.org,May-1-2009
+4149adec604d533e01f324337fb016865f10519b,Lukas Theussl,ltheussl@apache.org,May-1-2009
+e6eae5ea2f7b9be4861a05cadcccf8fa21d4ffc3,Herve Boutemy,hboutemy@apache.org,May-1-2009
+3dc37892ebef8d043a44f5f6bf432fac6432aef0,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+387be4bf17debba22e0ff11b109408dd3fc48fe2,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+b388caaf12a594849629d135fbbc0ed767176e41,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+389f1155a231d309cf8c640acc93fd539ca9baa3,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+57e12c2a3fae6b487a90f564a3de163999f73b9f,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+f9a58ba1189c96809581197376c6c969b8dcdb8a,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+39e0ae9c020c219bd8686e8ccc7917644ab3b73a,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+e1f0053c0a1f7a2a8ce4e4969c9351699dc24866,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+3652d428690234584e4e7977e3341a6521594afd,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+5194797defde2cbcb076d38c7edbcfd1fffe56a6,Lukas Theussl,ltheussl@apache.org,Apr-29-2009
+1297df8021c80b152e063aa46c831b2d239ee011,Lukas Theussl,ltheussl@apache.org,Apr-28-2009
+8ef6a8f183338e126450cb0ce5f2305eaba61d18,Lukas Theussl,ltheussl@apache.org,Apr-13-2009
+9bde516676b6fe0fee05c1de6e13f015bffed117,Lukas Theussl,ltheussl@apache.org,Apr-11-2009
+68976543c0dce4bed28bae63d203e29c325989f4,Lukas Theussl,ltheussl@apache.org,Apr-11-2009
+183f0483f34a3e96870ab2c12882dcf7c51fa79e,Benjamin Bentmann,bentmann@apache.org,Apr-10-2009
+a5bdc3e000dd64c8c59e73dd7cc4291111d9ecc7,Lukas Theussl,ltheussl@apache.org,Apr-9-2009
+6df0728a902667f3d956c4a99c574440c1b4f66a,Lukas Theussl,ltheussl@apache.org,Apr-8-2009
+656d063753d36ebaed7e900d337757778d4df271,Lukas Theussl,ltheussl@apache.org,Apr-8-2009
+e503bab92022b37ff8f28292a291a6f9e758d719,Lukas Theussl,ltheussl@apache.org,Apr-8-2009
+015826f163c27fe66820fb0c1897e202b599d1c9,Lukas Theussl,ltheussl@apache.org,Apr-8-2009
+d1288be2dc4dc3a2e1be99d913711eaf0b2214be,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+0baa8404c15de3041f0e315e6a2bc0a3f51289a7,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+3c6f9fedd31cf9e748609111db5fa149fd872b58,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+047540666ef0480fa06efb1c839811e6cad5aef3,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+f2bd5921c96030a5b05b84ddff3e6ad911ae664b,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+8dfe461a3251be5fda6af9c21d7fbeac04153b19,Lukas Theussl,ltheussl@apache.org,Apr-7-2009
+d046656f3cb536d9f4859cd9f3ef7028208b19c9,Lukas Theussl,ltheussl@apache.org,Apr-6-2009
+0e92886e33442855463cba3f4ce811276e7f9886,Lukas Theussl,ltheussl@apache.org,Apr-3-2009
+39b7a9eedc4427043fd8daf318410fd44154a090,Lukas Theussl,ltheussl@apache.org,Apr-3-2009
+9793c2260206bd96e2cae465a21978536ba7e71d,Lukas Theussl,ltheussl@apache.org,Apr-3-2009
+3d8a2b65e0fc06e9882d395b2a2119ba135a006c,Lukas Theussl,ltheussl@apache.org,Apr-2-2009
+590a1ae822e3cb5a4fb13f1c65ab164a4f98c779,Lukas Theussl,ltheussl@apache.org,Apr-2-2009
+773fa46c56f688abb049a0bdd1b87e322f47935e,Herve Boutemy,hboutemy@apache.org,Mar-30-2009
+aad2547a8868bea9fc10efddbd0fed97b2c99528,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+ca55bd81a97680c1d89bd6c10b2bc4de93e87286,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+75b567089dcf4e0ecd997caa9d8991151188fe2f,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+ff1d7d337675bef80a693de10be8c8a530abc3ab,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+eba1403f1e2cf7c167320d66bd4933f999a9e766,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+40a9ddff3e763f431d0c744f8ec71c2688279d7f,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+d4cbd304443adbf0ea2eea2e18372bd7715b112f,Lukas Theussl,ltheussl@apache.org,Mar-28-2009
+257adfe3fab303ab2f212bda8954407c27a3ce05,Lukas Theussl,ltheussl@apache.org,Mar-25-2009
+f132910db28c037d5270d57cf5f2595fb406d69a,Lukas Theussl,ltheussl@apache.org,Mar-25-2009
+ce95ad4677946d064e625c81f9c71cbcd53cb602,Lukas Theussl,ltheussl@apache.org,Mar-12-2009
+54a9c4db6c936d774f60146487b85f84f78971b9,Lukas Theussl,ltheussl@apache.org,Mar-12-2009
+c7d677731b80d86b160610f1559d411fe2300f55,Lukas Theussl,ltheussl@apache.org,Mar-10-2009
+26174ef540af11acc2562ff767e71c6ecf33b97a,Lukas Theussl,ltheussl@apache.org,Mar-10-2009
+81b08e7844afb088b12535fe9e34fe34737e93d4,Lukas Theussl,ltheussl@apache.org,Mar-8-2009
+3c3488c530b875234b2bca166cbaf8e443af299b,Vincent Siveton,vsiveton@apache.org,Mar-6-2009
+f15147b0fbee219eb4f79498eebeadeeb0907531,Brett Leslie Porter,brett@apache.org,Mar-4-2009
+71e02dc73fb042b0174c71dd7cf7a87f32f58264,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+61c981d2764b69251724a3d8537c74bedb034f04,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+52b08b12f317819a1af9db43f8a507bd1fd52d1c,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+76d4faa68ca89da801954c95c0da938d136f5022,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+73b09464e86256d14f7e37da2a3745341ee787e6,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+27fd47cdafa96c1173e345757b7098da4ce7a4db,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+5870eaec137383d17fcc6c48a5b1f2717987c67b,Vincent Siveton,vsiveton@apache.org,Mar-3-2009
+7d6100e4d84f40e1ac4ea6a25908739fe6baa913,Vincent Siveton,vsiveton@apache.org,Mar-2-2009
+c2dd6c7dbe1310fdcbd14bdead1906dcd5fdaa20,Lukas Theussl,ltheussl@apache.org,Mar-2-2009
+c754b013a6347804118380a2f2dc231354af3c6d,Lukas Theussl,ltheussl@apache.org,Mar-2-2009
+9b44060679a3451c178a6e22734c1ca754e262b2,Vincent Siveton,vsiveton@apache.org,Mar-1-2009
+5d46325145a18206ff9c2dae5249dcb6f7ce415f,Herve Boutemy,hboutemy@apache.org,Feb-27-2009
+7ba22f23c1827fb87d1808d946181a705d1bc9b5,Herve Boutemy,hboutemy@apache.org,Feb-27-2009
+218f989859b9730a9a184167d07bf253416455ed,Herve Boutemy,hboutemy@apache.org,Feb-26-2009
+cdfd0efbeedde51ab8844d47e822078b44c8377b,Vincent Siveton,vsiveton@apache.org,Feb-26-2009
+359eaa2386c0eca8ca253071d79125f19ecd2b61,Vincent Siveton,vsiveton@apache.org,Feb-26-2009
+da75a18ed9f2a9d49bdd1216cfda32166ac3a5d3,Vincent Siveton,vsiveton@apache.org,Feb-26-2009
+ad14dd6c4f9fced623f837a68430165f8772888b,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+a942101300f630b544a8a6e7995ac833716931d0,Vincent Siveton,vsiveton@apache.org,Feb-25-2009
+821fafcde94cdea392b1d871f66afcaac2789d53,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+69e9241cccf71fc7bfe7bfcfb7fcaa0001f8c968,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+ad5ef0d1c0bd8269fe00c1ba8d3cd12d376a2279,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+38f9e24039fd9f90d59db899ac4aa390c32e275e,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+6b48f5f522f94bfef177527b01da6c3bf2694ad8,Lukas Theussl,ltheussl@apache.org,Feb-25-2009
+129c53f3be95f59ee44afb8353f93e7cc97c3498,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+ef4927032fd41efa4a50f9807e8326b33c370692,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+2831d393785d525e5ee6d1d90d70cf44f126baa7,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+ec8b9d74cd3487196da70b56e3ec01cd01ef7d58,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+78d2aa092a6abf2abfd765f3f2869bf739bbcf76,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+ea1380783f8579e7897564c4d73357553ccf2633,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+3bf5a452d919c495ac4592f3cd2eea2107baea56,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+562a547629a69adb1a7d872dd29d3d97f6c6d1dc,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+3657417ed950c4548a4422292b593e35ba792df9,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+60c77af0676e4d503e5376d73356d84645edca93,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+b7358e1d7a46f24456da107123c801e797203f8a,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+178f62177e0176b3dc1c24f7dddf766d7151b3d7,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+190d2f4f1347ed2bc7437b9a8749eba17112346d,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+dab565c414b6f41a1409558508ed651d9075dd8e,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+72e184403646298e93b28dea663849b9a6fabad8,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+eff2e2e7b59f1868d9f5b8cec3c469d5547f9a56,Vincent Siveton,vsiveton@apache.org,Feb-23-2009
+b3a5e04294b35863896199954067317e69c8ab0a,Herve Boutemy,hboutemy@apache.org,Feb-22-2009
+a0a29e5ea50b7d6585f8f4fdd2bc94ce2ebb3383,Herve Boutemy,hboutemy@apache.org,Feb-22-2009
+8bfe01571d17441bebaa39ed5c6eda6b0daae744,Herve Boutemy,hboutemy@apache.org,Feb-21-2009
+033ea82824daa38210682e9cdb1027147b8b1f92,Lukas Theussl,ltheussl@apache.org,Feb-20-2009
+2121fa320e0e7c937645cd0d2be44a85ce89d971,Lukas Theussl,ltheussl@apache.org,Feb-20-2009
+1d3332bafebfa7d9fa8d238abec1d576e832a8a6,Lukas Theussl,ltheussl@apache.org,Feb-19-2009
+caa248aaa316ccbec6ebac1a7da8cd25e789b9fd,Brian E Fox,brianf@apache.org,Feb-13-2009
+3681c38441f6b079091dd2b09def617a3d56709a,Vincent Siveton,vsiveton@apache.org,Feb-6-2009
+f715fa0e78eae77c61305864982f3ee1a03f204d,Vincent Siveton,vsiveton@apache.org,Feb-6-2009
+069bfc1da6971915c486ca483a3388c6ee4aa90c,Vincent Siveton,vsiveton@apache.org,Feb-6-2009
+dccf7b7f2cb10abe9c2c032ea20c6bc09df33fb9,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+8362dd79f1081c865145a0638d45cc986def8843,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+d3401079c5569a7c7c90cd65438b0972c00ffad8,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+6b331cdf742016bf45a47a79057d8240096e0dd5,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+1955913f5abc43985faf9fbd8d0d0ecf5536135c,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+4378755fa1cb212bb59080c6146d43c077871eb0,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+d7f5d567922bf6c262687b754dbb0b8768887230,Vincent Siveton,vsiveton@apache.org,Feb-4-2009
+b49a5d4ec17e8dc62a5420dbedb8e57c9e3febbe,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+64e773ec293cc32733609afa207357e374da1be5,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+cf8bbddcafcc367f3ef02023ec1660ba3fd4e101,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+fffdb6a96fac59046988ec848d1b9a5b992b007a,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+66f103b746f37593ae59351b3d3dcec20376298e,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+f64a749d0bb2688cbf8cbe84524663f477e091ac,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+75229723a7ac2b9ffe6d2a4a016187cc378a740d,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+3452b2e1ac2a90eb22909ca312d6a5046ec7969f,Vincent Siveton,vsiveton@apache.org,Feb-3-2009
+0c166501105947743c4ec992f1de650288a70402,Vincent Siveton,vsiveton@apache.org,Feb-2-2009
+40771db38fa3b3fe2a1284d92d0b3bb395122853,Vincent Siveton,vsiveton@apache.org,Feb-1-2009
+dd25fb946aac9fc305c266eb0d2b79bb5f26ad36,Vincent Siveton,vsiveton@apache.org,Jan-31-2009
+c04a552b833e9d084e784179c85c3f0f754be2ff,Vincent Siveton,vsiveton@apache.org,Jan-31-2009
+53c9c1df6f28bc593f9e619da152c9a416be5bb6,Vincent Siveton,vsiveton@apache.org,Jan-31-2009
+8032d5bfd19f79e428550cccbe7a5b8aa780230c,Vincent Siveton,vsiveton@apache.org,Jan-31-2009
+c75e0073b1f390215edfd0754515ef46b136dcd9,Vincent Siveton,vsiveton@apache.org,Jan-31-2009
+0bee5bf236b0862dd34c4bfa16f96044a60f4b75,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+d686974124ee0c8d4d3fb2c5121b40d82b347e52,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+7434fff66933641773c93472127637929822eabb,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+4e8e6df54268bbd2ab4e5089fa7db5236caa48ea,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+fea3dd8eee185237a1101c467809977356052576,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+0bde688f4c88917d9b4269a50ed4b83cde4a8190,Vincent Siveton,vsiveton@apache.org,Jan-30-2009
+c61dff36341f33363dd25065ec869fd73be70248,Vincent Siveton,vsiveton@apache.org,Jan-28-2009
+0071a21e032abcfb69f63b7b1c76387b5dbefb5a,Vincent Siveton,vsiveton@apache.org,Jan-28-2009
+890fa62d929d739e9df5342edfdbb78fb183f180,Vincent Siveton,vsiveton@apache.org,Jan-28-2009
+e04bb8849d925c5f43f61ad5d41f2eb08156ec41,Vincent Siveton,vsiveton@apache.org,Jan-28-2009
+6c0b4b33c2d5aca6458edc6dcf33e7c85245f905,Vincent Siveton,vsiveton@apache.org,Jan-28-2009
+fc827a3a79e47ae2c7a494983ea4cc5ad25c8f26,Vincent Siveton,vsiveton@apache.org,Jan-27-2009
+842482c18de9978daca4cbd8a8de045f1c7391dd,Vincent Siveton,vsiveton@apache.org,Jan-27-2009
+9c81e2c5492b88fe3a480781837598d44af9f966,Vincent Siveton,vsiveton@apache.org,Jan-27-2009
+992836448e690a8e2a04dc885f7ddeb2896f874e,Herve Boutemy,hboutemy@apache.org,Jan-26-2009
+9a170ba51e26a60dc07628ba19bcbe2664be578d,Vincent Siveton,vsiveton@apache.org,Jan-23-2009
+38fb51f5b42520cebe680860f0502cb4e5db2650,Vincent Siveton,vsiveton@apache.org,Jan-23-2009
+2ebdac7baa8503c71ce8b4ddf0ff07c673152bb5,Vincent Siveton,vsiveton@apache.org,Jan-23-2009
+2fe2aa5934a7522cbd6bb86594c5efb01fbb861c,Vincent Siveton,vsiveton@apache.org,Jan-22-2009
+d8aed46789ac46fc1d4a051767e400b4f2474205,Vincent Siveton,vsiveton@apache.org,Jan-22-2009
+5e0bce7f31234688408e1915c8f51e1c453b9060,Vincent Siveton,vsiveton@apache.org,Jan-21-2009
+fb478a6a0b424f337980d8c68bfe8338d028c649,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+b3e1b771b61cf346bc52cd86926e9a42b57b96cb,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+8273b28cae4efc9f3bbc21e97d5f97921aea4943,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+fe3cb9d517482eb933713079ec7c17856bbe4056,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+e9ae68610a36ef118a6fea0fb7be8cfe6dd1c3d6,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+ffe2b19633f60f45aa4d846381a4d7752c4b36a6,Vincent Siveton,vsiveton@apache.org,Jan-20-2009
+7c78b4bb28868c9ceb583d8d078c2f61a6e17fee,Lukas Theussl,ltheussl@apache.org,Jan-19-2009
+b210b8b8b2ba07b0ab003af983389d0b6dc022df,Vincent Siveton,vsiveton@apache.org,Jan-19-2009
+93c86be47e606d76de10c744f0ca8d6eaa3fa046,Vincent Siveton,vsiveton@apache.org,Jan-18-2009
+cbc5599d663ccfc647472b4576d998cce828f588,Vincent Siveton,vsiveton@apache.org,Jan-18-2009
+8de94d9a92660eead468c6b8ec951592234b82fa,Vincent Siveton,vsiveton@apache.org,Jan-18-2009
+fbb3187ccdf9ff85b254a1e131ce285ca44889a1,Vincent Siveton,vsiveton@apache.org,Jan-18-2009
+c497c5d2d0dce3ada5e8a4819ccea09dcc0569d7,Vincent Siveton,vsiveton@apache.org,Jan-18-2009
+e233a36748580f26006547e4eff420877d7a3eba,Lukas Theussl,ltheussl@apache.org,Jan-13-2009
+07dbcea1a3908d28e63ef57b12adaf7442a4335c,Lukas Theussl,ltheussl@apache.org,Jan-13-2009
+3ba35f07dc7f39ef78a68b1f7736772a56c5edba,Lukas Theussl,ltheussl@apache.org,Jan-10-2009
+04167ef74d287596cc887b8217c496ba73a03fa8,Lukas Theussl,ltheussl@apache.org,Jan-10-2009
+22e293d182bb1b7027d3a5b51274bbe95e2c1c5b,Lukas Theussl,ltheussl@apache.org,Jan-10-2009
+202fabcb19b558544bc928b96f282dde7c12c794,Lukas Theussl,ltheussl@apache.org,Jan-7-2009
+b945b83ef8547a696ed8b9188182a95cee327e39,Lukas Theussl,ltheussl@apache.org,Jan-6-2009
+09202a1f02fba6aec5e5368a7dc76911fb7cf972,Lukas Theussl,ltheussl@apache.org,Jan-6-2009
+96963f298f21cf80f10ca46148136a5b30954662,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+37ddfa5f394d40ca661c367fbd20e59a0b07b016,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+251ef83b549e88ec188bd4916624cc2e2a635050,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+d2d17ccd146b4a364cf54835549f75a7d2f62bb5,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+29d1ad23c66df2a53d34b389a36b8da90d38c9ec,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+657f8eb3428f37a4d9bde8f10a0a722f0fab74e4,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+14ede9796f5baf668af5ff0fbb0b0bb8f3b84f72,Vincent Siveton,vsiveton@apache.org,Dec-21-2008
+512febb32e21032bdfa87aea9b1f4db1e1e02f22,Vincent Siveton,vsiveton@apache.org,Dec-20-2008
+008235a243ead38ced3970e09caa8aac1fb5256c,Vincent Siveton,vsiveton@apache.org,Dec-16-2008
+4fed3c3e556f5f447a530d0d58830ce2ec1e524f,Vincent Siveton,vsiveton@apache.org,Dec-16-2008
+d3e1b705cb8534b3ce694f1138e0b3b04c934474,Vincent Siveton,vsiveton@apache.org,Dec-16-2008
+49399d101b70e5ac70fa35ab7e8d077786c53466,Vincent Siveton,vsiveton@apache.org,Dec-15-2008
+3b5b877d5a0b4bf116218dd88b0479a7158574f6,Vincent Siveton,vsiveton@apache.org,Dec-15-2008
+cb24b3cad9bd47fdde123e934fdeb5bd3f01abd9,Vincent Siveton,vsiveton@apache.org,Dec-15-2008
+21cf99a89a768b86033dfd3d8590a06401e183e9,Vincent Siveton,vsiveton@apache.org,Dec-14-2008
+9a9c196b5ddb8ea779c4a03278ea88819497bed2,Vincent Siveton,vsiveton@apache.org,Dec-13-2008
+864b615ef7f7b92e22c4d275b2ee857853989bb8,Benjamin Bentmann,bentmann@apache.org,Dec-11-2008
+7dd9bd33ac0010a7c6c1ec03c29b08b1da35d4dd,Benjamin Bentmann,bentmann@apache.org,Dec-11-2008
+4e8d011a0f597658ecf04d17b39a201c1f56b105,Vincent Siveton,vsiveton@apache.org,Dec-11-2008
+67dcd9ec86f75b96fb318993b26b93135bf67d6b,Vincent Siveton,vsiveton@apache.org,Dec-11-2008
+613d30b891c212d9069698b778ee8ede2e329e3b,Vincent Siveton,vsiveton@apache.org,Dec-11-2008
+0310497c4896c48164c29b4dbe3c4f0bec8930ec,Vincent Siveton,vsiveton@apache.org,Dec-11-2008
+b7420b60393fae7f8c8a372b576cb65d323336ec,Vincent Siveton,vsiveton@apache.org,Dec-11-2008
+570d1086134f7ad046976ddcd59f3c37a086f2b3,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+f7db28d29e6d7f9baed0e750147880848da9f8dc,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+0843b11745a68fb49cfd84e1463b365917888c00,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+1006fee44070c21d6c32a7205a0361038c9de090,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+f1e8b20866cb8b6f308a7777544ff44204e2dd85,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+4e999c110c8f5e9dbcc85feb5bd996ccf2d4fc37,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+61665b5bc9918b38708ede36ba0a16a5d7f5b642,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+eca9fe5195ef5e9dc6c3fe787376a0ec69722fb0,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+52427b51ff24d72e50d65095c5d61562edcb066b,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+e9f11c08957e6079ec4f10d58ec6e2d66b48c519,Vincent Siveton,vsiveton@apache.org,Dec-8-2008
+5d7db86a23e54f10d253ae042a0afc5c6caedc36,Vincent Siveton,vsiveton@apache.org,Dec-6-2008
+24020d2f39200502c43de71de8c99808368fd671,Vincent Siveton,vsiveton@apache.org,Dec-6-2008
+760c316f10f70a7864eccdba2ea4b6c74d42fc90,Vincent Siveton,vsiveton@apache.org,Dec-6-2008
+34189062402f0a5e2bec363359c9c39747c1c896,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+d05ed60fbd363f36751d671a64c437c76a0d2ebc,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+8317e84b9bc1b912bf46661c7442f76b323e598c,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+d755eb52f9feb19abed1823e821147a0e2fdb8d3,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+615c2f465b7532ffdc7adce0168af24a8df7f52b,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+6b793e5cbf2c4fcf10477db463b6c17ae252f154,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+0d1ebb9efd3e4f28e51e050ce70ff5f1d0721fed,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+2edba65ed69e774e83404bb037d2c867a6fdccb3,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+6f086d08006065cd2025e8c5c0cedd86d06b2987,Herve Boutemy,hboutemy@apache.org,Nov-9-2008
+87bb431978268dfdcd4c7f848b7deeb31ea7d0fe,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+4755a98480c7edd95bf321d6f5da8d411d420734,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+02a8c34ca881150cb33aecc9467695a95c2c3ff0,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+13778e08b6076d202549fc11f172bc9cd2d46e5a,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+753bd58ae9dc53ef5a98f9e83a8e71114609041b,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+e278e74ffb59ee35a5328dff3f6a1a26d47e38da,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+4ae278e942d78602af391049afafd78c0378c853,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+8729f5d9002b12d08445fcd104afadbbd335d999,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+a40c47a03b64bc917e50d0954970d757d88dc828,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+630d485f5c16c81c4bddf6da519b2e4ef4f110e4,Vincent Siveton,vsiveton@apache.org,Nov-7-2008
+d6bfc791617d4eeebf00715c20154de68666e457,Herve Boutemy,hboutemy@apache.org,Nov-7-2008
+2d80593a22e9e685cd7cc15fd8791d57d3cefae2,Vincent Siveton,vsiveton@apache.org,Nov-6-2008
+68ce2f38630e3bc09c5ca32b966b179ab00486da,Vincent Siveton,vsiveton@apache.org,Nov-6-2008
+723fc20a37eb98f0561ec451c50e29bc80255ab1,Vincent Siveton,vsiveton@apache.org,Nov-3-2008
+01ab1535f1ab95e1e61b19ab6131e1b17ed9258f,Herve Boutemy,hboutemy@apache.org,Nov-2-2008
+fb016f712397a6846c765aa78f48ad2bd5fb0dd4,Herve Boutemy,hboutemy@apache.org,Nov-2-2008
+71b7571cb9bffa3f88d397b61de3f7ab99460f46,Herve Boutemy,hboutemy@apache.org,Nov-2-2008
+b38c7b03da681c0588709618d2c4b6af45e1a856,Herve Boutemy,hboutemy@apache.org,Nov-2-2008
+b8fe3061fbfa06274019c5ed41d3d746d59139f7,Vincent Siveton,vsiveton@apache.org,Nov-2-2008
+f40fe2ad89644c1035bdde3fabb529b3f4697995,Herve Boutemy,hboutemy@apache.org,Oct-31-2008
+cbd0dc68386e2ddb64615a9423a91a66ac9590df,Herve Boutemy,hboutemy@apache.org,Oct-31-2008
+43fee702389d822191639b743bd20921669eb987,Herve Boutemy,hboutemy@apache.org,Oct-31-2008
+65d20dd5bad318c62492db9de9ff48e94703de51,Herve Boutemy,hboutemy@apache.org,Oct-31-2008
+119e5939a82b3d9ed825733cb44e646cc4552c42,Vincent Siveton,vsiveton@apache.org,Oct-29-2008
+fc08773b565781a4108f84fd86dae2715c9d758e,Vincent Siveton,vsiveton@apache.org,Oct-29-2008
+3c48877e2dd6e6a0a9613bf86c57b144a5183e4e,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+5e58d92b808031efd7e2ad948d2b0f3a8ca1d16c,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+70a529430b633003a994b5d52cc249cb6328a8f8,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+a5f3c3c4409cf53017cb5835417d108f8722de92,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+dafd5bac85b65bd131e4d1eb8736e8c1062162c0,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+6926762376b8af29819c814c16628092859a9d8d,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+2242017b322334820de2bd343ab764911f6c3329,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+fce2366e61a290cd54bb429ebe09be74e095f820,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+d43d5189f1fa316f5217790e04b6280ac52e9f07,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+e8a0e6032ff155ee616bf040e2a9fd4bed892d9f,Vincent Siveton,vsiveton@apache.org,Oct-28-2008
+89880fe1616b4b08a8cfaef7205b31ee51e6ceed,Vincent Siveton,vsiveton@apache.org,Oct-27-2008
+c4492b27d59804cb2a26fbafb56dcbb33e169916,Vincent Siveton,vsiveton@apache.org,Oct-27-2008
+651946c4efe6751880e5dbb04ce41c99b3c0272c,Vincent Siveton,vsiveton@apache.org,Oct-27-2008
+0891760adfe96f1e73c8e161c40c1a24b7dd775c,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+f823fe0f9719419b83ffa6a8017d8218fe13b508,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+7d3f1f6fb0812d306eefe50698a200b973ee57ac,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+ae117c0db5e9a97e21bc088324b1d45a7497daf3,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+6f40391881eb76c9b47a8cf944bab66b75b4301a,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+5d50bc1ed5143a3d70acfa3f19a3cedef099b73e,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+de0940e67fa8568b67c42ad4552a69e6a19b71e7,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+6b2d44bc403bcb7a566fd7f1316080558d1a4d31,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+c7f533bf68eba50e2bc4a33d858b088ccd41e83c,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+88d450b28bcf50ae137e7fd23d42386539a2facf,Herve Boutemy,hboutemy@apache.org,Oct-26-2008
+3b4628fe64c7801ce2cf963c58295cf6cc5e3065,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+2faee7afddc2ca17647abc86f33938b126a83aef,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+0b50115c1023de5c71141e3c0c68337bd9f04804,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+97d7635b2eada2ec2cebbf9e539721ec461a79a7,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+a1ef17c4853d7bfc6485571df38b83ce14a1b4b5,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+8e8895a530e826a5a364a02219f7fa97fb591984,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+16fcd88ec73bf3a22fb480d5f323406b48800fa5,Vincent Siveton,vsiveton@apache.org,Oct-26-2008
+a4f4da80bab83b5147b221eb5e46116e91d5407d,Vincent Siveton,vsiveton@apache.org,Oct-25-2008
+35661dd892dfb93a4b06206ff5e02b898a3d45da,Vincent Siveton,vsiveton@apache.org,Oct-25-2008
+afd759bf246cb004c9b29b05258817aee28873ce,Vincent Siveton,vsiveton@apache.org,Oct-24-2008
+78ba557e62ffd16792169b74cab4d57b1732081b,Vincent Siveton,vsiveton@apache.org,Oct-24-2008
+4301fe0e7cef550ffb8187507b79b5b10d497abe,Vincent Siveton,vsiveton@apache.org,Oct-20-2008
+251a2b31aeee13b9f117678ac7d3b6eb4c1899f2,Vincent Siveton,vsiveton@apache.org,Oct-20-2008
+c81baf49776754b03b8df6f87a8f9fdba90b4a73,Vincent Siveton,vsiveton@apache.org,Oct-20-2008
+2719f91f06887d779925cd6c9962b207c0185157,Vincent Siveton,vsiveton@apache.org,Oct-18-2008
+a499fe0022825992de1680d8a84cf03d925c562b,Vincent Siveton,vsiveton@apache.org,Oct-16-2008
+7bb38eb0375f496f67a055b10be9b77a20fa9cdd,Vincent Siveton,vsiveton@apache.org,Oct-15-2008
+90000680f99d3df63b8d6305afb1392f70668608,Vincent Siveton,vsiveton@apache.org,Oct-15-2008
+7ceb78af0298f73d5c634b5b5167da5c780a53b2,Vincent Siveton,vsiveton@apache.org,Oct-12-2008
+2dbfcc599282b7badc2b2785fbe5852a1e8f5e29,Vincent Siveton,vsiveton@apache.org,Oct-12-2008
+0cfddb11931b341bb8aa4caca1ee69a4b6db26b0,Vincent Siveton,vsiveton@apache.org,Oct-12-2008
+ca498f527b5fbf1e423981c708903cbb811b48f4,Vincent Siveton,vsiveton@apache.org,Oct-11-2008
+10c05494e42ece5f2c720b5274d3e39e34ea117c,Vincent Siveton,vsiveton@apache.org,Oct-11-2008
+486227f61ce143f1045efb484b579af410ec1070,Vincent Siveton,vsiveton@apache.org,Oct-11-2008
+993f7f958ac926bd1e18cd4e1e2918009cefb40f,Herve Boutemy,hboutemy@apache.org,Oct-10-2008
+d5c01cd57e5a01022866b799b295029f9296ee6c,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+e80caa793e2ad25da5cc6ab45ca51ab8f6ac028c,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+2136c67d041a653bff41cae4eb7ab972eb6a22fc,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+0d30b772301bf79eb1341ad0803b5c6ea5081549,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+06dbd4a71f6ec9cceadc0c34a4b411761398757f,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+9318fe5399565f65cb99cb8a6077028bf466d83d,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+67c839d91faa9911f6e965ac4d517193ca47d5ea,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+6bcbe390e6606ca6568cf30df36d0059b2779e47,Vincent Siveton,vsiveton@apache.org,Oct-10-2008
+da23fb576bc0a4f8db36bd88499e6804dfc0a9bd,Vincent Siveton,vsiveton@apache.org,Oct-9-2008
+ea5899ff5a1d67a755f395c811cb614d38792720,Vincent Siveton,vsiveton@apache.org,Oct-2-2008
+944694f868df767896867ad965852c3243281ba9,Vincent Siveton,vsiveton@apache.org,Oct-2-2008
+40140afe86a88f05858b26fcd0c56451f8f11459,Vincent Siveton,vsiveton@apache.org,Oct-2-2008
+829afa18d36322d0a7519edc100612dfe9719bdc,Vincent Siveton,vsiveton@apache.org,Oct-1-2008
+58844adda1227d62eca293ba16a8e15f92a1f675,Herve Boutemy,hboutemy@apache.org,Sep-29-2008
+a5441f25eabbd0da12b1937e8f19ef41f253ec3b,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+7091c822d7be1d58cc6da00feb9ad11b965357ec,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+a6a06e0142409dd5273e78fd21c4f665f9f6b268,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+1a8d032f7b2d1c6eb2370484d19f0f3294b3588a,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+3781bfc2d6807bfdba1713ef468c974563ffd3f1,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+0c8eda677ac2fb5b2180c7f0a10f3eabd0b2d0fd,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+7537247740cf9e68c9ad29b84b7ac21135c78929,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+d770324340e491929baf8e4bc69f20a47b2341fa,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+fead2c0d253ee04f7b5c095eeaae2c87cc2e4a2f,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+b7f5b23bf8701715b58755c8eedad8cb49144255,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+7bcf6988022f7692bb91eb935137ca7de135b1c8,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+3507367ec905c04a2b14ba3dc558a8686aef1344,Vincent Siveton,vsiveton@apache.org,Sep-23-2008
+fcca3ef8c6f78250cb46047c9677ad053d96bd9f,Vincent Siveton,vsiveton@apache.org,Sep-21-2008
+b7efbf541a3fad99880ac6ff7d4c2a5dac42f95a,Vincent Siveton,vsiveton@apache.org,Sep-17-2008
+05dc05aa8ab07ac53dc5b267b1ce32fceb4208db,Vincent Siveton,vsiveton@apache.org,Sep-12-2008
+d373e7df69320422bc5f6bb45e01b19a7308d3d6,Vincent Siveton,vsiveton@apache.org,Sep-11-2008
+270762c84504294327ed00600dbde088c46cbd7a,Vincent Siveton,vsiveton@apache.org,Sep-11-2008
+478c6566c9892729430452db5e447a1bdec35f9d,Vincent Siveton,vsiveton@apache.org,Sep-10-2008
+c99c848fb306a1f1eb1945b31768582bd4b61158,Vincent Siveton,vsiveton@apache.org,Sep-10-2008
+a3237da317f09f469033fd0de331558ca35bb68d,Herve Boutemy,hboutemy@apache.org,Sep-7-2008
+1094d3d6406bab44bde01dbc3054761d1d250565,Lukas Theussl,ltheussl@apache.org,Aug-7-2008
+4898f4cd40ff5820610d6cb056a98435ea597946,Arnaud Heritier,aheritier@apache.org,Aug-6-2008
+d15e4c6b49c3509be173f50c3688933bccd3c3f2,Lukas Theussl,ltheussl@apache.org,Jul-30-2008
+32099efff7911b60b069f5af268a78a7d4c85acd,Lukas Theussl,ltheussl@apache.org,Jul-30-2008
+beb8d310c1b76dc20d9e500edd3adff2ff47d35d,Lukas Theussl,ltheussl@apache.org,Jul-30-2008
+c5a8bbe5b2d19c646204bd2a372d123a4b327b02,Lukas Theussl,ltheussl@apache.org,Jul-24-2008
+8b3d98bd983d25ddbe8585607a3f3e53dbce6cb6,John Dennis Casey,jdcasey@apache.org,Jul-15-2008
+d7c7b2456683529d1946ec369883f970958b78e3,Lukas Theussl,ltheussl@apache.org,Jun-3-2008
+e05227750ef78e1972a6e9a6d8e909a9697845c0,Lukas Theussl,ltheussl@apache.org,May-30-2008
+7201c1b64b00b45414dceed53c9ae71c9414f64f,Lukas Theussl,ltheussl@apache.org,May-30-2008
+50ae4336ac369bb81bb046757ede41f0a27878fa,Lukas Theussl,ltheussl@apache.org,May-30-2008
+942e94523716aa11ee79ec366d711c49caf9849f,Lukas Theussl,ltheussl@apache.org,May-28-2008
+cbc835d949420203b916da6c450c3f017000fb6d,Lukas Theussl,ltheussl@apache.org,May-26-2008
+5d013d28bb13583566bf38fb04bac7b05dd3412e,Lukas Theussl,ltheussl@apache.org,May-23-2008
+82a61a33f84058cbfcdc890633159b8629ecf865,Lukas Theussl,ltheussl@apache.org,May-23-2008
+f8aea729b11b667d3fb57ef86b480f011437d668,Lukas Theussl,ltheussl@apache.org,May-23-2008
+f7c37f86cad0068f148c84c31ebe5a2ca9fb3294,Lukas Theussl,ltheussl@apache.org,May-19-2008
+262c5026712b27f925c6634275ac24d751cf1d24,Lukas Theussl,ltheussl@apache.org,May-19-2008
+46dacbea08fb0844d35f14c43ecfd9b916538cb3,Lukas Theussl,ltheussl@apache.org,May-19-2008
+58e0ec994ab4366b78bf1a50e08a8b56c8305183,Lukas Theussl,ltheussl@apache.org,May-17-2008
+b5b5bedb8020b74d99fcdaa3c0591e47433026e1,Brian E Fox,brianf@apache.org,May-17-2008
+1ec298822e6badddef57158e547c12ac9fa4bfa4,Benjamin Bentmann,bentmann@apache.org,May-15-2008
+76ddeab57074d994db32616bdda5419ff9e9f8fd,Benjamin Bentmann,bentmann@apache.org,May-15-2008
+1cc2b088baaf26f66eb0f03fad13687fdfb47afc,Vincent Siveton,vsiveton@apache.org,May-15-2008
+3bce1c7d2e5b9fc54384a5df9769f76b31c25403,Lukas Theussl,ltheussl@apache.org,May-14-2008
+da3c82090ec1b6f64372d9c162cf9973c3a572cb,Lukas Theussl,ltheussl@apache.org,May-14-2008
+e88db3f048f2405f4cce6a302a9433dd02ebf96f,Lukas Theussl,ltheussl@apache.org,May-2-2008
+96ba686cd61ecb2144635584d4a695cd25ccf5aa,Lukas Theussl,ltheussl@apache.org,May-1-2008
+146c358d494b338d24d5b201f0d6466c661d0523,Lukas Theussl,ltheussl@apache.org,May-1-2008
+a02f5208d1ecaeeddd503e7ea7434c053fc23422,Lukas Theussl,ltheussl@apache.org,May-1-2008
+0e26fdad002c69653391de2258bd7e653584a57c,Vincent Siveton,vsiveton@apache.org,Apr-30-2008
+144e46bcbdfb3cc669978040be9290d5c2ec4abe,Lukas Theussl,ltheussl@apache.org,Apr-30-2008
+37b26bf1c8418f54be64ae274715b96cd1a8c8c8,Lukas Theussl,ltheussl@apache.org,Apr-30-2008
+9eef2fd7ae5b4f8fef03e06715acfe69e7750421,Lukas Theussl,ltheussl@apache.org,Apr-30-2008
+d73844b150c3069475b69ed59ba2bfb23bf62bb1,Lukas Theussl,ltheussl@apache.org,Apr-29-2008
+4c92951bb45b0a246dc1de5d6e646650b838f355,Lukas Theussl,ltheussl@apache.org,Apr-29-2008
+7e16f2dd027f4342f0e7c8dc7bbc96e7d2f8a5ab,Vincent Siveton,vsiveton@apache.org,Apr-26-2008
+c481de64a043e65257c33f945479088569c114bb,Vincent Siveton,vsiveton@apache.org,Apr-22-2008
+506d2464bba57b3096e03020e6af7fbcb3a02210,Lukas Theussl,ltheussl@apache.org,Apr-8-2008
+638f05e7a4feb0a165bc6a1834a70b6e0101b490,Vincent Siveton,vsiveton@apache.org,Apr-7-2008
+c38bf5ba23753342b80876909cb1e105e3926409,Lukas Theussl,ltheussl@apache.org,Mar-26-2008
+2630c4c32536ed8952b9e6d4a379fe50b53475ac,Lukas Theussl,ltheussl@apache.org,Mar-26-2008
+3f1a993868fb19cc99f9cf3f8af69fde4b7e7e76,Lukas Theussl,ltheussl@apache.org,Mar-26-2008
+6e0e461b4e6a305d55cc0031ac617d606e39bdfd,Vincent Siveton,vsiveton@apache.org,Mar-26-2008
+de3e1f86440a52156da932304b8074f4dacfb0d0,Lukas Theussl,ltheussl@apache.org,Mar-26-2008
+d017f17893443c9c0fcf9f1a2ff02ebf0e9710a8,Benjamin Bentmann,bentmann@apache.org,Mar-18-2008
+85db8f167eff8674809fafc9652960370e50d290,Benjamin Bentmann,bentmann@apache.org,Mar-18-2008
+9624d10171ea20096fbb95ca6777433be906e3e3,Benjamin Bentmann,bentmann@apache.org,Mar-18-2008
+3b5016fec48815317cede91cc5331da12b970d15,Benjamin Bentmann,bentmann@apache.org,Mar-18-2008
+f366a021381b79b17e596b2f3088fbbf269aa0c5,Lukas Theussl,ltheussl@apache.org,Mar-13-2008
+ec488660b64ae031432cc7e1dc165712c2cce112,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+755566c10a02e2638dc8b46f6d0467c083e8fcab,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+b662da287081fb97474af61276f8017c5e4acf40,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+1e433c46a6fa5a1ea5951f01832700896583076a,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+14f18232a1862b9d287244edc28e2225ba91f7a3,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+b8f80468a6f16b20153dd5f508ceba7c3eac9c90,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+d46979a25200b756697637cbc63f6a32fe96e69f,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+664d3e792a6ce649861bf58af9b6d00459737808,Lukas Theussl,ltheussl@apache.org,Mar-12-2008
+120b5d66ade6f51506b8d5076ba2abedf839995e,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+f51d42be3f39a7e5bc949fe68523f434693a4d3f,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+693e69d1afbb24fb767c30dcd1bf488dad415b5b,Vincent Siveton,vsiveton@apache.org,Mar-12-2008
+a0f8a7a299ffe12976297cfa71320b727298b400,Lukas Theussl,ltheussl@apache.org,Mar-12-2008
+f6d3232689a121a2cdc882a20047d103d64f7256,Lukas Theussl,ltheussl@apache.org,Mar-11-2008
+dbf7744535d003cfc5249943fe7cac23b3116dc0,Lukas Theussl,ltheussl@apache.org,Mar-10-2008
+95407755d935b25bfd1e8a964b9dac945dbb11c8,Lukas Theussl,ltheussl@apache.org,Mar-9-2008
+6d98fc798ebea52e73bedf9c7624a66fe35c2d99,Lukas Theussl,ltheussl@apache.org,Mar-7-2008
+c7ebc5021a4a30bd5a4b7a70f6a9d1f03783f7ae,Lukas Theussl,ltheussl@apache.org,Mar-7-2008
+d091f3e0789b04e74b11f0db8bdf9a57388efb3e,Vincent Siveton,vsiveton@apache.org,Mar-1-2008
+d47a8d9d7bd3b8352f2b75f9013ce4b04755bf40,Vincent Siveton,vsiveton@apache.org,Mar-1-2008
+e8cb6df9334b6dc349850efa5521a0bc3dea420a,Vincent Siveton,vsiveton@apache.org,Mar-1-2008
+73b67e39315950a730cb2a6fc82ed408ab5e1773,Lukas Theussl,ltheussl@apache.org,Feb-22-2008
+21ec987d10eaa8dd53feb340a83122939816336e,Lukas Theussl,ltheussl@apache.org,Feb-22-2008
+76c6d607f8a31bb111e5f05f358aaf74fa86bf8b,Lukas Theussl,ltheussl@apache.org,Feb-22-2008
+484e70eeaa481591965ccbe655d4e26983a6265d,Lukas Theussl,ltheussl@apache.org,Feb-21-2008
+582d8de61235560b5fcea1fbbf548765bf871f3e,Lukas Theussl,ltheussl@apache.org,Feb-20-2008
+339db001aee6ab62cff7e5c48866013748660c8f,Lukas Theussl,ltheussl@apache.org,Feb-20-2008
+bb42a7ab8f7304e612a1ed253faf06dc59a0a627,Lukas Theussl,ltheussl@apache.org,Feb-19-2008
+32dfd468b54832ced93a9915db24c398dec6f2bc,Lukas Theussl,ltheussl@apache.org,Feb-19-2008
+0e8d32bf0efcf22e2b1b91927e207e052687d8d7,Vincent Siveton,vsiveton@apache.org,Feb-19-2008
+1da40ad7431c1eaa08052ceb12c4fef1adad7b77,Vincent Siveton,vsiveton@apache.org,Feb-19-2008
+b941bbd04bcd369d0c26f94209a3872123a490c4,Lukas Theussl,ltheussl@apache.org,Feb-19-2008
+27633864987fe92c76bd3fd1e33ae5a2f3f6caa7,Lukas Theussl,ltheussl@apache.org,Feb-18-2008
+8536e37d16a5e4b4909191682998abee940f9f86,Vincent Siveton,vsiveton@apache.org,Feb-18-2008
+7d5ee27ab6ddf82d486a930768bdce9fc40cf688,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+b9d7ff76b40895374d067cdd0685ae0885ca8979,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+b69bd4185b2d61a3ab89d9472e8e9ab0151eea87,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+1cb4040a6c707ac492f93eb6de4c5232790bd962,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+70c86b74d24779fbc6817903909456124a1cbd44,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+88a35eb38ed24d480bedb97d9fa9591519ac3ed8,Lukas Theussl,ltheussl@apache.org,Feb-17-2008
+ec769432e4e2276ffe96acc6c821c21bb9267d20,Lukas Theussl,ltheussl@apache.org,Feb-16-2008
+dda7f12ff7a58a787a60b75354778b0341bbacfa,Lukas Theussl,ltheussl@apache.org,Feb-16-2008
+9b6a15a996818bae420b2cfc0ef2ad3c02e54708,Lukas Theussl,ltheussl@apache.org,Feb-16-2008
+31a7422e3b63b7b5760990c53bef13a8f3f5dee5,Vincent Siveton,vsiveton@apache.org,Feb-16-2008
+0adb267ba31395e2f20ce1d864e7586bbed352b4,Vincent Siveton,vsiveton@apache.org,Feb-16-2008
+ede0e5fc28fcb457d401f2fb0ef2a0936248fa70,Vincent Siveton,vsiveton@apache.org,Feb-16-2008
+ed6a49ac9953d5a1255e044a2a630a36cc53e528,Vincent Siveton,vsiveton@apache.org,Feb-16-2008
+c570ca09f67724f43eedb84b64ab8855a0daa529,Vincent Siveton,vsiveton@apache.org,Feb-15-2008
+6cde0dadd932143533cd952507ab7403f830e62a,Vincent Siveton,vsiveton@apache.org,Feb-15-2008
+ae86ece48e6a9baf8ac71678633bce20d80ea13e,Vincent Siveton,vsiveton@apache.org,Feb-15-2008
+05e64a9aafdc6fb21a010e330d9fcf24b003ea0e,Vincent Siveton,vsiveton@apache.org,Feb-15-2008
+fe060b080a5fb1831eb5b2d7f27607698a5327d9,Vincent Siveton,vsiveton@apache.org,Feb-14-2008
+22178c10d180cd6f0846c93ecf69d99894971e0b,Lukas Theussl,ltheussl@apache.org,Feb-13-2008
+55c419ed8f8ab1cf2d675389a1da60f3a0cd6715,Vincent Siveton,vsiveton@apache.org,Feb-9-2008
+5472e27566af192ec1fb56cde4569ec01f96e53d,Vincent Siveton,vsiveton@apache.org,Feb-9-2008
+d08ae00e548e754fdeaaf1b83f819a9173b7ca57,Vincent Siveton,vsiveton@apache.org,Feb-9-2008
+f0c1f8306e68b4e605125aad7c27ba91e7113ad2,Lukas Theussl,ltheussl@apache.org,Feb-8-2008
+902ca99e2b70c8505d6620fab716635882f0d257,Lukas Theussl,ltheussl@apache.org,Feb-7-2008
+de5be0fa868a6139dcba598303a7eda4cd0e4d64,Vincent Siveton,vsiveton@apache.org,Feb-7-2008
+1c7f54e839ec8dfe69a2dca9a63996f0794b39a7,Lukas Theussl,ltheussl@apache.org,Feb-7-2008
+b9fce4ae8feb3d017063c9492d0ba9c9b90db761,Lukas Theussl,ltheussl@apache.org,Jan-17-2008
+098c38eb7634956f7b60847c180add5694ed4b4c,Vincent Massol,vmassol@apache.org,Jan-9-2008
+75b45aa6c877bec6842dec209efbd234e162974d,Vincent Massol,vmassol@apache.org,Jan-9-2008
+45f78123687b3803856253b160bd37c5763c0861,Dennis Lundberg,dennisl@apache.org,Jan-1-2008
+11a915a4acdcd1e10a4052d219f5186691db20f8,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+ca519764c08f7dd6348f4543f865f54d7e41ea02,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+0af04f6f22ed1b581d9be76f52203700bf00ec5b,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+4d2597934c872201b63b6a507e0344a0267c3fa5,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+8985196438ba4b5e789d2a649caeb17507145aa3,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+a6d30a8505b93828014f49d8740ada9d478716a4,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+2eb16951ceadfe69702960215b7a143a7dd7ad12,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+d1097e7ddd70bcb22d4fc37cfee2329ca6347aea,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+e63959d21e69f531782c007fcf6566cf0cb5af18,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+61367acb0edc6a4a2aba1ad1875694dbdd35d18d,Lukas Theussl,ltheussl@apache.org,Dec-16-2007
+6b45a3665f1b8fb384d88667864eeef99e9bafd7,Herve Boutemy,hboutemy@apache.org,Nov-29-2007
+f10ade07fb17158b68175259bc8ed6eebceb67e3,Herve Boutemy,hboutemy@apache.org,Nov-28-2007
+63e7e37cee8942fb055094e02527990bb6c23b8f,Vincent Siveton,vsiveton@apache.org,Nov-28-2007
+4d42a25db9725f934ccdc850277f2bc170fd6a66,Herve Boutemy,hboutemy@apache.org,Nov-27-2007
+d007bc290f600a3fb26a593c0c5322604e6eeb46,Lukas Theussl,ltheussl@apache.org,Nov-22-2007
+3a8d5a9ef57049b62571205d68cd8b8b8279c760,Lukas Theussl,ltheussl@apache.org,Nov-19-2007
+08f6026a4acbb0d6993ee64870edaf01616ffa7d,Lukas Theussl,ltheussl@apache.org,Nov-19-2007
+e3086a38bf6e2b8da29f6ef960ecccf196d4d6f6,Lukas Theussl,ltheussl@apache.org,Nov-17-2007
+0c55dbb26c201bb7a3e404e2ed41bd4920214d13,Lukas Theussl,ltheussl@apache.org,Nov-17-2007
+fb7c7c96fa104227ed0767276b3e79437cd904fb,Lukas Theussl,ltheussl@apache.org,Nov-15-2007
+9ed3cb6c87a85e8ee999d83d2c6fe4e8f97c2750,Lukas Theussl,ltheussl@apache.org,Nov-15-2007
+60585ba42f29b742f8add63ec1f1e6ddf29f983a,Lukas Theussl,ltheussl@apache.org,Nov-14-2007
+5f1aa4d7648be7353997a764208c9bd253f3cbf6,Lukas Theussl,ltheussl@apache.org,Nov-14-2007
+cbbf6ed9c2875a45ea55f6dfe19236c29fc9d9ea,Lukas Theussl,ltheussl@apache.org,Nov-14-2007
+cea60c005d41e451efc43037481aab6702d864d0,Lukas Theussl,ltheussl@apache.org,Nov-14-2007
+d8105d1b97a363359b81d0764189861c686065bb,Lukas Theussl,ltheussl@apache.org,Nov-14-2007
+cbff0d1780e9008c8e65b65ed1b12e6a65702af3,Lukas Theussl,ltheussl@apache.org,Nov-13-2007
+08495a96fd70c7154b7eb59f117a65832514ba41,Lukas Theussl,ltheussl@apache.org,Nov-13-2007
+0559f4f44e5730ba4842c53834da62b55453ec71,Lukas Theussl,ltheussl@apache.org,Nov-6-2007
+75f3b760d8491a65b30b4a7b2f98408363dec0f5,Lukas Theussl,ltheussl@apache.org,Nov-4-2007
+9e3b48c331c8cfe0d6989b599e451e7c37bb1933,Vincent Siveton,vsiveton@apache.org,Nov-4-2007
+a20e0e6c2e8857f77059998ddfdbf1d753f40953,Lukas Theussl,ltheussl@apache.org,Nov-4-2007
+bc1f81c597cbc76a0bdbaf49ad2a823e41211614,Lukas Theussl,ltheussl@apache.org,Nov-3-2007
+fb1c86bddd0650883fe2b720b8e53425bc5981b6,Lukas Theussl,ltheussl@apache.org,Nov-3-2007
+127701898c77e6f0472bd7fa8eccd92a79836539,Lukas Theussl,ltheussl@apache.org,Nov-3-2007
+9506691f188a64377b58d84f84ed6705089e8012,Lukas Theussl,ltheussl@apache.org,Nov-3-2007
+68449b62d264eb87375a2dc4672a8fc0e5002bc5,Lukas Theussl,ltheussl@apache.org,Nov-3-2007
+8faa102283c805fe355e708175fab776f2e2d241,Lukas Theussl,ltheussl@apache.org,Nov-2-2007
+181e6c43a41b2aeb425da0dc879b25212686ff1f,Oliver Lamy,olamy@apache.org,Nov-2-2007
+4a61168e16d28beba8cfe1df0c4d91e835fde63f,Lukas Theussl,ltheussl@apache.org,Nov-2-2007
+92bb0d42d0d800d24470a7f42b0903d33c7f6c4b,Lukas Theussl,ltheussl@apache.org,Oct-30-2007
+bd2041956e722f9ea52d16015ba6d34e1dbd3fea,Lukas Theussl,ltheussl@apache.org,Oct-29-2007
+1a8594a433cf0b9c8ca4de3a824848a43552fda0,Lukas Theussl,ltheussl@apache.org,Oct-29-2007
+94e047a52e594b7fc0315bef182b1649360cb8ad,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+f604ccf38b8324dc5c7cb309bca5d513dda96055,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+1f15e5a354061b141dabe705f659ff25411d6af8,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+3c98136c25b024438ad9416b6c2353283490088b,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+2d342ef31b48ca0efda219e2cfb724572914f26e,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+649cff7e8067cb9c6a06013a885d0b6cab9029da,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+5f22987b65ce4d7f47eb36344c8c6aa854c71e3e,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+524d36693778cf1d2f0d23c50cf01dbad71b531d,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+58eb185e668c29fe469e8a3240e7316d22db092f,Lukas Theussl,ltheussl@apache.org,Oct-28-2007
+586fb4ab3fccf56cfa5796d28ca4ec51908a7e99,Lukas Theussl,ltheussl@apache.org,Oct-26-2007
+4d4d341c25cee98817fd753683f8e55301f633a5,Lukas Theussl,ltheussl@apache.org,Oct-26-2007
+ce0dcf659a165477ba713d9dadbc2757fe732902,Lukas Theussl,ltheussl@apache.org,Oct-26-2007
+32a4b92ec57c0b6247dffc4955f396ba532cec21,Oliver Lamy,olamy@apache.org,Oct-24-2007
+df80049ec0081ea2845831995c653bededa1d964,Mauro Talevi,mauro@apache.org,Oct-21-2007
+a4d3cc6205bc1cdc6a8ba5fb0dca520676ef86de,Oliver Lamy,olamy@apache.org,Oct-20-2007
+467314c1c9f87c5c2a239fa71b994689ad2a6ab2,Lukas Theussl,ltheussl@apache.org,Oct-19-2007
+92ae4fb564797e6f0eef50405bbaa9eddc594bdf,Lukas Theussl,ltheussl@apache.org,Oct-19-2007
+622c9c83ca391ef2f470cf171fed85fee87dbd30,Vincent Siveton,vsiveton@apache.org,Oct-11-2007
+a04c1019644433c1a027d2c13fc251a9cbdc1849,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+f1af7baa5737ff462063e82ca0c70afc311970e7,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+be954cee40fb58f7a7b606f1f5cb7849e741b414,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+aa0fb28405333d39a5abed6773680c96ecc676b8,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+4bba119e2374d7ef0adbcbafee185afdc2ed32a6,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+b2c634c87f8bfb9dc1f8ce196bcd69344972b9b3,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+729f98e77e9db2665bc87015c6d568e67d94a66e,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+5ab2041070ca9be618c079310fa1dc3af0d1d8c3,Lukas Theussl,ltheussl@apache.org,Oct-11-2007
+642e7420d726275d7cc0c1799cccffcc3d669993,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+969307cf541c1cfa945af8982b4b16b8b147d272,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+149d39074071626f0720e79b0f335c0c45fc8fe3,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+895ae1a40bf4e3e1f3982c15f8652f313a26a979,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+dde82ef0d307ac988494e9d1bf122a7054e6234f,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+a51e504d9ac46bc33d164942385b026cf785b448,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+0f3046df432bf4dbb93ed00fcfb122c36752ff88,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+9b09ea0ead5c4c0c75a90af95e111db6471dcc5b,Lukas Theussl,ltheussl@apache.org,Oct-10-2007
+cbbf66b4f85df920bc3ca0b863da1bb67c29ba38,Lukas Theussl,ltheussl@apache.org,Oct-9-2007
+08900e1bc174a262aab57d0bb0d95cecd98639af,Lukas Theussl,ltheussl@apache.org,Oct-9-2007
+1b1b85042bbed0da6c58171d6a0191523b52c4d0,Vincent Siveton,vsiveton@apache.org,Sep-30-2007
+de4e04f2f5372aa37483d26162a3cbfa7412efda,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+5f8e653891779d824dcc7bbbe1839ffe0c53dd90,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+33026ad658cf0b0d60eade43138e15408756bfa9,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+169f93f7c3eab684764ac59506d5a07dab974070,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+e8e2510c7bfe3ae606e798637389e673f7c73571,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+8e002da510b364ad9e404e448d29db0828794611,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+767073b9bf80759f3eaa452bdddd05862a6ba2fe,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+b3f0a7967de1fc82ca4cb1c215052fd42c2509eb,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+8e03426d400f415ec6611687bc7a38fc2c709e57,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+bfc54e0a23f2a6c48b4a96efa6488ea681b6a5d3,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+3e2952be7d3b02199d1e64ff53f52891d9e0803e,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+2056111475eb5498fb6194cd69c8534959c6d690,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+a41f7dd07927daf2a2101d774851a7ba4c12423b,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+aed955827177a7a3199dc8c33769b5891bb376e5,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+c211c67401e3fcb8dbe56d92a01f03df677ef028,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+ef29ce6a81c0ed4d7b1b33fd26ef5615e7558277,Dennis Lundberg,dennisl@apache.org,Sep-30-2007
+7566ec9ff52c8cfcf2eddcc33ae27ac5852ff98b,Dennis Lundberg,dennisl@apache.org,Sep-29-2007
+5cd37ddb446c23a202bec7af93bb57a7f55f5009,Lukas Theussl,ltheussl@apache.org,Sep-25-2007
+0493c9d7cf3b7dd9ee608425822459cc857cea81,Lukas Theussl,ltheussl@apache.org,Sep-25-2007
+b4400a2f5c68867ec372b77573151a274bbd0d53,Lukas Theussl,ltheussl@apache.org,Sep-24-2007
+f70c499604e8e72979baa629a3acdc61eae909fd,Lukas Theussl,ltheussl@apache.org,Sep-24-2007
+1399702ffa03f62a3ae0e0740fed570bc9903366,Lukas Theussl,ltheussl@apache.org,Sep-24-2007
+d5096da06696afd1c1ba6db492aaf4c67fd55b76,Lukas Theussl,ltheussl@apache.org,Sep-24-2007
+20ea97bd916f0360f89aeb7babb97c2e8e120cad,Lukas Theussl,ltheussl@apache.org,Sep-22-2007
+64c3dfb776f60899b9e3a063670d6ec89dff3afa,Lukas Theussl,ltheussl@apache.org,Sep-22-2007
+01b3fc44eaddbf8a5cb1d5df216404ea6106688f,Lukas Theussl,ltheussl@apache.org,Sep-20-2007
+7f5b07d66ce84099a61984b9beeac9ae3d995b37,Dennis Lundberg,dennisl@apache.org,Sep-15-2007
+80737e1544c780fe3986ab3cc83c177db2492095,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+e40ca84a052810c9d4c8012f48912e423199e6f9,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+46c5e730ea2f0a66e11121e35c01f98de3137125,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+5831fb7f8e3581ca3a566b21a96faa7c8c8bdf71,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+0c09c58e48431076e291727193794f2dc4d0002e,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+16110409063ca6d24a2dde2ee8ef925506d9f33b,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+a3ec3f4159196dc5be4c9477ff2b62e5f980305b,Dennis Lundberg,dennisl@apache.org,Sep-9-2007
+c845a0878419df9b36cf6e3fcc1015b2a542150a,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+55647d4f074c393df91e71a580baa18ed90be67c,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+8af54f71c31aa0c0339a959e7c1445156316df52,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+7657afe2cca46e573680ec4015d4be4ce3defb24,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+b6f9f9d0aff098065ac0fe2b350ee8a9f5da59b8,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+cd75d1c9b884f883c7afacd1dc8e2cc420c73b03,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+bb0d635621659270007eaee708004fb41e86088d,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+06db52b18956bb8a6b2bb49cb1a778f2fecd7f7c,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+5b7d824bc9a99eaf8fcd6d536568197c83d59177,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+020eefc97efc94695e6bfd907a2d5aba050ab92b,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+328370a6fd7d79e41109c886f97254270190f627,Dennis Lundberg,dennisl@apache.org,Sep-8-2007
+bbbeb1ce49f89d7788792cd25bf3ab1f315593a9,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+9bb010008e4b67bb50c8573665d6c286f4c8102e,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+b6b730d4d5cd0676aa4bd094ef0b8864c147d71d,Vincent Siveton,vsiveton@apache.org,Sep-8-2007
+dc6ce2342bdefe14d9f568a78c464737411996dd,Lukas Theussl,ltheussl@apache.org,Sep-8-2007
+2b6c5018a7c28cb39d1bc72098c5228ae5c21ecb,Lukas Theussl,ltheussl@apache.org,Sep-8-2007
+422010e158cc50bff0f2e6d368f59b6d047eebeb,Vincent Siveton,vsiveton@apache.org,Sep-7-2007
+cf31b8157eacabc05c9a9e88d8ce6643c0cb2fb5,Vincent Siveton,vsiveton@apache.org,Sep-7-2007
+4af8c0f8cd465647e3d404bbf7aeb662f4c9cfd3,Vincent Siveton,vsiveton@apache.org,Sep-7-2007
+38f19c324d7648b5e560dd3486bcb8275d494302,Lukas Theussl,ltheussl@apache.org,Sep-4-2007
+2e2d4af24b89958e720565c15ddd2389c2e7a0bd,Lukas Theussl,ltheussl@apache.org,Sep-2-2007
+dbf58d01b0d54418370b7232d14eeec93ebf5b92,Vincent Siveton,vsiveton@apache.org,Aug-31-2007
+077c066453a5d0afeb75b6ea320c5500b9492310,Vincent Siveton,vsiveton@apache.org,Aug-31-2007
+a6e91ac4b6cda2918d9ee9beb675015b927eabac,Vincent Siveton,vsiveton@apache.org,Aug-31-2007
+6fbec5234d8a48e6819ce208687144e369d467a9,Vincent Siveton,vsiveton@apache.org,Aug-31-2007
+15c71841d4bb38cdaee0c48ffed54fb22c255a90,Vincent Siveton,vsiveton@apache.org,Aug-31-2007
+184d039e0ec4205e7df3f9b123744251da1478e2,John Dennis Casey,jdcasey@apache.org,Aug-23-2007
+81bad7b1f6eb131a364cdec64cb66a530f5c818d,John Dennis Casey,jdcasey@apache.org,Aug-22-2007
+3cb5655122e49dd9d7b614d5374ef3878b20c51f,Vincent Siveton,vsiveton@apache.org,Aug-22-2007
+b1cf290c606a2ec373e44c4e6942303560b5769c,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+334edd0023931e947567bbd459c67102f07a1d3c,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+95a6dd9dbc76184f1f3c2e8c9cb890b4cbbdabb9,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+d88fcb65682dccadbeec5ee695abf57c93ef55ae,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+385551039d4fcd8bc8b74670f883762a224e107a,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+2cc9f422ac42f336e0b1465d20f752947439f497,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+24b8db7274598c7aa5f76636dd5d74d20401d02e,Lukas Theussl,ltheussl@apache.org,Aug-21-2007
+89b85dc65eef11f534dbfbd080d0dad3ea86580c,Vincent Siveton,vsiveton@apache.org,Aug-21-2007
+44b02788b350a817332be89a1b3010e4f3a48175,Vincent Siveton,vsiveton@apache.org,Aug-21-2007
+c96a09a4b858a680dca9952a9d6d21d4bf78c385,Vincent Siveton,vsiveton@apache.org,Aug-21-2007
+e53c8655b31f1a8294706f5f0409e81db58ecb45,Vincent Siveton,vsiveton@apache.org,Aug-21-2007
+5703ad860cee87c611f9ddd74a9b57ca8c96b566,Lukas Theussl,ltheussl@apache.org,Aug-20-2007
+c49c7a82f4a3ce32de08e6608a76599dd1d5e3c2,Lukas Theussl,ltheussl@apache.org,Aug-20-2007
+af91c6e5e215836c044e089a026f0546bb92b87e,Lukas Theussl,ltheussl@apache.org,Aug-20-2007
+93fd4a82a6d541be9e5a50118e14f287db9302a1,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+b1f34e1135a355d85545e6bd3aa37bdd184fe8d3,Lukas Theussl,ltheussl@apache.org,Aug-18-2007
+5c7c7cd5961a9725bea2d53128a893d8760e47a6,Lukas Theussl,ltheussl@apache.org,Aug-18-2007
+f883f899f3fa8142c2186c8b0c6b2c4b5a48ecc2,Lukas Theussl,ltheussl@apache.org,Aug-18-2007
+44b9a49352a1f6ff915aa4f13f51fb96a5f29fd0,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+57f013ce06b213e4234dc3c4f06fbca92d226099,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+4c99cf5d9d596346efcb025e6951304db544f3f1,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+62a506b79c94b5e8783b5bbdda56b47569e04777,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+d70412b39ed19af40147a3b4be64444d2622db32,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+c5c0d0756845d8865e71f2f30d977ff284e091bd,Vincent Siveton,vsiveton@apache.org,Aug-18-2007
+a9c7a1b8194ddd53c5065caaacd75e8950ac64b4,Dennis Lundberg,dennisl@apache.org,Aug-17-2007
+a319598c4d1f528cabcce8bc109fc68448ae75ee,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+f3c5a82dfa2f6e9f16b2467d665fa6ca6abd726d,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+cdf5a0582652d616b3139ef130531a49d32db330,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+0e9b7d58821126b1bb23f7ebc2c55fa88d9f0f30,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+b067e9492309c0642b0cd77c733ea435d4392a08,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+20ff82cbd5e36da008ec7e2a9eb10a3b314eb610,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+d8b24aa59170536f5c2e164be4d69dffaeea0827,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+86df8a304b914c46c67b06708e7c20878d75a8dd,Lukas Theussl,ltheussl@apache.org,Aug-17-2007
+76a0eb617ea290b3ee7579bf8caea81646d1dcc6,Lukas Theussl,ltheussl@apache.org,Aug-16-2007
+1fa4faac63ab037fa94a4f5a913541f0b56e6631,Lukas Theussl,ltheussl@apache.org,Aug-16-2007
+dabd843b44a501400227370a2a628fb055063f9f,Lukas Theussl,ltheussl@apache.org,Aug-16-2007
+5e3f1565d70df84a97326d61a12896a0d9a33305,Vincent Siveton,vsiveton@apache.org,Aug-16-2007
+eb5e9a6896d69f85c838cba1748dec7231f0b9d1,Vincent Siveton,vsiveton@apache.org,Aug-16-2007
+c7760bc8c973bd36f4592222d601461a64347af3,Lukas Theussl,ltheussl@apache.org,Aug-16-2007
+ef4af4ae1e6551c700ea0b015b79291b709f6f39,Vincent Siveton,vsiveton@apache.org,Aug-16-2007
+409dacaa58d75c8ffe90bafc34c8cab0c6a0bc7e,Vincent Siveton,vsiveton@apache.org,Aug-16-2007
+f912e242f8a139852a57a76e52913686696ce1fb,Vincent Siveton,vsiveton@apache.org,Aug-16-2007
+a3284b1eca51f87af7eef1eb23952d691c9a4760,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+856e47a68d5ff27ee1cf5dd6ce8db83f492c9d9b,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+eb3cfa35d8a26ddeca9cfe5571bb441585c62dd9,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+f6e2d5ff8f15810b2e11e56411bc3933ddfd988f,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+d2512b73afa3f035256feb98e05f4376aafd0a02,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+ef7c10df825141178b73828071d9c90f630b1864,Lukas Theussl,ltheussl@apache.org,Aug-15-2007
+4d756bc95613bd70ef1ec5e79b023320f7080511,Vincent Siveton,vsiveton@apache.org,Aug-15-2007
+a82724c1e1c85c97fb0bd2c83dc5fccf165078d1,Vincent Siveton,vsiveton@apache.org,Aug-15-2007
+19bdcdbf1de5437d9152c8d81d4b4a4a09ef9ce4,Vincent Siveton,vsiveton@apache.org,Aug-14-2007
+1c2b88dbbd54116fa88616bcd709195b6c95c182,Dennis Lundberg,dennisl@apache.org,Aug-11-2007
+2066fada3c6ab854aae5657657017fe30dfb2987,Dennis Lundberg,dennisl@apache.org,Aug-10-2007
+07e587b60d1787ca960b4dbde6005890433b3971,Vincent Siveton,vsiveton@apache.org,Aug-9-2007
+56eaf8f1c780e2f3aeee1463892348301b1e846c,Vincent Siveton,vsiveton@apache.org,Aug-9-2007
+e9b943da58edf6dd988d5daf90d2618c9db4607f,Vincent Siveton,vsiveton@apache.org,Aug-5-2007
+f15565f3191f3d643c5d84133a3b27ae3c874ec9,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+1e0b09963386100d8f69d1d3010e6dc520dc7b64,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+59af94352f4ea3723ed29befd07100e922733c58,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+8542c0b2fa8f87b92c16180a590d95938ebeec74,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+ddda44c1cf6a10c62ff5015288069d82f18e6190,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+19ea6ea8700fbb1dca77cdf25600377e91003335,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+5228aca843749546f7840ff389784c6163b8937a,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+34bb1cdc967ddb2ab11a7113388e8acfce8d5553,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+92b58d4ad2f636283ac6239aa9166e9f63b2c557,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+1180d3c73cc4bc9317ffe1275497fa9861e87a63,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+822c38d5f46b0105f1a1a353b6017382672bba7d,Vincent Siveton,vsiveton@apache.org,Aug-4-2007
+5120954645e4d98839720b88a5c92c8c55ec953e,Dennis Lundberg,dennisl@apache.org,Aug-3-2007
+b78070aa58a7a415059fb31b719a2726514ca276,Dennis Lundberg,dennisl@apache.org,Aug-3-2007
+cff6dda62064dbf39393a16a4e376ae97e15886c,Vincent Siveton,vsiveton@apache.org,Aug-3-2007
+e5f8cdcc031057eae00b575bc122b2b1293f3ba0,Vincent Siveton,vsiveton@apache.org,Aug-3-2007
+aad8ad8290f057cc9d1b4a45097029e098bde309,Vincent Siveton,vsiveton@apache.org,Aug-3-2007
+ebfd9c0ee11acf0b2379d590ba2454239c321ae9,Vincent Siveton,vsiveton@apache.org,Aug-3-2007
+a5eaae43ee0be5ce5ba6ea4066841303023a7dd3,Dennis Lundberg,dennisl@apache.org,Aug-2-2007
+1736c9119434dc7797e9164249841aa4ae9c90f5,Dennis Lundberg,dennisl@apache.org,Aug-2-2007
+e4485b05d389b1b912ee0111331b5e1c77433669,Dennis Lundberg,dennisl@apache.org,Aug-2-2007
+b31ba3ff926e2bd20d85f1059fd55c5535abf443,Dennis Lundberg,dennisl@apache.org,Aug-2-2007
+e2025a29a3b31a86461b7ecb821a857281867fc8,Dennis Lundberg,dennisl@apache.org,Aug-2-2007
+db7ae0f782e63f537a1ca35dba6f8e3314c6e60b,Vincent Siveton,vsiveton@apache.org,Aug-1-2007
+c5d02f3badc1d617dca3c8bf15cae1cb856709db,Vincent Siveton,vsiveton@apache.org,Jul-31-2007
+610948365b1f820c5634f88f0be8e58ca15b2bb6,Vincent Siveton,vsiveton@apache.org,Jul-31-2007
+a50a8e0b68a57746db1a4360069ed686c7de34ff,Jason van Zyl,jvanzyl@apache.org,Jul-31-2007
+b2f04896e937fc231b489b4dd885b03e1fb1df27,Lukas Theussl,ltheussl@apache.org,Jul-30-2007
+70f0519e74d285b865fe79f773db741e202b88f1,Lukas Theussl,ltheussl@apache.org,Jul-30-2007
+723c0c702610cbd34631103d7ab887ecf34468ac,Lukas Theussl,ltheussl@apache.org,Jul-30-2007
+f841931fd08520cc5d386933c6ae9dc6999dc36c,Dennis Lundberg,dennisl@apache.org,Jul-29-2007
+109e72857430e3daba8ed1cf3aff136672bb8caf,Dennis Lundberg,dennisl@apache.org,Jul-29-2007
+97403258ea3676b5a81864f5f1dda94113ee557f,Vincent Siveton,vsiveton@apache.org,Jul-29-2007
+d50f09ca2016ca9a00fb6b024bbc1269c328097a,Vincent Siveton,vsiveton@apache.org,Jul-29-2007
+cca525669bdbd1adfc904c883ddea78368860b01,Vincent Siveton,vsiveton@apache.org,Jul-29-2007
+902f034c1002538bd7bbea40c6542e6bce9ea87f,Dennis Lundberg,dennisl@apache.org,Jul-27-2007
+d4f8a0b1a57061d251144f36ecfe61818227319f,Vincent Siveton,vsiveton@apache.org,Jul-27-2007
+8cbca4b31c4ffd30d1ef144da80b88309f6d4f72,Lukas Theussl,ltheussl@apache.org,Jul-27-2007
+c65c1ad19cbb9a8b215e433f0656ab5a16c7cc3c,Lukas Theussl,ltheussl@apache.org,Jul-26-2007
+af40f6b715060b1833d3669fb506efad0d9b54e8,Vincent Siveton,vsiveton@apache.org,Jul-26-2007
+a1ff46f731c19afcbe227ae997a6c7bca054123a,Lukas Theussl,ltheussl@apache.org,Jul-25-2007
+c8a9b0ff595ec9886d1d1db954b3e7557951f892,Lukas Theussl,ltheussl@apache.org,Jul-25-2007
+3c87c298856051c8e108ee1cd0aec87270f479c3,Lukas Theussl,ltheussl@apache.org,Jul-25-2007
+595ee0aaabdc2b4a08828c54778eb5b6714a8bdc,Lukas Theussl,ltheussl@apache.org,Jul-25-2007
+6030b154da865fca801773308af3f91853e0e528,Lukas Theussl,ltheussl@apache.org,Jul-25-2007
+1ae3ff74261b177f3ef7b9ecee82e5f45fc3a057,Lukas Theussl,ltheussl@apache.org,Jul-23-2007
+15fdde0193afd1a21a4979533237b9fd5ad5652f,Lukas Theussl,ltheussl@apache.org,Jul-23-2007
+2771058333fca653e0236f062aa6a988a0404838,Lukas Theussl,ltheussl@apache.org,Jul-22-2007
+54bcb2ac121df6a811915a8c6a4e927056a89029,Lukas Theussl,ltheussl@apache.org,Jul-19-2007
+67be1d93ddef3816d2c8a5e5a002ee95925f8df1,Lukas Theussl,ltheussl@apache.org,Jul-19-2007
+6c6c13f150798f80658015dce1b91b0a2a0dde12,Lukas Theussl,ltheussl@apache.org,Jul-19-2007
+c06c9eea1520545f20b685228ccaae9ce3542d47,Lukas Theussl,ltheussl@apache.org,Jul-18-2007
+67f7a2beeb8218bf77bb13cbbe00b305dfa18948,Lukas Theussl,ltheussl@apache.org,Jul-17-2007
+5e7dd9f2a46446e21a9009dbd013dd7fea4ee1a7,Lukas Theussl,ltheussl@apache.org,Jul-17-2007
+3ff9bb2c4c5d27df18b0292b1305324fca671866,Lukas Theussl,ltheussl@apache.org,Jul-17-2007
+1eed61bed0ff290e9e559b56fae8156bf42eb880,Lukas Theussl,ltheussl@apache.org,Jul-12-2007
+b81fc0e77e453f54bfece0c6246376a756f15141,Lukas Theussl,ltheussl@apache.org,Jul-12-2007
+1f9a1d96bd208606362fd4a3697b77760dd0e428,Lukas Theussl,ltheussl@apache.org,Jul-11-2007
+fcabc652901fba28263412459eb579b277f24526,Lukas Theussl,ltheussl@apache.org,Jul-11-2007
+0d7d31500634087e83b3c3132d36c0958bca39ea,Lukas Theussl,ltheussl@apache.org,Jul-11-2007
+b28eae584554450b82b218bbe3408f25e181d39f,Vincent Siveton,vsiveton@apache.org,Jul-11-2007
+349ab1f62b8d6054a11428b94423e59edfdc2e63,Vincent Siveton,vsiveton@apache.org,Jul-4-2007
+62bc149331e7fc0d67832619ffdb6ff1d89b3b37,Vincent Siveton,vsiveton@apache.org,Jul-4-2007
+f46db6aa992e391630f7ce0ed4d00a6cd2dfeb8e,Lukas Theussl,ltheussl@apache.org,Jul-3-2007
+5d61a7fc2d07ac4249e47c0422f3193d7ae6f3d0,Lukas Theussl,ltheussl@apache.org,Jul-3-2007
+7615885c23cdf5f19db3be944cd949e8159b76e3,Vincent Siveton,vsiveton@apache.org,Jun-5-2007
+d5d735441a09918f2ee73fbc0f03bc5128896764,Vincent Siveton,vsiveton@apache.org,Jun-5-2007
+f8ab7c2c154b7503a5e2e6b4e121efd14945e5e9,Vincent Siveton,vsiveton@apache.org,Jun-5-2007
+782d244e9470f4a6352b1bdde7c59a0a7b9eca09,Vincent Siveton,vsiveton@apache.org,May-29-2007
+3374e4f680473c391ae6e14897a232950182d810,Vincent Siveton,vsiveton@apache.org,May-29-2007
+9d1f8dcb9c4e69900c2601d299723a84fda8a43f,Jason van Zyl,jvanzyl@apache.org,May-28-2007
+c9a4b22342cd865f9e0343a675cc9b5234be87bb,Jason van Zyl,jvanzyl@apache.org,May-28-2007
+34b48f70993f96e7e08719be072610e7dce21f30,Jason van Zyl,jvanzyl@apache.org,May-28-2007
+029d30b33b43ed3f01034bed094b272b2630e665,Jason van Zyl,jvanzyl@apache.org,May-28-2007
+f86696f4a7cb680d320e92249f1123fdc539ab61,Jason van Zyl,jvanzyl@apache.org,May-28-2007
+dfa47cf85488a621776cbd388ca81012c001d161,Vincent Siveton,vsiveton@apache.org,May-21-2007
+4a8e55a95edd99da7ae517b7e56c579d5554a8f3,Vincent Siveton,vsiveton@apache.org,May-19-2007
+7aa659ea91d90a00950ea69f59e22622649f5690,John Dennis Casey,jdcasey@apache.org,Apr-20-2007
+7c2671145735a85dc0f62ebc1095bff1216093db,Emmanuel Venisse,evenisse@apache.org,Mar-22-2007
+b60c8a9ba1979edcd4450d427226f30d423606cb,Emmanuel Venisse,evenisse@apache.org,Mar-22-2007
+ffee38c44fbf9d7b839381dda613fb608b5664f9,Wendy Smoak,wsmoak@apache.org,Mar-22-2007
+e640c5ccf505ddeb0b15cf347c18b6643b36865f,Jason van Zyl,jvanzyl@apache.org,Mar-19-2007
+b99d835a639baaff94ae978bafacca85ebaa9196,Jason van Zyl,jvanzyl@apache.org,Mar-19-2007
+13973c3dce5f881ad184c64d9900ea967809d41e,Jason van Zyl,jvanzyl@apache.org,Mar-19-2007
+5b141df9dfbf14048536364d2f5e434f27138161,Jason van Zyl,jvanzyl@apache.org,Mar-19-2007
+7d39425c9231af84ed57c99d61ee21f9d9e63323,Jason van Zyl,jvanzyl@apache.org,Mar-19-2007
+88a227db1ad14ce19f83115f236091a7fc50bca2,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+4a099409c89b10773ea02f185d306c239509007b,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+629071fdcbb9d5c48a49bc20ff6c23233d237521,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+99c5e1dee865b964d659ddc59f90298683f26d04,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+1e52f63aed2ac116d837c1db294365b6d7897f18,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+36c1f7b2a2ba7786153d80f7074ce61ae50a4b76,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+3eb82ec0879032ff404cd7001d539efb6fb4323f,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+50a715513cd873cd7f13d3e16d29a83225c8f016,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+5f6e53b57c5472e66889867ddadb5bc8692ae63b,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+81b78c998a3ae5a2502f8115d731d4fafe103254,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+45d433c96d98c0ab8ef33fa4a9af1aeecbbfae89,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+27d7ec2ee9b7a218082ff78d3efdaae93326fb1f,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+5ccecf7c7e4285adde33dcd3f1fcf16d58ab0ca7,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+e129afc208a9a7b6ca973d89e76c546dd750faf3,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+1743e1126ad0ad07f5f0ee65567611b1fc55a976,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+a795355ccb5d236eca3d6f61591abe88b5809c08,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+73f60cfddb239dffaa9908ead14ce96cc8b5ec07,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+32d9f3c6016b1b603edceb70a3d7facc7c3d50ff,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+f89ef80572f4baf6232e02dc06bee94aa98bfb35,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+87597c97c631ef20a924dc547b3d875dbd37c428,Jason van Zyl,jvanzyl@apache.org,Mar-18-2007
+3d2de1dcf0240dacb07afde6815e42085c9ddd4a,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+5d2f2728b5b60941a0a067b9d36902a997ebcc6a,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+fc01d986b8d6785e8dfe23a5cb7c65194ef03556,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+ef63704181f7638499dc8b5c002befb84eeba068,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+88b56170c4101b23a35bc354b89f60a0dcf3efdd,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+ef88040dc90562d3996b782493c1d57c65f285fd,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+fb7793083de0d3f5b4e55c1e7841090dc82d5dc4,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+9e3ec18d744a0729e815169375549765ed90a43f,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+a23b33456a85b05f20afc1545f6b0676965c90f0,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+f490d17e1625968fa8baa3c7b72305be2f6955ba,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+b21585f22f6d688c2ef4a55a8d34c560394003e0,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+67e7ac39180ba5415fdca20bf8f5412d3ffac489,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+d9e93f0c48f1d7b2d767dabbe074e9da7c7c0b7c,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+8f3f895d255970cc96bb3feded07d7dfeeb11ba6,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+2b27788e2944677e0c70c366ab28b8253e65ab66,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+4813a1f65bcabbd7eeeda5c9f3da6711bc285562,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+69766f8d5cd77acb13596e9550e177cef2ee3779,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+466e03e4c518983180c819dfdf36e8e078970a91,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+1d81a1302a9b60f97109c49022efead718921464,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+aa54b6b77aeb7c8874cff3307801b043141096b8,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+10f1a2cc12c0b71067e2fa79f74bae3cdbb47140,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+63d45b1f44851b56fdf9d81e4070923767c2d972,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+06893b9bdf689ebe489b7cae43685daca7cfc4fe,Jason van Zyl,jvanzyl@apache.org,Mar-17-2007
+8ceaf91907558e5be1f0a9bce2e23664f199377d,Wendy Smoak,wsmoak@apache.org,Mar-10-2007
+1cf0b876e32a48f7ca6548d0c69990843a204f6d,Wendy Smoak,wsmoak@apache.org,Mar-10-2007
+5ecd3a8db096e63ea46c5e7258291b73aa6136b5,Wendy Smoak,wsmoak@apache.org,Mar-7-2007
+5d657b9267c861798f6ed04432114b460faca349,Dennis Lundberg,dennisl@apache.org,Mar-1-2007
+d332d54e3b6208e13d9aeb8ee34dcd9f3933fc2d,Dennis Lundberg,dennisl@apache.org,Mar-1-2007
+4f569b974f3b5b9e3cef35bba97cef4067b7aca4,Vincent Siveton,vsiveton@apache.org,Jan-27-2007
+452c07a9e2ed5002b42a1e57005c74503258a961,Vincent Siveton,vsiveton@apache.org,Jan-27-2007
+19bbe3cda9add039c5ac947e1b4df9eff0c7d6e0,Vincent Siveton,vsiveton@apache.org,Jan-27-2007
+21086e017b4d91db1b03adf50787ffeab979b74c,Vincent Siveton,vsiveton@apache.org,Jan-27-2007
+226407bd10ed8d69061d04e282f5ba5d603e31f9,Vincent Siveton,vsiveton@apache.org,Jan-16-2007
+07d19796c79c0b5061724c5a6845bc2e12b7a34c,Vincent Siveton,vsiveton@apache.org,Jan-16-2007
+594f1e93cefee8ca0cea6ee799f1a0da5cf7e178,Vincent Siveton,vsiveton@apache.org,Jan-15-2007
+eee3d92550292dcb81a290cf57e7419fa9923046,Vincent Siveton,vsiveton@apache.org,Jan-15-2007
+1c9677a093d239801ac2c0e6f69862d20f018999,Brett Leslie Porter,brett@apache.org,Jan-14-2007
+5ed4b4fab2c3833bf02c20e1f11afd42c90b901e,Brett Leslie Porter,brett@apache.org,Jan-14-2007
+2e32a363fd69db51f9c075d2f2d3c89e696c9c93,Vincent Siveton,vsiveton@apache.org,Jan-13-2007
+479ba947e5e94d03dcd93bb4281a4d8cd6a3b1ef,Vincent Siveton,vsiveton@apache.org,Jan-11-2007
+a4136657da2bc7994423553e327d1435834e750e,Vincent Siveton,vsiveton@apache.org,Jan-10-2007
+e2fa09957fc1778539501487f2f2e3f91b320587,Vincent Siveton,vsiveton@apache.org,Jan-10-2007
+2853d832f98ad0ef2cb27a12b8083f1289d6466a,Dennis Lundberg,dennisl@apache.org,Jan-8-2007
+a9642a72ee4509302820f86c0bbf3340e2eb4c6e,Dennis Lundberg,dennisl@apache.org,Jan-8-2007
+74b330187ecef4e064d85c579422ddd39647ec30,Dennis Lundberg,dennisl@apache.org,Jan-8-2007
+5dc83e3385bcb9c113bcb8323a4711fec86f3c92,Dennis Lundberg,dennisl@apache.org,Jan-8-2007
+f05a9e549e89be027d89ceb32ae41ad374c183f1,Dennis Lundberg,dennisl@apache.org,Dec-28-2006
+23a016b38fa738ca609a920ccb69630a60f77cd5,Jason van Zyl,jvanzyl@apache.org,Dec-15-2006
+de8af60b08c3f6f1a2167808cbb6d7882d4108f2,Jason van Zyl,jvanzyl@apache.org,Dec-14-2006
+17150233314bd958e5247534433c2f4f50f85df0,Jason van Zyl,jvanzyl@apache.org,Dec-14-2006
+cf02c0360b1866aaa87f05cfc4608023af389d6c,Jason van Zyl,jvanzyl@apache.org,Nov-19-2006
+3967b7cbc2cbc6359b215a4b32222440e656d47d,Carlos Sanchez Gonzalez,carlos@apache.org,Nov-7-2006
+bbead448bd1ac1a2371843922ad9508405ed2e48,Carlos Sanchez Gonzalez,carlos@apache.org,Nov-7-2006
+fe149e2c77fa238dec0bf24395027e372dcd27a2,Brett Leslie Porter,brett@apache.org,Oct-23-2006
+a38f34dbfc6695662f33f26e44fd5503ad8955ee,Brett Leslie Porter,brett@apache.org,Oct-23-2006
+15102d5a7534ad75ec6a9a361b4a8b53adf7b741,Vincent Siveton,vsiveton@apache.org,Sep-10-2006
+9a9efe0969aada7fbfa52db2d38d9f615a6167f0,Vincent Siveton,vsiveton@apache.org,Aug-23-2006
+4d98ac6d05389e0859361c3f9d4ca09f5e2b3e37,Fabrizio Giustina,fgiust@apache.org,Aug-19-2006
+a66159a3e63e6fb2fe572a179e797331bef33114,Vincent Siveton,vsiveton@apache.org,Aug-15-2006
+ea54b31574d28074fc5c36ec57b0af4f3fa0c8bb,Vincent Siveton,vsiveton@apache.org,Aug-11-2006
+7febeffd9beb3ce3431e92bdebc3ab68af337876,Kenney Westerhof,kenney@apache.org,Aug-10-2006
+71b971f3ccf66dc7742895fb223c4df2b705ade3,Kenney Westerhof,kenney@apache.org,Aug-10-2006
+b9d174ae7219f17e2c9472dd52b1230d5a929df5,Vincent Siveton,vsiveton@apache.org,Aug-4-2006
+de967de98614e6aac552c448c708ff2fab5c5ed6,Vincent Siveton,vsiveton@apache.org,Aug-2-2006
+9d51cec1aa150d60327cf7bb901288e435eab113,Vincent Siveton,vsiveton@apache.org,Aug-1-2006
+0d1bf99ec343a29292b1786f67f690c11e042f24,Vincent Siveton,vsiveton@apache.org,Aug-1-2006
+fe05de7a1e57a738062ba90cfc3361e448f6c274,Vincent Siveton,vsiveton@apache.org,Aug-1-2006
+f6d19acc5a6ac5340fbf66a3819a8b8d14886549,Vincent Siveton,vsiveton@apache.org,Jul-31-2006
+af009e8f6d0da03b575aeb5b2c957b166363ac7c,Vincent Siveton,vsiveton@apache.org,Jul-28-2006
+fb2c0187bee3e5f0d3a984d446e22f96dcb5f6bf,Vincent Siveton,vsiveton@apache.org,Jul-27-2006
+db883e5f763d9351df30c49b5d64f29e1ddf5153,Vincent Siveton,vsiveton@apache.org,Jul-27-2006
+eb50939300b8a510c48e3ee621e7cb44aa6eee14,Vincent Siveton,vsiveton@apache.org,Jul-27-2006
+ed16017db982836dcf114d32873113cec951bd03,Vincent Siveton,vsiveton@apache.org,Jul-25-2006
+e1ada82f60e8743f2d7a1f4396a41e7fc34a8637,Vincent Siveton,vsiveton@apache.org,Jul-25-2006
+4a1ffd960a9f88f3a9be913d2aa17875e8bea764,Vincent Siveton,vsiveton@apache.org,Jul-25-2006
+ca788f29230b616b46dd309b958a2b7e7a0c5720,Vincent Siveton,vsiveton@apache.org,Jul-25-2006
+0bee433659be617d7283021a047c2f93467a2f87,Trygve Laugstol,trygvis@apache.org,Jul-21-2006
+4708d9bb209514aaea2a571fc4103355972dcc6e,Trygve Laugstol,trygvis@apache.org,Jul-21-2006
+1e428246f34554d492306576f9bb51a325f921c8,Trygve Laugstol,trygvis@apache.org,Jul-20-2006
+bd053c057274022d02d8e87b239a12b15ce10ecf,Trygve Laugstol,trygvis@apache.org,Jul-20-2006
+14396036693b9849f1f7de1816a29bd1633f8187,Trygve Laugstol,trygvis@apache.org,Jul-17-2006
+562ae1dca3e536f6c4d2c2bb9a15b14d3efd6daa,Trygve Laugstol,trygvis@apache.org,Jul-13-2006
+00f1383d6b190411cf5d63b5a3879a5ab10c893b,Trygve Laugstol,trygvis@apache.org,Jul-13-2006
+3ef4860f4477b7818a0392071b729cea0e0859ad,Trygve Laugstol,trygvis@apache.org,Jul-13-2006
+84c0ca352778479f69bbd9f117406219d031188b,Trygve Laugstol,trygvis@apache.org,Jul-13-2006
+695fa6ce34ce7598ab557cbcbb277cf0a7feda45,Trygve Laugstol,trygvis@apache.org,Jul-13-2006
+b4346384f86d8a5f018f63a20f5460bc4df3c041,Trygve Laugstol,trygvis@apache.org,Jul-12-2006
+6d0428b1c901f614a14306ae0cff3fb5d42064df,Trygve Laugstol,trygvis@apache.org,Jul-11-2006
+a3aa755f2e6783a82d789fbcfa08ba420912d095,Trygve Laugstol,trygvis@apache.org,Jul-3-2006
+a6d54e3092641e3b725b56ffc2c62b81c3ff2137,Trygve Laugstol,trygvis@apache.org,Jul-3-2006
+0c838b47624ad71b4f291020219da5650f22641c,Trygve Laugstol,trygvis@apache.org,Jul-3-2006
+fa261b6de5f528a4680160a01313414eb5cb4799,Trygve Laugstol,trygvis@apache.org,Jul-3-2006
+3b20de70bbf0459f29e1bb282e859e2a50c1e5c2,Trygve Laugstol,trygvis@apache.org,Jun-30-2006
+74a249ab579b33e71faeb33a09a5c94a877e1716,Trygve Laugstol,trygvis@apache.org,Jun-25-2006
+42ecaeca09710226d0909ccad7547e712becb0ff,Trygve Laugstol,trygvis@apache.org,Jun-25-2006
+37f8718a903aceffac653961de0cd0cdc1a81136,Jason van Zyl,jvanzyl@apache.org,Jun-24-2006
+ae0b4d934d04ca0fd72d84a64a28db591a9a47e6,Trygve Laugstol,trygvis@apache.org,Jun-24-2006
+fa95bd9349aefbe0cb93ed4b56f4d1a30dfc7eec,Jason van Zyl,jvanzyl@apache.org,Jun-24-2006
+70eee343a20ecbcd47a12329d9c69e55a7cb331c,Jason van Zyl,jvanzyl@apache.org,Jun-23-2006
+ced7814a08d6007442c0939deed4210dccf78a9f,Jason van Zyl,jvanzyl@apache.org,Jun-23-2006
+b7b8ca9ebd9b0dac4ba3e3ec30a333fcac06f607,Trygve Laugstol,trygvis@apache.org,May-22-2006
+91db4c26ca7572d6c02567e64d4a6540db585cd2,Brett Leslie Porter,brett@apache.org,May-15-2006
+591bfa0de99956f232cee372d6f31d6d4b37f119,Jason van Zyl,jvanzyl@apache.org,May-14-2006
+a7b6926b561be99afe62d5f267277b639342598c,Jason van Zyl,jvanzyl@apache.org,May-14-2006
+f29ca2816deab14792daa6f31b58fa1e9c55f63e,Brett Leslie Porter,brett@apache.org,May-14-2006
+37b1af92822982e5957fc9b514f775e535d597d3,Brett Leslie Porter,brett@apache.org,May-14-2006
+00cbae3f5e857d659acbc123ad9ba829b631ec2e,Brett Leslie Porter,brett@apache.org,May-14-2006
+1b3676ddd9a32edb8c504c275be441f4e24f65f9,Brett Leslie Porter,brett@apache.org,May-10-2006
+0fbfa8b1ab45ed61c466bc1475006953a49c1ab8,Jason van Zyl,jvanzyl@apache.org,May-10-2006
+0ef5cff51ad4c86128c35d868fd9513fae7173f2,Trygve Laugstol,trygvis@apache.org,May-6-2006
+21ada5304d8d3bc69e0be4e094943dd705b83cb0,Vincent Siveton,vsiveton@apache.org,May-6-2006
+aaa283e4c367dabb0ad779a9cb219459edfd1619,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-28-2006
+d7db4e20044524f3ca97ee3c80ffed905257dc53,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-28-2006
+2d8a2330bd2586ceed5c2334cc208a91ca85ff19,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-28-2006
+88c5fe0771ddd1804024a56adf7d5f12356a1a0a,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-27-2006
+3918835d34d747d0e5eb7b0eda95b6db05ffc5ee,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-27-2006
+d383881eecc60e31a5faacf0014a823369905924,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-27-2006
+0b9071e36bf9b6628b2056a0937031b9a4f7c195,Carlos Sanchez Gonzalez,carlos@apache.org,Apr-27-2006
+2637e89e1f0025b8610876ebd56a9c6991bbd723,Brett Leslie Porter,brett@apache.org,Apr-13-2006
+defdf0a4c6ebb5745e6b0750209c1b9622b89f12,Brett Leslie Porter,brett@apache.org,Apr-13-2006
+0a4491e45eac17761e24faa27f93969845b9a113,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+6f5a81e96fba5473ff84db8aa49552148f48b03c,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+e0939b9b127dbc66526e1927f377c493e444f3db,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+e3518caa370176406ce72b3fed5332cc1c323dc0,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+90fb7411a56c3d496489825ba38cfa816e79605c,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+8407c7c1a5247f811499ff41ed19014a233c88b4,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+b44f4a1c04e2678b78e631621d7ec09fd8945ae6,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+b13516cedc7ba4ae028f79788262f78844d0e5b6,Brett Leslie Porter,brett@apache.org,Apr-7-2006
+fa339b3d1ef0612ce946b7c5079f43bac340c45c,Brett Leslie Porter,brett@apache.org,Apr-6-2006
+fdcc3cc2511782a55a1873694e16ff902a1b22ff,Brett Leslie Porter,brett@apache.org,Apr-6-2006
+ae0d854364308ae8a279f60132de9387a5ef7a55,Brett Leslie Porter,brett@apache.org,Apr-6-2006
+de72c9a40d83618c3cb1779c358c6097c34b2976,Brett Leslie Porter,brett@apache.org,Apr-5-2006
+d78f173919c5b4a199ada3f7ca34f307c6288b71,Brett Leslie Porter,brett@apache.org,Apr-5-2006
+15946561d0615bc24815ed14eba85e640d4da53e,Brett Leslie Porter,brett@apache.org,Apr-5-2006
+f0cf9aadbe2f51883f2fd449ff4f00b1f4ac105c,Brett Leslie Porter,brett@apache.org,Apr-2-2006
+80c6fdf04a4fd94cab69371d7990baa1ae60a2e1,Brett Leslie Porter,brett@apache.org,Mar-27-2006
+6aed1bdbb3adee2f86bc95abe25014e4dae7637e,Brett Leslie Porter,brett@apache.org,Mar-27-2006
+3145756d04e5fc1a84ddabd83525b0cb77117dc4,Brett Leslie Porter,brett@apache.org,Mar-18-2006
+7f11fd8d9f7c200221fc188978e420c37fc25bd3,Brett Leslie Porter,brett@apache.org,Mar-17-2006
+de7faf3e5aa51c0720bc72ec7dbdc0f60003ef83,Brett Leslie Porter,brett@apache.org,Mar-15-2006
+580451a6065e8ff69c526b0a0a78cc6050e95b37,Brett Leslie Porter,brett@apache.org,Mar-14-2006
+2d5ab989cda291959649db9e9c56795ee8610559,Brett Leslie Porter,brett@apache.org,Mar-14-2006
+79f703c0e9954ed8ae1c09045598685a812b7acf,Brett Leslie Porter,brett@apache.org,Mar-14-2006
+4f82e29feb4244765ce60a17db6340d26da26feb,Brett Leslie Porter,brett@apache.org,Mar-14-2006
+dfa930682acd0c191bd08e60b0ed0e2d81939a6c,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+f5194001c3d7d73ae18d31af98c75e86f15e9b9b,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+2c85c2a35e66e56c0b3b09ea68fb109e2a9f6a50,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+f84b1f6455ee143b846305b5bf4207c7f33150a1,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+cab0e5ecb8f5be874b061c665a59228660f6dcef,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+3d217f54986bce3aa9bc1f6a2236260c33a4ad19,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+ab69357c5640f5a5b7b8487b1c4330c729754602,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+f10b01a4661621bc44cea41a9eeb16dd6ce41ab3,Brett Leslie Porter,brett@apache.org,Mar-13-2006
+194d52cf1a20d1ce0b322d2ff4dbf4c656671655,Brett Leslie Porter,brett@apache.org,Mar-10-2006
+36b93ce31ca100082b49e771df377ad900c5fa14,Brett Leslie Porter,brett@apache.org,Mar-10-2006
+106c562f75c87911c9fcb9b89eec9e51de79db72,Jason van Zyl,jvanzyl@apache.org,Feb-25-2006
+ba9cde36665b30a9388bdc501996b735cd5edcc5,Emmanuel Venisse,evenisse@apache.org,Feb-17-2006
+4dd16bea6bbeb44cc4cb63118ac73e2bf5e15d3a,Brett Leslie Porter,brett@apache.org,Feb-8-2006
+55a2674fb6281703caeca03094ac5ea4e6cddf73,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+71895dcbc6b0c2643a7c6eb3d36b859dd6c8220a,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+3d15d43603d3529a8fcaa4b3df84f98f45021371,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+37504dd0d785cce48dc92e064ca79d88207e6db6,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+21e9f3afd0e6e4cddd576efc54b0975cabcb0e64,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+ad1168474b87277199efd7d265fae9748e7592a4,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+33c94ba397f2785c71f32aa0fde565393a93a568,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+a612edefece375c1d3801512cbde63d57ffe0441,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+5b67182b8ad0935485e0a89fc29c23de4203ad99,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+f66d85ecba463aeca19676cc9ab71953cb4fcde6,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+0103bab53a72ad944e870bf2dbf0db0bdfaafd16,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+77052ebcc7dd0de0856ff5e45497be6bcba87580,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+91712e2709c77ade42757b1f30aee801e2a3978e,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+0c343bb41c094fc82a4a64dbbd12f2d15a2900ec,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+ae7a4c31302e72a29bb1b370855d02ce3b2651ad,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+b8084514c14ac6972df394065ea937bbf86d8c72,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+4a0831639a11f50e7cf53099131088beedb57904,Jason van Zyl,jvanzyl@apache.org,Feb-7-2006
+a484d0ae3b81c8c05705d610709d1f4bad412ba3,Jason van Zyl,jvanzyl@apache.org,Feb-6-2006
+b637edc4154ac81b1288e6012ee779302eb4ba2e,Jason van Zyl,jvanzyl@apache.org,Feb-6-2006
+b8729ddb10ee1d8cf9d3d9c050c776262a745f4c,Jason van Zyl,jvanzyl@apache.org,Feb-6-2006
+041f6999cbf299041950f6519d96c050e85a8bab,Brett Leslie Porter,brett@apache.org,Jan-12-2006
+c0793bfe6ed531b437a8daab5371d0f5f3674dcf,Brett Leslie Porter,brett@apache.org,Jan-12-2006
+0de18660da7ad77fcd59c916de02dbc7a8f1e8c5,Brett Leslie Porter,brett@apache.org,Jan-12-2006
+f0da51edfb1ada9f44d896ab9d1fbd22c2879032,Brett Leslie Porter,brett@apache.org,Jan-8-2006
+5d357fbbc10d995c3b09acf17ce114cf3e18a52f,Emmanuel Venisse,evenisse@apache.org,Jan-6-2006
+dfe899a703fe71390b774c6397243fa25ed14bdf,Brett Leslie Porter,brett@apache.org,Jan-6-2006
+2aebf13498c27f232be2cf99fe64bc965df2a39b,Brett Leslie Porter,brett@apache.org,Jan-6-2006
+f75e7d9531dd56fc52fe1938edf5917e1b84538d,Brett Leslie Porter,brett@apache.org,Jan-6-2006
+265a56af38b7432271bcfdea5e522b8a85bf998e,Brett Leslie Porter,brett@apache.org,Jan-6-2006
+f8be4b4f593927de389dece1afc530564b44c828,Brett Leslie Porter,brett@apache.org,Dec-30-2005
+c90e6505c0d863a0d1bb915fdd7d0ab0feca018b,Brett Leslie Porter,brett@apache.org,Dec-30-2005
+82b29ab80ca377d5446f44166e988c7c345f364f,Brett Leslie Porter,brett@apache.org,Dec-30-2005
+4b72082dfeb6d7d41d4c08f983914f0f4416d530,Brett Leslie Porter,brett@apache.org,Dec-29-2005
+28eabe8beba8b4f0e85d258e3af4a07ec88886b7,Brett Leslie Porter,brett@apache.org,Dec-29-2005
+a5c849b97f107c4756f38104fd3b40cd93690bb1,Brett Leslie Porter,brett@apache.org,Dec-29-2005
+cdd56693f14d16c6d135fdaefc6e73880f1fc7ed,Brett Leslie Porter,brett@apache.org,Dec-23-2005
+adc4dd310984cd27b4fc8c07949ffe2478a9be71,Brett Leslie Porter,brett@apache.org,Dec-23-2005
+2bb6973dd05cbbabef9882eedd54c7e0f5aece12,Brett Leslie Porter,brett@apache.org,Dec-23-2005
+51939aaf321a3ce54a3475ea206c61bbdb1a176d,Brett Leslie Porter,brett@apache.org,Dec-22-2005
+96c743c825ff8a837574f2ff3a2fb98a67236c44,Brett Leslie Porter,brett@apache.org,Dec-22-2005
+487ac8a6f0691862d85e7a6407da8cb6b1fc7802,Brett Leslie Porter,brett@apache.org,Dec-21-2005
+139b7848440d7ff6912bc8ec0eeda2117c91db2f,Brett Leslie Porter,brett@apache.org,Dec-20-2005
+da3cb81093b816f33b98de756e243dd5b46743df,Brett Leslie Porter,brett@apache.org,Dec-20-2005
+7b747081f987bb6d2fb5b4757ca6f9c3e8d43163,Brett Leslie Porter,brett@apache.org,Dec-19-2005
+1df5cb1576326a37ec03773eaf5419900ed8f235,John Dennis Casey,jdcasey@apache.org,Dec-11-2005
+755f583a30bdc281a453715b06f311a748a7c9f8,John Dennis Casey,jdcasey@apache.org,Dec-11-2005
+97a36fbc26ff0e0bf139e867c1f69c8dce9bd70e,John Dennis Casey,jdcasey@apache.org,Dec-10-2005
+0ff702c37a1e13ac682750868f679396ee422f02,John Dennis Casey,jdcasey@apache.org,Dec-10-2005
+de611f03dc44266f41aa2bfc1312a99dbbb68915,John Dennis Casey,jdcasey@apache.org,Dec-8-2005
+848245eecc1aec6e51c267c03f891d2b26747377,Emmanuel Venisse,evenisse@apache.org,Dec-7-2005
+34d4b1634ca3aba623e11865936671525a734d80,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+b667c86322a7c6ff7b8e8aed0e764a0995a38f37,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+ad2f14940a41e3c46514cbd976cbbbbb34d18142,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+629f7ce8c994e37d7b5cb54336fdb6c246e03c1c,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+b22dedda02ce5d0a8ebffbd9f05b3f454dec28d3,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+58f1adeb033f5d95d2a33b5896d2942bee6b936b,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+c980e29d0d1bfa68cd870753cd5074947a54dc70,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+5d75806dc03cc59a50ef390e94d9f23497631d1d,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+a4f0948215dd5092762acd268411059e6ecdecc6,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+e775735ab474b1c3f554685ad915cd7bc4a9c77e,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+c387f163dea6f28a09de95b7a671ab0e47bd8faa,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+41f9ba53c37257285a11c5d1478d6facde89cc81,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+31e85631423404ee831e7709c67a92834905566a,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+ae2f6751ffeaeaacb6ec1cb235c33c974a437f39,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+e2efcff5a348ecddf3397bd423e9df7b9ace7020,Jason van Zyl,jvanzyl@apache.org,Nov-27-2005
+423150d2e803c9bff548c20dc686b43db225ed6f,Emmanuel Venisse,evenisse@apache.org,Nov-24-2005
+ca9b4b3aa6a9db567040b100ae543941ed5b4795,Emmanuel Venisse,evenisse@apache.org,Nov-24-2005
+51de10f6ff4ba09ebe004626fea9419c5112ce2b,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+2035ebd9725562f984e9ab937b993898f57e90bc,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+20c28cb3d80656c9a0852cbb9c883e0776f229a9,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+f7522368fd4a4af16a149e67dfe723d6a63d5127,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+caa79c2055b3a8593a3eaa3a531a354693ecc869,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+a6af83543b0e6b9d82928a4087dd69cf8d919ee0,Brett Leslie Porter,brett@apache.org,Nov-24-2005
+27679a863a6b401ac2807dc26873892ae200ddb4,Emmanuel Venisse,evenisse@apache.org,Nov-11-2005
+b9d5d00c0543c5495ae989ae877a4802f9bc560b,Emmanuel Venisse,evenisse@apache.org,Nov-9-2005
+dd8ad222a9112634c32ddecaf7b7ae186cafc235,Emmanuel Venisse,evenisse@apache.org,Nov-9-2005
+50ad6a8a3ce0eed1e3a911734c4f85526254ac8f,Emmanuel Venisse,evenisse@apache.org,Nov-9-2005
+a4613cd97bbc2cdae8b1052bd5961f9c24622c2f,Emmanuel Venisse,evenisse@apache.org,Nov-9-2005
+3a409e53998ec096ff89adb2ecb59a189e6d209a,Emmanuel Venisse,evenisse@apache.org,Nov-9-2005
+7c65ab6359a3cf90a330702e2e53becb23402fc5,Jason van Zyl,jvanzyl@apache.org,Nov-7-2005
+8bf26074f8f6c7c1bf3cd0403d86095fd7182132,Emmanuel Venisse,evenisse@apache.org,Nov-3-2005
+7470453bb477cafc03a8b5e0a58597b799cd0ecd,Brett Leslie Porter,brett@apache.org,Nov-1-2005
+9e7246b03db6e5f7659b733f175a465c9be3fb3c,Brett Leslie Porter,brett@apache.org,Nov-1-2005
+fec0e23e8f698c29e32b17c670eea0ee826a1df7,Brett Leslie Porter,brett@apache.org,Nov-1-2005
+cd4d0f640657229e76e44c4475aa9fd5239fa7ae,Brett Leslie Porter,brett@apache.org,Nov-1-2005
+8138f2fd6f358d973c62be9e57aacdf47927d541,Brett Leslie Porter,brett@apache.org,Nov-1-2005

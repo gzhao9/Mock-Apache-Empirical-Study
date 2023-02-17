@@ -1,0 +1,11 @@
+file_path,method
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,spy
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,when
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,doAnswer
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,when
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,doReturn
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,when
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,doReturn
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,any
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,when
+/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntryTest.java,doReturn

@@ -1,0 +1,1291 @@
+commit_id,Author,Author_adress,Date
+f574ec52e5406dbb27756a5add104ac3e53b4c0f,Thomas Vandahl,tv@apache.org,Jul-8-2022
+f9d40c46c28bc443fa8bef8d82d4cf2b65aea924,Thomas Vandahl,tv@apache.org,Jul-8-2022
+7eaa7312ae56c9f1e4304c2abf32b9e6279f05c2,Thomas Vandahl,tv@apache.org,Jul-8-2022
+9d6441fb9c143b053124c6ec3cd26c4fe1b5b42e,Thomas Vandahl,tv@apache.org,Jul-8-2022
+8450f94c802ed121992eea35e5b050d74c9d1737,Thomas Vandahl,tv@apache.org,Jul-8-2022
+bada538aff69fd3b5339d8a75445b9f0ba68f4f2,Thomas Vandahl,tv@apache.org,Jul-8-2022
+2a2337eb28a5f461d6743d3b36b40db057c8c1fe,Thomas Vandahl,tv@apache.org,Jul-8-2022
+3cdc9ee3552659e3780806f99ce95fc057b4848e,Thomas Vandahl,tv@apache.org,Jul-8-2022
+69ff4fcc20ad0f8134729e727f62259579accbe4,Thomas Vandahl,tv@apache.org,Jul-8-2022
+b7b846507edd09d4712421bf60a3d17ae8c71b7b,Georg Kallidis,gk@apache.org,Jul-8-2022
+d72f21f9a8f8ed99dc37cc2df638c451b6ba3fa7,Georg Kallidis,gk@apache.org,Jul-8-2022
+ac7f32fcee405a3858ffbe5fd153d9abbadb9495,Thomas Vandahl,tv@apache.org,Jul-7-2022
+944f24bfe1f06e67e98dfea92d0e6bc3dac4e658,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-6-2022
+28e9ba276b87849e6ffcb143c5a5356a9e269675,Georg Kallidis,gk@apache.org,Jan-19-2022
+f1e35014c77dd7bf282b841ed71f84bb16af9883,Georg Kallidis,gk@apache.org,Jan-10-2022
+b295f2bb661dc18e5e8899be7dd60122a44a0d86,Georg Kallidis,gk@apache.org,Dec-14-2021
+f0741fdaf5cf1090002c1752eda5a7c617d1c929,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-10-2021
+48176a65cfa544bc9003f4ac727fe46934bcb7ca,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-8-2021
+8f3ed431e2f308b0a10468cfcef60abb74bc3fbe,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-6-2021
+97ccf4b0680b23fc5536f707777bd6e6a43b7d66,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-6-2021
+2d151a0dfeaf235a4b07cc4f0f06fcc24bb66311,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-6-2021
+35f7dd5988a60086c6fd37424c82c52f7ac278cc,Georg Kallidis,gkallidis@cedis.fu-berlin.de,Dec-6-2021
+dd28d3167d8514a6222269b3ace2e8bac599ce98,Georg Kallidis,gk@apache.org,Dec-1-2021
+35b9f61f9b370d18fa499a11ba1537823f3eeb14,Georg Kallidis,gk@apache.org,Nov-25-2021
+c1fc8642d63f22ea819550f83e53d3319a826ae5,Jeffery Painter,jeff@jivecast.com,Nov-25-2021
+b00d1fb41ba858393288619773e721dfa7f71055,Georg Kallidis,gk@apache.org,Nov-23-2021
+178806688285d803dc3bb45909ac4eb68a7b37c4,Georg Kallidis,gk@apache.org,Nov-23-2021
+88a5ec549f36aa26c6055768f25386aebc100fd1,Georg Kallidis,gk@apache.org,Nov-22-2021
+59d5c9526f134b58b945c0a5ce09cca0340b3595,Georg Kallidis,gk@apache.org,Nov-22-2021
+d8807e64e40124ddee01ed65b5bcda071f2ce50b,Georg Kallidis,gk@apache.org,Nov-19-2021
+24a53f67cc0450f275e9fe2d91c3413404a28541,Georg Kallidis,gk@apache.org,Nov-19-2021
+f5c4bb747160d9679d893e04934e51380792b2a6,Georg Kallidis,gk@apache.org,Oct-22-2021
+eade5a5fa3c1ee2afe8b351686af003dadd69c72,Georg Kallidis,gk@apache.org,Sep-21-2021
+d7bc2e57c950991b14a7297bf412eeb1df7688a4,Georg Kallidis,gk@apache.org,Sep-21-2021
+30d46bb7572e4c25f8aab7b0b7d49cc1e666a125,Georg Kallidis,gk@apache.org,Sep-21-2021
+968419babd5afe256f0ed4763ca15a07ba36a97e,Georg Kallidis,gk@apache.org,Sep-15-2021
+612116795adae0689e51dc3aca26a35aed92a0b8,Georg Kallidis,gk@apache.org,Sep-15-2021
+fcd6d7122e90a5bac9e21f0800894164fa79d1fb,Georg Kallidis,gk@apache.org,Aug-5-2021
+7402ed24eafeff77bfd2d342cfb84e52b9f83688,Georg Kallidis,gk@apache.org,Aug-4-2021
+7586bd2fb9de9e89fee166574840c4aeaa63da35,Jeffery Painter,painter@apache.org,Jul-7-2021
+8148f42c028bcda94d93fc84176f33ef22716d98,Georg Kallidis,gk@apache.org,Mar-29-2021
+1abdf56176a12e91e1d303cd7ceadbe4671e855d,Georg Kallidis,gk@apache.org,Feb-26-2021
+9f4b41cc3af20b60fb3d94be917ea8de011fa586,Thomas Vandahl,tv@apache.org,Feb-6-2021
+89343dc04c8f70b0559768babdff677e47da2d36,Thomas Vandahl,tv@apache.org,Feb-6-2021
+94c75ead579ebb36923b9c80a074d2b5078a5838,Georg Kallidis,gk@apache.org,Feb-4-2021
+cfafafd8b72827cac03e1ada50d282ef57562216,Georg Kallidis,gk@apache.org,Feb-3-2021
+896ae8de81e2b46fbe004c9f8331bf23c4d581b1,Georg Kallidis,gk@apache.org,Jan-21-2021
+4ba50804b19228c6d4f3a11cc6fe78e066f171c9,Georg Kallidis,gk@apache.org,Jan-21-2021
+fabbb08ac00f4bf8f75c411f151f2f5211ad3842,Thomas Vandahl,tv@apache.org,Jan-5-2021
+ad73a3727bce55544cae04460f081fb3526f1308,Thomas Vandahl,tv@apache.org,Jan-4-2021
+742b37cd32375e72c1f1824dd50ce50ef8ffffb9,Thomas Vandahl,tv@apache.org,Jan-4-2021
+4011a0b4aea8791122d427a9111b99cfbd5f8b9c,Thomas Vandahl,tv@apache.org,Jan-4-2021
+b17fa991ff77de82bc7513a715421deebb32f699,Georg Kallidis,gk@apache.org,Oct-13-2020
+36be8476c64e6eb397daafd55fc8e504ef9ed9f6,Georg Kallidis,gk@apache.org,Jun-25-2020
+abd1eb26889e8fd90a97536f05b96b0d786b0a11,Georg Kallidis,gk@apache.org,Apr-30-2020
+4d669ee838681e22f4eb4fecc4b4a35c0b9e2389,Jeffery Painter,painter@apache.org,Mar-19-2020
+ae3be0b32d0a90b7b3d0f296fbc0b99da2d1aab6,Georg Kallidis,gk@apache.org,Feb-28-2020
+02f044e7d44002ecd9c37497e5596438a9c11dc9,Georg Kallidis,gk@apache.org,Feb-28-2020
+36dff1b46064e4eaed043dd75f05ad30a1c5d88c,Thomas Vandahl,tv@apache.org,Nov-28-2019
+ba98f0f4f7afa5e7e6bff662cb3f36b086bf99d4,Georg Kallidis,gk@apache.org,Nov-12-2019
+4997383d0b472ecc6662da6a0699bdec0fffbf7a,gk,gk@unknown,Oct-28-2019
+b74560ce9bfb0f563bf19617d25ef0e7c2855c35,gk,gk@unknown,Oct-11-2019
+c407e69d59bf80b3962f0307f01927d54280086f,gk,gk@unknown,Oct-11-2019
+ddeaacff510b121f16034d6ea0dba23c76aff656,gk,gk@unknown,Oct-11-2019
+20f0c46b3eb81c7d0379de1ba349e9b6fd9e85ab,Jeffery Painter,painter@apache.org,Jul-23-2019
+2968f8713203fae01ee1395b05a7ce9cc95243f9,Georg Kallidis,gk@apache.org,Jun-18-2019
+8c1643c345832887b51829e6c55a55ee9698fd29,Georg Kallidis,gk@apache.org,Jun-18-2019
+e6a2aa1a144f3bd088898341dde099a5c75854e0,Georg Kallidis,gk@apache.org,Jun-4-2019
+c856095c3067c30f2e9fec578d2643517d24b6a0,Georg Kallidis,gk@apache.org,Jun-4-2019
+fa7bcb1d1aa317e64bfb3d8aa8411c0ad5851192,Georg Kallidis,gk@apache.org,May-21-2019
+4ebe71010e96ac03a824b6cc39cec054f1353407,Georg Kallidis,gk@apache.org,May-21-2019
+c6ae3122806c7e8405d521e55410e5d44d034fe3,Georg Kallidis,gk@apache.org,May-21-2019
+9ef94bcaa0f26e419109dcb6fb6d440faf71b3e2,Georg Kallidis,gk@apache.org,May-21-2019
+3fe517e0aeebf769691f3dfbda41ed29c37c17b4,Georg Kallidis,gk@apache.org,May-20-2019
+d02b9b8d79b810a385f487182daf49065b7488e5,Georg Kallidis,gk@apache.org,Apr-15-2019
+bb2c1eaf750840d099ad6ee68f3d8d9f71e89f2a,Jeffery Painter,painter@apache.org,Apr-13-2019
+6e54d46e53120f249f5ad6e3e2395a9ebe69537f,Jeffery Painter,painter@apache.org,Mar-25-2019
+35399986710809a5136d016b1c551eebb6539895,Jeffery Painter,painter@apache.org,Mar-18-2019
+51585ebfb880d8ca8173df20d56b6c2a0e64178d,Thomas Vandahl,tv@apache.org,Mar-5-2019
+8b2f3f5353e24d73b163af005b59dc655fb6f94d,Thomas Vandahl,tv@apache.org,Mar-4-2019
+48840b0e5c3611044e5d8e4d58db60764c09d2bd,Thomas Vandahl,tv@apache.org,Mar-4-2019
+6ff80fe41e5729cbaa5e0f7a2f854790513fabfc,Thomas Vandahl,tv@apache.org,Mar-4-2019
+90333fe4e0d300c5b736d9c59322d3d9c3afedd4,Thomas Vandahl,tv@apache.org,Mar-4-2019
+b8ea71d328a3fdfef4a53b7681d219c306f52c80,Thomas Vandahl,tv@apache.org,Mar-4-2019
+c11c040c3bd1d0bb6bbbef66c59c880cac28001d,Thomas Vandahl,tv@apache.org,Mar-4-2019
+43dd39837984bbde213408b84361ed2be267408a,Thomas Vandahl,tv@apache.org,Mar-3-2019
+1df3bc9c2181be3a2bad3557a4f82d625ff7f198,Thomas Vandahl,tv@apache.org,Mar-3-2019
+c0a660cb598a258d26b08d97bdfab2a98807f62d,Thomas Vandahl,tv@apache.org,Mar-3-2019
+b652b1f0f00dc0df5200299f0b975cd4fb385a30,Thomas Vandahl,tv@apache.org,Feb-28-2019
+396074732eba9ea06afbab1c2af27c6e08e24c65,Thomas Vandahl,tv@apache.org,Feb-28-2019
+a532eefb237a49fe5b53b0fee4a41a589df68fc8,Jeffery Painter,painter@apache.org,Feb-26-2019
+0fb82bca257de86534fcf67819eda98a3488cb8a,Georg Kallidis,gk@apache.org,Feb-11-2019
+a7470824c35754585a6feee89ae01c9d9b3507a4,Jeffery Painter,painter@apache.org,Feb-7-2019
+cc8c039268b3ca8c57586866b88afb8c51893095,Georg Kallidis,gk@apache.org,Feb-7-2019
+540be1137bea948e3b8fa40d75733e2f7eb7c79c,Jeffery Painter,painter@apache.org,Jan-22-2019
+f0a4a0facdb0e58792afbe76842427fd1f6a6874,Jeffery Painter,painter@apache.org,Jan-22-2019
+6d9afe96c2d5c4b682fe1c183a5ed75c09f7be81,Georg Kallidis,gk@apache.org,Jan-15-2019
+29474df186b0778b2b33d31095b67c91da66da96,Jeffery Painter,painter@apache.org,Jan-11-2019
+fbeb29d64e6bcf11e42615633b9f8acf11d61f27,Jeffery Painter,painter@apache.org,Jan-7-2019
+4a636a1b875d44f3d26cc670ff40482021865ac5,Jeffery Painter,painter@apache.org,Jan-7-2019
+4e75a1af4513fbc09b9a8f8bb9c19edec7a6147b,Jeffery Painter,painter@apache.org,Jan-5-2019
+37efc9ad0355bb663590c511a9509c4db787926d,Jeffery Painter,painter@apache.org,Jan-2-2019
+48791c8ffd4d485f72939a3cce477f04baac639c,Georg Kallidis,gk@apache.org,Dec-21-2018
+f873c3782239320ec538e1e4a6d56e9e28c2d3a4,Jeffery Painter,painter@apache.org,Dec-17-2018
+7011e9c9ddc7457907cf546239d82d086cb9a289,Georg Kallidis,gk@apache.org,Dec-13-2018
+05736d6535948669a08bcc251ef318991f45df41,Jeffery Painter,painter@apache.org,Nov-30-2018
+e853197cc4ff8d8c8eabe3aee5de0d2d12b78d03,Jeffery Painter,painter@apache.org,Nov-27-2018
+95f3e3b54671d74b67d82a6ee92b34785ed5b04e,Georg Kallidis,gk@apache.org,Nov-27-2018
+5050e88c8a427e036435413fe7616dece3f59d46,Georg Kallidis,gk@apache.org,Nov-27-2018
+3a653fe39f7bcdecf91bf2451ef984465d04685e,Georg Kallidis,gk@apache.org,Nov-27-2018
+609ed59ce71f4baa07027fa742a7556d2e97cff3,Jeffery Painter,painter@apache.org,Nov-15-2018
+4cd52cc6c4419e3652d7b261f4a5404c5c3f79d5,Georg Kallidis,gk@apache.org,Nov-15-2018
+0e986598bed4306216382cd9db958c6c3b8cc97b,Jeffery Painter,painter@apache.org,Nov-6-2018
+b17577b38f177de5905a9756f2756aa13739eea9,Jeffery Painter,painter@apache.org,Nov-6-2018
+a0c49ad47a9389291413aa6abfad8890998cdda7,Georg Kallidis,gk@apache.org,Nov-5-2018
+461b770ba26021c7cc10509efe277de2bda4dd0c,Georg Kallidis,gk@apache.org,Nov-1-2018
+997433ba531388cc39d589a3a38a7ac1f4b44264,Georg Kallidis,gk@apache.org,Oct-31-2018
+6dfceb4b1ce4610e84f4fca45e09b7034de01e98,Jeffery Painter,painter@apache.org,Oct-24-2018
+6b7a78d1224511dd93c0229dcbb971c84303b90f,Jeffery Painter,painter@apache.org,Oct-24-2018
+3d85d45e6d11055fab962776762a6ca17a288fc6,Jeffery Painter,painter@apache.org,Oct-11-2018
+62786180636ea28fcaaa8131616bc003b03a8bdf,Jeffery Painter,painter@apache.org,Oct-9-2018
+d07a568e1a6df9e7faf11bec9b03102c6761189b,Jeffery Painter,painter@apache.org,Oct-9-2018
+8ee05de2b3caa9d431ac950743e2dcb50b49ba96,Jeffery Painter,painter@apache.org,Oct-9-2018
+3be0be4c9db42c93eb5a8cbae0a2334d3cbdf467,Jeffery Painter,painter@apache.org,Oct-9-2018
+334f638075d4607b1c960b04a5e149e3754492a6,Jeffery Painter,painter@apache.org,Oct-8-2018
+efb09d115e31a442c77000f85de85a1f67c9f0e9,Jeffery Painter,painter@apache.org,Oct-8-2018
+371a70d6870218355af5a417f752cc116788e9c5,Jeffery Painter,painter@apache.org,Oct-8-2018
+c66775d8c7474ba745bf8e1b0a33ddc64b552321,Jeffery Painter,painter@apache.org,Oct-3-2018
+46dcf10aae3d6ef2c62d2c5d7e3c0d4e8f3d9104,Thomas Vandahl,tv@apache.org,Aug-22-2018
+aa13bdf4a58d0dd0669a2dd0565abcd6d3123379,Thomas Vandahl,tv@apache.org,Aug-16-2018
+76a93136d1956e764d90b0f30b044f242ff1360e,Thomas Vandahl,tv@apache.org,Aug-15-2018
+f4ab94d482f807869647386b9c36ff4880dcb6df,Thomas Vandahl,tv@apache.org,Aug-15-2018
+4b93217566ccdd284114522a0fd291e8767d3e19,Thomas Vandahl,tv@apache.org,Aug-15-2018
+8da8b349b713061bd2ce922dceb136c5994031c1,Thomas Vandahl,tv@apache.org,Aug-15-2018
+81dd60ed4fdf5eef502db878a455a62e06a48929,Thomas Vandahl,tv@apache.org,Aug-15-2018
+776ef015e19e69d25d7d553c2b3582e1e4cb845b,Thomas Vandahl,tv@apache.org,Aug-15-2018
+08a9dbe9f9ad92efb160de12ca611e6288f50741,Thomas Vandahl,tv@apache.org,Aug-15-2018
+d4d413b0a120e494c96634dd49a02653da035f1b,Thomas Vandahl,tv@apache.org,Aug-15-2018
+15cd6ab4ea1041bf64c2758c91b101a300dfbb8b,Thomas Vandahl,tv@apache.org,Aug-15-2018
+2c6d38399d372411209010d292a2925d17ab0c1f,Georg Kallidis,gk@apache.org,Aug-15-2018
+70d4f33a4f9dd6cab07c04ebc04d682345a97e42,Georg Kallidis,gk@apache.org,Aug-15-2018
+5558db36de00e6db52231b1036c808bc96bfe4c0,Thomas Vandahl,tv@apache.org,Aug-1-2018
+5f098bc3b70a55ce175718753d135082e18e4572,Thomas Vandahl,tv@apache.org,Aug-1-2018
+97a534f01bf342cc029d77b20cd424788390d998,Thomas Vandahl,tv@apache.org,Aug-1-2018
+1e0539b646cb5d3e2dd048d01903f3b13cb62e0a,Thomas Vandahl,tv@apache.org,Aug-1-2018
+6c64d93350fc12fc268ff72ebcba8548fa33c603,Thomas Vandahl,tv@apache.org,Aug-1-2018
+6f32b75e914b374f05b01ffccb26104917abeec4,Thomas Vandahl,tv@apache.org,Aug-1-2018
+61ac99361b4e135337ebd080faff409bb236b91a,Thomas Vandahl,tv@apache.org,Jul-30-2018
+81739344a832c0e4041f1e05187559eadb8aebe8,Thomas Vandahl,tv@apache.org,Jul-30-2018
+68cbd18b1bfd9a4ab32184fe9c2dbb67831cd1fd,Thomas Vandahl,tv@apache.org,Jul-30-2018
+70eb16dc8cc7d1ddf89eef98b62eebc5b7ab278d,Thomas Vandahl,tv@apache.org,Jul-30-2018
+e0a2f47f5f1546ee6b3cedbada1c8072ba76e0cc,Thomas Vandahl,tv@apache.org,Jul-30-2018
+f0d2968dca481529cb1d3e11b922e7c4583b6f2e,Georg Kallidis,gk@apache.org,Jul-28-2018
+8cb80c338ad7075a948f05471a841134dbe9c518,Thomas Vandahl,tv@apache.org,Jul-28-2018
+bb574c13c845cb00eed62653ce600e800fc1d370,Thomas Vandahl,tv@apache.org,Jul-28-2018
+4a3634ab898f88ac0419d7ff8ee9af81a3fcc098,Thomas Vandahl,tv@apache.org,Jul-28-2018
+8a047ddc443e2787b0a540aa53f2ee2fe230a716,Thomas Vandahl,tv@apache.org,Jul-28-2018
+e3c1184a501c6834738391e56a58fd35876f4030,Thomas Vandahl,tv@apache.org,Jul-28-2018
+1197728f0d4be0dbc97ab0ebb03b87bbfa629734,Thomas Vandahl,tv@apache.org,Jul-28-2018
+8eed72b7ded6b0b795ade24c850c0895343f7a19,Thomas Vandahl,tv@apache.org,Jul-28-2018
+33cd55324e5964299f64fd6738de4bb88e72e5d3,Georg Kallidis,gk@apache.org,Jun-22-2018
+ed491ef55fa8a06ff661f151c0001d8c97b4ebbb,Georg Kallidis,gk@apache.org,May-16-2018
+291a8d8fe768b69ea2850ffa76f2dd51905a9a71,Georg Kallidis,gk@apache.org,May-8-2018
+76b551058c474ddf439b263b3291371ea75550b1,Georg Kallidis,gk@apache.org,Apr-12-2018
+61e6b3f94b27288427dd7d1e3d5b97444d24c0e5,Thomas Vandahl,tv@apache.org,Apr-6-2018
+7254df721eda54d0080889de29b9d2feb3badca5,Georg Kallidis,gk@apache.org,Feb-21-2018
+5e91ba38465eef8e0748f2e686ab75403bdf9069,Georg Kallidis,gk@apache.org,Feb-21-2018
+ec1e2ddc9afaeb3aeab412939dd8aa65502b8147,Georg Kallidis,gk@apache.org,Feb-21-2018
+6bcb6fed79298917f2738162e9c0aa9d006f2df1,Jeffery Painter,painter@apache.org,Jan-29-2018
+29e298553aa65afae16affcbbf08d6ef17591dd5,Georg Kallidis,gk@apache.org,Jan-24-2018
+792f0cadb830e129f64e6f65694cce004554ee06,Georg Kallidis,gk@apache.org,Jan-22-2018
+6708a3c3bf2f9901c85c64de5d87896be432e841,Georg Kallidis,gk@apache.org,Jan-15-2018
+24c7ef59614ad674d6f6b579811086d5958d48de,Jeffery Painter,painter@apache.org,Jan-12-2018
+b3c4940d45db9d13a579c05428361f4b7cb24642,Georg Kallidis,gk@apache.org,Jan-5-2018
+e0d4b40a52c7f24370916b8e31b3bec05cc70034,Georg Kallidis,gk@apache.org,Dec-23-2017
+11f2f938fe03d0363c680a1754bfbb18d5aa6d3d,Georg Kallidis,gk@apache.org,Dec-13-2017
+806fbd83ad426278b41f4da7dd18e5641b06f35e,Jeffery Painter,painter@apache.org,Dec-6-2017
+f9f4f19bca68adcf4a792e05ff7f47c7c7ff48de,Georg Kallidis,gk@apache.org,Dec-1-2017
+a555358c3f0bb897967d0ef62a58fadba6d60e66,Georg Kallidis,gk@apache.org,Nov-30-2017
+d956a1927bf590ae4da2ed7a117af0cc0a33981d,Georg Kallidis,gk@apache.org,Nov-27-2017
+d14d780ba8d6a064399b320281e846e805379ce2,Georg Kallidis,gk@apache.org,Oct-24-2017
+5c441a24f78f87d4481b5b81e32a9391bf368172,Georg Kallidis,gk@apache.org,Oct-24-2017
+df4c7926ee128e9918fe228d167d39a47e449ee9,Georg Kallidis,gk@apache.org,Oct-19-2017
+dfd40600bb1f588905bb1809e63b4c6a7351caf4,Georg Kallidis,gk@apache.org,Oct-19-2017
+5037cf50a7f3028d8c0f21ba05b0b1879edff615,Georg Kallidis,gk@apache.org,Oct-19-2017
+03e2e8fd3fcba020dd114da348cc9bba8f5dd96f,Georg Kallidis,gk@apache.org,Sep-27-2017
+c903d675d99b5a8ab1759880c94e900a3724163a,Georg Kallidis,gk@apache.org,Sep-14-2017
+6ccc12fc518f9273a0b5caba7e0dbadd34518d38,Georg Kallidis,gk@apache.org,Aug-11-2017
+b925dca877629df706f724d0bf44641eca4cec17,Georg Kallidis,gk@apache.org,Aug-10-2017
+c31caabe692ea4038a6e5ecb05014d2080ee856f,Georg Kallidis,gk@apache.org,Jul-13-2017
+3ef96fd097697b4c54c44d27da875b89a0b91d00,Georg Kallidis,gk@apache.org,May-23-2017
+cfc976ec6cbade24017f03ec058564e3ac9b6694,Georg Kallidis,gk@apache.org,May-8-2017
+463c04f708d6d525774f175f0e7248aeec11fd9d,Georg Kallidis,gk@apache.org,Apr-27-2017
+11392916e4ac636941c50988a8351ec0f9642b87,Georg Kallidis,gk@apache.org,Apr-6-2017
+2e14aa1f147fd4e791bd8550d7e12a2bf7b9b12e,Georg Kallidis,gk@apache.org,Jan-26-2017
+aad6c7c442a84a114f7852d12e6e0c73d80bd036,Thomas Vandahl,tv@apache.org,Dec-18-2016
+6cf7f3cab2f9b89b40f1dc8b4e5930cb3b5cb558,Thomas Vandahl,tv@apache.org,Dec-18-2016
+4b6b08a3554d37b97c3bba39246b8e6266ca2751,Thomas Vandahl,tv@apache.org,Dec-9-2016
+362ab97d739c000a303fff53d62ca32cf0c60841,Thomas Vandahl,tv@apache.org,Dec-9-2016
+87d7aa7766215f10b918088cf9799da5d4c2d5bb,Thomas Vandahl,tv@apache.org,Dec-9-2016
+0f038d886efd0f0a639e4e79b1567449a8fa281a,Thomas Vandahl,tv@apache.org,Dec-9-2016
+4682d4951d4532b0e1e4dee2b23b35ca07cc3cb9,Thomas Vandahl,tv@apache.org,Nov-21-2016
+9a859080282e17abf56dada1bac0914bd05b3e47,Thomas Vandahl,tv@apache.org,Nov-17-2016
+6c755b241059f54473bea17f6233729bbd0d639b,Thomas Vandahl,tv@apache.org,Nov-17-2016
+e34a17d9961063fb859fe294fb752f57a337fc54,Thomas Vandahl,tv@apache.org,Nov-17-2016
+784c06448033d04cb2633de3c0fb1e6c043e35e7,Thomas Vandahl,tv@apache.org,Nov-17-2016
+3e1f316ed4dd35a00d0400201e812fac7c494081,Thomas Vandahl,tv@apache.org,Nov-17-2016
+228ead4084af0611e08c2d5ec9082abb4a30d992,Thomas Vandahl,tv@apache.org,Nov-17-2016
+2f407da3a490bf7b4ac53dd4c609f83012b346d1,Georg Kallidis,gk@apache.org,Nov-7-2016
+a2e68954dac28856b9f0c11d799135eb084e0376,Thomas Vandahl,tv@apache.org,Oct-27-2016
+8faf2b52881dbb7fe33253c9e19413b955edcde0,Thomas Vandahl,tv@apache.org,Oct-27-2016
+27ba2ec8a46cba40f71a188caa220a4dc7abe347,Thomas Vandahl,tv@apache.org,Oct-27-2016
+3fc1317b0c443d782530204099a6db95139cdd22,Thomas Vandahl,tv@apache.org,Oct-27-2016
+58255b4b569a2ad2b1f7ca7fe58eb91369b95c0a,Thomas Vandahl,tv@apache.org,Sep-7-2016
+53a20d3bb368148f0929b6dc67ffd006e7570ef8,Georg Kallidis,gk@apache.org,Aug-18-2016
+a52e1d8bb97fa52627fa319e29068fe989556187,Georg Kallidis,gk@apache.org,Aug-11-2016
+f5e666702290c062ffaa95782764696e2084eaa1,Georg Kallidis,gk@apache.org,Aug-10-2016
+2a64f2b70e28c266f0fc4c5cf2a44ea20f9b9def,Thomas Vandahl,tv@apache.org,Aug-2-2016
+1b8d16fbbf5b32c8c5773fd29b2f8b3c31ebad87,Thomas Vandahl,tv@apache.org,Jul-31-2016
+153cece7e73ea683bfa35062c83f4f0c9c3775da,Thomas Vandahl,tv@apache.org,Jul-31-2016
+7a07c9c52d1414908fa86f3106b0ee8ea0a86c16,Georg Kallidis,gk@apache.org,Jun-30-2016
+5ca3ca713ab9ad09992db65bb7440166d7958e08,Georg Kallidis,gk@apache.org,May-4-2016
+e03821499a910f9c030bec6facae83515f494a3e,Thomas Vandahl,tv@apache.org,Jan-23-2016
+2a07ae92c8297374f4f9fc9ccddd1e707852e38e,Thomas Vandahl,tv@apache.org,Jan-23-2016
+c761d21c07642eeeb73f065682681d4f8d520675,Thomas Vandahl,tv@apache.org,Jan-23-2016
+5cbdaad32bcabaf4e82926901c27dec8142296aa,Thomas Vandahl,tv@apache.org,Jan-23-2016
+3afe38d9f4ebec7131804ed6db017db7e6b5f5c6,Thomas Vandahl,tv@apache.org,Jan-23-2016
+f6043a4d23d52f584bd33b3c10bd6ec3352b4e0d,Thomas Vandahl,tv@apache.org,Jan-23-2016
+82da82a7fef660456a7b3cd44f90200e22ecdc80,Thomas Vandahl,tv@apache.org,Jan-23-2016
+a46c215d824b93cdd178a44d24f22a7a0ede1a13,Thomas Vandahl,tv@apache.org,Jan-19-2016
+116c0223b59ab04d644598067c8dd6c9e67a16a7,Thomas Vandahl,tv@apache.org,Jan-16-2016
+a7bca33c41983ec44b4ad28ce0afced84f2d66c7,Thomas Vandahl,tv@apache.org,Jan-16-2016
+643ad072e4d8e9933b7e0297831d245dd1610fa0,Thomas Vandahl,tv@apache.org,Jan-16-2016
+d1d7f61ef9190bdc704b046fe6bf94b1ce132802,Thomas Vandahl,tv@apache.org,Jan-16-2016
+4e9b564bceb65ab806675ae0b1e100994b76999a,Thomas Vandahl,tv@apache.org,Jan-15-2016
+44ffa4633ec42d75a74c84296391e7d94b3bdd35,Thomas Vandahl,tv@apache.org,Jan-15-2016
+718393782f3b28c3de4c74ded7d948cb00315fdf,Thomas Vandahl,tv@apache.org,Jan-15-2016
+0105f65ed8d518ac667e08f52559760c45c2deab,Thomas Vandahl,tv@apache.org,Jan-15-2016
+dcaf5eae34ecae7c46b56a14a4eba75f1aaaab4e,Thomas Vandahl,tv@apache.org,Jan-15-2016
+b904a63e528cdf67f805b0aa3408cfa38909bd9c,Thomas Vandahl,tv@apache.org,Jan-15-2016
+fdf4c1098d3f3163e132a10f645729fdcd6a21a4,Thomas Vandahl,tv@apache.org,Jan-11-2016
+593c1392d310eac5f280a47fc606e2509ece371e,Thomas Vandahl,tv@apache.org,Jan-8-2016
+e04e142b1e18d5a76c5a6aaaa72c4b9703759ca3,Thomas Vandahl,tv@apache.org,Jan-8-2016
+2728e489e76da2f500e4b8137550d1187034aeb8,Thomas Vandahl,tv@apache.org,Jan-8-2016
+2c6ebe5c74ded19305c3b8289d43cc3f2370d004,Thomas Vandahl,tv@apache.org,Jan-8-2016
+877b8224412e454c5be21b71aee610aef758288e,Thomas Vandahl,tv@apache.org,Jan-8-2016
+d32065bf8eeb916f05705102c9be675b0dd1d699,Thomas Vandahl,tv@apache.org,Jan-8-2016
+31b15ea1267b8d8d7edc300ec69b3ccfb7ef9bf6,Thomas Vandahl,tv@apache.org,Jan-8-2016
+d6585984e21a557226862fd5dccccef233bd150a,Thomas Vandahl,tv@apache.org,Jan-8-2016
+c1ab30a4f43d412f81fba64d7d9a9f76495abc10,Thomas Vandahl,tv@apache.org,Jan-8-2016
+e95575418826b3de3bafd4f16218493051138267,Thomas Vandahl,tv@apache.org,Jan-8-2016
+1daf6e0b4772e275e8e6e87f6b52438fc8ec9faf,Thomas Vandahl,tv@apache.org,Jan-8-2016
+e297cc5d3341f26f1641f3ea373ce5219d75aee5,Thomas Vandahl,tv@apache.org,Dec-21-2015
+ebd468d1d475f1f4f9b339dc745359ba0a5177d0,Thomas Vandahl,tv@apache.org,Dec-21-2015
+f25df4d76fa3c26590a91d43e5c216a26d7fe4e2,Thomas Vandahl,tv@apache.org,Dec-21-2015
+5f40a7afd29a10697e6ac2a6ffa59a5d66e5a94d,Thomas Vandahl,tv@apache.org,Dec-21-2015
+89be4882a74358fe81dc5a454b4bbcb955914e6b,Thomas Vandahl,tv@apache.org,Dec-21-2015
+1e9631fedb78aa6ac4f95fcb5dea269ae693a61f,Thomas Vandahl,tv@apache.org,Dec-21-2015
+366b279841603b174ff64caf10651866867a05ed,Georg Kallidis,gk@apache.org,Dec-7-2015
+e75855548d72a2460e25ba4395e1e026a3d7b0b1,Georg Kallidis,gk@apache.org,Dec-7-2015
+223bfb96c5286da4553ccc5c605c35688a9a36be,Thomas Vandahl,tv@apache.org,Oct-20-2015
+e4416a2c29a9da909f8b0a9838f7b40040df6755,Thomas Vandahl,tv@apache.org,Oct-20-2015
+76d2e374c7e43326f592ee97e6361d96668efcc5,Thomas Vandahl,tv@apache.org,Oct-2-2015
+3e74e9fd96e946a1ad5371f4be1b7abd99d2a3bc,Thomas Vandahl,tv@apache.org,Oct-1-2015
+9d9a0c0ef5028817986a5ac4795576dee91ab3f1,Georg Kallidis,gk@apache.org,Sep-25-2015
+dcf9a53010f5d13f85c3c6a11ff89f3f1351c276,Thomas Vandahl,tv@apache.org,Aug-13-2015
+74e82f37594e8d25ef064361fcae53d0eb3ebaea,Thomas Vandahl,tv@apache.org,Aug-13-2015
+a71146abbe6cd244d6b967bab4050647dd94683a,Thomas Vandahl,tv@apache.org,Aug-13-2015
+71477a13162cbfcbe039fc0d8a6ddd8430ecc7c2,Thomas Vandahl,tv@apache.org,Aug-13-2015
+374d24c2e43975920d23b2cfc58d2cc92a886465,Thomas Vandahl,tv@apache.org,Aug-13-2015
+dc0ce031c8f197bed959450cee292476d27b3e8b,Georg Kallidis,gk@apache.org,Jul-31-2015
+4248d686fbb164fef29c0da9936e49c5440a4b45,Georg Kallidis,gk@apache.org,Jul-27-2015
+b8cfa052d928629d092ea466df05fba23f728a3c,Thomas Vandahl,tv@apache.org,Jul-25-2015
+c70ddfc92761e4f0d44dc033e53950b1242488e7,Thomas Vandahl,tv@apache.org,Jul-25-2015
+33026d70e6405ccd7288f09b9785fdcd4be1abe3,Thomas Vandahl,tv@apache.org,Jul-25-2015
+962de4b0dce51d74ba24998301b979698762dd4f,Thomas Vandahl,tv@apache.org,Jul-25-2015
+9d41958515848f446592e3799f03a4ce870f0514,Thomas Vandahl,tv@apache.org,Jul-25-2015
+a1385373b86e5e771ad00e0903f9eb58cb1ceae8,Thomas Vandahl,tv@apache.org,Jul-25-2015
+8df74266bb6e0ef676ac327f78f573417d2de449,Thomas Vandahl,tv@apache.org,Jul-25-2015
+7adeb47265011dbaec82e053ff71249990569dd1,Thomas Vandahl,tv@apache.org,Jul-25-2015
+450d7bf7bc1ddb98fe0533e4730358fb238b3d92,Thomas Vandahl,tv@apache.org,Jul-25-2015
+44f5987e4acdb16233e9357f73130daf5b2dfeda,Georg Kallidis,gk@apache.org,Mar-11-2015
+e442f178b00aba6b00e80f097ff7898e64a6b587,Georg Kallidis,gk@apache.org,Feb-27-2015
+084a6ef2d8b095731bfa2d546876a6c6282eb2a5,Georg Kallidis,gk@apache.org,Sep-8-2014
+231c68781c0ed72ee38d926d47f02c10f4946b67,Georg Kallidis,gk@apache.org,Sep-8-2014
+d941d6e9244c93fbad7d14c14a9512ba76b5321f,Georg Kallidis,gk@apache.org,Aug-26-2014
+be62d06a996efd89d68aab214fe86030cbad005f,Thomas Vandahl,tv@apache.org,Aug-15-2014
+977678d93afbed1af0abd681327394b4eab4c029,Thomas Vandahl,tv@apache.org,Aug-15-2014
+22a7236fdb0ae4a792dfce20138dfdbf9fbc0604,Thomas Vandahl,tv@apache.org,Aug-12-2014
+3883fefc1f4e6c06e12baad3e2e3f7f112bf19a7,Thomas Vandahl,tv@apache.org,Aug-9-2014
+7ebb8b8a01a591224962fb1ebfce202a1f3c4daf,Thomas Vandahl,tv@apache.org,Aug-9-2014
+ef9e301842ce3332ea9c00a91b0fa94cc056d909,Georg Kallidis,gk@apache.org,Jun-27-2014
+857c17b125b4c831cd55e61be237a8c018fd0b97,Georg Kallidis,gk@apache.org,Nov-27-2013
+b36a4b1db3fb70cae09eef6acee42c05010e740d,Georg Kallidis,gk@apache.org,Oct-29-2013
+d256fbba419633f8e9a15b6cd0926144938766b9,Thomas Vandahl,tv@apache.org,Oct-3-2013
+f0225e3eadd158226d03f9869a226d4751e9fed0,Thomas Vandahl,tv@apache.org,Sep-26-2013
+d7b08938a7d8218344e01df939a457082e6786cd,Thomas Vandahl,tv@apache.org,Sep-25-2013
+81ca2485d1eede6daabc6e3926be83b486027809,Thomas Vandahl,tv@apache.org,Sep-25-2013
+46216a38cdd42d1d3ce61377c544a194804b2d71,Thomas Vandahl,tv@apache.org,Sep-18-2013
+cc041af2ec43759b88d50fc3b04589d79bb87d5c,Thomas Vandahl,tv@apache.org,Sep-18-2013
+90e864235fbf460eaf6e8cc874a23800c1ae5b04,Thomas Vandahl,tv@apache.org,Sep-18-2013
+aa2a072c0870f0a3150c39afad49a280504c8834,Thomas Vandahl,tv@apache.org,Sep-18-2013
+7d76d179341a2afb0a1d780378cbc82b95d80908,Thomas Vandahl,tv@apache.org,Sep-18-2013
+2f90d4777ecdbcb1f861be6aaa3b28ad89f84236,Thomas Vandahl,tv@apache.org,Sep-18-2013
+c9f25acfbd06973f5bb38e7628330d0e5c869f94,Thomas Vandahl,tv@apache.org,Sep-17-2013
+dcf48fe20d4818837fdf73578d55374c2e6ed47a,Thomas Vandahl,tv@apache.org,Sep-17-2013
+1d072da05a91df8ef90eb62cca71cf9998a15fdb,Thomas Vandahl,tv@apache.org,Sep-11-2013
+ec17bf3d83a0ee03294d78da5bac9a1e30bc9402,Thomas Vandahl,tv@apache.org,Sep-11-2013
+b30e5d7edce2484844844b6ea3bbbbd697eb0784,Thomas Vandahl,tv@apache.org,Sep-11-2013
+f3f87f6756aba5bedb9e97e305dc8780cc4dfc07,Thomas Vandahl,tv@apache.org,Sep-11-2013
+4df38ba5d52d06d5e5ee39a04b48f95317be6933,Thomas Vandahl,tv@apache.org,Sep-11-2013
+569fec6ed924198b8fa00de1a210229ab041d6a1,Thomas Vandahl,tv@apache.org,Sep-11-2013
+ec54795baed58bf2692b581ccaade72d86fedd7e,Thomas Vandahl,tv@apache.org,Sep-11-2013
+b9fe689431f4eeb2568fb704e5f00d8b6d0cfe4d,Thomas Vandahl,tv@apache.org,Sep-11-2013
+2f9c065e2ec2a862dbbb65fa0b5fa07431c52df7,Thomas Vandahl,tv@apache.org,Sep-11-2013
+7d28b66fc2e9130c886f577d91418fb06db82497,Thomas Vandahl,tv@apache.org,Sep-11-2013
+dbbfdab3740eb4c0258cfc1a44acaf50bddb9e28,Thomas Vandahl,tv@apache.org,Sep-9-2013
+bc094611b49f5241585e198fc6419628314df325,Thomas Vandahl,tv@apache.org,Sep-9-2013
+b7088f21d56407dc5b53320274c05d0685a424c8,Thomas Vandahl,tv@apache.org,Sep-9-2013
+01110c2f531e1487513badaae9739070b7b1ea2a,Thomas Vandahl,tv@apache.org,Sep-9-2013
+06567712fc5e1e6a190c6d46126a28d268fb8dfe,Thomas Vandahl,tv@apache.org,Sep-9-2013
+f08321cf76d947f0d8b22bdc5497c7b762a714da,Thomas Vandahl,tv@apache.org,Sep-9-2013
+82ccef8e33be85bb5a42924604028c73965630e3,Thomas Vandahl,tv@apache.org,Aug-25-2013
+530aca6479e979cbeceb780a9cf3428c17707bd4,Thomas Vandahl,tv@apache.org,Aug-25-2013
+185120fc32a78daa98c5e5b2243435f8c2126abe,Georg Kallidis,gk@apache.org,Apr-9-2013
+a8fcb906ed656080cd8060bf523a7cd13745f717,Georg Kallidis,gk@apache.org,Apr-9-2013
+add6f782b75e4d4418cf61529ed8ebbfc78faa5a,Georg Kallidis,gk@apache.org,Feb-1-2013
+88cd1087ee85634d5d9583c41b6c6fb46351377b,Thomas Vandahl,tv@apache.org,Dec-27-2012
+f77743babf2db548825dbb4c793ca47f07e97f77,Thomas Vandahl,tv@apache.org,Dec-27-2012
+a545b311cce71fdd2c51b5c74ba0204046ff1431,Thomas Vandahl,tv@apache.org,Dec-27-2012
+2670e8f58b57f50209942bcc6dcf20c22562cac8,Georg Kallidis,gk@apache.org,Dec-7-2012
+bd6391a45ea5ed008aca41b342ee5f766adb5dac,Thomas Vandahl,tv@apache.org,Nov-18-2012
+dccdb4deb781278ffa24a10d00d2b7f2d3c75ace,Thomas Vandahl,tv@apache.org,Nov-18-2012
+5a306f0475bd8e067218d911a4b2ca10899d36b9,Thomas Vandahl,tv@apache.org,Nov-18-2012
+ff596aeaa0262acc4926a0114a5b8669bb1a1ecd,Thomas Vandahl,tv@apache.org,Nov-18-2012
+9a605988964ab0fcda9e8664400283f8df5e23f8,Thomas Vandahl,tv@apache.org,Nov-18-2012
+013c9fcf4103f546a513cf09bb86ba2112e3e561,Thomas Vandahl,tv@apache.org,Nov-14-2012
+666784ebdd5bf7fe3d295a4cc983180e0495bb24,Georg Kallidis,gk@apache.org,Nov-12-2012
+a97371a36060fc7b7ec22cf21d38d09d41b0fa83,Georg Kallidis,gk@apache.org,Nov-12-2012
+6684df8a91974537a5e7934993a17d0aea725518,Thomas Vandahl,tv@apache.org,Nov-5-2012
+6d961cd70b1ba9093af5e05d0671b9df9b9f0e2b,Thomas Vandahl,tv@apache.org,Nov-5-2012
+3f87f342134d6456ca0aecd0f092cdb4d63a5621,Thomas Vandahl,tv@apache.org,Nov-11-2011
+1ea2e8f4cb920c15315dfac6266b122b900a3209,Thomas Vandahl,tv@apache.org,Nov-10-2011
+3382a1df52c127421756da6b260539ddaf05e217,Thomas Vandahl,tv@apache.org,Nov-10-2011
+d4da0209369d89f51a8a8cf222e7b1a0253c4ac7,Thomas Vandahl,tv@apache.org,Nov-10-2011
+687d1be672593aac38e92e5ffdf5a3dc6a8bf1c5,Thomas Vandahl,tv@apache.org,Nov-10-2011
+21d144b0696c8994d92520331af4cb57edb3631e,Thomas Vandahl,tv@apache.org,Nov-9-2011
+7d01b40407c1f5cd5773d512e6a10a6a2e3f50c7,Thomas Vandahl,tv@apache.org,Nov-9-2011
+d872e6e0e9f3e8ebe9067751c5d021847279b4d6,Thomas Vandahl,tv@apache.org,Nov-9-2011
+b5b6a7bb6a494c5299c844a3603c65944d418476,Thomas Vandahl,tv@apache.org,Nov-9-2011
+128494a85f0270624cff53a64ebf64c12d59bc25,Thomas Vandahl,tv@apache.org,Nov-8-2011
+e8c1dc716f189c01a48f5942fe5dd62f72f4cb48,Thomas Vandahl,tv@apache.org,Nov-8-2011
+502e5fdfab2dcda038b84f55e42f6ca3be36abf1,Thomas Vandahl,tv@apache.org,Nov-8-2011
+b8b09bafe6567f6da7f39dfe2049d360ff5fe09c,Thomas Vandahl,tv@apache.org,Nov-8-2011
+22334905424dfad492bcd8662bb5c3d6cd04382e,Thomas Vandahl,tv@apache.org,Nov-8-2011
+0e77d7928e3734da8b6d07cca83120f53505d4bf,Thomas Vandahl,tv@apache.org,Nov-7-2011
+97b2cbd648282967f37cf8fbfc00e50790e1c6ac,Thomas Vandahl,tv@apache.org,Aug-30-2011
+82c7bea68ee3aa4fc3dd004fa663a8a9eacd5178,Thomas Vandahl,tv@apache.org,Aug-30-2011
+fcd1ea4a6d9df14d38315fbfda1520d7a90cbc81,Thomas Vandahl,tv@apache.org,Aug-30-2011
+13b0fb4993e6f01984fc564f0db9e51050bb7a7a,Thomas Vandahl,tv@apache.org,Aug-30-2011
+25a7f90b0fc51b538108fa2e5b8df79eb56e2e24,Thomas Vandahl,tv@apache.org,Aug-30-2011
+7078add57f9a42bacecfae0bde2ee0384da3b421,Thomas Vandahl,tv@apache.org,Jul-30-2011
+0019b47f57d1572f5d361fbdc515d24fa1e063df,Thomas Vandahl,tv@apache.org,Jul-30-2011
+4629797c23f5586392191626a96abaf5b510ab28,Thomas Vandahl,tv@apache.org,Jul-30-2011
+17e0bb8fad277e87c056e3efd29ec88af125f472,Thomas Vandahl,tv@apache.org,Jul-30-2011
+13cef144414c6ca5c4143febd50461a1027b28ea,Ludwig Magnusson,ludwig@apache.org,Jun-26-2011
+bb713bb6aebe4904d373ed9b490b6fcca84f47e2,Ludwig Magnusson,ludwig@apache.org,Jun-26-2011
+c89a4c4c1605af1d9a61857fe5e5571a4006fe08,Thomas Vandahl,tv@apache.org,Jun-23-2011
+b836b1a2161e15af81ef3326a1fcf9e6c508bea2,Thomas Vandahl,tv@apache.org,Jun-14-2011
+fa33b4e569e710fca67a7df84b0504fc6361c1d2,Thomas Vandahl,tv@apache.org,Jun-14-2011
+1e6a83e6d5a90060e80d79df85b45463b3e49b82,Thomas Vandahl,tv@apache.org,Jun-14-2011
+1549ace5932ee1ea23c1c7b2f0105e97afea213f,Thomas Vandahl,tv@apache.org,May-30-2011
+1bc56b1df08c521e27539a3f8040a6761163c81d,Thomas Vandahl,tv@apache.org,May-3-2011
+00327bfdabe901c8ed482e509d86dcc95b05c774,Thomas Vandahl,tv@apache.org,May-3-2011
+4c788fb80d21446cd4bcc32ed518cb6ef1f3c492,Thomas Vandahl,tv@apache.org,May-3-2011
+da0bc15574755b22f45c1194dde87e9b63e5eeb3,Ludwig Magnusson,ludwig@apache.org,Apr-25-2011
+040ab09f0531f789c635efdbb3a0f57a2bb13a6b,Ludwig Magnusson,ludwig@apache.org,Apr-25-2011
+4fdb2e4098c49a4f64ee7de3d2f75438f052f099,Ludwig Magnusson,ludwig@apache.org,Apr-25-2011
+437d5ad2cd15955fe366824549518eb5c8456025,Thomas Vandahl,tv@apache.org,Apr-24-2011
+8b3d98c128b511a9c700415f0ef66d70a1a78d12,Thomas Vandahl,tv@apache.org,Apr-24-2011
+e9a87653f569ec9295c72714bf896258559cc013,Thomas Vandahl,tv@apache.org,Apr-24-2011
+fec88f2c15f99631c5d39218ce9206cbc3c7ddad,Ludwig Magnusson,ludwig@apache.org,Apr-23-2011
+41993dcd41fa5458634190bb104ada3aa5420fde,Siegfried Goeschl,sgoeschl@apache.org,Apr-10-2011
+24c7b0892e3dea33876f08ffae00c7eeae9a21c0,Siegfried Goeschl,sgoeschl@apache.org,Apr-10-2011
+e084df731aa5df9f8926a068d77fcff52fb9f0d5,Thomas Vandahl,tv@apache.org,Apr-8-2011
+5794011801bb9e13a37fc7ce4068687c04e2d68f,Thomas Vandahl,tv@apache.org,Apr-8-2011
+85fa5c92638d3b93ab9fdf3d0435b06b38de627c,Thomas Vandahl,tv@apache.org,Apr-8-2011
+f24ab5fa3cce631d2df10134cc8911d6635151fc,Thomas Vandahl,tv@apache.org,Apr-8-2011
+290460b6f9c28451ecc41f12e90ead49fd82ca35,Thomas Vandahl,tv@apache.org,Apr-8-2011
+a7b5c1d879a5a00100e1aacdcc6d819c47442fed,Ludwig Magnusson,ludwig@apache.org,Apr-7-2011
+7ec0be51e4daa49df96053e369d1a3905cb795a9,Thomas Vandahl,tv@apache.org,Apr-5-2011
+c57f6584d31ab0211a735d6a372a800cea6b4f36,Thomas Vandahl,tv@apache.org,Apr-5-2011
+1b74848f3b2c9b850e77c1f610718ba34da4ea10,Thomas Vandahl,tv@apache.org,Apr-5-2011
+89f735cb3c1964bed153c63ce1e5d1d7a6a40cc9,Thomas Vandahl,tv@apache.org,Apr-5-2011
+c266e45db8132168096fa22ae39f85b7b4d17fe9,Thomas Vandahl,tv@apache.org,Apr-5-2011
+43caa73d29c64e7749c5e15c14d8b6f67512f8ca,Thomas Vandahl,tv@apache.org,Apr-5-2011
+f6873cb637640393defa13043d2e98374ebe49ce,Thomas Vandahl,tv@apache.org,Apr-5-2011
+9b023e53d3155d87c5f2db91c1787df5d7e54689,Thomas Vandahl,tv@apache.org,Apr-5-2011
+c5033eac91684b59072429469c7543bfc14dff07,Thomas Vandahl,tv@apache.org,Apr-5-2011
+ebb6c73a1655d9b4e1ed06493107cf640ac83cd7,Thomas Vandahl,tv@apache.org,Apr-5-2011
+8591aa21f41a3e60b616c96171200b88a6b09968,Thomas Vandahl,tv@apache.org,Apr-5-2011
+5bd5356d70d7ed3735301f805a5269e85dcc786f,Thomas Vandahl,tv@apache.org,Mar-24-2011
+078b538316459fdb01742e8c441188b0f586238e,Thomas Vandahl,tv@apache.org,Mar-24-2011
+f21272efd71eb617b0eeaeeb5401c0c198fb8ff3,Thomas Vandahl,tv@apache.org,Mar-6-2011
+a8a5f0c7fcf50d4aac43d95575d7ca5e866b47f7,Thomas Vandahl,tv@apache.org,Mar-6-2011
+2b53651603358ceeb09c4bc61b6deacdb5fc5795,Thomas Vandahl,tv@apache.org,Mar-6-2011
+50eab421cb000eeae6f72748a75b04a626e19a15,Thomas Vandahl,tv@apache.org,Feb-21-2011
+5969f1468ff2d8654b9a8db29def7263878cc8a2,Thomas Vandahl,tv@apache.org,Feb-21-2011
+8a12b03fb8025ae93a71337119031f3c26e0cf55,Thomas Vandahl,tv@apache.org,Feb-21-2011
+70c1f2e91a8e35501d0160a1d4db9c58b587287f,Thomas Vandahl,tv@apache.org,Feb-21-2011
+924a0b2874b56187beb9f832117d61fa5e8b95fe,Thomas Vandahl,tv@apache.org,Feb-21-2011
+b4d9f0fc2e605f9d6ea5956ceef45dcad255f3bb,Thomas Vandahl,tv@apache.org,Feb-20-2011
+6c5d045631055a26acbd71c144fa1c69b8ae1c54,Thomas Vandahl,tv@apache.org,Feb-20-2011
+ae5f0c531d221d843d1eb210de00880641a709a7,Thomas Vandahl,tv@apache.org,Feb-18-2011
+cade70439a1dfb458775c77e750e4405dc425a72,Thomas Vandahl,tv@apache.org,Feb-16-2011
+0b3a42090f8db4fc7d75900e50561f3f5aa1d83f,Thomas Vandahl,tv@apache.org,Feb-15-2011
+4471d870c2fc295f31ebd8ab3e32951723729f6c,Thomas Vandahl,tv@apache.org,Feb-15-2011
+59c5656548b69a03ff9eb8add91bf9a9b67058f2,Thomas Vandahl,tv@apache.org,Feb-15-2011
+cf59779b7904f0a5f7ce563c4664bdd9713ef826,Thomas Vandahl,tv@apache.org,Feb-15-2011
+62326b35a418774fb94e8888617efa340e007a62,Thomas Vandahl,tv@apache.org,Feb-15-2011
+3641380d287c6bf47ca08c4713946dd0af7301bf,Ludwig Magnusson,ludwig@apache.org,Feb-3-2011
+608aa8c7911c7d4e47af14a52c74979ada48b6a9,Ludwig Magnusson,ludwig@apache.org,Feb-3-2011
+a33c57c7748024389d528fe426e46d014dd5034c,Ludwig Magnusson,ludwig@apache.org,Feb-3-2011
+f1c5fbe15325ca2166d2edb9335938c97c5fd0d8,Ludwig Magnusson,ludwig@apache.org,Feb-3-2011
+9c0da9198461696ecc034ffc21bd5ce20b0b6741,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+e5a82435819858bea37300b1a0e31154e9e94201,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+b7a56223356f1c60f914f270964086e87a83d1ff,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+063b9e9acdc1c456749154b9c7fb98ec190b03a2,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+211b67f3a28c0e1480f98beb2d300594fe6d86cd,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+aa9e413ee99fbb8f194caf39c3f0e91c83a24094,Ludwig Magnusson,ludwig@apache.org,Feb-2-2011
+87f6747e603c5f71e73a970a86fd163da6c6f2ec,Ludwig Magnusson,ludwig@apache.org,Jan-25-2011
+6d948c7fc489627d86ebb79b3f90840bdfda3ace,Ludwig Magnusson,ludwig@apache.org,Jan-24-2011
+9d18f761b88f5cc8499fc148114de82e6a90ddfa,Thomas Vandahl,tv@apache.org,Jul-25-2010
+f4b3ed14420619a9169f4d159efc206fdc9c0015,Thomas Vandahl,tv@apache.org,Jul-25-2010
+8dc7a472fe840bce8ce1e7a2e8ca00db08957c64,Thomas Vandahl,tv@apache.org,Jul-25-2010
+cacb774549e8681f3d41c0ee03459df0a639efa5,Thomas Vandahl,tv@apache.org,Jun-29-2010
+f5508778885a72d3b4c2d48093e7e6f027408288,Thomas Vandahl,tv@apache.org,Jun-28-2010
+e58ca33f6eced589e63b0ad530b75e8a737d96e4,Thomas Vandahl,tv@apache.org,Jun-28-2010
+b6f18f515dc5b2e71688f8c3392485b94a8073ae,Thomas Vandahl,tv@apache.org,Jun-28-2010
+c7d31a40807db06140d2cec5186616ec619893c8,Thomas Vandahl,tv@apache.org,Jun-28-2010
+6ecbd6b0d58c4805c888c7fe412db916d9829df8,Thomas Vandahl,tv@apache.org,Jun-28-2010
+0fdd7c1a3f94db19bc9a5ee0ef5f430213756880,Thomas Vandahl,tv@apache.org,Jun-28-2010
+31c997986fd8a7e93dfc5427b02432fc9f2f2f18,Thomas Vandahl,tv@apache.org,Jun-28-2010
+d899b9e7d3c1df40ade54ad67fafb4ae4dd7a7a7,Thomas Vandahl,tv@apache.org,Jun-28-2010
+93c02ae45495a3dbbf1f2807cd82dc12e58dd3ce,Thomas Vandahl,tv@apache.org,Jun-28-2010
+300b1e09058ef5dafc6d1159de44e7ef777a86ac,Thomas Vandahl,tv@apache.org,Jun-28-2010
+2eea8defd0197cde855c9b54dc7afd09a326f29d,Thomas Vandahl,tv@apache.org,Jun-28-2010
+b31a6458e80b72a3a714e49839b9389c24850fbc,Thomas Vandahl,tv@apache.org,Jun-28-2010
+edad999a7779a35a8e4ef0ef4bc244936b62e5d5,Thomas Vandahl,tv@apache.org,Jun-28-2010
+a735b9d7cdb76aed3b8d84bc4a35b47cdb65bbad,Thomas Vandahl,tv@apache.org,Jun-28-2010
+eafc3162dfe8949d5d126444d245fd9e08505e08,Thomas Vandahl,tv@apache.org,Jun-28-2010
+9fc63f8f737387e6999b3f94963949a4aa3972c7,Thomas Vandahl,tv@apache.org,Jun-23-2010
+4fe082a93bc93f1c2a983c9a88ec0becaf6c73b7,Thomas Vandahl,tv@apache.org,Jun-23-2010
+6f30a7f4bf5625f676c7fdb0e31bbf7372b59ac2,Thomas Vandahl,tv@apache.org,May-22-2010
+099b09d22916f0e92d4c17d5989992b82d81aff0,Thomas Vandahl,tv@apache.org,Apr-27-2010
+0ac3e4cba2106420e368fccde629167fa8f4d360,Thomas Vandahl,tv@apache.org,Apr-27-2010
+686fc824de4116d3bcfeb7b50f5675d942d5ad99,Thomas Vandahl,tv@apache.org,Mar-31-2010
+fa67ecb8eac8cbde23adf9fd298ab62190e86266,Thomas Vandahl,tv@apache.org,Mar-31-2010
+3ccd93caf3a29250c1bd5320c2ae9c5d36b0186f,Thomas Vandahl,tv@apache.org,Mar-31-2010
+9cfb893bac1e25504cd00595f91c8b80c5a0f3e9,Thomas Vandahl,tv@apache.org,Mar-31-2010
+c33729007ece9cc7a803a8ea4d62fab916083b81,Thomas Vandahl,tv@apache.org,Mar-31-2010
+f7098636c50d42266ce9c4ae7496eb8bc9386a40,Thomas Vandahl,tv@apache.org,Nov-2-2009
+5ff91ccad06b0b409d40670c6e3a04526821cd64,Thomas Vandahl,tv@apache.org,Oct-18-2009
+2bb62612c1cc697fdb4500ed492e4e295fb050a1,Thomas Vandahl,tv@apache.org,Sep-4-2009
+9b02f21da185cf3acbe45749ccfbb66c2a82b688,Thomas Vandahl,tv@apache.org,Sep-4-2009
+84ef12d344162c670d32e28b670b34bfdb33bfaf,Thomas Vandahl,tv@apache.org,Jul-10-2009
+d90ebc6a33c065e8ade4bacf29fd9c6d93eb1bff,Thomas Vandahl,tv@apache.org,Jun-21-2009
+e7ab58059159a23c762e3d844aa353365c915bd3,Thomas Vandahl,tv@apache.org,May-4-2009
+e4934c5cf320d9beace19344ddd4016cca4f350e,Thomas Vandahl,tv@apache.org,Apr-13-2009
+e0948d778cf6d7259e783b724fa93cdd3e1bb6ae,Thomas Vandahl,tv@apache.org,Apr-13-2009
+d52e0fc6e1554df0d27547c57d00170d9e75c80d,Thomas Vandahl,tv@apache.org,Apr-13-2009
+0e43c33cff7559fed229d8080514c4b8d5730881,Thomas Vandahl,tv@apache.org,Apr-13-2009
+870414e3c61bf0c017e71e4e27487e534fb8360d,Thomas Vandahl,tv@apache.org,Mar-30-2009
+ccfaa202588dc531500f65f2a9b277d9cffa5d25,Thomas Vandahl,tv@apache.org,Mar-30-2009
+e3c59594e0a9775f14b187d8b0d24dcd6a88f71e,Thomas Vandahl,tv@apache.org,Mar-30-2009
+770875b4ffef71e811815531399a30f0ab6e2772,Thomas Vandahl,tv@apache.org,Mar-27-2009
+267036acba0d273c0c5367cc81442f2fde0e4f87,Thomas Vandahl,tv@apache.org,Mar-25-2009
+b3be5f0d8c2a04750d2f3d0a7ae6025f7749af45,Thomas Vandahl,tv@apache.org,Mar-25-2009
+9c0fa1c457818044359c6c52aca8a61c8e5fb8fe,Thomas Vandahl,tv@apache.org,Mar-25-2009
+46aaf75e62f913ae93cfdf9435b650c020effc75,Thomas Vandahl,tv@apache.org,Mar-24-2009
+4e2519068eba3ef0ed81f32a2b5f7fdc353e8890,Thomas Vandahl,tv@apache.org,Mar-24-2009
+85ca887bcc48da42c0ef9875e4d40aa71410afdc,Thomas Vandahl,tv@apache.org,Mar-24-2009
+10dd965ecb0278181ce5b7952628f5beecac114d,Thomas Vandahl,tv@apache.org,Mar-24-2009
+f5d3dab55bdfc43d7b2a339defa4465f9fd03c9a,Thomas Vandahl,tv@apache.org,Mar-24-2009
+771cebbfd630ea7b6354af4f4b284600a7fb6946,Thomas Vandahl,tv@apache.org,Mar-22-2009
+7fdd63982b39c1ce49a0b6bfab4a1b0292fc9af4,Thomas Vandahl,tv@apache.org,Mar-22-2009
+5b502d09ebb179b80cb252ee3498951d81145afc,Thomas Vandahl,tv@apache.org,Mar-22-2009
+b7550251e78f9b9f25a74690d4695acc7a7e1e6e,Thomas Vandahl,tv@apache.org,Feb-10-2009
+2157e7d30a88e4f53000ff0ec95ac9f82bccee94,Thomas Vandahl,tv@apache.org,Feb-10-2009
+c8e4b983e61d075047fa0cacf0024860be09136d,Thomas Vandahl,tv@apache.org,Feb-10-2009
+7ff97c367341178303c98f1d051642f4a56f72e2,Thomas Vandahl,tv@apache.org,Feb-10-2009
+cd3516d7772197fa513791869ab496d95756fce7,Thomas Vandahl,tv@apache.org,Jan-4-2009
+260fed937ea15fb1881f63b14a3e7e02b849c257,Thomas Vandahl,tv@apache.org,Jan-4-2009
+26b5c00ac8ca25596b7d7dff302eaf7b5a263760,Thomas Vandahl,tv@apache.org,Dec-28-2008
+df70d98e63c5448946774678c83be68ff79c96a6,Thomas Vandahl,tv@apache.org,Dec-10-2008
+e6ba7de5ce9360d261361ef50f19dba6b135aed2,Thomas Vandahl,tv@apache.org,Nov-15-2008
+e05b1c9d1b7c054ef0b148565a48c3090192a464,Thomas Vandahl,tv@apache.org,Nov-15-2008
+06917046e557409bca5a49afb1de798516bbc827,Thomas Vandahl,tv@apache.org,Nov-15-2008
+e63a04726a9462ec48895ea3aa6e7f9579cc7761,Thomas Vandahl,tv@apache.org,Nov-15-2008
+d88d32188766178ef0d12132913ff0b07e87ac5d,Thomas Vandahl,tv@apache.org,Nov-15-2008
+38efdd2623a9f2a5d50dbd128b9c2951a17e4f67,Juergen Hoffmann,hoffmann@apache.org,Apr-11-2008
+df318c6b48409c895cdc7add3eafc50fbaf7aff0,Thomas Vandahl,tv@apache.org,Apr-8-2008
+03955b8bf2027768b9d3bda530456bfb08e4b847,Thomas Vandahl,tv@apache.org,Apr-8-2008
+8111c2fd7df65e80f20629c61b9dc9768f59053e,Thomas Vandahl,tv@apache.org,Apr-8-2008
+e12e3b492b790c8596a2cc995fd9ed3ec41dfdc2,Thomas Vandahl,tv@apache.org,Apr-8-2008
+bc741f153882f513fe372fbe835f6fc0d25bae8c,Thomas Vandahl,tv@apache.org,Mar-30-2008
+b7b1ae8ef28fecce34c1d4f4202722ad80b059b0,Thomas Vandahl,tv@apache.org,Jan-25-2008
+6f4047d30dfac4bb74b5a581420836b20250e6ae,Thomas Vandahl,tv@apache.org,Jan-25-2008
+72b93aaddeb0f18b513732fdb173cfcc2331e3ee,Thomas Vandahl,tv@apache.org,Jan-25-2008
+c68520cf478912cd71db4fa10a441034a5516a7c,Scott Eade,seade@apache.org,Jan-21-2008
+78d63c69c8f14f116e8fa2b94dde4834b423c73d,Scott Eade,seade@apache.org,Jan-19-2008
+dc9a1e243213d7331158c27e2ee62c2b91cd1e33,Scott Eade,seade@apache.org,Jan-19-2008
+a5f665efa742212bbe0b7d98d34dfed63fd4a725,Scott Eade,seade@apache.org,Jul-12-2007
+33156c23aaeedce64ce85178bdce6ceb0b399da4,Scott Eade,seade@apache.org,Jun-25-2007
+3202e1cb34a870016a904c39d4de2cdc382b4201,Scott Eade,seade@apache.org,Jun-25-2007
+a1493ba8c7122521dc7adb9580988af79f1ce76b,Scott Eade,seade@apache.org,Jun-25-2007
+183da14e6e4bd040aa3d3457d9a97d340cb3539c,Joe Schaefer,joes@apache.org,Jun-25-2007
+007b274d26b67222fedae75c19728cb99906de66,Scott Eade,seade@apache.org,Jun-21-2007
+9d354409868553aa4a42f4ca1d3e2dabbb324201,Scott Eade,seade@apache.org,May-29-2007
+b0754616b0eb70dcdda2d039d7d4b200c8b28fe0,Scott Eade,seade@apache.org,May-29-2007
+b456e3df57e91b0dec7bf6d6729190364bf54b6e,Scott Eade,seade@apache.org,May-28-2007
+d4d03a3633ead9672231469d27b2a7534229e7f3,Scott Eade,seade@apache.org,May-28-2007
+e43abae134dcf3f9a6aa64cda93a3a27318a6513,Scott Eade,seade@apache.org,Apr-24-2007
+72383cb630b64825e609daa08913369aa99d69ef,Scott Eade,seade@apache.org,Apr-24-2007
+1a5638cb87f8cda8f1d346aa9245d7227a0c65fe,Scott Eade,seade@apache.org,Apr-24-2007
+799d533164cb7c8cb7205b98424554d301a3ab6d,Scott Eade,seade@apache.org,Apr-17-2007
+31bf10165a2ddd8a6fc0376fa443f149965205eb,Thomas Vandahl,tv@apache.org,Feb-11-2007
+f0dafcd5a7a8a3e088c6b82524c5a69b282cb692,Thomas Vandahl,tv@apache.org,Feb-11-2007
+632e3cff6d22a2b332124d197711d2da1ce1a4fe,Juergen Hoffmann,hoffmann@apache.org,Dec-12-2006
+4b72ac81f368b1717d74519cdce17f69af6a9aab,Juergen Hoffmann,hoffmann@apache.org,Nov-20-2006
+ebed50a8249ca27566e7f900b464b214f3ae7473,Scott Eade,seade@apache.org,Jun-27-2006
+00b8de4a67467d1a2ffab4625dd0d21bbe9cb6df,Scott Eade,seade@apache.org,Jun-27-2006
+cebd31042123ad66b7b9bc3f4907ebbae5a003e8,Scott Eade,seade@apache.org,Jun-26-2006
+8d9735e6a2277c3a341d28feabd9cc31c28beabc,Scott Eade,seade@apache.org,Jun-26-2006
+d5f145b74d4230e941fda74dcfc4a13c48cb74d0,Scott Eade,seade@apache.org,Jun-23-2006
+dcd59f9d673ea750b867bb37685a8f34b796b678,Scott Eade,seade@apache.org,Jun-21-2006
+80bcc07380f1d3dc26b053d750408011de3814c4,Scott Eade,seade@apache.org,Jun-20-2006
+ff5547d8fdcb3f9f6806a831dc79cff588a39a3e,Scott Eade,seade@apache.org,Jun-20-2006
+a7cb200486cd266bba66ba8317b36844f34094a1,Scott Eade,seade@apache.org,Jun-20-2006
+c195c35838fc488e561896c19468716398114ce1,Scott Eade,seade@apache.org,Jun-20-2006
+066d4f5b997d06415ed237afd25856205ea73eba,David Eric Pugh,epugh@apache.org,Jan-3-2006
+b00bcee38d7d2ea27dc57a1eaf4517792773c852,David Eric Pugh,epugh@apache.org,Jan-3-2006
+266a086162d49c02de9443741d88829a2ee019cb,David Eric Pugh,epugh@apache.org,Jan-3-2006
+c0859ddb8423e4d2c2a27fd6a71a6b5d5448d415,Henning Schmiedehausen,henning@apache.org,Dec-14-2005
+5f3610988287b6cae9bb1a84abd373c11aca7c19,Henning Schmiedehausen,henning@apache.org,Dec-14-2005
+8be5a36558cb3f9ce0a8a895e665876679e760e2,David Eric Pugh,epugh@apache.org,Dec-14-2005
+84e192d62f0e18fd9e506d095e2297ad55ab456a,David Eric Pugh,epugh@apache.org,Dec-14-2005
+a7c6617b22a38a36b06942e25153dcbd995f5ddb,David Eric Pugh,epugh@apache.org,Dec-14-2005
+aad0aee69090080f07524bfeb3cb94060e7411fe,David Eric Pugh,epugh@apache.org,Dec-14-2005
+e2a998939aa723943b8661410846d55fa2352c7f,David Eric Pugh,epugh@apache.org,Dec-14-2005
+db65031bd12b450a80c93817579127f5c9b8a948,David Eric Pugh,epugh@apache.org,Dec-14-2005
+a63fa0cccc54c6b8b64ca603e0967f3df77cb2ea,David Eric Pugh,epugh@apache.org,Dec-14-2005
+c2996a180461aa165a49d91577572f59fddd0367,David Eric Pugh,epugh@apache.org,Dec-14-2005
+ec1e1591427fd2ea8f72be36d71d2651a5b7ffc7,David Eric Pugh,epugh@apache.org,Dec-14-2005
+69baed85baa3900151524241ae006ad0af6f3aa2,David Eric Pugh,epugh@apache.org,Dec-14-2005
+460333b4a2ecc308f3f3edb490f4dbbb78ccc34b,David Eric Pugh,epugh@apache.org,Dec-14-2005
+a1284b689eb775b9256b5dd625aaa6d3270b11c7,David Eric Pugh,epugh@apache.org,Dec-14-2005
+7f1647dd44bbc4ce4c6694fcc6d84d9cb3e8a76f,Siegfried Goeschl,sgoeschl@apache.org,Dec-10-2005
+23d175ccdd42dce3cb31469414c48c2b39e76b92,Scott Eade,seade@apache.org,Dec-1-2005
+79fd45484baf06b4e48945b47a718c0d2a611a92,David Eric Pugh,epugh@apache.org,Nov-30-2005
+0d34e091f860d3e34546ac5888af2cb5a5bb13cb,David Eric Pugh,epugh@apache.org,Nov-30-2005
+c9019e4f5b8a94702c1d97bb2e87bc4f23816d49,David Eric Pugh,epugh@apache.org,Nov-28-2005
+8b76a9539249f0a3bdb588edba7157ff3387e489,Scott Eade,seade@apache.org,Nov-15-2005
+89da24c9e2fe03f1f687346183df53adf1a99ab3,Scott Eade,seade@apache.org,Nov-14-2005
+f6c9982e50a75897b62157c31c4d27d633f7ffb9,Siegfried Goeschl,sgoeschl@apache.org,Nov-1-2005
+bef877727f7eb6eeb341d1d0748ccb050af1fc95,Siegfried Goeschl,sgoeschl@apache.org,Nov-1-2005
+f5f0f5a21db816425886795685e705cff684d33c,Siegfried Goeschl,sgoeschl@apache.org,Nov-1-2005
+0f17273152874dab4dbb35adcb9784cc944fc717,Siegfried Goeschl,sgoeschl@apache.org,Nov-1-2005
+213b9486b897d55a93cb833933a6f921829a2df0,David Eric Pugh,epugh@apache.org,Oct-31-2005
+a610c500e89b87ff9a75331ce8885a4a3a4fe186,David Eric Pugh,epugh@apache.org,Oct-27-2005
+fac5d7f94f5f8d3a083297cc0d20f8075f3a4352,David Eric Pugh,epugh@apache.org,Oct-19-2005
+a5d170d52fc4e1fbc350c4960e909ca05fa5a5d6,Henning Schmiedehausen,henning@apache.org,Oct-3-2005
+c39f6f4edb98d30da59f83a2e3c7c0fa6b3b828d,Henning Schmiedehausen,henning@apache.org,Oct-3-2005
+a0ad383e0af339a8ec810c41e91af8a1ec52907c,Henning Schmiedehausen,henning@apache.org,Oct-3-2005
+f5f784d34e5ae20ef85ac9d01f1c6d13b1590905,Henning Schmiedehausen,henning@apache.org,Oct-3-2005
+9ec0885494c7e3e844d05ddcf4959b2aa35b36ac,Henning Schmiedehausen,henning@apache.org,Sep-21-2005
+1cd413a18dcfe092a481072dcc81ee9fbbeb87c9,Henning Schmiedehausen,henning@apache.org,Sep-19-2005
+a048d064a4dccf98db4462cddf866c5f22172899,Henning Schmiedehausen,henning@apache.org,Sep-19-2005
+c156a1d83c2bb8af6b64d70f761c1db3873e9402,Henning Schmiedehausen,henning@apache.org,Sep-19-2005
+541c7a30b844ab7982328c1834de9c2290381b66,Henning Schmiedehausen,henning@apache.org,Sep-19-2005
+96fe5314837b700f288eb0c326cb1048a6e5ee6d,Henning Schmiedehausen,henning@apache.org,Sep-19-2005
+8188c4d1ffbda6a9149aea57b301f4041e92686a,Henning Schmiedehausen,henning@apache.org,Sep-18-2005
+16a9bc4845cf3b55b7705a70a03a38dcfc1f5c16,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+f156e80cbacbfc5288ccb76a7ae66d991e1ee4b5,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+0b206c7aab99d99479d2cb8b54699f54e70cfb2a,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+59bdd742bd251b3316f457d3f30823f0889e48e8,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+a32e66bbaee26765564ea0dc3c45ea93a1731ad0,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+e70e7267ff930a732f758d1a4887112cb290e8bf,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+269a0150d835f032ece859a81b2d2ea74ac400bc,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+668201306b36bb4e25a9b6057d0790b83f53ca64,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+cba590b5300a95e9f8d353b05f995f759895c9e2,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+8b6e0b5fa02344c58787151a814ea251df07c2f3,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+d0e36432c159c873920dd567e1812cabb60c821a,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+97b2c9e88ff3b04517c0e62406810c38aa8ed841,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+611f9f671b28292f36a2e4afd29c739729094b01,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+fb2fc363c83f8c1e000c98e0bf16886f71141772,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+425fb1a9e52bcdb3d9aed5b63c090f7784896263,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+f8cef1c932de54dbcc08b31b736af4152283c02e,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+92e228a07bb401ee3963490d175a36570ad3ebed,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+e3b2b2075e98f430c3cc855e6875bd1af8b335bf,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+98c1227bd53273b190b83a8b445f0adc51b893df,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+0b67acc1c232512807ec88d3d46a22440722661e,Henning Schmiedehausen,henning@apache.org,Sep-12-2005
+276f1d25c89a8ce2f66a6ba4098afabe5689a2a0,Scott Eade,seade@apache.org,Sep-8-2005
+fad69204d1ec79264035b4ded24abc1311edeef2,Peter Courcoux,pcourcoux@apache.org,Aug-19-2005
+0edafc552a46a4a030b53262931dcf8e9ca9d196,Henning Schmiedehausen,henning@apache.org,Jul-30-2005
+636ad3cefdbee13d433b21cadd49405a6b2e063d,Scott Eade,seade@apache.org,Jun-1-2005
+a9bb813b6208ae0b2b01530fb281323d5887220c,Scott Eade,seade@apache.org,Jun-1-2005
+52d9b37ccf943e01c3546c5104fbff0f231c754a,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+03314862c2ea37e9e2fc40a9ffd5de40335569db,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+341c54c0c9a7f741902d1f75fc4eedf07da205f3,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+247580acb84437d3d2a8f0310da8cee4101b9306,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+0fb795f3a73a15e1c02d51513899e023f4b80600,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+c14c789f7730de2d65ea239193f8e6347c7956fb,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+42598d059f3831b7b842976cf1a724d2ff62adbb,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+7c99510f1db143485c2b4c5e4ce9ae43dde63f7e,Siegfried Goeschl,sgoeschl@apache.org,May-19-2005
+5e45620f7697b5348a39262926e8e94c9b1b7fa5,Henning Schmiedehausen,henning@apache.org,Apr-26-2005
+da79d7223c0a0ced6f4e2c61ba48c326094c41fd,Henning Schmiedehausen,henning@apache.org,Apr-26-2005
+fda613b82eb43602ada0834cc3f70a6d79dabd09,Scott Eade,seade@apache.org,Mar-29-2005
+f2663bf8acc21f46f725df5b17455f431afc699d,Peter Courcoux,pcourcoux@apache.org,Jan-20-2005
+04ba1d6b88a041ac14a7c06de803bfe3f6821da4,Henning Schmiedehausen,henning@apache.org,Jan-18-2005
+b18c2df5b3d4c8d322ffe8bf48976edbf7c34406,Jeffery Painter,painter@apache.org,Dec-6-2004
+45ee27110a642afc8b5ebf979a3f6bec2b48f2b1,David Eric Pugh,epugh@apache.org,Dec-3-2004
+fff8ab6320849a6a3c7cf9396478568e18ee02a7,David Eric Pugh,epugh@apache.org,Dec-3-2004
+dae41d7a67f37d2733c1ce76cc2c5c8dfd7765c3,David Eric Pugh,epugh@apache.org,Dec-3-2004
+b171309e0a2d4ea2522f68b6a1f15e99b4fb934e,David Eric Pugh,epugh@apache.org,Nov-24-2004
+427571b06c69865195a29cd66f943456c7d81eed,David Eric Pugh,epugh@apache.org,Nov-24-2004
+d06ed40702f42ed9de295e4e10ce099e80d28d14,David Eric Pugh,epugh@apache.org,Nov-24-2004
+6558c745813a32d8976ef48be17069f78befb62f,David Eric Pugh,epugh@apache.org,Nov-4-2004
+c1ed94584a724f7355f3301023b3f310336a9bbc,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+d6bc71ae3aa823f4d90486debfbc62550f2b3d3f,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+e86d1c4e5918c67689bfa667bfa90c72d2254ded,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+8606712ec793f4964ddad26503072c9299382d32,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+800a5843555ffadae0dc5839904abb3ebebdb50e,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+029995460085dc7009484232dbd6dbd17a447ed0,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+813cc332d3767eb831347b47876fb0e174d624ab,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+fe8727526ad51fb69932223598abed037b0499e0,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+42db3200d4f7283a65bc8af1c5bf3dbb09e205df,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+ddfd58631c3455fcdbdc0e1ededc476691843198,Henning Schmiedehausen,henning@apache.org,Oct-31-2004
+ed29929ff6cf85403e9c48938cc4f177dcfc89d6,Henning Schmiedehausen,henning@apache.org,Oct-30-2004
+4f469ca62402eac8a8173960c835a7f46c8b914a,Henning Schmiedehausen,henning@apache.org,Oct-30-2004
+8896aeec3118fff2a6e855868c723b35312e35a6,Henning Schmiedehausen,henning@apache.org,Oct-30-2004
+b751977592c6ec6812c1081630613d26feab9399,Henning Schmiedehausen,henning@apache.org,Oct-30-2004
+7c182d7efca868ff80de5410818073c27ce82398,Henning Schmiedehausen,henning@apache.org,Oct-28-2004
+a8abfbbe885cbad50e3cfaf390dff56cb5b15c2a,David Eric Pugh,epugh@apache.org,Oct-18-2004
+e64ccad3022aa008ccbaf2b6f354e8d1c55b5f61,David Eric Pugh,epugh@apache.org,Oct-18-2004
+63b0e4f6c4a3b29183a13df8f4cce4fff0188e3c,David Eric Pugh,epugh@apache.org,Oct-18-2004
+edd23c32eda2c215e80db4cbd7c6790810d45197,David Eric Pugh,epugh@apache.org,Oct-16-2004
+2fda5dabf65ded50906fe1c3df7aaa576478ffb5,David Eric Pugh,epugh@apache.org,Oct-16-2004
+cd2fba425ff7ca299226bdcd3cdbe8e4856cc4cc,Henning Schmiedehausen,henning@apache.org,Oct-16-2004
+cb2d7737b667c56557570c499c696c43c5a8ce6a,Henning Schmiedehausen,henning@apache.org,Sep-27-2004
+f280c6ec3a09e5f824915b9cd6136110f6aadfdd,Henning Schmiedehausen,henning@apache.org,Sep-27-2004
+41bee2e716dfb940f06fb4376b2a7b74fbf7687b,Henning Schmiedehausen,henning@apache.org,Sep-27-2004
+62bf9630ac538c20f0d1b13ebbe85afc71d77793,Henning Schmiedehausen,henning@apache.org,Sep-27-2004
+a1e120e2f6f1a5598966533b05fb18dadde14c5f,Henning Schmiedehausen,henning@apache.org,Aug-23-2004
+f5866a357da066b09a1a757275128034555a8826,Henning Schmiedehausen,henning@apache.org,Aug-23-2004
+e61c77bf8af8291b612a2e3d083f3e7234f42b8a,David Eric Pugh,epugh@apache.org,Aug-14-2004
+545db685928c8a4d0feb7fcf35453a4542fee3b4,David Eric Pugh,epugh@apache.org,Aug-14-2004
+3acdcf345f7a8f22dae56cb727231b716ff46c50,David Eric Pugh,epugh@apache.org,Aug-14-2004
+cfd880d6a60dbeb3026e18e3f2f876fa1f639a5c,David Eric Pugh,epugh@apache.org,Aug-14-2004
+ef34bdc9502bf4c840ccf8f66fabaad8e6827426,David Eric Pugh,epugh@apache.org,Aug-14-2004
+86292893d778f8b4bb9a708c1b937a686fb21678,Henning Schmiedehausen,henning@apache.org,Aug-10-2004
+dc84d6bc9face5cdf2120d5881fb1c0f5cdb507e,Scott Eade,seade@apache.org,Aug-3-2004
+e3f37754f17610a0ff7ab3d57f4230a7bdc32191,David Eric Pugh,epugh@apache.org,Aug-2-2004
+c6675f0b0402f67cac06fa902aaea909b67db447,David Eric Pugh,epugh@apache.org,Jul-4-2004
+6c479ccfabdc891b6a3c08b8f9c87a9f5f81c350,David Eric Pugh,epugh@apache.org,Jul-4-2004
+2f0fc1e6696610dd4d8204bd024e22374721a4bf,David Eric Pugh,epugh@apache.org,Jul-4-2004
+aea4ae8fb67940d95219cd02b0385c212bbd51fc,David Eric Pugh,epugh@apache.org,Jul-4-2004
+c84775260b4cb8a0eed9668749dc97ee60ef2704,David Eric Pugh,epugh@apache.org,May-30-2004
+3765b17adb7a093621695e2ca07725109ddbecf8,David Eric Pugh,epugh@apache.org,May-30-2004
+0e70556e0ab534085c96dee3ba38a7c4185e590f,David Eric Pugh,epugh@apache.org,May-25-2004
+aed3191c04ebc7786c563c888633f78b72eb23c0,Henning Schmiedehausen,henning@apache.org,May-19-2004
+175e3e1823f7cceaa862489dc58fb4c88c66ad06,David Eric Pugh,epugh@apache.org,May-13-2004
+2e1a78f7b07829544d3c135695c874fca4e5c77b,David Eric Pugh,epugh@apache.org,May-13-2004
+c8d42fb30382c6304272a795e38b76896e145cdf,David Eric Pugh,epugh@apache.org,May-13-2004
+5d4379c914102a88f96f54f23ac1c7d932b24bb5,David Eric Pugh,epugh@apache.org,May-13-2004
+0581cdde650cf6154ec94cedb2b42d51b1938b41,David Eric Pugh,epugh@apache.org,May-13-2004
+3b441906d9eee14f286ded9ac43df95ed53516c3,David Eric Pugh,epugh@apache.org,May-13-2004
+0c815b7bd3df1b9834dc173d2103f18fc470c70b,David Eric Pugh,epugh@apache.org,May-13-2004
+161eab36933a8ee814e48649091e437d67dc8566,David Eric Pugh,epugh@apache.org,May-7-2004
+9fcee139a43e56c4cf0c75f3605c24f20829f6d5,David Eric Pugh,epugh@apache.org,May-7-2004
+064903e83c0ff8e81273dde4aa55facb36890540,David Eric Pugh,epugh@apache.org,May-7-2004
+8188a7892a9dbd0bbc5fd3a46e9f6f54997b286e,David Eric Pugh,epugh@apache.org,May-7-2004
+e35d3ab9434458acfa5d00eb5c79fd8ff3f092c3,David Eric Pugh,epugh@apache.org,May-7-2004
+be0277aef92f7e0f38cda0cb1004849830801cb3,Scott Eade,seade@apache.org,May-6-2004
+1ff72891e5fbb3d9483f6463ddeff71ca16772e7,Scott Eade,seade@apache.org,May-5-2004
+822c06cb3aa6dd026652b4e63c9116eeb13e2f77,Scott Eade,seade@apache.org,May-5-2004
+bd579937a5732dae85d0a0347c6295cbd4a60909,Scott Eade,seade@apache.org,Apr-29-2004
+85dbd978d14e9c4e55011200efc99647a6a8c371,Scott Eade,seade@apache.org,Apr-16-2004
+0a3d249e73f9403df3664e3765d26fe7ff8c67e8,Daniel Rall,dlr@apache.org,Apr-14-2004
+5db66525c3600dabe9a5dbdea7341d6a4b87da31,Scott Eade,seade@apache.org,Apr-10-2004
+9a2ad2d280c55fcd3ffe392299f7f9584213ee3e,Scott Eade,seade@apache.org,Apr-4-2004
+94f83945b2425482c2261c4338d3c6d586c2a7ae,Scott Eade,seade@apache.org,Apr-1-2004
+11fa3ff74c50a5f5356840b71c4ee988650ebbb0,David Eric Pugh,epugh@apache.org,Mar-31-2004
+7f009fdd6127d85eed745f3e29de8c52796f5d99,David Eric Pugh,epugh@apache.org,Mar-31-2004
+91edb29196a318b5bf9cc2c40e5256103a1dad5b,David Eric Pugh,epugh@apache.org,Mar-31-2004
+67a28cda4c848c660e2e0525dc56cdb665369fd8,David Eric Pugh,epugh@apache.org,Mar-31-2004
+e96760899ed31eadaf348b15c80cfa65432a9ed4,David Eric Pugh,epugh@apache.org,Mar-31-2004
+43f03778aeb411fbc204906d75435c2b32a871a0,Scott Eade,seade@apache.org,Mar-31-2004
+daf9f3b89a6d2306478c6843ebdcf9fac8ade6bc,Scott Eade,seade@apache.org,Mar-31-2004
+fbdf06843149bf7c7ec8b8a35db12b15b4f3b58f,Scott Eade,seade@apache.org,Mar-31-2004
+739bf9d3fd6a6dcd2ff6d5474e55d89f9461a15f,Scott Eade,seade@apache.org,Mar-30-2004
+50b8287138569a3ca876c4cf900ee4c707f1cb06,David Eric Pugh,epugh@apache.org,Mar-28-2004
+2045c69c25f3fa20a024079cc2fc0f90b74b1394,David Eric Pugh,epugh@apache.org,Mar-28-2004
+1b97e419c494f87324e05d360bfc7f5490832537,David Eric Pugh,epugh@apache.org,Mar-28-2004
+f8b95f8fb0c229f707fc0ae83448afad472c8af6,Scott Eade,seade@apache.org,Mar-12-2004
+0d88edb4d7800554539633d44dd22a25fbc0a4b5,Scott Eade,seade@apache.org,Mar-5-2004
+887488f48cdd0cea99c775e63a47630cc15f8d2c,Scott Eade,seade@apache.org,Mar-5-2004
+0460b67bf358083962ef471fb61f9e0ea290449b,David Eric Pugh,epugh@apache.org,Feb-23-2004
+f81ef91f79404452070cd948b88e682914375165,David Eric Pugh,epugh@apache.org,Feb-23-2004
+630d8a910f32a2731b27443105eb69a3bb81a19c,David Eric Pugh,epugh@apache.org,Feb-18-2004
+e781a9b5c336dbe40300e9eb234c0a97d0b96eb0,David Eric Pugh,epugh@apache.org,Feb-18-2004
+363b03a06491441c97edc2591e5745f9a144ea57,David Eric Pugh,epugh@apache.org,Feb-16-2004
+99141b3fac18da89d95547f9ad6a676c2b7bac7c,David Eric Pugh,epugh@apache.org,Feb-16-2004
+55d0fb3694cc89ae418d12e45cafcb3b070cec28,David Eric Pugh,epugh@apache.org,Feb-16-2004
+9d3e8b19aab474a249f29c171dd6cdbd7da689e4,David Eric Pugh,epugh@apache.org,Feb-16-2004
+432cf0a5306d18f3fe91e2068b09d21230f54701,David Eric Pugh,epugh@apache.org,Feb-16-2004
+76c42e5a8511cbe890b876468c81b912d96fc1ff,David Eric Pugh,epugh@apache.org,Feb-12-2004
+8c26e2c2b16fdcd8269381728fb25f029260a59b,David Eric Pugh,epugh@apache.org,Feb-12-2004
+354720d79fbe387e754f7103e946ab7faee061d7,David Eric Pugh,epugh@apache.org,Nov-21-2003
+d1283a9066c8749d0b344dadba255e4689c7fcf7,David Eric Pugh,epugh@apache.org,Nov-21-2003
+05876ed7e2c48826c03ea600e40a2b69ddf9282e,David Eric Pugh,epugh@apache.org,Nov-21-2003
+5801e457cb3784214a83594eefb605bee3339a50,David Eric Pugh,epugh@apache.org,Nov-21-2003
+87a951fe471c70dd216566707a508d283b34c08e,David Eric Pugh,epugh@apache.org,Nov-20-2003
+fea59d9970f78c57a8bf2f04dd6f5073a13eab41,David Eric Pugh,epugh@apache.org,Nov-19-2003
+b72d42e98cdb8ba074ae1aed612dfd78b9db9b2f,David Eric Pugh,epugh@apache.org,Nov-19-2003
+b940f5491df235e05b92ec551ba1abadd1e81fdf,David Eric Pugh,epugh@apache.org,Nov-19-2003
+17698f12d2a4038a1c184b0a5f4e47e45c35a183,David Eric Pugh,epugh@apache.org,Nov-18-2003
+1b7ac1fba78ba2de7c16c7bb575d1140e8df50cf,David Eric Pugh,epugh@apache.org,Nov-15-2003
+00da3acc0de9e4040dc8ece064c1b13a0856a628,David Eric Pugh,epugh@apache.org,Nov-14-2003
+ca6ea2346101c5eb9a06f8d9de0fc25082506ec4,David Eric Pugh,epugh@apache.org,Nov-14-2003
+8cdea1892555471f4231f54f71272a1bc3df6ae5,David Eric Pugh,epugh@apache.org,Nov-14-2003
+1059e8e6f66ab966b3aac1ba1bc7bd326f6f4994,David Eric Pugh,epugh@apache.org,Nov-14-2003
+423b595d360a5145659f8eda0d32b4484b4e7b29,David Eric Pugh,epugh@apache.org,Nov-13-2003
+be6b2e905ee77fd8f868065cc1e2f168985dedbe,David Eric Pugh,epugh@apache.org,Nov-13-2003
+58d2f28bfe1980a57eefb1e4674a483b30558753,Scott Eade,seade@apache.org,Nov-10-2003
+f1ba3d4005094f86d5b8954a21cb55207315f470,David Eric Pugh,epugh@apache.org,Nov-2-2003
+db78927919f03b27f8ff918c5e7fd712f928a59e,David Eric Pugh,epugh@apache.org,Nov-2-2003
+b6df1caefda7553e254de7002e819dd423ff4980,David Eric Pugh,epugh@apache.org,Nov-2-2003
+769406e6b408e729574244fd7e6ce0ae7f713cbf,David Eric Pugh,epugh@apache.org,Nov-2-2003
+8f94f670d807b0a25916350223cbe3e8e69ad9fc,David Eric Pugh,epugh@apache.org,Nov-2-2003
+74f9b13f8d4568e22da3eef5adfd26f91d9ce144,David Eric Pugh,epugh@apache.org,Nov-2-2003
+11a63133a2bd135f6110d77db2d209c77704abe0,Scott Eade,seade@apache.org,Oct-31-2003
+28bd6a41ed8a17e6f75fe041fc6f486655df9440,Scott Eade,seade@apache.org,Oct-29-2003
+232b0245da8e78173613aa4c7aad37d2b03bdf0e,Scott Eade,seade@apache.org,Oct-28-2003
+44bb57667c12ec2f14203bd8e6242443f0377509,David Eric Pugh,epugh@apache.org,Oct-24-2003
+96670738edf0001d7e3e70719aae2fa49e5f5b7b,David Eric Pugh,epugh@apache.org,Oct-24-2003
+8c9c0e8194cf16d2eb3126bf47ac70829d6a03b3,David Eric Pugh,epugh@apache.org,Oct-24-2003
+fc6da6a4c3ed9e6c027075dc135a51472f42c270,David Eric Pugh,epugh@apache.org,Oct-24-2003
+e09b3074d6209173dc3c3cf060baae5fa0c477a7,David Eric Pugh,epugh@apache.org,Oct-24-2003
+7f3089c5123597fe4c4b487cc369385e66492e32,David Eric Pugh,epugh@apache.org,Oct-24-2003
+d7db035b533a771ef1584193c9c58713348a74ac,David Eric Pugh,epugh@apache.org,Oct-24-2003
+65b2dbd1b94c18e32241807af12b73d5c334d4cc,David Eric Pugh,epugh@apache.org,Oct-24-2003
+fcd5518cf13718e6a560fc25386b4fced0eb99d1,David Eric Pugh,epugh@apache.org,Oct-24-2003
+d6b305e20e384134af671f7d283aa01daec8d16d,David Eric Pugh,epugh@apache.org,Oct-24-2003
+11f39f3bf1f90c5c62f139db08eba38c95f3083f,David Eric Pugh,epugh@apache.org,Oct-24-2003
+3c8ee39ceff203bb43afd0b995642157bfd71c28,David Eric Pugh,epugh@apache.org,Oct-24-2003
+fac72f011f9d9f4a3ae380a7895f821538582ab5,David Eric Pugh,epugh@apache.org,Oct-24-2003
+925b76c1c98477e2a3b10a0d52658229c1ec1479,David Eric Pugh,epugh@apache.org,Oct-24-2003
+a274989783a20c02b413fd192301de4815af21f2,David Eric Pugh,epugh@apache.org,Oct-24-2003
+522a98b5c20b71fbc43af825b75ea1b6dc5cffbd,David Eric Pugh,epugh@apache.org,Oct-24-2003
+c3f36144126e1e175ac9abdccf442aaf5985295e,David Eric Pugh,epugh@apache.org,Oct-24-2003
+df989b21b46f4099d04d022d4f66130185f018c6,David Eric Pugh,epugh@apache.org,Oct-24-2003
+a923da10a741e75f55c5e270a9563c6d82e6dc1a,Scott Eade,seade@apache.org,Oct-17-2003
+84ff1a4a4dc6799d7061eb8f61ad353560d0f9a4,David Eric Pugh,epugh@apache.org,Oct-16-2003
+ef1be854fcc6aaa34f7c9aa0963b2160aea8f475,David Eric Pugh,epugh@apache.org,Oct-16-2003
+16e606d62cb9d6a92cfc7796828f020c18469daf,David Eric Pugh,epugh@apache.org,Oct-16-2003
+0324b1ac952cf139612d98a739786bf3cab3106f,David Eric Pugh,epugh@apache.org,Oct-14-2003
+198374517f58efffe53c116069be6dce08d3d685,David Eric Pugh,epugh@apache.org,Oct-14-2003
+789f9e3a5d13c7ad32b70b45046c14adfd602e6f,David Eric Pugh,epugh@apache.org,Oct-14-2003
+78998747cd76485cf964fdd568b24470fada7783,David Eric Pugh,epugh@apache.org,Oct-14-2003
+1f6a792867b30b539c278542673da2c73cc92f8b,David Eric Pugh,epugh@apache.org,Oct-14-2003
+7eacf5d32d3161cbaf62445bb27810bbaa514de9,David Eric Pugh,epugh@apache.org,Oct-14-2003
+496682fb2fc5d269cb5d499a1e877452a604319b,David Eric Pugh,epugh@apache.org,Oct-14-2003
+357ee95cb550f50917e9a9514f4d3397898da987,David Eric Pugh,epugh@apache.org,Oct-10-2003
+d449eff26039a1aee6d98b63cb2f3f9423431a34,Scott Eade,seade@apache.org,Oct-1-2003
+accc91ec3e13731f3197529b17de18202d159a7e,Scott Eade,seade@apache.org,Oct-1-2003
+a27e50e10465ee5e5def97e8089088e915995d26,Scott Eade,seade@apache.org,Oct-1-2003
+4d94e77088aec249155b7feead9b0b4ea4519cff,Scott Eade,seade@apache.org,Oct-1-2003
+6c55e77829a002a8b401bdb88568f7871031cb39,David Eric Pugh,epugh@apache.org,Sep-30-2003
+7d96b522082f66fee838bec9822a1909b26114cd,Scott Eade,seade@apache.org,Sep-30-2003
+fafaf2cdd02be4d420d4724965449cf5ed4fe2d3,Scott Eade,seade@apache.org,Sep-29-2003
+a75d2529edde6d70a4f73fdf889276b13a21e342,Scott Eade,seade@apache.org,Sep-29-2003
+0a100ae4ba6a3d5b9e083c047eda82eee3650354,Scott Eade,seade@apache.org,Sep-29-2003
+56e6444c7512725a95973ab7abac122f22b8510e,David Eric Pugh,epugh@apache.org,Sep-28-2003
+4a2c133473a9cb86f67f22fb110ca69488c00cdf,David Eric Pugh,epugh@apache.org,Sep-28-2003
+cf2b58c4760fce0f6af20eb0f36c79658bf2d427,David Eric Pugh,epugh@apache.org,Sep-28-2003
+cf905911de63ac1566e0789bc04fbab9a7dc4b9d,David Eric Pugh,epugh@apache.org,Sep-28-2003
+8d526a9440bbdac8de7883f3fc5a0e4ebfcc1b99,David Eric Pugh,epugh@apache.org,Sep-28-2003
+a68d26d26333c00a662c82f7f0f1bf58d2090c55,David Eric Pugh,epugh@apache.org,Sep-28-2003
+5ecc9d0bf39925a805b09c469b332866bb9614a5,David Eric Pugh,epugh@apache.org,Sep-28-2003
+a159728fcbc67d803d3276ac41dbe83c6ebc6be6,David Eric Pugh,epugh@apache.org,Sep-28-2003
+6d698f8b9d96a5e07816006fb8f508d15773cf30,David Eric Pugh,epugh@apache.org,Sep-26-2003
+08aa2a5633a4eeac32ca2fcd08b73b192e84f73a,David Eric Pugh,epugh@apache.org,Sep-26-2003
+77bb883dbb24ea6f30c9570aa798971a1eb3b0c1,David Eric Pugh,epugh@apache.org,Sep-26-2003
+b4d2af942b1e7b897485769cc77508c659d5ee73,David Eric Pugh,epugh@apache.org,Sep-26-2003
+19728490621c5ba405fb1887b00db2193b9f8401,David Eric Pugh,epugh@apache.org,Sep-26-2003
+90fbdc227a836487f6691b9ab67f5de6cc15f601,Scott Eade,seade@apache.org,Sep-26-2003
+37a65d8859afbda5331f6d83f2550df7ee0ab389,Scott Eade,seade@apache.org,Sep-26-2003
+b763a40513fd0e3950f4ae42808a9dbc21bddf4d,Scott Eade,seade@apache.org,Sep-21-2003
+c3ec2f45b34ab489cb5a421a0694644528db7292,mpoeschl,mpoeschl@unknown,Sep-19-2003
+098cafde6c93629c54d61f78bd97fe0720071e77,mpoeschl,mpoeschl@unknown,Sep-19-2003
+ba73e4077d766e8ddbcb1c47e3bd5df2d5bf0be4,Scott Eade,seade@apache.org,Sep-18-2003
+d1af68f7b096c89ed4e103e78a8c1757b5955a25,David Eric Pugh,epugh@apache.org,Sep-17-2003
+eaf81305d6d832219f45d3b4b0f4ffe8d122a7df,David Eric Pugh,epugh@apache.org,Sep-17-2003
+3c75305ce080bb21c5106acd19565bfce45c32b6,David Eric Pugh,epugh@apache.org,Sep-17-2003
+095545648d5bbdbfc6a3a658635ddcdbbe5f0916,David Eric Pugh,epugh@apache.org,Sep-17-2003
+a63c7ad09ccccaf010bcec4a1c31333a70c4c142,David Eric Pugh,epugh@apache.org,Sep-17-2003
+8d6c6ae5bcbcfb4709f9678d98195a51ca57efcb,Scott Eade,seade@apache.org,Sep-16-2003
+4c43dc42048f7bd382a6003083585ccc5fc48fb5,Scott Eade,seade@apache.org,Sep-15-2003
+2e489d97a49b093bb988bf8e4d02a8af95a9492f,Henning Schmiedehausen,henning@apache.org,Sep-14-2003
+28caefbaa0b82625125ad535b8046b08e361e39c,Scott Eade,seade@apache.org,Sep-14-2003
+e7665dc55b5274d62ed433927a99baa1bcb915bb,Henning Schmiedehausen,henning@apache.org,Sep-12-2003
+627e721d42c0e42937d212e1581985609d152799,David Eric Pugh,epugh@apache.org,Sep-11-2003
+5992ee16f57c6f0609fd067ca27151108f1c0e4e,David Eric Pugh,epugh@apache.org,Sep-11-2003
+60dbd558519cc32d06d323e0f04a3f3df752f7cf,David Eric Pugh,epugh@apache.org,Sep-11-2003
+e02524f222896e7c8b3a03cfb073409d2a8d710f,Scott Eade,seade@apache.org,Sep-11-2003
+4824878b24ab72a36033f9ea7ab8d14439233cc3,Scott Eade,seade@apache.org,Sep-11-2003
+dc36866b989690cf5248e6955e2a45e6234f99aa,Scott Eade,seade@apache.org,Sep-11-2003
+29cee147dfaca185aae53ca72a11d852f4213200,Scott Eade,seade@apache.org,Sep-11-2003
+36c4e09e8443469ff0016a75e883339bc85767e0,David Eric Pugh,epugh@apache.org,Sep-11-2003
+861667f810603aa71a7c9ef2e0771773019357e0,David Eric Pugh,epugh@apache.org,Sep-11-2003
+f9b72956ee7de0ecf28d283b4e89ade0b45e4638,Henning Schmiedehausen,henning@apache.org,Sep-10-2003
+0e2ef8d4e5d013acc3f5b583787d137c16660664,David Eric Pugh,epugh@apache.org,Sep-9-2003
+129365e5a973d3368cc4f87718a3dd87b617a37b,David Eric Pugh,epugh@apache.org,Sep-9-2003
+e86960de838168cfd2ac5cde3d7d4c247ebb9742,Scott Eade,seade@apache.org,Sep-9-2003
+60ba02ecb0c2b1b10372870a24c1ca019ca4a704,Scott Eade,seade@apache.org,Sep-7-2003
+49d700942b7fc616984255c9e4090d5f5223e10b,Scott Eade,seade@apache.org,Sep-3-2003
+9788171a64a0a28011b05599bbd5e7bddd807420,Scott Eade,seade@apache.org,Sep-3-2003
+5581b73eaa1c0b3d9c44b748a7c0c6e4b00c1464,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+d065bcb6d2658d5af0e08651b1c29ac7f41097b9,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+9c9591a72a173003b809dd8edec74efd81fb8f67,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+52695b8d5ae5c2330cb3b6023a9ab07bd0ca3c11,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+202ac5a554c6a3af4a10a782e5e885d53ce2ec76,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+cab8062abd1bcb4e0b3656118c735498479f36e1,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+125eaab5ad3b7e1405f9f41d5f6b099a1a3cb221,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+731fbe4ef98709cad1a66eccac624b85deafe364,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+99ff33194a05fb25b078a86b333d50d1873bbfc8,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+ac95510a877a0ffecf8c7d86e8c095c49579e226,Henning Schmiedehausen,henning@apache.org,Sep-3-2003
+62a3c007a085a14108cbe311c18ddc5450147a1c,Scott Eade,seade@apache.org,Sep-3-2003
+403d041708904bcc80b03aa72579fb65c7db2702,Scott Eade,seade@apache.org,Sep-3-2003
+48f8f7913ada03f9237da786560023ffd88bccb7,Henning Schmiedehausen,henning@apache.org,Sep-2-2003
+4816abea5606f4d3b2891d5c53e44dc5a83ccb46,Henning Schmiedehausen,henning@apache.org,Sep-2-2003
+dd1443671d1abab70a8dae3f82290de4ec0c3de1,Scott Eade,seade@apache.org,Sep-2-2003
+225be91f2f3778acf8e49db71448e297e28e3beb,Henning Schmiedehausen,henning@apache.org,Sep-2-2003
+9d04ff52b672ecf8c9329d60ac39411db4b78815,Scott Eade,seade@apache.org,Sep-2-2003
+d5d733d2fd56996a09f034bd811d2dfdd494a009,Scott Eade,seade@apache.org,Sep-2-2003
+7d37747711455f3202ecd704f0e31e820ffba3ca,Scott Eade,seade@apache.org,Sep-2-2003
+2756d4b32767482537153b09442342a24e9eef43,Scott Eade,seade@apache.org,Sep-2-2003
+7e513733a01d7df53b7eb84299c3f520b4ba121e,Henning Schmiedehausen,henning@apache.org,Sep-1-2003
+6dc2d59a4a2fdc8920698726a6ace495670047ae,Scott Eade,seade@apache.org,Sep-1-2003
+b59bb63ec96f02835fef35ace69f44478a5990f1,mpoeschl,mpoeschl@unknown,Aug-29-2003
+058e6620e8bf43f09a4eba57835dbc9d5fcfaf64,Scott Eade,seade@apache.org,Aug-29-2003
+93dd5689edae2205cd2422a7a326a1ca91a22c65,mpoeschl,mpoeschl@unknown,Aug-28-2003
+6e0e699eed629b42344627858464c9a51743457c,Scott Eade,seade@apache.org,Aug-28-2003
+02521c625e9414c310f46ddf4999b0fcf467bb2c,Scott Eade,seade@apache.org,Aug-28-2003
+fe8f0ba2db4980f33a12be021c737f97078552ab,Scott Eade,seade@apache.org,Aug-28-2003
+56bcc31db099501ab2aa426fe5d4a0e61363d89c,Scott Eade,seade@apache.org,Aug-27-2003
+121cc38b350af432d1963e47b1b465ac0b721f27,Scott Eade,seade@apache.org,Aug-27-2003
+4090b8ccccbe6898febe82ada786692fd9224945,Scott Eade,seade@apache.org,Aug-27-2003
+f9793a42c350f93d8952fe15aaed053f6a7a5bad,Henning Schmiedehausen,henning@apache.org,Aug-26-2003
+5062db7e3c0b29d4a50a6575d8ebcd46dd0458c4,Henning Schmiedehausen,henning@apache.org,Aug-26-2003
+0872572901f190f9c225aa65623d8ad16ca59d33,Henning Schmiedehausen,henning@apache.org,Aug-26-2003
+7ff49560d7758a5d0c69663c19a25447f1591791,Henning Schmiedehausen,henning@apache.org,Aug-26-2003
+2ecb59202d22fc25002edad89307a52af83367db,Henning Schmiedehausen,henning@apache.org,Aug-26-2003
+371693e8eddfaf0b1e127952da1fa7be02d86a88,Scott Eade,seade@apache.org,Aug-26-2003
+807151c4dfd34012666bcaff474d722282171b68,mpoeschl,mpoeschl@unknown,Aug-25-2003
+1d07c268dcc8c69677af409707cc4b3498bf4154,Scott Eade,seade@apache.org,Aug-24-2003
+1d3ad4af8a9873ae18de9799116957f657317753,David Eric Pugh,epugh@apache.org,Aug-22-2003
+c84e3138420223c8a3588e9914eecc0389e0b34b,mpoeschl,mpoeschl@unknown,Aug-22-2003
+ae9fe56bc4ef1e01162c85c08daad34f6c2c52be,mpoeschl,mpoeschl@unknown,Aug-22-2003
+c90d58e9c4e09545fb3a3664f144ffdbb6c78a7b,mpoeschl,mpoeschl@unknown,Aug-22-2003
+ed52c35f1c6ec938de2965d8943fa64224b083ab,mpoeschl,mpoeschl@unknown,Aug-22-2003
+52e2f0fa1e86bdfecfcac3980b7e17cbbff13221,Scott Eade,seade@apache.org,Aug-22-2003
+ffdfeafecabfeca3a6ee5c041c38c988c694da92,Scott Eade,seade@apache.org,Aug-20-2003
+f06fe3cd230f429b4b2d43b96870ab6b8c4087b4,Scott Eade,seade@apache.org,Aug-20-2003
+cf84a8b02fb1bbd34f371aa0899e9b50e81dc897,Henning Schmiedehausen,henning@apache.org,Aug-20-2003
+e54d6eacd365cfb0efacf8921456428b936641b6,Henning Schmiedehausen,henning@apache.org,Aug-20-2003
+1ffc80322fe2655cb6f8517847f939313ff9fa3f,Scott Eade,seade@apache.org,Aug-20-2003
+aa4ca6f8e703c6f594c6a738546d13f8661e2947,David Eric Pugh,epugh@apache.org,Aug-18-2003
+6c04bd6d04854ab12c48fb5dbc81b39246a09a80,Henning Schmiedehausen,henning@apache.org,Aug-18-2003
+16e3b382672b286c4badd6f43788c75b669d7b8d,Henning Schmiedehausen,henning@apache.org,Aug-18-2003
+efb43039f3109befbed9e0aa5a01a0aab18f6489,David Eric Pugh,epugh@apache.org,Aug-12-2003
+7324665440b7a5bc256981b6840a9b3af28b974d,David Eric Pugh,epugh@apache.org,Aug-12-2003
+5ca11b2612abccd54137652928a69870c56b979b,David Eric Pugh,epugh@apache.org,Aug-12-2003
+eb30e79fbda010d1bc25940879e1f93d7c75e5ed,David Eric Pugh,epugh@apache.org,Aug-12-2003
+1eeb0edde179ef12ff83eb5fc6d59548f69c31b4,Henning Schmiedehausen,henning@apache.org,Aug-10-2003
+857e50112b30ccc9cdd9d5830546728a7c3ba3e8,Henning Schmiedehausen,henning@apache.org,Aug-7-2003
+fd3c4a70226f385ddcd65fd8e96edbc35b088f88,Henning Schmiedehausen,henning@apache.org,Aug-7-2003
+abcbdc8f2fee5e03c65b77ba15c6fcb5284d6507,Henning Schmiedehausen,henning@apache.org,Aug-5-2003
+20de174725734ffefc9d8ca128f3088d734bfb72,Henning Schmiedehausen,henning@apache.org,Aug-5-2003
+91a8fd56115f1081ff70ea6cf677441fff90de0b,Henning Schmiedehausen,henning@apache.org,Aug-5-2003
+73b8e674da9f297d6be969df69e6a2da0a8f3f4b,Henning Schmiedehausen,henning@apache.org,Aug-5-2003
+f52838e396afa05d0fb14637fd00725f5a8547d8,Henning Schmiedehausen,henning@apache.org,Aug-5-2003
+9edb022e3924a838754d7eb000ed678ac637711f,Henning Schmiedehausen,henning@apache.org,Aug-4-2003
+1bab7ce5e5e2859f4287f1037d0b3ad43f51b9be,mpoeschl,mpoeschl@unknown,Aug-1-2003
+2982d2f1620e1c7d43b3e9329a818fc3376fbdad,Henning Schmiedehausen,henning@apache.org,Jul-31-2003
+0c156d97cc085893e391d228b3b018a1e7e3cfc5,Henning Schmiedehausen,henning@apache.org,Jul-31-2003
+46eb0550763aaede4ef763547103a83920b587d6,Henning Schmiedehausen,henning@apache.org,Jul-31-2003
+9c484a8c5799f575142c47071ecd7b4721bbe400,mpoeschl,mpoeschl@unknown,Jul-28-2003
+43da87b6d06e21e8333b7c2df20751a3bbbab32b,mpoeschl,mpoeschl@unknown,Jul-28-2003
+7f940c6c58fe750d4d2aaba38a20d2b818b76ac3,mpoeschl,mpoeschl@unknown,Jul-28-2003
+f51bcf6c62c76728e440ea602b501d925f0bc764,mpoeschl,mpoeschl@unknown,Jul-25-2003
+69059c42d05fabe6e6d6c45e22e1e4deab2bdee7,mpoeschl,mpoeschl@unknown,Jul-24-2003
+248682f6611eac058c2e70d539a0bd8958050da7,mpoeschl,mpoeschl@unknown,Jul-24-2003
+b8a64592bff1a43de36407ac59732654da9fd8ae,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+7e6c73f245b4fedc28e7165c946fe3d17b820917,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+252be6a3a5e8b49f5bfb0316d3926cbd2ac8cb0c,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+d868042b761414d25c6ee4ea194ab370dfa94231,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+4ca38ea486ee65c0920a3be2bc41593f5476c1b3,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+ebebd72e16236f31e97d01f1ab9fbb8e46c0bbc8,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+491606b5c4b2dbab2480349bbbf22b793ff9cd4b,Henning Schmiedehausen,henning@apache.org,Jul-22-2003
+b9761a6f916a630f6a574ebee8a0c051c50acb9e,Henning Schmiedehausen,henning@apache.org,Jul-19-2003
+150abd9c86af71481a740fa38580218f4eccf7d8,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+77f7cefff16dd8931bc71d32f8050cda3b3ad759,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+342730088bbdd7a16bb0a230c4677bfeee381367,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+cb3a78093d8ea36e9e317f395e1e3e139a9efdf8,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+a1b519a3f1fc21ef570ee07d0dbc057abb221cef,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+c7bf39aa2e46ba0640c003723192bee32bc0b16f,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+5ad4117ff4f57b4e05f4b10357ea26756031634f,Henning Schmiedehausen,henning@apache.org,Jul-18-2003
+6cd1e92b1e9cfbba1cc03e3a6b7c9e30581fd859,Henning Schmiedehausen,henning@apache.org,Jul-16-2003
+f302f9e943abbb082943a4942daa3522ee1d4800,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+6715578b9f04575f0796b56ba27ae177136cb07b,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+9266e9f591268e2173b7662c6357bd7a78645111,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+5a2b6a2ee9bbdccd176bea6cadc799aaf844cf2b,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+2b3e2c660b744fb96a4efd25c21c500a8e6c683e,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+15ead54c21ce611626bf56f85f8591f10e825e5b,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+9768233c12da3f54b22a07c98d097d83e24649b6,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+fc1371fb03422e0bd167666cce853c89f890686f,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+dc02b6af46225725634a1c14da623bb86e2e810d,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+1617ec9c2550908ab265a76188d9006195c003be,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+f09d54821017255bf74281f766065c99934dd556,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+88fa71772824212a9bde09a271d837673336de2f,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+13335a2b7c9ed740a396db2da4a4722b61101ec7,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+87d01502642070e9bfb3641cc6d7a3f8509ce20a,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+de9b2b9afa20f7816cfd547b47ae65f69590bf5c,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+178f92624787ed679e4423cbd384b3ed64cfd15a,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+fcdd1a4e8e9695e7e46d4285ec6a16415fa4bc99,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+701073829313098e04a578bfc5e318b412f7a293,Henning Schmiedehausen,henning@apache.org,Jul-15-2003
+18f9eca0091d083be2588e4b6d34a55b6aeaf895,Henning Schmiedehausen,henning@apache.org,Jul-14-2003
+6e306fd80156513696417f084350f13a4c21401b,Henning Schmiedehausen,henning@apache.org,Jul-10-2003
+63ab5c5983c350d8f0d1bd14315290cce27e1268,Henning Schmiedehausen,henning@apache.org,Jul-10-2003
+a20676ba0c945e1451255138b8fa4e6fbb37cf71,Henning Schmiedehausen,henning@apache.org,Jul-10-2003
+8c255759c7a74e1f07da8d229c1c56209e84bb0d,David Eric Pugh,epugh@apache.org,Jul-10-2003
+b0f289038bacf35c98604d4dc4a534c2156638fe,David Eric Pugh,epugh@apache.org,Jul-10-2003
+da85ecd95a2104929fef691beb31fda0b5e1aaa4,Henning Schmiedehausen,henning@apache.org,Jul-7-2003
+fc903d46780870c1939cbc95cf4e6540f5b17dbc,Henning Schmiedehausen,henning@apache.org,Jul-7-2003
+451555ab7545ab6e4403d92b00d9bd7c4614760d,David Eric Pugh,epugh@apache.org,Jul-7-2003
+c5fbcc5e6e5346850fcc9427090674aa134e9d45,David Eric Pugh,epugh@apache.org,Jul-7-2003
+2984af3839a534ddb4a67fe9619e8db76d3074b2,David Eric Pugh,epugh@apache.org,Jul-7-2003
+45de265afb0fd0d9121df1dd41ab4c81dbb863de,Henning Schmiedehausen,henning@apache.org,Jul-6-2003
+10e1dc77be8e4bbdb355a9c245eef62d994e6e48,Henning Schmiedehausen,henning@apache.org,Jul-6-2003
+b3f23c5d1e252bf56f4339ff671ae086948282f4,Henning Schmiedehausen,henning@apache.org,Jul-2-2003
+a7ea3a1f58e67ea1e2d8db371502947183b2191e,Henning Schmiedehausen,henning@apache.org,Jul-1-2003
+09bf98b8596127cfa76b2b8878afd21ccbf465d2,Henning Schmiedehausen,henning@apache.org,Jul-1-2003
+f9ba778f2cce92f748f0759318e2fa0981ce414c,mpoeschl,mpoeschl@unknown,Jun-29-2003
+cd0bfbaf8bb5289fb4df3dda46a44dfbaf8dd5fb,mpoeschl,mpoeschl@unknown,Jun-27-2003
+33d5482b327dedd7ec3e60199d74efaade0faa41,mpoeschl,mpoeschl@unknown,Jun-27-2003
+dae312b0fe9bae0ae319a1d5aac70a4b0f2c7408,mpoeschl,mpoeschl@unknown,Jun-27-2003
+d38eb3be1a912c2a860578ae245da6922e1b20b0,mpoeschl,mpoeschl@unknown,Jun-27-2003
+aa61b5609ef9a27a19a6baaec6fac6514d77b4b9,mpoeschl,mpoeschl@unknown,Jun-27-2003
+74af79d1212aa87fd47b149a4bd97aa1ab84ae42,David Eric Pugh,epugh@apache.org,Jun-27-2003
+69f308999416212a2065c553293bb598a3863219,David Eric Pugh,epugh@apache.org,Jun-27-2003
+ae36676574f09abaaa3d36ee9576035942a9f4e5,mpoeschl,mpoeschl@unknown,Jun-26-2003
+46fd1291b2ad64d76b224ab27d95065dffa08b83,Henning Schmiedehausen,henning@apache.org,Jun-26-2003
+2476bb9c8a38683ea4b50e0c11ecca420f67c7a3,Henning Schmiedehausen,henning@apache.org,Jun-24-2003
+886a435b0d1d9aacab73e858dad1dbd624ddc115,mpoeschl,mpoeschl@unknown,Jun-23-2003
+69fed0d52dd95a1d6aeaedbca50f923c519e7a6b,Henning Schmiedehausen,henning@apache.org,Jun-22-2003
+7ea07f5020732815f065a148d4f9f40d8b93ee46,Henning Schmiedehausen,henning@apache.org,Jun-22-2003
+49a8783c5d1794de4a0375a1f85f4769d363ceaf,Henning Schmiedehausen,henning@apache.org,Jun-22-2003
+55a448d186270b86370ea53b4086137286b97e81,Henning Schmiedehausen,henning@apache.org,Jun-22-2003
+9226106fdbb78d7098c0a2458950bd5830b74038,Henning Schmiedehausen,henning@apache.org,Jun-21-2003
+11261e066eb32b704044aed8e9d0740cbf36496c,mpoeschl,mpoeschl@unknown,Jun-20-2003
+61c69d336ec967db5317c1fa60e501b2b513286a,David Eric Pugh,epugh@apache.org,Jun-20-2003
+a78faeda8f8132e7524a512b6cd972cefa882538,David Eric Pugh,epugh@apache.org,Jun-20-2003
+abbcaed61c8c300e4e5124db60eeaa81874fa66e,mpoeschl,mpoeschl@unknown,Jun-20-2003
+1a6403b7722a71f8d3565d1b7e710e2a3bef11f1,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+4bf15a1048bcd0528a16793341ae8d4af2f060d7,David Eric Pugh,epugh@apache.org,Jun-20-2003
+1677b5ae68f3fed990dc5fef8315c08039586a4f,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+66b886c947a415211cec1ee9d368cf61fa45c325,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+1054f0481fe675c6373879a4d746f2c010bbdc7f,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+6ff3d4844a5d2e4b5d3fc9ac860ef8d3308b1245,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+4f45f614c705209a28830e40b861782a88ae69e3,Henning Schmiedehausen,henning@apache.org,Jun-20-2003
+75a51f889639959995f6f1fd4eb1ec9c01e42bd7,Quinton McCombs,quintonm@apache.org,Jun-19-2003
+86d8c56b632d6ed3fa081c519f7710ce972521c4,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+9f4f7dade946cd665026a0c26142c07f12afc009,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+3908e5b1b1a8349885b4daea1af1eb2fa4701a55,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+8d55062e73d7406585a2ada8113aeb2999a2f77e,Quinton McCombs,quintonm@apache.org,Jun-19-2003
+23c2da4635683a694d865918d89de8afd9eb069c,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+55a613963aaaf5b27e0c9bfb955a9c435fbc05ef,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+ae4a3993fa7dff85b85af302a84954f442a7ee79,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+0eb6592f9089209ef2c2b88551ac492ddde38bd7,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+42b133c1521460fc749085f1a0ae088b221cf919,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+bd1aee8c47f0f69414cbb3a70fc50ee1c91875f6,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+8d7595c1aad48274d61f1cbd3ae3907731e7cae7,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+47f1533d155e328e121a40c38500548a34a6079c,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+cc9a4eee73890b9c5320813b80c8926fdf56f18f,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+c763a3f88d3341a664909c9d4f6cd54e52a3be3d,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+581467f89cae59e0386d4d3f506e31fc71e05bf7,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+73f0f34730246c11f2c5fc7dc8ab533f76cd9827,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+39b237fae57d4e589c0a4ca764c93c5c553274f7,Henning Schmiedehausen,henning@apache.org,Jun-19-2003
+5df6fbf953323a413ca0fd6f270e00ef9c32f584,Quinton McCombs,quintonm@apache.org,Jun-19-2003
+6d0d6a90989946b2b42051ebe6126bc55f527aaf,Quinton McCombs,quintonm@apache.org,Jun-18-2003
+78383b37157444024acc433c741c93c1092f71b5,Henning Schmiedehausen,henning@apache.org,Jun-18-2003
+1d2d4ca81b9e3126e66170f1ff914fee39a5bba2,mpoeschl,mpoeschl@unknown,Jun-16-2003
+ef716dda32bfc9cce7e5942b9ae8a8bea9aa1d28,Henning Schmiedehausen,henning@apache.org,Jun-14-2003
+a27bbfb1d1b16410a8a1dab21ca061126ff8cde6,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+f27b9aeab090cc86b43ca3f63f703fc52de106b7,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+73e12676a09adc4b94304b18014aa1ee28aa3654,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+a9e26e4cad9c21e8b83d3a831f40a814e3b5470f,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+639704d3c1e0dfe6811763424c2089b5e1e9ebe2,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+7c6d855f4290c563b1093c285d0569afeb22c444,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+fc838f2640bce3bc9b228502cf78927fb74fe0e4,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+5dd6ab12e125f3881250b675c6956f3ea3047a3b,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+b7b8f8163917eba0f768f2053bf2539a9f2b2304,Henning Schmiedehausen,henning@apache.org,Jun-9-2003
+1a511655455ed51a019f862fdd5c2baf91caede2,David Eric Pugh,epugh@apache.org,Jun-9-2003
+1834320158f724e9e618a681e4c5ab64b53acc5a,Henning Schmiedehausen,henning@apache.org,Jun-7-2003
+c1af606436f4743543927e8ab4711295e427b793,David Eric Pugh,epugh@apache.org,Jun-7-2003
+6523363aa07ffa4cce58a212e21db260c55ce62f,Henning Schmiedehausen,henning@apache.org,Jun-7-2003
+6256baa89acb85987238687ecdddc6f0159d6eb8,David Eric Pugh,epugh@apache.org,Jun-7-2003
+5a9e5f2b8a3821533f3a258ff8212b6a444e377a,David Eric Pugh,epugh@apache.org,Jun-6-2003
+5602ebf8a825ef6a97b949efc249a43fe58e8439,David Eric Pugh,epugh@apache.org,Jun-6-2003
+01517ba2b5ae102dd5950a337624edf5b0e5ff81,Henning Schmiedehausen,henning@apache.org,Jun-6-2003
+a5b5555e659851cdef72a3df10b423e410c65262,David Eric Pugh,epugh@apache.org,Jun-6-2003
+2d8d7e9bc8c1180b4aac43d7f19cac2d2d7a4d33,David Eric Pugh,epugh@apache.org,Jun-6-2003
+1162af20c7f97a8e1962c46ba59545cee6432c00,David Eric Pugh,epugh@apache.org,Jun-6-2003
+e37ab30b38c279ff146b35fa56738e4f2e2ace48,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+10ea5bd4aa31fb10b45ec72227a79e0875afb35d,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+7a13454c301ae7082d895eeaee3e8c9a0c5fe52f,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+7045239e35d8998e2a8e92dd2899629ab4a2d5a7,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+f5f918facc33db0891bf79b52986a1de89b3894d,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+2e011b3237818aef97d863d9d875a103af2550c8,Henning Schmiedehausen,henning@apache.org,Jun-3-2003
+a09d7b8508ac5e5f7ab6148e82c33524abd4242e,Henning Schmiedehausen,henning@apache.org,Jun-2-2003
+dedd781a552aaa230170cea728be065b2c77a4bd,David Eric Pugh,epugh@apache.org,May-28-2003
+6044893f76f2ba83ab1818096dc2aca81a326958,Quinton McCombs,quintonm@apache.org,May-27-2003
+d923a4d1480632c01460f94a08a66b25b3fda818,Quinton McCombs,quintonm@apache.org,May-27-2003
+fbc0b91a17b1f30e017c84d567ce0bdf0a6fed96,Quinton McCombs,quintonm@apache.org,May-27-2003
+805d2773778c34c91482ec7db03f2b1ef478d432,Quinton McCombs,quintonm@apache.org,May-27-2003
+5982a6c070187361cc307b0e596f747983d89448,Quinton McCombs,quintonm@apache.org,May-27-2003
+381e190a93ab8295c87aa904588e0d2a9b42c792,Quinton McCombs,quintonm@apache.org,May-22-2003
+757ea63f62539e6eddd9def0e9a24be4bb9fe7e8,Quinton McCombs,quintonm@apache.org,May-22-2003
+2709e32079695b9728fc05c83f0bd8c5b418ad18,Quinton McCombs,quintonm@apache.org,May-21-2003
+10e9df65d4a118a00f70ddc0ab0b50c63cc9a8af,Quinton McCombs,quintonm@apache.org,May-20-2003
+5e0de2c3cc6ac3c57e37854e8b53ae867ae32108,Quinton McCombs,quintonm@apache.org,May-20-2003
+56a3a5cf26e9f19bc3fbb2078d12df5c00792717,Quinton McCombs,quintonm@apache.org,May-20-2003
+05ab1e19870fd5bce64ac9933420f123884607dd,Quinton McCombs,quintonm@apache.org,May-19-2003
+eedf8e19c94df959589492c766f26797f59d5818,Chris Chew,cchew@apache.org,May-15-2003
+5273c6a3aa4c07a16594baa25b7e522c5c14d454,Quinton McCombs,quintonm@apache.org,May-15-2003
+036f6209c55d70c409f2cd7ef46c967d1aa5e2bb,Quinton McCombs,quintonm@apache.org,May-15-2003
+2fb8bea764eef3498cd544301aefc9c9d5a24b91,Quinton McCombs,quintonm@apache.org,May-15-2003
+1851ce2e4dead3c58338b0535c0c77a8940bbc4f,Quinton McCombs,quintonm@apache.org,May-14-2003
+8db35f1b6385314ba7179ff8aaabac78cfb57858,Henning Schmiedehausen,henning@apache.org,May-9-2003
+951b8787ed64f1d5b3af5c61f93811b4d06aede0,Henning Schmiedehausen,henning@apache.org,May-9-2003
+3451abb5bf9d0ed6f76bcb94cfc3726657be92f2,Henning Schmiedehausen,henning@apache.org,May-9-2003
+7943494850a5fb35b9aafd613fd1071a4501fa97,Henning Schmiedehausen,henning@apache.org,May-9-2003
+95c912429012aa23bd0bcc686fb98785d5d1dc5e,Henning Schmiedehausen,henning@apache.org,May-9-2003
+e3e04f431df54cd46586a90fb0880fdaf2476721,Henning Schmiedehausen,henning@apache.org,May-9-2003
+bd580b35e792510e2551822251f789978bc9e82f,Henning Schmiedehausen,henning@apache.org,May-9-2003
+78c83ca431f36cd3fec110e7ed02b9beca946a83,Henning Schmiedehausen,henning@apache.org,May-9-2003
+1b7abc4d633a92f788290b2a7ee66f69449bad3a,Henning Schmiedehausen,henning@apache.org,May-9-2003
+602511a4850e78ef6cf063037d92e41208c695b3,Henning Schmiedehausen,henning@apache.org,May-9-2003
+01223c0e79abb640534b28a0390c87b5343c2d30,Henning Schmiedehausen,henning@apache.org,May-7-2003
+0d2ca9cb31f3d7db7d78a12198c8eb08106874f6,Henning Schmiedehausen,henning@apache.org,May-7-2003
+34ead9582fe8d23e0b779bb8413bfbd77cf2f84a,Henning Schmiedehausen,henning@apache.org,May-7-2003
+e38d7767e2be2751cdece333efae43b52f4fa875,Henning Schmiedehausen,henning@apache.org,May-7-2003
+bca3020b8495f971d65484ecfaf1ddaf7826c3f9,Henning Schmiedehausen,henning@apache.org,May-7-2003
+46262f1662f4ebe22de3ac07eb6f0d5d256412f4,Henning Schmiedehausen,henning@apache.org,May-7-2003
+ab44443acb695f6ff2f4708d19b93353f4f9b232,Henning Schmiedehausen,henning@apache.org,May-7-2003
+3e000a97124673ecbeeca10b3300834670fc2c62,Henning Schmiedehausen,henning@apache.org,May-7-2003
+1943ddb057ca3786537bdb778af4e9fa8e45d2a0,Henning Schmiedehausen,henning@apache.org,May-7-2003
+fe195d00dc5f423a1d6b9579e2be1b1f9e622fbd,Quinton McCombs,quintonm@apache.org,May-2-2003
+6fe3330c9474a9f3131dd763f0808f2d74cb24fc,Quinton McCombs,quintonm@apache.org,May-2-2003
+5a2abc9a9663dfa44f9bbe8f9b9a8298ec8e200b,Quinton McCombs,quintonm@apache.org,Apr-30-2003
+5824a725bc3f27bc8e875948fa9300abcc1fa581,Quinton McCombs,quintonm@apache.org,Apr-30-2003
+72befdfc3d282d39f17ea2b92d6c86976b160d30,Quinton McCombs,quintonm@apache.org,Apr-28-2003
+6806f440bc07e887cb8ac6f7b47772567e6d221f,Quinton McCombs,quintonm@apache.org,Apr-25-2003
+d26feb8ca1cd6d7f007fb2ee62a087481d97ae4e,Quinton McCombs,quintonm@apache.org,Apr-24-2003
+4bc20bcb3a471999db805ba0b8792793250a7007,Quinton McCombs,quintonm@apache.org,Apr-24-2003
+d109907c40963c8830e0e2416b8c780d3889f00a,Quinton McCombs,quintonm@apache.org,Apr-24-2003
+5983360472366c6036d842250bb989dc455d4765,Quinton McCombs,quintonm@apache.org,Apr-24-2003
+5c7905237621678f0aaf669a0160a5a142cd6174,mpoeschl,mpoeschl@unknown,Apr-24-2003
+d423030b12fbfb935fef51945ef8145e7ac2e122,Henning Schmiedehausen,henning@apache.org,Apr-22-2003
+74739dd6c6d0458e799226f3e26d26109c1cbb90,Henning Schmiedehausen,henning@apache.org,Apr-22-2003
+05d9bb2c8fbd080df6ee5f2cbee2e2d82a747d56,Henning Schmiedehausen,henning@apache.org,Apr-22-2003
+06dbc31243dfb3996947196283e08b86bc37a469,David Eric Pugh,epugh@apache.org,Apr-21-2003
+b4dd57d6b00c98ab6a4111aef8ddc8308f508c0c,David Eric Pugh,epugh@apache.org,Apr-21-2003
+f3a9d3f9649e525c52134d5b3f0d8b2be0eafe04,David Eric Pugh,epugh@apache.org,Apr-21-2003
+9460f75779dd61409d23989741ac8cd645aade03,David Eric Pugh,epugh@apache.org,Apr-21-2003
+235b289414d47c0322711665308e5035f891192c,Henning Schmiedehausen,henning@apache.org,Apr-21-2003
+d32784d57ebfde87b2a51647a327fecc2d131f39,Henning Schmiedehausen,henning@apache.org,Apr-21-2003
+2bdfaf7f54f805491d635f14612918e77f21fbee,David Eric Pugh,epugh@apache.org,Apr-21-2003
+9f403dda2bf7441398067171e223f87beb21548c,David Eric Pugh,epugh@apache.org,Apr-21-2003
+6e305d8b16461ed15a960745e07e5a7e60ec2440,David Eric Pugh,epugh@apache.org,Apr-21-2003
+f5d55534ed702f1a81e0f2b7c715741eee94c4bf,Henning Schmiedehausen,henning@apache.org,Apr-21-2003
+45fb0b039f463b54946aaceab068d6abdeb1482d,David Eric Pugh,epugh@apache.org,Apr-18-2003
+5ac36ed76c9b712e4c81f73cccc1d38c6591bfb7,David Eric Pugh,epugh@apache.org,Apr-18-2003
+4b1ecf628c45d0927e67e469ee5dcade3e08c540,David Eric Pugh,epugh@apache.org,Apr-18-2003
+2eda0ebb7dd992688e0c1cb1c8a31d1c06bb364b,David Eric Pugh,epugh@apache.org,Apr-18-2003
+125faf2b9efa4a5a9eed91e2ace1e5669a59a70a,David Eric Pugh,epugh@apache.org,Apr-18-2003
+e4464b1a0762026d1539c61a00a68c409918605a,David Eric Pugh,epugh@apache.org,Apr-18-2003
+1468a1888a58a3a241b516c0dda18e743295e373,David Eric Pugh,epugh@apache.org,Apr-18-2003
+40a8a135a6032f48d92d91ef09a85d0b15c51ea2,David Eric Pugh,epugh@apache.org,Apr-18-2003
+dcb363b3dfac8bf44a489f80b469151ae4cc5c7a,David Eric Pugh,epugh@apache.org,Apr-18-2003
+39b3c555cacc5630cb7169a14c56743dc83c0e20,mpoeschl,mpoeschl@unknown,Apr-12-2003
+a9a1ae2b54a5fbfe5ed6deecfac9f2cc03f57e81,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+900404e1daa7346fdcaf24c6312ddc6a86f8404b,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+4a645790a3578257390a54884f27e82ca3afb751,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+13a50778c13a70d6ba404da902ed7ccd46e75ec2,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+50a23af1f095f0a8e1409d6a7a958d718c8835b8,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+9591b3267fcd0185d738963e3e6eaa24c098218e,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+a75c11f171a9d9fc33a30ce59168105ccd65ab21,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+e9cc8ba659cea8cdcf66434d7da9883d84bae802,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+685e379ef844815e84753a43daf2c62d0f8d9c70,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+b7e21545d6b49d61071278b49751902174f29dd9,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+493dd742424ab0520a2c58ca247328dd354077c4,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+a6bfe7600d73c4fbf3e3a72a445550020d591cf1,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+4c42d81a3cca2b7f1fe3c95fe8812e6dedbb85b0,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+128a65de269f27ac9b09e4c9824d59fc1c7f3f97,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+bc1d8f12bcd3628114bacc2363b1b70dbfe471cd,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+4909fddbaf5d0845688af16934ad521e430f4df7,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+0f4db4c5f65121434fc4a27475dc55bdcce12854,Henning Schmiedehausen,henning@apache.org,Apr-11-2003
+6e5e292eccdbf9ce7f0b592df166dc8278ec3019,Quinton McCombs,quintonm@apache.org,Apr-11-2003
+e4320a52354dabf47c3fe1481844d8a889e74bad,Quinton McCombs,quintonm@apache.org,Apr-11-2003
+6d319a62ef121549a8b5a6a3a1a6e1fd766234de,Quinton McCombs,quintonm@apache.org,Apr-10-2003
+2608647af42dcce355034340ed72ac6ade94ab95,Henning Schmiedehausen,henning@apache.org,Apr-10-2003
+d79c0e986f59680791f204e525d3065b3e7a3793,Henning Schmiedehausen,henning@apache.org,Apr-10-2003
+99a6cac3688aa57469706fbdd290ab03ff142848,Henning Schmiedehausen,henning@apache.org,Apr-10-2003
+bccb49a333f2b30a981003f7fc7f3d3d626a96a8,Henning Schmiedehausen,henning@apache.org,Apr-10-2003
+6518869a588597edd35ae8157c4e1447e44243e2,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+8b8a4ae108b27e9c6250b75fe4120157b6e24763,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+ca54734fae245b0a9788b17f55e991b7e1ef175a,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+ca303ee057696cb31591296f9741934b80fd6053,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+25e34902045b363048b241ae8f0993ac339e3562,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+1cdc0b4ba66fccb6f78ddc0b4fbdf3d938313e89,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+6db241aac0a729a41e25d2ffee5fb45806566732,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+c36400a9889721ad278ffdd97d0b9cd8cea34064,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+0bdce64de43b045d43c62ccf8845abb23dccb84b,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+2f387b59426779da20a86000ee637dd3132f80c1,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+11f05278b2527a2ff326574ef51705a4932ec916,Henning Schmiedehausen,henning@apache.org,Apr-9-2003
+8aa82ddf4d9e2c6a6df8936817a8f92f2eb49457,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+41119b5539b460b1c4ec68ed2c6df1c2e168a971,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+be63e7da9aa9a0cc7055600c4b9a9af3304386fb,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+1eed44696c6613723535e1ec1055d2912881b59e,David Eric Pugh,epugh@apache.org,Apr-8-2003
+f54e20e36a5f56a853a9212c74d54db92196aee4,David Eric Pugh,epugh@apache.org,Apr-8-2003
+9816f63e59b4fe8ae53901d1c7ed640e8e3c6db4,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+22c9133ec18072c833184e8499478ff999d7049b,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+fb6e36646cad8e3672f8c2dcc9fd2f50de1ec766,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+54ab1ef17b36970789b23a8316f3d43208671c7c,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+229bbbfbb1e180d3e19418d62d549379ae40cf5b,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+17ed26dce11b8964f2ef6bd4648c7b76853f6190,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+92759c4c9678b4c82b47c588d2a6ff970bb6bb36,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+1a37d34cc42ed55fb12c6cff7bbd045b1a1a8206,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+6f00822cb6cb9e99e0b4b2a383f48cf11997c23d,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+7a20ada04f4190d3fe411b9c6ba435ec80971aff,Henning Schmiedehausen,henning@apache.org,Apr-8-2003
+06c9e14ab4c68796bc2a01d83f30c04f0c7de78c,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+c2599e4d76e773497d6b5f1240a91f4494711a0e,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+92af16e04ffdd78255a0ff576671e4a064103549,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+b67b2a41d5d65a3f6f53272ce17c23e0c4b858df,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+577620962a33c79dcfda2b337cdfcc798908fc2b,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+b3cecc542bc9ab8116ce2379686b7559c6753497,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+f401594d0e35bad1446ca72fffe8987d7eef5fa5,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+78a0e6503c1b9d2aed09edec9ffa1dccabad7a06,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+6f812486b948d78449f19bb1bdfe2716d6d7b385,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+79873d2c1f704c70422bc52ebec0879be3fdc9a9,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+3a46b491b3a21cf59859c9f1d4442469905b171b,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+27c740faab6d50a9f468c007240a4506e4808da4,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+d4764e2e1b7102a3e5522f2932ea9ac08beb9212,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+406494d52d192ae2ae77cc6a50f571f48591280b,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+f01eaffb4842e907402d604bcd25edb19eb6c022,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+b9ef7b6cce5bdbda2cd4269bc3b26b1e36a85a76,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+c0dd3dce12eaa70ed48b264d05ff635d38bf0df6,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+b8b32e3015bffa5a4b93d8eb654a9b8c48aba7c9,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+6da0db685ab71e09c3e2b61678dfb88007304b72,Henning Schmiedehausen,henning@apache.org,Apr-7-2003
+d2216d10fbcee50f696214c548b9769448fbacae,Henning Schmiedehausen,henning@apache.org,Apr-4-2003
+16c31e439d7ad830d4abc5b71620bad700ed0c72,Henning Schmiedehausen,henning@apache.org,Apr-4-2003
+baa9c2a32489d8b6e4e9e5b82287796e82c42c0b,Quinton McCombs,quintonm@apache.org,Apr-3-2003
+89c2257629583079a14ad36d1f9637dd457993ac,Quinton McCombs,quintonm@apache.org,Apr-3-2003
+14330e863ffdbfe08c4b8f68052b530958742b9f,Quinton McCombs,quintonm@apache.org,Apr-3-2003
+c38d553e8a1730c954f43247a45d5d25354e64c7,Quinton McCombs,quintonm@apache.org,Apr-3-2003
+1aae458383aebf5a1dd6e11432269b5cee639173,Quinton McCombs,quintonm@apache.org,Apr-3-2003
+e843695ce29aeedf5e2531cbbe06a429ab05c4f1,Henning Schmiedehausen,henning@apache.org,Apr-2-2003
+2e789f634aaaaa7509b494ac0cd8a538c8b935e0,Quinton McCombs,quintonm@apache.org,Mar-31-2003
+9f2945a0941f24eabb2e5c39b4b4f58a5922392b,Quinton McCombs,quintonm@apache.org,Mar-31-2003
+3a2009d1095b0fdb29e0d5ec87636d3c40d3f35a,Quinton McCombs,quintonm@apache.org,Mar-31-2003
+279665384513dc667dfc0e73f7757fdcfc7d2c65,Quinton McCombs,quintonm@apache.org,Mar-31-2003
+d075555c2cf0a3feb2f6ad409901e485e098e0d5,Humberto Hernandez,hhernandez@apache.org,Mar-26-2003
+314f30d060306c20880fbca676510c4c9e73cc93,Quinton McCombs,quintonm@apache.org,Mar-25-2003
+73cec4833e359d1d9c547354678288439b4f06d4,Quinton McCombs,quintonm@apache.org,Mar-25-2003
+bf932d7b4e13bdd82df78e6d86e2b6851cd83361,Quinton McCombs,quintonm@apache.org,Mar-25-2003
+d89f6cf4870b30815dd5dbc8e727b83754265385,Quinton McCombs,quintonm@apache.org,Mar-25-2003
+73a20f5f9b89d02285600c52bb903d5884a36e0f,Quinton McCombs,quintonm@apache.org,Mar-24-2003
+e464bdcc698bca9e45d7902f7569976bd8a31ab9,David Eric Pugh,epugh@apache.org,Mar-22-2003
+fbbff467ece96c264c870332f32080eaeda816cc,David Eric Pugh,epugh@apache.org,Mar-22-2003
+a7956b8c3f52efbfccffe411118a2be6decda88a,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+2d47b81d728b658ef0169f99b52b235d023c003b,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+4f102617f7f7324f4a21a8147b038ab2ecb9dac3,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+67e199e083f6a42a0879692ac9a1285924c39f16,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+d834bb314483cb84e8082da1bb87a986256274d8,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+6740ced3a59df490261daf38a1586272443a9be5,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+5f2bb2b8ce59f73909cca031b263294dc70059d2,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+1a81cad5144fd47c77bb4d206c1e1ff7dcf44fd9,Quinton McCombs,quintonm@apache.org,Mar-21-2003
+f3fc971ba7d14efd155016ca12a43970d7386e56,Henning Schmiedehausen,henning@apache.org,Mar-21-2003
+d8da09c313c19773ac2003c8f479e3c3b63ce0c8,Jason van Zyl,jvanzyl@apache.org,Mar-20-2003
+81d78e7d5bffc85c80b3020108814976cf410054,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+80995a127127c7382448762c2786068c4397ab83,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+3cbb5ca05731ebee9ce5c19a15a58e1cae7356ec,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+c7dc49986a6d932f0e1b779b8c08828e80bec014,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+d92d18e0f6b25a3557a5dcd9ee124aafd6ed1db5,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+5eab7d8a8d6543494fa1dc76d919250c437155e9,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+395f38e6a1759010fe0a4997bcc7bc65aff0cb40,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+1ab95e0769d301e4e51cf699c52f8a6e30b17f51,Henning Schmiedehausen,henning@apache.org,Mar-20-2003
+7adc2b50a115198511b44cadde1d2d22bbb31166,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+d9f323ec6a5b1cd13241a899f6aabc61636ce004,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+b849d305e7aaa068731a3b88d27e357c6ef14de6,Henning Schmiedehausen,henning@apache.org,Mar-20-2003
+5a0f2ecd11909e498d177063d5f06ec43e84a238,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+993694ccd4a13ab347df1093bad5b2bd52d4d2fd,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+8509159e33cf50fafb04ba0cf596e13f63751000,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+d237dc90d899818c711ee595f35958a617feeb32,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+932770d4de027449ff504303392576003b8a3fff,Quinton McCombs,quintonm@apache.org,Mar-20-2003
+cec233f0ba9b2240df82f804123c776f3aed9376,David Eric Pugh,epugh@apache.org,Mar-19-2003
+2eaf689570c4cf56062fcdb3537b8d305e5bf3ad,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+4260903e1a1901b438f3820f916be35ed8bf7c1a,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+eff33034b3673c442576a52063e19e1d0e0ac851,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+ae551096c1e0547259eda5848fde4343515813c7,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+26371e71e81942167ae5cd5ddf00722a5aec5c1c,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+41750bcb2776add79b33c5f305128c466a191627,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+264a990b6e5c6e48704e53e56f36b5b0fd593585,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+80369c2ae88e3e507ec93c1b0d0a6558b5231715,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+adf6f0228d64b3d4b8c9a928d6eba53bdb181f18,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+f7c68afa85ff04ba6408d62d892acb90cedbf96b,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+de1f004540a2222a329f2e53628f8d6d106ef389,Henning Schmiedehausen,henning@apache.org,Mar-19-2003
+23d6e00ef87dd3a674a45d563f658b6b73711e21,Quinton McCombs,quintonm@apache.org,Mar-19-2003
+25cb5a42ae77bd805c4c19e1acc180dff37d222c,David Eric Pugh,epugh@apache.org,Mar-18-2003
+6e726ed8102c40655a58b213ed0a4b29dedadab0,Henning Schmiedehausen,henning@apache.org,Mar-18-2003
+c95a9bae2ab24929b64c6dc08eff5be15d7c7f9b,Henning Schmiedehausen,henning@apache.org,Mar-18-2003
+07a38211bbe69e0f74ee465463bdaa34b1cb4753,Henning Schmiedehausen,henning@apache.org,Mar-18-2003
+02632be06d61ef8eb8aa013349ab2e9f9437aed7,Henning Schmiedehausen,henning@apache.org,Mar-18-2003
+8b8b8e2bed56e6e707803cfe43ee3f5ba60ac698,David Eric Pugh,epugh@apache.org,Mar-18-2003
+712854a1d555e2b56b8f04d093b71b9cd6670a18,David Eric Pugh,epugh@apache.org,Mar-18-2003
+8dc26aa0df28f322533e4195a1f977d55c00b708,David Eric Pugh,epugh@apache.org,Mar-18-2003
+d6b079af39d06487bbdbea0fd62c7577702c1f40,David Eric Pugh,epugh@apache.org,Mar-17-2003
+f62eba140f6ed5e6e9a04959fdcb22d5bac91e4f,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+558585b34eac7cd61ed3513d963f5c384b6db117,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+f18420aa1e1c4c32283c67f5c338e8cb5f644474,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+c6bc394bd9e8a77d223e0ab5178fec6e67e57576,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+ce9ae7363b1cdd46dc1e3620dd4aadf73d40598f,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+7c116cf7617dda7efa6c7c9000799faa97f08e83,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+04a3a148490d7a77d305e3a2326c63a12f079ff1,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+b7edc13f7e5b98196a5c25687559c5f5d0b11569,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+9cbfee3412ebb0e237dba015e67cc7ac9de5c682,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+1c28b13a11c7aebdc8b398f49d4b9f554c6ffa8b,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+3bf45728eecf21df555999efb9ac263afe50d080,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+5fa035f6b94ce2da72dcaee52dc2d57cce024f64,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+941c596c6070beeb970f2daed264b5717e35454d,Quinton McCombs,quintonm@apache.org,Mar-14-2003
+4f38dfada40854c6517b22b5e3fbe4f6d6a47044,Henning Schmiedehausen,henning@apache.org,Mar-14-2003
+db889e04d049181c719b57c424b9754f578c4616,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+7b18e565d74b4ba04af87e2c665006239828b05c,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+faa73989be53250cf0bc4f9b43ae061d9dd17600,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+18aa3eac63456c2b3e65f1cd310a0d6fb864a0dd,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+4b501432a405f6474c97fc790e46dd5b9c2e849a,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+f6426bf860721abaf5f48ecc5e541a15ec104db1,Quinton McCombs,quintonm@apache.org,Mar-13-2003
+8852be466e95bd2276484b26018b6dc6da934f29,Quinton McCombs,quintonm@apache.org,Mar-13-2003
+9c6f28b341026d5aaf2187337d57a70631737f44,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+2d7f5a6a6bc0efce483c3454ef1dfc138950379d,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+293be3e0e71186f047e08653c669f0e34cc4786b,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+2ae2dc4e11c2f15120aed062de3c654628aae97c,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+726db8abed2d5b93d8859d2b1738d10b884932a8,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+ccb3cd66be0f15625b624d7a9b03be8e49e9412d,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+4ee1621d261064d1834d81c5650704c16b3fa56d,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+ac470d3766b013f5ddedebee8e9a6202e718242a,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+5ae43398120e6a5a7a9bfe5b32067c7ba4bbba6a,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+bc76de7f2882f8a37f5f274df00918e247f2fb91,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+9b13afae30ad4b4d5e41224f0cefa1975540500f,Henning Schmiedehausen,henning@apache.org,Mar-13-2003
+b8629dade355b0497241c2658014f07c71544c6f,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+c9d63912aaa7891158dc961d4ab2c986c15f17fc,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+cb9f455a74816b0723fd87eac6e0e06da33f708d,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+04b9e5c68dbf02f3193ae3a7dbc8d2d9f0e2e05d,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+8e8398bd16c3db2639fe7ff4e75a04998d086ed2,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+6dddb3382b5638cd00bc091d3f552d05884dcab3,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+461d20c1dc23968c49be7901155e93913b1b8952,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+43d9da1fb9d725a4135a84b7900a8a06d48a13be,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+141c7e2d7ac2d328745fb6a638e0b2aa65d049f5,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+57240ba5d5d952da84af22c54bfc8abc16472c32,Henning Schmiedehausen,henning@apache.org,Mar-12-2003
+2f6764180320d24a4a54ca95bc974c49033a4c3b,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+68bbca547c367e1f5d7d0b8b215805d4e529b77b,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+7d0aec72dd964827dc0b8b6fc3dedd03a52da0dd,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+8d9fe8e16fa072104653d694aa09cdf6c7041ae1,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+587a7d7098fb4f868b46ea4ba79ffe74681dc9a1,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+0d1985e43d838f70973ce82da213c099a00d40b2,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+2ca4c583b6968aac260b5e035d173f558c86ad48,Quinton McCombs,quintonm@apache.org,Mar-12-2003
+898e9473dd23c3e539edc43437aea1e863b05a2d,Quinton McCombs,quintonm@apache.org,Mar-12-2003

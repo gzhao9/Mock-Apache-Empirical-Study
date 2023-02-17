@@ -1,0 +1,1859 @@
+commit_id,Author,Author_adress,Date
+537e3b8cdf05282fbc2436e85d3fc6c6235d2e66,Mark Thomas,markt@apache.org,Jul-14-2022
+2145fdecfa659e72fdb16c7c9b072684f88cb249,Mark Thomas,markt@apache.org,Jul-13-2022
+e3298caedb58032ffa1445c3c59c605618e035d6,Mark Thomas,markt@apache.org,Jul-13-2022
+e59e181437649e52b5ad45037e5a94e1266fe3c2,Mark Thomas,markt@apache.org,Jul-13-2022
+7a0c8f1f9cfcdd3acccfd670778325bb56288fad,Mark Thomas,markt@apache.org,Jul-13-2022
+38196da6cc3c2d02fe7ee56634066897fdde2d5a,Mark Thomas,markt@apache.org,Jul-13-2022
+3d8d5fbf9bf160000aafbc84667195badb543d0b,Mark Thomas,markt@apache.org,Jul-13-2022
+9df45833f1c0a37e0831a9cadbdfa776db706276,Mark Thomas,markt@apache.org,Jul-13-2022
+577b8d6af14fbe54d2e3a3591e67ee3d90cac82e,Mark Thomas,markt@apache.org,Jul-13-2022
+45b979bb0f34bf863b722568ada05bee9b3d7de7,Mark Thomas,markt@apache.org,Jul-13-2022
+f15f8ad870cb63e9573f65ff3da4de97eba2a928,Mark Thomas,markt@apache.org,Jul-13-2022
+cb1b9683eb073ec99c11bc69e0c8dd12f5d155ee,Mark Thomas,markt@apache.org,Jul-13-2022
+ec4002ea51492e2bd231db715eaf3a6325a41717,Mark Thomas,markt@apache.org,Jul-11-2022
+ee7e56fd433830769e1c7d46a55da6751229d90e,Mark Thomas,markt@apache.org,Jul-11-2022
+54ad24a256fe377fd3cbca762e3d614e88586677,remm,remm@apache.org,Jul-7-2022
+7ac76c6a503269ccff171391b5d0484f7c0be2f7,remm,remm@apache.org,Jul-7-2022
+62b73d551052a72efb5f2334d88bbe09e9baec6c,remm,remm@apache.org,Jun-30-2022
+f7e2ce57a1fe2b0d827eefa9adde0edddfacc2c0,lakeoffaith,lizhengang@tongtech.com,Jun-26-2022
+c9d49ff79449b74e29a744d8ea742168479fc0e4,Mark Thomas,markt@apache.org,Jun-29-2022
+3dac3363b97a70cd3945c4c328683cb9981e0de8,Mark Thomas,markt@apache.org,Jun-29-2022
+6916f850b0075513aea68b762d8aa530b3b5350b,remm,remm@apache.org,Jun-29-2022
+22bc541097cb6700f4c2c5cf2376e25278ad02cf,Mark Thomas,markt@apache.org,Jun-28-2022
+fdd20c32e52613058c19d3d47f3cf74566a0a078,Mark Thomas,markt@apache.org,Jun-28-2022
+7977615c10b669c50bbca7fbdd890478029aa517,Mark Thomas,markt@apache.org,Jun-28-2022
+814492bce4906bf0a3b40fb49d05c4862bf63b68,Mark Thomas,markt@apache.org,Jun-28-2022
+8888a37c11b73a4b77b77f20bfc19f370a58a32a,Mark Thomas,markt@apache.org,Jun-23-2022
+8c92cc1bc0d055f0ca3c9072d6096a8fa539a25c,Mark Thomas,markt@apache.org,Jun-23-2022
+009f44e31ea34fc0061b7198abfae107524f19f2,Mark Thomas,markt@apache.org,Jun-23-2022
+db2f9eac231b8af76e331fee4aabac7eed1ee524,Mark Thomas,markt@apache.org,Jun-23-2022
+8e69a43e8b9f69d871d018c6ad0df097b20836c3,Mark Thomas,markt@apache.org,Jun-23-2022
+0bc1407cdc1538f8403d1d22544169287c98ed87,Mark Thomas,markt@apache.org,Jun-23-2022
+64966542af57251400fee18d30906ceaa8568da6,Mark Thomas,markt@apache.org,Jun-23-2022
+7d4a1d584650c4b04b470ed9f831c4d4c2dc978a,Mark Thomas,markt@apache.org,Jun-23-2022
+d6251d1cfb683f1bdd00ed022ac8e9b9a7e7792c,Mark Thomas,markt@apache.org,Jun-23-2022
+dc8f4d61d23a85d28d4594c9c188e34971f421e7,Mark Thomas,markt@apache.org,Jun-23-2022
+5294ebc7baaf33498f5ccc923963acef4fc2ec4d,remm,remm@apache.org,Jun-23-2022
+1687b13e908e807b71074ad1857a6a31ca4dc862,remm,remm@apache.org,Jun-22-2022
+d1f8f1bfc19dbe5b7e4472dbaf96263ac9ba12cf,remm,remm@apache.org,Jun-21-2022
+b18acf01409078daefe11a3e82dc2009193e15e7,Mark Thomas,markt@apache.org,Jun-21-2022
+cdcd8402ed25d7b65748842ae7d027939add86ba,Mark Thomas,markt@apache.org,Jun-21-2022
+0cd09b421eb8860b6bb724cf3412055a958aaaa1,Mark Thomas,markt@apache.org,Jun-21-2022
+9570033bfee6be960b03d92f1c1a5141d7893708,Mark Thomas,markt@apache.org,Jun-21-2022
+bce9b8c097a837b11689a61923a6ba4a10c0ea47,Mark Thomas,markt@apache.org,Jun-20-2022
+db1b25f52e4bc44dd63a972d139fd4e5a6df5eed,Mark Thomas,markt@apache.org,Jun-20-2022
+3742a4b7037951c610461d5e2c058134559daaea,remm,remm@apache.org,Jun-20-2022
+5523d58eda59b41404d024bf187b620f10024846,remm,remm@apache.org,Jun-20-2022
+063948c0915191a8258db0e4ad2815fbf37a763e,Mark Thomas,markt@apache.org,Jun-20-2022
+74a2ef97e5c47e5adf6bcdec7c22fefd7c38bcc6,Mark Thomas,markt@apache.org,Jun-20-2022
+81930ce08b759ac15bc7236e34ff1a2acfbfe83a,Mark Thomas,markt@apache.org,Jun-20-2022
+7b54381cfcb5b27c34e750fa6e2e29bd29c0c772,Mark Thomas,markt@apache.org,Jun-17-2022
+39e70ec68b2f7855e90fe211dd0407ccd222ea66,Mark Thomas,markt@apache.org,Jun-17-2022
+0c94180081bddad56158374b58bcb326646ae172,Mark Thomas,markt@apache.org,Jun-17-2022
+e6c7d8d6d506eee8c351393d898a15b405d2c3da,Mark Thomas,markt@apache.org,Jun-17-2022
+2d816e81726d16c23e726f5bc30e4b85886566a7,remm,remm@apache.org,Jun-17-2022
+ce32393c40e01532b54835f9aeacdfb01f78d64f,Mark Thomas,markt@apache.org,Jun-17-2022
+b6f3328471c0ada000f9105dc4807880bb093595,Mark Thomas,markt@apache.org,Jun-17-2022
+e3369f3f93ac327ea920c5e712f1041589dbe1ff,Mark Thomas,markt@apache.org,Jun-17-2022
+01763b4ee77e7751f40deb0920f116e65b0b5a91,Mark Thomas,markt@apache.org,Jun-17-2022
+fb096de761254980f779ff99057cd3b055e6459d,Mark Thomas,markt@apache.org,Jun-17-2022
+96f9e0a92e74b0aa57e4e6a054fc1276c4618659,Mark Thomas,markt@apache.org,Jun-17-2022
+5870b9a846f1fb5775a5e7d497ed2247cb4fd3d5,remm,remm@apache.org,Jun-17-2022
+83f94f5896164c269ca47a68c2bb252fde92514c,Mark Thomas,markt@apache.org,Jun-17-2022
+9cebd8fd3f56f742585cf9660f06a7a61af296e1,Mark Thomas,markt@apache.org,Jun-16-2022
+4547ab2d9d99de8119232bf2d55801ac8cb92ed9,Mark Thomas,markt@apache.org,Jun-16-2022
+581665b29b794dfaa8a2a55dc9ef3acef2b6c1fd,Mark Thomas,markt@apache.org,Jun-16-2022
+3bfd1044d5cf8689f16e416de12af76a8ffcdd74,Mark Thomas,markt@apache.org,Jun-16-2022
+f528b957e1c3460c8c1b3ab9930109e7eb20c70c,Mark Thomas,markt@apache.org,Jun-16-2022
+e6a3fd58f4b8c841eea43a884e7b5464c848185d,remm,remm@apache.org,Jun-16-2022
+bf7ec77cfe79baacd88400264800b34c70f6e0ad,Mark Thomas,markt@apache.org,Jun-16-2022
+c3e33b62101c5ee155808dd1932acde0cac65fe3,Mark Thomas,markt@apache.org,Jun-16-2022
+3b76da87e355fc4b637cd1ea57c2e651b9075b5f,Mark Thomas,markt@apache.org,Jun-16-2022
+aa80348b8baf6efc0d3258b15da523b2458d52c6,Mark Thomas,markt@apache.org,Jun-16-2022
+2783ce33aeef6aeaab9aa161d1a982feb11723fa,Mark Thomas,markt@apache.org,Jun-15-2022
+cfaf525131b33b0d5844ed5cda790ec79947e6f1,Mark Thomas,markt@apache.org,Jun-15-2022
+22d196bb9fb3aca5d9645becf650e14a14be6cd4,Mark Thomas,markt@apache.org,Jun-15-2022
+4b124cb4005f49d6a2d1d8b8f8a12c8778b0a659,Mark Thomas,markt@apache.org,Jun-1-2022
+42197e99b765fec3fa4c3a0c6df9774838001a6f,Mark Thomas,markt@apache.org,Jun-14-2022
+6bfc5cb4f2412c992dfdb8f1f7f8a0dfef8a4a84,Mark Thomas,markt@apache.org,Jun-14-2022
+39f28c7dc160dc1387787bb0a9687219aeb4fdd1,Mark Thomas,markt@apache.org,Jun-14-2022
+e36e61f4f77640af3ab73688b39860cbdf1ce109,Mark Thomas,markt@apache.org,Jun-14-2022
+56cd24d13af9631b6365bc4dc0e6d226169d7433,Mark Thomas,markt@apache.org,Jun-14-2022
+9ebfe1393e5fcab03eb825a4983cb96984a3ebd4,Mark Thomas,markt@apache.org,Jun-13-2022
+0a812fa3235220c93a325349a7ba7c2e5ea0f14c,Mark Thomas,markt@apache.org,Jun-13-2022
+69b9a3eeee41062dc1930782941bbaa1880e9281,Mark Thomas,markt@apache.org,Jun-13-2022
+c6e0e9ce404f6f5bb964a77bce1e42e7c99b73f5,Mark Thomas,markt@apache.org,Jun-13-2022
+c2faa69611d4b790d6faaf744600ae7bb75c30f3,Mark Thomas,markt@apache.org,Jun-12-2022
+ae50fbcf70740f0d54cb4e96e66e1d5952e4a364,Mark Thomas,markt@apache.org,Jun-10-2022
+4ed41b49a4e6506ec30eaae6d96be008c6606572,Mark Thomas,markt@apache.org,Jun-10-2022
+d912059aacae4b9c90efeef8aacf386603d2ae20,Mark Thomas,markt@apache.org,Jun-9-2022
+64ef1abc1af6b76bd4e051a1837734d1efdd6c2e,Mark Thomas,markt@apache.org,Jun-9-2022
+1086b2ef46a337e8c01feecce3a195e58bacffdb,Mark Thomas,markt@apache.org,Jun-9-2022
+f316b75c2291b29483877ea3e036871b3963bee4,Mark Thomas,markt@apache.org,Jun-9-2022
+405c587503e3cc1cc49081078731e4cedabba54d,Mark Thomas,markt@apache.org,Jun-9-2022
+800efa449aaedd4e8a76efc8c2fd492974582044,Mark Thomas,markt@apache.org,Jun-9-2022
+bdc9f01991ef88e2e52554eda2fbedeb2e9ca644,Mark Thomas,markt@apache.org,Jun-9-2022
+7b91d7f664f6a6a694482bf497daa0e1376a18bd,Mark Thomas,markt@apache.org,Jun-9-2022
+30c85ad7861147d9609cdb1bd616ea9da46d107c,Mark Thomas,markt@apache.org,Jun-9-2022
+ae86a1369bec958b1680def51e86a338a15046c6,Mark Thomas,markt@apache.org,Jun-9-2022
+f59411a39dd622f3dc9cdeab6a0ca718aab98d86,Mark Thomas,markt@apache.org,Mar-23-2022
+4e498bcb6b0fde1ea9a59e5d4a9b55e1e6c095f2,Mark Thomas,markt@apache.org,Jun-9-2022
+0ae2d3d5e6260fbd83de55bf37e7c0d3bdba8538,Mark Thomas,markt@apache.org,Jun-9-2022
+d79b39d55f1d193276a5b846867260de07c41f7e,Mark Thomas,markt@apache.org,Jun-9-2022
+b1202867f414ad41a0decfdf67f7f3ac3405d400,Mark Thomas,markt@apache.org,Jun-9-2022
+76fe18e862d77a40bf2abeb4f6a0eba672ba8c34,Mark Thomas,markt@apache.org,Jun-9-2022
+897dd46996855cf76584f437c3241ed6b1e4c43d,Mark Thomas,markt@apache.org,Jun-9-2022
+abd87e59e43990c716a2cb457ff9f64aa534e114,Mark Thomas,markt@apache.org,Jun-9-2022
+9d2971fede434678ac6ab6e70e7e1b5675990523,Mark Thomas,markt@apache.org,Jun-9-2022
+ff5d86fc3e14841562fa133bff958035ce2c2fc3,Mark Thomas,markt@apache.org,Jun-9-2022
+f68b4b10d569eebc3ef37d624fb92b29ab87a553,Mark Thomas,markt@apache.org,Jun-9-2022
+7d54bd37ce00714104b1c68a785938d7882f81d2,Mark Thomas,markt@apache.org,Jun-9-2022
+8f0bd6d93d5d3eeb68fd57bd5053681b094c6850,Christopher Schultz,chris@christopherschultz.net,Jun-8-2022
+903afaa7af12d4b6ae4afd3fb4e7ab3caa8beb86,Christopher Schultz,chris@christopherschultz.net,Jun-8-2022
+e65d323d30b455931d923e61b9b05513c23ade06,Christopher Schultz,chris@christopherschultz.net,Jun-8-2022
+06e3e821b24570d09660d677845a79dc9e825126,Mark Thomas,markt@apache.org,Jun-8-2022
+b62887205f669456be52bfe71d2f04b8b06ce35f,Mark Thomas,markt@apache.org,Jun-8-2022
+6cace47998fd40f67a5d274a1e02dfffbdee0167,Mark Thomas,markt@apache.org,Jun-6-2022
+40fefc7a64045bdf36534f0c216da17f7b886a64,Mark Thomas,markt@apache.org,Jun-6-2022
+8ffc799b2d533437f3d2e7731b010ebad5e14206,Mark Thomas,markt@apache.org,Jun-6-2022
+4c039adb67edf192e26a3a49ed12f36f83fb2a14,lihan,aooohan@gmail.com,Jun-3-2022
+38dda6554fea4376534f00b99f1b466d59a3e757,lihan,aooohan@gmail.com,Jun-2-2022
+d378d5e24cf13c9652b33d40e65faabbcbf39916,Youyu Song,songyouyu6119@gmail.com,Jun-2-2022
+3b209deed2bf14a437a8c8b11aed80de36dfccd3,Mark Thomas,markt@apache.org,Jun-2-2022
+f8e7d02658f9f66fc30cdd73e64cf4f77f1e02cd,Mark Thomas,markt@apache.org,Jun-2-2022
+a704da4e05b057bcdb30c75cb65781a4fde821bf,Mark Thomas,markt@apache.org,Jun-1-2022
+876031b2de9e2cfba604443911a6c51e3a7775df,Mark Thomas,markt@apache.org,Jun-1-2022
+0cac2262ba8ba4f007ccc7b18b8d0ed5a65c09ab,Mark Thomas,markt@apache.org,Jun-1-2022
+08ca083412c902fa5c7576df287284149e10a2f6,Mark Thomas,markt@apache.org,Jun-1-2022
+da3377d218d9e780bac73013462a6becb7813adb,Mark Thomas,markt@apache.org,Jun-1-2022
+e60f0804154a1434ef523d1db2b51c23e094ec40,Mark Thomas,markt@apache.org,May-31-2022
+f3bc9506bf48192804b20a566d3c8cec0755262f,Mark Thomas,markt@apache.org,May-31-2022
+bceabb38f43b63819f0382c1c4a868282640b55c,Mark Thomas,markt@apache.org,May-31-2022
+8ee6741d06195e7efbbca4690beb1705a5462e12,Mark Thomas,markt@apache.org,May-31-2022
+9afbb3d67c7157f4d42b8d855f629db1b6f346f5,Mark Thomas,markt@apache.org,May-31-2022
+192f0d889f4e57f811e1aa1306d9eb28f7d7d5b2,Mark Thomas,markt@apache.org,May-31-2022
+7ddb09b03129083214800f45a01fefa5d1db3476,Mark Thomas,markt@apache.org,May-31-2022
+d1ef739e68262f81ed45281aad5cb1d187cbbb9f,Mark Thomas,markt@apache.org,May-31-2022
+eceae16d54f98736b522342c8aef7c082f4cfa0c,remm,remm@apache.org,May-31-2022
+2b1dfe5bc4befdc53d74a0333ac8931d78ec39f6,remm,remm@apache.org,May-31-2022
+ca0a1b2f9d3bf773b5c28a0457bd1d9e78785728,Mark Thomas,markt@apache.org,May-25-2022
+b86f4c1f3ad50a303104bfdc59576638049e56fe,Mark Thomas,markt@apache.org,May-31-2022
+b685d8487483c726eedb1aa3e8b009c166c4bf45,Mark Thomas,markt@apache.org,May-25-2022
+b8d96d1abb6a127141c24bd669a0ca13d86cdba8,Mark Thomas,markt@apache.org,May-24-2022
+bbfbe277357586a35d240bed756034bd525e6b72,Mark Thomas,markt@apache.org,May-27-2022
+c52e7f9d830159d9933c2e301b58b4174c7dfcd3,Mark Thomas,markt@apache.org,May-26-2022
+8acd6e3c8f045ff9f73f32d89b16883886b44c4d,Mark Thomas,markt@apache.org,May-26-2022
+314c31ea1ec20daf3612409aabccd3c1bf0aad8c,Mark Thomas,markt@apache.org,May-26-2022
+4334622e087468184eef7b520ac5d8e631be2c21,Mark Thomas,markt@apache.org,May-23-2022
+d872f1eeac24d946cc04d989bc8abfd4d4089cee,Mark Thomas,markt@apache.org,May-24-2022
+357aa7d8b07043f749a6b5eb10b2f839184265f5,Mark Thomas,markt@apache.org,May-24-2022
+9c5da5db7f8598d1750d1734d4de67e4b6e5e999,lihan,aooohan@gmail.com,May-24-2022
+0a9480158874ea910a4d629d24f31d69d6cc5f96,Mark Thomas,markt@apache.org,May-23-2022
+02611f118d3baf0c63f8d8a233247da4e95681ae,Mark Thomas,markt@apache.org,May-23-2022
+b78d415754b8d9c3160f84c111a993533568e8df,Mark Thomas,markt@apache.org,May-20-2022
+012d44466e67e26ddf76bc07f0efb6e2a6b1c0a0,Mark Thomas,markt@apache.org,May-20-2022
+d536574c9de54c58d9b20c8b4dd3a31b30aaf98e,Mark Thomas,markt@apache.org,May-20-2022
+b37c463f218772e4cc8196d7d98577ae773ad2ce,Mark Thomas,markt@apache.org,May-20-2022
+690c5596675623e498ced941d7acad2bbcb2f32b,Mark Thomas,markt@apache.org,May-20-2022
+6d67ccb71135f542667b7a5241f429a1272136ad,Mark Thomas,markt@apache.org,May-20-2022
+1c84dc9b4339a033daf1a0fc643a9d0093b20520,Mark Thomas,markt@apache.org,May-20-2022
+c48714554aaa422d16d1cbfdcc075a89252e6dc6,Mark Thomas,markt@apache.org,May-20-2022
+f1253c073720388ea4622bf1f5c28edaa767a4e2,Mark Thomas,markt@apache.org,May-19-2022
+28db32a55077600f706cdae50024e50aef663d63,Zishuo Ding,zi_ding@encs.concordia.ca,May-11-2022
+dd8c37ec8ac2bba4a2988f35ca5823311e1fb96c,Zishuo Ding,zi_ding@encs.concordia.ca,May-11-2022
+62594a6311ae186286dffa463523476a5704c6f3,remm,remm@apache.org,May-19-2022
+93108de1127fb228e343a3f3304554bfe7177583,Mark Thomas,markt@apache.org,May-18-2022
+83199ccf21506a97f1fd1f62a11284cab0ca08ec,Mark Thomas,markt@apache.org,May-18-2022
+43022dd099019a254944874b5984c20135c8b65e,Mark Thomas,markt@apache.org,May-18-2022
+22ceccc5a3e1361e82bb4f10e2a9f4117714183d,Mark Thomas,markt@apache.org,May-18-2022
+1c7a9d068b8978fb56efab5e53dabb9c8393fe34,remm,remm@apache.org,May-18-2022
+c89090e5c8c177540e41f6ce76394d063b252339,Mark Thomas,markt@apache.org,May-18-2022
+1c2c557d1f2399c531d7ebd9e9f770476a243b79,Mark Thomas,markt@apache.org,May-18-2022
+e000150a1a4c61cbc25ac158f9cc1681ca7ae468,Mark Thomas,markt@apache.org,May-17-2022
+55b8f13be647e698032e84a7ea9c4dbf21ac5847,Mark Thomas,markt@apache.org,May-17-2022
+fd8e26e8d4a0dc212988057326c1427b88abe911,Mark Thomas,markt@apache.org,May-17-2022
+c06d8369188a8421e5d6dbb940a6fd11daf625e2,Mark Thomas,markt@apache.org,May-17-2022
+4ed79f7e68e3841135e26f1d8f96545db2b0f140,Mark Thomas,markt@apache.org,May-17-2022
+9e56489042b22510108fc85a5437e30396a84c6e,Mark Thomas,markt@apache.org,May-17-2022
+595428ec3fcf83fd437f3f7b696571fc4d1e07a3,Mark Thomas,markt@apache.org,May-17-2022
+919babdb734fcf429fdb28280ceead199a9b7ddf,Mark Thomas,markt@apache.org,May-17-2022
+a4107885785ea4c611c2e4e85c36a0381f48e3f0,Mark Thomas,markt@apache.org,May-17-2022
+d4008c0b650da0b91d09656d0111b9ea01541f05,Mark Thomas,markt@apache.org,May-16-2022
+d55f39003b285aac9f63c36e1eed936ec1a5ae92,Mark Thomas,markt@apache.org,May-16-2022
+e186d7e337980c9160ece6b22ba1a0504ce3de44,Mark Thomas,markt@apache.org,May-16-2022
+51e5cb22f2ba2b2b2e695c71bf189b40db8ae860,Mark Thomas,markt@apache.org,May-16-2022
+30253cd1deb3c4d62f4a055d3d8de5d138b04fbd,Mark Thomas,markt@apache.org,May-16-2022
+bd49eed3a54e25cee40eab14d4f9519c9e4a53bb,Mark Thomas,markt@apache.org,May-16-2022
+0480c2b59357e1a030b5b155f0de33bd9fcdd1cf,Mark Thomas,markt@apache.org,May-16-2022
+0a9d25908e2f92e5197f2a48948e2cd879266c6a,remm,remm@apache.org,May-12-2022
+a4c63200e929533fde6dcff44d97259e8b753a5c,remm,remm@apache.org,May-12-2022
+529117d53fba06ef1b45699e8dda16398f88acde,Mark Thomas,markt@apache.org,May-11-2022
+b260b8968bc2f98b1eada10a5b1bf7ba84599d9d,Mark Thomas,markt@apache.org,May-10-2022
+136f86744ce087d3418b6dd3aa8aecca73f277a7,Mark Thomas,markt@apache.org,May-10-2022
+0fa7721f11d565a2cd2e44366c388ad6a3e6357d,Mark Thomas,markt@apache.org,May-10-2022
+da3012ed276fcb194dcbdbd18a5b8fc4a14df97d,Mark Thomas,markt@apache.org,May-10-2022
+ba7f29a0cb916f81df669ad59144f5cd301c4c41,Gareth Evans,g.evans@sap.com,May-10-2022
+b0f4bf718a1c24d23f50d5c2b118995f014f37f5,dn121049,dn121049@W10L-9053211066.harrodsdns.com,May-9-2022
+d0971c3f0781b37c2f3b3e0092587c69dd4e6fbd,Mark Thomas,markt@apache.org,May-10-2022
+cc36dd4bb334a86d5624892236e16adab0307900,Mark Thomas,markt@apache.org,May-10-2022
+258162cf4b8209060e8d85d2e289feeaad4c726a,Mark Thomas,markt@apache.org,May-10-2022
+352a55934bb8198db7249fde6f9cfb2a8053b285,Mark Thomas,markt@apache.org,May-10-2022
+13f3e971f2afe5c20248eb5d80a2f0e1913200c4,Mark Thomas,markt@apache.org,May-10-2022
+85a4325284625fb700b2f35599057519185e3e8d,Mark Thomas,markt@apache.org,May-10-2022
+366bb95af80b65ce288de094b632546ef3f06839,lihan,aooohan@gmail.com,May-8-2022
+4a7722a90dca22c6113907ecb2420cd9fa0a4678,lihan,aooohan@gmail.com,May-8-2022
+957133f83878ca9d948fd9cd477294a7318963de,Mark Thomas,markt@apache.org,May-10-2022
+5af33624a27d987a59e4cc0d2bc1d3880d1aeb9d,Mark Thomas,markt@apache.org,May-10-2022
+04811bb640de92431e9bab2417a1f3e4f4ee0ee0,remm,remm@apache.org,May-10-2022
+1709d6773799afb12a7421d0b1bd3bd766540faa,Mark Thomas,markt@apache.org,May-10-2022
+8370d84b6f67f805fc2621f15d59c1f6220a0fd3,Mark Thomas,markt@apache.org,May-9-2022
+768939c091ea0a925f73ea1b9fef52868aedd897,Mark Thomas,markt@apache.org,May-9-2022
+021a72b3eaeeae28b8d4278babf1089c893f324c,Mark Thomas,markt@apache.org,May-9-2022
+0e41c8f6130ee26f1eb19fbac5b0e8bbeaf38b3f,Mark Thomas,markt@apache.org,May-9-2022
+4d024c9473e7074dccae7eafc3686c2228669fd3,Mark Thomas,markt@apache.org,May-9-2022
+b3cc890926da1d14f5ea72cc7b03fbf14144b6d6,Mark Thomas,markt@apache.org,May-9-2022
+5e67ea17606575908d8382171920e37b00ae5d26,Mark Thomas,markt@apache.org,May-9-2022
+e6aae53dbf92992af6a04a3118236e44fc7c2919,Mark Thomas,markt@apache.org,May-6-2022
+3b869194b3c50a36a29f11f2c7a072732cd3479c,Mark Thomas,markt@apache.org,May-6-2022
+d0d3e86be38dd3b842eec8110ed47f0476111c4f,Mark Thomas,markt@apache.org,May-6-2022
+1593a4e241c1e3391b89d722186f582a950b0c34,Mark Thomas,markt@apache.org,May-6-2022
+056b28cc283becd3c11a78aced32a11e4e8aea3c,Mark Thomas,markt@apache.org,May-6-2022
+a4d81fee706201ce512f0b754b38ccbd3ed155e2,Mark Thomas,markt@apache.org,May-6-2022
+6484f3bf398f17d6ad5d72e08653f735a121015f,Mark Thomas,markt@apache.org,May-6-2022
+6e4d8876b9215b85c33661e1131689ec8652ccb9,Mark Thomas,markt@apache.org,May-5-2022
+6dfd443229ea6f727149784be5f4f72eea08cf35,Mark Thomas,markt@apache.org,May-4-2022
+75049f0c75717a7ffce75a948615b53738020604,Mark Thomas,markt@apache.org,Apr-29-2022
+28ee966d97fe4e8998f3b09418cf91293bf19b52,Mark Thomas,markt@apache.org,Apr-29-2022
+e7108a08cb065fe1616caea470dbe6f7e0a6c8f1,Mark Thomas,markt@apache.org,Apr-28-2022
+471c84b89630664e16d80c5557c681b658acabc4,Mark Thomas,markt@apache.org,Apr-28-2022
+ca6c090f39c820e31bec8ddd6b118cb259f45b27,Mark Thomas,markt@apache.org,Apr-28-2022
+c8ecaa44f6a110873bd7bf8b3c2f08354e2900d8,remm,remm@apache.org,Apr-27-2022
+9ed253675b725ae1b61503fdad3fffd1e752e510,Mark Thomas,markt@apache.org,Apr-26-2022
+a9ca10266bd5cf2919f59b1916ee786c01e2a033,Mark Thomas,markt@apache.org,Apr-26-2022
+6c3076613322857da9d6f000966841049be90588,remm,remm@apache.org,Apr-25-2022
+7386fe3041eada66e1945126c2d1322c369c0f3a,Mark Thomas,markt@apache.org,Apr-23-2022
+78e4123fea658e1a40607ae543e86d051d2a4e3e,Mark Thomas,markt@apache.org,Apr-21-2022
+5aa376ef67003bc340901a4199442ffbc147fb6a,Mark Thomas,markt@apache.org,Apr-21-2022
+e28f64e056b6874d62548e8c1322396072a67303,Mark Thomas,markt@apache.org,Apr-21-2022
+9c8c76378ed0d48ecdcb586d9a0a2cd83820da78,Rainer Jung,rainer.jung@kippdata.de,Apr-20-2022
+7c0dd42ac4e9533d73d4ba50791ab2dda9d79760,remm,remm@apache.org,Apr-14-2022
+6cdd999e652ad122781164172c1d7f9b175a6446,remm,remm@apache.org,Apr-11-2022
+35c51e7657f0d3aa6a636db9d61730cba6fc246a,Igal Sapir,isapir@apache.org,Apr-7-2022
+eb8bf2e5d87d7dc35e841e04f1bf82d4d71eedf8,Eduardo Leggiero,leggiero@users.noreply.github.com,Apr-7-2022
+45471f79f8d489a169fe6b1700b1d7795a69c8e5,remm,remm@apache.org,Apr-7-2022
+3cb24e67801ee18c79a7972b5c995d26bcfeb1dc,remm,remm@apache.org,Apr-5-2022
+ba6432cbb312e6595af5fa49e77161f7d8805956,remm,remm@apache.org,Apr-5-2022
+69c7588e1880135843950bb61af01dbaf552e6c4,remm,remm@apache.org,Apr-5-2022
+f88816bca3c67b2a2f9312fff56c8f5724ed5bfd,Mark Thomas,markt@apache.org,Apr-1-2022
+99372e638898e32a7af83c5a7b0b760dfb6d02f3,dsoumis,dsoumis@redhat.com,Apr-1-2022
+b8bf95191a0af3f9923d718f70ef304016f06036,Mark Thomas,markt@apache.org,Apr-1-2022
+d71171811175518b64fccf2655e5dfa613e1c0a4,Mark Thomas,markt@apache.org,Mar-31-2022
+a29499c18b311f1c314afc6798840631f0a3d876,Mark Thomas,markt@apache.org,Mar-31-2022
+03b01198fa6fa132be4b3528daa9b648c314a9dd,Mark Thomas,markt@apache.org,Mar-30-2022
+1abcf3f4d741c824ae490009fe32ce300f10eddc,Mark Thomas,markt@apache.org,Mar-30-2022
+80ddfba2f62af1d9b8228d2c5796ef8359136898,Mark Thomas,markt@apache.org,Mar-30-2022
+3ab593bfaa372422b6071c4be29c97a14f5f8f01,Mark Thomas,markt@apache.org,Mar-30-2022
+63279f47db0b05c8eb6650d2e92993cb051bc56a,Mark Thomas,markt@apache.org,Mar-30-2022
+0c35e93139d66c4e86f0685db384f9f7ed395ad4,Mark Thomas,markt@apache.org,Mar-30-2022
+fefde123ace5ebaf7691c229c0025827abce41a9,Mark Thomas,markt@apache.org,Mar-29-2022
+a154bf3a9487f0d3d85da4b7f375266545caeb3b,Mark Thomas,markt@apache.org,Mar-29-2022
+9565491aaf0d01e2e1d372094c7c3a9c3701b317,Mark Thomas,markt@apache.org,Mar-29-2022
+9db3e21f08ffebeb7bc5e63a15988007cdef7f03,Mark Thomas,markt@apache.org,Mar-29-2022
+a84580ecfe7401f34c4138de07de83e131c0a6fd,Mark Thomas,markt@apache.org,Mar-29-2022
+18fb97414e8606b670e5909487dee0d4703e9992,Mark Thomas,markt@apache.org,Mar-29-2022
+85462e30fe812c907e1eb2e1f8dd6f9f207595c5,Mark Thomas,markt@apache.org,Mar-29-2022
+b20e8146b1c252450ab0cd742e770e2ea007e5db,Mark Thomas,markt@apache.org,Mar-29-2022
+26f57f422badfe01c094a47bfe610e7e491f83eb,sim-lus,67785631+sim-lus@users.noreply.github.com,Mar-16-2022
+17f177eeb7df5938f67ef9ea580411b120195f13,Mark Thomas,markt@apache.org,Mar-29-2022
+f7b9a00893c3958ec290b206e14d7dfae8f0c760,Mark Thomas,markt@apache.org,Mar-24-2022
+43df99e05cfa4d0eaed30cb03f65ee687ff0ce54,Mark Thomas,markt@apache.org,Mar-24-2022
+00767d30843237510181a6ece2547a34dd42b785,Mark Thomas,markt@apache.org,Mar-24-2022
+1edc9d81e4bcb4ad8ca927af8d5222dfc5b418ba,Mark Thomas,markt@apache.org,Mar-24-2022
+61194eebde1d5466ddaf48f161623141a14d81a2,Mark Thomas,markt@apache.org,Mar-23-2022
+3bcbd5a9b7b6d52e1d6f85f2f421bb5021c12d66,remm,remm@apache.org,Mar-23-2022
+23a92d7a55cffa58e604f5162403521da3ca5d25,remm,remm@apache.org,Mar-23-2022
+fc0b4640b8e5970af6843cba4f48ce514e9c2822,remm,remm@apache.org,Mar-22-2022
+899bc0d779c9d91b987444b2e9d496334d8459a5,Mark Thomas,markt@apache.org,Mar-22-2022
+b303f16f31c08ab521a7f1f6944ec4b34fa15e08,Mark Thomas,markt@apache.org,Mar-22-2022
+36b187a623a093f22f1e717e8db5343b17ba6dc5,Mark Thomas,markt@apache.org,Mar-22-2022
+ee060e90157e303d808d86a859c480b0832e2546,Mark Thomas,markt@apache.org,Mar-22-2022
+e786fddcdeabfb46c38a101ab12903e5f41d3519,Mark Thomas,markt@apache.org,Mar-21-2022
+cc6b68984ec7944a6386e1359485160f8cd13a97,Mark Thomas,markt@apache.org,Mar-19-2022
+76b2641ae9704822b9446426e3f330ab45672a9f,remm,remm@apache.org,Mar-18-2022
+46ba7d4c066e8a44005e417ac88725d4edc0900b,remm,remm@apache.org,Mar-18-2022
+d92a812492baa0e510cedf25ca10203303e7bf79,Mark Thomas,markt@apache.org,Mar-17-2022
+49b5aac59a5db551383868ccd66f3e5513fe109a,remm,remm@apache.org,Mar-17-2022
+594ae43b1ec6d9caf7dbafe64e665711c6be8673,Mark Thomas,markt@apache.org,Mar-17-2022
+f5c05cad8832c0a0cf8295e22e823177a3794351,Mark Thomas,markt@apache.org,Mar-17-2022
+08d13806d920f4588058d9a9cda2c97e7dbbc5e8,Mark Thomas,markt@apache.org,Mar-17-2022
+21858d9b95aa75673efe3b285a70097f29f2ad1c,Mark Thomas,markt@apache.org,Mar-17-2022
+3dec6f45ff7ad8309f7c11b82299968fb29206df,Mark Thomas,markt@apache.org,Mar-17-2022
+43564a44a8565d7c3a8b3255000b8019a83eb43e,Mark Thomas,markt@apache.org,Mar-16-2022
+755d46db634d36c0058901aabe9a56abad19396c,Mark Thomas,markt@apache.org,Mar-16-2022
+7dd8ae1a1b97991d7a6513b63685ae2b350d2af8,Mark Thomas,markt@apache.org,Mar-15-2022
+e3b5c3a44a84c4158732d6adccd43fc26a82f8d7,Mark Thomas,markt@apache.org,Mar-15-2022
+e99da3e6542f2189b2655ad0781d6a8ac816a26d,Mark Thomas,markt@apache.org,Mar-15-2022
+017a5d73fed304eaeed34be835bc0b886968e9da,Mark Thomas,markt@apache.org,Mar-15-2022
+8bef76a877270c4f35bd191036a5611e1b8a6910,Mark Thomas,markt@apache.org,Mar-15-2022
+74d1be0ff0824562506f25cafc9beffaf12033c1,Mark Thomas,markt@apache.org,Mar-15-2022
+c8f4bea4e0e8a51edecac9b49a81fd391acfeaad,Mark Thomas,markt@apache.org,Mar-15-2022
+f8ead037fa43aa720672e98f3b4389e5a81e6c14,remm,remm@apache.org,Mar-15-2022
+2d9e51ab1bf9b3143bb12926fab1b210ff456922,Mark Thomas,markt@apache.org,Mar-15-2022
+4e376b643f513b29aa50f239801bee5c70f8f49c,Mark Thomas,markt@apache.org,Mar-15-2022
+f0316435017febeb15a3b6842c4016a0497ba891,Mark Thomas,markt@apache.org,Mar-14-2022
+39761d987d0edf1473a87472012a946de79d1017,Igal Sapir,isapir@apache.org,Mar-13-2022
+469b8c309d3127312ce89d74e4c687f4949202aa,Mark Thomas,markt@apache.org,Mar-10-2022
+cfa443f844c9b39685e9ca650e6dcd1d7ae08bf9,Mark Thomas,markt@apache.org,Mar-9-2022
+cd4d4061e36e4d5e635ec6e2d69c019c1a53bdbf,Mark Thomas,markt@apache.org,Mar-9-2022
+b738fa6ee0e6789b104e652d95c982827e9753dd,Mark Thomas,markt@apache.org,Mar-9-2022
+f4e0502daf575c0f47a1bbf9eb45c4b6c85fd7e2,Mark Thomas,markt@apache.org,Mar-9-2022
+f50f3e306fe649b6afa6b270dea518a9b1a3d239,Mark Thomas,markt@apache.org,Mar-8-2022
+a60528617e512330f91553e925d50a6c34016dd4,Mark Thomas,markt@apache.org,Mar-8-2022
+a2a0cdf98cdbbf391c6568347a723f38e365f982,Mark Thomas,markt@apache.org,Mar-8-2022
+7560ad854e6aaa2a12f97b184035fc96ea16626a,Mark Thomas,markt@apache.org,Mar-8-2022
+9ea53009ba8e5c64827f488b297646aab3803a7b,Mark Thomas,markt@apache.org,Mar-1-2022
+c3eb91ee439599f96a59cdf64dc0d6453023be78,Mark Thomas,markt@apache.org,Mar-1-2022
+6311bcff2849b40e84976d48bd158ec7687688c7,Knut Sander,knut.sander@mgm-sp.com,Feb-24-2022
+c28d4d702bf44b14076b84ce22dc2585cb54a939,Mark Thomas,markt@apache.org,Mar-1-2022
+2739565fa5286623e8bb31823770595de14b6370,remm,remm@apache.org,Feb-28-2022
+ec713e7981c150ea51b16385645375169ce4511f,Mark Thomas,markt@apache.org,Feb-28-2022
+1de88961ba73e191bae629142d8ec26a9adf9c88,Michael Seele,mseele@gmail.com,Feb-22-2022
+afa662d7d71747769d1a97c999d696883859a5d0,Mark Thomas,markt@apache.org,Feb-25-2022
+d6c5b3a4cd758e87b239b8a65765e88f6c93e809,Mark Thomas,markt@apache.org,Feb-24-2022
+7a833bb5df65b1bf40242a7f26d32cf38f3941b8,Mark Thomas,markt@apache.org,Feb-23-2022
+0b7ae7c344832402ead0181e59632f91d929fe86,Rainer Jung,rainer.jung@kippdata.de,Feb-22-2022
+f19437958335af1dd0538ee0bbe1e96ebf7a327b,Mark Thomas,markt@apache.org,Feb-22-2022
+7c54e369e87f1eedd50e42f895c2b0cd058e30b8,Mark Thomas,markt@apache.org,Feb-21-2022
+c3518215621e08e8b1a8afac2f1e6c4c73ef1218,Mark Thomas,markt@apache.org,Feb-21-2022
+0a908ba658d5ca8b428e3d77038d0a7d24bdf687,Mark Thomas,markt@apache.org,Feb-21-2022
+3c19057475cee44899afbfcd1be07ff8a7cb6deb,Mark Thomas,markt@apache.org,Feb-21-2022
+ed9437e29a0da93061bb141027715f761f2282eb,Mark Thomas,markt@apache.org,Feb-19-2022
+f12969d420f098870c4bcac3eec271852874c407,jiangtao,jiangtao69039@gmail.com,Feb-18-2022
+503bdb0663c4b4a066f712cfc689814f4cdea4e4,Mark Thomas,markt@apache.org,Feb-19-2022
+cca584fcd11801ae93ed49cd9f3b98b9ac31ab88,Mark Thomas,markt@apache.org,Feb-19-2022
+63676d8dbcccd5353bdad20921feda5b2e01a7b5,Mark Thomas,markt@apache.org,Feb-19-2022
+99dad4e5176b08bba3a2af9d51fc7aa9d8a44c60,Mark Thomas,markt@apache.org,Feb-19-2022
+3b53c5fe78215fddc9fa0df4ba455afdb0013a73,Mark Thomas,markt@apache.org,Feb-19-2022
+f44ebcf13239436a16b2cd4891cf4f7e96ec5bfc,Mark Thomas,markt@apache.org,Feb-19-2022
+3af116c2d5b2cb0ec0bfe1eee63d76d0a362fbbb,Mark Thomas,markt@apache.org,Feb-18-2022
+5a59b77e845a4ccdb7e5f13572fa4589c762e421,Mark Thomas,markt@apache.org,Feb-17-2022
+a82e8c6c887eacc04062a94f26ff8c935e39d934,Mark Thomas,markt@apache.org,Feb-16-2022
+aea0e1ce1a49eae90f91b49b8fddcfa08678b14d,Mark Thomas,markt@apache.org,Feb-15-2022
+3b664f114f8a0342ea82eae9769eaa3aa2fef6a4,Mark Thomas,markt@apache.org,Feb-15-2022
+d4f16663214ef6ce2c46892db4c20a505df74aff,Dmitri Blinov,dmitri_blinov@mail.ru,Feb-13-2022
+2d076f5136097f710e6e8dc80816c6841333e897,remm,remm@apache.org,Feb-14-2022
+5569e41c1412d0495f0685d2989055582347b414,Mark Thomas,markt@apache.org,Feb-11-2022
+c521dc50c85c7ee8b458282a9c90c150ebab8e84,Mark Thomas,markt@apache.org,Feb-11-2022
+6a0dde03effe2ff5795cc8a9b3fb915b0dfbce0d,Mark Thomas,markt@apache.org,Feb-11-2022
+71acd043f33f4f12fd5fd40d66beb9659bc9b682,Mark Thomas,markt@apache.org,Feb-11-2022
+c1c4ee5d67980b2f8de28bb42932faf8d4ebb1c5,Mark Thomas,markt@apache.org,Feb-11-2022
+164da636d9414c85b29549c76bc13e09535052f7,remm,remm@apache.org,Feb-10-2022
+e276edcee0dd2747909ac7f87e10f3bcf3182413,Mark Thomas,markt@apache.org,Feb-10-2022
+a754fc05208215bde7016c0e274b0f845dc457e1,Mark Thomas,markt@apache.org,Feb-10-2022
+e2c0fe327a96258aec6391be3b69b75a7ad8e45d,zhenguoli,zhenguoli@yandex.com,Jan-19-2022
+c3bd12dad649a211f981a0674625d2a45b768491,Mark Thomas,markt@apache.org,Feb-10-2022
+d768a915f5c2ba456d0776c04db4e54ea982a7d4,Mark Thomas,markt@apache.org,Feb-10-2022
+113be8f7e133af77a81d381769bacc0584e29eb8,Mark Thomas,markt@apache.org,Feb-10-2022
+ca8e2c2529b59270b3ee67286cea59ee4e6780f0,remm,remm@apache.org,Feb-10-2022
+fd0775cbd47793b98e5479b3e319fa86b4105a30,Mark Thomas,markt@apache.org,Feb-8-2022
+c3edf437da20af0f11edc0ad6d893399b01e6287,Carsten Klein,c.klein@datagis.com,Jan-12-2022
+7a33227760aa64dd50f2784923b9f0c849975d68,Mark Thomas,markt@apache.org,Feb-7-2022
+312c3c86d28fff2b28f46cf3ac21de6b2f7fcd6f,Mark Thomas,markt@apache.org,Feb-7-2022
+4a32a6d0fe66cbc496e618584be4d167c72e1c16,Piotr P. Karwasz,piotr.github@karwasz.org,Jan-28-2022
+82dbbdd1b9dd80d211bc99d00aab31a4031a4e2b,Mark Thomas,markt@apache.org,Feb-3-2022
+084ca270fafb9b0cc3dfac1c9d56e78115dd4d5a,Mark Thomas,markt@apache.org,Feb-2-2022
+8c6fdce52467fabb8f05cdd0298c75ae26606c64,Mark Thomas,markt@apache.org,Feb-2-2022
+5d4939e0dc0986b1d0672aa42bca790371250b62,remm,remm@apache.org,Feb-2-2022
+f4a0936fd55de2f5c6dcdf4352c98406f402fef4,Mark Thomas,markt@apache.org,Feb-2-2022
+5515c061b93c82df8af3bf683d3ee2ec3a6733dc,Mark Thomas,markt@apache.org,Feb-1-2022
+bfb8f5745023f034810e26ead9fbb460a37e8517,Mark Thomas,markt@apache.org,Feb-1-2022
+46932f0e928f7ba8acba9fa6c07d17e18bebdb7b,remm,remm@apache.org,Jan-31-2022
+da7d3b12be19df0408bc22dd0f2b7d507f432921,Mark Thomas,markt@apache.org,Jan-31-2022
+080a68535d9a402c9c6630e0937f5b3aa9b6c04e,remm,remm@apache.org,Jan-27-2022
+eda77cd88b84d6002d9efb818e6d3fbc241e2284,Mark Thomas,markt@apache.org,Jan-27-2022
+a05603de0fc5ae1ee60d41ea8677f96818a9b11f,Mark Thomas,markt@apache.org,Jan-26-2022
+841b4b94955877ef8abba1c88d0f5e174a37f603,Mark Thomas,markt@apache.org,Jan-26-2022
+fd935d4195744cfe712ab3d179b581c775332d7a,Mark Thomas,markt@apache.org,Jan-24-2022
+dd712d21c5908ea82f34577f9315906616deb553,Mark Thomas,markt@apache.org,Jan-24-2022
+925527b436586477d9231172dc6542b21b8dd537,Mark Thomas,markt@apache.org,Jan-24-2022
+bb1c10107f7013d17ba217800b9faba19bfaffb4,Mark Thomas,markt@apache.org,Jan-20-2022
+66198545717ed07f3638a6f50f6f4f08bbfc40d1,Mark Thomas,markt@apache.org,Jan-24-2022
+fc7c4136c9bd74825993c8b8536d7a6305977292,Mark Thomas,markt@apache.org,Jan-24-2022
+52f627ee0b2867c5597251ee7982b458783efae4,remm,remm@apache.org,Jan-26-2022
+c744a4f60bc2cd7802c74d68816ced494bc2a41e,Mark Thomas,markt@apache.org,Jan-24-2022
+bf594edcc753076d1710c395dfc50a198d32bfcc,Mark Thomas,markt@apache.org,Jan-24-2022
+ee9b1c687406f3f52e99df1de121cabd2a1935bd,Michael Osipov,michaelo@apache.org,Jan-24-2022
+1710c7ba940f114a11fbc7fe8f10b2c68d95d9b7,Michael Osipov,michaelo@apache.org,Jan-24-2022
+6d98039429ce3a13979c7964a747cdcd422ae864,Mark Thomas,markt@apache.org,Jan-20-2022
+720af73e970a225e68005455a0191cbea53e667a,Mark Thomas,markt@apache.org,Jan-20-2022
+97ce57ac226a803070301f0234008f273ef39e13,remm,remm@apache.org,Jan-20-2022
+c0ffa1f3bd51b51059306e14457c856d718aac77,remm,remm@apache.org,Jan-20-2022
+11de0bae6933b083bd11ce488a76020683b041fe,Mark Thomas,markt@apache.org,Jan-20-2022
+bbab94ed3804e5df686febeb284d6a814f81824f,Mark Thomas,markt@apache.org,Jan-18-2022
+929a34cf8e1b9cad97324734dbfeda5a6dce3207,Mark Thomas,markt@apache.org,Jan-18-2022
+21aa5c058639140211b5af5632b4a246cf42a79a,Mark Thomas,markt@apache.org,Jan-15-2022
+c5fda809d2344d76aab21e5902fff797fd19880c,Mark Thomas,markt@apache.org,Jan-15-2022
+c7ffd2ca0f016ad0883b6a459cf94be94d0bdbe1,Mark Thomas,markt@apache.org,Jan-14-2022
+f0797a8f7ccad15e939889167bd45f097b8ab4ca,Mark Thomas,markt@apache.org,Jan-14-2022
+1ea67f5b70cc75a6523bc6eb2cad0a1067523dc9,Mark Thomas,markt@apache.org,Jan-14-2022
+19403f341af9c82dac613f3f31ff26294d5c68fd,Mark Thomas,markt@apache.org,Jan-14-2022
+b2426b4dc9ad586184543c79e91ebc6fc71bb5c4,Mark Thomas,markt@apache.org,Jan-14-2022
+ed4f3c7a28419863f947e75b831acb6693f6ad5f,Mark Thomas,markt@apache.org,Jan-14-2022
+a5e931d429f05457d7163f3fd535b6020fbabce2,Mark Thomas,markt@apache.org,Jan-14-2022
+6aff39633bf6d8abf6de0ebed420e8ac09ce96b3,Mark Thomas,markt@apache.org,Jan-14-2022
+df7f664caafe53c118b35fe02a3bc3b4595edf33,remm,remm@apache.org,Jan-13-2022
+6cec219484e712cbdfcf8334bb7cf03d77f629bb,Mark Thomas,markt@apache.org,Jan-13-2022
+0188b6d8f326aa83dabeeefe18d70a5b92fbbace,Mark Thomas,markt@apache.org,Jan-13-2022
+71e9d687f01e67b2d802ef5296271daedf80c562,Mark Thomas,markt@apache.org,Jan-12-2022
+13370ee7f2bc287ac37a93adeb10d7b7399b4019,Mark Thomas,markt@apache.org,Jan-12-2022
+bfa944b35922a8adedfa3cadbf9c125cbf4e38f7,Mark Thomas,markt@apache.org,Jan-12-2022
+ddb789e2ca8a2a276dd867ce1a4f3221861f44f6,Mark Thomas,markt@apache.org,Jan-12-2022
+bcdb7d020fbeb114cccb8fff09ba8b9ec854e4a7,Mark Thomas,markt@apache.org,Jan-12-2022
+70da1aaa51e0f9d088438e9d958812a144e12754,Mark Thomas,markt@apache.org,Jan-12-2022
+ede3616678956c1b50602deb2e352dbd5f92b62a,Mark Thomas,markt@apache.org,Jan-12-2022
+bb74265483704d8373a400b3f314b95719b4a5fc,Mark Thomas,markt@apache.org,Jan-12-2022
+83bb6fc94b1e37613785375db6b4831466293bbb,Mark Thomas,markt@apache.org,Jan-11-2022
+644c904205194e09a9c8e8d16bfd01d341a8ed2d,Mark Thomas,markt@apache.org,Jan-11-2022
+02a1284037e2a4c5ac1e75daf2819740edfe580a,Mark Thomas,markt@apache.org,Jan-10-2022
+49dd3b0bceec16942c945c4ccc6433f42f7fa328,Mark Thomas,markt@apache.org,Jan-10-2022
+087eb420a04e3c8dd80a5eb577b522451909c061,Filip Hanik,fhanik@pivotal.io,Jan-3-2022
+5d6444553eb1139d90dc32987df98a06a30b5705,Mark Thomas,markt@apache.org,Jan-10-2022
+93759327a4ba74c30414c7e4f99a5eceb0253b6f,Mark Thomas,markt@apache.org,Jan-10-2022
+629518d613561b4fdf9cf3e1b30b66605886ff46,Mark Thomas,markt@apache.org,Jan-10-2022
+c760349e41d26b3bde61699e568a8178f9b6ed10,Mark Thomas,markt@apache.org,Jan-10-2022
+3ce7bccc8c5ec555b3301bcdac01298ecd971605,Mark Thomas,markt@apache.org,Jan-8-2022
+bc564641b782a27bcf0042e453e9f4ccf44b02ea,Mark Thomas,markt@apache.org,Jan-7-2022
+d909c709b639e9670edce2581293afb9626d7b5e,Mark Thomas,markt@apache.org,Jan-7-2022
+212ca30334a5308aae914e43d87046e225557c4a,Mark Thomas,markt@apache.org,Jan-7-2022
+fe909bad46150ffb9dcd436c0095ab97c20a2745,Mark Thomas,markt@apache.org,Jan-7-2022
+d871a229da1408520614c87fd1f50af5c0d639ca,Mark Thomas,markt@apache.org,Jan-6-2022
+16d8754189808e771b8d6f0ad7dbd227aa5b9ef0,Mark Thomas,markt@apache.org,Jan-6-2022
+423757e6e2912c4ab5b5591c5a823c4713238a6c,remm,remm@apache.org,Jan-6-2022
+0a9afdfa6a481b29a954a67cf6ea352043201ed0,Mark Thomas,markt@apache.org,Jan-5-2022
+092b7e1092f3fca3ac6dc26753ccb1a4815ce9ce,remm,remm@apache.org,Jan-5-2022
+aa48dd90c654c778c224e4e4e827a4dce6a56305,Mark Thomas,markt@apache.org,Jan-4-2022
+bd0657cba1c42366e8b2495435e1b17dbd2d8706,Mark Thomas,markt@apache.org,Jan-3-2022
+ca4f2989465f4ead1e24ebccda0ab71379164798,Mark Thomas,markt@apache.org,Jan-3-2022
+d34f930800104bca336fd19b950e334fd90f3866,remm,remm@apache.org,Jan-3-2022
+e2c2d39ba7fc232badecb9e4d4ca252b780419ab,remm,remm@apache.org,Jan-3-2022
+18b4c0f505e5d7b40f28defea36732146cd67159,Mark Thomas,markt@apache.org,Jan-2-2022
+cad3456ae193521b28f1b17a409f8cd7cb908e81,Mark Thomas,markt@apache.org,Jan-2-2022
+cf251fcb8bc699a2629d4b84547ee59896ee94a2,Mark Thomas,markt@apache.org,Jan-2-2022
+6574bbe5eff6a7712e8ce80e223bcdc6b8fb2ca9,Mark Thomas,markt@apache.org,Jan-2-2022
+0bf4b32b3c2c600146fd91e554227ea55351e90c,Mark Thomas,markt@apache.org,Jan-2-2022
+bbdd6795210ec996feec9fd978c5606d69ffe2cc,Mark Thomas,markt@apache.org,Jan-2-2022
+9a3ae9da65513077a96442d51f68eeb93fac9a6f,Mark Thomas,markt@apache.org,Jan-2-2022
+45f641f50a4866a0218e0052808273c626707182,Mark Thomas,markt@apache.org,Jan-2-2022
+0f6657c9a5dd030b5cab07567ac06469553a7aba,Mark Thomas,markt@apache.org,Jan-2-2022
+3e93b3ec27e9752a7a7930bcbc97319ef8bf3924,Mark Thomas,markt@apache.org,Jan-2-2022
+278ea5ef38707ccb07b7ad274a3fe6a2ea407791,Mark Thomas,markt@apache.org,Jan-2-2022
+b8bbf309f98a1a86703a55f161549013a94a7d6b,Mark Thomas,markt@apache.org,Jan-2-2022
+5140760a3853ef0ced5d2a1c51349a98a2f62905,Mark Thomas,markt@apache.org,Jan-2-2022
+9c377b604f5396d9dede252a27eb76e43c750898,Mark Thomas,markt@apache.org,Jan-1-2022
+29a6511192a35689ac267ad75617edafa120f0f2,Mark Thomas,markt@apache.org,Jan-1-2022
+b15e5310db2af31935851fb5c6ebbf8fc9bca6ce,Mark Thomas,markt@apache.org,Jan-1-2022
+be99e0405998dbdc6c6bbbb8412c8780a0a64930,Mark Thomas,markt@apache.org,Jan-1-2022
+2e0f2783bbc511f2dc847659516d22872102fc5f,remm,remm@apache.org,Jan-1-2022
+8915129164e12799b5da414d75f4fefb6638d5f8,remm,remm@apache.org,Jan-1-2022
+f2e57c94034d515e340eae275c1fa4f05804228e,Mark Thomas,markt@apache.org,Dec-31-2021
+a92cd821994787d3667aca77f329ff778068f343,Mark Thomas,markt@apache.org,Dec-31-2021
+432c5fcf8a1e5d4108e79603a7898392e9f40f8f,Mark Thomas,markt@apache.org,Dec-31-2021
+e223badb2b5e3cc9e31022951cda1ee4737b4197,Mark Thomas,markt@apache.org,Dec-31-2021
+973ca05455a699474bd57970a804d723a6ad5f7d,Mark Thomas,markt@apache.org,Dec-31-2021
+2492195e2b899472ab958e24acd9fbbe54d62011,Mark Thomas,markt@apache.org,Dec-31-2021
+f52fde372b0a68c09e0f60a7d8c9ac14f6421ac6,remm,remm@apache.org,Dec-23-2021
+08947203ce75072df68f3a7ef87e3a581314310f,remm,remm@apache.org,Dec-21-2021
+ec03e1e9e47da3339faa1252a6f5432abf1b3e9e,Mark Thomas,markt@apache.org,Dec-21-2021
+7aabd5346ddc509812941d3a9203414224720aa8,Mark Thomas,markt@apache.org,Dec-21-2021
+e03da0f2245af6381fd5081ef5f7436a740b8dec,Mark Thomas,markt@apache.org,Dec-21-2021
+714236af3458f030ec598660fa5fa886cd63dbd0,remm,remm@apache.org,Dec-20-2021
+d312165d13445972b276ec5d696f249cbc1b2f58,Mark Thomas,markt@apache.org,Dec-16-2021
+28b6cec455cb970260c7559790c944b4cb981158,Mark Thomas,markt@apache.org,Dec-15-2021
+302fcea312947f5b076c2b61da62f52c0dd56588,Mark Thomas,markt@apache.org,Dec-15-2021
+6f9eb19a47ed8d414d718a782d671daa345d5940,Mark Thomas,markt@apache.org,Dec-10-2021
+0be5c8d8b24ef961a97d55535689e7520c60921b,Mark Thomas,markt@apache.org,Dec-10-2021
+072fcce0ef6569e4c6110a505c91799e21fc5e30,Mark Thomas,markt@apache.org,Dec-10-2021
+1fd977d6947b3c44462f7695f79c33804eb0369c,Mark Thomas,markt@apache.org,Dec-10-2021
+ec74b018451f8df0b81fa156db23f1fd97b9aec0,Mark Thomas,markt@apache.org,Dec-9-2021
+9014d75c9d1265ece592f53d4cb18a7634c6f405,Mark Thomas,markt@apache.org,Dec-9-2021
+bb432a0fea83f424b013267ba7675c5d636a465a,Mark Thomas,markt@apache.org,Dec-9-2021
+004a45f45c50f5cff765159c200e0ce339d0e972,remm,remm@apache.org,Dec-9-2021
+f8dd1fe742bc404578efe52a6c1b9ae5fbd058c3,remm,remm@apache.org,Dec-9-2021
+9ce58fd70bc5d8b7cbcff06b6bc07b718ded47b1,Mark Thomas,markt@apache.org,Dec-8-2021
+5fa161107bd53612432d995357ec8b1c3ee46299,Mark Thomas,markt@apache.org,Dec-8-2021
+2c5cea02157c3730ca498e0e26422dcaea5b8d4b,Mark Thomas,markt@apache.org,Dec-8-2021
+54586a129506d41f4c3d6000d20d22ee67d30289,Mark Thomas,markt@apache.org,Dec-7-2021
+744333edb6de7fb71ff4fb4159d7674712325f55,Mark Thomas,markt@apache.org,Dec-6-2021
+ffe42125b38ff95f0f65cdc784a19bc1772a9ae1,Mark Thomas,markt@apache.org,Dec-6-2021
+28f5e2967824d67a85b0fab4370e3dc25bf9b07e,Mark Thomas,markt@apache.org,Dec-6-2021
+9423340fef454c1cb865d374a62a68d7697d2fa2,Mark Thomas,markt@apache.org,Dec-6-2021
+38f54b96cdc178c2442387cc0a1483729f8c4ba0,Mark Thomas,markt@apache.org,Dec-6-2021
+b2154c7b618c9fa9dc6c8a169ce076bf0b3b53f8,Mark Thomas,markt@apache.org,Dec-6-2021
+31c88c79a8bcd8dea4bcdfc0258f7933edecf62a,Mark Thomas,markt@apache.org,Dec-6-2021
+29c45d750fbfce7f474f3011ba0772310f366dba,Mark Thomas,markt@apache.org,Dec-6-2021
+ecda61a54e6755263349a12607eff73e8f579aa8,Mark Thomas,markt@apache.org,Dec-3-2021
+51760c6608d4c41ef39e8a30dfe89759f8b65679,remm,remm@apache.org,Dec-3-2021
+0fd5a5495d3535f00cd9ff187fa97566c889fdab,Mark Thomas,markt@apache.org,Dec-3-2021
+9d9221b157a376b4bc91a155903ec10bcae0589a,Mark Thomas,markt@apache.org,Dec-2-2021
+6254c8e54e5239423ad53b6bd862a4e9be634748,Mark Thomas,markt@apache.org,Nov-26-2021
+a58d8cd5e8c585d5b0386c97d97bdb1cfe5f25ac,Mark Thomas,markt@apache.org,Dec-2-2021
+e4540f0d03f6ff6aa572984f55cc69a232d73032,Mark Thomas,markt@apache.org,Dec-2-2021
+7db00b2e2a79d637857e092a8d68321db480b476,remm,remm@apache.org,Dec-2-2021
+8d8b3dfd9f195b137cb43be9a683f77f3a9e16ec,remm,remm@apache.org,Dec-2-2021
+b8a39abd65540c2a6147a4f7d76f079da2f2da79,remm,remm@apache.org,Dec-2-2021
+1320a0aa934bdc3a721201eea405c16592c61dac,remm,remm@apache.org,Dec-1-2021
+41ec23a78bc0522db9cc5e4e1a71face73461109,Mark Thomas,markt@apache.org,Dec-1-2021
+b42d2ed4b1bfc1d70b12351943dc63a46c6b7172,Mark Thomas,markt@apache.org,Dec-1-2021
+9764aa418a7c827b6686f9bc0e5a942f73bddb4c,Mark Thomas,markt@apache.org,Dec-1-2021
+5782322afd31adf98b72288f99965c6811dcdcdd,Mark Thomas,markt@apache.org,Nov-29-2021
+2ac59cbf8469eef503b50849476fb9bd372f0057,Mark Thomas,markt@apache.org,Nov-29-2021
+c20fe6a58697bd987c38a46bffbc9f6e1bda3f43,Mark Thomas,markt@apache.org,Nov-29-2021
+205958753e1225b00003567f84286dabc9268de3,Mark Thomas,markt@apache.org,Nov-26-2021
+02d70ffed1e683ad1b4300c7b29a363d4a1d5326,remm,remm@apache.org,Nov-26-2021
+6e21c5d4c237348a6568eba5a71d457cf6b16a46,Mark Thomas,markt@apache.org,Nov-25-2021
+142b72aab616e6e2f3f2039ff89de7ef32cd525e,Mark Thomas,markt@apache.org,Nov-25-2021
+72fdb26a5511b51471cf5042e3750febf1994e4a,remm,remm@apache.org,Nov-25-2021
+aabe992723ec0c8f718e86e2a942ac4e3f75d216,remm,remm@apache.org,Nov-25-2021
+c2a56ec131db596265ccc9ffce3bbf34818f7c1a,Mark Thomas,markt@apache.org,Nov-25-2021
+6d84fe760ec58527719222614f9a7fbfea7e664a,Mark Thomas,markt@apache.org,Nov-25-2021
+f03933faf8e54ed2b75607ca47200ec2a410ec52,Mark Thomas,markt@apache.org,Nov-25-2021
+aeb5b5477ecbe6efe08c33843e70b82ab4090d45,remm,remm@apache.org,Nov-25-2021
+3e42a98e88d1f3a1fd3b1a38e7d9bbc3aac2436b,Michael Osipov,michaelo@apache.org,Oct-29-2021
+717d69c4808718341129e1c0669bf01af8cd7b43,Mark Thomas,markt@apache.org,Nov-25-2021
+a23c096336636a970e82cd4b6cab5f3f975e9284,Mark Thomas,markt@apache.org,Nov-25-2021
+46debaa2af3f397758d0eafd8a21878ed85f8770,remm,remm@apache.org,Nov-24-2021
+f608410811cbfff0df9c5d584c99d161ff7ee527,Mark Thomas,markt@apache.org,Nov-24-2021
+7639bd0f6bb90436c19fed8e04ff7a4e8e5e544e,remm,remm@apache.org,Nov-24-2021
+49df1a2e8d7c92981ed679d1afc10cba231c61c2,Mark Thomas,markt@apache.org,Nov-24-2021
+89fb981cda537ed4b7a2955a2eba7402e7e32dc5,Mark Thomas,markt@apache.org,Nov-24-2021
+2b0a03f5ff3dc40db1018f2aad4883e508147513,Mark Thomas,markt@apache.org,Nov-24-2021
+5d6531768774db49f0457565f886bc7018db9390,Mark Thomas,markt@apache.org,Nov-24-2021
+78338b9cd08971eccae06f920660356bb021c8a0,Mark Thomas,markt@apache.org,Nov-24-2021
+b0795bf01436e99d27dde7faa4cf460639bf0a1f,remm,remm@apache.org,Nov-23-2021
+1f56910cf16b895857d3313f79ddd149774f5dc8,remm,remm@apache.org,Nov-23-2021
+d1405b289f8c62f6fc8e4ddd815643471473e762,Mark Thomas,markt@apache.org,Nov-23-2021
+af6eb5ebe7411c2c5c1d7266b1cb6df8f70e109e,Mark Thomas,markt@apache.org,Nov-23-2021
+6d83a3317f545aa69fb560d60b99fdf2b16f058d,Mark Thomas,markt@apache.org,Nov-23-2021
+c64762a265f060a06d337d0f8b4a517654078a9b,Mark Thomas,markt@apache.org,Nov-23-2021
+00755ef596f3d1d1dd424ef73b848b08d9a23af9,Mark Thomas,markt@apache.org,Nov-23-2021
+09a8c07110750c89a89bbb823a0cb6cf11fb46fd,remm,remm@apache.org,Nov-23-2021
+88e43fe09feee457d5896220e63ee591aa859cad,remm,remm@apache.org,Nov-22-2021
+5de0b182a51c77c0335096572dfc250d2896d659,remm,remm@apache.org,Nov-22-2021
+d78c7193f171fa4e75f2503b3c0173b7e37d0cee,Mark Thomas,markt@apache.org,Nov-22-2021
+808e0cb47bc428404e58775606bbe933193340f4,Mark Thomas,markt@apache.org,Nov-22-2021
+5a55179a049ec39246c8ba76073ab4485542b98c,Mark Thomas,markt@apache.org,Nov-22-2021
+f9e8d2b09f9e9a6c02c674c1464fb5abf68fb000,Mark Thomas,markt@apache.org,Nov-19-2021
+a791804b0951da1a67c026926345d6b7191273fd,remm,remm@apache.org,Nov-19-2021
+d83479efe35e15125a3be781c9670269abe74bfe,remm,remm@apache.org,Nov-18-2021
+248e9b74c9ccb8fb7b5072acd932f9deb3e979fb,remm,remm@apache.org,Nov-18-2021
+c3412ad28f72cbaf024967978c1c1690d3c5a27d,remm,remm@apache.org,Nov-18-2021
+e44bce996489db31d710d189ba51ef0649379df3,Mark Thomas,markt@apache.org,Nov-18-2021
+1062cf4527f15c8c4cd679b3fa2bbe57adcf3441,Mark Thomas,markt@apache.org,Nov-18-2021
+5ce0239ceed91275cb353d0c2a7bb0c323b0dd22,Mark Thomas,markt@apache.org,Nov-18-2021
+bdb3c4589fb28ca121c032dafaa0170cb29ee7eb,Mark Thomas,markt@apache.org,Nov-18-2021
+99d35599fa16dfa1f9bedc021b30ba3e1bf658f3,Mark Thomas,markt@apache.org,Nov-18-2021
+e028cad86598fdee037363ae694911231f0df3bb,remm,remm@apache.org,Nov-18-2021
+fdc4c79b4747b3560f4f16268fbe021296e5e929,remm,remm@apache.org,Nov-18-2021
+27630c4d28f04c7748b926df6b7678840beecc19,Mark Thomas,markt@apache.org,Nov-18-2021
+b994e15dfc3f7b5f98ba9e0f9b3a4bdc7a32c767,remm,remm@apache.org,Nov-18-2021
+590877b9b7063973606013614c6eff609df925a5,remm,remm@apache.org,Nov-18-2021
+475dc42f61ab2844dc0e06d79ad4dd42be955d95,Mark Thomas,markt@apache.org,Nov-18-2021
+d03cfcf3b0d6639acb2884f1bbea5f2f29b95d91,Mark Thomas,markt@apache.org,Nov-17-2021
+e28fdd3e611ac7c057eda906570ee0cb61542e56,remm,remm@apache.org,Nov-15-2021
+e296a915849ff5ef0eec537ab04bba577d3bf0d3,Mark Thomas,markt@apache.org,Nov-15-2021
+3bc9941330ab4c58e7339883e7cb90af6843e387,Mark Thomas,markt@apache.org,Nov-15-2021
+69b668d9cc764e5bfaeac27aca493710d07cbbb1,remm,remm@apache.org,Nov-15-2021
+eb680be080ecafbb094602e49c4e23af9b8df1cc,remm,remm@apache.org,Nov-12-2021
+19dbd09652ee8b380cdbe02a6be25f0a062f61c2,Mark Thomas,markt@apache.org,Nov-11-2021
+b59e88c985c008530705a70d950cc9ef1033c495,Mark Thomas,markt@apache.org,Nov-11-2021
+aac82181b5ca57bd7cb33a86f8b6c22725912a3a,Christopher Schultz,chris@christopherschultz.net,Nov-11-2021
+894173209a539eb2b70e7bfb305483c6fb5d5919,Mark Thomas,markt@apache.org,Nov-11-2021
+41e348d28576ec5dc4fafc01a7d565abc73fa417,remm,remm@apache.org,Nov-10-2021
+cb06e16a6cd30e32878598c5092edce22ae41e8d,Mark Thomas,markt@apache.org,Nov-9-2021
+322a9aba6f891f0e11e2aea8fb99894b595e07a0,Michael Osipov,michaelo@apache.org,Nov-8-2021
+48df7be04c8b2654c8673acfcaecb8c05ba85c11,remm,remm@apache.org,Nov-9-2021
+22d06ed6c72cd8964b6f5314535cf31cbcdadd4f,remm,remm@apache.org,Nov-8-2021
+e88f5c8384aab73ea7fcbe94e225f795db40ac1f,remm,remm@apache.org,Nov-8-2021
+1a7679ae964e5f38f6a18f8569ee137087f6269c,Mark Thomas,markt@apache.org,Nov-8-2021
+f3ebf6beef5520780d5be54e4ebd24a0db3bfea2,remm,remm@apache.org,Nov-8-2021
+b84dc386296ff62fbf42234b032b4c5eac767b16,Poison,tianshuang.me@gmail.com,Oct-19-2021
+e960d3d95ba6b80b2611e283e307831985cc8e55,remm,remm@apache.org,Nov-8-2021
+b15b7130ced07cfe36961531dad4642a422e9500,Mark Thomas,markt@apache.org,Nov-8-2021
+3ec02e372e93590b3f86c39acbd3f25c5078ea4c,remm,remm@apache.org,Nov-8-2021
+9cb0ce1f88f35a0b9219c479881fbd74c559dfe9,remm,remm@apache.org,Nov-8-2021
+43d47bd93d2df7e2f47c8cc92fb354e7c94f39a0,remm,remm@apache.org,Nov-8-2021
+baba920c234359e1e0f82d60be6c0a279679ce8c,remm,remm@apache.org,Nov-8-2021
+6cfc64fbfeff719f456f7402731d7f86f84bbb34,remm,remm@apache.org,Nov-8-2021
+0cd1299a5cd326a7ca636686df00b2de0a74eb72,Mark Thomas,markt@apache.org,Nov-7-2021
+415359df48f8011a737ec9dfc9c432b6d4bf8899,Mark Thomas,markt@apache.org,Nov-6-2021
+5af9745ffd2d95e6f0e9910ee2f4b6260db54273,Mark Thomas,markt@apache.org,Nov-6-2021
+804f6c61e05ffe37e950e88fedcfa26e6f105287,Mark Thomas,markt@apache.org,Nov-6-2021
+12087d27d60afdb70b13b0797c7a6794b64208e2,remm,remm@apache.org,Nov-6-2021
+af6f4575253b88a2351a31613fe89853232bce38,Mark Thomas,markt@apache.org,Nov-6-2021
+c5b60161d5a824eefd879da113eb0459714acb9e,Mark Thomas,markt@apache.org,Nov-6-2021
+a862247ef8442ebec536b15f0588040550376c49,remm,remm@apache.org,Nov-5-2021
+98361af1aa07e839ffb041ffcf4fa3235b91e132,Mark Thomas,markt@apache.org,Nov-5-2021
+99b0f34e26cafed121a5e0516887766b1e7a687c,Mark Thomas,markt@apache.org,Nov-5-2021
+a8d6ec017366fd833456b64b4d2387fedee7a5f0,Mark Thomas,markt@apache.org,Nov-5-2021
+66d3baddd305c6545deb32d5e410b0d3f9d5f487,remm,remm@apache.org,Nov-5-2021
+0a4d1ffb64409fde68132436b80502a31f403699,Mark Thomas,markt@apache.org,Nov-5-2021
+ebbb72633660cdde1695170a53d6ebf8abc16305,remm,remm@apache.org,Nov-5-2021
+3f8ba85a55e019f6ffc38b5a5bf87edec75338bf,remm,remm@apache.org,Nov-5-2021
+e61a39c9daaa9b29dd628c0888cc35fea2ad3c7f,Mark Thomas,markt@apache.org,Nov-5-2021
+b1ae8aff68a64b3f81bf848452cddbf71eb48eaa,remm,remm@apache.org,Nov-5-2021
+8f93066a694221255e08c0a58dcf66367a5323b0,remm,remm@apache.org,Nov-4-2021
+8febf73f8caf198ffdf7987138fcbe13b62140e3,Mark Thomas,markt@apache.org,Nov-4-2021
+c985ecf350ed682ed69a1512eea7294ab38dbeb5,Mark Thomas,markt@apache.org,Nov-4-2021
+74bafa3c9dd55b131b6b66094c1a20e2afaba496,David Blevins,david.blevins@gmail.com,Nov-4-2021
+ccdd79778bf5df8d962b55ccc19c1987ef151eac,Mark Thomas,markt@apache.org,Nov-3-2021
+6128c4a689eea23654f7072e431e0a451c38c33c,Mark Thomas,markt@apache.org,Nov-3-2021
+6a4ef49856bd45b4f2c8bda7a5f70be932e336a4,remm,remm@apache.org,Nov-3-2021
+d256b0f2523688123aefce2eb40768e0892fca72,remm,remm@apache.org,Nov-3-2021
+38a141e370183c45e1205c7dc5a1bef0b9a8588a,remm,remm@apache.org,Nov-3-2021
+6cf20b4a83f1e5b2ae86525b6b96389e801776b2,Mark Thomas,markt@apache.org,Nov-2-2021
+fab59e5e07082b067060f16921c028f3d1991ae4,Michael Osipov,michaelo@apache.org,Nov-1-2021
+67743cd39755886f5294f0ccd128b29fff956f0e,remm,remm@apache.org,Oct-29-2021
+9cf742b7dfc74b9cfd82e041736d7509fe7faacf,Mark Thomas,markt@apache.org,Oct-21-2021
+b5e36b22421a10d0d5ba39468a67bbbe6cbd4281,Mark Thomas,markt@apache.org,Oct-14-2021
+fee1f457f287a56d3d490a5ab5b3f643d280ecf5,Mark Thomas,markt@apache.org,Oct-13-2021
+7095d1b9c8910c3bb647f0c496eba13b3aa7410a,Mark Thomas,markt@apache.org,Oct-14-2021
+d33cce6c196efed8e35518711ba27af0a8c93d09,Mark Thomas,markt@apache.org,Oct-13-2021
+c4f881f5b68809139a3ebfeb3121c50bf9be8ea8,Mark Thomas,markt@apache.org,Oct-13-2021
+70d4e9ba0a81a1d782fa50695a18d23f2f1f179c,Mark Thomas,markt@apache.org,Oct-13-2021
+afa370c47dd0642ea41151e7499e2195fcf111c9,Mark Thomas,markt@apache.org,Oct-13-2021
+32a7cfec0f703884ef08406972cdc5d003f0af16,Mark Thomas,markt@apache.org,Oct-12-2021
+45d4cd4bc1af72207a75a31e1ba08718bf6a2425,Mark Thomas,markt@apache.org,Oct-12-2021
+7bff9226f377acd471bc368be71bdded91e97185,Mark Thomas,markt@apache.org,Oct-12-2021
+624793225737daa652c4ad03d6e5bf957f1c27f2,Hal Deadman,hal.deadman@gmail.com,Oct-11-2021
+842a39d42e57950d95fb6e780d8cc00829690e29,Mark Thomas,markt@apache.org,Oct-12-2021
+6b8aeaf80860dd48d5ddd44e866fea5d6072ded3,Mark Thomas,markt@apache.org,Oct-12-2021
+fa64c162a505bf36c0335d713dea5606f9185dc2,Mark Thomas,markt@apache.org,Oct-12-2021
+96533b8b8efae2c13b020c7d5b31cb2d606df10c,Mark Thomas,markt@apache.org,Oct-11-2021
+8b5d5ee1fe8c47e3b80b591fedaddc81e5c51a24,Mark Thomas,markt@apache.org,Oct-11-2021
+3d60c5edc601bbb7f671d48bb4b7e77057dcaf48,Mark Thomas,markt@apache.org,Oct-11-2021
+d92a26ce75bf187a7dd5e24b27506a581a094b7a,Mark Thomas,markt@apache.org,Oct-8-2021
+cf43fa01d03e5acc1bf3244bd6a2a6b060c86ef6,Mark Thomas,markt@apache.org,Oct-7-2021
+897f4f6f862904379662e215d3dc9d956fb5652f,Mark Thomas,markt@apache.org,Oct-7-2021
+b505fdcc743c8366627b232c43ab178e6e7f907e,Mark Thomas,markt@apache.org,Oct-7-2021
+0b3c99c4e9c4cdce91a969430b01750291c86c1f,Mark Thomas,markt@apache.org,Oct-7-2021
+434cef97eedab06676f6454075ceb36637695bdd,Mark Thomas,markt@apache.org,Oct-6-2021
+ac0e3d6dc95ec61ade20bfc34839aa369812dcbf,Mark Thomas,markt@apache.org,Oct-6-2021
+1a430530cdf1ed19e966b9c83791937942c2baf3,remm,remm@apache.org,Oct-6-2021
+c3138efaddcbfcdd2f0c1d6930f2f37da562616f,remm,remm@apache.org,Oct-4-2021
+683d32e2f06938af4985b8e1f3e672f71e02b121,Mark Thomas,markt@apache.org,Oct-4-2021
+7691f255245d592e7239cfb430708c236b8eae68,Mark Thomas,markt@apache.org,Oct-1-2021
+0967cd752e32cff35acf3c61477602658f66b15a,Mark Thomas,markt@apache.org,Sep-30-2021
+7c630a7fde51c858c899f5155c21f4462d971ec2,Mark Thomas,markt@apache.org,Sep-30-2021
+0790ba18a513e220de080b5b63555540cc973ff2,Mark Thomas,markt@apache.org,Sep-29-2021
+22e481064be7fae9ee9f5b11d5ef88e5cc5a64e4,Mark Thomas,markt@apache.org,Sep-29-2021
+628d3d37ace3af37ed5d2044c99e1d80321a463e,Mark Thomas,markt@apache.org,Sep-29-2021
+7d225870bba98618e0396b6543ae209af5b259e5,Mark Thomas,markt@apache.org,Sep-28-2021
+3dc97251bfecd5bed27f74ff0f676721227103b6,Mark Thomas,markt@apache.org,Sep-28-2021
+4a53eeeb7dc50eed6f96fa87f4dc1d1027325b16,Mark Thomas,markt@apache.org,Sep-28-2021
+0023329dd62e0f17b7e07dace7b109be84cd6e41,Mark Thomas,markt@apache.org,Sep-28-2021
+3e6abeeec3f88fad7825880a5a963e1be34f6204,Mark Thomas,markt@apache.org,Sep-28-2021
+fa768e3878ae56fbdfadf3a86e1d218e722c459d,t-gergely,8715996+t-gergely@users.noreply.github.com,Sep-15-2021
+4c2f459c5048bca2b350dc3395f4f80475eae244,Mark Thomas,markt@apache.org,Sep-28-2021
+8e2ffdc8ca1ca4abfc862d5097d8e02e35fac289,Mark Thomas,markt@apache.org,Sep-27-2021
+4d719497e5de8226efc55debcb0e24a176fd9bfc,Mark Thomas,markt@apache.org,Sep-27-2021
+8a4eb09453a870891a2bf488faacbcc6de480f89,Mark Thomas,markt@apache.org,Sep-27-2021
+d5a6660cba7f51589468937bf3bbad4db7810371,remm,remm@apache.org,Sep-27-2021
+54411c258acb51dccc37940d27f082b5f7aa5c47,Mark Thomas,markt@apache.org,Sep-27-2021
+4bf1264cc58e4fd09da84c69c732429927cee4e6,Mark Thomas,markt@apache.org,Sep-27-2021
+14ee9683f8543f59a6c3c217a1b68530297873d7,Mark Thomas,markt@apache.org,Sep-27-2021
+4d60e4d8fb8158b42af427b8d7ed0db788295c40,Mark Thomas,markt@apache.org,Sep-27-2021
+f19fe59995cc817b28f1c3d525b20a600890be95,Mark Thomas,markt@apache.org,Sep-27-2021
+529acb8237c3381ff02127496312fc852f84e4b7,Mark Thomas,markt@apache.org,Sep-27-2021
+7769bca25ee85ff7552daccf21b55d8c6cf1f439,Mark Thomas,markt@apache.org,Sep-27-2021
+73ea0979f0d030362ca404b5a50ff906645d711f,Mark Thomas,markt@apache.org,Sep-27-2021
+2fb113fe169fa7153448bf885110707c5585f39a,Mark Thomas,markt@apache.org,Sep-27-2021
+0608beb7fa910b67d2833a197539048222c76d45,Mark Thomas,markt@apache.org,Sep-24-2021
+e11f2ef103fa32eb7ea1243e272dc5d6cf39e91a,Mark Thomas,markt@apache.org,Sep-24-2021
+b22d93f6f66b53319757cd226c32942882e77b38,Mark Thomas,markt@apache.org,Sep-24-2021
+b7c05a8f60003c42e6f367bf307188ce391dbad2,Mark Thomas,markt@apache.org,Sep-24-2021
+4e96884d2e7464e8654b5e06a3c5be24213c56b8,Mark Thomas,markt@apache.org,Sep-24-2021
+7f8f1ca9a0ee8bfd5d7da563b287038abecfbf42,Mark Thomas,markt@apache.org,Sep-24-2021
+015c48b6b537ea3e329a5f23bb68be052b1b0221,Mark Thomas,markt@apache.org,Sep-24-2021
+37bc60c9efed390f662afe0a1d12d2ba0d91ada8,Mark Thomas,markt@apache.org,Sep-23-2021
+f6d14bbc764c293c409cc4b03eb0737cd594cacb,Mark Thomas,markt@apache.org,Sep-23-2021
+0d421d66bb229466c3d10b2679fb9784626a8399,Mark Thomas,markt@apache.org,Sep-23-2021
+5d47c040a6e1d146babd89a5dc02beb3505330b8,Mark Thomas,markt@apache.org,Sep-23-2021
+9001eb630d3596f9047a6671d5a046bd29ca4b2e,Mark Thomas,markt@apache.org,Sep-23-2021
+7eedc518666ed754351c814b806a306a43a38e51,Mark Thomas,markt@apache.org,Sep-23-2021
+5937fddb074a65df202b2aa0b274018c84e2e016,Mark Thomas,markt@apache.org,Sep-23-2021
+739999102cb15eb9dd5feba25dd463fd9219272c,Mark Thomas,markt@apache.org,Sep-23-2021
+ca11d5650cafd197190e950d0e05e8ddf87482dd,remm,remm@apache.org,Sep-23-2021
+e6304ca9f0e08730efb630b498d975545d7ab754,Mark Thomas,markt@apache.org,Sep-22-2021
+60d8274a3fba7853150385eefb29a3422fe7561f,Mark Thomas,markt@apache.org,Sep-22-2021
+5674941dddf60f028fc77f2dea0424bcb0d5c59c,Mark Thomas,markt@apache.org,Sep-22-2021
+1fb7a2c1549bc492357c9477f7dfddc981893b1b,Mark Thomas,markt@apache.org,Sep-22-2021
+3e3c4d9f3f2d8e72a05cae8cae6c4bc9c5a8d735,Mark Thomas,markt@apache.org,Sep-22-2021
+d96e0fc444f3ba0a484632318184c0fcc4353664,Mark Thomas,markt@apache.org,Sep-21-2021
+8dc018ffe0cdc8c7352a41dd24ddb5d072c3a6df,Mark Thomas,markt@apache.org,Sep-21-2021
+c5ffc0638cda8fce02e61dd19c222d0136d694da,Mark Thomas,markt@apache.org,Sep-21-2021
+ab17b97b74ca141813ee1eb1f784089b319dd9e2,Mark Thomas,markt@apache.org,Sep-21-2021
+28aad28a317d262115fcc8afdd4d85e82cab51aa,Mark Thomas,markt@apache.org,Sep-22-2021
+ff7f2c4495598f542be4592f5ec187353a46333e,remm,remm@apache.org,Sep-20-2021
+30c7acbace09716e2ee96039cf01f2c31ada4aef,Mark Thomas,markt@apache.org,Sep-20-2021
+17141fc586510b631102afe498d9dd1e9ceac4db,Mark Thomas,markt@apache.org,Sep-17-2021
+4777f307dee44385a88bc1fe06c7a2e9a5baa11b,Mark Thomas,markt@apache.org,Sep-17-2021
+84f42dce3df07e4640051b1430fca239ff5c45cf,Mark Thomas,markt@apache.org,Sep-17-2021
+93dd0c2e2a15b9e5d37a92b4d435c4f53de3c00d,Mark Thomas,markt@apache.org,Sep-17-2021
+a59bffdd5ace451d5e234abc390e1e5dcc06510c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-17-2021
+f1a49482eb75551e762a12516a5a2e7330ba0879,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-17-2021
+67b2efc1ad0f8bd481b12865a8cf6f794bae36ce,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-17-2021
+2babd6dd10bbd24b0e56cabb558febf4891d043c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-17-2021
+910c67cc198dbb2288ceb639d049deb744b55a67,Mark Thomas,markt@apache.org,Sep-16-2021
+65193458a48af7c966dd10f02d95941a52836a4d,Mark Thomas,markt@apache.org,Sep-16-2021
+ef12a6207b149120e4668b7d988b53ad66c9212f,Mark Thomas,markt@apache.org,Sep-16-2021
+dee5f2c1f744e789ab3a422de79385222d07ba6e,Mark Thomas,markt@apache.org,Sep-15-2021
+0a86874349c08b01a96f3c1f9f1f51dddbb74528,Mark Thomas,markt@apache.org,Sep-15-2021
+7a1441acb6a2c527d97d345e99309e36e1e72a39,Mark Thomas,markt@apache.org,Sep-15-2021
+60baeb2128d72416f13753ce7091b15a537343fa,Mark Thomas,markt@apache.org,Sep-15-2021
+1988fad4b49fa04ffbafe4abe4377617d51d8c49,Christopher Schultz,chris@christopherschultz.net,Sep-14-2021
+d11cf77bb6ec503d3c3ba23eccaae813916ac399,dastan,d.tusupbekov@aster-auto.kz,Sep-14-2021
+928ca931ad7f640f7b745d6ca42dbbefbecfa728,Konstantin Kolinko,kkolinko@apache.org,Sep-14-2021
+aca188a85b607f5fad3457619ed453ba0b7180a7,Mark Thomas,markt@apache.org,Sep-13-2021
+74c27390405e1b57a7a0e34d24bd8df75bb1ceb7,Mark Thomas,markt@apache.org,Sep-13-2021
+dbd137f142385fe2db21f72a04e8a9a789f92ae3,Mark Thomas,markt@apache.org,Sep-13-2021
+74681f56475541ff6069aadb1a88bd4d687e7446,Mark Thomas,markt@apache.org,Sep-13-2021
+3910ab722be9b791533f8662e45cc6b5701c3177,Mark Thomas,markt@apache.org,Sep-10-2021
+878caf69ca333929b31ed821c2a7f2593e785495,remm,remm@apache.org,Sep-9-2021
+0b36542a5175a793c31b34357264c5eb4ef556ce,Mark Thomas,markt@apache.org,Sep-9-2021
+8a9b1c4c14e7ebf46c0c03d9246201647c7eed23,Mark Thomas,markt@apache.org,Sep-9-2021
+8650cbb6104d09d247d7df5848e64ab12a598835,Mark Thomas,markt@apache.org,Sep-9-2021
+39a2f1dd76036215b319aee3f8e577ade0f7b491,Mark Thomas,markt@apache.org,Sep-9-2021
+386912a93f130078f52e7094be3a730cda742121,Mark Thomas,markt@apache.org,Sep-9-2021
+fda4faaaa16233c2d32961f4765b2dd9eb1f4a4c,Mark Thomas,markt@apache.org,Sep-8-2021
+380fb1144b9ba68494b1c42397141ebe21af8a8d,Mark Thomas,markt@apache.org,Sep-7-2021
+4fc7cc94d4fb78ad5bc62ce93f67ba82cb4faac7,Mark Thomas,markt@apache.org,Sep-7-2021
+df9f54f200af06af6df1cf9f5842ccd58ae3014a,Mark Thomas,markt@apache.org,Sep-6-2021
+cdb2b439c8dbcdb88ba10cddb2b2887328008c84,Mark Thomas,markt@apache.org,Sep-6-2021
+6b4c1ff07e3dbd50f0edb7fd67d8fa986bf24aa1,Mark Thomas,markt@apache.org,Sep-6-2021
+6b03614e2810ce70f4e664e35a4b632ab40d63c9,Mark Thomas,markt@apache.org,Sep-6-2021
+49e9bb507a747f8577a98aa44b753ff7ae70d116,Mark Thomas,markt@apache.org,Sep-6-2021
+eb14d8f6749ef9b5cc22c41a31d53e19075acdf2,Hui Wang,huwang@redhat.com,Sep-3-2021
+92ccdb339fff3e3e06d57fd28389ceb9ad9cecf1,remm,remm@apache.org,Sep-3-2021
+791b6afdb3feb6e2a5c1b3b8fd92d4e8361271b4,remm,remm@apache.org,Sep-3-2021
+e9cbd4c2cdb958930fed1cfeabdd3e911fc8b1e6,Mark Thomas,markt@apache.org,Sep-3-2021
+fb6bdb54759e3c596810908db3ee87e1a57b7832,Mark Thomas,markt@apache.org,Sep-2-2021
+d62d35fd746e3c9af0a5b35d1b8ce9d96fc7014b,Mark Thomas,markt@apache.org,Sep-2-2021
+672bde04a1fd37c4c1acae2e2fe3268f8d3260ee,Mark Thomas,markt@apache.org,Sep-2-2021
+304588c1e205309f5025e822b6de14dc39c5180b,Mark Thomas,markt@apache.org,Sep-2-2021
+433a28bb66c06471201d0cc6803b295fdf6f15cd,Mark Thomas,markt@apache.org,Sep-2-2021
+8eb0fa57d9b2161e869984f87a25f25be0f02ae8,Mark Thomas,markt@apache.org,Sep-2-2021
+d2b19276ea9f3781a849b36fc58a8f143f92154d,Mark Thomas,markt@apache.org,Sep-2-2021
+69f6483e67878f502f1af88497968f7d4f66aa44,Mark Thomas,markt@apache.org,Sep-2-2021
+92ad31acce0ab5ddc79ffc6c45a6ba61063f1e62,Mark Thomas,markt@apache.org,Sep-2-2021
+d2e8a3b4c4046ef84fdc18475a652e3027854232,Mark Thomas,markt@apache.org,Sep-2-2021
+fbd85f4cfce632c1e667a295b067dde35a9975b2,Mark Thomas,markt@apache.org,Sep-2-2021
+e1cef2cfc47982c947b5f23a8dae7c71cf1b979c,remm,remm@apache.org,Sep-2-2021
+7eab11a932dbc41df9bfa3aa38a6455246841656,Mark Thomas,markt@apache.org,Sep-2-2021
+6650205974619771f9ffe19d1b7a5490ce468e9d,Mark Thomas,markt@apache.org,Sep-1-2021
+a4490a2af64308cfdd9cc92663fd390380aee1a2,remm,remm@apache.org,Sep-1-2021
+257e5763bddde315791da7ab1852b29905265733,Mark Thomas,markt@apache.org,Sep-1-2021
+f7f39f8e51a18435eda7873a9b304a8728bb0b49,Mark Thomas,markt@apache.org,Sep-1-2021
+2da9e181f8251547425c9fe44b925dbb2f86b2a8,remm,remm@apache.org,Aug-31-2021
+5907d8f284aa50cc970b43dd6352da143c95cd31,remm,remm@apache.org,Aug-31-2021
+7a82963a78a8242b3c8c276de2382594f8a74f42,remm,remm@apache.org,Aug-31-2021
+cd094d8bc7ed46c3410ea4555594738ac6cf5b1c,Mark Thomas,markt@apache.org,Aug-31-2021
+36fa7bd76fc2328c778081b0bb0c34c2a30d345f,Mark Thomas,markt@apache.org,Aug-31-2021
+ba6806966148dc35ef5beef51c69541369fc2d22,Mark Thomas,markt@apache.org,Aug-31-2021
+035eef91372bac71becf6dde6fcd8ba2ad178d64,Mark Thomas,markt@apache.org,Aug-31-2021
+378a1e5f6fb5482e49b61d494da897bca8abe3dc,Konstantin Kolinko,kkolinko@apache.org,Aug-30-2021
+0c1915dd188bc0180cbc918cdc3cba8d40fa7e6d,remm,remm@apache.org,Aug-27-2021
+6382197ad57738dc06209845541c728e584f7c5a,remm,remm@apache.org,Aug-26-2021
+299d061080774d3a898335d11bc981b23caa859d,remm,remm@apache.org,Aug-26-2021
+f969a8f19797e41a70956a66317bdaa72a398158,Mark Thomas,markt@apache.org,Aug-26-2021
+459cbf6bd96a0488f205f090efba34520186066e,remm,remm@apache.org,Aug-25-2021
+3bdd80293fb2b88a8b3df50692a93047261bd082,Mark Thomas,markt@apache.org,Aug-24-2021
+de1b5ecaa1a3c54e3f5e0c067ff3bd0b412c2600,remm,remm@apache.org,Aug-23-2021
+11fca7f383069cfcc0cc5efdbd3e750596c0f0b4,Mark Thomas,markt@apache.org,Aug-23-2021
+4745922c8ddd81d537770c8519f7fa39e239dba3,Mark Thomas,markt@apache.org,Aug-23-2021
+c1a524050f2be7c9d4e74dec4af06180b9fb348d,Mark Thomas,markt@apache.org,Aug-23-2021
+e45117fd14f987c3c7199d1e87c26a02e8fec0e7,Mark Thomas,markt@apache.org,Aug-23-2021
+c7b95cfbb4fe46bda6c4525574d5ba3d4176feff,Mark Thomas,markt@apache.org,Aug-23-2021
+51d82daf6abd008fa811d92f24ff2ffc960fac90,Mark Thomas,markt@apache.org,Aug-21-2021
+f24f27531560a53e363486f998da200557ef7864,Mark Thomas,markt@apache.org,Aug-21-2021
+880d53ebed6ecf30679b3fdb18e4db91645e61d4,Mark Thomas,markt@apache.org,Aug-21-2021
+44d15edec3fa9fbc45136848b65e4219eea1d3ae,Mark Thomas,markt@apache.org,Aug-21-2021
+4f3db0890f6df5929c013e34fd29ad715a94d29e,Mark Thomas,markt@apache.org,Aug-21-2021
+4d62d064019f6e8ca63c82301c8244887ad59708,Mark Thomas,markt@apache.org,Aug-21-2021
+b9ca106b27360bebe21a917da97cf8493474674d,Mark Thomas,markt@apache.org,Aug-21-2021
+b964f07952eaaa83ad523430d540607c4c8f2f63,Mark Thomas,markt@apache.org,Aug-21-2021
+25c2c7a392c4d0eb4c67797bd4fa5b1ce023f6d2,Mark Thomas,markt@apache.org,Aug-20-2021
+a3a6a89a2fcbe5d432640e7b31808eeb591541ce,Mark Thomas,markt@apache.org,Aug-19-2021
+5c1b14a9e34bd965146c4941742ff6221a5110c8,Mark Thomas,markt@apache.org,Aug-18-2021
+314568fa450680711f12f01ee050f2166f4263bd,Mark Thomas,markt@apache.org,Aug-18-2021
+22b076eca050a99a826e461a85d411ac5a6b81ff,Mark Thomas,markt@apache.org,Aug-19-2021
+7a8233880b873782ec8efeee742c7a10b7bec41b,remm,remm@apache.org,Aug-18-2021
+9cc94bd751d90c0a3f65e58198293b88f5318de9,remm,remm@apache.org,Aug-18-2021
+8a106504f8668841c3140ecfd5494879231d0f56,Mark Thomas,markt@apache.org,Aug-18-2021
+49072ffa7d613ca4273712159ef1522f79982a36,Mark Thomas,markt@apache.org,Aug-18-2021
+8e7267d742b48182ab2ed291c987f185d90ef6b7,Mark Thomas,markt@apache.org,Aug-18-2021
+831cf3e39312f8ad63778454c259c26910e93c0e,remm,remm@apache.org,Aug-18-2021
+58ac04aa08182efbf69afc56a28c34fc9294f915,remm,remm@apache.org,Aug-18-2021
+16c684befa797faac0697adb15bd6911f27feed6,Mark Thomas,markt@apache.org,Aug-17-2021
+90da2caa0e186c066b57b01bd1cb7b444436ee2e,Mark Thomas,markt@apache.org,Aug-17-2021
+026f4fcc6db33db0c48bb033496583aec50ca14e,crisgeek,88733156+crisgeek@users.noreply.github.com,Aug-10-2021
+75ba84a8e6f1abbeaf1bf242de8c53bdf4951862,Mark Thomas,markt@apache.org,Aug-17-2021
+263fb37b6507203aece9c8afb77272654cad80d1,Mark Thomas,markt@apache.org,Aug-17-2021
+93f5911c0c80c081e5d080de14f02f35ae637592,Robert Rodewald,r.rodewald@airitsystems.de,Aug-10-2021
+5376d45258b8bf496951a99eab435517d2ed70f0,remm,remm@apache.org,Aug-17-2021
+27b86640335bba9e0e167425102ab916e79e4d3f,Dachuan J,jpc00939@aliyun.com,Aug-10-2021
+38dbc21ce7d5cb2af9780526ba26b607648e7691,Mark Thomas,markt@apache.org,Aug-17-2021
+f53fb52ec1a316f5047dff52c154807bd4c11254,Robert Rodewald,r.rodewald@airitsystems.de,Aug-2-2021
+fa0f2567aae91a13137094ebcdb74d72b8222f3b,Mark Thomas,markt@apache.org,Aug-17-2021
+1da1552abc56a46e6c46113f42fa2624894e2dc5,Mark Thomas,markt@apache.org,Aug-17-2021
+4c1fe3f74021646fa50266b87341a22e05a64226,Mark Thomas,markt@apache.org,Aug-16-2021
+76da8deac37071e8a891580d74ba1322c7a2da2c,Mark Thomas,markt@apache.org,Aug-7-2021
+c4f46fa9d3b1673a461e06c353b145c6ba5d1f67,Mark Thomas,markt@apache.org,Aug-7-2021
+4737645491f3e79fec2f083019dd082d102159b6,Mark Thomas,markt@apache.org,Aug-6-2021
+7725d855aa365d437fe01dff56fe8628106d4dca,Mark Thomas,markt@apache.org,Aug-6-2021
+e0f5aed9075b01392012b8f8e5b0f78bad06513e,Mark Thomas,markt@apache.org,Aug-3-2021
+00824315e5add00118f8d625aafccdfb38aa416d,Mark Thomas,markt@apache.org,Aug-3-2021
+956f2263b68017f0abe6e11458f5ec5555e5dd75,Mark Thomas,markt@apache.org,Aug-3-2021
+0f8a19d16d7bb327b54195df6511291b294579fd,Mark Thomas,markt@apache.org,Aug-3-2021
+4a1165a72b9715fbdd35edc97d6dc319e7a6236c,Mark Thomas,markt@apache.org,Jul-30-2021
+6793c7cdc08be5c70fb82ad44a7950107288dedc,Mark Thomas,markt@apache.org,Jul-29-2021
+c2b9c6a655d269c46c27242930fb6aa9374e84bb,Mark Thomas,markt@apache.org,Jul-29-2021
+09193e0514ac449df454184941bba492d9b20a85,Mark Thomas,markt@apache.org,Jul-28-2021
+b2b9ea8417db3efc6cf8dd6fef877a4639adb9bb,Mark Thomas,markt@apache.org,Jul-28-2021
+6666b63bc4d4b41a23b211196a7be9b98449e93c,Mark Thomas,markt@apache.org,Jul-28-2021
+8e8f634a3da96ff9fca3588bbd09aa833bb91ac2,Mark Thomas,markt@apache.org,Jul-28-2021
+41cb36afc94aacff791630619209a7f6d47f5e02,Mark Thomas,markt@apache.org,Jul-28-2021
+ae4ee893f99f226fe5fdc8e933313e2e759d0733,Mark Thomas,markt@apache.org,Jul-28-2021
+3f6db1c84c71c7adc227428239c44f579dec19b1,Mark Thomas,markt@apache.org,Jul-28-2021
+6190e7a8717bd75c1bcce7b956ef700334812ced,Mark Thomas,markt@apache.org,Jul-28-2021
+b3fea5cd61bca53113677425a2c27788c40d5c1a,Mark Thomas,markt@apache.org,Jul-28-2021
+f7100b436c0ab2ef32f44bc03b841e79897cc710,Mark Thomas,markt@apache.org,Jul-28-2021
+15220d8df73754dcf45ddbab206cadece4644dcb,Mark Thomas,markt@apache.org,Jul-28-2021
+c9ea1d5db0b04b0386b79e5cb0a467fb601c860a,Mark Thomas,markt@apache.org,Jul-28-2021
+3d34fcfacdd155b4abf2801404b896a8b63b5a2a,Mark Thomas,markt@apache.org,Jul-28-2021
+077a41648a321e85c6e60184e4d7a9e87a61d186,Mark Thomas,markt@apache.org,Jul-28-2021
+9adb89886cb8db3d9969173f9c3dae687b32694e,Mark Thomas,markt@apache.org,Jul-28-2021
+b14e9ff3c514078b6e9be29cae8084cd93b56c55,Mark Thomas,markt@apache.org,Jul-28-2021
+2d49e820b93d28695d760fda66c1affa396f1055,Mark Thomas,markt@apache.org,Jul-28-2021
+b758f5cb1475f9d3ed093327d4fe018498e8a6bb,Mark Thomas,markt@apache.org,Jul-28-2021
+bccc5aebd7ceb0894fbe79d0ba0bcee99e8a1a31,Mark Thomas,markt@apache.org,Jul-28-2021
+d26f48db6c18c786158514536b044bef4d05fa0a,Mark Thomas,markt@apache.org,Jul-28-2021
+11079b6b97f3bd1d4ebea7359f8d9b118c1d65b5,Mark Thomas,markt@apache.org,Jul-28-2021
+5b4c11d7180127689a79e554ab969eb8c8ea7c8e,Mark Thomas,markt@apache.org,Jul-28-2021
+e11dd02eab0c541a50f2a5c32b54db0c757cd93f,Mark Thomas,markt@apache.org,Jul-28-2021
+eae15b427288986fd5f735cf185f04ef21d6ee2a,Mark Thomas,markt@apache.org,Jul-28-2021
+5d49fc9ca4e9ce757687051e92c2a6d053744dc7,Mark Thomas,markt@apache.org,Jul-28-2021
+197a0b7bcc8c00e63d29689158b287e77a46aa49,Mark Thomas,markt@apache.org,Jul-28-2021
+33d80f47be95aa64a8ac95ed99e1c3767b2cfe05,Mark Thomas,markt@apache.org,Jul-28-2021
+46cb8c3b407a7628613a4a1f5fed5a0297122c8a,Mark Thomas,markt@apache.org,Jul-28-2021
+15eedf022c8df1e7d4c6a989cdabfab966638eaf,Mark Thomas,markt@apache.org,Jul-28-2021
+21a6cac161e8f6097d119a41611793ea022c9e09,Mark Thomas,markt@apache.org,Jul-28-2021
+e5f340843f746443f4b9b299822101c632473aab,Mark Thomas,markt@apache.org,Jul-28-2021
+816479c961b027890c92704f95eb519f4e6abb85,Mark Thomas,markt@apache.org,Jul-28-2021
+3a062482563222cb86742bf844f5c2fa7ed9fe2d,Mark Thomas,markt@apache.org,Jul-28-2021
+ac62b95775b9c6be628b7aaa8b38f4221bb56473,Mark Thomas,markt@apache.org,Jul-28-2021
+838decd611170bb55810dc948f2be9091c27da7c,Mark Thomas,markt@apache.org,Jul-28-2021
+650a972f671f5edb34263237393438eca89204f4,Mark Thomas,markt@apache.org,Jul-28-2021
+424cd322dc60f9ee63e1175e4cf957353d79b88d,Mark Thomas,markt@apache.org,Jul-28-2021
+26424219b95ce8e2919256bc6a419bd38c04f8fe,Mark Thomas,markt@apache.org,Jul-28-2021
+8b54724d541e66a7650d4c52b5582dc05abe4fe4,Mark Thomas,markt@apache.org,Jul-28-2021
+0bfaf55bbe41242ee152c44ec992f71d58925027,Mark Thomas,markt@apache.org,Jul-28-2021
+335bed06af17759de0fcb46235f257bbea301299,Mark Thomas,markt@apache.org,Jul-28-2021
+7f2ae5c4a433f461e68c7fd960cc7b151e3607f8,Mark Thomas,markt@apache.org,Jul-28-2021
+a53591356d7302f556d8931fce01e74a2ec60e75,Mark Thomas,markt@apache.org,Jul-27-2021
+99b4e286f77f153340dfd8b3e9629cd139b0e3c1,Mark Thomas,markt@apache.org,Jul-27-2021
+3fffc3111775683c20daa3675f918f94b95b8193,Mark Thomas,markt@apache.org,Jul-27-2021
+71d1c466089d7a740180bc0fec4bfa8796694075,Mark Thomas,markt@apache.org,Jul-27-2021
+7137cf9cc4573afca5b25b1d7789a2ab518a3cfd,Mark Thomas,markt@apache.org,Jul-27-2021
+1bb6c6fe885a266531ed4fa11619ce3eaee9e3b5,Mark Thomas,markt@apache.org,Jul-27-2021
+1c843d8091aa2f7e4b42db55809cb75d5d3e7d4f,Mark Thomas,markt@apache.org,Jul-27-2021
+aa919f6be1a75d4b9615bb7e0f76f85119af2c1b,Mark Thomas,markt@apache.org,Jul-27-2021
+689438c04bba34b1a81c5ccbcefdc3b8f8c9a654,Mark Thomas,markt@apache.org,Jul-27-2021
+08eae2bbe9cee174a56cefd5b61546a73f584757,Mark Thomas,markt@apache.org,Jul-27-2021
+bc11f601e2ea0cc1e0d858a8e35ab2ae37fd214b,Mark Thomas,markt@apache.org,Jul-27-2021
+abd84d2096124a597e342897e0be25bbe8a03214,Mark Thomas,markt@apache.org,Jul-27-2021
+46a87456eb9d187c69ee1524c6b8a61e3871807b,remm,remm@apache.org,Jul-27-2021
+5f4134894a3744647a4671faa4140555f1013abc,Mark Thomas,markt@apache.org,Jul-27-2021
+ba0c69d38d2e41ca4af9bb2aae12432062a88085,Mark Thomas,markt@apache.org,Jul-27-2021
+98540e0557f76f8654c0e63efb3c573218ca6fec,Mark Thomas,markt@apache.org,Jul-27-2021
+074285b0cd31e7f69fe3e7ee5a85d6877627aaac,Mark Thomas,markt@apache.org,Jul-27-2021
+c24a27dfb5ea566755806bfd6ede28ac934ef4f7,Mark Thomas,markt@apache.org,Jul-27-2021
+aa7ea3d4f4aa0bff8f059746b6a85bba5283dd72,Mark Thomas,markt@apache.org,Jul-26-2021
+8b73fa8709883703107660dfe42458ba1c012109,Mark Thomas,markt@apache.org,Jul-26-2021
+24be5085bf07931475525567ddc0952c2af2ba85,Mark Thomas,markt@apache.org,Jul-26-2021
+80b442deb83a292bb8d1437fd0b4a11b77123335,Mark Thomas,markt@apache.org,Jul-26-2021
+334d9e18cd109175be69660ba8d891a175ef7f64,Mark Thomas,markt@apache.org,Jul-26-2021
+59870dfc2f6c1b2e8e5816656fd977287774a138,Mark Thomas,markt@apache.org,Jul-26-2021
+63d4906f187c3a9318735d8a3689553d336feac2,Mark Thomas,markt@apache.org,Jul-26-2021
+787152d110bb48c54833a7b7bce07c45e2e3000d,Mark Thomas,markt@apache.org,Jul-26-2021
+76a13cf3649673b47513c83594b9fa4d280b4fc7,Mark Thomas,markt@apache.org,Jul-26-2021
+678c7a0aaa5de05b99ce3cf005fe79504fe683bc,Mark Thomas,markt@apache.org,Jul-23-2021
+756c4b6b9d091038c7618356b3d2fbad8cadcbf3,Mark Thomas,markt@apache.org,Jul-23-2021
+eb6da1a1462ae5185332a62f14a6924ef076cc7d,Mark Thomas,markt@apache.org,Jul-23-2021
+c624511cac767661b758769dbb19c4a2da4d7582,Mark Thomas,markt@apache.org,Jul-23-2021
+24e39c9ef650cfd36dd5ad5795b2617d3d0de928,Mark Thomas,markt@apache.org,Jul-23-2021
+d511571fa59f53a6beae96db497129f12940f3e1,Mark Thomas,markt@apache.org,Jul-22-2021
+5b47371b93d817c670c352824251a697aabb26eb,Mark Thomas,markt@apache.org,Jul-22-2021
+e16da23186008a56935297d592f81b9566862474,Mark Thomas,markt@apache.org,Jul-22-2021
+655e300667fa0d71d345df6346f77044768b9092,Tim Lewis,elatllat@gmail.com,Jul-21-2021
+0f2e084d1583cfa4c00cec1958ec30113fb4f41e,Mark Thomas,markt@apache.org,Jul-21-2021
+4c314648eccc75c0f8108b3ed394dea69bf75593,Mark Thomas,markt@apache.org,Jul-21-2021
+8bd316a226a7ca267fce12de3a6c9553a42b2d04,Mark Thomas,markt@apache.org,Jul-21-2021
+c03c7c82d61d3b6e5f42e022db4435d0bfce04f5,Mark Thomas,markt@apache.org,Jul-21-2021
+4289f4745cd831775abe0c5d1b08c9936889c47f,Mark Thomas,markt@apache.org,Jul-21-2021
+6d02df28fe6d872c2c02e0e0f72d1d5142c810d2,Mark Thomas,markt@apache.org,Jul-21-2021
+c3836094e5b82123677b6edb82e5ad1b5c35fee1,Mark Thomas,markt@apache.org,Jul-21-2021
+6590a3c3cd3044e531c6ba946c9d19ee463cb2d0,Mark Thomas,markt@apache.org,Jul-21-2021
+4ae47eb1021f84ff255601c40167f0cc0204ead9,Mark Thomas,markt@apache.org,Jul-21-2021
+62a54d41ec47867d5e368fc76a539f7f33e6ace4,Mark Thomas,markt@apache.org,Jul-21-2021
+ca1ce64bcd1fd7709f6facfbc0d3e8d2721708db,Mark Thomas,markt@apache.org,Jul-16-2021
+e3c1df49c7b99f20d3f2357fec2824e0b75e4de7,Mark Thomas,markt@apache.org,Jul-16-2021
+0fbb05847a7c9ffb00427e48552b9d058fe03a07,Mark Thomas,markt@apache.org,Jul-16-2021
+6a65741d13fce5cccf6824d2be8685394878b9a3,Mark Thomas,markt@apache.org,Jul-15-2021
+ef6f15d82443568d8a92838eff47850d0378c349,Mark Thomas,markt@apache.org,Jul-15-2021
+85ff05f396ffdb19a2df69123f51f8c784e95ee0,Mark Thomas,markt@apache.org,Jul-13-2021
+b5d84e4299668795fac658aa64ea151cf653684c,Shi.Kun,34267068+pachulisk@users.noreply.github.com,Jul-13-2021
+4c53b97252a1815fd80c0addb58db4a52ba6e055,Mark Thomas,markt@apache.org,Jul-9-2021
+0827d1ce4200ad030a9c3496349b240fefeb53a7,Mark Thomas,markt@apache.org,Jul-9-2021
+1b728785484e2baf9c42b2efdb882547f90fde88,Mark Thomas,markt@apache.org,Jul-9-2021
+cd6be41aa22e9ceda43089ddeab98dc79cc9be7b,Mark Thomas,markt@apache.org,Jul-8-2021
+2fcb104294b2676154cb08f00d5665d668792280,Mark Thomas,markt@apache.org,Jul-8-2021
+a37f7a11a1b644c4e9e965da730824ea656d3a3a,Mark Thomas,markt@apache.org,Jul-8-2021
+c57c3619f75f5ddc21d79f58bdda1d0866da46cb,Mark Thomas,markt@apache.org,Jul-8-2021
+35bd87789017661b599f18ce33529ba544b81a06,Mark Thomas,markt@apache.org,Jul-7-2021
+51d08d659a3df16328f089ace4362dff96949dcd,Mark Thomas,markt@apache.org,Jul-7-2021
+9de2c402accda16824d0c2fd818d2f5d372ab404,remm,remm@apache.org,Jul-6-2021
+de69069ae4c847165a9f68754faf02dbc106b21d,Mark Thomas,markt@apache.org,Jul-6-2021
+0f4630d48ac26dfa84131d32b88d7138c7f6c06c,Mark Thomas,markt@apache.org,Jul-2-2021
+7367b0ac841d27508ee69e01745a112ebbb154ab,Mark Thomas,markt@apache.org,Jul-2-2021
+5dcc5aa726f6b39b2a74d4d914375b65c9c9fc5d,Mark Thomas,markt@apache.org,Jul-1-2021
+234ca05eb4071a0b3c64e876f58e3c248b5b75fb,Mark Thomas,markt@apache.org,Jul-1-2021
+bd83b290f2e94a70c9f59ec55ce5bfd5eaf743e3,Mark Thomas,markt@apache.org,Jul-1-2021
+fed303a36f5e367efc0123fcb2f5dab8c4e909c7,Mark Thomas,markt@apache.org,Jul-1-2021
+d8661682937a1d8f53a3830cff17d05d897e692f,remm,remm@apache.org,Jun-30-2021
+d2ef158945a4aca00dc06900c65c059cbb66c410,remm,remm@apache.org,Jun-30-2021
+a53320349d2510af657cf0d3581bc56173b5efc4,remm,remm@apache.org,Jun-30-2021
+40920f6522f3f390a503738dd943a1a5be5b96b2,Shi.Kun,34267068+pachulisk@users.noreply.github.com,Jun-30-2021
+aaac41d281df19c735f4c0bb906f8e085e01080f,Mark Thomas,markt@apache.org,Jun-28-2021
+2cf770f3bf8f805d2f406d7f159dc8f5b310b171,Mark Thomas,markt@apache.org,Jun-28-2021
+5964c20a1de8eb87494abce56f695a56e4ea9b6f,Mark Thomas,markt@apache.org,Jun-25-2021
+5b545bb31bc355898ef4a0b8addce2b09387cdaa,Mark Thomas,markt@apache.org,Jun-25-2021
+4df19b792eae949e74ac18b170fdce718aab5953,Mark Thomas,markt@apache.org,Jun-25-2021
+8f3cba9bb189ada767537126efb3ebd181f3aae6,Mark Thomas,markt@apache.org,Jun-25-2021
+0c19bb12a26e9123ab662a9c6c2ad729a80bd894,liym@home,ijliym@163.com,Jun-17-2021
+6c1c6994415e008a5cf57d331ce618c24095389d,Mark Thomas,markt@apache.org,Jun-25-2021
+097c4d7c3e1196161d3cf9f1eaf046fb5bc2e871,Mark Thomas,markt@apache.org,Jun-25-2021
+03e237b1a7ce58d547b36a0f09b61a826d46c9c8,Mark Thomas,markt@apache.org,Jun-25-2021
+0dee371b82bf2ed18a7316430db8c25bdb3644e3,Mark Thomas,markt@apache.org,Jun-24-2021
+494452e7eb6d506a24bbe105fd2f482c757fa674,Mark Thomas,markt@apache.org,Jun-24-2021
+a8741c347713ebb4c065db469cdbcf01311eeb42,Mark Thomas,markt@apache.org,Jun-24-2021
+d1682cf8e19c44424416c27d0999abc669d18515,Mark Thomas,markt@apache.org,Jun-24-2021
+b9bd12608d3a14ed036a1602f39b148d91fb5489,Mark Thomas,markt@apache.org,Jun-23-2021
+5c0b4fa6f04dcbe2557af8966f644ec4357e183a,Mark Thomas,markt@apache.org,Jun-23-2021
+6d7498934c5cac14bc6bfc549d15bd2496275356,Mark Thomas,markt@apache.org,Jun-23-2021
+2a792b62422f53f2a32cf2261ca0e0a64c352eb8,remm,remm@apache.org,Jun-23-2021
+0ec9b4b51325ff51bad5aaa375cec2af919711a9,Mark Thomas,markt@apache.org,Jun-23-2021
+f0925ab4cad7f004460e6e06dfde9eddfe29535f,Mark Thomas,markt@apache.org,Jun-23-2021
+8d3b310f050ca8a87f74aa011570c17a5237fd5d,Mark Thomas,markt@apache.org,Jun-23-2021
+be141fa832033096b53931141689d60491863b64,Mark Thomas,markt@apache.org,Jun-23-2021
+0163f976bf32a33d5f004e4c7ff2f999d9c0a8a1,Mark Thomas,markt@apache.org,Jun-23-2021
+feca9961be6c85ad2e893121d07dd338b917fd47,Mark Thomas,markt@apache.org,Jun-23-2021
+f721ad956ec2026217509e7f945e4cf1d589ee3f,Mark Thomas,markt@apache.org,Jun-23-2021
+6dfa9acf1a7e6bc5b6df9b2de83fef5c0d3cbce5,Mark Thomas,markt@apache.org,Jun-22-2021
+5250dda92141dc0e672203c43becf6c54387fa1a,Mark Thomas,markt@apache.org,Jun-22-2021
+906c61d7d70a5e03bb7dd103bf8b090bd27bee0f,Mark Thomas,markt@apache.org,Jun-22-2021
+43dfc0462c3584e02372c8fafc0f6be7e20721d0,Mark Thomas,markt@apache.org,Jun-22-2021
+a7459bb1907c06622504b383ff1af05d4176efff,Mark Thomas,markt@apache.org,Jun-22-2021
+841bd7c3d5c97cb9cf3f82a23fe8844f7b429ea7,Mark Thomas,markt@apache.org,Jun-22-2021
+736df2c67a55ce1c8e8d96999551a9f58465e5df,Mark Thomas,markt@apache.org,Jun-22-2021
+51f9c73581dcc5b686a9911b536caa3ee29ced2e,Mark Thomas,markt@apache.org,Jun-22-2021
+e461f7dccd548886e9e0ab1d7b6c029d668de429,Mark Thomas,markt@apache.org,Jun-22-2021
+5fe0c9cd303c1974b21651d9281521ce9c52d659,Mark Thomas,markt@apache.org,Jun-22-2021
+e40d778303b9e4f33dfff6f3d67b094862ab1e00,Mark Thomas,markt@apache.org,Jun-21-2021
+2b925814e6af699d4ea6f740d408310389fee03a,Mark Thomas,markt@apache.org,Jun-21-2021
+fa24eddfc49cc2e19b4cd4606a4eb3b7d55fed98,Mark Thomas,markt@apache.org,Jun-21-2021
+98d61c16848b0f2c7a0149266465e407b467569d,Mark Thomas,markt@apache.org,Jun-19-2021
+a65466f13beed2f1111e65f5c569cd3b2f706406,Mark Thomas,markt@apache.org,Jun-18-2021
+6c1ec0aafa2d2446c7a50e12b6ec5fbd59ae2cc2,Mark Thomas,markt@apache.org,Jun-18-2021
+1de3b08e6674bd5da9c3a96aa0321bde730609ae,Mark Thomas,markt@apache.org,Jun-18-2021
+92b918574bebc7d5814b6ea8381d365b695a96a3,Mark Thomas,markt@apache.org,Jun-17-2021
+c87fd5f134ef201d7af86d490f839411780d6258,Mark Thomas,markt@apache.org,Jun-17-2021
+8e15d4e69acf85897b078be2448e7149dfe86a6c,Mark Thomas,markt@apache.org,Jun-16-2021
+c6483dc73d9c21120e9139a421d5111869a4d31d,Mark Thomas,markt@apache.org,Jun-16-2021
+fff81935547a1f839f15b660db2dfd368ae96cf4,Mark Thomas,markt@apache.org,Jun-16-2021
+e98409e3bb9ae1e29e607ca511eb99dfcf3014a0,Mark Thomas,markt@apache.org,Jun-3-2021
+56e439ada85c7c99cf3fa2d1b44bfdeb9a9d43eb,Mark Thomas,markt@apache.org,Jun-16-2021
+878387ba5c732d5c3dd924d96d0c2511e156311d,Mark Thomas,markt@apache.org,Jun-16-2021
+15976a777a94dc6bd0bca81fc9dc3cd81918a0cb,Mark Thomas,markt@apache.org,Jun-15-2021
+d82d20ecfcf5d4c9fd39e37d4e480a4c838c26e3,Mark Thomas,markt@apache.org,Jun-15-2021
+0c39935431c8b15bb405325623727a8667d02e0e,Mark Thomas,markt@apache.org,Jun-15-2021
+2f8d63df95b03233f3e2f22ab5a908713ac239cb,Mark Thomas,markt@apache.org,Jun-15-2021
+0505fc5aa5b3d4c23d4ce333199260389f1f8a8d,Mark Thomas,markt@apache.org,Jun-14-2021
+99ffff7bc16954def53d55c7fbee4d5063e880cb,Mark Thomas,markt@apache.org,Jun-14-2021
+b72e38adedf6a3f7da0d4e2d7d2c898f44fae2fd,Mark Thomas,markt@apache.org,Jun-15-2021
+b579e6186ca3cb6bbc7931390ed707cf17db0f81,Mark Thomas,markt@apache.org,Jun-15-2021
+6922d762d726bccf53b14bb4db2d4558ce2e998b,Mark Thomas,markt@apache.org,Jun-15-2021
+2698cfb178b81513276e2093bf2a19e04cca1b90,Mark Thomas,markt@apache.org,Jun-14-2021
+5a2118f90e2d8ee7ebc9f7453622e857c133961c,Mark Thomas,markt@apache.org,Jun-15-2021
+a58582b1a4e139e0a48e20abd1f27cb2da866c64,Mark Thomas,markt@apache.org,Jun-14-2021
+864dbfc0ea5f7c4ca00b1f08f34ece4e9ed4314e,Mark Thomas,markt@apache.org,Jun-14-2021
+2538f6d74949751901afc5e04014ede4f867152a,Mark Thomas,markt@apache.org,Jun-14-2021
+356c8ecc774a2c227b1efcc50f159bb57d48b0c5,Mark Thomas,markt@apache.org,Jun-13-2021
+a5064b89bc61e26898240f60c3a582f142f12d07,remm,remm@apache.org,Jun-11-2021
+ab3aa9da76828c1e54ff55a8db484f3a8ceaa054,Mark Thomas,markt@apache.org,Jun-10-2021
+ba2d0b1af8f896e549168ff55c01a24214e03528,Mark Thomas,markt@apache.org,Jun-9-2021
+9f391c998ee9adbc22acce2bbabbc2c6b8fc4172,Mark Thomas,markt@apache.org,Jun-9-2021
+6ec028edc5ca1b6e928fb3395e993b272c814292,Mark Thomas,markt@apache.org,Jun-8-2021
+e0192fd862ab94e9524714bb7c585670edd4b857,Mark Thomas,markt@apache.org,Jun-8-2021
+49daff598d716441d0f948f9f04169a3624e2829,Mark Thomas,markt@apache.org,Jun-8-2021
+fb4dc46dc32f2f82bfdaa0b0ed67b2d36159cc43,Mark Thomas,markt@apache.org,Jun-8-2021
+796d2d6174938b8fa1fa9dbb536482f40de9382b,Mark Thomas,markt@apache.org,Jun-8-2021
+be8f733b8c51156c5d9c1a1e5530df9e0730f0a7,Mark Thomas,markt@apache.org,May-10-2021
+1692e4e5b1cf810187c5a323e4f4718264519527,Mark Thomas,markt@apache.org,May-10-2021
+c3bd168427cadc1b860791c1f2204fe03c2cb740,Mark Thomas,markt@apache.org,May-10-2021
+157487d425734a37ac32fe709ff20b8f6d8fe4e4,Mark Thomas,markt@apache.org,Jun-8-2021
+5669c3507c266bd29f40cd373f8eb9ad1ed5c93e,Mark Thomas,markt@apache.org,Jun-8-2021
+644156817cde3919b644b64412304efa99ca973c,Mark Thomas,markt@apache.org,Jun-8-2021
+a5f348856d6e89f9f9eea91691c750aa7d9d8965,Mark Thomas,markt@apache.org,Jun-8-2021
+a1559651a12dc0d5230ba49141105e93f3258d52,Mark Thomas,markt@apache.org,Jun-7-2021
+c67784b0e171a92a6eb5ef34bc77521243837623,Mark Thomas,markt@apache.org,Jun-7-2021
+01500b47b57da3ebfa50e7e2965db3f328e49118,Mark Thomas,markt@apache.org,Jun-7-2021
+a915ed99eca67cab13d3ed0d1269bf1594a0f605,Mark Thomas,markt@apache.org,Jun-7-2021
+8424677bcd703115ac6f31e1947ecd220e156880,remm,remm@apache.org,Jun-7-2021
+a09ce7c5361427dc5c3ab3a628a833e6f5494567,Mark Thomas,markt@apache.org,Jun-4-2021
+a8448daa8c437bf4750717b187cc7dde8ed17c31,Mark Thomas,markt@apache.org,Jun-4-2021
+d085948883aa8b20bab38f9b44a67e0dff5b1a28,Mark Thomas,markt@apache.org,Jun-4-2021
+4e963c982eaa33024b97935a4d235d186f1b923b,remm,remm@apache.org,Jun-4-2021
+374ff41eea1b7212d51a233494c7bd44678c3931,Mark Thomas,markt@apache.org,Jun-4-2021
+716c028f9c9cc81c68d8c1542ee27f04b0ef3681,Mark Thomas,markt@apache.org,Jun-4-2021
+db9a3cb9872c60c46066f0a41ee0aaa6833966ac,remm,remm@apache.org,Jun-4-2021
+fefe4de781449493000a633488aa11198434cf3e,Mark Thomas,markt@apache.org,Jun-3-2021
+13f85a87233564c1d1e8cb017bfc2415caab62b0,Mark Thomas,markt@apache.org,Jun-3-2021
+f495c461ecc881a4b21a40c1b1994ebdfdc7af31,Mark Thomas,markt@apache.org,Jun-3-2021
+74ce2d085bb2c08778b9d668c3e38cdcb647f65f,remm,remm@apache.org,Jun-3-2021
+586976338dddb70a0e40619726261f667548b563,remm,remm@apache.org,Jun-3-2021
+9beee02a476c3316f98ee81f200ad44ce168e9c9,remm,remm@apache.org,Jun-2-2021
+f2125db89528d2fb426ac1c9c36d4beb17e13a87,remm,remm@apache.org,Jun-2-2021
+d1ffc304e8c1786a441d376a5784b363418fb7d3,remm,remm@apache.org,Jun-2-2021
+3af490149c40ec115ee71e962521fb71af7df64e,Mark Thomas,markt@apache.org,Jun-1-2021
+f5a732e74e2a36442b2bf562c665917c4bb1167a,Mark Thomas,markt@apache.org,Jun-1-2021
+ce8b5ae8b34fb9e2de463cf00b0d0e07fc9259fb,Mark Thomas,markt@apache.org,Jun-1-2021
+1df0f9136c5f545626cd900d421adcf30fb75665,remm,remm@apache.org,Jun-1-2021
+ebdbb96f0f8aaa81bb8375f733af88c5503830ec,remm,remm@apache.org,Jun-1-2021
+b142e36d0cb92b066840565d28349804401eb72e,Mark Thomas,markt@apache.org,Jun-1-2021
+bfca3f8a0360dfaa1f90a01bcf3cb8b035b1dba7,remm,remm@apache.org,Jun-1-2021
+f3862979243af002210ba71dc483abb4edcad65d,Mark Thomas,markt@apache.org,Jun-1-2021
+6776cb6f3213af953ec350f37084c6370acf3732,Mark Thomas,markt@apache.org,May-27-2021
+39665c75e474488362398d83784dcf0fc8acfb30,Mark Thomas,markt@apache.org,May-27-2021
+e5b65565768ab74b563c21be413ad481a9d97512,remm,remm@apache.org,May-27-2021
+91262f2d9c99d39ab9ca14c83d910674dbcef666,Mark Thomas,markt@apache.org,May-27-2021
+029e975c10d8052602c7b9fe1f4c2ec53b1d4cdc,Mark Thomas,markt@apache.org,May-27-2021
+334d5427b6168994a4ed8af65c54708e0adfce7c,Mark Thomas,markt@apache.org,May-27-2021
+dce98ac6883538d3529f28e1cc89212d1f9b0d5f,Mark Thomas,markt@apache.org,May-27-2021
+bf09aa74650461b433ae6b52418e0726e6a32417,Mark Thomas,markt@apache.org,May-26-2021
+da39289475ed046e756ef9327fe8f468af2d1df8,Mark Thomas,markt@apache.org,May-26-2021
+1bb4e9fcb1242819205724873142b0524dcd40f4,Mark Thomas,markt@apache.org,May-26-2021
+acf26a9cf51fae086b4c82a132dc029a459cae2c,Jean-Frederic Clere,jfclere@gmail.com,May-26-2021
+bd533dba0b54ba2d93fc6fa82f838a8dd32a9074,Mark Thomas,markt@apache.org,May-26-2021
+da7b4f0f2a2760eae0fd7a99531f99e8420c92ec,Jean-Frederic Clere,jfclere@gmail.com,May-26-2021
+4c14e17ffb59fa95d6de6f7c2ea54388540fe02e,Jean-Frederic Clere,jfclere@gmail.com,May-26-2021
+433ff4e7ddca7ab257064544f349942b9f4573ec,Jean-Frederic Clere,jfclere@gmail.com,May-26-2021
+70f8398d08103705420ff330fb2be8a31d7da11a,Mark Thomas,markt@apache.org,May-26-2021
+6a667943c5da6b5d61ac6bec1d7c9de061e3217c,Mark Thomas,markt@apache.org,May-26-2021
+e659a9b2131b12f57c91277eeb0e97c47d7fb3b2,Mark Thomas,markt@apache.org,May-26-2021
+b432feea3ea184523d81455b9b23385addcceef8,Mark Thomas,markt@apache.org,May-26-2021
+95b10fbda2fad04b1c7ada9d5c72012dbb88b6dc,Mark Thomas,markt@apache.org,May-26-2021
+dc70d1613241e1f18d4d4d5efaad65e70cc3fedc,Mark Thomas,markt@apache.org,May-26-2021
+cfcefa0cc132b2442f01adf0ae81ca661cb84ea2,Michael Osipov,michaelo@apache.org,May-22-2021
+1bd131c126bb60b29cb677d3d107e3bb68c0a64a,Mark Thomas,markt@apache.org,May-25-2021
+3199da4a8ba72112d882a9f23d65953d1954606b,Mark Thomas,markt@apache.org,May-25-2021
+de456f50c85e7952275802863b2f9f61b949f9b0,Mark Thomas,markt@apache.org,May-25-2021
+7929f10f12e7d9e958f16086e28928e9adc9af62,Michael Osipov,michaelo@apache.org,May-25-2021
+1235b8b98ca44440443ead49048aa88a4d69392b,Mark Thomas,markt@apache.org,May-25-2021
+fe38920463f40dd483a65ab14ad789234e7977b0,Mark Thomas,markt@apache.org,May-25-2021
+7708a78c80f921e9cdc3e38a5758c96e4fea7aac,Mark Thomas,markt@apache.org,May-25-2021
+7cf356168e018271271dc0fce2ed924cfc124dc1,Mark Thomas,markt@apache.org,May-25-2021
+41bfe9f5a4898a2cc1ef7750b086b96c5c3070e6,Mark Thomas,markt@apache.org,May-25-2021
+5ba1cdaaa6a4862929c68a3c6d8beeac61bcec36,Mark Thomas,markt@apache.org,May-25-2021
+2a61a91f7efb4eb278880dc21b9bf9a1b06b2e07,Mark Thomas,markt@apache.org,May-25-2021
+d43edc0a49c762a4069686eaa4b1e53043bd3ff9,Mark Thomas,markt@apache.org,May-25-2021
+a2a9e48348173478a82e18b6119524ee1adb21f9,Mark Thomas,markt@apache.org,May-25-2021
+9b385febce3f4eb0dffc45c5faf1e481f658c0bc,Mark Thomas,markt@apache.org,May-25-2021
+098c280cb2186d9bef351a36d238efbc89a37bd0,Mark Thomas,markt@apache.org,May-25-2021
+513a158ee793b52cc1c0fac7780423760818b631,Mark Thomas,markt@apache.org,May-25-2021
+8301307ce76540e92c6068d8277038d133da862c,Mark Thomas,markt@apache.org,May-24-2021
+620e06c468a02ca98dc4beacf556dd12d2440877,Mark Thomas,markt@apache.org,May-24-2021
+9667d291b3bcad0ce22d76911f5ca5e538030f68,Mark Thomas,markt@apache.org,May-24-2021
+83ecc674f7a2c5b805fa2200afdca5f57af3a1fb,Mark Thomas,markt@apache.org,May-24-2021
+83fdd8b9662e9a58ba83dc99ce64c3f317e2643b,Mark Thomas,markt@apache.org,May-24-2021
+ee923b135e85cd8fcf9314d7a3a78a7ad8afede3,Mark Thomas,markt@apache.org,May-24-2021
+029d3162f686f0e8da492dec2f364af9c76dd0c1,Mark Thomas,markt@apache.org,May-24-2021
+dab8bc11b96c6ba9021e73edce402fa6c97c34e3,Mark Thomas,markt@apache.org,May-24-2021
+502b6fe021fbc85164401cf7edd81542a62b9260,Mark Thomas,markt@apache.org,May-24-2021
+7317f17dd5139da65c3cb9e2cbe8820168deda38,Mark Thomas,markt@apache.org,May-24-2021
+902912d497fd03bd6a6015e9bfa80c55046cb783,Mark Thomas,markt@apache.org,May-24-2021
+c2ad60927672c0c2080bdfbf8274b152fa630312,Mark Thomas,markt@apache.org,May-24-2021
+7c55e7bf96c28caa571dd1e97820807984cece12,Mark Thomas,markt@apache.org,May-24-2021
+d538c049b2420d6b194c333b7f4b3556b8803fb3,Mark Thomas,markt@apache.org,May-24-2021
+744f17d5458686f0bfb22d210797f29cb99eb332,Mark Thomas,markt@apache.org,May-23-2021
+510f0b6a0e8e20d1db173e95a64afd207b44b517,Mark Thomas,markt@apache.org,May-22-2021
+547a583a042be9f05ff1d6c0916e0aed0883fe6f,Mark Thomas,markt@apache.org,May-22-2021
+f0627aa10346539995e4546275b58d02bd7323ca,Mark Thomas,markt@apache.org,May-21-2021
+8e2aa5e45ce13388da62386e3cb1dbfa3b242b4b,Mark Thomas,markt@apache.org,May-21-2021
+ac7f2f39ab7e6ed78e82b404d6a538d2bbfef219,Mark Thomas,markt@apache.org,May-21-2021
+814f5781c98a0c5b7f5b2a00f37bfe9239038294,Mark Thomas,markt@apache.org,May-21-2021
+af16402ace9f68fdf4294be337bc9e96d5dce660,Mark Thomas,markt@apache.org,May-20-2021
+a7511a76e41269b842a8721ad729f8e54a2a8c8b,remm,remm@apache.org,May-20-2021
+8be11e3838c90d6c25f36333714787b35f4b4d85,Mark Thomas,markt@apache.org,May-20-2021
+fb680e1c95f12a105506a3bb26ea911a984b59f1,Lars Grefer,github@larsgrefer.de,Apr-24-2020
+d4b05768796b29fc25bf853b44fcf36bb04e114c,Mark Thomas,markt@apache.org,May-20-2021
+b3ff8357a9559e781ae6f9bcd61738cd7ccae2bf,Florent Guillaume,fguillaume@nuxeo.com,Mar-5-2021
+e9d05842b87b7e88630db42aab2816d2be0e996a,Mark Thomas,markt@apache.org,May-19-2021
+94c352d518f3bb03028c450933dfcd95b69c23ff,Mark Thomas,markt@apache.org,May-19-2021
+ea00bb55348faad97db3f5f70de0efad036fec17,Mark Thomas,markt@apache.org,May-19-2021
+c7f904bc1a65c1cf93cc2b590974ebb1e8bbba8e,Mark Thomas,markt@apache.org,May-19-2021
+d73197196a578881fd99de0e4bf91e106c194668,Mark Thomas,markt@apache.org,May-18-2021
+4aab46d425e26dd6448665c74f0956e01c9fa8fb,Mark Thomas,markt@apache.org,May-18-2021
+c5f7c636dbf775606d91bd24414cb325b78afc62,Mark Thomas,markt@apache.org,May-17-2021
+75d8c7958c472274f25589695b12e7336165d41f,Mark Thomas,markt@apache.org,May-17-2021
+d03377e512aa761b57e8314ad18fe6812ac7d1a7,Mark Thomas,markt@apache.org,Mar-31-2021
+2b9fa203f760bf63a4d182ec89fb855e37e130a2,Mark Thomas,markt@apache.org,May-14-2021
+22c7f1969f250901c4793798ac84c9a4a837e872,Mark Thomas,markt@apache.org,May-14-2021
+939efedccff7fafc45eedb11dcce67cd92975364,Felix Schumacher,fschumacher@apache.org,May-15-2021
+945db374e75e4925b78be67552f5b362cbfe00d7,Mark Thomas,markt@apache.org,May-14-2021
+7d5f38c44a157cd01ad3cab67e1f4c4ea89d193d,Mark Thomas,markt@apache.org,May-14-2021
+e0014f2b77b44aecd56c68911d28ab3344506e6c,Mark Thomas,markt@apache.org,May-12-2021
+1b2cad4add32e45c4decc6bdce457d9a140323ce,Mark Thomas,markt@apache.org,May-13-2021
+706fcc54e09011945fb3765d08d326743aa3018b,Mark Thomas,markt@apache.org,May-13-2021
+9f2d78449f409ecffade937dfc7441d90ac914b3,Mark Thomas,markt@apache.org,May-11-2021
+9747a3a6334369deb9b5bef1b17b1fe0ce774cdf,remm,remm@apache.org,May-10-2021
+53ff6b31455b8ba94d8b41f0a45c44b3735af227,Mark Thomas,markt@apache.org,May-8-2021
+9cf936197e782fd656f67a8c4f6400f45d41f4b1,Mark Thomas,markt@apache.org,May-8-2021
+8275ed8bb1b7a9f3bf1e7305d310033807d59e88,Mark Thomas,markt@apache.org,May-8-2021
+5398e9f220d5f9c47fe94dd65712c30ba7aac911,Mark Thomas,markt@apache.org,May-8-2021
+8ea25561cbf1f5caa84413e7e8b366c7dc0421c4,Mark Thomas,markt@apache.org,May-7-2021
+aace69ecff8551ba6b53f0c01d1fedf95228af16,Mark Thomas,markt@apache.org,May-7-2021
+2657bc2ecb51417474bc17a9dabb4ec67d156412,Mark Thomas,markt@apache.org,May-6-2021
+a79ffed8bded9a68ee17a7c4fba98cb8d8b754b2,Mark Thomas,markt@apache.org,May-6-2021
+c87de4a80b602bcc112bd5165de7cf369b0ff217,Mark Thomas,markt@apache.org,May-7-2021
+0938b2df7d52036e3c6ca37d3c60bc448675e34d,Mark Thomas,markt@apache.org,May-7-2021
+de89c23c65a66a381c3cd1a236effb0645ca2471,Mark Thomas,markt@apache.org,May-7-2021
+6ae6242d29b980f44c46a82dbccc9d854c4930d1,remm,remm@apache.org,May-5-2021
+a23c5788012712609c760a77f9cebfc45aaa29d9,Mark Thomas,markt@apache.org,May-5-2021
+c48f647d951f20d5b51a5ad3f3dbd07be05c3e3e,Mark Thomas,markt@apache.org,Apr-28-2021
+56ce1d9a83c55cf37bbb4ebff7cbd404a54cb00f,Mark Thomas,markt@apache.org,May-5-2021
+0235fd745b9fe3805bf2efa38befa9d65a3c4259,Mark Thomas,markt@apache.org,May-5-2021
+7883e3dec71c27b2d14eb4a41c1beae9ff726aa5,Mark Thomas,markt@apache.org,May-5-2021
+55093a2bc3ccdd759c63ef52ee99ba7f05e8c34d,Mark Thomas,markt@apache.org,Apr-28-2021
+4f90bff128c6cb39bd0ebb8cf1eb6565229dcf86,Mark Thomas,markt@apache.org,May-4-2021
+0e887b7729184fc65a71798175554f62dbcae876,Mark Thomas,markt@apache.org,Apr-30-2021
+e498a7dc8e6d3db852199288013ac58d6263f93d,Mark Thomas,markt@apache.org,Apr-30-2021
+2ce4ea2f8e9111269e990fff640b48847b9e6d87,Mark Thomas,markt@apache.org,Apr-28-2021
+e5468e2a44448d3a90b3fb831bd83b156b32736f,Mark Thomas,markt@apache.org,Apr-28-2021
+c07530f6f11034ce0ba55a20d0ca058256a7509d,remm,remm@apache.org,Apr-28-2021
+26ba86cdbd40ca718e43b82e62b3eb49d004c3d6,Mark Thomas,markt@apache.org,Apr-26-2021
+46febe042a9ed32bb53fcedf28f954e3095028ad,Mark Thomas,markt@apache.org,Apr-26-2021
+8ddc5313ffe8ca505df31987c23ef1b9cd1d5755,remm,remm@apache.org,Apr-26-2021
+bf5b9feca166557134120f0fc5210588c7b3673d,Mark Thomas,markt@apache.org,Apr-22-2021
+1c1fb14930b5ccf19d7dacaf6582c20f8b8658d6,Mark Thomas,markt@apache.org,Apr-21-2021
+7dcf54b7a7f5fdd9560241d25427aba3e8899a84,Mark Thomas,markt@apache.org,Apr-21-2021
+b58cc1149894633ff426b1dd993f2745dfc4a0cc,Mark Thomas,markt@apache.org,Apr-21-2021
+e663ab075f73876adcb5172ebb332e79f6d0ee22,Mark Thomas,markt@apache.org,Apr-22-2021
+cb2e625b55e66d55452b9e67d98b5ec5727f8754,Mark Thomas,markt@apache.org,Apr-21-2021
+b2e2c28d9751aa16512a5cbbe85adce7f4b36c7b,remm,remm@apache.org,Apr-20-2021
+8183dbfeab714b097c1ac0cc558a14031458c6e9,Mark Thomas,markt@apache.org,Apr-20-2021
+5ec77a49fd123c3b46e1a015a18e8bc6fe89aa13,Mark Thomas,markt@apache.org,Apr-20-2021
+e6353864e6245da2553e6f56c07819dd8e703607,Mark Thomas,markt@apache.org,Apr-20-2021
+dd60b5e446a44495dcbf6a90e84f4c5ec2cd716d,Mark Thomas,markt@apache.org,Apr-20-2021
+eeeca457ff1ac70604c9bdb018269715690523e5,Mark Thomas,markt@apache.org,Apr-20-2021
+a67faf3ac7f2225f6a1dac6c6355ed8226665039,Mark Thomas,markt@apache.org,Apr-20-2021
+3fc0c3d395cd3b3c01f9c4fbb8cd47cb3b36c276,remm,remm@apache.org,Apr-20-2021
+6a06b3cfff41dc81538c7b93a74dfa13ea5cea9e,remm,remm@apache.org,Apr-20-2021
+111f9f41a2b1fc350bb42dd4207d01297ce4061a,Mark Thomas,markt@apache.org,Apr-20-2021
+daac8bb943c18efbf31246b13ee8c52b4d673e32,Mark Thomas,markt@apache.org,Apr-19-2021
+f262b02f04f5b1a3d1d81d3b708214cf9b62a890,Mark Thomas,markt@apache.org,Apr-19-2021
+da5a2cde5729ffac937b4a831d16a039d06297ba,Mark Thomas,markt@apache.org,Apr-19-2021
+b837cda08007a93e4be0dc48f6f8e02e0ae451b8,Mark Thomas,markt@apache.org,Apr-19-2021
+acb438307f5e96a68819bb88cb3e9b12dc124f2e,remm,remm@apache.org,Apr-19-2021
+77eb2a72cc89b2d9dd2ca76b395f4671b2e35ac3,Mark Thomas,markt@apache.org,Apr-19-2021
+7ff693d5075ddfb2581fe7df911fc686dc535124,remm,remm@apache.org,Apr-19-2021
+04fbddcf49b866e1f0152d324c70885f04150fd5,Mark Thomas,markt@apache.org,Apr-16-2021
+6e0aa416353fef0ecccca932d3d79f1c474bfad7,Mark Thomas,markt@apache.org,Apr-15-2021
+b7c1897a950b2608dbbd54f024173ad9ae40fcfd,Christopher Schultz,chris@christopherschultz.net,Apr-13-2021
+e3c5de01a556dd4e81eaecc75806cebe558d8c1c,Mark Thomas,markt@apache.org,Apr-13-2021
+b201511dfb4f74faa5ebd21248a269bbbd9b21b4,Mark Thomas,markt@apache.org,Apr-13-2021
+eeb7351219bd8803c0053e1e80444664a7cf5b51,Mark Thomas,markt@apache.org,Apr-13-2021
+81f16b0a7186ed02efbfac336589d6cff28d1e89,Mark Thomas,markt@apache.org,Apr-13-2021
+bd4d1fbe9146dff4714130594afd668406a6a5ef,Mark Thomas,markt@apache.org,Apr-13-2021
+17208c645d68d2af1444ee8c64f36a9b8f0ba76f,Mark Thomas,markt@apache.org,Apr-13-2021
+b930d0b3161d9ec78d5fa57f886ed2de4680518b,Mark Thomas,markt@apache.org,Apr-13-2021
+d5303a506c7533803d2b3bc46e6120ce673a6667,Mark Thomas,markt@apache.org,Apr-13-2021
+4e61e1d625a4a64d6b775e3a03c77a0b100d56d7,Mark Thomas,markt@apache.org,Apr-13-2021
+f4d9bdef53ec009b7717620d890465fa273721a6,Mark Thomas,markt@apache.org,Apr-13-2021
+fa4d19c0c6ea28eae41c29ed5b16a2ccbd7e9ba1,Mark Thomas,markt@apache.org,Apr-13-2021
+1db93d3a0db2fb4d52b102c6a65bb0a870411ab9,remm,remm@apache.org,Apr-12-2021
+23517499b0f313b07c59cab02d74aaad4690f7b3,Igal Sapir,isapir@apache.org,Apr-11-2021
+ec29686465037c31a318fc9803856c2f6ac8fd8c,Mark Thomas,markt@apache.org,Apr-9-2021
+7b721d64754cc02031aa0a967e3ef615e0738b74,Mark Thomas,markt@apache.org,Apr-8-2021
+21fadbe02c3925f82754b44b602c1e0d64fcf361,Mark Thomas,markt@apache.org,Apr-8-2021
+aec77974a09913d1440df5eb26b4aca090afc4c3,Mark Thomas,markt@apache.org,Apr-8-2021
+ff2c4e767d225e42580b0897e509fcde1a56229d,Mark Thomas,markt@apache.org,Apr-8-2021
+adcc9495fe0158dbac72b81f5c4c6da95e9974ee,Mark Thomas,markt@apache.org,Apr-8-2021
+6f0573b0f42f00ed23e2c2f44925fc148bfdad5b,Mark Thomas,markt@apache.org,Apr-8-2021
+9cc8ceb8a1e8c119b4982c2d5d2695566264f208,Mark Thomas,markt@apache.org,Apr-8-2021
+9035ae015a1285792286f6b0d6af24e7e55f71e8,Mark Thomas,markt@apache.org,Apr-8-2021
+cf4c8874ddcee6bcdfd218e882591a6a2eed8253,Mark Thomas,markt@apache.org,Apr-8-2021
+d650aa21f12b88144439ca38331f9bef2ea7a897,Mark Thomas,markt@apache.org,Apr-8-2021
+f2bbf049bda65bea9db38babbf456015bf7d3568,Mark Thomas,markt@apache.org,Apr-8-2021
+530c990fd1343c36d9e37c8746424ee016337af9,Mark Thomas,markt@apache.org,Apr-7-2021
+09b5dcd59223d714aef205328ebb722fa1e054f3,Mark Thomas,markt@apache.org,Apr-7-2021
+d42777a3c6fda15f0d5fb6c47528e37e21c254e4,Mark Thomas,markt@apache.org,Apr-7-2021
+9242148372d6059cfacc2f4ffa81c886c3ed095e,Mark Thomas,markt@apache.org,Apr-7-2021
+642badb1d7a684d3707c594bb37344aa30d907fc,Mark Thomas,markt@apache.org,Apr-7-2021
+b32121cf75bffc62e215e4c338705951506c3d6d,remm,remm@apache.org,Apr-7-2021
+8676c3e03387959924f1522404ce6aa339466fe0,Mark Thomas,markt@apache.org,Apr-7-2021
+b293109e2c10d30706439686a014570e82807d52,Mark Thomas,markt@apache.org,Apr-7-2021
+27a0d770284ff54881d867c2fd9218030ca77097,Mark Thomas,markt@apache.org,Apr-1-2021
+48424dc8c4108c1f561e7fd8d569dd6a61842d6f,Mark Thomas,markt@apache.org,Apr-1-2021
+afb6d44574b68954fd270c2172d23be0689198f0,Mark Thomas,markt@apache.org,Apr-1-2021
+7112769e878aacdd388f75d796d6691627f5e717,Mark Thomas,markt@apache.org,Apr-7-2021
+d96e744b3c02b05839e9ad753d4d43c95ff205e7,Mark Thomas,markt@apache.org,Mar-31-2021
+28b4b98f522dfe311249193a25953abf4e7d2829,Mark Thomas,markt@apache.org,Mar-31-2021
+d51a1863f2dd9ccff4de4afe07399676fce16d29,remm,remm@apache.org,Apr-7-2021
+5651dfad395a127774af67e26ab236599311e2ff,Mark Thomas,markt@apache.org,Apr-1-2021
+443cbf493d95c9b47d39ad0a8a1e93715bda2206,remm,remm@apache.org,Mar-31-2021
+48051c24aefa49ae987cc2fea7e5f0abecf85cfa,Mark Thomas,markt@apache.org,Mar-30-2021
+386c3ec678ed0788fe39894cac76a02a3d452c77,Mark Thomas,markt@apache.org,Mar-30-2021
+8623d4becf96dce9c467600cc5791b3847e661f7,Mark Thomas,markt@apache.org,Mar-29-2021
+0d94fbb71fc378325c9d3630ad1a4bad2a0e17c0,Mark Thomas,markt@apache.org,Mar-29-2021
+1a850615aefd14061a2cc9d96f5e597fb173b798,Mark Thomas,markt@apache.org,Mar-29-2021
+c3986264bfac32694369f5d5e630f65030167066,Mark Thomas,markt@apache.org,Mar-29-2021
+769d0930b477d94edd19f051506c3b7d4f5c4ebf,Mark Thomas,markt@apache.org,Mar-29-2021
+6844ff1c8a37835ac5497c1f2916c1fa52399f43,Mark Thomas,markt@apache.org,Mar-29-2021
+c14c86c78889675ba73819cc5a92f37105214b94,Mark Thomas,markt@apache.org,Mar-26-2021
+d76786f7639cfc3327a69a8635c5e04c3b8055e3,Mark Thomas,markt@apache.org,Mar-26-2021
+e31335ae25c327910d3be5d8e73a7a3747f2561f,Mark Thomas,markt@apache.org,Mar-26-2021
+b5ff0716b4383cfab92daad219721e07c85089bd,Mark Thomas,markt@apache.org,Mar-26-2021
+45514a31b96c242e772f768cba1574152741ffc6,Mark Thomas,markt@apache.org,Mar-25-2021
+a417690be308ca145a8b5b61f0260a4f713ea331,Mark Thomas,markt@apache.org,Mar-25-2021
+70c7d663df87d35800eea571c2a1cecd4d5b4f91,Mark Thomas,markt@apache.org,Mar-25-2021
+6036c21bcdf247ec823b624149260d5b43853ea3,Mark Thomas,markt@apache.org,Mar-25-2021
+2fa851bf833acaa2774c7bfe0ee500ec03ece62d,Mark Thomas,markt@apache.org,Mar-24-2021
+5f22fa883d3d92301fe0668eafccf3863d792599,Mark Thomas,markt@apache.org,Mar-24-2021
+ed9a4ce2a27df336f1d4bc4d7230b9172ba2a8a5,Mark Thomas,markt@apache.org,Mar-24-2021
+eb8cfa2a4f5ebde23d13d131d6e158245aa1ff5d,remm,remm@apache.org,Mar-24-2021
+b59099e4ca501a039510334ebe1024971cd6f959,Mark Thomas,markt@apache.org,Mar-24-2021
+4f2340865533218ffa836ee408da60e8b6eaed5f,Mark Thomas,markt@apache.org,Mar-24-2021
+5325fec60a8d3b114357cf5af2908ef2691ef043,Mark Thomas,markt@apache.org,Mar-24-2021
+7af5bd7824c853fd68640529d33f69af6602ba80,Mark Thomas,markt@apache.org,Mar-24-2021
+586a3c348d153d0a389dbebe20f58901114e60c0,Mark Thomas,markt@apache.org,Mar-24-2021
+e0727cc4b543dfe903311914e8e2c45e927ce263,Mark Thomas,markt@apache.org,Mar-24-2021
+1b6d862f7bbb75586cdf97480d1ecf130a125ebe,Mark Thomas,markt@apache.org,Mar-24-2021
+e34b8d7f8770ee19188244062cec4c562369d521,Mark Thomas,markt@apache.org,Mar-24-2021
+d44dd7b511c187dd9771a00c11169cbb8e39772a,Mark Thomas,markt@apache.org,Mar-23-2021
+a3c00f4a8e68e3051c1165a0207a50248c0cf1d0,Mark Thomas,markt@apache.org,Mar-23-2021
+830e90024dad1a6519e7d364f7a335337863f4e0,Mark Thomas,markt@apache.org,Mar-23-2021
+8bea0cb92ee9792c100be541f530eed0cdfb8d2a,Mark Thomas,markt@apache.org,Mar-23-2021
+78fd8b3d291cd142071dbc4934154795cf96ea36,Mark Thomas,markt@apache.org,Mar-23-2021
+81e30dd766a42ebd224a628dcba9e22e33ba861c,Mark Thomas,markt@apache.org,Mar-23-2021
+2a065a51d959509c93b95f9fce5979ea39ec10a7,Mark Thomas,markt@apache.org,Mar-23-2021
+53011ceadc706049cc92c03c3af401e8e1f5f206,Mark Thomas,markt@apache.org,Mar-23-2021
+c1b85e442581ec2738493cc98ec35183830c0f99,Mark Thomas,markt@apache.org,Mar-23-2021
+22a4b3d65d2a050ca2f70d7bceaec89883bfb887,Mark Thomas,markt@apache.org,Mar-22-2021
+a9160a6cfc83adfdba18c78761ccb1b401f7b8b6,Mark Thomas,markt@apache.org,Mar-22-2021
+e7019f6bbfdce78b88b82f1ed01add25290b3538,Mark Thomas,markt@apache.org,Mar-22-2021
+1a695b38dada9563e60d06cd32086d465bcaa2a5,Mark Thomas,markt@apache.org,Mar-22-2021
+c34b60e9432a34242c0ba8c1498efa0a171fba62,Mark Thomas,markt@apache.org,Mar-22-2021
+b66b1f23f27ca1ac9da25e1d34f55d1bf8bb0b96,Mark Thomas,markt@apache.org,Mar-22-2021
+174fa5679b401bfbff11392dac01a6f662ddf700,Mark Thomas,markt@apache.org,Mar-22-2021
+b87bb5f4b96dc70e2421881413a9335069e416b4,Mark Thomas,markt@apache.org,Mar-22-2021
+5803d56dac2261a5b65680fb1d250135b20175ee,remm,remm@apache.org,Mar-22-2021
+043850ddf6b0f41867a27f6c98d1cd2acd40a8b2,Mark Thomas,markt@apache.org,Mar-19-2021
+a57f5bcddfcc65ad4d1a42e7e3d03e9be05bdfc5,Mark Thomas,markt@apache.org,Mar-19-2021
+c3215cf9e3652a7c37b45580ccbb77d5233f47a5,Mark Thomas,markt@apache.org,Mar-19-2021
+ced745df57818ea280942664991e51d287fd9431,Mark Thomas,markt@apache.org,Mar-19-2021
+c06dbae706e1907b961f5f36970e364744679c0c,Mark Thomas,markt@apache.org,Mar-18-2021
+b2b57736572eb1385130d32e5d291ee5558f2e3b,Mark Thomas,markt@apache.org,Mar-18-2021
+f558a1984ea60318e7d3405b1fbe2a246edc49b4,Mark Thomas,markt@apache.org,Mar-18-2021
+2aa646470ae9ec1e2b42930f19099544156c9386,Mark Thomas,markt@apache.org,Mar-18-2021
+368f8c4958c209f6f5b1f1394a047ed711ed843a,Mark Thomas,markt@apache.org,Mar-18-2021
+3149befcb31301bc1eb115440858d34ae8adc516,Mark Thomas,markt@apache.org,Mar-18-2021
+49e13cc363909b2bf4841315cab520eeb6fbaa3c,Mark Thomas,markt@apache.org,Mar-18-2021
+fc30f97326862af3a577b1c0bfe2397382de798d,Mark Thomas,markt@apache.org,Mar-17-2021
+f815a91b1943629539860852638a87034651d493,Mark Thomas,markt@apache.org,Mar-17-2021
+81c88b82e1f934e1c4efdd353a800c060a817dcd,Mark Thomas,markt@apache.org,Mar-17-2021
+7114289cd1b4152a1b71f785cd29d2a55c0127ef,Mark Thomas,markt@apache.org,Mar-16-2021
+94844961e76ccee6fcfb829dfeb842beaa5ea8ab,Mark Thomas,markt@apache.org,Mar-16-2021
+3643c39fd226b4368b13e7e879f8e7868a00573d,Mark Thomas,markt@apache.org,Mar-16-2021
+ec13d000e7a484f424be33998bd7e08288027904,remm,remm@apache.org,Mar-16-2021
+cfa012cd242ce885dca80e6a0b58dc25937ea672,Mark Thomas,markt@apache.org,Mar-16-2021
+dda82a1a09c9baed391343ba745a521287843499,Mark Thomas,markt@apache.org,Mar-16-2021
+8e22617f9abf090481abea578cf4689cebc4901f,Mark Thomas,markt@apache.org,Mar-15-2021
+ea3c2b57e6c8ae5bbdaee2ea0f77d965653e654f,Mark Thomas,markt@apache.org,Mar-15-2021
+1a7b9d8db55c974403a355b04eca563b63e4a5d6,Mark Thomas,markt@apache.org,Mar-15-2021
+76115a2a8681e5951aef9037120fa3babeffd9d3,Mark Thomas,markt@apache.org,Mar-15-2021
+87bb2e0f0c2d97d4be050702c06aff45eaf9bee6,Mark Thomas,markt@apache.org,Mar-15-2021
+02c202aae1789ac532e63894a9317bcda7f1fcec,Mark Thomas,markt@apache.org,Mar-15-2021
+db907f9d3cbf604754728e0b4a7e635c1f34299a,Mark Thomas,markt@apache.org,Mar-15-2021
+f4381f77289554dd01b97d39999c8cac08da1832,Mark Thomas,markt@apache.org,Mar-12-2021
+76219238d4434d026b1f2eccda2b489d2254cced,Mark Thomas,markt@apache.org,Mar-15-2021
+436f7a3989e4edf79dd8bd5ca36826a561d7c9c9,remm,remm@apache.org,Mar-15-2021
+3d73e35518c0f16439c33f14533399cc7b60525c,Mark Thomas,markt@apache.org,Mar-12-2021
+b16ffe56dd3238bdd91139f4a05116375b2b3d05,Mark Thomas,markt@apache.org,Mar-12-2021
+d5c773bed0793b872ac21e675cf5777538acf1cd,Mark Thomas,markt@apache.org,Mar-12-2021
+0c9f9bff7c3b23387c769104c662d05f2b8c4f5a,Mark Thomas,markt@apache.org,Mar-11-2021
+9b4422216734e17b77e34a96eac9e7c0c993769d,Mark Thomas,markt@apache.org,Mar-11-2021
+62ea6f7807789ca3186006f3d1eeb1dfe96f2d2e,remm,remm@apache.org,Mar-10-2021
+54c6ac7ee1c9e583f8ce25aec9be74d767a4bae8,remm,remm@apache.org,Mar-10-2021
+efe0fe8b3d6b10b7e416c32b59f60bb441831c39,Mark Thomas,markt@apache.org,Mar-10-2021
+6c3797c6014901a5cd118baec0b125e8b0a6ecf3,remm,remm@apache.org,Mar-9-2021
+480a3be7508983374d4f540a7aaabe43c6b5905a,Mark Thomas,markt@apache.org,Mar-9-2021
+bc8d75b488961ef963efef430c30bcbab2ca4564,Mark Thomas,markt@apache.org,Mar-9-2021
+f87300d2978e067c4f45bb80960dd2389d1651e2,Mark Thomas,markt@apache.org,Mar-5-2021
+de3a101b24bbd5e79283a822ea7b64cc11286267,remm,remm@apache.org,Mar-5-2021
+1e99eaf16aee080bcb8b8c363373d4f4d2676bbc,remm,remm@apache.org,Mar-5-2021
+7e7e4096893dc12119b5476491e2ec16ee5c6e4d,Mark Thomas,markt@apache.org,Mar-4-2021
+ef8b1a759f1a3b7f7f4038836a80a409fae1ff3a,Mark Thomas,markt@apache.org,Mar-4-2021
+1ecd742c29a4cfef48694977bb958fb30888cf78,Mark Thomas,markt@apache.org,Mar-4-2021
+5138997fa3fb8fff4938adef55a2c15c2d3ed821,Mark Thomas,markt@apache.org,Mar-3-2021
+56c95a84280f54455fac4bf59c85446fc0e20ee9,Mark Thomas,markt@apache.org,Mar-3-2021
+68991aac79a497dff9882efe3082d099ec79d222,Mark Thomas,markt@apache.org,Mar-3-2021
+4cb12b194b07d0dad978c13f47e0a838421ff520,Mark Thomas,markt@apache.org,Mar-3-2021
+34115fb3c83f6cd97772232316a492a4cc5729e0,Mark Thomas,markt@apache.org,Mar-3-2021
+63300af16bcf90414f51323b82bbcbbc0ebe3a87,Mark Thomas,markt@apache.org,Mar-2-2021
+4b16b429d6beac1f1c180d12d20dbb10471debd2,Mark Thomas,markt@apache.org,Mar-2-2021
+ea7e37e437ddea949de22b7b4df86d6718d3480f,Mark Thomas,markt@apache.org,Mar-2-2021
+0d6a5449cf9d3c26e09bf7123e9a5636c6177d48,Mark Thomas,markt@apache.org,Mar-1-2021
+8fffdf2b825653e8f1acb8f419a913ee77625655,Mark Thomas,markt@apache.org,Mar-1-2021
+a9f85c83bbf005bb0c7f94b7dbec3570de7d36e0,Mark Thomas,markt@apache.org,Feb-26-2021
+68332adba1771ee253bbef5c2d3bfdfa38dd5993,Mark Thomas,markt@apache.org,Feb-26-2021
+938052dd33909414878e772249ef578742f2e4b8,Mark Thomas,markt@apache.org,Feb-26-2021
+bf70b8e1f20d19991edc781abaa570e2447e62cf,Mark Thomas,markt@apache.org,Feb-26-2021
+1b5370d7907af38b64bb0d313d038b11cf0e0f9d,Mark Thomas,markt@apache.org,Feb-26-2021
+b419bd60473f0a1a3379b353f43ec11d46c5923a,Mark Thomas,markt@apache.org,Feb-26-2021
+722a19d362b67931df64e42c909833aa969aa8fb,Mark Thomas,markt@apache.org,Feb-26-2021
+ad13ceb588a3fcb1a0d169d6f5bee3267844d7ba,Mark Thomas,markt@apache.org,Feb-26-2021
+7b9dcab1df9ffc81fce87986bcf3933e646a035d,Mark Thomas,markt@apache.org,Feb-25-2021
+35a2e044d5988466b21b664610ce57b502833cd2,Mark Thomas,markt@apache.org,Feb-25-2021
+e347617791746de5aa533d034232dc478d2ac573,Mark Thomas,markt@apache.org,Feb-25-2021
+0535f4c73161761273457b5359b175a21533de03,Mark Thomas,markt@apache.org,Feb-25-2021
+61b2d5d15d46f3f0fead4294108282a1c44a74db,Mark Thomas,markt@apache.org,Feb-24-2021
+1e95c5a414bba99d0f7693dea65b84af01e8fe26,Mark Thomas,markt@apache.org,Feb-24-2021
+ce4f9a5e0e22a4a7e3005e23c0bc92339da3dd5c,Mark Thomas,markt@apache.org,Feb-24-2021
+c70da529fc98c47d3ed6b3beef2211062235edba,Mark Thomas,markt@apache.org,Feb-25-2021
+85f214bc8305a21b6e010424531366ff51b39958,remm,remm@apache.org,Feb-24-2021
+6e3a2340a23e4a87c7bd0e0290adda5dc18f3f56,Mark Thomas,markt@apache.org,Feb-23-2021
+5e974d66cd4edcb9f18207d90b2ecd433104ec06,Mark Thomas,markt@apache.org,Feb-23-2021
+ffe30d91cd90c5c02bc15ec8b15cff43f18557f5,Mark Thomas,markt@apache.org,Feb-22-2021
+23f8eb5c42c6e4bd3c877a95083020912ee67eb1,Mark Thomas,markt@apache.org,Feb-22-2021
+b9b3fa78a00e76b6344ababb1fd28cf20561cb82,Mark Thomas,markt@apache.org,Feb-19-2021
+06ed401eefbed833e862c64ce203b67e5d7bc1be,remm,remm@apache.org,Feb-19-2021
+ed63c95e4ca5ca88855416561a1dcce05fd27081,remm,remm@apache.org,Feb-19-2021
+4b8b9b1219e5c112dfc599fcc72104cfe88bfdde,Mark Thomas,markt@apache.org,Feb-19-2021
+7aa93cf8869d68843bb95682df6fc0d4daf5f88a,Mark Thomas,markt@apache.org,Feb-19-2021
+5ac227ded1eb966daddcaf4b5b22ae0b8a17b697,remm,remm@apache.org,Feb-18-2021
+e08dbf4559da7612c4060b68dfee8ce03560ce07,Mark Thomas,markt@apache.org,Feb-11-2021
+9e6f3b7328b89259a222e85c838e6104c9eb2a22,Mark Thomas,markt@apache.org,Feb-11-2021
+a9691087718618262b19e4cf44581466a138d724,Mark Thomas,markt@apache.org,Feb-18-2021
+86ccc43940861703c2be96a5f35384407522125a,Mark Thomas,markt@apache.org,Feb-18-2021
+16d4bebe84550bfd934895796aad780b7a6a0241,remm,remm@apache.org,Feb-18-2021
+e322a6b6b10623dc0adf7cf05c8423aba89bedab,Mark Thomas,markt@apache.org,Feb-17-2021
+6ef68752dc43f9d459e0ae23a4a767112ab531b9,remm,remm@apache.org,Feb-17-2021
+dc0663818a4329b965eeb05f65456379fdccf938,remm,remm@apache.org,Feb-17-2021
+abd1dead7804e99e3215e8e01a6cf7448a6b9f36,remm,remm@apache.org,Feb-16-2021
+01ceebb8e2aeaad7eea97982900928a3dbaf3056,remm,remm@apache.org,Feb-16-2021
+c4cdc27a74621666bdc4d14c293b641d566e5cc6,remm,remm@apache.org,Feb-12-2021
+5d830a5e60d37aff9ad8144d13f427e0ed5c76ca,remm,remm@apache.org,Feb-12-2021
+44b439da7ad49a045bd44648fca6a9faaa418292,remm,remm@apache.org,Feb-12-2021
+d5e342d056b04ffba8ab5ad4e1dd63ffa50956de,remm,remm@apache.org,Feb-11-2021
+eb3dfbfff450864c558b03e2e4ef3e707b62f85d,remm,remm@apache.org,Feb-9-2021
+86262775315e03bb8c4c1eb0d0753aacbbe8b391,remm,remm@apache.org,Feb-8-2021
+b02e7fddf65440699cb66211a584cfe63fce8e3f,remm,remm@apache.org,Feb-8-2021
+052ff33d95cb96958ff2af8371a32bbc563d9145,remm,remm@apache.org,Feb-8-2021
+febda9acf2a9d6ed833382c4c49eec8964bc1431,Mark Thomas,markt@apache.org,Feb-5-2021
+9d1c9e09b802a3fa7f4597c058751004b16f9b7f,Mark Thomas,markt@apache.org,Feb-1-2021
+06c014b6f5398d9985d8aff5f840574903cc980b,Mark Thomas,markt@apache.org,Jan-22-2021
+86028662d45e5f06b5354785828799429118a3a0,Mark Thomas,markt@apache.org,Jan-22-2021
+0e45d8993ba148bdc82237fced43bc732c3c8177,Mark Thomas,markt@apache.org,Jan-21-2021
+be2adfbe42a1107877884c65f9f113c98a8d7358,Mark Thomas,markt@apache.org,Jan-20-2021
+5b9c6f80f9c662018cc80fd6a2efc00b0118587c,Mark Thomas,markt@apache.org,Jan-20-2021
+e324b946fc12c979f503b497691753707a6ba9b0,Mark Thomas,markt@apache.org,Jan-20-2021
+fb63c2c50e104c6aba3a5481f1fd7fc555df761d,remm,remm@apache.org,Feb-4-2021
+bab9d8cadb18637a47863009cc22ce42dda1c34b,Mark Thomas,markt@apache.org,Feb-2-2021
+2bdf8e63fe3fe1bd1e2268596b579ba9fca09530,Mark Thomas,markt@apache.org,Feb-2-2021
+5e719fec5b04676b79a4e57d1f55c1732d8323a2,Mark Thomas,markt@apache.org,Feb-2-2021
+39f3b06ae9f18d27d5f1620d34037e17394d03f3,remm,remm@apache.org,Feb-2-2021
+cc49506e603d6e722c86e448379e877aed47d773,Mark Thomas,markt@apache.org,Feb-2-2021
+b8fbf8935225c36ada216e3713c92cabb8f5411d,Mark Thomas,markt@apache.org,Feb-2-2021
+d557c3437dafa94c59a3b87b28cca9788bbec6d8,Mark Thomas,markt@apache.org,Feb-1-2021
+b125576d149a9e990407e78701d3f82137b828be,Mark Thomas,markt@apache.org,Feb-1-2021
+ea50c079b5503f7363ab08c18163f540f69c70a1,remm,remm@apache.org,Feb-1-2021
+48c9b873ab0eef18d5a4d76cf80033ee2afca7eb,remm,remm@apache.org,Feb-1-2021
+c7f535ee869283d3ec6fb030ba805c5a8117c4f3,Mark Thomas,markt@apache.org,Feb-1-2021
+a6e4aedaf750dae023ef86503bc000642fd541b1,Michael Osipov,michaelo@apache.org,Feb-1-2021
+395a38607739cff3f17379bf2fec14eae6fd2071,Michael Osipov,michaelo@apache.org,Feb-1-2021
+b4f08b00107d2b0fb7ea65dff5c6e9d71a758e48,Michael Osipov,michaelo@apache.org,Feb-1-2021
+7ed844c07eb4f90e2d92538be5b57824d780912d,Mark Thomas,markt@apache.org,Feb-1-2021
+c4f5e2c9ccd7d65953e3c685d25e436e8330e142,Michael Osipov,michaelo@apache.org,Feb-1-2021
+a616bf385a350175a33a0ebf09d8b6688344e9e3,minfrin,minfrin@users.noreply.github.com,Jan-15-2021
+069801fc4458feaad6c68653f101287fb9f3a9d7,remm,remm@apache.org,Jan-29-2021
+8e7e1d2359eab1dae0777f34144cec614e0541d1,Mark Thomas,markt@apache.org,Jan-28-2021
+dd6094b88a722880766bf0afadac93238a82fd56,Mark Thomas,markt@apache.org,Jan-28-2021
+ee7335a353e4cdf06b02452cfb5e04a01ef98d82,Mark Thomas,markt@apache.org,Jan-28-2021
+43581c6908745c7d4cfa232ac45e22c37009e0d2,Mark Thomas,markt@apache.org,Jan-28-2021
+719d428a6ced6a4559bbccb6addd74feed0622bc,Mark Thomas,markt@apache.org,Jan-28-2021
+c204060bbb1d14089b1421ce8e0f15b21b0311de,remm,remm@apache.org,Jan-28-2021
+86856951e3f95d429a887c72b2d31384eacfea67,Mark Thomas,markt@apache.org,Jan-28-2021
+83dedac138b0b1e33ae51de01227b7bbe1fa44d4,remm,remm@apache.org,Jan-28-2021
+35addcab7fe1b487626b5d5e9e74b04e65f2ceae,Mark Thomas,markt@apache.org,Jan-28-2021
+bc0376ba9f8224083407e3895aec4879a76fa7fb,Mark Thomas,markt@apache.org,Jan-28-2021
+e041171e1afc141aa93cf5c49e2b7a1890c63e50,Mark Thomas,markt@apache.org,Jan-28-2021
+547a8d69fbfb3323a408e47464d98e42542a3d02,Mark Thomas,markt@apache.org,Jan-28-2021
+c56c139e69215ce76fa18b67d75353f1edc64617,Mark Thomas,markt@apache.org,Jan-28-2021
+6a5bce065ca9606c75533c29cbccf2762a27b338,Mark Thomas,markt@apache.org,Jan-27-2021
+efb0c9b665eb67a0c61a24cd619824e687bc1128,Mark Thomas,markt@apache.org,Jan-27-2021
+fe90fba5a6f09ba2730682294de398eec3662291,Mark Thomas,markt@apache.org,Jan-27-2021
+b8a7ab78caaea570968684f18b1743b2fa84a38d,Mark Thomas,markt@apache.org,Jan-27-2021
+f47b9f4e2d9f7e7c7187ff07acfd90e6c1feeb4a,Mark Thomas,markt@apache.org,Jan-27-2021
+c4754410f2cf0904940568fb33d4e7c2f87eac61,Mark Thomas,markt@apache.org,Jan-27-2021
+654e01edd2c884af8456be08466f830ab9163dec,Konstantin Kolinko,kkolinko@apache.org,Jan-27-2021
+fa3a9dc142eb83f1129e5018a6cce53c282b05b2,Mark Thomas,markt@apache.org,Jan-26-2021
+464b15b4a3a1837d6ea63f19718ee477de53e706,remm,remm@apache.org,Jan-26-2021
+8706f885a61ef38a1607e5fd9ead900928e97bf1,Mark Thomas,markt@apache.org,Jan-26-2021
+956dfbdab59350b698eac5448dd9dde9730ae4b7,Mark Thomas,markt@apache.org,Jan-26-2021
+600a3acf83ca0fcb443866acecdba23025beb9bb,Mark Thomas,markt@apache.org,Jan-26-2021
+0e9451d21753225950a5c3be209b49507f71ea7f,Mark Thomas,markt@apache.org,Jan-26-2021
+c01057b833ef834327ef577a7686b832bcedc9e5,Mark Thomas,markt@apache.org,Jan-26-2021
+42d0b92d63bcd4a6a5dbb73315f558c13fab2857,Mark Thomas,markt@apache.org,Jan-26-2021
+405039c29f5df7c6bbce002a58c8a1dcb41854a5,Mark Thomas,markt@apache.org,Jan-26-2021
+7a4fb457532864b0913c8a64e4c1b85d885c7963,Mark Thomas,markt@apache.org,Jan-26-2021
+6e239b4c3c522635ed76e723958c02011815e387,Mark Thomas,markt@apache.org,Jan-26-2021
+ae050b72d6d3929084aece5dc15009e2583e87ce,remm,remm@apache.org,Jan-26-2021
+838287e7d62d8992949f394e40717f68b75b133b,Jean-Frederic Clere,jfclere@gmail.com,Jan-26-2021
+7bb9eeced9522058796c3dfdc759e3f5eedb258d,Mark Thomas,markt@apache.org,Jan-24-2021
+0dacb9126de98843970dfff0e828eb42eefaeb69,Mark Thomas,markt@apache.org,Jan-22-2021
+12360e3064789e42e25b79bb17416a0e24d6b530,Mark Thomas,markt@apache.org,Jan-22-2021
+419cd04e808d503bb46d507db175f4d25d08117a,Mark Thomas,markt@apache.org,Jan-22-2021
+db727e926b2746496f69088558bad5cff726f46d,Mark Thomas,markt@apache.org,Jan-22-2021
+deac802a08f024027db9b5b5b634437dc58b683d,Mark Thomas,markt@apache.org,Nov-25-2020
+8d5f79bda7f05d329ca0ed2ba7939715c853abca,Mark Thomas,markt@apache.org,Nov-16-2020
+03a3edf5572e8336321d49bb3db3f4d663b7f935,Mark Thomas,markt@apache.org,Jan-22-2021
+52612b8d850692a060d628b179eef89e64244f33,Mark Thomas,markt@apache.org,Jan-22-2021
+0c23b7edb38435c1a5872073173aefdc2645af8f,Mark Thomas,markt@apache.org,Jan-22-2021
+68746c4aceb4f596f0ed3129668c6f63bcc0ed5a,remm,remm@apache.org,Jan-22-2021
+5ee9947fee01b7fa3e95d51a3092e9f5556d6df8,remm,remm@apache.org,Jan-21-2021
+721e6e1f21d4b0180f6e5d3d225878d27e21f7dd,remm,remm@apache.org,Jan-21-2021
+0fe5c6fab78178cdc80bfebc7a5ffc5c26d58a43,remm,remm@apache.org,Jan-20-2021
+6d66e99ef85da93e4d2c2a536ca51aa3418bfaf4,Mark Thomas,markt@apache.org,Jan-20-2021
+3c3fabe84c4419d77f1add766cf63ede7c695f79,Mark Thomas,markt@apache.org,Jan-19-2021
+f5af4571837553eeb76a7b3b8d79dcb9664847ca,Mark Thomas,markt@apache.org,Jan-18-2021
+4ab1bed56f1e642e9ddf07d33d3b84a98bbee7ed,Mark Thomas,markt@apache.org,Jan-18-2021
+557898265e54403c35d5c32bf2b517ccd8a09efa,Mark Thomas,markt@apache.org,Jan-18-2021
+bda7cbb2b589dd8c098b02648f34323107d15279,remm,remm@apache.org,Jan-18-2021
+16e3ef43f2fd3aa4ac9dcf14a8e985ef0754022c,remm,remm@apache.org,Jan-18-2021
+7efe56ec65d7904347c66d2841683eff3c9f9f82,Mark Thomas,markt@apache.org,Jan-18-2021
+aee12ff2d270f38a61edbd0b63f65e46c12826b7,Mark Thomas,markt@apache.org,Jan-18-2021
+c58fe9a378bb23ad202f91780b4cd936e6e8a3c5,Mark Thomas,markt@apache.org,Jan-17-2021
+3396e7bc419415cbe530be1ba0eba241d9f70626,Mark Thomas,markt@apache.org,Jan-15-2021
+3f889eedce818351b216f87aae67e2a77816f7ab,Mark Thomas,markt@apache.org,Jan-15-2021
+b346ab44c212af9475729a47d16b19ed4f0f276f,Mark Thomas,markt@apache.org,Jan-15-2021
+ac39b5658cfc875a0c9dc339eb114256182a92ce,Mark Thomas,markt@apache.org,Jan-15-2021
+b4775eec749ea15117719900346cf2563137db9e,Mark Thomas,markt@apache.org,Jan-15-2021
+c9214a0f18758de37a1fb432cfd25532953ea635,Mark Thomas,markt@apache.org,Jan-15-2021
+8c69446a7b5c0c315c9a6c9ef50f84af28b5d400,Mark Thomas,markt@apache.org,Jan-15-2021
+dd757c0a893e2e35f8bc1385d6967221ae8b9b9b,Mark Thomas,markt@apache.org,Jan-14-2021
+9768ef82f4481c83d25b495fcc959f6d92bbc4a2,remm,remm@apache.org,Jan-8-2021
+829bfd74cd9f08e38ce8671042819f289651f342,Mark Thomas,markt@apache.org,Jan-7-2021
+0ee33826560943b1c4852326746f79ba90b75c4e,remm,remm@apache.org,Jan-7-2021
+35ada2b6416b7579eb95438c1d358650f17c9da6,Mark Thomas,markt@apache.org,Jan-5-2021
+ff46d458cf41abc83bdfecbae2169ee9e0f6569b,Mark Thomas,markt@apache.org,Jan-5-2021
+4f2b542d1d033774629fc934bce41b7f015d65e9,Mark Thomas,markt@apache.org,Jan-5-2021
+6b03b2ca88f07c0aa82d2bb4da0826a2a2400d4e,Mark Thomas,markt@apache.org,Jan-5-2021
+c851c021438442d26fcf23b93d49f0734099f947,Mark Thomas,markt@apache.org,Jan-5-2021
+84e82e88da9b5dab52cda3eb153daa74d52aa53f,Mark Thomas,markt@apache.org,Jan-4-2021
+22caea3a8a77bb894c0effffc249c7d2c594e59d,Mark Thomas,markt@apache.org,Jan-4-2021
+caac158702f12c784ea1c1a2ac2366bee063cbb9,Mark Thomas,markt@apache.org,Jan-4-2021
+7767f68af7aee67f92c1cf7106420937a9db5998,Mark Thomas,markt@apache.org,Jan-4-2021
+9e76286ec8831e791568096c16692340704b26b3,Mark Thomas,markt@apache.org,Jan-4-2021
+7d6ba2091649a56bb19dd0b1e76a5b65d4e8bb18,Mark Thomas,markt@apache.org,Jan-4-2021
+0974ffcc1880ace148f9effd35e27728cccfc558,remm,remm@apache.org,Dec-30-2020
+704e37a4fd21d16e48e45e78823f371598fbb02e,remm,remm@apache.org,Dec-29-2020
+55f2f355c778dae68a4a154cc6eaf10e997872c9,remm,remm@apache.org,Dec-29-2020
+6593fa7b23a67ae5396c76a7893c45b4e5616135,Abhishek Sah,abhishekshah67@gmail.com,Dec-28-2020
+884b997f5a9a7da9f696d00574d3b727afbfae8c,remm,remm@apache.org,Dec-23-2020
+296766ed66047115e409d69895f739e3b2a2c30d,remm,remm@apache.org,Dec-23-2020
+f331cdee808a0753044fc4103d869d02ae79ad79,remm,remm@apache.org,Dec-22-2020
+538fb427d32d574006372a319c276adac873006e,zzk0,30856589+zzk0@users.noreply.github.com,Dec-21-2020
+e8dbc1919a7c44a4632664f6a593856a72d62559,John Bampton,jbampton@users.noreply.github.com,Dec-18-2020
+588410cffd385ff4307215c236ecb7a5fbefb705,Martin Grigorov,martin-g@users.noreply.github.com,Dec-17-2020
+92eabe5b666f3a6c699ef70bb64be0e8716d006a,lan,lanettiesso@gmail.com,Dec-17-2020
+0a2ee9b1ba7ded327c2aa2361cccff6a16cdef84,remm,remm@apache.org,Dec-15-2020
+61f4baf64c69c5fd738d34b6139eda4549258cea,remm,remm@apache.org,Dec-15-2020
+f42f1899eda28244218bf4d29602bc99574d4486,remm,remm@apache.org,Dec-15-2020
+8f5a59147aa03800c66cc41815f7ec4ae0ea5d0c,remm,remm@apache.org,Dec-15-2020
+ec7147cf9c8ff240e27fec9943a681e6cc849286,Martin Grigorov,martin-g@users.noreply.github.com,Dec-14-2020
+8e84084e13c421d7297955f99bba257da0b37f39,Martin Grigorov,martin-g@users.noreply.github.com,Dec-14-2020
+efc6af6778ff3c1605d8b053f6fd2a4d9fd8e0d3,remm,remm@apache.org,Dec-14-2020
+98ef76388974ce7e17bcfb9d0602a915e3c206f9,zhouzekai,zzk9460@gmail.com,Dec-12-2020
+a5b3b07ace0b04db02ef99178099f0998b96e094,Mark Thomas,markt@apache.org,Dec-11-2020
+834f356384b47fc8b79dbaa1d50d6db9b13628fb,rainerjung,rainer.jung@kippdata.de,Dec-10-2020
+c400239cb17d82f8e10f12e40881293b7d2d70b9,Mark Thomas,markt@apache.org,Dec-10-2020
+a6b67811ef62d475d095166c63f4d9bcab54f15b,Mark Thomas,markt@apache.org,Dec-10-2020
+630adb6272beb02cd709465441e841f2d362b6fb,remm,remm@apache.org,Dec-9-2020
+f41c7d91e2d33f4d09254f7a46df63960238bbc4,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Dec-9-2020
+0ee5e6a71d306a68d652ab5d72bf008a71c0b311,Mark Thomas,markt@apache.org,Dec-8-2020
+73adbe757c209343cc9507c5c7d98c7aa78b9d75,remm,remm@apache.org,Dec-8-2020
+047d2f2bfd8f18becfd3bf847aafc4dd628cb3a8,Mark Thomas,markt@apache.org,Dec-8-2020
+74d1dcba19d895e9ff08e4369e1f6c123cefbc03,Mark Thomas,markt@apache.org,Dec-8-2020
+dc1f1abe397cf2ad2bcfbcfddaabea8e269dfbbd,Mark Thomas,markt@apache.org,Dec-8-2020
+a69eb700eae14b280bcae75e2a02c9c1298d9b91,Mark Thomas,markt@apache.org,Dec-8-2020
+16ef7de4d3822e9683d5a403bd2c086011e86853,Mark Thomas,markt@apache.org,Dec-8-2020
+b79220c5dc1728fca7ede13ea6e387b276e9a3d4,Mark Thomas,markt@apache.org,Dec-8-2020
+b8d71d547aa865f05846f02461adb977b878f644,Mark Thomas,markt@apache.org,Dec-8-2020
+eb4532d714d092372fe50a59ae52cac138c26f99,Mark Thomas,markt@apache.org,Dec-8-2020
+8e8a5c3d0b823acb9617f01c44c085b79ed41be5,Mark Thomas,markt@apache.org,Dec-8-2020
+fbfca2049afc41544bac2e12c8e26d6bb1027e7d,Mark Thomas,markt@apache.org,Dec-8-2020
+2e15b497f3de8aec888e76ed52e33cbcc4bb828f,Mark Thomas,markt@apache.org,Dec-8-2020
+a956bd9e0c1d4b4a099e597dabbc84e3f3fd32a2,Mark Thomas,markt@apache.org,Dec-8-2020
+19ac2930d4ed4948683ffbee600d9506363e44e9,Mark Thomas,markt@apache.org,Dec-8-2020
+916b57c521582af77f704fbec95be86fa0ae0937,Mark Thomas,markt@apache.org,Dec-8-2020
+066f8c29283f209b062f8c28abe18995d415c0fe,Mark Thomas,markt@apache.org,Dec-8-2020
+27200cfa7de383db5b8c0123da1b06e24b397004,rainerjung,rainer.jung@kippdata.de,Dec-7-2020
+b7d59b2fb15901807237fd0c608aa04add5db6c4,remm,remm@apache.org,Dec-7-2020
+d61513411dee4bf2acdee5427384d058ca3a6cb9,Mark Thomas,markt@apache.org,Dec-7-2020
+a9d67fd7c08272c01b870edd24d001740d88e5f6,Mark Thomas,markt@apache.org,Dec-7-2020
+2ec580309ccb35a2a8e2bb5f6d8ba6a1ae742645,Rainer Jung,rainer.jung@kippdata.de,Dec-7-2020
+778bd1dd6296271c9407c508a4a6a101af0ab4f1,Mark Thomas,markt@apache.org,Dec-7-2020
+ab1435b57d6ca2118312f46307c6608c16757972,Rainer Jung,rainer.jung@kippdata.de,Dec-6-2020
+74f474045c8a28747675509c0bae031e939f23f4,Rainer Jung,rainer.jung@kippdata.de,Dec-4-2020
+1e3bd8abdd6105fc1e24dbd438e8e4e4619b9d01,Mark Thomas,markt@apache.org,Dec-4-2020
+0fbab050ce47157e22c9f1eae776c12c1adad346,Mark Thomas,markt@apache.org,Dec-4-2020
+10a059d81d32e192b69277718ec03712a70495de,Mark Thomas,markt@apache.org,Dec-4-2020
+be54a6e76053478a731e26e8a27eadd1dd6f9b5c,Mark Thomas,markt@apache.org,Dec-4-2020
+418986821ddc0859023571a62086f0bd675e9227,Mark Thomas,markt@apache.org,Dec-4-2020
+cf84fb6fd7119de3d7c2607d91ee3f9c4d9959a8,Mark Thomas,markt@apache.org,Nov-25-2020
+3bc0f9101e07c34f59c626687d8af5d358a26c7f,Mark Thomas,markt@apache.org,Dec-4-2020
+9ede7c8232d24b93704dbfb76bcc4f6d72d20336,Emmanuel Bourg,ebourg@apache.org,Dec-4-2020
+0b8b394241963e274e61c630c5ef5e9b191f2860,Emmanuel Bourg,ebourg@apache.org,Dec-4-2020
+71cbf992386ac53cff22d4dee8b7836e23876d8d,Emmanuel Bourg,ebourg@apache.org,Dec-4-2020
+d03a176f94b42564ac5f6f28b587ad0e483716e2,Emmanuel Bourg,ebourg@apache.org,Dec-4-2020
+b39da50bfa564eeaf2235a110233f794c7897a81,Emmanuel Bourg,ebourg@apache.org,Dec-3-2020
+df3a32336700ec60c45f640bf94c4ec0dcd02492,Mark Thomas,markt@apache.org,Dec-2-2020
+a9aa71ec61aca7b5e750bde1042c1bbd5d10c7ac,Mark Thomas,markt@apache.org,Dec-2-2020
+01ad27c568594f32ab178983d97e53b8b3b25d25,Mark Thomas,markt@apache.org,Dec-2-2020
+b2714bab61358678fdfa16ec364baa808925c17b,Mark Thomas,markt@apache.org,Dec-2-2020
+0f1a1114428af6a212bdd23264123d1ed994ce31,KeiichiFujino,kfujino@apache.org,Dec-2-2020
+382dffc41f4f84e6d775739f73c4a1aac1711bb8,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+521b3a3e481ae121d5006124611a89a4c4a1302e,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+f3b75d2eddd5832b2deab423ab7d9b2415ac77f5,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+9f18abee8cf0d9945e62d9a5cdeb2db3206662ce,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+24750228694b58e7631afeedf651a9f15779bad3,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+2728f60e83b9b46b5dd2529d6efed70b29da8929,Emmanuel Bourg,ebourg@apache.org,Dec-2-2020
+03cd304b28157cce56fdb82bd328477cd8c563cd,Emmanuel Bourg,ebourg@apache.org,Dec-1-2020
+98fd8e1f5696970922720c7cbf909ce65361370d,Mark Thomas,markt@apache.org,Dec-1-2020
+8495cd7c40dcfb90fb97afed66c3afd4a851668d,Mark Thomas,markt@apache.org,Dec-1-2020
+9406b8501abd6caf507f10aecbcdcc2fca110f81,Mark Thomas,markt@apache.org,Dec-1-2020
+72323cb76307698b66b0253a34bfbb4a9ea034fe,Mark Thomas,markt@apache.org,Dec-1-2020
+37f8bf5e7d499465897568cbd48b918cde7ad587,Mark Thomas,markt@apache.org,Nov-30-2020
+5da629578186c1d233c943c31dab02b293d25350,Mark Thomas,markt@apache.org,Nov-30-2020
+abab1a48e0d4bab8a1508a88aa09cf72d2e20e7d,Mark Thomas,markt@apache.org,Nov-26-2020
+479a6a932181ee76d316dfec3bfeeaf39c0a2a6d,Mark Thomas,markt@apache.org,Nov-26-2020
+997ea27b77fe08db2bc19bdb8b15ddbde9662675,Mark Thomas,markt@apache.org,Nov-25-2020
+02b968334d3d3029fbe543d9f5291a150bec5bc0,Mark Thomas,markt@apache.org,Nov-25-2020
+a1cbdab44b243515a5e8a9fec3c6fa1ac9ba254a,Mark Thomas,markt@apache.org,Nov-19-2020
+2883d5c6403bb17ea8c6112e5ed72170a38ef84b,remm,remm@apache.org,Nov-25-2020
+4049a74f0e8556b1a230858a71f2217539c674a5,Mark Thomas,markt@apache.org,Nov-23-2020
+0b5d5c91bafd3f61938917490ab531474dbb778a,Mark Thomas,markt@apache.org,Nov-23-2020
+e02480700374ae8147fb4b9a1d24b96e7fa23041,remm,remm@apache.org,Nov-20-2020
+8bb2553866cff2cfbfdb556ffcacd9a326c0a92b,Mark Thomas,markt@apache.org,Nov-19-2020
+f46cf05337bae707f567145d757269b75219c81b,Mark Thomas,markt@apache.org,Nov-19-2020
+fe8472d62b11a027d0fc1ec10c8849fc4ef639a9,Mark Thomas,markt@apache.org,Nov-19-2020
+d1a23ea387acae51b75776f67726f176342f9329,Mark Thomas,markt@apache.org,Nov-19-2020
+9856bc93ec64ca74d7a1987ba0d3fc75674d792e,KeiichiFujino,kfujino@apache.org,Nov-19-2020
+a330f8e1619b56baf7386968c99caa7bdb2591a9,Mark Thomas,markt@apache.org,Nov-19-2020
+3f3150f1a3f949a19f51e857c69e90ba2d362b82,Konstantin Kolinko,kkolinko@apache.org,Nov-18-2020
+b3806e44c52576d867e46d32cc1172f26720e13a,Konstantin Kolinko,kkolinko@apache.org,Nov-18-2020
+07607ca50a00e0224510b776023ad7b6a8d6f648,Konstantin Kolinko,kkolinko@apache.org,Nov-18-2020
+d0d773e9691e17251a065d7ca92b1339d8c826ab,Konstantin Kolinko,kkolinko@apache.org,Nov-18-2020
+3285734aa74f470047a502cee85487c6431d2863,Mark Thomas,markt@apache.org,Nov-18-2020
+8b8d7e1f72b9dee6eff0ebd468340511e1298580,remm,remm@apache.org,Nov-18-2020
+e863f544f94a4435bcd9d4b98760f99d200c3407,Mark Thomas,markt@apache.org,Nov-17-2020
+4741f50f5632ebc15d93057ac40886cd37a607ec,Violeta Georgieva [VMware],violetagg@apache.org,Nov-17-2020
+b34ecb6e684ffc31f56e213210d947e646fd1283,Mark Thomas,markt@apache.org,Nov-12-2020
+45aeed655771308d5185d9dbab8e29a73d87509b,Mark Thomas,markt@apache.org,Nov-11-2020
+13721f9ebbbd924710230279fbfb8e8f6378cca0,KeiichiFujino,kfujino@apache.org,Nov-11-2020
+20edb410286fdfe141dc0178f361493d4f3ca72c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Nov-11-2020
+590f7d9298584567d57c2e1eb7b53e2ce283d457,Mark Thomas,markt@apache.org,Nov-10-2020
+da3b672ed6b59afbc6341c2bb00aad435bcf7a9b,Mark Thomas,markt@apache.org,Nov-10-2020
+0ca2ba30dae067943ec390b98ad5c8e869eb9189,Mark Thomas,markt@apache.org,Nov-10-2020
+35347c5893b3b2f63277a6c65e2824ed25a04939,Mark Thomas,markt@apache.org,Nov-10-2020
+b1ec24d384f012e933c3fcb1f761e991a51908df,remm,remm@apache.org,Nov-9-2020
+c38af7c7305ba3942ca441496be9f703beef9a86,remm,remm@apache.org,Nov-9-2020
+3738ba1b5b7c7eedf7bf3ad33ef32460e810e3c6,Mark Thomas,markt@apache.org,Nov-9-2020
+8d2fe6894d6e258a6d615d7f786acca80e6020cb,Mark Thomas,markt@apache.org,Nov-9-2020
+7f004ac4531c45f9a2a2d1470561fe135cf27bc2,Mark Thomas,markt@apache.org,Nov-6-2020
+7f68b1422dbe25db49d8dfb0e16e3c3468d3b3a6,Mark Thomas,markt@apache.org,Nov-6-2020
+8a89da0acc4d2aa2a06f684c49f220a7d43273db,remm,remm@apache.org,Nov-6-2020
+c0032f2147eaf952b7b9f6becca7f4bdef6e1551,Mark Thomas,markt@apache.org,Nov-6-2020
+3f20e75607eb3d929fadb018f73dfa7fae46b76e,Mark Thomas,markt@apache.org,Nov-6-2020
+557c64e19c078ea45ec59348caf478f7bbbdda0c,Mark Thomas,markt@apache.org,Nov-6-2020
+3b6e14993fc2b3a55e87f3d56b6a6d4df417cd59,Mark Thomas,markt@apache.org,Nov-6-2020
+b1dc0dcb746ec6fdc718cea9c99de57dc5cbaf27,Mark Thomas,markt@apache.org,Nov-6-2020
+f06dcf09b1b9986d7b5ef40c4dac39caaae7d9a2,Mark Thomas,markt@apache.org,Nov-6-2020
+11e043fd381846b0233d5cba8c711b9b6db0814b,Mark Thomas,markt@apache.org,Nov-5-2020
+c156c3cbfc0a9a4a9a8cb3182506af03f1d5dba4,remm,remm@apache.org,Nov-5-2020
+f8fde70263fd9e5a087cf57df9af34f5e77342fb,Mark Thomas,markt@apache.org,Nov-5-2020
+2b5cb69e6de7b6568ecddaed68948fc9d222fd06,Mark Thomas,markt@apache.org,Nov-5-2020
+40660b8590bf2be73676958c95010664a4f34cf0,Mark Thomas,markt@apache.org,Nov-5-2020
+a9584808041497015cd6dbb4b098096a264fe18e,Mark Thomas,markt@apache.org,Nov-3-2020
+092e7eaa23c96aab2d7f93c023174c535c1afcf3,Mark Thomas,markt@apache.org,Nov-3-2020
+9d3896a434e35cf8e9ebf1c95a81e1fcb739866e,Mark Thomas,markt@apache.org,Nov-2-2020
+ab63d6eed4e3be786a9c0626cd658f2b57f14cc7,Mark Thomas,markt@apache.org,Nov-2-2020
+1a338aa178b2d03b2296c15f446d9f7f21e240e3,Mark Thomas,markt@apache.org,Nov-2-2020
+85d5a9fab0d25554a698c6b2fb5c69516b84e12e,Mark Thomas,markt@apache.org,Nov-2-2020
+c9dec4c103362c316d2808dccfb3b7e2a9d4b3a9,Mark Thomas,markt@apache.org,Oct-30-2020
+154b7929b56c0565bf23739380b455c032d2341e,Mark Thomas,markt@apache.org,Oct-30-2020
+5a220cf4ed93c5feede569e086385e4e2ebb81c5,Mark Thomas,markt@apache.org,Oct-30-2020
+a059d48cd7a592dc25e8957b2fb5fd52bffa2978,Mark Thomas,markt@apache.org,Oct-30-2020
+917f4f8fb63dd96c9acdedbe282a53717b5fcd95,Mark Thomas,markt@apache.org,Oct-30-2020
+947104843b04a711bd0c406f47d676f809381edb,Mark Thomas,markt@apache.org,Oct-30-2020
+7444f1e13b091e0c140cf4959c4530e84ef67fdd,remm,remm@apache.org,Oct-29-2020
+9db8adbb3da30173c26c55b83c00cd65b6d2aa34,Mark Thomas,markt@apache.org,Oct-29-2020
+3ecb6633ff958812635f36a0d1274adba5b0ef1b,Mark Thomas,markt@apache.org,Oct-29-2020
+717387f9df4a933f18a3f44ded685300002b33eb,remm,remm@apache.org,Oct-28-2020
+2212a103eedfcae932aff9488f84b6a5e8d0949f,remm,remm@apache.org,Oct-27-2020
+cc0dfd42bc61bee15cc0d7179f271889ad7bf324,Mark Thomas,markt@apache.org,Oct-26-2020
+a4811220f40e1e699f373da4e3dc2e1459a83cdc,Mark Thomas,markt@apache.org,Oct-26-2020
+517f6689f6d9be236aa8234c3edf190030529f70,Mark Thomas,markt@apache.org,Oct-26-2020
+7b51c5d69fecdf90939b7adad30615aa913575c1,Mark Thomas,markt@apache.org,Oct-26-2020
+c4787f4289b9216217c34cb02f81d74d9daabd2b,remm,remm@apache.org,Oct-22-2020
+c6f576416900a4e72aa9a2d8ddf97b1e41f1220a,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-21-2020
+6f934c7f6e204321f5add7e66a37036f00f80075,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-21-2020
+647ad9b641042ccf8cefdcbe6e5ca8900fdf54df,Igal Sapir,isapir@apache.org,Oct-20-2020
+6fe9ef6c9af4682178cfb48e5fab1f132da0464d,remm,remm@apache.org,Oct-20-2020
+f938e1864387038994cc34ce1ba45e4fa2813a77,remm,remm@apache.org,Oct-19-2020
+f48b7187951f998a48dc07121fe8593a2015b99d,remm,remm@apache.org,Oct-19-2020
+cf5130a39348e20966faf89f4c3e2183f37ad73a,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-19-2020
+854d56a69f6fa26d22d9a9bad0c7921bdfb5e384,Igal Sapir,isapir@apache.org,Oct-18-2020
+04c7bf00144e38c7b1128e4bb5fed310a1ccfec8,Igal Sapir,isapir@apache.org,Oct-18-2020
+d564f63c58a4059ce9c53052d87e4656b666009b,KeiichiFujino,kfujino@apache.org,Oct-18-2020
+fcd87edac2e2a86108afc4781eb8be1b0388058e,Mark Thomas,markt@apache.org,Oct-16-2020
+5c77665d560be3aa0216eb658089c56815a3a499,Mark Thomas,markt@apache.org,Oct-16-2020
+66df2af5047c682e259559e2e38c2d271c16b8fb,Mark Thomas,markt@apache.org,Oct-16-2020
+8008253814a14eb7985d85d85ef42700460975af,Mark Thomas,markt@apache.org,Oct-16-2020
+9ead1c192007318c7d9deb78d01f7eac5e801e3e,Mark Thomas,markt@apache.org,Oct-16-2020
+f8bae5ef16983529d1a1705fff3ff8941ff4a362,Mark Thomas,markt@apache.org,Oct-16-2020
+be191d8ad87c8075352566f190108bbb5c83a6f2,Mark Thomas,markt@apache.org,Oct-16-2020
+e2d9d6a850630faa62653738a8d2f622df57956b,Mark Thomas,markt@apache.org,Oct-16-2020
+1b27eec74f80532ab539323450cb4f11a117f46d,Mark Thomas,markt@apache.org,Oct-16-2020
+7554b83d90099eeba40d07984be1e83209375c3a,Mark Thomas,markt@apache.org,Oct-16-2020
+329fbb14fe61b713c3cf56dceef082a29b69cb9e,Mark Thomas,markt@apache.org,Oct-16-2020
+5b396227db707addc5fd9cc92494a29fefdf47ed,Mark Thomas,markt@apache.org,Oct-16-2020
+4b334d8326914dbfce4cd34515b053e0601d0a49,Mark Thomas,markt@apache.org,Oct-15-2020
+31d9213ee15b6b54933cc9b72c763d546f09905c,Mark Thomas,markt@apache.org,Oct-15-2020
+55de48cf786f78b941f2a2c19443257182036035,Mark Thomas,markt@apache.org,Oct-15-2020
+3082a43ed3ac49d66ef9759ad5ea4455a51c3d25,Mark Thomas,markt@apache.org,Oct-15-2020
+6cb35bd585faa15e1a9ef52dfc1512fc9079be53,Mark Thomas,markt@apache.org,Oct-15-2020
+4c54a2bf1642b147b7604362d07e6dbdbd3cfc36,Mark Thomas,markt@apache.org,Oct-15-2020
+4db67333e133df54cad5a7f51253fc101293ac79,Mark Thomas,markt@apache.org,Oct-15-2020
+c5e4066fc25c2b8611e476199d3361341c473257,Mark Thomas,markt@apache.org,Oct-15-2020
+dbbba7bbe67bd1b1af7dd216d7566859f2b854ec,Mark Thomas,markt@apache.org,Oct-15-2020
+42a0841d289a35117da842201622454a9f387cd7,KeiichiFujino,kfujino@apache.org,Oct-14-2020
+35b2d79ad26535deedcc0c6bea2a057138e1bd30,remm,remm@apache.org,Oct-13-2020
+a2f66240c1f09312bc045eec8af268d60129d9bb,Mark Thomas,markt@apache.org,Oct-12-2020
+bac631185d3e1d9ca38ea7805ecedf2f8cb90681,Mark Thomas,markt@apache.org,Oct-12-2020
+97dad1177cfa09aeff60c5b9e2eb021b42c5fd25,Mark Thomas,markt@apache.org,Oct-12-2020
+0dc0d7ed43d55aaa2766353844688df0075cccb8,Mark Thomas,markt@apache.org,Oct-12-2020
+d6e5d838a9565c0c4bfeca4396e6266d21a80288,Igal Sapir,isapir@apache.org,Oct-10-2020
+466d1a5a281973e8a12721f0fe4b4c72cc4fa07d,Igal Sapir,isapir@apache.org,Oct-10-2020
+6a043936f0497a9e5c266cc75cc397f8b50dac45,Igal Sapir,isapir@apache.org,Oct-10-2020
+7a7ffc20b4fa812acf779524c5794e991e677ce2,Igal Sapir,isapir@apache.org,Oct-10-2020
+62a684cd2b2039a68e74813cf4e20fc95a2cebe4,Mark Thomas,markt@apache.org,Jun-24-2020
+781a33e6f83faad4f0a3475540c694c9d15c7f11,Mark Thomas,markt@apache.org,Oct-9-2020
+0aae9bd17f5be1c4ca1de199f11a98e855b0389f,Mark Thomas,markt@apache.org,Oct-9-2020
+374690d5793248f26d5894a33bb5ed562e22da91,Mark Thomas,markt@apache.org,Oct-9-2020
+791ef2126b40042bd4c52b4938842d1472c5fc61,Mark Thomas,markt@apache.org,Oct-9-2020
+dda893da40f7f4938e74d130ff1915d714fb7f54,Mark Thomas,markt@apache.org,Oct-9-2020
+251111b55a4adb5f792dacc1a7418d7112f6f4e8,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-9-2020
+a0ae809557a9b9d8f1a466fc9264cc8af20ff2d1,Mark Thomas,markt@apache.org,Oct-9-2020
+3e03ceefd549684ba26b4af0e6cf738b2a1dd42e,Mark Thomas,markt@apache.org,Oct-8-2020
+f913b0d3452a1bccbfa11547ef929d380bfd5ef6,remm,remm@apache.org,Oct-8-2020
+c53dc951c8b35590e436b2590431645dc33d9c0b,Mark Thomas,markt@apache.org,Oct-7-2020
+97db4d0ebcf3f3f634ab495fc8df3e2b773abf59,Mark Thomas,markt@apache.org,Oct-6-2020
+1ef51f02fd55d7c2487a8c412ca9651f29e0ef39,Mark Thomas,markt@apache.org,Oct-6-2020
+643e627779bd1633b8e447026f4d1ab3f860307a,Mark Thomas,markt@apache.org,Oct-6-2020
+1f2f0cb653f8188151305d1c99a4f3c28a60e6ea,Mark Thomas,markt@apache.org,Oct-6-2020
+864b138b3948011219b23a9b754cce3a94abe25e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-6-2020
+0e1c28061a962d016580317117d6577495e6fbfd,Mark Thomas,markt@apache.org,Oct-5-2020
+f36edc9842b5e7149846d8f7d40ab044359f8a51,Mark Thomas,markt@apache.org,Oct-5-2020
+3156014f9bd592a918308999f7827993ed3a8d1f,Mark Thomas,markt@apache.org,Oct-5-2020
+3cf5df4a8d58bc454b06e648cc19b9e7cdd55ef9,Mark Thomas,markt@apache.org,Oct-5-2020
+446d4b48a635495f0432ebf2823ee4ba596122bb,Mark Thomas,markt@apache.org,Oct-5-2020
+b8819c3d137007b3f2957aa83eee4bbdd7e65a38,Mark Thomas,markt@apache.org,Oct-5-2020
+48f947e6f358b38ac5f59a774369d4a099d30496,remm,remm@apache.org,Oct-5-2020
+a0fb5f4b42c593fa566878dddfa213e5f3c9c499,Igal Sapir,isapir@apache.org,Oct-3-2020
+2eb0c0867fe99dc8ecba741534eb52cb823e3035,Igal Sapir,isapir@apache.org,Oct-3-2020
+089a803c694a6f5365b8a9b75a0d7f0c36ebca1f,Igal Sapir,isapir@apache.org,Oct-3-2020
+a958f03ced5a533aec9ab9258459e3d81fd9f2b0,Igal Sapir,isapir@apache.org,Oct-3-2020
+4876ae682f8199051f98f753bf0161d0eda52d33,Mark Thomas,markt@apache.org,Oct-2-2020
+1ad369610d7b59f928c031bc69416f0434f98779,remm,remm@apache.org,Oct-2-2020
+c31e02b1f4f4f4a8d2684be359ab6a8a10671d6a,Mark Thomas,markt@apache.org,Oct-2-2020
+127e85e7b3989701ced95ccc1f4793112b92e38f,Mark Thomas,markt@apache.org,Oct-1-2020
+14e5b8c2b1d0a88e6220a08feefba559bec2335e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Oct-1-2020
+dc64607cdf98cbd6702b1ffd7fe9eee9157d578b,Mark Thomas,markt@apache.org,Oct-1-2020
+4e548a6daae6b5e9bb3ba48d238dedacccff4745,Mark Thomas,markt@apache.org,Oct-1-2020
+d9f9933c2c2b8b8b4226ff23bdc31ae16838ba0f,Mark Thomas,markt@apache.org,Oct-1-2020
+afa2730a4db02c6cbc7a8542d52b560cc0b0e40b,Mark Thomas,markt@apache.org,Oct-1-2020
+e54267a3f71d29f9f850ed9966e7be9612f219d4,Kyle Stiemann,kyle.stiemann@contrastsecurity.com,Sep-10-2020
+8185e79203e9ecb074ea26a1f3e53b497b47ad2b,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-30-2020
+16181fc7b1930ff202ec2e475f2fbdc587f3e314,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-30-2020
+681f2afccc2f22ff5fc3d80ad7e77dbeecd083b2,Konstantin Kolinko,kkolinko@apache.org,Sep-29-2020
+30000117d30182d99188b313de46590de8864889,Mark Thomas,markt@apache.org,Sep-29-2020
+042f6726d2276ca43d0ea8bbdc51ffbc7f060aa5,Mark Thomas,markt@apache.org,Sep-29-2020
+03abecea22a02dc3909f0d4f8a6f0e46d63a2dff,Mark Thomas,markt@apache.org,Sep-29-2020
+063421f5f4535e4ef07c6cf1b5d7ab20af98eddf,Mark Thomas,markt@apache.org,Sep-29-2020
+6107934e05b495110a8230c91a537ef80f9b275c,Mark Thomas,markt@apache.org,Sep-29-2020
+4a27c3ff0460c7f9ff16ea49ffe0c20790d8576f,Mark Thomas,markt@apache.org,Sep-29-2020
+31cab22e6a8071f8e29c9d2a63650087f6d0a65c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-28-2020
+a20f6f3f209441013996abe7f8049f1c8793841a,Mark Thomas,markt@apache.org,Sep-28-2020
+18e0e3f282dc016d59195eedf013bc3ee4fe0de2,Mark Thomas,markt@apache.org,Sep-25-2020
+954cbffa73efe6e546a07c84ade97a3b9b38a893,Mark Thomas,markt@apache.org,Sep-25-2020
+0a78ae92e75e8eb4f80d672af31d59c9706d0382,Mark Thomas,markt@apache.org,Sep-25-2020
+30df6a08eb6ab45b409cc2fc4732d31bdcfbb521,Mark Thomas,markt@apache.org,Sep-24-2020
+9ee7d6afbfd0c0fe0a144a251dc7d14dfbb7a1b3,Mark Thomas,markt@apache.org,Sep-24-2020
+fa6df26815cea9a429291f4452711b96b00f02b0,Mark Thomas,markt@apache.org,Sep-24-2020
+0f667057e72cbec7badbb1cca520b4b3d5d60b53,Mark Thomas,markt@apache.org,Sep-24-2020
+f6e656e4b1076a8b7d77d7eded2290a6fe926fb8,Mark Thomas,markt@apache.org,Sep-24-2020
+ee2571013a5204b7774bed80c938921a2f504427,Mark Thomas,markt@apache.org,Sep-23-2020
+519f6f89550208d020c18622ca7b870edf3a2602,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-25-2020
+e1a1a324e93b568804153e02281bc4ec625c3ba7,Mark Thomas,markt@apache.org,Sep-24-2020
+9083cea2ef8b1bc4a8fdbe5dcd544f4edc204dea,Mark Thomas,markt@apache.org,Sep-24-2020
+a8852a6fa609d7353d9701ffaa331174f63e7330,remm,remm@apache.org,Sep-24-2020
+38e42dd7e0830e235b75371fd70c62e0d6d44ae9,remm,remm@apache.org,Sep-24-2020
+d2f30cf0760c0ef3f6a2b3945411618fe8411a46,remm,remm@apache.org,Sep-24-2020
+c5eefc75a84b9f02ac5b50a06b95bcc18537569f,KeiichiFujino,kfujino@apache.org,Sep-24-2020
+6f178006f246ce9248a349705ba79d054d189b70,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-24-2020
+d2ed8ffc75c5e3b425888b456ffc51036d94ac39,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-24-2020
+8713546e8eaede2038e4ae9d293e8a335931b9dc,remm,remm@apache.org,Sep-24-2020
+c58633a695c3329d9f385dc55f72784cb0896b73,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-24-2020
+6e509a856bfb9c2912b7451183f851afe77ed67a,remm,remm@apache.org,Sep-24-2020
+10c6b85dd47112e0b3ee0350e5a56e51b4ed896e,Mark Thomas,markt@apache.org,Sep-23-2020
+2b4e4412eb5f6b1720e8eece43d58ae8e7a5640c,remm,remm@apache.org,Sep-23-2020
+99647b373c41e1ee1424665a1ccf2174848aa176,remm,remm@apache.org,Sep-23-2020
+ce17edeee6c7c1a5965be4e60a4d1ccff96fbc38,remm,remm@apache.org,Sep-23-2020
+6d44f6aa52748df930f1563bb5598705eb75e1aa,Mark Thomas,markt@apache.org,Sep-22-2020
+8e72db43acf7e77c4867824402884da95fb9305f,Mark Thomas,markt@apache.org,Sep-21-2020
+27c4109a7a686b71454205faab909e5e1f041b18,Mark Thomas,markt@apache.org,Sep-21-2020
+c1aaa4ed16b6410a602074132c75da6c85d6a8ed,Mark Thomas,markt@apache.org,Sep-21-2020
+613787d26fe14aec775fe82e59d0e4bc079d1814,Mark Thomas,markt@apache.org,Sep-21-2020
+33bab4ff14883047b1cd3e667323969fdde23486,Mark Thomas,markt@apache.org,Sep-18-2020
+129d0be9ff4b0eb7a85720b93a2ff24af43cbdee,Mark Thomas,markt@apache.org,Sep-18-2020
+2c8fdae4abab9e949cef94b8fd44d4f3b819a65b,Mark Thomas,markt@apache.org,Sep-18-2020
+3815b4951eb3acd30a0b77aafa75fbdb928d5782,Mark Thomas,markt@apache.org,Sep-18-2020
+57463377fdc13556f80d8ac8f524dbf9684ca377,Mark Thomas,markt@apache.org,Sep-18-2020
+bbe29a8c2d36b869996f2504032d666c49185362,remm,remm@apache.org,Sep-18-2020
+3607b4daae3b81ed372b73494701f5c334d257b9,remm,remm@apache.org,Sep-18-2020
+27bb36bdaa56d62fdcc28d3b8e3d4c25f4a44a50,remm,remm@apache.org,Sep-18-2020
+6a927fcc3e3f1fdd40be4106e56f888bfebf04b8,Mark Thomas,markt@apache.org,Sep-18-2020
+798d10f5283a8f4bdfd5e051ce02b453e9c128f5,Mark Thomas,markt@apache.org,Sep-17-2020
+564ab41f167f35a9a8c04903f865049b50f6b3f3,Mark Thomas,markt@apache.org,Sep-17-2020
+aded044ff5953fdbce2df3acf4af62cd1454edc2,Thomas Andraschko,tandraschko@apache.org,Sep-9-2020
+a4fbb7041861878c76469a7bc91c77e72331e208,Thomas Andraschko,tandraschko@apache.org,Sep-9-2020
+8689d64603c0267170dd547fc9d08b728cc4fbd2,Mark Thomas,markt@apache.org,Sep-17-2020
+ce2a55d450a875e5323fc2af7f0b4662217bf344,Nikolay Gribanov,nicholasg.ix35@gmail.com,Sep-16-2020
+019ed5d9f2c31d6f556bc71daff61fa8f757f303,Yang Yang,reliveyy@gmail.com,Sep-14-2020
+d2b597a623b1b9b8e7aa6be0c45c22c48d37cf40,Mark Thomas,markt@apache.org,Sep-17-2020
+515b2246e20f1541dbf15b8ac24e67c44bcade9b,Mark Thomas,markt@apache.org,Sep-17-2020
+94b832cfe119f5fce645525cf245a2f5730cb08d,Mark Thomas,markt@apache.org,Sep-17-2020
+f7312d367282be61fe140f1d85bd9e558d54c555,Mark Thomas,markt@apache.org,Sep-17-2020
+735b4d5527385db1df87d29a510d3bbc9fa4d0de,Mark Thomas,markt@apache.org,Sep-17-2020
+810f42c4cce17bae4987c75017b8909033813071,Mark Thomas,markt@apache.org,Sep-16-2020
+20a0ab2ea3d2e0793f986945f0d2d1aa4b420d2e,Mark Thomas,markt@apache.org,Sep-16-2020
+3f4a47d268e5f2b471028bf98ffd701fe0ccb847,Mark Thomas,markt@apache.org,Sep-16-2020
+26f2c2a084503445a7cfed88400e2cb022cbcf57,Mark Thomas,markt@apache.org,Sep-16-2020
+c47fe61fd9242cff762fc5174a2cc7a6ac8d5a7e,Mark Thomas,markt@apache.org,Sep-16-2020
+230b351914c789fdae0e3e8fb70f808615bfbd00,Mark Thomas,markt@apache.org,Sep-16-2020
+4db9de7a28618dbddb29af5e1e8ea7166ddbd03d,Mark Thomas,markt@apache.org,Sep-16-2020
+ffc989139820236cf7d19e9f513f9a45d294f9a1,Mark Thomas,markt@apache.org,Sep-16-2020
+2221d9b068fdc5861ac07d85fc95cccbea388e1d,Mark Thomas,markt@apache.org,Sep-16-2020
+8c9ff1e184c7f59fea308baa899aefef33ac124d,Mark Thomas,markt@apache.org,Sep-16-2020
+fc38adffb348534e2524e698bb4f84376a436731,Mark Thomas,markt@apache.org,Sep-16-2020
+fc0c75c6bed1d38776ec6fef55eef23ba04d760c,Mark Thomas,markt@apache.org,Sep-16-2020
+32934a56aed97ec9fb4401321335038159df68a5,Mark Thomas,markt@apache.org,Sep-16-2020
+af51f770ca2f24a0f8a6d176724458af7286d85c,Mark Thomas,markt@apache.org,Sep-16-2020
+bb1ec2108c01ba9e17f51dd60ec0ef027fb0eb5f,Mark Thomas,markt@apache.org,Sep-16-2020
+485448f68a94fd0168e25e2101178f0f8c15fd45,Mark Thomas,markt@apache.org,Sep-16-2020
+63f49d3be90980d4ad2d728fe85c83fce3caf62b,Mark Thomas,markt@apache.org,Sep-16-2020
+2714aaee79573fb358b5a91c68ba4c664d2d4d85,Mark Thomas,markt@apache.org,Sep-16-2020
+c4a789ebdddad0262509db5a6ae45ea39219b9b4,Martin Grigorov,martin-g@users.noreply.github.com,Sep-16-2020
+d0971a5333bdcfe452e8881626efced4e07efc5f,Mark Thomas,markt@apache.org,Sep-15-2020
+6c21ee5a57e6a6fa9c780d4a8f857d5c3a0b9a35,Mark Thomas,markt@apache.org,Sep-15-2020
+8290514200cdde3c996afbc097001c5aedc77c66,Mark Thomas,markt@apache.org,Sep-15-2020
+d94684a96f18acd307d00e7b217cdef7b0250f24,Mark Thomas,markt@apache.org,Sep-15-2020
+c714bfdfbeb37a7fcc679143a35fd72ac40cdabf,Mark Thomas,markt@apache.org,Sep-15-2020
+20181bb9b7dc6d9407dd3c9430c4d79f880c1027,Mark Thomas,markt@apache.org,Sep-15-2020
+3b15ba95dc681a39ea6115cfc351c0270f2dbfea,Mark Thomas,markt@apache.org,Sep-15-2020
+f438fd56311f85e321884ea236cf6f90a04455a2,Violeta Georgieva [VMware],violetagg@apache.org,Sep-15-2020
+51b429836590b39d1c8a8ba5b55a4edd79f105b8,John Bampton,jbampton@users.noreply.github.com,Sep-16-2020
+3f3fee0d9b715c902b9f3be2c3314c0549bc8ad0,KeiichiFujino,kfujino@apache.org,Sep-15-2020
+d381d87005fa89d1f19d9091c0954f317c135d9d,Mark Thomas,markt@apache.org,Sep-15-2020
+6053839acc97b4f3eb9f286c5633d0c1dc2e9c09,Martin Grigorov,martin-g@users.noreply.github.com,Sep-15-2020
+83a03b434cb8d9b561656cd1dfaf2f91a0bf79cc,Mark Thomas,markt@apache.org,Sep-14-2020
+58c072aecbe99a4025308f9e2e6be2b6cf0866ff,Mark Thomas,markt@apache.org,Sep-14-2020
+c2b35b6e04b2e17e0efa8325785ecb850bc8dd9e,Mark Thomas,markt@apache.org,Sep-14-2020
+120bf9d788a9959edae5417e3fea5b8cefffca02,remm,remm@apache.org,Sep-11-2020
+6019533e651494c05dc879052ab69199af50a035,Mark Thomas,markt@apache.org,Sep-11-2020
+2ff7bba79946a3716b136b0752c9fe7126b50499,remm,remm@apache.org,Sep-11-2020
+ef5149c1ea93f6a0bdcc57c94e85ed5e4c8a3ba5,Mark Thomas,markt@apache.org,Sep-10-2020
+2e3a708f4a20ac69a8444701181b18cde5523d4f,Mark Thomas,markt@apache.org,Sep-10-2020
+7a9cb65fe5499422c456e4f5595a87400ef95186,Mark Thomas,markt@apache.org,Sep-10-2020
+87d586ef531029a8c6f8e65c5c0be34f1c818704,Mark Thomas,markt@apache.org,Sep-10-2020
+f550254bb15e1b0cc50225aee1c3fb1ed034f552,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-10-2020
+5db68f3ef313508c67b7446e838a79e53798e3c0,Mark Thomas,markt@apache.org,Sep-10-2020
+53c304ad1f65a09c921c40e03a115de438f6c68a,Mark Thomas,markt@apache.org,Sep-9-2020
+4dbc475435b6f9c3327c1cde8402908376a0ce57,Mark Thomas,markt@apache.org,Sep-9-2020
+29b09f5342dba837e4a6ab01f3e14027027d89b7,Mark Thomas,markt@apache.org,Sep-9-2020
+2348b113fd82a97b84662596834807f031a9a6ef,Mark Thomas,markt@apache.org,Sep-9-2020
+b2b72d974b5c194a6905b1f9b0348943bb501240,Mark Thomas,markt@apache.org,Sep-9-2020
+85e0a1875c08d40945fe4aeda6da0a3401328567,Mark Thomas,markt@apache.org,Sep-8-2020
+f0d6a1e4e7809403e9568eb2accbd282d68c2d84,Mark Thomas,markt@apache.org,Sep-8-2020
+d409a5d5bf265a1262d43e9cce8ad524ab4d7956,Mark Thomas,markt@apache.org,Sep-8-2020
+7054b7b205c98262325005bd31d87567e2659dc1,Mark Thomas,markt@apache.org,Sep-8-2020
+aa273c8b754c14919e101dae83c9b79d3651fa3b,Mark Thomas,markt@apache.org,Sep-8-2020
+6515798cd693636350647f61eadcf80755bd8b11,remm,remm@apache.org,Sep-8-2020
+739d2e6a1d81bdc34dd6b3db70b4913f782cdaf2,Jean-Frederic Clere,jfclere@gmail.com,Aug-6-2020
+ad6c5db660f644751c6cded22d0f94b7ad193541,Mark Thomas,markt@apache.org,Sep-8-2020
+5f744ed20c747549b05d0cce8bd99eebf094ab85,Mark Thomas,markt@apache.org,Sep-7-2020
+4ced1c0b246339eda067637d6b873b07d37e9e9d,Mark Thomas,markt@apache.org,Sep-7-2020
+2e2f6ad1e22a59fe1cb0b3214f8ae55f50b1064a,Mark Thomas,markt@apache.org,Sep-7-2020
+27166f8d43476840d51733244b7544de7d5ee43e,Mark Thomas,markt@apache.org,Sep-5-2020
+17d9e688fab3b138d35c80c840763c4422e7dbfa,Mark Thomas,markt@apache.org,Sep-5-2020
+7e03713e1ca2078c9c841a847bc5b5d4356b87c4,Mark Thomas,markt@apache.org,Sep-2-2020
+d1298d5c7ca788501d20c592c63d10758f86c75a,Sergey Ponomarev,stokito@gmail.com,Aug-12-2020
+3a1824fe286232ada14ac95fda541e7744e31ab4,Mark Thomas,markt@apache.org,Sep-1-2020
+9609da111f99ec387d64067d251669787620cff4,remm,remm@apache.org,Sep-1-2020
+0f1e263073d97e562972e7a0a4f72d9c1698dbd4,KeiichiFujino,kfujino@apache.org,Sep-1-2020
+5a655b6f8486c6373654af6f1303819e1a3af500,KeiichiFujino,kfujino@apache.org,Sep-1-2020
+a08ac04849a59e157433c3730c56db8a083765b4,KeiichiFujino,kfujino@apache.org,Aug-31-2020
+ddaf37ddeb917c02fa8fb0c1f2423b1b7ee79296,Mark Thomas,markt@apache.org,Aug-28-2020
+03a1ccfa7c3cc48bb9dd4cc134b42cbb4a306c7d,Mark Thomas,markt@apache.org,Aug-28-2020
+4300f1303a756c40da3ce20689052957d01abebf,Mark Thomas,markt@apache.org,Aug-27-2020
+93641a04b81502b5877f13eb7dbb63670b34dbcf,Mark Thomas,markt@apache.org,Aug-27-2020
+f6f65c0a0d3b34f24276249a579d933b2f20cfe3,Filip Hanik,fhanik@pivotal.io,Aug-27-2020
+b14d90f0f51eb06239a93ac6d7a827b8d5f7d535,Mark Thomas,markt@apache.org,Aug-27-2020
+d2843a8fdb28e48b981434fbd24a78bd9cddf84a,remm,remm@apache.org,Aug-27-2020
+c6bab9b72ffb9f52af796f39bc7f742db0f418ab,Mark Thomas,markt@apache.org,Aug-27-2020
+615ac86f061749fe6b9e10e40bfceda1ed554fba,Ruediger Pluem,ruediger.pluem@vodafone.com,Aug-21-2020
+ea14796ca70895d04330b381aeb55f546f574250,Mark Thomas,markt@apache.org,Aug-27-2020
+1e47a4047bebf3ead60bc0c6763a96ef812d5c27,Mark Thomas,markt@apache.org,Aug-27-2020
+5a3e276b28b25d05a5a2b454cd33a782bbc106db,Mark Thomas,markt@apache.org,Aug-27-2020
+7837e6f798190316d40c7ebf1efeb3a241efa090,Mark Thomas,markt@apache.org,Aug-27-2020
+30283fc629afdb4745052831692fa0349f40e7aa,Martin Grigorov,martin-g@users.noreply.github.com,Aug-27-2020
+2cef8f18dee7b7bca3d03b3301fbe8e733e728fa,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Aug-25-2020
+7c5fbbebc05e837dc2acbd4be2178e5044751244,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Aug-25-2020
+5528a24309c52f98a13b32de72e82005295c9f3e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Aug-25-2020
+3042fb3088577b098dbe456cdfa7a79569a92d8a,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Aug-25-2020
+3937417d6beec03f3087af27e0220e1fcc3b29a5,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Aug-25-2020
+ae88ac2ee9a69b075696769c6b7ec61b7ba1d8a6,Tom Chiverton,tomchiverton@users.noreply.github.com,Aug-26-2020
+f1c4210470a268ec6830a95ab219f418a7e775fb,Mark Thomas,markt@apache.org,Aug-26-2020
+8e745f8f24e9825e22c0f2529fc5514f9172bf78,Mark Thomas,markt@apache.org,Aug-26-2020

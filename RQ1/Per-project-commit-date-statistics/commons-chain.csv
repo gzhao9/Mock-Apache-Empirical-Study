@@ -1,0 +1,689 @@
+commit_id,Author,Author_adress,Date
+0568dd5407c6474347676e35eae4ce4fae906898,Gary Gregory,ggregory@rocketsoftware.com,May-31-2022
+5b384a805f41a092ca5d7a085e5b7a6caa56f2a6,Gary Gregory,ggregory@rocketsoftware.com,May-31-2022
+5bc36c8c82f342d5efdd47e0ca2c5db3da17db0a,Gary Gregory,ggregory@rocketsoftware.com,Apr-15-2022
+bb20f27eecefac09bc549af6d6fea54e8e633ff2,Gary Gregory,ggregory@rocketsoftware.com,Mar-10-2022
+b7b24a80dd2c8faaa52724b91b55dc4ec83a6838,Gary Gregory,ggregory@rocketsoftware.com,Mar-10-2022
+9e02f43d4e22eb887f47196b83faf9d959fbebf7,Gary Gregory,ggregory@rocketsoftware.com,Feb-25-2022
+ab2886d565086bb3e54c7bde811b746e141c03d9,Gary Gregory,ggregory@rocketsoftware.com,Sep-28-2021
+819d0c3e1649b56f9ce32188858179f78946069a,Gary Gregory,ggregory@rocketsoftware.com,Aug-29-2021
+400cca8c3ebc0d5cf194e255148b98de9322665b,Gary Gregory,garydgregory@gmail.com,Apr-19-2021
+6adb993511afa0c9692caaa341855ace5ed4a1c8,Gary Gregory,garydgregory@gmail.com,Mar-17-2021
+5bcf505ccb10790eb8714c660b8165c0229ec10f,Gary Gregory,garydgregory@gmail.com,Mar-5-2021
+9e09dd44ca801d808d713c6fd25c74ee39bf7653,Gary Gregory,garydgregory@gmail.com,Mar-1-2021
+d766d18aa52e69a923695f808a4a0a69da0ebce8,Gary Gregory,garydgregory@gmail.com,Mar-1-2021
+1b59dc13a56ba9300d5b171b14e231f48928c886,Gary Gregory,garydgregory@gmail.com,Jan-17-2021
+bec6a61f60fb1610f1d47a3979c10b8a89c30250,Gary Gregory,garydgregory@gmail.com,Jan-17-2021
+ba7eb6ce7fc9ddfdaa9c569f63ee90e7ff1c818c,Gary Gregory,garydgregory@gmail.com,Jan-8-2021
+b3850f32547b0c2e9ea4dbcfd4b8dfae7221785e,Gary Gregory,garydgregory@gmail.com,Nov-20-2020
+cc577da997e0cdff478af316f5927241f3963bb3,Gary Gregory,garydgregory@gmail.com,Nov-20-2020
+cc12c69db7bc3ebd034128f643c6a6f514aa02b6,Gary Gregory,garydgregory@gmail.com,Nov-20-2020
+e58c654dd84142c2f6bd2f559b2f9550780f86ee,Gary Gregory,garydgregory@gmail.com,Oct-30-2020
+3609dca99e95857d0a1d464bd8488dc5df27d778,Gary Gregory,garydgregory@gmail.com,Oct-25-2020
+506240e1025ded359fe19c0f934acd502e312f7b,Gary Gregory,garydgregory@gmail.com,Oct-15-2020
+1c7432951cd2cbad7d92f13ebe2af2d94a9e1365,sebbASF,sebbASF@users.noreply.github.com,Oct-14-2020
+0be7f34c5725f8c360c5a0d7fc7d462e3e67d0e1,John Patrick,142304+nhojpatrick@users.noreply.github.com,Sep-14-2020
+b0d80fd08ca6242409aae8a5f88dd273327cf0da,sebbASF,sebbASF@users.noreply.github.com,Aug-15-2019
+2e6b29c77be1908f70a1aa4830e885e856e72ebe,Gary D. Gregory,ggregory@apache.org,May-15-2018
+5d194b2ab6adf26a3cae74d6458d0b8f40838aee,Gary D. Gregory,ggregory@apache.org,Jan-7-2018
+b812b68651ec8fe1c691849a283c2b423c461761,Rob Tompkins,chtompki@apache.org,May-27-2017
+5b3673e411269c653796c5756ec443d0ec363f65,Gary D. Gregory,ggregory@apache.org,Jun-22-2016
+3c9f548f4a809a4682b7539529894c7ed47f9600,Gary D. Gregory,ggregory@apache.org,Jun-7-2016
+def8de61b2ecee22486362afb7854249951b6dba,Gary D. Gregory,ggregory@apache.org,Jun-7-2016
+1fe5bccca22aaa5e736745ce4fa07b03338dc8c2,Gary D. Gregory,ggregory@apache.org,Jan-19-2016
+87308216da7a6fc42eb1ab66affa3a1920b0cf7d,Sebastian Bazley,sebb@apache.org,Dec-9-2015
+e21bc29c8b5285ce8641c3917168512896cd3428,Sebastian Bazley,sebb@apache.org,May-8-2015
+70baa08cc0d3cb9bfd62e487436c148f0e0ffd09,Sebastian Bazley,sebb@apache.org,Dec-5-2014
+4db28901ef897dd08db9d212bd65a937e89210af,Henri Yandell,bayard@apache.org,Oct-22-2013
+42f75b8b9246ed5838a7ad5bc38dc7d0239006c5,Benedikt Ritter,britter@apache.org,Jul-31-2013
+9bdac08b1f5052a495c06fddce03fd1d79b6fee1,Benedikt Ritter,britter@apache.org,Jul-31-2013
+70f701134c33c4ff6aa7f82ac5c9f5b351e7d2e6,Benedikt Ritter,britter@apache.org,Jul-8-2013
+56233d45b9fa7993055073d9b525b7bcac3d8342,Simone Tripodi,simonetripodi@apache.org,Jul-8-2013
+8fb3d821b69fcbc4661ee7ffeee5b449c4e1cc33,Simone Tripodi,simonetripodi@apache.org,Jul-8-2013
+e83dbf8f2402755205a69f1066fb11545a07ef21,Benedikt Ritter,britter@apache.org,Jul-4-2013
+dc845a7d5edbb43e8ae7f74b0c7909e002b43173,Benedikt Ritter,britter@apache.org,Jul-3-2013
+a7511a374b6195bec1e77e996cf82f29c2bb4fa6,Benedikt Ritter,britter@apache.org,Jun-27-2013
+8d787e16cd2b03b201c8d62a18531eb9e5d893dd,Benedikt Ritter,britter@apache.org,Jun-27-2013
+cda164cb72b4ecf4bc05b4f64f68c2abf1185989,Benedikt Ritter,britter@apache.org,Jun-27-2013
+93739c3a76c74d6fff2c36c677224aa96f213146,Benedikt Ritter,britter@apache.org,Jun-27-2013
+936dfb0ff5174c9da727fbba86c4f97a8a2de933,Benedikt Ritter,britter@apache.org,Jun-27-2013
+b2c473a65377e471293711f5d9db9d629c20dc94,Benedikt Ritter,britter@apache.org,Jun-27-2013
+1ec804ff3d1a58984587303be487cb9d92bb6ecc,Benedikt Ritter,britter@apache.org,Jun-27-2013
+9f17afd33c71f5fe85c23490165e658fce40f7fd,Benedikt Ritter,britter@apache.org,Jun-27-2013
+f4a1df033ccc9854b41f0413818d9ffca8edba6c,Benedikt Ritter,britter@apache.org,Jun-27-2013
+fc83db76cdbb8a936d72658edcc39e249e972561,Benedikt Ritter,britter@apache.org,Jun-27-2013
+53cd1abd3e736f0273ea13c45defcd08f872bbb4,Benedikt Ritter,britter@apache.org,Jun-27-2013
+35996d391baf1e1f4f2d6377678473dc4275b7c8,Benedikt Ritter,britter@apache.org,Jun-27-2013
+f704b9a99222e4847eb309510ce470fe234b4385,Benedikt Ritter,britter@apache.org,Jun-27-2013
+acb4f72cb6d45a26c19c4a32190334612f1f64c5,Benedikt Ritter,britter@apache.org,Jun-27-2013
+0247d48321cfdb044471669bc3ebe3ad15c952fb,Benedikt Ritter,britter@apache.org,Jun-25-2013
+28f80b32797f165296f4c9f6c3556c332cb6530d,Benedikt Ritter,britter@apache.org,Jun-25-2013
+709d21eccce7f8f03f63f41a6c5cb3599f69e946,Benedikt Ritter,britter@apache.org,Jun-25-2013
+5dff38009b3e4c2247533163709071fa41ae477c,Benedikt Ritter,britter@apache.org,Jun-25-2013
+32ee53a05e65f081ba4a9bd574e186b0aacc54dc,Benedikt Ritter,britter@apache.org,Jun-25-2013
+340ad1d60117da6e22d23e787ed65135c6f9840f,Benedikt Ritter,britter@apache.org,Jun-25-2013
+8cffb392ef2c0b3df0effb4b95930b64ebb40673,Benedikt Ritter,britter@apache.org,Jun-25-2013
+af7681f58b4121e04ef127a3be1c9d063d3b0417,Benedikt Ritter,britter@apache.org,Jun-24-2013
+4e183ab2bc83f00006c8dd0e6568b4f17e23e538,Benedikt Ritter,britter@apache.org,Jun-24-2013
+2cf379d395a38c2505370bc7dfc969495833176f,Benedikt Ritter,britter@apache.org,Jun-22-2013
+4037f37ecdffb0c44a1eeec5fa2b2eee93a2a86c,Benedikt Ritter,britter@apache.org,Jun-22-2013
+d02be35415819ef816735b6976037e92cd05bd73,Benedikt Ritter,britter@apache.org,Jun-18-2013
+72c479a5eb72d9ec14a3033e07f7f071c9321b0c,Benedikt Ritter,britter@apache.org,Jun-18-2013
+bd9df4fb8d8cea99ccfe63edaeafdb06b3e1d48f,Benedikt Ritter,britter@apache.org,Jun-18-2013
+78c116feb465cbc6af3ba2d1068c15b4f04d3678,Benedikt Ritter,britter@apache.org,Jun-18-2013
+cd135de981e050e90abc3cbdab3c916312ac32f0,Benedikt Ritter,britter@apache.org,Jun-18-2013
+decbbfef771546a857abb92a5448cb05d98e1416,Benedikt Ritter,britter@apache.org,Jun-16-2013
+4d2ee522257c12829edae07a5139ab3f454a9ce5,Benedikt Ritter,britter@apache.org,Jun-16-2013
+c81dc4ecc1122d1f60ea58715e059be54ee097d9,Benedikt Ritter,britter@apache.org,Jun-16-2013
+de9b23643bf58f75062f9108e2e5a12e76aac2e7,Benedikt Ritter,britter@apache.org,Jun-16-2013
+89d230db84bb955882d490c6852df3d3f50377b4,Benedikt Ritter,britter@apache.org,Jun-16-2013
+6ddf7bf845b1fee6643c1d879cd6849c7ba24459,Benedikt Ritter,britter@apache.org,Jun-16-2013
+3dfa1ca2df2fea53b8ff4ca1fea42df42003bec1,Benedikt Ritter,britter@apache.org,Jun-16-2013
+45638155e0516eaf39b21c1ba491f44d4244632c,Benedikt Ritter,britter@apache.org,Jun-16-2013
+3415b14e99d6978b18505a87401ae26a9dc100bc,Benedikt Ritter,britter@apache.org,Jun-16-2013
+a4072ced7d305b3327ddf54f07bf3ba8967fee55,Benedikt Ritter,britter@apache.org,Jun-16-2013
+28e918bf86c78e4690e785acf52d328e2ba9ca9c,Benedikt Ritter,britter@apache.org,Jun-15-2013
+9bb434ebd0271972bf3b2407b27ba06ab4fa4663,Benedikt Ritter,britter@apache.org,Jun-15-2013
+d0d3a6a00f5a1507e202af5d8e061480bd3bc99e,Benedikt Ritter,britter@apache.org,Jun-15-2013
+ab88c7d28eabcf4797feb9a3fec9e63ed521efde,Benedikt Ritter,britter@apache.org,Jun-15-2013
+103d4ecb3fca47614b108d53347dff628c960f35,Benedikt Ritter,britter@apache.org,Jun-15-2013
+97c228e1cb2f3ce4f3e3e8b75d6a4ddfcc7a3277,Benedikt Ritter,britter@apache.org,Jun-15-2013
+8fd1246a773fbab8c73f060f9052ace5582a1f05,Benedikt Ritter,britter@apache.org,Jun-15-2013
+34afd19b99c251a2320d995c2785a164988dbba1,Benedikt Ritter,britter@apache.org,Jun-14-2013
+e97e720f845c2192829c7b0f49959992781f632c,Benedikt Ritter,britter@apache.org,Jun-14-2013
+83d5fadf4f05f75a9dd455ab2ccc6481c34d9b04,Benedikt Ritter,britter@apache.org,Jun-14-2013
+b4408b8c84912f04e88f08594cd8cf4174a6cf3c,Benedikt Ritter,britter@apache.org,Jun-14-2013
+cd73e7eac7866a8dd9fe8e884e662a04ff9970c6,Benedikt Ritter,britter@apache.org,Jun-14-2013
+22cf74a0fd1de2306ac936e244461d0fa05c4ea7,Benedikt Ritter,britter@apache.org,Jun-14-2013
+21acba33b661d8b665012d49c55cf53ff14477d6,Benedikt Ritter,britter@apache.org,Jun-14-2013
+dacb912b9f022d44afd2a678417916d5d16bfaa7,Benedikt Ritter,britter@apache.org,Jun-14-2013
+9359e2214dea089ccb173c9fa2545036045b6338,Benedikt Ritter,britter@apache.org,Jun-13-2013
+cdcebb2bcbc94f56dce0203d6e9de081969c1b6b,Benedikt Ritter,britter@apache.org,Jun-13-2013
+fae341ae0d1cbc08086ceab3dc0e1ae1e09d1f9d,Benedikt Ritter,britter@apache.org,Jun-13-2013
+52494df4a8d378c07af2637bd7cfcfef05af3725,Benedikt Ritter,britter@apache.org,Jun-13-2013
+e57653951414be47b6fec72800e7d3b166a243fe,Benedikt Ritter,britter@apache.org,Jun-13-2013
+6abe23cb25b7346c7d00244e23ee0a31b4449475,Benedikt Ritter,britter@apache.org,Jun-13-2013
+f2e7d90fa2882a283ca27f84fe7a4ea6e07f18a4,Benedikt Ritter,britter@apache.org,Jun-13-2013
+ecc41ce57f18937d57a9673fff5ee3809e183d78,Benedikt Ritter,britter@apache.org,Jun-13-2013
+0de2787ff47059b7a9db3ea73588d3a01c1ea83a,Benedikt Ritter,britter@apache.org,Jun-13-2013
+2acbd2f5394b9b00567e77459ba7edaf3b46dd03,Benedikt Ritter,britter@apache.org,Jun-13-2013
+d1d92f7850634603de09424b8edd4dbccbab32ba,Benedikt Ritter,britter@apache.org,Jun-13-2013
+f5f8b929e1f6158c90af7a8da0a0c21f52db1ff9,Benedikt Ritter,britter@apache.org,Jun-12-2013
+5a8044bc66d7f65c274a19e173d97a7f4adacb26,Benedikt Ritter,britter@apache.org,Jun-12-2013
+ca2b76e5e850e8eeb960bdcfd31348b0b46ba7c3,Benedikt Ritter,britter@apache.org,Jun-12-2013
+cf2a20e7bc5b2ae4b053f955a9f152307b6e083b,Benedikt Ritter,britter@apache.org,Jun-12-2013
+83a707f9422866f4d7203529420b167415c89493,Benedikt Ritter,britter@apache.org,Jun-12-2013
+5a8f9ca832323babe1b18e7a13da4e4b0ddccb98,Benedikt Ritter,britter@apache.org,Jun-12-2013
+1c3ba81796896dab558f27bbadfdbddcc950e66d,Benedikt Ritter,britter@apache.org,Jun-12-2013
+7d70359bad97d591d2537c5e0bd3fb45abab3d40,Benedikt Ritter,britter@apache.org,Jun-11-2013
+398e2b46c9510526b31ade702847e1d39f825d29,Benedikt Ritter,britter@apache.org,Jun-11-2013
+e7200d8962018d3484757973640c9bc56d9ccc93,Benedikt Ritter,britter@apache.org,Jun-11-2013
+8f1e3c297a49d46afeefcb8528dab8b5a250ce65,Benedikt Ritter,britter@apache.org,Jun-11-2013
+9c4e046223851367373c97d0dec4e47cf4d84fcf,Benedikt Ritter,britter@apache.org,Jun-11-2013
+e723fb56d73c09af5960cb3b1b5eb5fa67530248,Benedikt Ritter,britter@apache.org,Jun-11-2013
+63a57769eabd5e20d38a292f9f1fde28a979a5b6,Benedikt Ritter,britter@apache.org,Jun-11-2013
+e16d360eeb37d6bfd46323f696d21765df5116c1,Benedikt Ritter,britter@apache.org,Jun-11-2013
+a4269c3481fdccc3b07c468642c56e801d7e3328,Benedikt Ritter,britter@apache.org,Jun-9-2013
+04aa49946a9663d112829beeee9cbf55220ca949,Benedikt Ritter,britter@apache.org,Jun-9-2013
+b92ed0a5f32a8b57c15e88e2dea0a49f01019892,Benedikt Ritter,britter@apache.org,Jun-9-2013
+722a5161d49a4b665997d7635c139e10af778e92,Benedikt Ritter,britter@apache.org,Jun-1-2013
+d2bffad9c36a8454b0130615e436d0285750868c,Benedikt Ritter,britter@apache.org,Jun-1-2013
+392eed433e82937d990d85d91c6586882b8a03e6,Benedikt Ritter,britter@apache.org,Jun-1-2013
+a942453220b7219ca77bdf0da6254d9e0aca16e9,Benedikt Ritter,britter@apache.org,Jun-1-2013
+2a2d561171ca590572f89b0d8d5e98a65e65e899,Simone Tripodi,simonetripodi@apache.org,May-27-2013
+58a9926aec60ea82056169da91e498ca3cb219a7,Simone Tripodi,simonetripodi@apache.org,May-27-2013
+85a087bd111b4ce4923171935374414e8916f656,Simone Tripodi,simonetripodi@apache.org,May-26-2013
+0087f30bcd7c0f59e32a4eca44b4fd9216ebfe38,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+eddf67d8f952c958a0cf52013d09dd6b5988bfab,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+7e3f90120094d356b8c2c0fd063cd4f7df213343,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+9115f3ea2c0ce1d11c3d99041ab25a5cae023c14,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+8673ce1244afce376e2fc4700f4e617e4848c25f,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+c29a7e522c3ad3f4e7dc63767abd022f22bb4399,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+e9e47e65ac7854f94d7a4a3f2f2ad3e6e6f5519e,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+4fe8653e7af1b15246a1e292433a9b4bbe99c6f6,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+e27468e73aa6a3173087fd8a0114d9b92fbb2fd7,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+7c129b2715b5a847bd476f335f0606ccb3824ff8,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+017e76dbf80b933bbae532cd15bbc8a70685fbb9,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+a0c275333167aeff1662b6f3163ac3b5c404e465,Sebastian Bazley,sebb@apache.org,Apr-24-2013
+df502f5c53dfe18db6ec76140843c2f7aab34a4a,Simone Tripodi,simonetripodi@apache.org,Mar-27-2013
+28f63a9ce77787f9abf09c534f5d19cd6f607aba,Sebastian Bazley,sebb@apache.org,Mar-22-2013
+e341c25ca10aa70f471983e64d02fde9f8c1784a,Simone Tripodi,simonetripodi@apache.org,Mar-18-2013
+4545e2c6543521f6712627c9a916466917c9e174,Simone Tripodi,simonetripodi@apache.org,Mar-16-2013
+429e922068cdb420383ab3e68fce056e1c9f0af4,Simone Tripodi,simonetripodi@apache.org,Mar-16-2013
+d3ba0f394a988afc630f0a87602fc731e8acad3f,Olivier Lamy,olamy@apache.org,Feb-26-2013
+39cb491fb4d7bb133e84f8b11843711d50b1c915,Sebastian Bazley,sebb@apache.org,Jan-30-2013
+f099c3fcac458c8d16a77f7ea76ba42e4c77443c,Olivier Lamy,olamy@apache.org,Jan-16-2013
+d53a90edc58bd82c0e7a2d5108f7a6b408c282e2,Simone Tripodi,simonetripodi@apache.org,Aug-24-2012
+013f4d0a5417e716f81ff167dc8ded17e926e5ee,Simone Tripodi,simonetripodi@apache.org,Aug-13-2012
+92daea3937273e5da25855287103220e0407301e,Simone Tripodi,simonetripodi@apache.org,Aug-13-2012
+586c47ef2bee0f57fee468a921cc6e306cb7b8c5,Simone Tripodi,simonetripodi@apache.org,Aug-9-2012
+256ca8e0fddf4cbe2986fe5846b13bb668e11013,Simone Tripodi,simonetripodi@apache.org,Aug-9-2012
+145b7b92a8b0d32937ca8d44fc6ad6cba5bd4c60,Simone Tripodi,simonetripodi@apache.org,Aug-7-2012
+536115a4fb8eaea397f4085faf9a914ae8ecc058,Simone Tripodi,simonetripodi@apache.org,Aug-7-2012
+6f1232fa271320f290a28940af30d7662b26257b,Simone Tripodi,simonetripodi@apache.org,Aug-6-2012
+df65a6399dd3a80ef8b688eb4bd19568074ac582,Simone Tripodi,simonetripodi@apache.org,Aug-6-2012
+fb2dce04ad40be9fb777e22d265f0b59fdc8bace,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+0ea73d2d8f9dd7a3e721a2280bf56f0a79eb6248,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+aaa20af3ac4c98aaa8958318cd3f0673234380d3,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+0fe1e64475728071c20451c560ff1a69717a17f3,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+39171261eee977dcc8468e9a1dfa95b560581d72,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+68ce360f8a53423a7ade2698bbfae0ffe94ac589,Simone Tripodi,simonetripodi@apache.org,Jul-28-2012
+7f56c908f5ccbfda8bd5193e9a6eef744bc5eb60,Elijah Zupancic,elijah@apache.org,Jul-28-2012
+777e23f168d11929af56108a992dfb792d43f397,Elijah Zupancic,elijah@apache.org,Jul-26-2012
+9056f326728677dc7b9629f459ab8979ce4ff7e1,Elijah Zupancic,elijah@apache.org,Jul-26-2012
+3f01aca052713b2ec2f18e7dd7111cd0f470d0bc,Elijah Zupancic,elijah@apache.org,Jul-24-2012
+9e8f2e2669553eadbad234bfa97222e45ac0501a,Simone Tripodi,simonetripodi@apache.org,Jul-24-2012
+126ea0412096a666fa868cd35d23ad6b98882d24,Simone Tripodi,simonetripodi@apache.org,Jul-24-2012
+250fd0c7cc703e172faa0f46d89a35b0be2780bd,Simone Tripodi,simonetripodi@apache.org,Jul-24-2012
+2dfe3de988d60aac3a3bee6b60f5bee3a3c6d1e2,Elijah Zupancic,elijah@apache.org,Jul-21-2012
+aeda85edbc3768b80724e4fd895aad8c8b6d34ff,Simone Tripodi,simonetripodi@apache.org,Jul-20-2012
+a5bc2978c2e3c83e72836caa79b5764ccfd3e933,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+4466d400e52538f589a47a1ab5a04a2899625a34,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+ce80a379bfc00f4e8ddbcfcc6f1ab9fdb4fc5fd3,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+3e53010765de083c0aa99cd26bcc28b5b10f1691,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+409d41cd6a8fc606229d752815a44a6a087f7270,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+f509b1749bc1e04b59e51f556a41f8c608f3c280,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+43ad1b5ca83cbf226fb00973eecf220f0e7b9172,Simone Tripodi,simonetripodi@apache.org,Jul-19-2012
+4a51874e95cc903c718f45569ea10e146938b393,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+060d9e4d728f92ebbf8a54aae73fdcc182fb6d58,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+185ddc078485ab06ecbc502a3e958618c94d3aca,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+35bff675579a9641a3f87e7a18aac84fc20cea45,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+940e7a4bd89374670450d2057a441b67d8870944,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+a8b33ffef0665a2dd73d314f2ad42cbbf99c9cba,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+069c422f60c4941f9393c8151c28bef2cb09134c,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+53db5fc0268246a2a4708ae3fc653ef3e18fae74,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+12f8158c6d4e38ea34a9e7e72851786cc7d74336,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+b7b12630fe4d9ff517ad732db54cc9ea03b50888,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+9696590cafeb852a705b7e3866ba83e6dc0868fa,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+da27a2f0b2cdd0fc476139518433882d5f19bcce,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+c11b8125414ebae2a2982386b089a2612b719a38,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+b7f964824ab8f586df8575409427a803e598ed17,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+f65c5e5f685ec6a92dbcd1d18af59617ec10beac,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+9f36028e642db8484f3d2d0eecb81e86d934390a,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+35ec49815234e81108ef5d7deb7f7b4261af2301,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+8fc182a4a78935bb5130304c20c877b9871d6998,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+0313bfe8c0f97f728ec384eca906241fcc55e27c,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+b89254aff8dae40a1b53b0b2795e2464909c1219,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+9d1e1aa9b1824cc2364593e37dc8e17e30ca1e5d,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+0c212328310f947ee8217b66ec39d210313c9e7b,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+b45503aa0c6dda5481fa35a62f3d82cc4225d75f,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+8634b5d97c9ed16a23770308591a0ab453c5700f,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+eab865f64ea5f14ee84cad3893df00a1952bd69d,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+9814ba72da3e42e07edbeb296b8c57e64b22073e,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+8b06e43eb2bef037d32d3768b843612f275e479a,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+3fc077a4948de9ebc85839dd10e969a3b3f42c3c,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+438193114a83c99bd765ea22389ab15eb7fd92e2,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+bdfe1d2549011e637223b3c4b5d50c8670d10045,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+6ad0f6faf6a0cce988fdddec976825578b25b8c4,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+c6ce814a74b53afd6aa7b0844d3e49bbf225502f,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+3a789b3ba912c7c9db839fc1b1fb45ab5eaf0872,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+9573f8051545aa8ac3e9bf93fff46ab0b615db9e,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+2b35fb4e8182d16e6b9546e6cb454229837fb14c,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+b08cb749cb26c539d20aa71e9a0e3217aac5f153,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+dda3c98231d36a474880766c6b7bdf38f0f72aff,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+1725cf5bb5daa45aeeadbe5ea660d04a667f1fff,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+5ccafb52aaf6d9cbce32012235a0b19e197a9612,Simone Tripodi,simonetripodi@apache.org,Jul-18-2012
+06dd90d4750d817ad868ecadf7cc10c79c7060dc,Simone Tripodi,simonetripodi@apache.org,Jun-29-2012
+afec8cdcf02eb23eebbf4e18980ee51bc8ddb61c,Simone Tripodi,simonetripodi@apache.org,Apr-19-2012
+99192e1b97dd9d1bafd370d34dad6ff88d9d99e7,Simone Tripodi,simonetripodi@apache.org,Apr-19-2012
+e0a3efe13f6e55127cc3ab055a57cc20a6d0e4e6,Simone Tripodi,simonetripodi@apache.org,Apr-18-2012
+163ca974f0d6278db62bb8c339c6ba1d896422b0,Simone Tripodi,simonetripodi@apache.org,Mar-13-2012
+b0a4c1dda5c4e391c52d01677bd183d0092c371e,Simone Tripodi,simonetripodi@apache.org,Mar-13-2012
+8c4d0dd9ab3c5f57c8ccaa036f8266d2ba651dab,Simone Tripodi,simonetripodi@apache.org,Mar-7-2012
+184b9a3330da3ae55a396327256224e01d02dfc6,Simone Tripodi,simonetripodi@apache.org,Mar-6-2012
+4ec00f53a40b8d01d9a5a6c0e17e6e7296643102,Simone Tripodi,simonetripodi@apache.org,Mar-5-2012
+2eedb154df1943994dcfb89c6c1a880185a04760,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+06919691aca2b3153939c137c8a453a6ba3c9ffc,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+40f0ae2433637c691569405854206e6ada771fd4,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+59daf2d36c54a7adcd106a8cd060069fa806088f,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+425192e485ec2ebf697dc0549d641c76d762609b,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+a2a4b68a19c97739d13ee7f1eb85a3224e4a83c1,Simone Tripodi,simonetripodi@apache.org,Mar-1-2012
+01611ed60b790dd47b6c8eb71b182671ac6a19bb,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+44ef6d7eb952f74a3a31e63540502ed6554d29f1,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+2e2d3e8e83dd5c4d4d80838a72e2b43dbd5a0054,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+b58c7976fa655fbd030c8ea627643928d12be759,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+6a8a0d523483ab2da4670d240bd5fe1c76bd1437,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+cffe6387f875cb661f218248ef530cdd0523e508,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+e442e0e86d9e9f3c5dbb45e794822004f21b73e3,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+b0750b49a91e406b23081c7e53a4602867e9c941,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+2b27b7c960f707dd58afb4f0ef2711b6fbb01033,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+e4d4e31049b2c8ea052ebcf98209c622fdd5ac0a,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+ee21e205f6a2ca40c1a91c23beb003bdfbe61abe,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+f6963a7c43dcc13d61d6a4217039027a6fff8de2,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+bb8b3a6ddcb68d5f81b62bc77e7ac70f3d20ff08,Simone Tripodi,simonetripodi@apache.org,Feb-29-2012
+1a7e0eaf6b420014f127dd714361427e62ac5870,Simone Tripodi,simonetripodi@apache.org,Feb-28-2012
+b284b06256158dbb1040947a4ee776eda84599a6,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+7cade28931dd75030ac0bed5d55de7c1c2f91745,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+7cfdf537bdba67547578cbe7c5a5d4efa80965fd,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+2e3e28ba9aa9ae3c3cfe7c41e5c125fe69380e43,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+91495a96bbd12948b8d0935902899981e0599f83,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+6ae938d4f9da7d78ba1fa10feaf25cd35c3b9aca,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+8040041db389073fb12f38ec734627c000824d2f,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+84d233d4e924c8c759c0e2607137024a7b7e9bcd,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+3a746d6c23f540046d96dcb7598d32aa8ef61d5c,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+1826370b4f70cd3178a53d8f265ae2fb8050a463,Simone Tripodi,simonetripodi@apache.org,Feb-27-2012
+4411b9eb595c835eed4ba6c4808ee6525d68dda3,Simone Tripodi,simonetripodi@apache.org,Feb-25-2012
+898f55312115a78aa651f50bbae4a66bf01c3bec,Simone Tripodi,simonetripodi@apache.org,Feb-25-2012
+87e9fa6c75dc13f8ac4f870fab38f8a8a4efdbef,Simone Tripodi,simonetripodi@apache.org,Feb-14-2012
+a0a63b5f27f56ee252609b240b05a0b95e049756,Simone Tripodi,simonetripodi@apache.org,Feb-13-2012
+26a36dc08a224ca24d50f55f4be3509669a478d1,Simone Tripodi,simonetripodi@apache.org,Feb-10-2012
+9c85fc0cacaee6d7eaaa9072e8e2b7adfa4e0b8a,Simone Tripodi,simonetripodi@apache.org,Oct-26-2011
+876a8564a931c4bf048c2db7f65f38331a3738cc,Simone Tripodi,simonetripodi@apache.org,Oct-3-2011
+93457f9952b3d433e3aec082a8f34f37e741bef6,Simone Tripodi,simonetripodi@apache.org,Sep-21-2011
+d30e0f61aa60317ec45bb20294fc3e5280013228,Simone Tripodi,simonetripodi@apache.org,Sep-21-2011
+c0f47f6a689018f192761ea6dab915844f2f8219,Simone Tripodi,simonetripodi@apache.org,Sep-21-2011
+ff8b7a8c1447aff567719739980049bfeba85311,Simone Tripodi,simonetripodi@apache.org,Sep-21-2011
+cc56d6f992658a114c4b10067641e6969e41d92e,Simone Tripodi,simonetripodi@apache.org,Sep-19-2011
+798f9c8b720f049501686e8b75101f12ec0cb119,Simone Tripodi,simonetripodi@apache.org,Sep-16-2011
+4f099063ed9ffc21956ffe33cfc2b779d85fc2c8,Simone Tripodi,simonetripodi@apache.org,Sep-14-2011
+7dac6c054ddb579cb45f19f342a2962587746b30,Simone Tripodi,simonetripodi@apache.org,Sep-14-2011
+8cd20e0feecf3a54da7a783cb5212f8f2085af5e,Sebastian Bazley,sebb@apache.org,Sep-13-2011
+3896471c981382db541d6a71c4ef1e3f94d4e8bd,Simone Tripodi,simonetripodi@apache.org,Sep-13-2011
+f6136e6fd95db5b852826684b526406a6ff1ca3f,Simone Tripodi,simonetripodi@apache.org,Sep-13-2011
+8c0a5a9ef94a424fbeab6a720fe4bd2dc7116141,Sebastian Bazley,sebb@apache.org,Sep-12-2011
+5ef3b2d7628b060314c9c920402189f57ef6224b,Simone Tripodi,simonetripodi@apache.org,Sep-12-2011
+ffa77b106f670b6809546dc693d3a5a76eaec932,Simone Tripodi,simonetripodi@apache.org,Sep-8-2011
+6f556306e42e1e6e79df73c334ae0e24dc17a656,Simone Tripodi,simonetripodi@apache.org,Sep-6-2011
+e81bb399d3e36cd1a07497d67dd49b485613af85,Simone Tripodi,simonetripodi@apache.org,Sep-5-2011
+2a53c9bb208f898cd1d2e3e9208a822e39b90a4e,Simone Tripodi,simonetripodi@apache.org,Sep-5-2011
+4fcb1118173bb31e4cdd3479d59cd3cadfeac695,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+575ca905ae623a2457b6dbce038a7e17edfc9899,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+77e809d179bcaabb749b58c89e11f896403c5f11,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+dc13846a3082137341db47045205099d47dd238d,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+b882635f0f30f9c54419c98e0e54e4af6d308c88,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+a459a81f1ba3e1565170acb28f8c2b762f2fbc2e,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+fbb6d14e31deb2d96dd063d8a3693951328c0fa4,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+e9718c2a7298c27593b997616f1a679e13f7eddf,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+2fec867cfc3429c3171a1eb41bc0c14788df641e,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+c34d0dc8be97b18f8e06869012a95be21eac2c40,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+050e73dbe51084436cf7092d846b1d2e9e23c930,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+0388d77f82f8fc2374fb360e1f9906d825422ad5,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+47cdb4ae6929d3774d0e5a20a89c4633ed1f1786,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+d332c1f6508752484bf2329b901e2761b0c98a1c,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+5cf08906fabcbb0c8756b411f9490e69d1aae50b,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+f23d8fbbfd84e9453a7c7ad6609f4d67c267c88e,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+7cc0ef637857f4124508db3fea909b5c4c685bcb,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+b17cf0e62b24ea15c06a601344299346ce4e40fb,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+31c55baee44e38690162f44f830871e2da06cd51,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+3321a1041a59048460aa3b1aa371b995edbfd3b7,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+d148ea5d516e927e97ebc435b2048b4a1585a0dc,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+a5e277408845cf430b32d2e713bbd8061e73aab0,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+a4bdc858041f9e22f5f0987f1cb2de11a7faad99,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+c31bcfb7f2d08f6cedb3f4011f3849c3d41a93d1,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+db3c5d3fffe4c4162cb462a4d58b1df125a647c4,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+5e2007e075454a141462a0a094a8d50d19b4e3bc,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+a7a5a87f6e4bc9b45e025c114b8b8452aac4b02b,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+e472f1f8b124de79dcc0457ec9f96047f70d5ce4,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+406868fb29c69b6a82bdd8ffb4f1cad913337c26,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+16cbe1a08c5eb94599d5ae60e9b74a893ce9c289,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+0e0429c72d4a2ed75325284df1de067f923614e7,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+bc0b2284bffcc3a764aab4b68fd4a9b7eda72e34,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+144c1fda68ae568f7d960d1b2b28aa29a984b443,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+4d7ca38bfa3b3e2f0cd448911124b6eb6a69524e,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+a7f526410758752c9ea8e977743c040b04c38495,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+10c899fe7dd1bea4a676812fbfa71a13ef42b3f8,Simone Tripodi,simonetripodi@apache.org,Sep-4-2011
+b63d123bda4387f74bfa07f175e4eb8db33d2814,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+520ab80c5525d1a68007754a37c661b30bafef8e,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+3a1b7d3b6607faf0eece678f966af8aea158ce62,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+4496c72a81de95d024f6caec36b2b0a8363655de,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+3480e0d40e1638e0f23aa4c6aa576c382bd33a10,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+4a911f42972d38daa65caed3f9d348e4f2ac159f,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+34e2be8a3c5c12e0777d0f3549bade863c420bdc,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+8b72c7684ea76fa1b5e90904fdeb746cd95086de,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+6e1d0f1428bbe69a5fda277e908d3af63a917c3f,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+7b9a18e05eeb4f5e8c83e1b5a6550a0bd1526564,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+b7b5752e262e26fcb85c3382d0009b84ba38f217,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+9b572380a985b07cb99972b5bea4fe0ec51a9970,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+949d2a03732c2c99066bafbaaa3b8de9cc814757,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+4adb67136477064b64100f7eb9743370517c8938,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+8ba7f0ee0387673d9251ea3ffb8962106ca1df69,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+e1597863451f237555f5b7bf25901b514457946b,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+1b39be3cf4d79be0a99d8ae745942bf10fa33860,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+5a2ef9baf2b058e4f59adef3a013fd6e36df4f24,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+504d1a2c958dea5a6ca64f30b2f6ddf838c20036,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+3d1e9daffc34e2e1467285edb97023c6b3eedc6f,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+7c40dbf183cd87f3fbebef0c87f827d2fe02f510,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+eb3a30eafe01307e8659db3e2a443f6cd1d7a895,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+4887d4b26042057c87b6938d488b231a4676cb88,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+c5ec32c7bd9f0747d009fc3941196d42636b4e92,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+aed888261ae851f902d247fa293591c2e820d1b9,Simone Tripodi,simonetripodi@apache.org,Sep-2-2011
+33266a2e2457359a0184502c9ea6f6e8922a6301,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+22efcf93e148a0e58ca74ee32d7ff0a9fa299b8f,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+26c1bd07e86c51d35924d93942ec035aa63e8f33,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+963f7908229a04a9089b6922231c68740dd3c67d,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+9c2a965f2c73a464ac62745acab56aa24456ac6b,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+c6159d161952357ab4d65f188c27c9bb57244100,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+c54b56533702e41a05a7311ae53712eae5eeeb41,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+34266170f2713153a5979f942bfd78ebe29f2251,Simone Tripodi,simonetripodi@apache.org,Sep-1-2011
+059542869b245d134ca3e186bbb9f95f8c3fc08a,Matthew Jason Benson,mbenson@apache.org,Aug-31-2011
+d1a160b7a903bac12d4fa2964cff1c246ba85dc7,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+8f391f1aabfaa0d3143715d81db72e9a4609750f,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+0d0a2787885adc968be899e9d7342261b4078ed5,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+26e42a6ac31bf37d009e08d54756569155cfb87e,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+cc1a684a79b696dc5d2d5bdd3cd31c9569debff7,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+26084aaed286913689de97fd474915cddd9c7b95,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+df06058d30706a2b28c92d36124e6cc8f75053f4,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+f17fcb7d97a1370ae6be66d313f27dafecb19a14,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+616b1197237e788828e15a32205d95a90d1f3c4f,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+2ee1cacb9c0a7582bc91075b287a1927563a1033,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+79129f8580b2335e4f4a281f20a0e88074a65fa5,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+5c1486fe47f10d82ec6a3d7b3b2fa046ea87376a,Simone Tripodi,simonetripodi@apache.org,Aug-31-2011
+57601f24ffa92adcbccf875a76baec8016ddf51b,Simone Tripodi,simonetripodi@apache.org,Aug-29-2011
+5e6876556b7c88d48d12df9c866ee94cc012a936,Simone Tripodi,simonetripodi@apache.org,Aug-29-2011
+2971ae980b371eec63d589dfc36948c548003a0d,Simone Tripodi,simonetripodi@apache.org,Aug-29-2011
+318cc94ab5a91a6c895008ab70708a91aa1bd9d5,Simone Tripodi,simonetripodi@apache.org,Aug-29-2011
+495e5f7ccfcad46185d98b4ad7e7e455cd6b00fa,Simone Tripodi,simonetripodi@apache.org,Aug-27-2011
+ce5f735c7ec1c2b69fe29150c0c1c5361d3e76da,Simone Tripodi,simonetripodi@apache.org,Aug-23-2011
+eddcfe2d8475b27726baee4cf66728f3e592b7dc,Gary D. Gregory,ggregory@apache.org,Apr-22-2011
+a5d157b5da4ac487e37087d18a4d56637332a639,Niall Pemberton,niallp@apache.org,Apr-4-2011
+4d731e2bc0b5227693e98cd4746478068b3e0b10,Gary D. Gregory,ggregory@apache.org,Mar-31-2011
+ed4286dbfc3e6daaebe4930aeee13d4429211a1d,Niall Pemberton,niallp@apache.org,Oct-6-2010
+d3819dbe8728991d32dee38ce66621b16caf0d70,Niall Pemberton,niallp@apache.org,Oct-6-2010
+a9a9e6423222e6eaa1e7c2d0f848cd0c5417f23f,Niall Pemberton,niallp@apache.org,Oct-6-2010
+ed68efd408b55ef4191057364d02512dd4ea3983,Niall Pemberton,niallp@apache.org,Oct-6-2010
+f269ad0fb2b8caa2aea99449b45fb4364b83616b,Niall Pemberton,niallp@apache.org,Sep-15-2010
+03fdd0e20965cf4d2a2d293405cdba988d8035bc,Niall Pemberton,niallp@apache.org,Apr-21-2010
+9ace55383e00fffa0eb6236870763fa9f871f77f,Niall Pemberton,niallp@apache.org,Apr-9-2010
+5b590cd8109612fb2748cac032afdb308d2e62ca,Niall Pemberton,niallp@apache.org,Apr-9-2010
+5f0ddce5814617a632b7ef84adc9eadff0fbc853,Niall Pemberton,niallp@apache.org,Apr-8-2010
+8eee5bef96151a8e9dd1b5f639c5a0eac621a856,Niall Pemberton,niallp@apache.org,Apr-8-2010
+23a5ce097c3bdb09882bc96df8504e95dd72e467,Niall Pemberton,niallp@apache.org,Apr-8-2010
+5c4e99217acf0280aaa53ae8986354d33cc53629,Niall Pemberton,niallp@apache.org,Apr-8-2010
+36bf4488c03bfa86cbc4ea79b1440b958747651f,Niall Pemberton,niallp@apache.org,Apr-8-2010
+b8e61e5ff3c4879e2ab8b05a2a5df02b2c284195,Niall Pemberton,niallp@apache.org,Apr-8-2010
+5ebc1ff604db74ba1cebc83549358c84163ac41e,Niall Pemberton,niallp@apache.org,Apr-8-2010
+62207928cda5ca84976708c443ecc0d319e42c0c,Sebastian Bazley,sebb@apache.org,Mar-30-2010
+77ec2b8472535b0a17de66da2bf027e625f88af9,Niall Pemberton,niallp@apache.org,Mar-28-2010
+3a013f017ac32ad2a9097d5d27e647fe46186faa,Henri Yandell,bayard@apache.org,Mar-28-2010
+d50860a94d8ce42983f783c0ab2191fad4cef2af,Niall Pemberton,niallp@apache.org,Mar-15-2010
+7bec2df917146795fb7123363673f88c42417b47,Niall Pemberton,niallp@apache.org,Mar-15-2010
+a61b2f354f2053bcde52b416e9a31ac110c9122d,Niall Pemberton,niallp@apache.org,Mar-8-2010
+0f27d036c3cf071d3a92b189deb08c9a4a46dffd,Niall Pemberton,niallp@apache.org,Mar-8-2010
+8a56e9f644c925e1c54103c2dce2b2462c68751c,Niall Pemberton,niallp@apache.org,Nov-12-2009
+cb8fa96e61e0b9e3ceb93bf3d6d6487905c6ef34,Niall Pemberton,niallp@apache.org,Oct-20-2009
+1009b575fe1a917b7b637105d88191f76245ce44,Sebastian Bazley,sebb@apache.org,May-28-2009
+54a8cb90ee80c1398246e6af0a5b97ce2adc4153,Niall Pemberton,niallp@apache.org,Aug-20-2008
+2a8f46a7ddcb237f51773ce5f88292070c9f4f76,Niall Pemberton,niallp@apache.org,Jul-21-2008
+8b41b4ac8537c542e03305085b9f327eaa7497c7,Niall Pemberton,niallp@apache.org,Jun-1-2008
+9aa4f3efb53b257e05e9f43890f8ccb381e471a1,Niall Pemberton,niallp@apache.org,May-29-2008
+fb26cd0ad985629574928aaa33436ae0d3658b7c,Niall Pemberton,niallp@apache.org,May-29-2008
+09445b3cd937e0b4dc687bb93348b631775ad747,Niall Pemberton,niallp@apache.org,May-29-2008
+16df0d7ed957b2183075e856dffb9504b887996e,Niall Pemberton,niallp@apache.org,May-29-2008
+1d30c1d800beca6f0e9cdb265aea7cba5876f173,Niall Pemberton,niallp@apache.org,May-29-2008
+6e12e065df7acac88201845493e569825099cf2f,Niall Pemberton,niallp@apache.org,May-29-2008
+789e8168f7204f7ce737218738252d8cae3463ad,Niall Pemberton,niallp@apache.org,May-28-2008
+0283effd04dd986cc5e317ce139638836cccd231,Niall Pemberton,niallp@apache.org,May-28-2008
+69b9d5c396bbc0d6952228443ce71507dfb5036d,Niall Pemberton,niallp@apache.org,May-28-2008
+b49ab5df7db84c881c279c09b57c6566b136cefd,Niall Pemberton,niallp@apache.org,May-28-2008
+0acbb9701e598e2a3e20812f33c0c3c104449c55,Niall Pemberton,niallp@apache.org,May-23-2008
+93121a13ec9b8adfa01e870c1e6e6fe00b7f0bbd,Niall Pemberton,niallp@apache.org,May-23-2008
+8272f3b77a0c5e74a5fe3eb999e85b683153c7bc,Niall Pemberton,niallp@apache.org,May-23-2008
+de3170b17688738195e726c7c47e52d1e7e4e92e,Niall Pemberton,niallp@apache.org,May-22-2008
+5e9f36356fe474f1a0e6c8c2ea27f1bf31cfeff7,Niall Pemberton,niallp@apache.org,May-22-2008
+baf7de49b34ee73f7cf9306242bf18c87f8ddfe4,Niall Pemberton,niallp@apache.org,May-21-2008
+0176395c2abc5f41444287f7e6dadf6aeeffc5b4,Niall Pemberton,niallp@apache.org,May-21-2008
+25a4b108b2cd0799f4704b382499a53901ba6f04,Niall Pemberton,niallp@apache.org,May-21-2008
+bec7e6df54e17384da081a70d553090d90e3b323,Niall Pemberton,niallp@apache.org,May-21-2008
+1cf5dd92538c033b084d702d95ba2a91dd8cd8f5,Niall Pemberton,niallp@apache.org,May-21-2008
+f12f58767aa25f8758c5f2f9a89fa621cf5f6f6b,Niall Pemberton,niallp@apache.org,May-21-2008
+7afaeda5b83ef925c825f1e56c409ff26ae0a718,Niall Pemberton,niallp@apache.org,May-21-2008
+c71533e0cf63af64b1cc66376c57d4f58f6c47c6,Niall Pemberton,niallp@apache.org,May-21-2008
+2b35452a7e599673d50fd3633e328f87c2614d66,Niall Pemberton,niallp@apache.org,May-20-2008
+5b46b453880492faa7309e111694180e65645e4d,Niall Pemberton,niallp@apache.org,May-20-2008
+874ab3ebdd1eec762ef6bf96430f8640f367d0b7,Niall Pemberton,niallp@apache.org,May-20-2008
+81f8ebefbcac41eab07a5cb3f99e30ca69077fee,Niall Pemberton,niallp@apache.org,May-20-2008
+49673db6a523786106f58baf98f96684ecc0fc99,Niall Pemberton,niallp@apache.org,May-20-2008
+367e6128f9c9b1cd19ffa6e37c683d22a2db203e,Niall Pemberton,niallp@apache.org,May-20-2008
+074ac3eada6bf3ea94a953dc3b6e020ca71f04ec,Niall Pemberton,niallp@apache.org,May-20-2008
+8f1be8ae687944e4168043fb92c94a714f0b8a39,Niall Pemberton,niallp@apache.org,May-20-2008
+c97b6e5b05209ce68a5dd7ced0301e7236e209b2,Niall Pemberton,niallp@apache.org,May-20-2008
+9415da25864034bb2f144a0b1804ee414a75617d,Niall Pemberton,niallp@apache.org,May-20-2008
+62545b00024249df851aefc3f4ad27229558166f,Niall Pemberton,niallp@apache.org,May-20-2008
+f52e33dab7bb3fb77b9d3643258c947453228961,Niall Pemberton,niallp@apache.org,May-20-2008
+2f0c373840d53d560f0da1ba56ac94a05bbb44c3,Niall Pemberton,niallp@apache.org,May-20-2008
+4d6306da7a6e3c8c1ad8562df1b0a3418ce29801,Niall Pemberton,niallp@apache.org,May-20-2008
+6a8797d09c43dc48fe87a29a091871cb7f675d05,Niall Pemberton,niallp@apache.org,May-20-2008
+c7031ebaa2f17d1a677d1011c91c0a3f5d6e7b81,Niall Pemberton,niallp@apache.org,May-20-2008
+a5d423519b3e0e87fbee26476a3828c065406378,Niall Pemberton,niallp@apache.org,May-20-2008
+6bca26c304a613c8dbf29444b128e685d6aef702,Niall Pemberton,niallp@apache.org,May-20-2008
+6a64f32684f757ca1b69961e375c5b898e0d0719,Niall Pemberton,niallp@apache.org,May-20-2008
+bb842ab98952408c59138e30e2f243c9e231a8d1,Niall Pemberton,niallp@apache.org,May-20-2008
+e95f4f2922093f223bf8a604f82cc67d9ec4c13f,Niall Pemberton,niallp@apache.org,May-8-2008
+407ce96bb0e5b3dc4bc6ccd1e71b3fa630387b0b,Henri Yandell,bayard@apache.org,Apr-27-2008
+5e6eb13af366649cd49c5b037d5e14ce0343cbcc,Henri Yandell,bayard@apache.org,Mar-14-2008
+f2c7db73e9a458f3e497dcaece10e9b634f1eedd,Niall Pemberton,niallp@apache.org,Mar-9-2008
+ae8314164df9a5c8063c62e7ab69ae8f14647e5a,Niall Pemberton,niallp@apache.org,Mar-2-2008
+ef71ee6d2646d19b591e63d39ae0dcf2f418330c,Niall Pemberton,niallp@apache.org,Mar-2-2008
+fbabc27858b91b50ff5f8c70c45b1f341eabc1ea,Niall Pemberton,niallp@apache.org,Mar-2-2008
+0470db8c6a439d28827b38a4ee981b16dd730363,Niall Pemberton,niallp@apache.org,Jan-15-2008
+8051342b5c3da65c50d5e6efe9e94229fdf2415e,Niall Pemberton,niallp@apache.org,Jan-9-2008
+835d1bd98d04e83e1a802239e58749b7fa4ee609,Niall Pemberton,niallp@apache.org,Jan-7-2008
+afd6d1a36e9973b71115aeb9eb6710d6041874bf,Henri Yandell,bayard@apache.org,Jan-4-2008
+df621d959854032944319a959e664227b4e57176,Simon Kitching,skitching@apache.org,Dec-2-2007
+31c3a204c8aab9799744291210c4c4e2f59117d2,Niall Pemberton,niallp@apache.org,Nov-15-2007
+0fc1c764ed043d9b7ff1a2fe520b092761e9bd7e,Henri Yandell,bayard@apache.org,Aug-23-2007
+0da0f77ecf6535d0ae10368ddf066d299e1921b6,Henri Yandell,bayard@apache.org,Aug-22-2007
+f899fa38bf0af61fbe089c83a30d3e611b90e2ed,Phil Steitz,psteitz@apache.org,Aug-19-2007
+aa011342a5cd47eeac5f128165345bf1ea4af351,Niall Pemberton,niallp@apache.org,Aug-5-2007
+bc9507082e1c4fe489d66c931baaecdd0f6f3998,Matthew Jason Benson,mbenson@apache.org,Jul-31-2007
+f9c42aaf775b126c3855edfb1d0cdcb62da0aa0d,Niall Pemberton,niallp@apache.org,Jul-31-2007
+a319089a0bcfc779b7641208224cd0c4c0d47396,Dennis Lundberg,dennisl@apache.org,Jul-31-2007
+8218bfbc45ff3641f2865fb4338d82816f8af127,Henri Yandell,bayard@apache.org,Jul-31-2007
+aba6045bcc30e8b6153e447b93bd15beb971c3f6,Rahul Akolkar,rahul@apache.org,Jul-31-2007
+23fefc9db408c521fa58a5ded10c94bffb3d482b,Henri Yandell,bayard@apache.org,Jul-30-2007
+ff806629bc69267cdab03901a2238d8907ed6acd,Henri Yandell,bayard@apache.org,Jul-29-2007
+a1fc54abf4a9bdb810bba22b0eef1f60b9d24140,Henri Yandell,bayard@apache.org,Jul-29-2007
+3aaf812ef9d642ff468dfd86aed65baae1f1b305,Henri Yandell,bayard@apache.org,Jul-29-2007
+f38e535ce065d020a0e1cab0f8cc29991aec3a2b,Henri Yandell,bayard@apache.org,Jul-29-2007
+e63ecb4147de9a2d362d01938ad72afc40d07c4e,Henri Yandell,bayard@apache.org,Jul-28-2007
+0c9fe51eab5823278b3312c381fd61eedd11fa43,Niall Pemberton,niallp@apache.org,Jul-27-2007
+21f72589e7afeb51ea623261edc79af741f6a94f,Niall Pemberton,niallp@apache.org,Jul-27-2007
+732a943295013fb9dc8dc0a6b069857705c26faf,Rahul Akolkar,rahul@apache.org,Jul-4-2007
+59e78987c56bb28d6b9c99d406399e09ea68571e,Niall Pemberton,niallp@apache.org,Apr-27-2007
+e11a8f0c4f19eca2018a30a318575b5e083174a8,Niall Pemberton,niallp@apache.org,Apr-27-2007
+bae0be6cb3d53b2939f79f01067ce1ed40ce9043,Niall Pemberton,niallp@apache.org,Apr-27-2007
+c9f990dff3b2cfc0e4ed39824422e53547e36687,Niall Pemberton,niallp@apache.org,Apr-27-2007
+91b94fe73e5029b1a8e16ab2e28e8fe5d1b440c4,Niall Pemberton,niallp@apache.org,Jan-24-2007
+196786cadcfff17d504688cf7c9cca39c69708b4,Henri Yandell,bayard@apache.org,Dec-12-2006
+094488cbb2d493b62407b6c0b8cb44596b13132d,Niall Pemberton,niallp@apache.org,Dec-9-2006
+d66f26a73f6e4f2ed98599c0e6360103de396d56,Niall Pemberton,niallp@apache.org,Dec-6-2006
+3d9f67d276a5908a723a07efb74a0374754a9ecb,Niall Pemberton,niallp@apache.org,Dec-6-2006
+4eedbf4b6faea76a1780ff4071f2c2d3ab5bbeda,Niall Pemberton,niallp@apache.org,Nov-30-2006
+40489e5d64b94dbeff3088c1580a205f4b1eb8bc,Henri Yandell,bayard@apache.org,Nov-29-2006
+56cacc66f47c39c6a08077145f4793ade136ad67,Martin Cooper,martinc@apache.org,Nov-24-2006
+297c62aa30b0dfcd63963ece79d16effe1deb96b,Rahul Akolkar,rahul@apache.org,Nov-9-2006
+26249d14744278ffc1b9554a6d0a9767a3ae7767,Rahul Akolkar,rahul@apache.org,Nov-9-2006
+a3b304552c1262e1d7672ae8a5c6a8b196281fdf,Rahul Akolkar,rahul@apache.org,Nov-8-2006
+73b64d73d74f8a7fdc8ac1cc97042165492d54de,Henri Yandell,bayard@apache.org,Aug-10-2006
+176c2eb29a548b8d118496cd2bfe9a69019289f4,Niall Pemberton,niallp@apache.org,Jul-15-2006
+677da46f9ff45168e878ca804d25b17979f4524a,Niall Pemberton,niallp@apache.org,Jul-14-2006
+62d81605688323a6e01ca9d3d73b5570a4807120,Niall Pemberton,niallp@apache.org,Jul-11-2006
+a5f39c63f07631232cff4c9d1a758c1b5c9734dd,Niall Pemberton,niallp@apache.org,Jul-8-2006
+ec10e1b0747f13c320032414ca081f70d0112ffc,Niall Pemberton,niallp@apache.org,Jun-25-2006
+864041291c63c776c86ea2dbd0e6f9e89681f0d5,Niall Pemberton,niallp@apache.org,Jun-25-2006
+ab7ff06272df4a4737975f9b1494b7dc1232daf0,Niall Pemberton,niallp@apache.org,Jun-24-2006
+7081b3273aeb3171c906e704ab64c8299de7ae06,Niall Pemberton,niallp@apache.org,Jun-15-2006
+fedf13149eab9e0b12629ba59830d7372fc32ebb,Niall Pemberton,niallp@apache.org,Jun-14-2006
+b44f8a99ebfd2506fb9ca1aece9baf3d2a943923,Niall Pemberton,niallp@apache.org,Jun-14-2006
+d59a65a7b306367cc39ee0485b1c07995685a507,Niall Pemberton,niallp@apache.org,Jun-14-2006
+72410c9294c3e6be4e5e59a058566528d14fa35e,Niall Pemberton,niallp@apache.org,Jun-13-2006
+b8e99ed16036f47016585f7a9a528bee95fe56ab,Niall Pemberton,niallp@apache.org,Jun-13-2006
+14842d4bd831c26d49e2a67cd7bd8c8008e7480a,Niall Pemberton,niallp@apache.org,Jun-8-2006
+1ba75151c667c0b94c62ab777f92d61d5a27c2fd,Niall Pemberton,niallp@apache.org,Jun-8-2006
+0275987ab8b83e22147c6cdc959a7c9fb834d747,Niall Pemberton,niallp@apache.org,Jun-8-2006
+6512e6703ca336d68196bd5e2ef2e8027d889657,Niall Pemberton,niallp@apache.org,Jun-8-2006
+2796d43214cee15cbb61e15e22a58a72ab1669de,Niall Pemberton,niallp@apache.org,Jun-6-2006
+35aff8d3da335ca2e92133c38b2fab7d5564ed2a,Niall Pemberton,niallp@apache.org,Jun-6-2006
+e7483c33c975a7d8d7cd1369f7d172745f2c6f72,Niall Pemberton,niallp@apache.org,Jun-6-2006
+483cbe0865dd08c668eed56eeed5d4ebb59ebcce,Niall Pemberton,niallp@apache.org,Jun-5-2006
+b8bd19ebcb61670bffa1f3773603d122bf04d28a,Niall Pemberton,niallp@apache.org,Jun-5-2006
+0aab43e58f0d7936d9b6d719e4d27cbc95573431,Niall Pemberton,niallp@apache.org,Jun-5-2006
+0d293c8f41f134a0cd1996c31b4fbd5480b8b75c,Niall Pemberton,niallp@apache.org,May-30-2006
+32943c56ba2a3801dae95350ffef82d0b3592d31,Dennis Lundberg,dennisl@apache.org,May-27-2006
+368648f082dd940e097195e9643830127e652b91,Dennis Lundberg,dennisl@apache.org,May-27-2006
+3710275d83d2483d55bb80de403460ad4820a611,Dennis Lundberg,dennisl@apache.org,May-27-2006
+f990e420f9c9a55ed740071e790036e18e782e75,Dennis Lundberg,dennisl@apache.org,May-27-2006
+ed8eca0b7f2b153249573d82b633e8da195dbdf9,Joseph Lad Germuska,germuska@apache.org,May-24-2006
+9a6985c684f519def05ee8511b5308f5bec4a395,Niall Pemberton,niallp@apache.org,May-24-2006
+fd6ce1ba69d08ea234de6989c6a390efaa59ec11,Niall Pemberton,niallp@apache.org,May-24-2006
+d9abe78c4c7f9882be7a5a99f68233a14ab5c7bd,Niall Pemberton,niallp@apache.org,May-24-2006
+4d09a800d9f97a15689a635f1a596a87e38e82a2,Niall Pemberton,niallp@apache.org,May-24-2006
+cdbed5d92d16ad0ed9c008db184b1fd45b949e01,Robert Burrell Donkin,rdonkin@apache.org,May-20-2006
+ccf69a15a9f8cfa3a4e672e1cc99c72c2f2aed82,Robert Burrell Donkin,rdonkin@apache.org,May-20-2006
+05eeed02e4ab586d89b4130d6659598e3be08440,Henri Yandell,bayard@apache.org,May-16-2006
+bd67f8a8e05007cc2524f2e906368ef59614ec3d,James Mitchell,jmitchell@apache.org,Mar-22-2006
+3b2546e410cb6c8e44452b39cfb1aa8e2d2dbfb7,Niall Pemberton,niallp@apache.org,Feb-14-2006
+348f7e64c85a377522dfc574ef8f397abd7748ac,Henri Yandell,bayard@apache.org,Jan-24-2006
+26a03c15c6406dcc19c2db81f930f8c5af46aded,Henri Yandell,bayard@apache.org,Jan-23-2006
+af8fac3ebda4e823b428af93f84aae08b2a4e500,Joseph Lad Germuska,germuska@apache.org,Dec-13-2005
+160a916ab6521bddccf54e7d6dc4883349b74720,Dion Gillard,dion@apache.org,Nov-21-2005
+0e40043f37124b744531aa19de71bf574e8968c3,Brett Porter,brett@apache.org,Oct-23-2005
+7e46a540aff3e18d7d0507d55a4b514451700fd6,Joseph Lad Germuska,germuska@apache.org,Oct-17-2005
+15749b9b769ae085d0c074968a068223edad3f43,Joseph Lad Germuska,germuska@apache.org,Oct-12-2005
+e404bb65408a28d782c00191656337f72862c327,Joseph Lad Germuska,germuska@apache.org,Oct-12-2005
+29ce45ca43458edf619ad31b1da9aa3a89e6eb3e,Joseph Lad Germuska,germuska@apache.org,May-26-2005
+f754ed8aaaac5b564af37ba7476dbf9cca8875fc,Joseph Lad Germuska,germuska@apache.org,May-26-2005
+4a26ee463b8dd2d9d52ef24a4f8a0b971f65a23a,Joseph Lad Germuska,germuska@apache.org,Apr-28-2005
+fcb67fbb0e3e7121caa68b1fc630ce580f8e9044,Craig R. McClanahan,craigmcc@apache.org,Apr-16-2005
+4b6d9b340ff800518fe9c4414cbae02201ab9550,Martin Cooper,martinc@apache.org,Mar-30-2005
+5d64efb7f3eb6afc69906b54450128be4205f93d,Martin Cooper,martinc@apache.org,Mar-29-2005
+eac473276a648b898c7b42d5bc6f0454918b0beb,Joseph Lad Germuska,germuska@apache.org,Mar-16-2005
+c6ef4ca5cf7ebcf8ae969b4c7507f5fb3be79661,Martin Cooper,martinc@apache.org,Mar-9-2005
+4c731f89cf283383bf0b22a6af1eb6057b943593,Dirk Verbeeck,dirkv@apache.org,Feb-26-2005
+a862d790231525ce61c090d6b21dc10fefd443f5,Dirk Verbeeck,dirkv@apache.org,Feb-26-2005
+8fe4dfccd6361ecb31658fbc59469523d199e8f1,Joseph Lad Germuska,germuska@apache.org,Feb-23-2005
+224722ff3334db3a1307ab61c24dbb0c1a14ca37,James Mitchell,jmitchell@apache.org,Feb-2-2005
+360ec10e2acc8700aec27abc2eee2a8bb93716ed,Dirk Verbeeck,dirkv@apache.org,Jan-30-2005
+ea2b68c117c07548aa4f3df51a837973e2905c7d,James Mitchell,jmitchell@apache.org,Jan-8-2005
+660449a5d870686e6ca9176e03a94f5c2ee33777,James Mitchell,jmitchell@apache.org,Jan-8-2005
+7b1bfe86f688949726932329cdec43121db4f9f9,James Mitchell,jmitchell@apache.org,Jan-8-2005
+186bc9b88c88b34474c91a1ce0f99c8885930233,James Mitchell,jmitchell@apache.org,Jan-8-2005
+3e5a1dd0a26fe38be39f3fabc48f2163715e65c7,James Mitchell,jmitchell@apache.org,Jan-8-2005
+114ce532cf17ddf2f4351abc3d2f8b893006d482,Joseph Lad Germuska,germuska@apache.org,Jan-7-2005
+ec79cd55ed3c29377ab79869ed24c7c7752f6dbc,Joseph Lad Germuska,germuska@apache.org,Jan-7-2005
+a0271d5f46821ee41577142130d3d4505e0e5ae0,James Mitchell,jmitchell@apache.org,Jan-7-2005
+3c8da9411b454ff30dbb0d219bbe3471abd7b653,James Mitchell,jmitchell@apache.org,Jan-7-2005
+5055af741f79c501c4671afae9b3ad0ccede4bbf,Craig R. McClanahan,craigmcc@apache.org,Dec-31-2004
+99ba10484555e7193d5cd0b1ee0e48f41a92428f,Martin Cooper,martinc@apache.org,Dec-12-2004
+9e1365146548c9b21057122870c7dbc63f75c372,Martin Cooper,martinc@apache.org,Dec-10-2004
+1b18c9aff130cbdf0584afaaca51b6f9908fd63d,Martin Cooper,martinc@apache.org,Dec-9-2004
+1687c504012d55c1d02747b59862552a55625cb6,Martin Cooper,martinc@apache.org,Dec-8-2004
+28e3cf9968460cee6244aeadd155f0524c07530d,Martin Cooper,martinc@apache.org,Nov-30-2004
+b1470ba10d67597dfd695bcc66d98749de19d7ee,Martin Cooper,martinc@apache.org,Nov-30-2004
+802df4abf86f627c5f1a56b76f9b9bb9712ee2e3,Martin Cooper,martinc@apache.org,Nov-22-2004
+87fab1e123b859de1a26eceff7a1cd12228668a1,Martin Cooper,martinc@apache.org,Nov-22-2004
+48d22896b7bf15b18a5a14029bd798ee2a40ddc0,Donald J. Brown,mrdon@apache.org,Nov-17-2004
+737c246ca49d4fa541cf4116ec84e034722b2981,Donald J. Brown,mrdon@apache.org,Nov-17-2004
+3cd4b041fc588e70cbee5e27b09634fd6fc1fbd2,Martin Cooper,martinc@apache.org,Nov-16-2004
+1c620766f45bd1c58798c43100f13eef3a1353c5,Craig R. McClanahan,craigmcc@apache.org,Oct-22-2004
+cd91132db57f9da2e1c198813d6c2d39c9fd4557,Craig R. McClanahan,craigmcc@apache.org,Oct-21-2004
+a976ecaf8b8e0213aa7ad9697ca7d41e1b33d80a,Craig R. McClanahan,craigmcc@apache.org,Oct-18-2004
+5eb461ba21ccd93ad5816ac7eb8833870eae0915,Craig R. McClanahan,craigmcc@apache.org,Oct-18-2004
+4f7a77d7aa5daf30ad44d2819d4cb8a154a82e96,Craig R. McClanahan,craigmcc@apache.org,Oct-18-2004
+dcf2216f2e91c3f67af3ea2a39334387b71c07bc,Craig R. McClanahan,craigmcc@apache.org,Oct-18-2004
+52be40e3d5dafe9125327848a1d864c82776bc2c,Craig R. McClanahan,craigmcc@apache.org,Oct-17-2004
+cc1568a57ba8f2982ee9ba1b7c88772831d28c15,Craig R. McClanahan,craigmcc@apache.org,Oct-17-2004
+90eccdb3d9bfd379af8afa9170fd724e89f70fbe,Craig R. McClanahan,craigmcc@apache.org,Oct-17-2004
+9ea64701a7f642107822dc2e5e46a3c2d7d45e54,Craig R. McClanahan,craigmcc@apache.org,Oct-2-2004
+16eef05eb5b856ed071bf08db00b0a9447f4f9cb,Donald J. Brown,mrdon@apache.org,Sep-29-2004
+798ac6959f28756516438a8fcbd85f6f3fb829eb,Donald J. Brown,mrdon@apache.org,Sep-10-2004
+0c14f1078a122af32122a00090d889cecd1a4f84,Mark R. Diggory,mdiggory@apache.org,Aug-17-2004
+79309690bc13bffc6f9368e6c5ab99e197020c9f,Craig R. McClanahan,craigmcc@apache.org,Jul-16-2004
+d4cfa2e2425fce878e06ed8eee64d34f12e52224,Craig R. McClanahan,craigmcc@apache.org,Jul-16-2004
+65332de80658466423b814eff9d9f3728607d518,Craig R. McClanahan,craigmcc@apache.org,Jul-9-2004
+30c628ff281c10377a6fdc1aba87c0af0bc532f9,Donald J. Brown,mrdon@apache.org,Jul-3-2004
+18af2dfe8bfa07fcb23ad7b1f94915fc2ddeb2ae,Donald J. Brown,mrdon@apache.org,Jul-1-2004
+9b7916275a8c0c25c852bd551d0c89905f92fa88,Donald J. Brown,mrdon@apache.org,Jul-1-2004
+6044d36d2c20080815781f0430b0842efc546e28,Donald J. Brown,mrdon@apache.org,Jul-1-2004
+9ce8775b9d967ffe559e7e3df566c9296d558b21,Ted Nathan Husted,husted@apache.org,Jun-21-2004
+6fea865d389f98814babd06b8e641227d763d8ba,Ted Nathan Husted,husted@apache.org,Jun-21-2004
+c75dd406562c211895b3cc2f044883487581e3ff,Ted Nathan Husted,husted@apache.org,Jun-21-2004
+246f7a09c9d294b6601e13f5d2341661ced366e1,Ted Nathan Husted,husted@apache.org,Jun-21-2004
+d4230c54debbf76bc9e11edd9b6aa8c44d5684d6,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+acc2dc0d5e795f771f35a82f517d8995e548034e,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+bc426c72fcd6150cc173f7a5bf05dae90a46baf1,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+60ca4ba9fe9494279146a4319984ee8f38d68904,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+357b29f955ca0dff66bf127b62cef813279c5d8f,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+cfe671e410d8fabd9dafeb967cef6760a7458ac1,Ted Nathan Husted,husted@apache.org,Jun-1-2004
+b47fa4bcc2be40e21759de6fa20eb823442b7ab2,Dirk Verbeeck,dirkv@apache.org,May-30-2004
+3bb6fa7aeff5d5e14b78b29ad5a3ffe9cc7c89ed,Craig R. McClanahan,craigmcc@apache.org,Apr-10-2004
+d4ef1edf8000afaad524777782e0664c31bb709c,Ted Nathan Husted,husted@apache.org,Apr-9-2004
+ddc0254008c9af35f00eb7b797db269487945ff8,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+9dc76c946bcce6df731436fca7ad884d7f732a67,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+5c8dca5a2d0aa75ecdbb9707f00836cca8a34769,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+4b33ad3583e0a9dc7fa50ddc39926e632072080a,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+d94773cb680fd25c83498e84809c6671900f7cfc,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+d88f2b2b62f70f765990dd821c07469893db6fd0,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+8b5b02d8225979b5fb13513e5fc7749a6a8b566f,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+25234fe22244a2e0a5e7c85d83ebffe91c26e6fe,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+415b7da31e558ce0a36683bf63fbb0a6c626da76,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+16267900a3803a6ec8251e0649c22e1991c5ab98,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+7d1e0d753390365ba457bc4c48d996a7ceefcbb4,Ted Nathan Husted,husted@apache.org,Apr-8-2004
+4c7125da4f7094b8291cab10d2efefaf434e3106,Dirk Verbeeck,dirkv@apache.org,Apr-5-2004
+94d84fe1699e28977893aa07460e3ad41a0d36f0,Ted Nathan Husted,husted@apache.org,Apr-1-2004
+c6dc3bf9d1917d0507ed31d2d33ea643bea270e0,Ted Nathan Husted,husted@apache.org,Apr-1-2004
+5e31081ba4fe4680bdb6ded5ad63beca2e472696,Ted Nathan Husted,husted@apache.org,Apr-1-2004
+e6faca6aba69a7ef2740b60335dd6b0b791fd8bc,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+72f87d4ddfa962af6f6a1db4a78290dc9248e2be,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+83a7f0cc4a1e92e52518a7dc88601189822bc1cc,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+a24a3ae2c0756134bd2e6cd556e5cb39dfe569bb,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+591c0803b2abf5416bab72ae320629ad757c22d2,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+edef7e3ee9c0376d36dabebb63f46a789098a3da,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+c315f1679f900085765e5da589427fe6a3f20b9e,Ted Nathan Husted,husted@apache.org,Mar-29-2004
+9d4fd3d3828b03041a0f9bb1f6ef3a5442027de1,Ted Nathan Husted,husted@apache.org,Mar-28-2004
+9edf948d4a00bdfab5331bacee5006d74500ab29,Ted Nathan Husted,husted@apache.org,Mar-27-2004
+46d5cb137408d489b93b3aa0f45746638d2bd826,Ted Nathan Husted,husted@apache.org,Mar-27-2004
+a098acddd44238633dacd7b7f3900ac3deca1517,Ted Nathan Husted,husted@apache.org,Mar-27-2004
+325991fad456d39ea9ff49ecec9530df41896b5c,Ted Nathan Husted,husted@apache.org,Mar-26-2004
+38be7cdbc9f825af37c575c0e1f5ca95cea46b34,Ted Nathan Husted,husted@apache.org,Mar-26-2004
+fc16135b0041bfc10496cef4664b8ce2fc07363f,Ted Nathan Husted,husted@apache.org,Mar-25-2004
+79563d3e3a78a5c6b55c5620e7ca5a512bf6cbba,Stephen Colebourne,scolebourne@apache.org,Feb-28-2004
+28c5f9d422169a91bee208d7f7b1b3d19155ef8a,Stephen Colebourne,scolebourne@apache.org,Feb-25-2004
+5d8f4e02d06128b318cd610ca9546b2bebff92f0,Ted Nathan Husted,husted@apache.org,Jan-9-2004
+b93fe41699cd19afcd69602394c1129fbfbe4015,Ted Nathan Husted,husted@apache.org,Jan-9-2004
+64e591e5ab62230cbb0169571b2f21cb164c83e0,Ted Nathan Husted,husted@apache.org,Jan-9-2004
+5f82e2dfa54f49b5143612449c9e133561573f50,Craig R. McClanahan,craigmcc@apache.org,Nov-9-2003
+1ee6e3a4645d9ef8db1571b4a5a3022674e870e5,Craig R. McClanahan,craigmcc@apache.org,Nov-9-2003
+2c6a1b66857cc7aafafe6d6e3da6237d6ca0ec6c,Martin Cooper,martinc@apache.org,Oct-23-2003
+c8977b12cd67beda6dd502ac68b19bf340582cd4,Martin Cooper,martinc@apache.org,Oct-22-2003
+161a8709ce208b8cb3167cf9a39f120d0d4a7000,Martin Cooper,martinc@apache.org,Oct-21-2003
+dc9c78badc93d69ba8545724a793b2bc992dca8c,Martin Cooper,martinc@apache.org,Oct-20-2003
+76e0151a08fac5fdaeadf9feafd0e92cfa27e387,Martin Cooper,martinc@apache.org,Oct-20-2003
+0e10a804759567f9376b6b094368a1b598ddc04d,Martin Cooper,martinc@apache.org,Oct-18-2003
+51ae8d9c1a4b40c5a9ba012240978076f3036355,Martin Cooper,martinc@apache.org,Oct-18-2003
+3c7dc02d24fe990c5ff02bdda4f297d789b1d482,Robert Burrell Donkin,rdonkin@apache.org,Oct-12-2003
+d1735fedab823fbeb558d7869014a894c0027508,Craig R. McClanahan,craigmcc@apache.org,Oct-10-2003
+72448fdcf563420e761ebc32f88b81f49e141bba,Craig R. McClanahan,craigmcc@apache.org,Oct-5-2003
+02785b63743cdf34637f02fd853337d2bcc99156,Craig R. McClanahan,craigmcc@apache.org,Oct-4-2003
+86b0846187b3bb294583783da837a8379c6c8880,Ted Nathan Husted,husted@apache.org,Oct-1-2003
+a64f1d68f7306974b1e67a666854553a0da6e3c8,Ted Nathan Husted,husted@apache.org,Oct-1-2003
+68b3c046df3c8dbfb8b0c585d36b442498fa9bca,Ted Nathan Husted,husted@apache.org,Oct-1-2003
+7c92038695d1b5bdbea2b26a29203e254eb7030d,Ted Nathan Husted,husted@apache.org,Oct-1-2003
+5a984c7089e87068acb6f44d97d01b1e2f272edf,Ted Nathan Husted,husted@apache.org,Oct-1-2003
+45e3a33843cf1338bce3de93fb462eb87b232de9,Craig R. McClanahan,craigmcc@apache.org,Oct-1-2003
+63c398b1d21750e0fd09f87ab068fa03a3638a71,Craig R. McClanahan,craigmcc@apache.org,Oct-1-2003
+c6e517269d1fe0e4bcbac831e5bfa761929d8ed8,Ted Nathan Husted,husted@apache.org,Sep-30-2003
+631039ff166f25df03bb5e93b7880e739004f905,Ted Nathan Husted,husted@apache.org,Sep-30-2003
+5e18dc347efca5ebe215c430a6e9aa95d63321da,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+9a449000f58ef9a1a0394f52a634b1991e8f64dc,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+ec3419ff7e8b64f2b3d9482350e432be23873903,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+1a5a44cf12b3f8c2d8c871a1d80f578e1ed50499,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+ff83a03b8a7215fa658429a1ed339a5afe23c2a4,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+352e6e2e12864a9d02c00023e066664745b88e3d,Ted Nathan Husted,husted@apache.org,Sep-29-2003
+ff521d5b8a4c368e41eb54deda7bb183aae4113f,Craig R. McClanahan,craigmcc@apache.org,Sep-29-2003
+2c51a25cf55f8ce471eb2828bbef70e9862d34ca,Craig R. McClanahan,craigmcc@apache.org,Sep-29-2003
+3e477527b51ba9ae286688c81b40bc372fda417e,Craig R. McClanahan,craigmcc@apache.org,Sep-27-2003
+234124805510ef78a02ab88e23f09580c1e9d31a,Ted Nathan Husted,husted@apache.org,Sep-27-2003
+a8fe39326ce9f3cd104e0a1c3aa13b6050fcb7ee,Ted Nathan Husted,husted@apache.org,Sep-27-2003
+18f6ec42966319db2ee51f9bbeae12b0081662d9,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+4ff16f5070ce276e7bc319312b1f2e5f6117e928,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+925850a1a871b8ad6b8d09c38b12a77a189b5ed9,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+6dc438084976ea62dfa13378505cfaf23de6cacf,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+06b198968ca916e84561d1c15335ba8b66844b71,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+5e34cbb779060289bffc86e42147dfdf26a64f49,Ted Nathan Husted,husted@apache.org,Sep-17-2003
+a8b63d26c6c59f5680e2dcb9c07794190a33381f,Craig R. McClanahan,craigmcc@apache.org,Aug-31-2003
+76c81819be676cdd070d7c4a2558de47cf3508da,Ted Nathan Husted,husted@apache.org,Aug-12-2003
+28f19fdc85f8b434e1bee2e6487e35ff81cc3567,Ted Nathan Husted,husted@apache.org,Aug-12-2003
+9dda2609c54487468edb6ce9e4bdc9487eb25426,Ted Nathan Husted,husted@apache.org,Aug-12-2003
+d1dce747950bd3f79fd8fa1fdaeadc37ecfab373,Craig R. McClanahan,craigmcc@apache.org,Aug-11-2003
+413476507fd0b690dc1980392082b822efe05310,No Author,dev-null@apache.org,Aug-11-2003

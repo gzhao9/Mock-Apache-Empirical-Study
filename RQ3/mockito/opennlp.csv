@@ -1,0 +1,5 @@
+file_path,method
+/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderEvaluatorTest.java,mock
+/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderEvaluatorTest.java,thenReturn
+/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderEvaluatorTest.java,when
+/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderEvaluatorTest.java,any

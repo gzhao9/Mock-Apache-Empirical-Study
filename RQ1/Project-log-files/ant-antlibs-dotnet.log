@@ -1,0 +1,1172 @@
+commit eb4049975f5738ac0a1a6e181c52fe48e6b4d0f7
+Merge: 2ae779c 2ff138d
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:52:33 +0200
+
+    Merge branch 'master' of https://gitbox.apache.org/repos/asf/ant-antlibs-dotnet
+
+commit 2ae779caf38ce4b51d77772d8c1863a32c1cb17a
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:47:03 +0200
+
+    updated reference to license from http to https using find . -type f -exec sed -i s/http://www.apache.org/licenses/LICENSE-2.0/https://www.apache.org/licenses/LICENSE-2.0/ {} \;
+
+1	1	build.xml
+1	1	changes.xml
+1	1	contributors.xml
+1	1	docs/csc.html
+1	1	docs/dotnetexec.html
+1	1	docs/fsc.html
+1	1	docs/ilasm.html
+1	1	docs/ildasm.html
+1	1	docs/importtypelib.html
+1	1	docs/index.html
+1	1	docs/jsharpc.html
+1	1	docs/msbuild.html
+1	1	docs/nant.html
+1	1	docs/nunit.html
+1	1	docs/old-core.html
+1	1	docs/tallow.html
+1	1	docs/vbc.html
+1	1	docs/wix.html
+1	1	docs/wsdltodotnet.html
+1	1	prepare.xml
+1	1	src/main/org/apache/ant/dotnet/DotNetExecTask.java
+1	1	src/main/org/apache/ant/dotnet/Ildasm.java
+1	1	src/main/org/apache/ant/dotnet/ImportTypelib.java
+1	1	src/main/org/apache/ant/dotnet/NUnitTask.java
+1	1	src/main/org/apache/ant/dotnet/NetCommand.java
+1	1	src/main/org/apache/ant/dotnet/antlib.xml
+1	1	src/main/org/apache/ant/dotnet/build/AbstractBuildTask.java
+1	1	src/main/org/apache/ant/dotnet/build/MSBuildTask.java
+1	1	src/main/org/apache/ant/dotnet/build/NAntTask.java
+1	1	src/main/org/apache/ant/dotnet/compile/CSharp.java
+1	1	src/main/org/apache/ant/dotnet/compile/DotnetBaseMatchingTask.java
+1	1	src/main/org/apache/ant/dotnet/compile/DotnetCompile.java
+1	1	src/main/org/apache/ant/dotnet/compile/DotnetDefine.java
+1	1	src/main/org/apache/ant/dotnet/compile/DotnetResource.java
+1	1	src/main/org/apache/ant/dotnet/compile/FSharp.java
+1	1	src/main/org/apache/ant/dotnet/compile/Ilasm.java
+1	1	src/main/org/apache/ant/dotnet/compile/JSharp.java
+1	1	src/main/org/apache/ant/dotnet/compile/VisualBasicCompile.java
+1	1	src/main/org/apache/ant/dotnet/compile/WsdlToDotnet.java
+1	1	src/main/org/apache/ant/dotnet/util/CollectionUtils.java
+1	1	src/main/org/apache/ant/dotnet/wix/TallowTask.java
+1	1	src/main/org/apache/ant/dotnet/wix/WixTask.java
+1	1	src/tests/antunit/augment-path.xml
+1	1	src/tests/antunit/build-tasks/msbuild-test.xml
+1	1	src/tests/antunit/build-tasks/nant-test.xml
+1	1	src/tests/antunit/build-tasks/src/msbuild.proj
+1	1	src/tests/antunit/build-tasks/src/nant.build
+1	1	src/tests/antunit/dir with spaces/compilation-test.xml
+1	1	src/tests/antunit/dir with spaces/msbuild-test.xml
+1	1	src/tests/antunit/dir with spaces/nant-test.xml
+1	1	src/tests/antunit/dir with spaces/nunit-test.xml
+1	1	src/tests/antunit/dir with spaces/wsdl-test.xml
+1	1	src/tests/antunit/dotnetexec-test.xml
+1	1	src/tests/antunit/fsc-test.xml
+1	1	src/tests/antunit/nunit/nunit-test.xml
+1	1	src/tests/antunit/nunit/src/fail.cs
+1	1	src/tests/antunit/nunit/src/pass.cs
+1	1	src/tests/antunit/old-core-test.xml
+1	1	src/tests/antunit/src/HelloWorld.wsdl
+1	1	src/tests/antunit/src/example.cs
+1	1	src/tests/antunit/src/example.fs
+1	1	src/tests/antunit/src/example.il
+1	1	src/tests/antunit/src/example.vb
+1	1	src/tests/antunit/src/example2.cs
+1	1	src/tests/antunit/src/example2.il
+1	1	src/tests/antunit/src/example3.cs
+1	1	src/tests/antunit/src/jsharp.java
+1	1	src/tests/antunit/wsdl/StockQuoteService.wsdl
+1	1	src/tests/antunit/wsdl2dotnet-test.xml
+1	1	version.properties
+
+commit 2ff138db75ea53841c001942908f72e93c48d652
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2019-05-25 16:35:57 +0200
+
+    TLS
+
+1	1	NOTICE
+2	2	README
+1	1	common
+2	2	docs/dotnetexec.html
+11	11	docs/index.html
+1	1	docs/nant.html
+4	4	docs/nunit.html
+4	4	docs/old-core.html
+3	3	docs/tallow.html
+5	5	docs/wix.html
+1	1	prepare.xml
+1	1	src/main/org/apache/ant/dotnet/NUnitTask.java
+1	1	src/main/org/apache/ant/dotnet/wix/TallowTask.java
+2	2	src/main/org/apache/ant/dotnet/wix/WixTask.java
+
+commit f4fd2cdbf712b632d649840d071acc1418ceaa29
+Author: Stefan Bodewig <stefan.bodewig@innoq.com>
+Date:   2018-12-17 10:15:28 +0100
+
+    moved to gitbox
+
+1	1	.gitmodules
+1	1	common
+
+commit ff6fd7a2f8db997f4b1b566426785c726ea63ffe
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 13:17:02 +0200
+
+    DOAP file now lives in ant-site
+
+1	1	common
+0	58	doap_DotnetAntlib.rdf
+
+commit 08a0f37ce3783c44961cc448763be8300dc01e09
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-01 19:56:23 +0200
+
+    ensure the next release, if any, uses proper ivy coordinates
+
+4	0	changes.xml
+1	1	common
+
+commit 14bb7758acf47609bb2afe7df82dea316b207825
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-11-16 10:40:09 +0100
+
+    useless super call
+
+0	1	src/main/org/apache/ant/dotnet/NUnitTask.java
+
+commit 0e38fd1576803303c388a9eff9f92890c82e5f88
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-11-16 10:37:23 +0100
+
+    add executable attribute to <nunit>.  Fixes Bugzilla Issue 51023.
+
+4	0	changes.xml
+5	0	docs/nunit.html
+23	2	src/main/org/apache/ant/dotnet/NUnitTask.java
+
+commit bcb2e5b9b64bdde32e324c6c6d64d07a6486f4d8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-11-16 10:20:30 +0100
+
+    add basic .gitignore
+
+3	0	.gitignore
+
+commit 3d7ce890c7563f2ddc1c3aa055ca7643f40c0be3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-11-16 10:20:21 +0100
+
+    default to dmcs for Mono systems - PR 51970
+
+6	1	changes.xml
+2	2	src/main/org/apache/ant/dotnet/compile/CSharp.java
+12	12	src/tests/antunit/old-core-test.xml
+
+commit bc4fcf5c5fe6ec2bae989b8f677fa5f77e5fdcc6
+Merge: afd9d85 b43d478
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-26 07:49:47 +0200
+
+    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/ant-antlibs-dotnet
+    
+    # Please enter a commit message to explain why this merge is necessary,
+    # especially if it merges an updated upstream into a topic branch.
+    #
+    # Lines starting with '#' will be ignored, and an empty message aborts
+    # the commit.
+
+commit afd9d85c28b4d72f64ae4e45c73317ca91b603b5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-26 07:47:47 +0200
+
+    add common submodule
+
+3	0	.gitmodules
+1	0	common
+65	0	prepare.xml
+
+commit b43d478799bb2c8771ad28030c8f26cb66fdda23
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 09:52:20 +0200
+
+    update doap-file after git-migration
+
+4	4	doap_DotnetAntlib.rdf
+
+commit 51f138bd9b28ac54454cbb73fbf69d4f67979136
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-02-04 05:24:42 +0000
+
+    1.1 released
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1067088 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	doap_DotnetAntlib.rdf
+
+commit a4fa06cdb68ebd2cf8d68ca9c8facf397c29a337
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-28 04:30:08 +0000
+
+    trademark policy
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1064450 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	docs/csc.html
+5	1	docs/dotnetexec.html
+4	0	docs/fsc.html
+3	0	docs/ilasm.html
+3	0	docs/ildasm.html
+3	0	docs/importtypelib.html
+7	1	docs/index.html
+3	0	docs/jsharpc.html
+5	1	docs/msbuild.html
+5	1	docs/nant.html
+5	1	docs/nunit.html
+4	0	docs/old-core.html
+4	0	docs/tallow.html
+4	0	docs/vbc.html
+4	0	docs/wix.html
+3	0	docs/wsdltodotnet.html
+
+commit c5143e70864b1513c6be00154dfcd94b861a52e7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 15:08:27 +0000
+
+    new vote won't be started today anymore
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1064148 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+
+commit 4eed4e60f945b2e2e98eb7e4af51b542b72fcbec
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 15:07:14 +0000
+
+    no longer relevant
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1064146 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	TODO
+
+commit d28f003a7125108f858b3c29e8c95388eb160a00
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 14:41:19 +0000
+
+    bump year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1064136 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit 5086ac7aaf3d4559d04b7ecc6693dbe45dbdb64a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 08:28:54 +0000
+
+    reset externals (I thought I had done this earlier today)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1064023 13f79535-47bb-0310-9956-ffa450edef68
+
+commit e699973fd0376ca61ae947a87a89006d5d263fa4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 05:07:01 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1063995 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+1	1	docs/index.html
+1	1	version.properties
+
+commit bbfd18d26de0b21bb7ef87009638906720c9edd1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-27 05:02:27 +0000
+
+    No longer needed now that Nexus is used
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1063991 13f79535-47bb-0310-9956-ffa450edef68
+
+0	29	maven-metadata.xml
+
+commit 09f4539fe8561bc3155fe6b6df19837b1c6e996a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-25 16:18:17 +0000
+
+    Those two contributors are actually one
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1063335 13f79535-47bb-0310-9956-ffa450edef68
+
+1	4	contributors.xml
+
+commit 230a5422bc04a28be5d25975b657399b72d8633d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-21 16:48:16 +0000
+
+    Add an option to use lit.exe from the WiX toolset instead of light.exe.  PR 47254.  Submitted by zhihengz
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1061898 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+3	0	contributors.xml
+9	3	docs/wix.html
+15	1	src/main/org/apache/ant/dotnet/wix/WixTask.java
+
+commit 15ac873fb177768257f146f14bdcce1084730c73
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-21 16:31:05 +0000
+
+    some refactoring triggered by PR 50611
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@1061884 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+4	22	src/main/org/apache/ant/dotnet/NUnitTask.java
+7	0	src/main/org/apache/ant/dotnet/build/AbstractBuildTask.java
+4	25	src/main/org/apache/ant/dotnet/build/MSBuildTask.java
+62	0	src/main/org/apache/ant/dotnet/util/CollectionUtils.java
+
+commit 4817ceb273701b452728cea6e7a4533e9d24a1bf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-10 16:35:27 +0000
+
+    embrace .NET 2.0 on Mono
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@984111 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+5	3	src/main/org/apache/ant/dotnet/compile/CSharp.java
+12	12	src/tests/antunit/old-core-test.xml
+2	2	src/tests/antunit/wsdl2dotnet-test.xml
+
+commit 00d74e3d5f4bcdf542071880579cce09dfa7e922
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-04-21 09:56:56 +0000
+
+    first cut at a F# compiler task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@936234 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+345	0	docs/fsc.html
+2	0	docs/index.html
+3	0	src/main/org/apache/ant/dotnet/antlib.xml
+215	0	src/main/org/apache/ant/dotnet/compile/FSharp.java
+53	0	src/tests/antunit/fsc-test.xml
+21	0	src/tests/antunit/src/example.fs
+
+commit 80e5b6de170852bf498e5b3ac097f72c452a8f4a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-12 13:34:35 +0000
+
+    Add Maven Metadata file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@909400 13f79535-47bb-0310-9956-ffa450edef68
+
+29	0	maven-metadata.xml
+
+commit ceee1df21d23912c86b96dec6fb944ec5d763f7c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-05 15:27:49 +0000
+
+    fix has a related issue now
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@811666 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+
+commit c6a19f529d91412e0c22755585ff5c774985a974
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-05-07 07:58:39 +0000
+
+    make tallow task available
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@772535 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/dotnet/antlib.xml
+
+commit d7b59b772380e6f08496868a69c8bb688590b305
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-05-06 07:28:38 +0000
+
+    credit Jason Zhang for tallow task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@772086 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	contributors.xml
+
+commit ecac2af1f25476ba8b1f26574740aba3947e5ae6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-05-05 14:28:35 +0000
+
+    Add a tallow task, submitted by zhihengz AT hotmail DOT com.  PR 47078
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@771741 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+3	0	docs/index.html
+113	0	docs/tallow.html
+220	0	src/main/org/apache/ant/dotnet/wix/TallowTask.java
+
+commit ced10d8eea422bb62381789d56fe29a182df02ed
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-04-09 13:34:35 +0000
+
+    allow users to specifiy additional arguments to candle and light.  PR 46968
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@763647 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+27	4	docs/wix.html
+53	6	src/main/org/apache/ant/dotnet/wix/WixTask.java
+
+commit b44338390be9d6688dfba13460a8858f48d3d409
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-03-20 20:24:39 +0000
+
+    remove redundant boilerplate code from NOTICE files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@756744 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	NOTICE
+
+commit 4a3dbdd73cd4b4526ddb9f5ee500e0dd948cd84d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-03-11 16:58:41 +0000
+
+    exclude/include in <nunit> are broken because of malformed arguments - submitted by Niklas Deutschmann
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@752525 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+4	0	contributors.xml
+2	2	src/main/org/apache/ant/dotnet/NUnitTask.java
+
+commit 79108ef2efca0913ef9ca565fd344dcc30c8b660
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-07-18 11:52:29 +0000
+
+    /noconfig causes an error if used inside a response file.  PR 34992.  Submitted by Chris Nagy
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@677883 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+4	0	contributors.xml
+48	9	src/main/org/apache/ant/dotnet/NetCommand.java
+1	1	src/main/org/apache/ant/dotnet/compile/CSharp.java
+8	0	src/tests/antunit/dotnetexec-test.xml
+
+commit 298dd6570ad1bf145bcd7ac98abd5bfd87541061
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-07-18 11:19:47 +0000
+
+    skip test when NUnit is not there
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@677880 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/nunit/nunit-test.xml
+
+commit 30fb84bfe2810a6e7bcdb386c2a5b6fe13d6d603
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-07-18 11:18:24 +0000
+
+    C# 3.0 doesn't like /incremental-
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@677879 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+3	1	docs/csc.html
+3	1	src/main/org/apache/ant/dotnet/compile/CSharp.java
+
+commit 2f737356324ecfe5c1fddebc455513bb66302428
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-06-19 12:39:18 +0000
+
+    Merge rev 669470 - use FileUtils instead of File.toURL - from Ant's trunk
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@669471 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/dotnet/compile/WsdlToDotnet.java
+
+commit 43a1c0702adbdde23c204297134eecb6db97271b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-03-26 19:06:53 +0000
+
+    Add license
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@641488 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	changes.xml
+17	1	contributors.xml
+16	1	src/tests/antunit/old-core-test.xml
+16	0	src/tests/antunit/src/HelloWorld.wsdl
+14	1	src/tests/antunit/src/example.il
+14	0	src/tests/antunit/src/example2.il
+17	1	src/tests/antunit/wsdl/StockQuoteService.wsdl
+15	0	src/tests/antunit/wsdl2dotnet-test.xml
+14	0	version.properties
+
+commit 174f066d9791ce6539f88961e5f849d9695eb295
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-02-06 16:47:28 +0000
+
+    Add more tests for directories with spaces
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@504194 13f79535-47bb-0310-9956-ffa450edef68
+
+52	0	src/tests/antunit/dir with spaces/msbuild-test.xml
+54	0	src/tests/antunit/dir with spaces/nant-test.xml
+71	0	src/tests/antunit/dir with spaces/nunit-test.xml
+
+commit fcdd677f547b946e297fb94587b9b8ffd6c4f0ce
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-24 07:55:39 +0000
+
+    OK, we seem to need quotes in response files on Linux as well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@499300 13f79535-47bb-0310-9956-ffa450edef68
+
+1	8	src/main/org/apache/ant/dotnet/NetCommand.java
+
+commit 0f117c3e0b1f6f1bb7e3471574bc08a37dc69d62
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-23 04:26:06 +0000
+
+    make commands work in directories with spaces when using a response file as well, Issue 41387
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@498915 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+15	1	src/main/org/apache/ant/dotnet/NetCommand.java
+
+commit a967dffd27a608ec359d2fc73bd3b294cffe7cf0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-23 04:24:32 +0000
+
+    document useresponsefile attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@498913 13f79535-47bb-0310-9956-ffa450edef68
+
+14	0	docs/csc.html
+15	0	docs/jsharpc.html
+15	0	docs/vbc.html
+
+commit 4d34a9155c4f021541efa22f7262a501163f99f4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-23 04:24:07 +0000
+
+    Add tests for compilation with response file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@498912 13f79535-47bb-0310-9956-ffa450edef68
+
+42	0	src/tests/antunit/dir with spaces/compilation-test.xml
+
+commit feebaef24c989e460269d5c9934597f97a6075bc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-18 05:00:20 +0000
+
+    Add tests for running the tasks in a directory with spaces in its name
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@497298 13f79535-47bb-0310-9956-ffa450edef68
+
+138	0	src/tests/antunit/dir with spaces/compilation-test.xml
+64	0	src/tests/antunit/dir with spaces/wsdl-test.xml
+22	0	src/tests/antunit/src/example.vb
+
+commit b94920e22d84600b637102517adf683a238d241e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-11-06 19:39:51 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@471839 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+3	3	doap_DotnetAntlib.rdf
+1	1	version.properties
+
+commit 239aa9ecdd650d3496cca90ca0664f4b5c56b9e0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-20 04:30:20 +0000
+
+    Add changes file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@465984 13f79535-47bb-0310-9956-ffa450edef68
+
+36	0	changes.xml
+
+commit c9c3a899bb9bab78e253ff8878af2c2940f4f605
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-17 18:58:03 +0000
+
+    update docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@465004 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	README
+4	1	docs/ildasm.html
+4	0	docs/wsdltodotnet.html
+
+commit e70712995afe512dcd6f96f97437aff82e81d060
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-14 16:30:52 +0000
+
+    completely remove junit directory
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@463974 13f79535-47bb-0310-9956-ffa450edef68
+
+0	4	TODO
+1	24	build.xml
+
+commit 4310db379b83eb16dbb8ea82c338d7673b6d3636
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-10 17:45:34 +0000
+
+    wrong property
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@454848 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/build-tasks/msbuild-test.xml
+
+commit 3bc4cfb3a1c0024a295d154d17f00b95bb6bad31
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-10 17:39:43 +0000
+
+    Migrate all tests to AntUnit
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@454844 13f79535-47bb-0310-9956-ffa450edef68
+
+0	26	src/etc/testcases/src/example.cs
+0	32	src/etc/testcases/src/example2.cs
+0	0	src/{etc/testcases => tests/antunit}/augment-path.xml
+23	10	src/{etc/testcases/msbuild.xml => tests/antunit/build-tasks/msbuild-test.xml}
+23	11	src/{etc/testcases/nant.xml => tests/antunit/build-tasks/nant-test.xml}
+0	0	src/{etc/testcases => tests/antunit/build-tasks}/src/msbuild.proj
+0	0	src/{etc/testcases => tests/antunit/build-tasks}/src/nant.build
+9	10	src/{etc/testcases/dotnetexec.xml => tests/antunit/dotnetexec-test.xml}
+38	18	src/{etc/testcases/nunit.xml => tests/antunit/nunit/nunit-test.xml}
+0	0	src/{etc/testcases => tests/antunit/nunit}/src/fail.cs
+0	0	src/{etc/testcases => tests/antunit/nunit}/src/pass.cs
+0	66	src/tests/junit/org/apache/ant/dotnet/DotNetExecTaskTest.java
+0	64	src/tests/junit/org/apache/ant/dotnet/MSBuildTaskTest.java
+0	64	src/tests/junit/org/apache/ant/dotnet/NAntTaskTest.java
+0	87	src/tests/junit/org/apache/ant/dotnet/NUnitTaskTest.java
+0	84	src/tests/junit/org/apache/ant/dotnet/build/MSBuildTaskTest.java
+0	84	src/tests/junit/org/apache/ant/dotnet/build/NAntTaskTest.java
+
+commit 4496a8627e0e99c3e45f5a06c5229878dec10879
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-09 19:11:59 +0000
+
+    status update
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@454461 13f79535-47bb-0310-9956-ffa450edef68
+
+0	4	TODO
+
+commit 113ce293dff77f66a9a3cd857b17d488d2e15186
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-09 19:11:12 +0000
+
+    Disable ildasm test on MS .NET 2.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@454460 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	src/tests/antunit/old-core-test.xml
+
+commit 96fa779c72ad7518300f145e6986ad91a52b4d11
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-09 18:54:26 +0000
+
+    turn wsdltodotnet test into an AntUnit test, fix mono case by ignoring the test
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@454456 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/{etc/testcases => tests/antunit}/src/HelloWorld.wsdl
+0	0	src/{etc/testcases => tests/antunit}/wsdl/StockQuoteService.wsdl
+62	37	src/{etc/testcases/WsdlToDotnet.xml => tests/antunit/wsdl2dotnet-test.xml}
+0	200	src/tests/junit/org/apache/ant/dotnet/compile/WsdlToDotnetTest.java
+
+commit 6c00e876cc56485ce0d29e5fd70223c38e3848d8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-22 04:35:49 +0000
+
+    rename to match naming convention of AntUnit tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@448811 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/tests/antunit/{old-core.xml => old-core-test.xml}
+
+commit 4b6bdbdbb623e1a82a99600850c71e0762c15624
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-21 19:11:19 +0000
+
+    failonerror and errorproperty attributes for <nant> and <msbuild>, PR 40553
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@448637 13f79535-47bb-0310-9956-ffa450edef68
+
+13	0	docs/msbuild.html
+13	0	docs/nant.html
+28	1	src/etc/testcases/msbuild.xml
+25	1	src/etc/testcases/nant.xml
+34	0	src/main/org/apache/ant/dotnet/build/AbstractBuildTask.java
+19	0	src/tests/junit/org/apache/ant/dotnet/build/MSBuildTaskTest.java
+19	0	src/tests/junit/org/apache/ant/dotnet/build/NAntTaskTest.java
+
+commit 2a8e0c160cc7c406576784d1b4767ecc421d3b15
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-21 19:09:08 +0000
+
+    Add errorProperty to <nunit>, PR 40552
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@448635 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	docs/nunit.html
+7	1	src/etc/testcases/nunit.xml
+34	0	src/main/org/apache/ant/dotnet/DotNetExecTask.java
+17	0	src/main/org/apache/ant/dotnet/NUnitTask.java
+7	0	src/tests/junit/org/apache/ant/dotnet/NUnitTaskTest.java
+
+commit d1470b0c4ae72c6a391ed2f69ebf5a61615b6588
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-17 20:00:14 +0000
+
+    rename libraries.properties, bundle it with the source distribution
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@447130 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	libraries.properties => version.properties
+
+commit 04bde818d00cbf117b51ee5ac33ad80e8156a701
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-13 04:07:01 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@442826 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	doap_DotnetAntlib.rdf
+1	0	libraries.properties
+
+commit 9d6391e8f0e3912e3ff0f07a654a54c894a04e09
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-07 19:06:37 +0000
+
+    Add people who contributed to the old core tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@441177 13f79535-47bb-0310-9956-ffa450edef68
+
+40	0	contributors.xml
+
+commit 99f3adb27ccb9034f5e8c505c7ff358d63328173
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-05 04:10:28 +0000
+
+    migrate the remaining docs to "normal" Ant task doc style
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@440246 13f79535-47bb-0310-9956-ffa450edef68
+
+294	380	docs/vbc.html
+110	170	docs/wsdltodotnet.html
+
+commit 78eb5e3788d71eec5b215d9c6bca2de567a7dba3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-04 04:23:26 +0000
+
+    update some docs to "plain" format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439925 13f79535-47bb-0310-9956-ffa450edef68
+
+145	229	docs/ilasm.html
+232	264	docs/ildasm.html
+84	150	docs/importtypelib.html
+264	374	docs/jsharpc.html
+
+commit 1d332cce4979b3d4175d2ee02c9945c03dee5b8d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-01 17:41:27 +0000
+
+    remove conflicting styles
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439396 13f79535-47bb-0310-9956-ffa450edef68
+
+348	419	docs/csc.html
+
+commit c21825040b58745eaf6c23120a0c2ec3b6402035
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-01 17:40:07 +0000
+
+    Add a DOAP file, will add release date later ;-)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439395 13f79535-47bb-0310-9956-ffa450edef68
+
+51	0	doap_DotnetAntlib.rdf
+
+commit 4eb56eea72272e82d1dbc8d021501f0dcd96417e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-01 03:42:34 +0000
+
+    improve docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439160 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	CONTRIBUTORS
+26	21	README
+13	0	TODO
+25	0	contributors.xml
+18	13	docs/index.html
+1	1	docs/msbuild.html
+1	1	docs/nant.html
+1	1	docs/nunit.html
+
+commit 3c361ab1370ac1b3514cb315e1e6ee17753b8b22
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-01 03:39:26 +0000
+
+    forgot some old task docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439159 13f79535-47bb-0310-9956-ffa450edef68
+
+515	0	docs/csc.html
+289	0	docs/ilasm.html
+339	0	docs/ildasm.html
+207	0	docs/importtypelib.html
+455	0	docs/jsharpc.html
+491	0	docs/vbc.html
+231	0	docs/wsdltodotnet.html
+
+commit b0b50c72b93ee97da4608875d2634bb563fea204
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-01 03:31:05 +0000
+
+    apply committers-svn:tools/copy2license.pl
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@439158 13f79535-47bb-0310-9956-ffa450edef68
+
+6	5	build.xml
+6	5	src/etc/testcases/augment-path.xml
+6	5	src/etc/testcases/dotnetexec.xml
+6	5	src/etc/testcases/msbuild.xml
+6	5	src/etc/testcases/nant.xml
+6	5	src/etc/testcases/nunit.xml
+6	5	src/etc/testcases/src/example.cs
+6	5	src/etc/testcases/src/example2.cs
+6	5	src/etc/testcases/src/fail.cs
+6	5	src/etc/testcases/src/msbuild.proj
+6	5	src/etc/testcases/src/nant.build
+6	5	src/etc/testcases/src/pass.cs
+6	5	src/main/org/apache/ant/dotnet/DotNetExecTask.java
+6	5	src/main/org/apache/ant/dotnet/Ildasm.java
+6	5	src/main/org/apache/ant/dotnet/ImportTypelib.java
+6	5	src/main/org/apache/ant/dotnet/NUnitTask.java
+6	5	src/main/org/apache/ant/dotnet/NetCommand.java
+6	5	src/main/org/apache/ant/dotnet/antlib.xml
+6	5	src/main/org/apache/ant/dotnet/build/AbstractBuildTask.java
+6	5	src/main/org/apache/ant/dotnet/build/MSBuildTask.java
+6	5	src/main/org/apache/ant/dotnet/build/NAntTask.java
+6	5	src/main/org/apache/ant/dotnet/compile/CSharp.java
+6	5	src/main/org/apache/ant/dotnet/compile/DotnetBaseMatchingTask.java
+6	5	src/main/org/apache/ant/dotnet/compile/DotnetCompile.java
+6	5	src/main/org/apache/ant/dotnet/compile/DotnetDefine.java
+6	5	src/main/org/apache/ant/dotnet/compile/DotnetResource.java
+6	5	src/main/org/apache/ant/dotnet/compile/Ilasm.java
+6	5	src/main/org/apache/ant/dotnet/compile/JSharp.java
+6	5	src/main/org/apache/ant/dotnet/compile/VisualBasicCompile.java
+6	5	src/main/org/apache/ant/dotnet/compile/WsdlToDotnet.java
+6	5	src/main/org/apache/ant/dotnet/wix/WixTask.java
+6	5	src/tests/antunit/src/example.cs
+6	5	src/tests/antunit/src/example2.cs
+6	5	src/tests/antunit/src/example3.cs
+6	5	src/tests/antunit/src/jsharp.java
+6	5	src/tests/junit/org/apache/ant/dotnet/DotNetExecTaskTest.java
+6	5	src/tests/junit/org/apache/ant/dotnet/NUnitTaskTest.java
+6	5	src/tests/junit/org/apache/ant/dotnet/build/MSBuildTaskTest.java
+6	5	src/tests/junit/org/apache/ant/dotnet/build/NAntTaskTest.java
+6	5	src/tests/junit/org/apache/ant/dotnet/compile/WsdlToDotnetTest.java
+
+commit 0119f0dfaaeaec259641ca0ebc0d8f81352d3fed
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-31 04:28:41 +0000
+
+    style documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@438783 13f79535-47bb-0310-9956-ffa450edef68
+
+19	3	docs/dotnetexec.html
+19	3	docs/index.html
+19	3	docs/msbuild.html
+19	3	docs/nant.html
+19	3	docs/nunit.html
+23	8	docs/old-core.html
+19	3	docs/wix.html
+
+commit 09a40f8603431667bf6ba39ab47bf07421333d4e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-31 04:14:23 +0000
+
+    reflect adoption of old core tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@438777 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit a721da77fedb156b2faab3617ea33ec6e91ea3c5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-27 19:42:20 +0000
+
+    turn old .NET task tests into AntUnit tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@437443 13f79535-47bb-0310-9956-ffa450edef68
+
+56	65	src/{etc/testcases => tests/antunit}/old-core.xml
+25	0	src/tests/antunit/src/example.cs
+0	0	src/{etc/testcases => tests/antunit}/src/example.il
+31	0	src/tests/antunit/src/example2.cs
+0	0	src/{etc/testcases => tests/antunit}/src/example2.il
+0	0	src/{etc/testcases => tests/antunit}/src/example3.cs
+0	0	src/{etc/testcases => tests/antunit}/src/jsharp.java
+-	-	src/{etc/testcases => tests/antunit}/src/res.resources
+0	135	src/tests/junit/org/apache/ant/dotnet/compile/DotnetTest.java
+
+commit 3761a0245d4f164532ada78cd040dab38e95f341
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 19:44:35 +0000
+
+    copy tests and documentation from core
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@437217 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	docs/index.html
+307	0	docs/old-core.html
+226	0	src/etc/testcases/WsdlToDotnet.xml
+443	0	src/etc/testcases/old-core.xml
+54	0	src/etc/testcases/src/HelloWorld.wsdl
+78	0	src/etc/testcases/src/example.il
+31	0	src/etc/testcases/src/example2.il
+29	0	src/etc/testcases/src/example3.cs
+28	0	src/etc/testcases/src/jsharp.java
+-	-	src/etc/testcases/src/res.resources
+35	0	src/etc/testcases/wsdl/StockQuoteService.wsdl
+135	0	src/tests/junit/org/apache/ant/dotnet/compile/DotnetTest.java
+199	0	src/tests/junit/org/apache/ant/dotnet/compile/WsdlToDotnetTest.java
+
+commit 02c35f618c873a9fe6a0c94959d8e43d56535bf9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 19:07:44 +0000
+
+    Move JUnit tests into a separate directory structure, preparation to add AntUnit to the mix
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@437212 13f79535-47bb-0310-9956-ffa450edef68
+
+3	5	build.xml
+0	0	src/{testcases => tests/junit}/org/apache/ant/dotnet/DotNetExecTaskTest.java
+64	0	src/tests/junit/org/apache/ant/dotnet/MSBuildTaskTest.java
+64	0	src/tests/junit/org/apache/ant/dotnet/NAntTaskTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/dotnet/NUnitTaskTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/dotnet/build/MSBuildTaskTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/dotnet/build/NAntTaskTest.java
+
+commit 90276cc8a5acc13cfeecec1a8cc3b5fbd5c500d2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-24 19:53:16 +0000
+
+    copy the core tasks, no changes yet, tests need to be migrated as well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@434484 13f79535-47bb-0310-9956-ffa450edef68
+
+462	0	src/main/org/apache/ant/dotnet/Ildasm.java
+212	0	src/main/org/apache/ant/dotnet/ImportTypelib.java
+400	0	src/main/org/apache/ant/dotnet/NetCommand.java
+21	0	src/main/org/apache/ant/dotnet/antlib.xml
+389	0	src/main/org/apache/ant/dotnet/compile/CSharp.java
+187	0	src/main/org/apache/ant/dotnet/compile/DotnetBaseMatchingTask.java
+979	0	src/main/org/apache/ant/dotnet/compile/DotnetCompile.java
+97	0	src/main/org/apache/ant/dotnet/compile/DotnetDefine.java
+225	0	src/main/org/apache/ant/dotnet/compile/DotnetResource.java
+529	0	src/main/org/apache/ant/dotnet/compile/Ilasm.java
+132	0	src/main/org/apache/ant/dotnet/compile/JSharp.java
+365	0	src/main/org/apache/ant/dotnet/compile/VisualBasicCompile.java
+562	0	src/main/org/apache/ant/dotnet/compile/WsdlToDotnet.java
+
+commit c1c1836728548387d1be10aef8be5f7ce2f00e3b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-24 19:27:51 +0000
+
+    Move a few files around
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@434477 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/org/apache/ant/dotnet/antlib.xml
+3	2	src/main/org/apache/ant/dotnet/{ => build}/AbstractBuildTask.java
+1	1	src/main/org/apache/ant/dotnet/{ => build}/MSBuildTask.java
+2	2	src/main/org/apache/ant/dotnet/{ => build}/NAntTask.java
+3	1	src/main/org/apache/ant/dotnet/{ => wix}/WixTask.java
+2	2	src/testcases/org/apache/ant/dotnet/{ => build}/MSBuildTaskTest.java
+2	2	src/testcases/org/apache/ant/dotnet/{ => build}/NAntTaskTest.java
+
+commit 9d4fbc43ce6fed1c08541d73d8a033ec5e8b172e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-26 04:26:02 +0000
+
+    add required NOTICE file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@425610 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	NOTICE
+
+commit dc62e12922c47041b1e9c209c581c4d155de9327
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-06-05 18:21:56 +0000
+
+    make WiX task work
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@411883 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CONTRIBUTORS
+2	9	README
+3	2	docs/index.html
+29	7	docs/wix.html
+138	37	src/main/org/apache/ant/dotnet/WixTask.java
+
+commit 000723616ac580bf6c7faf22ef9754ea9f05dcbe
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-01-26 05:21:32 +0000
+
+    fix command line building of <msbuild>, PR 38392, contributed by Brian Watson
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@372448 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CONTRIBUTORS
+5	1	src/main/org/apache/ant/dotnet/MSBuildTask.java
+
+commit 2eb3327479e7b66c4ec23d5e610bb86813931007
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-12-20 04:53:46 +0000
+
+    for reasons I don't understand I get exceptions from Ant (task property is unknown) if I change the default namespace in some tasks and use import in the same build file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@357910 13f79535-47bb-0310-9956-ffa450edef68
+
+14	18	src/etc/testcases/nant.xml
+
+commit 3a50bc5924faacbb703324d95f8b44241e39afb0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-12-16 04:31:10 +0000
+
+    fix msbuild task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@357118 13f79535-47bb-0310-9956-ffa450edef68
+
+11	13	docs/index.html
+8	8	docs/msbuild.html
+27	0	src/etc/testcases/augment-path.xml
+6	5	src/etc/testcases/dotnetexec.xml
+19	25	src/etc/testcases/msbuild.xml
+4	5	src/etc/testcases/nant.xml
+3	2	src/etc/testcases/nunit.xml
+3	3	src/etc/testcases/src/msbuild.proj
+5	1	src/main/org/apache/ant/dotnet/AbstractBuildTask.java
+9	4	src/main/org/apache/ant/dotnet/MSBuildTask.java
+
+commit d59d79708d5f074681205f1fb285b0bcf90d50fb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-11-23 05:13:13 +0000
+
+    promote dotnet antlib
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/dotnet/trunk@348377 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 2ee1a9b038d0ce7fafc44afff0f5e1181a4e46cb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-10-07 04:21:43 +0000
+
+    cleanup provided by Kev Jackson
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/dotnet/trunk@306998 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/dotnet/AbstractBuildTask.java
+0	1	src/main/org/apache/ant/dotnet/MSBuildTask.java
+
+commit 31090ee743915d98d91bef905b9e7c8a1980d371
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-05-24 12:58:30 +0000
+
+    Remove empty directories
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/dotnet/trunk@178161 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 11592fea7fd69efa176f4aa8ee167f4773867ed5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-05-02 09:34:39 +0000
+
+    Rename package
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/dotnet/trunk@165613 13f79535-47bb-0310-9956-ffa450edef68
+
+11	11	docs/index.html
+2	10	src/etc/testcases/dotnetexec.xml
+5	13	src/etc/testcases/msbuild.xml
+5	13	src/etc/testcases/nant.xml
+2	10	src/etc/testcases/nunit.xml
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/AbstractBuildTask.java
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/DotNetExecTask.java
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/MSBuildTask.java
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/NAntTask.java
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/NUnitTask.java
+2	2	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/WixTask.java
+6	6	src/main/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/antlib.xml
+2	2	src/testcases/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/DotNetExecTaskTest.java
+2	2	src/testcases/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/MSBuildTaskTest.java
+2	2	src/testcases/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/NAntTaskTest.java
+2	2	src/testcases/org/apache/{tools/ant/taskdefs/optional => ant}/dotnet/NUnitTaskTest.java
+
+commit 9e269b3605171015a0ef16ee110b2070874fe1b3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-19 13:24:52 +0000
+
+    Make sandboxes build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/dotnet/trunk@161885 13f79535-47bb-0310-9956-ffa450edef68
+
+9	51	build.xml
+
+commit 65552cf8b752d587dd0f79457637698b3bc20bef
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-15 14:32:50 +0000
+
+    Import sandbox antlibs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/dotnet/trunk@161469 13f79535-47bb-0310-9956-ffa450edef68
+
+38	0	README
+91	0	build.xml
+32	0	docs/dotnetexec.html
+142	0	docs/index.html
+109	0	docs/msbuild.html
+108	0	docs/nant.html
+177	0	docs/nunit.html
+177	0	docs/wix.html
+89	0	src/etc/testcases/dotnetexec.xml
+73	0	src/etc/testcases/msbuild.xml
+72	0	src/etc/testcases/nant.xml
+81	0	src/etc/testcases/nunit.xml
+25	0	src/etc/testcases/src/example.cs
+31	0	src/etc/testcases/src/example2.cs
+30	0	src/etc/testcases/src/fail.cs
+24	0	src/etc/testcases/src/msbuild.proj
+24	0	src/etc/testcases/src/nant.build
+30	0	src/etc/testcases/src/pass.cs
+259	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/AbstractBuildTask.java
+150	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/DotNetExecTask.java
+120	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/MSBuildTask.java
+94	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/NAntTask.java
+335	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/NUnitTask.java
+296	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/WixTask.java
+38	0	src/main/org/apache/tools/ant/taskdefs/optional/dotnet/antlib.xml
+65	0	src/testcases/org/apache/tools/ant/taskdefs/optional/dotnet/DotNetExecTaskTest.java
+64	0	src/testcases/org/apache/tools/ant/taskdefs/optional/dotnet/MSBuildTaskTest.java
+64	0	src/testcases/org/apache/tools/ant/taskdefs/optional/dotnet/NAntTaskTest.java
+79	0	src/testcases/org/apache/tools/ant/taskdefs/optional/dotnet/NUnitTaskTest.java

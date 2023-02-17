@@ -1,0 +1,4082 @@
+commit 0fa97a44971ccfefaaffe265e9e2c2e507edf96f
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-27 20:45:55 +0200
+
+    Removed unnecessary http references
+
+1	1	docs/archive.html
+1	1	docs/compresource.html
+5	5	docs/expand.html
+6	7	docs/fileset.html
+3	3	docs/pack.html
+1	1	docs/pack200normalize.html
+2	2	docs/unpack.html
+1	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+1	1	src/main/org/apache/ant/compress/util/LZ4StreamFactory.java
+1	1	src/tests/antunit/antunit-base.xml
+
+commit 9957dd9c1389fda1a2b154b7888eb62fe0b0aaca
+Merge: a9d4076 17e6778
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:51:42 +0200
+
+    Merge branch 'master' of https://gitbox.apache.org/repos/asf/ant-antlibs-compress
+
+commit a9d4076ec3f4e531e697e3ede919d90af1b4f349
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:46:39 +0200
+
+    updated reference to license from http to https using find . -type f -exec sed -i s/http://www.apache.org/licenses/LICENSE-2.0/https://www.apache.org/licenses/LICENSE-2.0/ {} \;
+
+1	1	build.xml
+1	1	changes.xml
+1	1	contributors.xml
+1	1	docs/archive.html
+1	1	docs/archives.html
+1	1	docs/compresource.html
+1	1	docs/conditions.html
+1	1	docs/entry.html
+1	1	docs/expand.html
+1	1	docs/fileset.html
+1	1	docs/index.html
+1	1	docs/pack.html
+1	1	docs/pack200normalize.html
+1	1	docs/unpack.html
+2	2	ivy.xml
+1	1	prepare.xml
+2	2	project-template.pom
+1	1	src/main/org/apache/ant/compress/antlib.xml
+1	1	src/main/org/apache/ant/compress/conditions/HasGroupId.java
+1	1	src/main/org/apache/ant/compress/conditions/HasGroupName.java
+1	1	src/main/org/apache/ant/compress/conditions/HasMode.java
+1	1	src/main/org/apache/ant/compress/conditions/HasUserId.java
+1	1	src/main/org/apache/ant/compress/conditions/HasUserName.java
+1	1	src/main/org/apache/ant/compress/resources/ArFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/ArResource.java
+1	1	src/main/org/apache/ant/compress/resources/Archives.java
+1	1	src/main/org/apache/ant/compress/resources/ArjFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/ArjResource.java
+1	1	src/main/org/apache/ant/compress/resources/BZip2Resource.java
+1	1	src/main/org/apache/ant/compress/resources/BrotliResource.java
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/CpioResource.java
+1	1	src/main/org/apache/ant/compress/resources/Deflate64Resource.java
+1	1	src/main/org/apache/ant/compress/resources/DeflateResource.java
+1	1	src/main/org/apache/ant/compress/resources/DevZeroResource.java
+1	1	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/DumpResource.java
+1	1	src/main/org/apache/ant/compress/resources/GZipResource.java
+1	1	src/main/org/apache/ant/compress/resources/LZ4Resource.java
+1	1	src/main/org/apache/ant/compress/resources/LZMAResource.java
+1	1	src/main/org/apache/ant/compress/resources/Pack200Resource.java
+1	1	src/main/org/apache/ant/compress/resources/SevenZFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/SevenZResource.java
+1	1	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+1	1	src/main/org/apache/ant/compress/resources/SnappyResource.java
+1	1	src/main/org/apache/ant/compress/resources/TarFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/TarResource.java
+1	1	src/main/org/apache/ant/compress/resources/XZResource.java
+1	1	src/main/org/apache/ant/compress/resources/ZResource.java
+1	1	src/main/org/apache/ant/compress/resources/ZipFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/ZipResource.java
+1	1	src/main/org/apache/ant/compress/resources/ZipScanner.java
+1	1	src/main/org/apache/ant/compress/resources/ZstdResource.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Ar.java
+1	1	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+1	1	src/main/org/apache/ant/compress/taskdefs/BUnzip2.java
+1	1	src/main/org/apache/ant/compress/taskdefs/BZip2.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Deflate.java
+1	1	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+1	1	src/main/org/apache/ant/compress/taskdefs/GUnzip.java
+1	1	src/main/org/apache/ant/compress/taskdefs/GZip.java
+1	1	src/main/org/apache/ant/compress/taskdefs/LZ4.java
+1	1	src/main/org/apache/ant/compress/taskdefs/LZMA.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+1	1	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+1	1	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Snappy.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Tar.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnBrotli.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnLZ4.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnLZMA.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnSnappy.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnXZ.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnZ.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnZstd.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Unar.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Unarj.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Undeflate.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Undeflate64.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Undump.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Untar.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+1	1	src/main/org/apache/ant/compress/taskdefs/XZ.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Zip.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Zstd.java
+1	1	src/main/org/apache/ant/compress/util/ArStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ArchiveStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ArjStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/BZip2StreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/BrotliStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/CompressorStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/CompressorWithConcatenatedStreamsFactory.java
+1	1	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/Deflate64StreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/DeflateStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/DumpStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/EntryHelper.java
+1	1	src/main/org/apache/ant/compress/util/FileAwareArchiveStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/FileAwareCompressorStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/GZipStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/LZ4StreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/Messages.java
+1	1	src/main/org/apache/ant/compress/util/Pack200StreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/SnappyStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/StreamHelper.java
+1	1	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/XZStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ZStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ZstdStreamFactory.java
+1	1	src/tests/antunit/antunit-base.xml
+1	1	src/tests/antunit/ar-test.xml
+1	1	src/tests/antunit/archives-test.xml
+1	1	src/tests/antunit/arentry-test.xml
+1	1	src/tests/antunit/arfileset-test.xml
+1	1	src/tests/antunit/arjentry-test.xml
+1	1	src/tests/antunit/arjfileset-test.xml
+1	1	src/tests/antunit/brotliresource-test.xml
+1	1	src/tests/antunit/bunzip2-test.xml
+1	1	src/tests/antunit/bzip2-test.xml
+1	1	src/tests/antunit/bzip2resource-test.xml
+1	1	src/tests/antunit/conditions-test.xml
+1	1	src/tests/antunit/cpio-test.xml
+1	1	src/tests/antunit/cpioentry-test.xml
+1	1	src/tests/antunit/cpiofileset-test.xml
+1	1	src/tests/antunit/deflate-test.xml
+1	1	src/tests/antunit/deflateresource-test.xml
+1	1	src/tests/antunit/dumpentry-test.xml
+1	1	src/tests/antunit/dumpfileset-test.xml
+1	1	src/tests/antunit/gunzip-test.xml
+1	1	src/tests/antunit/gzip-test.xml
+1	1	src/tests/antunit/gzipresource-test.xml
+1	1	src/tests/antunit/lz4-test.xml
+1	1	src/tests/antunit/lz4resource-test.xml
+1	1	src/tests/antunit/lzma-test.xml
+1	1	src/tests/antunit/lzmaresource-test.xml
+1	1	src/tests/antunit/pack200-base.xml
+1	1	src/tests/antunit/pack200-test.xml
+1	1	src/tests/antunit/pack200normalize-test.xml
+1	1	src/tests/antunit/pack200resource-test.xml
+1	1	src/tests/antunit/sevenz-test.xml
+1	1	src/tests/antunit/sevenzentry-test.xml
+1	1	src/tests/antunit/sevenzfileset-test.xml
+1	1	src/tests/antunit/snappy-test.xml
+1	1	src/tests/antunit/snappyresource-test.xml
+1	1	src/tests/antunit/tar-test.xml
+1	1	src/tests/antunit/tarentry-test.xml
+1	1	src/tests/antunit/tarfileset-test.xml
+1	1	src/tests/antunit/un7z-test.xml
+1	1	src/tests/antunit/unar-test.xml
+1	1	src/tests/antunit/unarj-test.xml
+1	1	src/tests/antunit/unbrotli-test.xml
+1	1	src/tests/antunit/uncpio-test.xml
+1	1	src/tests/antunit/undeflate-test.xml
+1	1	src/tests/antunit/undeflate64-test.xml
+1	1	src/tests/antunit/undump-test.xml
+1	1	src/tests/antunit/unlz4-test.xml
+1	1	src/tests/antunit/unlzma-test.xml
+1	1	src/tests/antunit/unpack200-test.xml
+1	1	src/tests/antunit/unsnappy-test.xml
+1	1	src/tests/antunit/untar-test.xml
+1	1	src/tests/antunit/unxz-test.xml
+1	1	src/tests/antunit/unz-test.xml
+1	1	src/tests/antunit/unzip-test.xml
+1	1	src/tests/antunit/unzstd-test.xml
+1	1	src/tests/antunit/xz-test.xml
+1	1	src/tests/antunit/xzresource-test.xml
+1	1	src/tests/antunit/zip-test.xml
+1	1	src/tests/antunit/zipentry-test.xml
+1	1	src/tests/antunit/zipfileset-test.xml
+1	1	src/tests/antunit/zresource-test.xml
+1	1	src/tests/antunit/zstd-test.xml
+1	1	src/tests/antunit/zstdresource-test.xml
+1	1	version.properties
+
+commit 17e677822f76248c6013c81cd7c4131a78a9fa51
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2019-05-25 16:24:30 +0200
+
+    TLS
+
+1	1	NOTICE
+1	1	common
+16	16	docs/archive.html
+1	1	docs/archives.html
+3	3	docs/compresource.html
+8	8	docs/conditions.html
+1	1	docs/entry.html
+8	8	docs/expand.html
+3	3	docs/fileset.html
+1	1	docs/index.html
+5	5	docs/pack.html
+5	5	docs/unpack.html
+3	3	ivy.xml
+1	1	prepare.xml
+3	3	project-template.pom
+
+commit 4abbbfc870092d9d5c4722f8839325ff2818ae34
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-12-17 09:27:02 +0100
+
+    moved to gitbox
+
+1	1	.gitmodules
+1	1	common
+
+commit 72bdcc2d1e20d190f2c18a4af6013f0c7e5451a8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-18 22:03:11 +0200
+
+    pick up latest improvements from common
+
+1	1	common
+
+commit 2cb681358beb2d7c2fdf51ecbfdb2bd11fffe0fc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 21:47:51 +0100
+
+    update versions in POM as well
+
+8	2	project-template.pom
+
+commit 9aa28d9846c5c96365fde414698a668b0e8e20b5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 21:46:38 +0100
+
+    make project description more current
+
+4	4	project-template.pom
+
+commit d282fff181fc597590abafe9b422e1a3300d1712
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 21:46:26 +0100
+
+    add Zstandard support
+
+9	0	.gitattributes
+5	1	changes.xml
+23	0	docs/compresource.html
+8	1	docs/index.html
+7	0	docs/pack.html
+7	0	docs/unpack.html
+1	0	ivy.xml
+12	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/ZstdResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnZstd.java
+42	0	src/main/org/apache/ant/compress/taskdefs/Zstd.java
+53	0	src/main/org/apache/ant/compress/util/ZstdStreamFactory.java
+65	0	src/tests/antunit/unzstd-test.xml
+109	0	src/tests/antunit/zstd-test.xml
+41	0	src/tests/antunit/zstdresource-test.xml
+-	-	src/tests/resources/asf-logo.gif.zstd
+
+commit 576d0415ac43c13e24174121be664ff81df79ae9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:43:48 +0100
+
+    forgot to update manual with Commons Compress version change
+
+2	2	docs/index.html
+
+commit bd4ddf05f48af8960cdb278a8fb861084dfb0be9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:43:04 +0100
+
+    typo
+
+1	1	docs/index.html
+
+commit 405d27dc9b29803aef1473f66d9a3f1d3d74a7b4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:10:29 +0100
+
+    strip copy-paste left-over
+
+0	2	src/main/org/apache/ant/compress/taskdefs/Undeflate64.java
+
+commit 86bdc32f88652db4b3d710da343feb6fe8e69e3a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:07:15 +0100
+
+    add read-only support for DEFLATE64
+
+9	0	changes.xml
+7	0	docs/compresource.html
+4	2	docs/index.html
+7	0	docs/unpack.html
+2	2	ivy.xml
+8	0	src/main/org/apache/ant/compress/antlib.xml
+39	0	src/main/org/apache/ant/compress/resources/Deflate64Resource.java
+39	0	src/main/org/apache/ant/compress/taskdefs/Undeflate64.java
+52	0	src/main/org/apache/ant/compress/util/Deflate64StreamFactory.java
+9	0	src/tests/antunit/un7z-test.xml
+41	0	src/tests/antunit/undeflate64-test.xml
+-	-	src/tests/resources/asf-logo.gif.deflate64.7z
+
+commit c3bdae5cf99808416ca7cb4604d46ed70fc1460f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:06:59 +0100
+
+    add antunit as test dependency
+
+2	0	ivy.xml
+
+commit b6aada79db797f38c43fcfaa3410066393fe7699
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:06:42 +0100
+
+    uodate dependencies
+
+3	3	ivy.xml
+
+commit 25eb9c5f030396ee8d6412dbc276746af7696ede
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-02-06 12:06:01 +0100
+
+    happy new year
+
+1	1	NOTICE
+
+commit 5aa13ff8971565600c3269121218a92a562c5d8b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 13:14:44 +0200
+
+    update common to get latest release instructions
+
+1	1	common
+
+commit ad0d9d5f3c9bad57a87812e369be827e1ab9d64d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 10:28:55 +0200
+
+    fix release date
+
+1	1	changes.xml
+
+commit cf0340643e5063b3d25be6d76eacf7df3f46aa8b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 10:28:30 +0200
+
+    doap file moved to site repo
+
+0	80	doap_CompressAntlib.rdf
+
+commit 929f57351f9b047b84be87e216cf02e18f84a247
+Merge: 4150fe9 3194691
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 10:11:33 +0200
+
+    Merge tag 'rel/1.5' and prepare for next cycle
+
+commit 3194691c0d0101cf1b2db2a643b3a9027c7990c1
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-06-08 13:32:44 +0200
+
+    prepare RC3 of Compress Antlib 1.5
+
+1	1	changes.xml
+1	1	version.properties
+
+commit 4150fe9c7290239735a30038fafb3c6b31e60c11
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-07 20:32:00 +0200
+
+    no reason to ignore distrub anymore
+
+0	1	.gitignore
+
+commit 1838fe3d52bda75a0231462cfc745981ab168bc7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-07 18:21:35 +0200
+
+    update common submodule
+
+1	1	common
+
+commit 858c324d6e6fcdfa8841cac61ac74bb66fa61837
+Author: Nicolas Lalevee <nicolas.lalevee@hibnet.org>
+Date:   2017-06-06 14:03:50 +0200
+
+    update commons
+
+1	1	common
+
+commit 47537550cef2e3cbf2fdeeafeedb81f119e6469d
+Author: Nicolas Lalevee <nicolas.lalevee@hibnet.org>
+Date:   2017-06-06 14:03:22 +0200
+
+    add a new line at the end of files
+
+1	1	src/main/org/apache/ant/compress/taskdefs/BUnzip2.java
+1	1	src/main/org/apache/ant/compress/taskdefs/GUnzip.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnXZ.java
+1	1	src/main/org/apache/ant/compress/util/FileAwareArchiveStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/FileAwareCompressorStreamFactory.java
+
+commit dae117c95cc2c4fc7ecdd4dfcb9927d4c8c7d935
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-01 16:44:47 +0200
+
+    record breaking change of Ivy coordinates
+
+4	0	changes.xml
+
+commit 52551cab9a7951fd786d92c213acd29312bbfc0b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-31 17:35:53 +0200
+
+    Requiring Java7 breaks BWC as well.
+
+2	0	changes.xml
+
+commit 6f9d51ccb4366d672ac950dd9f35b309f2539776
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-31 14:22:08 +0200
+
+    and again update the common submodule
+
+1	1	common
+
+commit c4e74b15834feed0c7185390724172a1f3dea0e2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-31 14:15:59 +0200
+
+    update common submodule
+
+1	1	common
+
+commit 8fe83fb96cd0b202a528b4b86adf17d8c876ab80
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-31 10:24:45 +0200
+
+    fix origanization, thanks to Jaikiran
+
+1	1	ivy.xml
+
+commit f506a21cb698b0c52682385b09e657b3c73fb863
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-31 10:24:17 +0200
+
+    update common submodule
+
+1	1	common
+
+commit cdea98962c7a00c136cd3d7dd45676a5949da74e
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-05-30 20:11:27 +0200
+
+    update common submodule
+
+1	1	common
+
+commit 28f220130758883a091cc9a3009e3762a2fdf994
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-05-30 20:10:38 +0200
+
+    even more temporary directories
+
+2	0	.gitignore
+
+commit 7323d9b8f551509bb7e001bac8888d1486592d35
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-05-30 20:09:37 +0200
+
+    fix broken artifactId
+
+1	1	project-template.pom
+
+commit 8756a84c1955cd21ae9af558b42671ce5ef1ca1b
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-05-23 20:46:43 +0200
+
+    make Ivy handling work for releases
+
+1	1	common
+0	58	project-template.ivy.xml
+
+commit d1a94213a8d5001d82643c3c8632796db15c15cd
+Author: Stefan Bodewig <stefan.bodewig@freenet.de>
+Date:   2017-05-23 20:36:07 +0200
+
+    adapt POM
+
+11	5	project-template.pom
+
+commit 9668aba32c20688813ca812f8162afe9428e0c76
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-09 06:01:44 +0200
+
+    make <archives> support all known archive formats
+
+10	4	docs/archives.html
+63	0	src/main/org/apache/ant/compress/resources/Archives.java
+45	0	src/tests/antunit/archives-test.xml
+
+commit 678014156d8f4cce747d45c3a9ff97250a9fed5e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 21:33:14 +0200
+
+    somehow i must have forgotten to to copy 7z content methods
+
+4	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit bb057ad20dc214974f0c09e8f76c0d39be9ff469
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 19:00:26 +0200
+
+    remove redundant public modifier in interfaces
+
+2	4	src/main/org/apache/ant/compress/util/ArchiveStreamFactory.java
+3	3	src/main/org/apache/ant/compress/util/CompressorStreamFactory.java
+3	3	src/main/org/apache/ant/compress/util/CompressorWithConcatenatedStreamsFactory.java
+
+commit ae64912383609454e67a90c950b4f2a045091e38
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 19:00:11 +0200
+
+    fix error message
+
+1	1	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+
+commit e838ac0e9b6631dc434f62b07c5011bf210ec033
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 18:59:54 +0200
+
+    more missing @Overrides
+
+1	0	src/main/org/apache/ant/compress/resources/ArFileSet.java
+1	0	src/main/org/apache/ant/compress/resources/ArjFileSet.java
+1	0	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+1	0	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+4	0	src/main/org/apache/ant/compress/resources/SevenZResource.java
+1	0	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+1	0	src/main/org/apache/ant/compress/resources/TarFileSet.java
+2	0	src/main/org/apache/ant/compress/resources/ZipResource.java
+1	0	src/main/org/apache/ant/compress/resources/ZipScanner.java
+5	0	src/main/org/apache/ant/compress/taskdefs/Ar.java
+1	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+2	1	src/main/org/apache/ant/compress/taskdefs/BZip2.java
+4	0	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+2	0	src/main/org/apache/ant/compress/taskdefs/GZip.java
+1	0	src/main/org/apache/ant/compress/taskdefs/LZMA.java
+4	0	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+3	0	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+5	1	src/main/org/apache/ant/compress/taskdefs/Tar.java
+8	6	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+2	0	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+2	1	src/main/org/apache/ant/compress/taskdefs/XZ.java
+7	1	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit 0d561cebab37b6f0f6662f1154d616e9313c1347
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 18:58:25 +0200
+
+    add read-only Brotli support
+
+5	1	changes.xml
+22	0	docs/compresource.html
+13	5	docs/index.html
+7	0	docs/unpack.html
+3	1	ivy.xml
+8	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/BrotliResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnBrotli.java
+52	0	src/main/org/apache/ant/compress/util/BrotliStreamFactory.java
+41	0	src/tests/antunit/brotliresource-test.xml
+58	0	src/tests/antunit/unbrotli-test.xml
+-	-	src/tests/resources/asf-logo.gif.br
+
+commit cfb57edd234130281229103cabc4fc24d2d49ebd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 17:11:29 +0200
+
+    add LZ4 support
+
+4	1	changes.xml
+45	1	docs/compresource.html
+7	4	docs/index.html
+27	0	docs/pack.html
+30	1	docs/unpack.html
+1	1	ivy.xml
+12	0	src/main/org/apache/ant/compress/antlib.xml
+50	0	src/main/org/apache/ant/compress/resources/LZ4Resource.java
+56	0	src/main/org/apache/ant/compress/taskdefs/LZ4.java
+45	0	src/main/org/apache/ant/compress/taskdefs/UnLZ4.java
+95	0	src/main/org/apache/ant/compress/util/LZ4StreamFactory.java
+109	0	src/tests/antunit/lz4-test.xml
+79	0	src/tests/antunit/lz4resource-test.xml
+105	0	src/tests/antunit/unlz4-test.xml
+-	-	src/tests/resources/asf-logo.gif.lz4
+-	-	src/tests/resources/multiple.lz4
+
+commit fefec90e2e346faf907321c98806099bb58619d1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 10:55:10 +0200
+
+    some more writable snappy tweaks
+
+1	1	docs/index.html
+1	3	src/tests/antunit/snappy-test.xml
+
+commit 35e432fcb87427f9912e553038cd8343023b0797
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 10:04:27 +0200
+
+    can re-enable test when using Compress 1.14
+
+1	3	src/tests/antunit/lzma-test.xml
+
+commit a46461e43f153af101caf3a8ac43edb3d9c2cb55
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 10:02:54 +0200
+
+    add support for writing Snappy without framing
+
+5	2	docs/pack.html
+7	0	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+13	0	src/main/org/apache/ant/compress/taskdefs/Snappy.java
+11	0	src/tests/antunit/unsnappy-test.xml
+
+commit 5de99d936182c334f1448330f8b0954a2708052e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 06:33:38 +0200
+
+    add write support for Snappy framing format
+
+5	2	changes.xml
+1	0	docs/index.html
+26	0	docs/pack.html
+2	2	docs/unpack.html
+1	1	ivy.xml
+4	0	src/main/org/apache/ant/compress/antlib.xml
+55	0	src/main/org/apache/ant/compress/taskdefs/Snappy.java
+16	4	src/main/org/apache/ant/compress/util/SnappyStreamFactory.java
+111	0	src/tests/antunit/snappy-test.xml
+8	0	src/tests/antunit/unsnappy-test.xml
+
+commit 21789f1e6a402b5c567ab464694a05af28104841
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-08 06:07:58 +0200
+
+    ivy.xml didn't mention snappy
+
+2	2	ivy.xml
+
+commit 3472e109db26c75c8e11594591c9499cf505654a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 18:15:06 +0200
+
+    add 2017 to copyright notice
+
+1	1	NOTICE
+
+commit 906608c5a803bee7a4de5cc7d8e50d6fbc7eac49
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 18:14:05 +0200
+
+    document XZ for Java dependency
+
+6	0	docs/index.html
+
+commit 09fac0a1c5350aa390ef2b7fded7903bece12657
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 18:13:58 +0200
+
+    fix anchor
+
+1	1	docs/unpack.html
+
+commit bae68395ccec534434b1c4cffbc2433fddb28fa4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 18:10:00 +0200
+
+    record write support for LZMA
+
+2	1	docs/index.html
+
+commit 85a1f823bf6287fe3bc8616e394d24ecda803426
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 18:08:54 +0200
+
+    support DEFLATE
+
+6	2	changes.xml
+24	0	docs/compresource.html
+6	3	docs/index.html
+30	0	docs/pack.html
+24	0	docs/unpack.html
+12	0	src/main/org/apache/ant/compress/antlib.xml
+78	0	src/main/org/apache/ant/compress/resources/DeflateResource.java
+78	0	src/main/org/apache/ant/compress/taskdefs/Deflate.java
+59	0	src/main/org/apache/ant/compress/taskdefs/Undeflate.java
+53	0	src/main/org/apache/ant/compress/util/DeflateStreamFactory.java
+110	0	src/tests/antunit/deflate-test.xml
+53	0	src/tests/antunit/deflateresource-test.xml
+74	0	src/tests/antunit/undeflate-test.xml
+-	-	src/tests/resources/asf-logo.gif.dfl
+
+commit 46b9c73b483f881e4488942d7dbb9bb48cbf05aa
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 17:19:19 +0200
+
+    typos
+
+1	1	changes.xml
+1	1	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+
+commit 64cc288646f79a65433c28a214a51fa7d69eb6ee
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 17:15:44 +0200
+
+    add write-support for LZMA
+
+5	1	changes.xml
+7	0	docs/pack.html
+2	2	ivy.xml
+4	0	src/main/org/apache/ant/compress/antlib.xml
+41	0	src/main/org/apache/ant/compress/taskdefs/LZMA.java
+4	3	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+111	0	src/tests/antunit/lzma-test.xml
+8	0	src/tests/antunit/unlzma-test.xml
+
+commit c673a2c0af548e20095b28decb9470d66c303c76
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 14:16:33 +0200
+
+    use test fix that worked for ar globally
+
+5	5	src/tests/antunit/cpio-test.xml
+5	5	src/tests/antunit/sevenz-test.xml
+5	5	src/tests/antunit/tar-test.xml
+5	5	src/tests/antunit/zip-test.xml
+3	3	src/tests/antunit/zipentry-test.xml
+
+commit 5ba5470cf411af35fb187ffd8d1f558a34ceb735
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-07 13:25:25 +0200
+
+    try to fix test failures
+    
+    see https://issues.apache.org/jira/browse/COMPRESS-326 for background
+
+37	0	src/tests/antunit/antunit-base.xml
+5	5	src/tests/antunit/ar-test.xml
+
+commit 06bfe68f82850b9573ba6cdbdc10e94dbbec52cb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 19:52:43 +0200
+
+    fix javadoc
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+
+commit 05aaa77a03f766789355c884da3b48fdb5982b41
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 19:45:56 +0200
+
+    backwards-compatible introduction of generics
+
+2	1	src/main/org/apache/ant/compress/resources/SevenZResource.java
+5	5	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+2	2	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+2	2	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+2	2	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+
+commit f240237b06e9d9aa797172e9cd1eaf3fcabe57c5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 19:45:41 +0200
+
+    whitespace
+
+23	23	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+
+commit b247eae1a792b36abd4fefdd523cbf6c28608b2c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 19:32:52 +0200
+
+    try-with-resources
+
+1	7	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+1	11	src/main/org/apache/ant/compress/resources/SevenZResource.java
+1	13	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+1	5	src/main/org/apache/ant/compress/resources/ZipResource.java
+1	5	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+4	11	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+9	13	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+3	5	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+1	5	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit d770c637a46718e9649be049d24df4a7235a8221
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 18:39:56 +0200
+
+    add @Overrides
+
+1	0	src/main/org/apache/ant/compress/conditions/HasGroupId.java
+1	0	src/main/org/apache/ant/compress/conditions/HasGroupName.java
+1	0	src/main/org/apache/ant/compress/conditions/HasMode.java
+1	0	src/main/org/apache/ant/compress/conditions/HasUserId.java
+1	0	src/main/org/apache/ant/compress/conditions/HasUserName.java
+2	0	src/main/org/apache/ant/compress/resources/ArFileSet.java
+7	1	src/main/org/apache/ant/compress/resources/Archives.java
+2	0	src/main/org/apache/ant/compress/resources/ArjFileSet.java
+4	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+2	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+3	0	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+2	0	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+1	0	src/main/org/apache/ant/compress/resources/DevZeroResource.java
+2	0	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+2	0	src/main/org/apache/ant/compress/resources/SevenZFileSet.java
+3	0	src/main/org/apache/ant/compress/resources/SevenZResource.java
+1	0	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+4	0	src/main/org/apache/ant/compress/resources/TarFileSet.java
+1	0	src/main/org/apache/ant/compress/resources/TarResource.java
+2	0	src/main/org/apache/ant/compress/resources/ZipFileSet.java
+2	0	src/main/org/apache/ant/compress/resources/ZipResource.java
+2	1	src/main/org/apache/ant/compress/resources/ZipScanner.java
+2	1	src/main/org/apache/ant/compress/taskdefs/Ar.java
+1	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+2	0	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+2	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+1	0	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Unarj.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Undump.java
+2	0	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Untar.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+3	1	src/main/org/apache/ant/compress/util/ArStreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/ArjStreamFactory.java
+4	1	src/main/org/apache/ant/compress/util/BZip2StreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/DumpStreamFactory.java
+4	1	src/main/org/apache/ant/compress/util/GZipStreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+5	1	src/main/org/apache/ant/compress/util/Pack200StreamFactory.java
+4	0	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/SnappyStreamFactory.java
+3	1	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+4	1	src/main/org/apache/ant/compress/util/XZStreamFactory.java
+2	0	src/main/org/apache/ant/compress/util/ZStreamFactory.java
+5	1	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+
+commit 401cd2cf5488c47e09fa969eeb1a8eeac87c1e87
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 18:10:22 +0200
+
+    make antlib compile against Ant master
+
+2	2	src/main/org/apache/ant/compress/resources/CommonsCompressFileSet.java
+
+commit 7175b4035d49d5dcd576aae637350cb11c44c0e6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-05-06 18:09:24 +0200
+
+    prepare for Commons Compress 1.14 which will require Java7
+
+2	0	build.properties
+
+commit 1e6deecd327d27fb2e05fc96aa8451441a96cb73
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-19 15:32:27 +0200
+
+    adding the antunit dependency causes more problems than it solves
+
+0	1	ivy.xml
+
+commit a0f2bae0db00c7b39e0aa451dd60171596b9972b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-19 14:44:29 +0200
+
+    use a Java5 compatible pack200 test resource
+    
+    The pack200 format depends on the Java version that created it unless
+    it contains a class file (in which case the target version of the
+    class file determines the pack version).
+    
+    http://bugs.java.com/bugdatabase/view_bug.do?bug_id=6712743
+
+44	0	src/tests/antunit/pack200-base.xml
+28	31	src/tests/antunit/pack200-test.xml
+5	9	src/tests/antunit/pack200resource-test.xml
+11	34	src/tests/antunit/unpack200-test.xml
+-	-	src/tests/resources/Foo.pack
+-	-	src/tests/resources/asf-logo.gif.pack
+
+commit a562586d86f81dc98b4b3cb5cd21bf39823641ea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-19 14:42:10 +0200
+
+    add test dependency on AntUnit
+
+3	2	ivy.xml
+
+commit fca03fb71f5b7dffefd1e4ee64c53571d83c3bed
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-19 14:41:50 +0200
+
+    add some ignores
+
+4	0	.gitignore
+
+commit e2fa62db4667e39f7b9e880f1f9208f051fb50a6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-06 17:24:10 +0200
+
+    no reason to clone common, it is a submodule over here
+
+3	31	prepare.xml
+
+commit d4ed2d209413adf77c7007b0eb330794f568ba78
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-05 17:48:01 +0200
+
+    add common module as a git submodule
+
+3	0	.gitmodules
+1	0	common
+
+commit db1908bb41ecae6e24f1da933d860169c999f9e9
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-05 14:10:20 +0200
+
+    fix javadoc
+
+1	1	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+
+commit be13f2c7213d695fd3b3618de90c1b27b612f88c
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-05 12:36:05 +0200
+
+    specify dependencies
+
+62	0	ivy.xml
+
+commit 231f7d5991b3142293fc1fb26f9a6d9ce5abebf6
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-05 12:31:21 +0200
+
+    add prepare script
+
+93	0	prepare.xml
+
+commit 874d8fad46383066041d4052ca8bb30a99bd5c92
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-05 12:30:10 +0200
+
+    add git-ignore
+
+23	0	.gitignore
+
+commit 8ffb4f9bcaaa6b2bdf982a8a8ad771609c530983
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 09:56:07 +0200
+
+    sort releases 'newest first' as in all other doap-files
+
+12	12	doap_CompressAntlib.rdf
+
+commit e4092804819a098f5ab2ee47f4e6453abd03ee2b
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 09:52:01 +0200
+
+    update doap-file after git-migration
+
+4	4	doap_CompressAntlib.rdf
+
+commit 9b15cfdb9f84f359fe85243766791705eed7d2ad
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-03-15 19:43:02 +0000
+
+    Add level attribute to gzip task.  PR 52414
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1577923 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+18	0	docs/pack.html
+28	3	src/main/org/apache/ant/compress/taskdefs/GZip.java
+8	0	src/tests/antunit/gunzip-test.xml
+
+commit 907e25d7d23aabf91857fe4014faf30da0318ede
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-03-14 16:41:17 +0000
+
+    support for multiple content methods in 7z
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1577607 13f79535-47bb-0310-9956-ffa450edef68
+
+13	0	changes.xml
+49	3	docs/archive.html
+62	7	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+4	0	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+25	0	src/tests/antunit/sevenz-test.xml
+14	0	src/tests/antunit/un7z-test.xml
+
+commit 25d67f6d96e8abc288c2fb099f768dc9348e4a08
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-03-11 05:13:04 +0000
+
+    add flag to keep the compression methods when updating 7z archives or adding files from sevenzfilesets
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1576191 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	docs/archive.html
+2	2	project-template.ivy.xml
+2	2	project-template.pom
+19	0	src/main/org/apache/ant/compress/resources/SevenZResource.java
+19	4	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+17	0	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+
+commit d499bacd9dd726ae3e456fc9e8a7253e3aaed794
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-01-29 10:09:58 +0000
+
+    post release house-keeping
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1562394 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+7	0	doap_CompressAntlib.rdf
+1	1	version.properties
+
+commit 069bebfb82abba24fae4f645ed25ac5aafef3947
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-01-21 05:06:12 +0000
+
+    Commons Compress 1.7 has been released
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1559920 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+1	1	project-template.ivy.xml
+1	1	project-template.pom
+
+commit 4c9e0401d983354f264d4adcf51ce762159d03ca
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-01-06 14:03:22 +0000
+
+    happy new year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1555779 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit e425476ed7b2ffc88b9ff651152a6d4e7625c7fa
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-27 12:56:43 +0000
+
+    add support for the raw snappy format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1553669 13f79535-47bb-0310-9956-ffa450edef68
+
+18	0	docs/compresource.html
+23	1	docs/unpack.html
+24	5	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+15	2	src/main/org/apache/ant/compress/resources/SnappyResource.java
+13	1	src/main/org/apache/ant/compress/taskdefs/UnSnappy.java
+14	1	src/main/org/apache/ant/compress/util/SnappyStreamFactory.java
+11	0	src/tests/antunit/snappyresource-test.xml
+15	0	src/tests/antunit/unsnappy-test.xml
+-	-	src/tests/resources/asf-logo.gif.snappy
+
+commit 27ea4708b7719e493e0d44cb8c109dd50ce6fc1e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-27 12:05:40 +0000
+
+    the initial file wasn't really compressed as the snappy compressor detected it couldn't compress the GIF any further - force compression
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1553665 13f79535-47bb-0310-9956-ffa450edef68
+
+-	-	src/tests/resources/asf-logo.gif.sz
+
+commit bfc2440ae46a27c57be04316f631b6a39ef78f47
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-26 07:16:49 +0000
+
+    read-only support for snappy compression
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1553458 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+25	2	docs/compresource.html
+6	4	docs/index.html
+6	0	docs/unpack.html
+8	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/SnappyResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnSnappy.java
+51	0	src/main/org/apache/ant/compress/util/SnappyStreamFactory.java
+41	0	src/tests/antunit/snappyresource-test.xml
+58	0	src/tests/antunit/unsnappy-test.xml
+-	-	src/tests/resources/asf-logo.gif.sz
+
+commit ad29f5e3fe9dfef2decd8d02226cf4f7f07a1f92
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-24 14:15:21 +0000
+
+    Read-Only support for traditional Unix compress (.Z) format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1553276 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+21	0	docs/compresource.html
+4	2	docs/index.html
+5	0	docs/unpack.html
+8	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/ZResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnZ.java
+1	1	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+50	0	src/main/org/apache/ant/compress/util/ZStreamFactory.java
+58	0	src/tests/antunit/unz-test.xml
+41	0	src/tests/antunit/zresource-test.xml
+-	-	src/tests/resources/asf-logo.gif.Z
+
+commit 4e7bbe063b7d222a1bba03bc22309cd35db28845
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-05 19:10:21 +0000
+
+    fix NOTICE template
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1548245 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	NOTICE
+
+commit b7163e7bcf95910e08c377e0e2eb8375958f9127
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-11-07 08:10:44 +0000
+
+    bump versions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1539544 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+7	0	doap_CompressAntlib.rdf
+1	1	version.properties
+
+commit 343f55343302ec5c711a6b3bd053575c2415efea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-27 06:01:46 +0000
+
+    fix descriptions and update dependency versions in POM
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1536055 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	project-template.ivy.xml
+5	5	project-template.pom
+
+commit 39f85b11e77c7366b4addc446e04853fde5bdd7e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-21 15:53:27 +0000
+
+    7zOut#close may now throw IOException
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1534247 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+
+commit 1333d0468ce6be4ee33afbb6686d378ff0ca9d81
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-21 13:00:52 +0000
+
+    why oh why doesn't javac find all issues in one go?
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1534140 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+
+commit e08fd8e88f1f25bcab9c6cf323adfac3adbff1b7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-21 03:55:27 +0000
+
+    one more place where SevenZFile#close is called
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1534020 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+
+commit d21c589bc131e7789d80841fea12753fe98690b8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-15 17:13:08 +0000
+
+    SevenZFile#close throws now
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1532443 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/org/apache/ant/compress/resources/SevenZResource.java
+
+commit cb0857f8d08d01bf3a5733d3bb0af02d4c2d98c8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-11 15:01:15 +0000
+
+    compression support when writing 7z
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1531317 13f79535-47bb-0310-9956-ffa450edef68
+
+4	6	changes.xml
+19	1	docs/archive.html
+34	1	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+6	1	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+48	0	src/tests/antunit/un7z-test.xml
+
+commit 5410d2e08056566e66a0dc1c267f99da754a5076
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-07 03:53:24 +0000
+
+    mixed up rows
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1529739 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/arjentry-test.xml
+
+commit 67413f3047ba5a09fa7d28a5771d70022c6accfc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-07 03:39:43 +0000
+
+    Unix version of last modifed time knows its timezone
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1529734 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/arjentry-test.xml
+
+commit 73f4f33b6a4eb0c1891ca1ac291cba3e82b836d4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-10-06 18:49:20 +0000
+
+    testcase for arj created on a Unix machine
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1529667 13f79535-47bb-0310-9956-ffa450edef68
+
+21	6	src/tests/antunit/arjentry-test.xml
+-	-	src/tests/resources/asf-logo.gif.unix.arj
+
+commit f7493d202457966c115e1236901533273fb69ccb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-30 04:09:59 +0000
+
+    add timezone to test so it may work in other timezone than mine
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527440 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/sevenzentry-test.xml
+
+commit 56afa7f90b1d6949fb2e7e02ac46ff9da631bb66
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-29 05:56:07 +0000
+
+    write 7z archives
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527275 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	changes.xml
+8	0	docs/archive.html
+1	0	docs/index.html
+4	0	src/main/org/apache/ant/compress/antlib.xml
+1	0	src/main/org/apache/ant/compress/resources/SevenZResource.java
+58	0	src/main/org/apache/ant/compress/taskdefs/SevenZ.java
+41	1	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+435	0	src/tests/antunit/sevenz-test.xml
+2	4	src/tests/antunit/un7z-test.xml
+
+commit 951388c9d4aabb28dd69b7868a3b404ab0022874
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-27 20:39:10 +0000
+
+    what a difference a single letter makes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527069 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+
+commit e8b9f6e7d0bc5862cebf829ee1d0ccc768f48cf4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-27 20:31:44 +0000
+
+    resources for 7z
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527064 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+2	0	docs/compresource.html
+35	1	docs/entry.html
+7	0	docs/fileset.html
+8	0	src/main/org/apache/ant/compress/antlib.xml
+82	0	src/main/org/apache/ant/compress/resources/SevenZFileSet.java
+175	0	src/main/org/apache/ant/compress/resources/SevenZResource.java
+128	0	src/main/org/apache/ant/compress/resources/SevenZScanner.java
+10	0	src/main/org/apache/ant/compress/util/EntryHelper.java
+52	0	src/tests/antunit/sevenzentry-test.xml
+99	0	src/tests/antunit/sevenzfileset-test.xml
+
+commit 64a7fc0c7acaec06d5590e5f602999de932af0df
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-27 20:30:43 +0000
+
+    update cover
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527062 13f79535-47bb-0310-9956-ffa450edef68
+
+14	4	docs/index.html
+
+commit 364c1bfd0b845a0845d20a7d5f335f8f6f6f59c0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-27 19:40:11 +0000
+
+    un7z task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1527046 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+9	0	docs/expand.html
+4	0	src/main/org/apache/ant/compress/antlib.xml
+103	0	src/main/org/apache/ant/compress/taskdefs/Un7z.java
+101	0	src/main/org/apache/ant/compress/util/SevenZStreamFactory.java
+51	0	src/tests/antunit/un7z-test.xml
+-	-	src/tests/resources/asf-logo.gif.7z
+
+commit 9578ada0a930016b4f837f34c8424761b85691d4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-09-27 04:26:59 +0000
+
+    read-only support for stand-alone LZMA compression
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1526787 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+20	0	docs/compresource.html
+5	0	docs/unpack.html
+5	5	project-template.ivy.xml
+8	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/LZMAResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnLZMA.java
+50	0	src/main/org/apache/ant/compress/util/LZMAStreamFactory.java
+41	0	src/tests/antunit/lzmaresource-test.xml
+58	0	src/tests/antunit/unlzma-test.xml
+-	-	src/tests/resources/asf-logo.gif.lzma
+
+commit fabed59691817e8b29e344884e6a1e55fce84ed8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-25 18:29:52 +0000
+
+    Note updated depedecies.
+    
+    Right now neither Commons Compress nor XZ for Java have new releases,
+    so the antlib can't be released either.  Also the support for 7z and
+    lzma isn't actually there, yet.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1517361 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	changes.xml
+
+commit 0f0281e5a433204b251eb1378a5d51df69db4f78
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-25 18:17:48 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1517358 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+
+commit f90f8026ce66ba5308fce8b9564f63bac03fc495
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-24 18:56:55 +0000
+
+    add read-only support for uncompressed arj archives
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1517183 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+28	0	docs/expand.html
+45	0	docs/fileset.html
+12	0	src/main/org/apache/ant/compress/antlib.xml
+96	0	src/main/org/apache/ant/compress/resources/ArjFileSet.java
+85	0	src/main/org/apache/ant/compress/resources/ArjResource.java
+40	0	src/main/org/apache/ant/compress/taskdefs/Unarj.java
+1	1	src/main/org/apache/ant/compress/util/ArchiveStreamFactory.java
+58	0	src/main/org/apache/ant/compress/util/ArjStreamFactory.java
+11	1	src/main/org/apache/ant/compress/util/EntryHelper.java
+60	0	src/tests/antunit/arjentry-test.xml
+82	0	src/tests/antunit/arjfileset-test.xml
+53	0	src/tests/antunit/unarj-test.xml
+-	-	src/tests/resources/asf-logo.gif.arj
+
+commit f2cc53b52564412b04ae5727acb47fd0f0b24ad7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-24 17:59:04 +0000
+
+    record additional encoding support
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1517170 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+
+commit 946ae7885dddb9b3c22365a82adfb7f4052a5a1c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-16 19:50:05 +0000
+
+    Reduce duplication in filesets.
+    
+    Yes, this could be further reduced by reflection or generics.  I'm a
+    bit afraid of the runtime cost of reflection and wouldn't want to
+    introduce reflection before version 2.0 of the antlib (which I expect
+    to start if CC 2.0 is ever started).
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1514870 13f79535-47bb-0310-9956-ffa450edef68
+
+14	154	src/main/org/apache/ant/compress/resources/ArFileSet.java
+255	0	src/main/org/apache/ant/compress/resources/CommonsCompressFileSet.java
+15	167	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+15	165	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+18	155	src/main/org/apache/ant/compress/resources/TarFileSet.java
+15	90	src/main/org/apache/ant/compress/resources/ZipFileSet.java
+
+commit a9a541e471e0006a1619b5a5a8759bffb3928841
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-08-16 15:29:03 +0000
+
+    CC 1.6 adds encoding support for cpio and dump
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1514748 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	docs/archive.html
+44	0	docs/expand.html
+22	0	docs/fileset.html
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+18	3	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+27	1	src/main/org/apache/ant/compress/resources/CpioResource.java
+18	3	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+27	1	src/main/org/apache/ant/compress/resources/DumpResource.java
+3	2	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+10	0	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+10	0	src/main/org/apache/ant/compress/taskdefs/Undump.java
+3	3	src/main/org/apache/ant/compress/util/ArchiveStreamFactory.java
+5	5	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+3	3	src/main/org/apache/ant/compress/util/DumpStreamFactory.java
+0	1	src/main/org/apache/ant/compress/util/StreamHelper.java
+12	0	src/tests/antunit/cpiofileset-test.xml
+12	0	src/tests/antunit/dumpfileset-test.xml
+
+commit 8f8ced5a77f62c45200b07fc923ed35412af1615
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-08-13 05:31:02 +0000
+
+    encoding is already documented as a common attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1372265 13f79535-47bb-0310-9956-ffa450edef68
+
+2	12	docs/archive.html
+
+commit a9b0cb88d9ddc73360d6209c328c989b8075f6b2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-04-20 04:40:10 +0000
+
+    1.2 released
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1328195 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+9	2	doap_CompressAntlib.rdf
+1	1	version.properties
+
+commit 4244317380e01c0531d2c092070e60df7584f345
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-04-16 18:02:53 +0000
+
+    2012
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1326708 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit c692943b5d1e6789f70bf08c5349fde5fec833da
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-04-11 05:12:50 +0000
+
+    announce XZ support in POM
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1324556 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	project-template.ivy.xml
+1	1	project-template.pom
+
+commit 472713e7b57193c5160644591b2371f8e52787e5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-03-24 06:31:02 +0000
+
+    use PAX extension headers for ASCII file names in POSIX mode
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1304718 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/org/apache/ant/compress/taskdefs/Tar.java
+
+commit 6318752c766206dd999a8dee324ff3c74a7d7f4d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-03-21 04:59:26 +0000
+
+    copy-paste error
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1303281 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/org/apache/ant/compress/resources/TarFileSet.java
+
+commit 07e0130c27f70ca8c0e8b1cc25ad8519285683bb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-03-20 21:09:13 +0000
+
+    add support for file name encoding in tar archives
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1303154 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	changes.xml
+11	0	docs/archive.html
+22	0	docs/expand.html
+11	0	docs/fileset.html
+35	2	src/main/org/apache/ant/compress/resources/TarFileSet.java
+26	0	src/main/org/apache/ant/compress/resources/TarResource.java
+4	0	src/main/org/apache/ant/compress/taskdefs/Untar.java
+2	2	src/main/org/apache/ant/compress/util/ArchiveStreamFactory.java
+4	4	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+2	4	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+11	0	src/tests/antunit/tarfileset-test.xml
+
+commit c446b151db0ca4135ab0d419caf10f92efe0f66d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-03-10 06:46:27 +0000
+
+    adapt to changes in tar package, now supports big (or negative) file modification times or big group numbers as well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1299152 13f79535-47bb-0310-9956-ffa450edef68
+
+7	6	docs/archive.html
+6	3	src/main/org/apache/ant/compress/taskdefs/Tar.java
+
+commit b9c98e0fa26f92dfe0ce7cff3ab88c33108b53fc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-12-12 10:50:10 +0000
+
+    catch up with POSIX/PAX support in Commons Compress' tar package
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1213185 13f79535-47bb-0310-9956-ffa450edef68
+
+17	0	changes.xml
+66	4	docs/archive.html
+23	3	src/main/org/apache/ant/compress/taskdefs/Tar.java
+11	0	src/tests/antunit/tar-test.xml
+
+commit 926420451b6d37bef8f02d4cc2344e16549161ef
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-21 18:05:40 +0000
+
+    document support for concatenating streams
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1204623 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	changes.xml
+20	0	docs/compresource.html
+22	0	docs/unpack.html
+
+commit 8cdfae396e38234f6bfa9f38f8040d2262d90fdb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-21 14:01:30 +0000
+
+    whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1204504 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+1	1	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+
+commit 3f183caafce55cc5362930ade338f2e0e708e730
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-21 14:00:27 +0000
+
+    support for concatenated streams in resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1204501 13f79535-47bb-0310-9956-ffa450edef68
+
+27	0	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+39	0	src/tests/antunit/bzip2resource-test.xml
+40	0	src/tests/antunit/gzipresource-test.xml
+13	0	src/tests/antunit/pack200resource-test.xml
+39	0	src/tests/antunit/xzresource-test.xml
+
+commit 6ea6bdfbb135863034aa67292674b16b872b433b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-20 07:13:31 +0000
+
+    support uncompressing resources that hold multiple concatenated streams for formats that support it
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1204135 13f79535-47bb-0310-9956-ffa450edef68
+
+27	1	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+16	2	src/main/org/apache/ant/compress/util/BZip2StreamFactory.java
+44	0	src/main/org/apache/ant/compress/util/CompressorWithConcatenatedStreamsFactory.java
+16	2	src/main/org/apache/ant/compress/util/GZipStreamFactory.java
+14	2	src/main/org/apache/ant/compress/util/XZStreamFactory.java
+30	0	src/tests/antunit/bunzip2-test.xml
+30	0	src/tests/antunit/gunzip-test.xml
+8	0	src/tests/antunit/unpack200-test.xml
+31	0	src/tests/antunit/unxz-test.xml
+-	-	src/tests/resources/multiple.bz2
+-	-	src/tests/resources/multiple.gz
+-	-	src/tests/resources/multiple.xz
+
+commit ce554cb93c4a3c0d37a8295ec9c06a2594fc12c6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-05 06:47:31 +0000
+
+    add support for the XZ format.  Requires Commons Compress trunk and XZ for Java
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1197895 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	changes.xml
+20	0	docs/compresource.html
+5	2	docs/index.html
+5	0	docs/pack.html
+5	0	docs/unpack.html
+2	1	project-template.ivy.xml
+6	1	project-template.pom
+12	0	src/main/org/apache/ant/compress/antlib.xml
+37	0	src/main/org/apache/ant/compress/resources/XZResource.java
+33	0	src/main/org/apache/ant/compress/taskdefs/UnXZ.java
+41	0	src/main/org/apache/ant/compress/taskdefs/XZ.java
+52	0	src/main/org/apache/ant/compress/util/XZStreamFactory.java
+65	0	src/tests/antunit/unxz-test.xml
+109	0	src/tests/antunit/xz-test.xml
+40	0	src/tests/antunit/xzresource-test.xml
+-	-	src/tests/resources/asf-logo.gif.xz
+1	1	version.properties
+
+commit da805fb678d805aeb8a1693a282fb25c3febb5dd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-05 06:41:39 +0000
+
+    1.1 released
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1197894 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+8	1	doap_CompressAntlib.rdf
+
+commit a9ee239cf6ff234e109d71e9cabe0450c96d7df2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-01 06:55:20 +0000
+
+    make preserveleadingslashes work for tar
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1195847 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+9	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+7	3	src/main/org/apache/ant/compress/taskdefs/Tar.java
+1	3	src/tests/antunit/tar-test.xml
+
+commit 79369c98d7372a7788e6f9d16e0ff7464b960654
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-01 06:45:13 +0000
+
+    actually, this hasn't been fixed, yet
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1195846 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/tests/antunit/tar-test.xml
+
+commit 80077a2d2066d9d5d19d6ac75749a4ec36472413
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-01 06:37:31 +0000
+
+    compress 1.3's release vote has passed, waiting for mirrors to catch up
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1195844 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	project-template.ivy.xml
+3	3	project-template.pom
+
+commit ef330b98b6479a98aca8ffa52e64a16e1fe0974c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-11-01 06:36:58 +0000
+
+    fix a few since tags
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1195842 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/DumpResource.java
+1	0	src/main/org/apache/ant/compress/resources/Pack200Resource.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Undump.java
+1	1	src/main/org/apache/ant/compress/util/DumpStreamFactory.java
+2	1	src/main/org/apache/ant/compress/util/Pack200StreamFactory.java
+1	3	src/tests/antunit/tar-test.xml
+
+commit b97d76f1ffa3560a896b2238f83310a9e53a5fb7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-21 11:33:56 +0000
+
+    document pack200normalize
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1187304 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	changes.xml
+1	0	docs/index.html
+124	0	docs/pack200normalize.html
+
+commit 45af1b68540df3d3dc3462f09b7b296e50584c4f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-13 06:11:25 +0000
+
+    looks like a race-condition in Gump
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1182674 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/tests/antunit/pack200normalize-test.xml
+
+commit 39b2d21df32ad028508c98e26993ec71123fcc17
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-12 08:22:05 +0000
+
+    more specific tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1182255 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/tests/antunit/pack200normalize-test.xml
+
+commit 562f368a93be831e826bc9b6689e2c8a8de81961
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-12 08:19:10 +0000
+
+    refactor
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1182254 13f79535-47bb-0310-9956-ffa450edef68
+
+30	20	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+
+commit bdbe698f902f541d0ff992e8fa70e75a625c7ac9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-12 08:16:32 +0000
+
+    some more sanity checks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1182253 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+27	1	src/tests/antunit/pack200normalize-test.xml
+
+commit e5ade4299d3347825f8a7a49e60d67127c990be5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-12 08:07:40 +0000
+
+    Use proper out-of-dateness check
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1182250 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+
+commit bfeb30a7df1ab4e969fe1d9a20133b5e5607f90e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-11 16:44:05 +0000
+
+    some real tests for pack200normalize - and make it actually work
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1181882 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+21	5	src/tests/antunit/pack200normalize-test.xml
+
+commit 6daea8d23d41847cd80f9d32322e5836978b55db
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-10-11 16:21:43 +0000
+
+    task that 'normalizes' jars for use with pack200
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1181872 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+106	0	src/main/org/apache/ant/compress/taskdefs/Pack200Normalize.java
+55	0	src/tests/antunit/pack200normalize-test.xml
+
+commit a024b6f321f61d017872a0f3e2ea20e2b510cdbc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-14 15:18:58 +0000
+
+    tweaks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1170677 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	docs/pack.html
+3	0	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+
+commit 047a1dc21ad9be36b8e82976cf5a0b4134be7e7a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-14 13:35:29 +0000
+
+    Document pack200 tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1170613 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+21	0	docs/compresource.html
+4	1	docs/index.html
+92	2	docs/pack.html
+65	0	docs/unpack.html
+
+commit ccf0a472562b7fe2b2ac015519b962d29ead95d1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-14 13:05:32 +0000
+
+    since Compress' Pack200 stream don't compress it makes sense to allow pack tasks to be nested into each other so you can gzip a pack200 archive
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1170590 13f79535-47bb-0310-9956-ffa450edef68
+
+21	9	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+8	0	src/tests/antunit/pack200-test.xml
+
+commit a403f95d8dfd66776792e74a2ed86ebea713bc33
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-14 11:48:22 +0000
+
+    allow packer/unpacker properties to be set
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1170548 13f79535-47bb-0310-9956-ffa450edef68
+
+13	3	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+16	4	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+2	1	src/main/org/apache/ant/compress/taskdefs/Zip.java
+9	0	src/tests/antunit/pack200-test.xml
+14	0	src/tests/antunit/unpack200-test.xml
+
+commit e4ca0130d52f21813d9ef850120574f320e9172f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-14 11:20:02 +0000
+
+    Allow caching strategy of Pack200 streams to be set
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1170535 13f79535-47bb-0310-9956-ffa450edef68
+
+71	3	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+16	2	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+36	1	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+15	1	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+9	0	src/tests/antunit/pack200-test.xml
+12	0	src/tests/antunit/unpack200-test.xml
+
+commit f051231ace606dc133c020bc0ae0758cc4958502
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-09-04 03:45:35 +0000
+
+    pack200 tasks/resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1164959 13f79535-47bb-0310-9956-ffa450edef68
+
+16	4	src/main/org/apache/ant/compress/antlib.xml
+36	0	src/main/org/apache/ant/compress/resources/Pack200Resource.java
+40	0	src/main/org/apache/ant/compress/taskdefs/Pack200.java
+32	0	src/main/org/apache/ant/compress/taskdefs/UnPack200.java
+4	4	src/main/org/apache/ant/compress/util/FileAwareArchiveStreamFactory.java
+4	3	src/main/org/apache/ant/compress/util/FileAwareCompressorStreamFactory.java
+70	0	src/main/org/apache/ant/compress/util/Pack200StreamFactory.java
+70	0	src/tests/antunit/pack200-test.xml
+41	0	src/tests/antunit/pack200resource-test.xml
+54	0	src/tests/antunit/unpack200-test.xml
+-	-	src/tests/resources/asf-logo.gif.pack
+
+commit c387a72a044bfaa6f1c2e9c5c53af1a55c68330d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-18 04:39:06 +0000
+
+    Compress' dump code no longer produces leading slashes for entries that don't have one in the first place
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1159031 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	docs/expand.html
+5	5	src/tests/antunit/dumpentry-test.xml
+3	5	src/tests/antunit/undump-test.xml
+
+commit 32e5e0f29999415cb70f5140f9259b61c2baf58b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 15:49:43 +0000
+
+    document Zip64 stuff
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158784 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	changes.xml
+
+commit 3880f825af50aaecb281c6bd00f6c50854d27f60
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 15:47:38 +0000
+
+    Resources for Unix dump format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158782 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+18	0	docs/entry.html
+49	0	docs/fileset.html
+2	0	docs/index.html
+16	8	src/main/org/apache/ant/compress/antlib.xml
+231	0	src/main/org/apache/ant/compress/resources/DumpFileSet.java
+61	0	src/main/org/apache/ant/compress/resources/DumpResource.java
+72	0	src/tests/antunit/dumpentry-test.xml
+70	0	src/tests/antunit/dumpfileset-test.xml
+
+commit 409b446cc06c2f1b96903567017781ca65a04a04
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 15:39:38 +0000
+
+    CC 1.3 does BSD ar too
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158774 13f79535-47bb-0310-9956-ffa450edef68
+
+2	3	docs/expand.html
+
+commit a9bb5853abf38d0cefe5e16b3fda5a8cba4c1bc2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 15:37:38 +0000
+
+    fix a few docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158771 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	docs/expand.html
+1	1	src/main/org/apache/ant/compress/resources/ArFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+1	1	src/main/org/apache/ant/compress/resources/TarFileSet.java
+
+commit 1a1f767ba0dc0b3b47fb7ca3dabecf4a6a4b4374
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 15:20:42 +0000
+
+    undump task for the Unix dump format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158767 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	docs/expand.html
+3	2	docs/index.html
+6	2	src/main/org/apache/ant/compress/antlib.xml
+31	0	src/main/org/apache/ant/compress/taskdefs/Undump.java
+58	0	src/main/org/apache/ant/compress/util/DumpStreamFactory.java
+11	1	src/main/org/apache/ant/compress/util/EntryHelper.java
+64	0	src/tests/antunit/undump-test.xml
+
+commit d810bb455ac9187faffa74deb4770e486883b172
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-17 05:14:37 +0000
+
+    Testfiles for Unix dump format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1158519 13f79535-47bb-0310-9956-ffa450edef68
+
+-	-	src/tests/resources/asf-logo.gif.dump
+-	-	src/tests/resources/asf-logo.gif.z.dump
+
+commit 807399a166e14da7c14fa42181952e8cbce8c19d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-11 04:43:02 +0000
+
+    Control ZIP64 support
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1156486 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+20	0	docs/archive.html
+5	0	src/main/org/apache/ant/compress/antlib.xml
+52	0	src/main/org/apache/ant/compress/resources/DevZeroResource.java
+45	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+19	0	src/tests/antunit/zip-test.xml
+
+commit bdeb2e0d93cec1337ac8d0338ae192c6c805e6d8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-08 13:40:24 +0000
+
+    messed up permissions logic in AR with svn revision 1154951
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154961 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/org/apache/ant/compress/taskdefs/Ar.java
+
+commit ae6ef16eecac3f283af2190c2149f6a27c120d1c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-08 13:34:46 +0000
+
+    support for the BSD dialect of AR
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154959 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+17	1	docs/archive.html
+60	2	src/main/org/apache/ant/compress/taskdefs/Ar.java
+22	0	src/tests/antunit/ar-test.xml
+
+commit cec18e7cb61bb9d36fa63e539c7236b0e4ecab8d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-08 13:14:18 +0000
+
+    embrace Commons Compress 1.3 (not released, yet)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154952 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+4	0	changes.xml
+3	3	docs/index.html
+1	1	project-template.pom
+
+commit 8e0276ceb2a99df1ed5d5f0852cb8d9f562df31f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-08 13:10:45 +0000
+
+    no, AR doesn't suppport directories
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154951 13f79535-47bb-0310-9956-ffa450edef68
+
+1	7	src/main/org/apache/ant/compress/taskdefs/Ar.java
+
+commit 3eaa0b2281536dad089e3df691800967bfd36840
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 14:22:00 +0000
+
+    no need to write a copy method if CC contains one
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154235 13f79535-47bb-0310-9956-ffa450edef68
+
+2	6	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+
+commit 826a52b41ccc9e591843a9eb3792b1f7dfce7057
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 14:12:26 +0000
+
+    make code a tiny bit less redundant
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154230 13f79535-47bb-0310-9956-ffa450edef68
+
+4	10	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+3	10	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+3	10	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+5	5	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+3	8	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+3	10	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+127	0	src/main/org/apache/ant/compress/util/StreamHelper.java
+
+commit 66d86db179b6dc7fe6a193c25aac36395da57428
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 13:42:02 +0000
+
+    whitespace only
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154210 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+2	2	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+
+commit 910dd69feb2fb2e247ba9a43f889c962ac68462e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 13:41:21 +0000
+
+    prepare for compressor streams that can take advantage of Files - Pack200 will be one once Commons Compress 1.3 supports it
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154209 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+11	0	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+48	0	src/main/org/apache/ant/compress/util/FileAwareCompressorStreamFactory.java
+
+commit e652f131a2f91c2738529c153f9081dcfa7a0c52
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 13:26:13 +0000
+
+    unused imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154207 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	src/main/org/apache/ant/compress/util/FileAwareArchiveStreamFactory.java
+
+commit 78a1f893a333727157a810b6fc66c207d62a515f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 13:22:24 +0000
+
+    whitespace only
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154205 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+18	18	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+
+commit 769498edce62927ad05f413c8b3402145e3419ea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 13:21:14 +0000
+
+    even though no implementation currently uses it, make the code generic enough that InputStreams that could take advantage of files can use them
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154203 13f79535-47bb-0310-9956-ffa450edef68
+
+18	7	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+11	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+24	9	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+
+commit 7cff4629e49469a04af0b6a5f9fafb653a007720
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 08:32:40 +0000
+
+    ZipArchiveOutputStream knows some tricks if it is writing to a file - take advantage of it
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154124 13f79535-47bb-0310-9956-ffa450edef68
+
+17	5	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+18	6	src/main/org/apache/ant/compress/taskdefs/Zip.java
+55	0	src/main/org/apache/ant/compress/util/FileAwareArchiveStreamFactory.java
+31	2	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+
+commit f418ebf21ebc5a972f6370721e8cc80bfda6fe52
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-05 07:42:03 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1154109 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit b6bd33ca2b7b77e83850d43307730fb55f5eb090
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-28 12:21:29 +0000
+
+    document skipUnreadableEntries attribute in changes files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1151814 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	changes.xml
+
+commit d3a741b151aafb185438caf2009929bf3d848677
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-25 04:48:48 +0000
+
+    documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150546 13f79535-47bb-0310-9956-ffa450edef68
+
+12	0	docs/expand.html
+12	0	docs/fileset.html
+
+commit cf3540921c45bc4942bf13758c40b65b2f5abb9c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-25 04:45:00 +0000
+
+    factor out common message
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150544 13f79535-47bb-0310-9956-ffa450edef68
+
+14	9	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+2	2	src/main/org/apache/ant/compress/resources/ZipScanner.java
+2	2	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+2	2	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+41	0	src/main/org/apache/ant/compress/util/Messages.java
+
+commit 4769f54c0e478b734317fb697417fbcfec1530ac
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-25 04:20:20 +0000
+
+    skipUnreadableEntries for filesets
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150535 13f79535-47bb-0310-9956-ffa450edef68
+
+12	1	src/main/org/apache/ant/compress/resources/ArFileSet.java
+32	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+12	1	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+12	1	src/main/org/apache/ant/compress/resources/TarFileSet.java
+11	1	src/main/org/apache/ant/compress/resources/ZipFileSet.java
+11	1	src/main/org/apache/ant/compress/resources/ZipScanner.java
+8	0	src/tests/antunit/zipfileset-test.xml
+
+commit 5b992a3fbb55d40682f4a13425bd66eaf6443385
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-24 05:28:50 +0000
+
+    support for skipping entries Commons Compress knows it cannot read
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150283 13f79535-47bb-0310-9956-ffa450edef68
+
+25	0	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+5	0	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+7	0	src/tests/antunit/unzip-test.xml
+
+commit 9848a66e8fe96f505894fdcd7752aa48c3d21b52
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-23 15:06:39 +0000
+
+    tests for current behaviour when an archive cannot be read by commons compress but commons compress knows why
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150119 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	src/tests/antunit/unzip-test.xml
+8	0	src/tests/antunit/zipfileset-test.xml
+-	-	src/tests/resources/password-encrypted.zip
+
+commit 6c28b3f883e64c47b0f42e6bd421a4c206527c70
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-23 14:54:57 +0000
+
+    Did I ever proof.read the manual?  Example seems to be in the wrong place as well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150117 13f79535-47bb-0310-9956-ffa450edef68
+
+24	24	docs/expand.html
+
+commit 13efe76c666634fccd3724aaf4590eb6fe3bd755
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-23 14:52:41 +0000
+
+    And another misplaced paragraph
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150115 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	docs/expand.html
+
+commit 42afccc2028f3b644d062e771d913468f54e5464
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-23 14:51:44 +0000
+
+    misplaced paragraph
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1150113 13f79535-47bb-0310-9956-ffa450edef68
+
+6	6	docs/expand.html
+
+commit ea5982234404fafe96fe04dbccd1477345fa46d7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-07-23 03:12:27 +0000
+
+    we can read the GNU variant of long file names in AR.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@1149787 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	docs/expand.html
+
+commit a4306c404d12e0ecb50cabf5f3c7dbc07433976a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-30 09:33:37 +0000
+
+    add release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@990740 13f79535-47bb-0310-9956-ffa450edef68
+
+9	4	doap_CompressAntlib.rdf
+
+commit fb852a9b504e16e8aa4fa5bfbac9cc12e16ba19c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-26 14:12:46 +0000
+
+    license information
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@989703 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	project-template.pom
+
+commit 3983c9b7733af72bd959ce764a531dd2a39a977e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-19 08:14:30 +0000
+
+    Ivy doesn't like a dependency on the module itself - and version ranges don't seem to work with the Ibiblio resolver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@987068 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	project-template.ivy.xml
+
+commit b53509c46a3c5d6c9bbc2fc5fd65f17110723fce
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-19 07:45:09 +0000
+
+    fix some Ivy schema violations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@987055 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	project-template.ivy.xml
+
+commit 816ddc564f7e23e405907bca18e8118b63570437
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-08-19 04:49:39 +0000
+
+    prepare for the 1.0 release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@987016 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 876be8db4efd660e925b59238e3b8e7178986bb9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-16 07:33:05 +0000
+
+    use a separate NS for the classifier attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@955147 13f79535-47bb-0310-9956-ffa450edef68
+
+7	7	project-template.ivy.xml
+
+commit 44c381341222842d347c632c7cf7734fb9191c8a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-15 10:56:48 +0000
+
+    additional artifacts
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@954807 13f79535-47bb-0310-9956-ffa450edef68
+
+12	0	project-template.ivy.xml
+
+commit 1f77f634a9d1bed2c02f0eaff97c6b78da6af71a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-09 13:52:48 +0000
+
+    Update template Ivy file with publications
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@953008 13f79535-47bb-0310-9956-ffa450edef68
+
+7	1	project-template.ivy.xml
+
+commit 3b20bc52908e7b1256c83797bf75e9a4e8c06b53
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-19 12:07:01 +0000
+
+    fix tests now that cpio archive has been renamed
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@911790 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/tests/antunit/ar-test.xml
+1	1	src/tests/antunit/bzip2-test.xml
+1	1	src/tests/antunit/cpio-test.xml
+5	5	src/tests/antunit/cpioentry-test.xml
+4	4	src/tests/antunit/cpiofileset-test.xml
+1	1	src/tests/antunit/gzip-test.xml
+1	1	src/tests/antunit/tar-test.xml
+1	1	src/tests/antunit/zip-test.xml
+
+commit 335d200f1597a880678edf3637aa757d86a763e3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-19 04:56:13 +0000
+
+    test uncpio against all four cpio formats
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@911700 13f79535-47bb-0310-9956-ffa450edef68
+
+29	2	src/tests/antunit/uncpio-test.xml
+-	-	src/tests/resources/{asf-logo.gif.cpio => asf-logo.gif.bin.cpio}
+-	-	src/tests/resources/asf-logo.gif.crc.cpio
+-	-	src/tests/resources/asf-logo.gif.new.cpio
+-	-	src/tests/resources/asf-logo.gif.odc.cpio
+
+commit 1cc443f2ecf6e601b26ec758d619bc37b1dacf2f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-18 13:21:37 +0000
+
+    support different formats and block sizes in CPIO
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@911387 13f79535-47bb-0310-9956-ffa450edef68
+
+23	0	docs/archive.html
+88	2	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+37	1	src/tests/antunit/uncpio-test.xml
+
+commit 0d66c2630de8455a71e1e236b977954de265ba49
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-17 13:45:21 +0000
+
+    make tests pass on Windows
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@910971 13f79535-47bb-0310-9956-ffa450edef68
+
+1	4	src/tests/antunit/ar-test.xml
+1	4	src/tests/antunit/cpio-test.xml
+1	4	src/tests/antunit/tar-test.xml
+1	4	src/tests/antunit/zip-test.xml
+
+commit dd93f06b7c9e74d6f8e47fe535459a32701e50a5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-17 13:10:33 +0000
+
+    embrace Commons Compress 1.1
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@910958 13f79535-47bb-0310-9956-ffa450edef68
+
+2	8	docs/index.html
+1	1	project-template.ivy.xml
+1	1	project-template.pom
+1	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+1	1	src/main/org/apache/ant/compress/resources/ZipResource.java
+1	1	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+1	25	src/main/org/apache/ant/compress/util/EntryHelper.java
+
+commit 4d8eb88df75a70dfe0e35935c2ffa6e5bc17167c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-09 16:11:27 +0000
+
+    copyright year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@908097 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit 9074c1262d0e4fc2f5bb6fc02862092627537e07
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-09 15:40:21 +0000
+
+    POM and ivy files with dependencies
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@908077 13f79535-47bb-0310-9956-ffa450edef68
+
+40	0	project-template.ivy.xml
+45	0	project-template.pom
+
+commit 8f88f6bb418e29c5e577a6553da0a0c037818f22
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-12-09 19:33:58 +0000
+
+    add some debug statements in the hope to avoid the problems described in bugzilla issue 42696
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@888933 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+1	0	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit 83cf3d3985c5c87dfc16297f422b296873ffdbb1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-10-21 10:34:54 +0000
+
+    Add support for long file names to tar
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@827954 13f79535-47bb-0310-9956-ffa450edef68
+
+22	4	docs/archive.html
+0	6	docs/index.html
+55	1	src/main/org/apache/ant/compress/taskdefs/Tar.java
+33	0	src/tests/antunit/tar-test.xml
+
+commit a2b041b8c7841fea5be17b4239b93a72db8d6447
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-10-16 06:00:05 +0000
+
+    Promote compress antlib
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/compress/trunk@825775 13f79535-47bb-0310-9956-ffa450edef68
+
+commit b688c05ebbe8abb6a996cf7664536efcdc9dd589
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-22 04:28:24 +0000
+
+    document mode attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@817498 13f79535-47bb-0310-9956-ffa450edef68
+
+59	0	docs/archive.html
+0	4	docs/index.html
+
+commit 3a11e6d498e8be0e943c8258e4376f1909840744
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-21 18:44:09 +0000
+
+    update mode
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@817368 13f79535-47bb-0310-9956-ffa450edef68
+
+38	16	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+1	1	src/tests/antunit/ar-test.xml
+1	1	src/tests/antunit/cpio-test.xml
+1	1	src/tests/antunit/tar-test.xml
+1	1	src/tests/antunit/zip-test.xml
+
+commit b81bcb56323237c64c7c71b22e70cf3b82a7b4c5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-21 04:29:09 +0000
+
+    prepare for update mode
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@817155 13f79535-47bb-0310-9956-ffa450edef68
+
+69	14	src/tests/antunit/ar-test.xml
+70	14	src/tests/antunit/cpio-test.xml
+69	14	src/tests/antunit/tar-test.xml
+69	14	src/tests/antunit/zip-test.xml
+
+commit 4a2d57130ebc5bffe1c2d12eb334fa70e5e32adf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-18 04:27:11 +0000
+
+    Use Collections consistently
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@816468 13f79535-47bb-0310-9956-ffa450edef68
+
+36	30	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 8a4bbcc731f26bd23a656868804ca74c0d353cea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-17 04:22:11 +0000
+
+    replace mode for archiving tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@816045 13f79535-47bb-0310-9956-ffa450edef68
+
+63	1	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+54	4	src/tests/antunit/ar-test.xml
+55	4	src/tests/antunit/cpio-test.xml
+55	4	src/tests/antunit/tar-test.xml
+55	4	src/tests/antunit/zip-test.xml
+
+commit 5eb64ff85601f25eb6d19178e8611f22b1c4db4f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-16 04:19:38 +0000
+
+    Close all input streams when unzipping, Submitted by David Schlosnagle, PR 42696 - merge from Ant core
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@815601 13f79535-47bb-0310-9956-ffa450edef68
+
+9	3	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit 5bccd6201ff68fe2dd5f78faba6e8175aa177cb4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-15 04:25:44 +0000
+
+    try to make it work without ant.home property (as in Gump)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@814989 13f79535-47bb-0310-9956-ffa450edef68
+
+22	6	src/tests/antunit/archives-test.xml
+
+commit 49580e10db33e42e1ddd7c05224fd6dc5e8028e0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-14 04:18:26 +0000
+
+    Make sorting a separate step
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@814471 13f79535-47bb-0310-9956-ffa450edef68
+
+27	12	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 8e5e449ab0504018f8212f098838ff8a0d9c3017
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-11 11:38:47 +0000
+
+    will need that fileset again in replace and update modes, only create it once
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813783 13f79535-47bb-0310-9956-ffa450edef68
+
+12	6	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 8073bf1c3a086d515678d2c1486237c4b46bb58d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-11 11:28:31 +0000
+
+    prepare for replace and update modes by copying target archive, tiny extract method refactoring
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813779 13f79535-47bb-0310-9956-ffa450edef68
+
+59	15	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 23275a25c7fd1ada907a42044fe38623c3fe31fb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-11 10:55:16 +0000
+
+    make protected access of some methods more useful by providing access to some needed private members
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813774 13f79535-47bb-0310-9956-ffa450edef68
+
+45	11	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit cd441a414487914b8cc01db2cbc5df863699425d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-11 10:36:36 +0000
+
+    Add up-to-date-ness check to archiving tasks and a way to prevent it with new force-create mode
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813767 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/main/org/apache/ant/compress/taskdefs/Ar.java
+75	9	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+10	1	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+10	1	src/main/org/apache/ant/compress/taskdefs/Tar.java
+11	2	src/main/org/apache/ant/compress/taskdefs/Zip.java
+48	0	src/tests/antunit/ar-test.xml
+47	0	src/tests/antunit/cpio-test.xml
+48	0	src/tests/antunit/tar-test.xml
+48	0	src/tests/antunit/zip-test.xml
+
+commit 7465864c3bf9711bda89ac244d13814a650ebabc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-11 09:24:10 +0000
+
+    complete documentation with conditions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813736 13f79535-47bb-0310-9956-ffa450edef68
+
+184	0	docs/conditions.html
+
+commit fe1b5b9e287d120d5cb98c69383d1f5817c0fef4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-10 12:19:23 +0000
+
+    forgot version number
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813403 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+
+commit 7c716787280b3c2fa2ef87df0e33f9baff06202e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-10 12:18:29 +0000
+
+    known problems and limitations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813402 13f79535-47bb-0310-9956-ffa450edef68
+
+22	0	docs/index.html
+
+commit 4b5edeef25d70da8ed1ea5aee818d879832e605d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-10 11:48:16 +0000
+
+    add documentation for archiving tasks, fix some errors in the pack and expand manuals
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@813385 13f79535-47bb-0310-9956-ffa450edef68
+
+482	0	docs/archive.html
+4	6	docs/expand.html
+4	1	docs/pack.html
+
+commit a3edff8544f938f4dc3176de4bc02cdf6a80acad
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 14:45:10 +0000
+
+    mixed up a few parameters
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812979 13f79535-47bb-0310-9956-ffa450edef68
+
+6	6	docs/pack.html
+
+commit 2e8eb984c5f42f6975fbbf7ab064537d64bad142
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 14:38:14 +0000
+
+    document compressing tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812977 13f79535-47bb-0310-9956-ffa450edef68
+
+127	0	docs/pack.html
+
+commit d868b44c2a5e80bb7fcb045c3b84756b72ce1282
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 14:20:39 +0000
+
+    document uncompressing tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812969 13f79535-47bb-0310-9956-ffa450edef68
+
+131	0	docs/unpack.html
+
+commit ca7484127ca9984bc94e8acff834e79924f47afb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 11:04:09 +0000
+
+    document unarchival tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812884 13f79535-47bb-0310-9956-ffa450edef68
+
+273	0	docs/expand.html
+
+commit 0c4bc63bce1694a8d0539d06e631c5e14aff4f46
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 10:10:14 +0000
+
+    document filesets
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812870 13f79535-47bb-0310-9956-ffa450edef68
+
+328	0	docs/fileset.html
+
+commit d13bdd1af93a470010d2b7134a0e4d26d4d1f835
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 09:47:55 +0000
+
+    document compressed resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812858 13f79535-47bb-0310-9956-ffa450edef68
+
+73	0	docs/compresource.html
+
+commit b5e1099771890fd3d81ddd119837f2a1c6b43fcb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 09:26:10 +0000
+
+    document *entry resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812851 13f79535-47bb-0310-9956-ffa450edef68
+
+133	0	docs/entry.html
+
+commit b1b5b33bffc3fa9b428d2db0d69f39b3d8f6f731
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-09 04:02:37 +0000
+
+    docs on archives resource collection
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812761 13f79535-47bb-0310-9956-ffa450edef68
+
+68	0	docs/archives.html
+
+commit 11b54762605b892a4a4087882c1da2709b70f557
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-08 04:33:54 +0000
+
+    cover page.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@812340 13f79535-47bb-0310-9956-ffa450edef68
+
+141	0	docs/index.html
+
+commit c2694f4f52ed85c772b358b2dba9dd7d8503512e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-01 03:48:29 +0000
+
+    track down people who contributed to the core classes that built the base for this antlib
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809810 13f79535-47bb-0310-9956-ffa450edef68
+
+182	0	contributors.xml
+
+commit eb26cea59e620b877720e0a266571a955ddd6a9f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-01 03:06:26 +0000
+
+    whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809806 13f79535-47bb-0310-9956-ffa450edef68
+
+11	10	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+
+commit 6dc7841c987692200ba8bd531fbd6612cc7950ee
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-09-01 03:04:04 +0000
+
+    <gzip> and <bzip2> can now wrap an archiving task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809805 13f79535-47bb-0310-9956-ffa450edef68
+
+9	1	src/main/org/apache/ant/compress/taskdefs/BZip2.java
+9	1	src/main/org/apache/ant/compress/taskdefs/GZip.java
+28	5	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+23	2	src/tests/antunit/bzip2-test.xml
+23	2	src/tests/antunit/gzip-test.xml
+
+commit 607576044d053a9badb0332d04662cb54f1ca34c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 04:31:50 +0000
+
+    big file test
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809460 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/tests/antunit/bzip2-test.xml
+
+commit abe9cb1cdab0076503f3b11b5c4d811a6120ea80
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 04:26:13 +0000
+
+    tests for bzip2
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809459 13f79535-47bb-0310-9956-ffa450edef68
+
+88	0	src/tests/antunit/bzip2-test.xml
+
+commit f89be76428ef94582bfda6f3791694c411d166e3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 04:24:33 +0000
+
+    Merge core gzip's JUnit tests as AntUnit tests (and fix a few bugs on the way)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809458 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+25	4	src/tests/antunit/gzip-test.xml
+
+commit 679fba65e89d648652f8fbf07e2f66ddc001302f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 04:12:58 +0000
+
+    whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809457 13f79535-47bb-0310-9956-ffa450edef68
+
+88	88	src/main/org/apache/ant/compress/antlib.xml
+2	2	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+51	51	src/tests/antunit/gzip-test.xml
+
+commit 3e34778716a577a610e031cf442f9517590b371d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 04:11:16 +0000
+
+    gzip and bzip2 tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809456 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	src/main/org/apache/ant/compress/antlib.xml
+32	0	src/main/org/apache/ant/compress/taskdefs/BZip2.java
+32	0	src/main/org/apache/ant/compress/taskdefs/GZip.java
+179	0	src/main/org/apache/ant/compress/taskdefs/PackBase.java
+9	0	src/tests/antunit/bunzip2-test.xml
+8	0	src/tests/antunit/gunzip-test.xml
+67	0	src/tests/antunit/gzip-test.xml
+
+commit a6b63b010dd8bff445946dc0f4dde0af0aae25bd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-31 03:25:44 +0000
+
+    Make non-File dests as nested elements work, with tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@809455 13f79535-47bb-0310-9956-ffa450edef68
+
+12	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+18	0	src/tests/antunit/ar-test.xml
+18	0	src/tests/antunit/cpio-test.xml
+17	0	src/tests/antunit/tar-test.xml
+17	0	src/tests/antunit/zip-test.xml
+
+commit e89d750f981c70dce92cafb41b5eaf1aefcd947a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 04:32:15 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808752 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit 0c6a93bf80659a25f85e66b217add49364278a1c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 04:31:43 +0000
+
+    port createunicodeextrafields from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808751 13f79535-47bb-0310-9956-ffa450edef68
+
+52	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit 883fb1c5c8b016d63d73e453c6cc865628662273
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 04:27:48 +0000
+
+    port uselanguageencodingflag from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808749 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit 7bd954f8e55fac5ad5e1663ccf15b569e82c77c0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 04:26:11 +0000
+
+    port fallbacktoutf8 from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808748 13f79535-47bb-0310-9956-ffa450edef68
+
+12	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit 48ec9e509c5178819351c78489f85ad4a2294f84
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 04:23:24 +0000
+
+    archives resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808747 13f79535-47bb-0310-9956-ffa450edef68
+
+9	6	src/main/org/apache/ant/compress/antlib.xml
+229	0	src/main/org/apache/ant/compress/resources/Archives.java
+151	0	src/tests/antunit/archives-test.xml
+
+commit be6566c4dc31a8b33c0a3d1bbbc38c9e309a1fd8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-28 03:56:46 +0000
+
+    bzip2resource and gzipresource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808745 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	src/main/org/apache/ant/compress/antlib.xml
+36	0	src/main/org/apache/ant/compress/resources/BZip2Resource.java
+90	0	src/main/org/apache/ant/compress/resources/CommonsCompressCompressorResource.java
+36	0	src/main/org/apache/ant/compress/resources/GZipResource.java
+40	0	src/tests/antunit/bzip2resource-test.xml
+40	0	src/tests/antunit/gzipresource-test.xml
+
+commit 471834f3391b281b08822aae3a4b9b5b2970981d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-27 04:18:11 +0000
+
+    gunzip and bunzip2 tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808278 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	src/main/org/apache/ant/compress/antlib.xml
+32	0	src/main/org/apache/ant/compress/taskdefs/BUnzip2.java
+32	0	src/main/org/apache/ant/compress/taskdefs/GUnzip.java
+93	0	src/main/org/apache/ant/compress/taskdefs/UnpackBase.java
+51	0	src/main/org/apache/ant/compress/util/BZip2StreamFactory.java
+46	0	src/main/org/apache/ant/compress/util/CompressorStreamFactory.java
+51	0	src/main/org/apache/ant/compress/util/GZipStreamFactory.java
+59	0	src/tests/antunit/bunzip2-test.xml
+64	0	src/tests/antunit/gunzip-test.xml
+-	-	src/tests/resources/asf-logo-huge.tar.bz2
+-	-	src/tests/resources/asf-logo.gif.bz2
+-	-	src/tests/resources/asf-logo.gif.gz
+
+commit 3d3f267b3c2e3e3a68b4fd25eb076a7b6bf20eb6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-27 03:44:38 +0000
+
+    rename class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808274 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+3	3	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+3	3	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+3	3	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+1	1	src/main/org/apache/ant/compress/util/ArStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/{StreamFactory.java => ArchiveStreamFactory.java}
+1	1	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+1	1	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+
+commit 5ad698be9db600c8f00f0a4a823444abaa385b0b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-27 03:06:55 +0000
+
+    port keepCompression from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808265 13f79535-47bb-0310-9956-ffa450edef68
+
+11	1	src/main/org/apache/ant/compress/resources/ZipResource.java
+17	8	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+17	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+
+commit d4962d44537bd0ff4c0cdfe8600bdccbf5c189a5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-27 02:49:59 +0000
+
+    port whenEmpty from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808258 13f79535-47bb-0310-9956-ffa450edef68
+
+42	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+18	0	src/tests/antunit/ar-test.xml
+18	0	src/tests/antunit/cpio-test.xml
+18	0	src/tests/antunit/tar-test.xml
+18	0	src/tests/antunit/zip-test.xml
+
+commit 82a2624f7095651c3b1836276b7e867571eff9ee
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-27 02:39:33 +0000
+
+    Force people to think about duplicates, make fail the default value
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@808256 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+2	2	src/tests/antunit/ar-test.xml
+2	2	src/tests/antunit/cpio-test.xml
+2	2	src/tests/antunit/tar-test.xml
+2	2	src/tests/antunit/zip-test.xml
+
+commit 07cb0be5f71f2ca6fc8be07e5377999f300766e1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-26 04:30:13 +0000
+
+    port duplicate attribute from <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807875 13f79535-47bb-0310-9956-ffa450edef68
+
+62	4	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+27	0	src/tests/antunit/ar-test.xml
+29	0	src/tests/antunit/cpio-test.xml
+28	0	src/tests/antunit/tar-test.xml
+27	0	src/tests/antunit/zip-test.xml
+
+commit d77e8ad24bf06a502a762a8da66a021817e1113e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 04:31:56 +0000
+
+    port comment from core <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807474 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+8	0	src/tests/antunit/zip-test.xml
+
+commit c5b68d8ac15d4c293f43ab4a5d36c739d392879d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 04:20:50 +0000
+
+    port level from core <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807472 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Ar.java
+8	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+1	1	src/main/org/apache/ant/compress/taskdefs/Tar.java
+27	1	src/main/org/apache/ant/compress/taskdefs/Zip.java
+22	0	src/tests/antunit/zip-test.xml
+
+commit c991fb95828595f47cb24c2b0178f7c81d85c32f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 04:05:32 +0000
+
+    port preserveLeadingSlashes from core <tar>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807469 13f79535-47bb-0310-9956-ffa450edef68
+
+16	1	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+37	0	src/tests/antunit/ar-test.xml
+36	0	src/tests/antunit/cpio-test.xml
+38	0	src/tests/antunit/tar-test.xml
+35	0	src/tests/antunit/zip-test.xml
+
+commit 23f0fa36977ec015f4853c12d9c300ace3ba9ef0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 03:48:01 +0000
+
+    port roundup from core <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807466 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	src/main/org/apache/ant/compress/taskdefs/Ar.java
+40	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+4	2	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+4	2	src/main/org/apache/ant/compress/taskdefs/Tar.java
+3	2	src/main/org/apache/ant/compress/taskdefs/Zip.java
+2	2	src/tests/antunit/conditions-test.xml
+16	6	src/tests/antunit/zip-test.xml
+
+commit 12a72e0c2d5910f03a4ff7b626e650afd5c6b64d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 03:30:17 +0000
+
+    port preserve0permissions from core <zip>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807464 13f79535-47bb-0310-9956-ffa450edef68
+
+19	5	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+28	0	src/tests/antunit/ar-test.xml
+28	0	src/tests/antunit/cpio-test.xml
+28	0	src/tests/antunit/tar-test.xml
+33	0	src/tests/antunit/zip-test.xml
+
+commit 0b422de8a05e925ecef5eea410b488beb998eff9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-25 03:23:38 +0000
+
+    verbose logging of ocat permissions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807463 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/org/apache/ant/compress/conditions/HasMode.java
+
+commit c2e94ae8df899163b126960a6bd27d63322a3e5d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-24 04:16:41 +0000
+
+    tests for prefix and fullpath - make sure all slashes in archive entry names are forward slashes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807073 13f79535-47bb-0310-9956-ffa450edef68
+
+17	3	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+72	0	src/tests/antunit/ar-test.xml
+72	0	src/tests/antunit/cpio-test.xml
+72	0	src/tests/antunit/tar-test.xml
+72	0	src/tests/antunit/zip-test.xml
+
+commit 4be58a30f50fc408c0b0629b473808dbe68689df
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-24 04:02:52 +0000
+
+    merged too much
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807066 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/tests/antunit/zip-test.xml
+
+commit eaf15c0abacbb285876a7ce5236d614788bff5b8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-24 03:58:14 +0000
+
+    missed a zip timestamp with timezone
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@807065 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/zipentry-test.xml
+
+commit 366c179d2c9627081ebbe187d14173c89b06f8cf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 06:29:45 +0000
+
+    the mode specified on a tar/zipfileset wins over the existing permissions in the core tasks, make it that way here as well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806935 13f79535-47bb-0310-9956-ffa450edef68
+
+3	4	src/main/org/apache/ant/compress/taskdefs/Ar.java
+3	4	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+3	4	src/main/org/apache/ant/compress/taskdefs/Tar.java
+3	4	src/main/org/apache/ant/compress/taskdefs/Zip.java
+11	0	src/tests/antunit/ar-test.xml
+11	0	src/tests/antunit/cpio-test.xml
+11	0	src/tests/antunit/tar-test.xml
+11	0	src/tests/antunit/zip-test.xml
+
+commit 088180268acce2d2a9d31f1bfadd24e4bab7c3b4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 06:14:55 +0000
+
+    tests for directoriy permissions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806934 13f79535-47bb-0310-9956-ffa450edef68
+
+13	2	src/tests/antunit/ar-test.xml
+27	0	src/tests/antunit/cpio-test.xml
+27	0	src/tests/antunit/tar-test.xml
+27	0	src/tests/antunit/zip-test.xml
+
+commit 17b940b9e6ea743a97f03bc3b30295630a9d1071
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 06:08:39 +0000
+
+    specify permissions as octals in hasmode condition
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806933 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/compress/conditions/HasMode.java
+7	7	src/tests/antunit/ar-test.xml
+1	1	src/tests/antunit/arentry-test.xml
+10	10	src/tests/antunit/conditions-test.xml
+7	7	src/tests/antunit/cpio-test.xml
+1	1	src/tests/antunit/cpioentry-test.xml
+7	7	src/tests/antunit/tar-test.xml
+1	1	src/tests/antunit/tarentry-test.xml
+7	7	src/tests/antunit/zip-test.xml
+1	1	src/tests/antunit/zipentry-test.xml
+
+commit d8fe4179c0707947f10221acc17e30e4b4186388
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 06:02:22 +0000
+
+    If only permissions have been specified, don't compare the dir/file/link flag part
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806932 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/conditions/HasMode.java
+
+commit 681eadf0c42ea6f3149732d071db760d0008f5fb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 05:49:46 +0000
+
+    the zip code has different ideas about timezones than the other three
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806931 13f79535-47bb-0310-9956-ffa450edef68
+
+8	3	src/tests/antunit/cpio-test.xml
+8	3	src/tests/antunit/tar-test.xml
+8	3	src/tests/antunit/zip-test.xml
+
+commit 41eae8c3d64a18f6f3be42ac13fcba1eced69ecb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 05:46:19 +0000
+
+    Make ar fail early if asked to add directories
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806930 13f79535-47bb-0310-9956-ffa450edef68
+
+9	2	src/main/org/apache/ant/compress/taskdefs/Ar.java
+
+commit e33886c8f8effbb7331dec318004c00edc0b9c2c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-23 05:43:18 +0000
+
+    use a consistent default value for permissions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806929 13f79535-47bb-0310-9956-ffa450edef68
+
+2	3	src/main/org/apache/ant/compress/taskdefs/Ar.java
+7	6	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+5	0	src/main/org/apache/ant/compress/taskdefs/Tar.java
+4	6	src/main/org/apache/ant/compress/taskdefs/Zip.java
+1	1	src/tests/antunit/cpio-test.xml
+
+commit 7908805e096470be45ebcb0930aeb258522d7969
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-22 06:21:31 +0000
+
+    directory tests for the other three formats
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806795 13f79535-47bb-0310-9956-ffa450edef68
+
+35	0	src/tests/antunit/ar-test.xml
+51	0	src/tests/antunit/tar-test.xml
+51	0	src/tests/antunit/zip-test.xml
+
+commit 1736942070864150621ced056927bab6dc16e062
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-22 06:15:21 +0000
+
+    Tests and fixes for directory handling
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806793 13f79535-47bb-0310-9956-ffa450edef68
+
+13	4	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+24	1	src/tests/antunit/antunit-base.xml
+51	0	src/tests/antunit/cpio-test.xml
+
+commit 120981cac2f9d13182fd61af45eadbe7acc3cdfc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-22 05:40:05 +0000
+
+    It looks as if zip had a different idea on how timestamps relate to timezone than the other three archive formats.  Try to see whether the change makes the ar test pass in Gump
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806788 13f79535-47bb-0310-9956-ffa450edef68
+
+8	3	src/tests/antunit/ar-test.xml
+
+commit f97f0e525efba89e40c31d5625a74806eadb2bc8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 19:28:40 +0000
+
+    don't invoke virtual methods in constructor
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806691 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/org/apache/ant/compress/resources/ArResource.java
+0	2	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+3	1	src/main/org/apache/ant/compress/resources/CpioResource.java
+1	1	src/main/org/apache/ant/compress/resources/TarResource.java
+3	1	src/main/org/apache/ant/compress/resources/ZipResource.java
+
+commit 1b32c0b69220358c79001d2f6612b2d68138c6b4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 19:25:36 +0000
+
+    ar mode reading works in ACC trunk now
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806690 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/tests/antunit/ar-test.xml
+1	1	src/tests/antunit/arentry-test.xml
+1	1	src/tests/antunit/conditions-test.xml
+1	1	src/tests/antunit/cpio-test.xml
+1	1	src/tests/antunit/tar-test.xml
+1	1	src/tests/antunit/zip-test.xml
+
+commit eec7d03a1df017a91562f45e81e59accd49d92df
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 04:30:23 +0000
+
+    we really should not invoke virtual methods inside constructors, must be fixed
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806417 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/org/apache/ant/compress/resources/TarResource.java
+2	2	src/tests/antunit/tar-test.xml
+0	1	src/tests/antunit/zip-test.xml
+
+commit a75f0d433b0bb8cb8501b322429014297ff19ef0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 04:00:33 +0000
+
+    set default permission in zip task like the other tasks do
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806414 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+1	1	src/tests/antunit/zip-test.xml
+
+commit fddf3282aa916d72d583ec156578892a67083021
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 03:56:00 +0000
+
+    tests for the remaining archiving tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806413 13f79535-47bb-0310-9956-ffa450edef68
+
+130	0	src/tests/antunit/ar-test.xml
+146	0	src/tests/antunit/tar-test.xml
+115	0	src/tests/antunit/zip-test.xml
+
+commit 4eb128f471ee9f1188bbdb13e63a135346530fb6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 03:42:24 +0000
+
+    wrong filename
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806412 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/tests/antunit/{cpio.xml => cpio-test.xml}
+
+commit b59085fb3820e9fa4eb9bb339d0ed8e8efb45ef2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-21 03:40:38 +0000
+
+    some cpio task tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806411 13f79535-47bb-0310-9956-ffa450edef68
+
+130	0	src/tests/antunit/cpio.xml
+
+commit 33c37f3ccae548dc616c5ca135025f42f1517388
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-20 04:28:56 +0000
+
+    make tests work outside of central europe
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806051 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/tests/antunit/arentry-test.xml
+2	2	src/tests/antunit/cpioentry-test.xml
+2	2	src/tests/antunit/tarentry-test.xml
+2	2	src/tests/antunit/zipentry-test.xml
+
+commit b84356cbc1c56c897d3207dc51cb9fae97635164
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-20 04:07:49 +0000
+
+    complete property tests for archives created with native tools
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806041 13f79535-47bb-0310-9956-ffa450edef68
+
+21	0	src/tests/antunit/arentry-test.xml
+21	0	src/tests/antunit/cpioentry-test.xml
+21	0	src/tests/antunit/tarentry-test.xml
+7	0	src/tests/antunit/zipentry-test.xml
+
+commit ed9fd10ef5cf04c10b191ce603d4bdc4c122fb57
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-20 03:55:01 +0000
+
+    make sure the entry has been read when looking for uid/gid and so on
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@806036 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+2	0	src/main/org/apache/ant/compress/resources/TarResource.java
+4	0	src/main/org/apache/ant/compress/resources/ZipResource.java
+12	12	src/tests/antunit/conditions-test.xml
+0	2	src/tests/antunit/tarentry-test.xml
+
+commit 25704b2656b8ecaee84405aac55c6409cf340eca
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-19 04:25:35 +0000
+
+    timestamp tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805662 13f79535-47bb-0310-9956-ffa450edef68
+
+66	0	src/tests/antunit/conditions-test.xml
+
+commit 650a11c3c2b6c452ccb96878d3ff7e8776f15bd5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-19 04:21:10 +0000
+
+    more (failing) tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805660 13f79535-47bb-0310-9956-ffa450edef68
+
+175	13	src/tests/antunit/conditions-test.xml
+
+commit 3c90ccf8f50404b9f48e19445ebdcddcf56b00af
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-19 04:17:05 +0000
+
+    prefix and fullpath are empty strings by default
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805659 13f79535-47bb-0310-9956-ffa450edef68
+
+6	2	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 1f6e03478776c11856aea9e20af0960177aced39
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-18 04:31:32 +0000
+
+    take advantage of a ACC utility class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805274 13f79535-47bb-0310-9956-ffa450edef68
+
+2	7	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 37af1170552355f4e3af53a81b0150112588275f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-18 04:29:02 +0000
+
+    initial cut at some conditions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805273 13f79535-47bb-0310-9956-ffa450edef68
+
+21	0	src/main/org/apache/ant/compress/antlib.xml
+70	0	src/main/org/apache/ant/compress/conditions/HasGroupId.java
+69	0	src/main/org/apache/ant/compress/conditions/HasGroupName.java
+60	0	src/main/org/apache/ant/compress/conditions/HasMode.java
+70	0	src/main/org/apache/ant/compress/conditions/HasUserId.java
+69	0	src/main/org/apache/ant/compress/conditions/HasUserName.java
+75	0	src/tests/antunit/conditions-test.xml
+16	0	src/tests/antunit/tarentry-test.xml
+
+commit 44a233ae20549908eda2c35018f07c63dc65636c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-18 03:53:44 +0000
+
+    assert timestamps of archive entries
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@805269 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	src/tests/antunit/arentry-test.xml
+11	0	src/tests/antunit/cpioentry-test.xml
+12	0	src/tests/antunit/tarentry-test.xml
+12	0	src/tests/antunit/zipentry-test.xml
+
+commit ca851b3ec8563921ba300c5ebc669a75b697cebf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-17 04:31:43 +0000
+
+    create intermediate directories
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804859 13f79535-47bb-0310-9956-ffa450edef68
+
+65	15	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+4	4	src/tests/antunit/untar-test.xml
+
+commit ed7625e0e2abd3d5ab35e2ec56408a7dec529a54
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-17 04:04:22 +0000
+
+    alphasort entries before adding them - will allow directory entries to be added based on real resources rather than artifically later
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804845 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 9133b461a0dd58f957c3b2538b25e3963671b16f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-17 03:56:28 +0000
+
+    filesOnly mode for archiving tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804843 13f79535-47bb-0310-9956-ffa450edef68
+
+11	1	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 60dffcc158b3821117cf9c111858748a6dc1ff12
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-16 05:51:38 +0000
+
+    zip task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804627 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+58	0	src/main/org/apache/ant/compress/taskdefs/Zip.java
+13	1	src/tests/antunit/unzip-test.xml
+
+commit f1b24bd0a5b14f47d971b451cbd0956a48288478
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-16 05:44:27 +0000
+
+    cpio task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804625 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+1	1	src/main/org/apache/ant/compress/taskdefs/Ar.java
+72	0	src/main/org/apache/ant/compress/taskdefs/Cpio.java
+13	1	src/tests/antunit/uncpio-test.xml
+
+commit 0bfe862407d84d63da0426bc3ac952657dbfbfd7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-16 05:34:02 +0000
+
+    tiny refactoring plus ar task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804624 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+78	0	src/main/org/apache/ant/compress/taskdefs/Ar.java
+37	14	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+2	3	src/main/org/apache/ant/compress/taskdefs/Tar.java
+12	0	src/tests/antunit/unar-test.xml
+
+commit 304340441908d2b15ebe6801b09ce858d3babcfc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-15 05:57:04 +0000
+
+    rudimentary tar task that can only create new archives, doesn't create directory entries and needs a whole lot more tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804438 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+109	9	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+82	0	src/main/org/apache/ant/compress/taskdefs/Tar.java
+13	0	src/main/org/apache/ant/compress/util/ArStreamFactory.java
+12	0	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+13	1	src/main/org/apache/ant/compress/util/StreamFactory.java
+12	0	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+14	0	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+12	0	src/tests/antunit/untar-test.xml
+
+commit 469afe84de86179a019268fe3abc21cfcdc948d9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-15 04:59:10 +0000
+
+    There will be a lot of extra data to deal with when (cross-)archiving from existing archives
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804435 13f79535-47bb-0310-9956-ffa450edef68
+
+322	3	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit 4df2d0c63b68e4e152607f46df10536909e4a900
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-14 16:14:14 +0000
+
+    baby steps towards an archiving task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@804278 13f79535-47bb-0310-9956-ffa450edef68
+
+122	0	src/main/org/apache/ant/compress/taskdefs/ArchiveBase.java
+
+commit edeed4de6b1f07843a8cdb38efd9bd2d6f580ccd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-13 06:35:59 +0000
+
+    finalize interface extraction refactoring for StreamFactory
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@803792 13f79535-47bb-0310-9956-ffa450edef68
+
+12	2	src/main/org/apache/ant/compress/resources/ArFileSet.java
+0	45	src/main/org/apache/ant/compress/resources/ArScanner.java
+23	18	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+12	2	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+0	45	src/main/org/apache/ant/compress/resources/CpioScanner.java
+12	2	src/main/org/apache/ant/compress/resources/TarFileSet.java
+0	45	src/main/org/apache/ant/compress/resources/TarScanner.java
+16	18	src/main/org/apache/ant/compress/resources/ZipScanner.java
+
+commit afe0c2dbf6713f37e996e672dc1e096defd36ecd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-13 06:16:28 +0000
+
+    extract mode/uid and gid handling for single entry resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@803788 13f79535-47bb-0310-9956-ffa450edef68
+
+3	46	src/main/org/apache/ant/compress/resources/ArResource.java
+52	19	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+3	46	src/main/org/apache/ant/compress/resources/CpioResource.java
+3	37	src/main/org/apache/ant/compress/resources/TarResource.java
+3	23	src/main/org/apache/ant/compress/resources/ZipResource.java
+75	0	src/main/org/apache/ant/compress/util/EntryHelper.java
+
+commit a444e5b1fc5aab92760a2e4f18d0eaf6c79ac88f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-09 06:59:25 +0000
+
+    incomplete interface extraction refactoring
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@802496 13f79535-47bb-0310-9956-ffa450edef68
+
+4	13	src/main/org/apache/ant/compress/resources/ArResource.java
+34	14	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+4	13	src/main/org/apache/ant/compress/resources/CpioResource.java
+4	13	src/main/org/apache/ant/compress/resources/TarResource.java
+7	34	src/main/org/apache/ant/compress/resources/ZipResource.java
+12	7	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+3	17	src/main/org/apache/ant/compress/taskdefs/Unar.java
+3	16	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+3	16	src/main/org/apache/ant/compress/taskdefs/Untar.java
+7	18	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+39	0	src/main/org/apache/ant/compress/util/ArStreamFactory.java
+39	0	src/main/org/apache/ant/compress/util/CpioStreamFactory.java
+61	0	src/main/org/apache/ant/compress/util/EntryHelper.java
+40	0	src/main/org/apache/ant/compress/util/StreamFactory.java
+39	0	src/main/org/apache/ant/compress/util/TarStreamFactory.java
+39	0	src/main/org/apache/ant/compress/util/ZipStreamFactory.java
+
+commit 3b3756856f6dc66b917c94c37e6907735e1a3973
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-09 05:42:44 +0000
+
+    some real tests for filesets
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@802490 13f79535-47bb-0310-9956-ffa450edef68
+
+31	0	src/tests/antunit/arfileset-test.xml
+31	0	src/tests/antunit/cpiofileset-test.xml
+31	0	src/tests/antunit/tarfileset-test.xml
+33	4	src/tests/antunit/zipfileset-test.xml
+
+commit 5d9f7e455333b2c9b2b64badfed0704c417e2662
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-09 05:36:08 +0000
+
+    improve performance by buffereing
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@802489 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+4	1	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+
+commit 481b998e4c075a692a94060646fb39f63b715c05
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-06 20:22:36 +0000
+
+    executable?
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801811 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/main/org/apache/ant/compress/resources/ArFileSet.java
+0	0	src/main/org/apache/ant/compress/resources/ArScanner.java
+0	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+0	0	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+0	0	src/main/org/apache/ant/compress/resources/CpioScanner.java
+0	0	src/main/org/apache/ant/compress/resources/TarFileSet.java
+0	0	src/main/org/apache/ant/compress/resources/TarScanner.java
+0	0	src/tests/antunit/arentry-test.xml
+0	0	src/tests/antunit/cpioentry-test.xml
+0	0	src/tests/antunit/tarentry-test.xml
+0	0	src/tests/antunit/zipentry-test.xml
+
+commit d89434b06074a30ef4c5c6b4339ffbb62b8a3f9e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-06 20:14:47 +0000
+
+    zipfileset
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801808 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+2	1	src/main/org/apache/ant/compress/resources/ArScanner.java
+3	2	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+2	1	src/main/org/apache/ant/compress/resources/CpioScanner.java
+2	1	src/main/org/apache/ant/compress/resources/TarScanner.java
+148	0	src/main/org/apache/ant/compress/resources/ZipFileSet.java
+117	0	src/main/org/apache/ant/compress/resources/ZipScanner.java
+85	0	src/tests/antunit/zipfileset-test.xml
+
+commit 1de7b8784fa5495b33d4e4d973ef024b37e061e9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-06 20:02:06 +0000
+
+    cpiofileset
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801799 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+211	0	src/main/org/apache/ant/compress/resources/CpioFileSet.java
+44	0	src/main/org/apache/ant/compress/resources/CpioScanner.java
+39	0	src/tests/antunit/cpiofileset-test.xml
+
+commit 9d1a3ebd424263f4130947e41e447d9cad00c5af
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-06 19:56:42 +0000
+
+    arfileset
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801797 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+211	0	src/main/org/apache/ant/compress/resources/ArFileSet.java
+44	0	src/main/org/apache/ant/compress/resources/ArScanner.java
+39	0	src/tests/antunit/arfileset-test.xml
+
+commit 01240b555016222f87468b676ec62459b8e6a043
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-06 19:50:22 +0000
+
+    tarfileset
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801795 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	src/main/org/apache/ant/compress/antlib.xml
+101	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveScanner.java
+273	0	src/main/org/apache/ant/compress/resources/TarFileSet.java
+44	0	src/main/org/apache/ant/compress/resources/TarScanner.java
+39	0	src/tests/antunit/tarfileset-test.xml
+
+commit b93f02e928554ce39831178819577b7c460460b1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-05 16:20:18 +0000
+
+    zipentry resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801285 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+225	0	src/main/org/apache/ant/compress/resources/ZipResource.java
+56	0	src/tests/antunit/zipentry-test.xml
+
+commit 8b3a185e4e6a621bf1ab6e723d427a4a253f9aea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-05 16:00:13 +0000
+
+    CpioEntry resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801280 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+110	0	src/main/org/apache/ant/compress/resources/CpioResource.java
+40	0	src/tests/antunit/cpioentry-test.xml
+
+commit afa4f73f1f5fcbd961c8522ba6981f74ba954557
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-05 15:52:22 +0000
+
+    ar uses seconds since epoch (but commons compress 1.0 doesn't read it anyway)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801276 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Unar.java
+
+commit 01e782701caa81ace4d58e361d4b8e268610a190
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-05 15:51:09 +0000
+
+    ArEntry resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801274 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+110	0	src/main/org/apache/ant/compress/resources/ArResource.java
+40	0	src/tests/antunit/arentry-test.xml
+
+commit 72b20181e2df841f852edaff697cff765a309044
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-08-05 15:43:42 +0000
+
+    TarEntry resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@801271 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	src/main/org/apache/ant/compress/antlib.xml
+169	0	src/main/org/apache/ant/compress/resources/CommonsCompressArchiveResource.java
+134	0	src/main/org/apache/ant/compress/resources/TarResource.java
+56	0	src/tests/antunit/tarentry-test.xml
+
+commit b8e103bb3b12fb371ae020195028fc469c04ffd2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 20:10:29 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799734 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit ecfc946873bb0d21ac188898ceec362d385ee011
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 20:08:24 +0000
+
+    merge another test from Ant core
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799732 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/tests/antunit/unzip-test.xml
+
+commit 219698604cd7589d969973c376dcb5e60e4a7df0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 20:06:07 +0000
+
+    encoding support in unzip
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799731 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+11	2	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit 0efe955a3186f3bfd1c71d21c588c136570fd315
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 19:53:50 +0000
+
+    optimize unzip for the file case
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799721 13f79535-47bb-0310-9956-ffa450edef68
+
+44	0	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+
+commit e4b90b838724913f6efe99ae0c4f42106083db3a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 19:44:57 +0000
+
+    cpio stores time in *seconds* since epoch, not millis
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799717 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+
+commit b55bc49d2a05e8eecdd6d5ddbb3bbf3034317527
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 19:23:04 +0000
+
+    cpio stores time in seconds since epoch
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799708 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+
+commit 861fcd3161f19df2653ad4b2c0605b6e1dc5ec42
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 19:15:44 +0000
+
+    minimal unzip task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799705 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/compress/antlib.xml
+0	1	src/main/org/apache/ant/compress/taskdefs/Untar.java
+43	0	src/main/org/apache/ant/compress/taskdefs/Unzip.java
+65	0	src/tests/antunit/unzip-test.xml
+-	-	src/tests/resources/asf-logo.gif.zip
+
+commit 8a337dc56f4b9b996f6d07c55728c842f199d983
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 19:05:53 +0000
+
+    tests for unar and uncpio, ar inside zip fails and I currently don't see why
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799701 13f79535-47bb-0310-9956-ffa450edef68
+
+53	0	src/tests/antunit/unar-test.xml
+53	0	src/tests/antunit/uncpio-test.xml
+-	-	src/tests/resources/asf-logo.gif.ar
+-	-	src/tests/resources/asf-logo.gif.cpio
+
+commit fed1b58e3207ef920d780e0ce0e1857c837732fe
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 18:43:35 +0000
+
+    unar and untar, tests for untar
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799691 13f79535-47bb-0310-9956-ffa450edef68
+
+9	1	src/main/org/apache/ant/compress/antlib.xml
+44	0	src/main/org/apache/ant/compress/taskdefs/Unar.java
+44	0	src/main/org/apache/ant/compress/taskdefs/Untar.java
+35	0	src/tests/antunit/antunit-base.xml
+65	0	src/tests/antunit/untar-test.xml
+-	-	src/tests/resources/asf-logo.gif
+-	-	src/tests/resources/asf-logo.gif.tar
+
+commit d9fab1838fa499c44f744886e0121b35684fb339
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 17:42:27 +0000
+
+    extract logic common to all un* tasks
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799668 13f79535-47bb-0310-9956-ffa450edef68
+
+127	0	src/main/org/apache/ant/compress/taskdefs/ExpandBase.java
+9	92	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+
+commit 304be72777decbd29ac641cf065ae8c59fda6940
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 04:55:41 +0000
+
+    linefeeds
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799519 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 2e972d145335706cb19f7249f3cb70db31ef5706
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 04:49:29 +0000
+
+    committed the template by accident
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799518 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	NOTICE
+
+commit b799682ee1095e00fc52e2edd2f342461d150bf9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 04:48:05 +0000
+
+    initial import of a single untested task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799517 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	NOTICE
+25	0	build.xml
+42	0	changes.xml
+37	0	contributors.xml
+47	0	doap_CompressAntlib.rdf
+23	0	src/main/org/apache/ant/compress/antlib.xml
+127	0	src/main/org/apache/ant/compress/taskdefs/Uncpio.java
+15	0	version.properties
+
+commit 858c86495ceab25daffd4d1f52699ad85b6fb78b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 04:04:36 +0000
+
+    forgotten externals
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799514 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 151df1c7833003281c35ce74f8b23c60508f175c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-31 04:03:35 +0000
+
+    add trunk
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@799513 13f79535-47bb-0310-9956-ffa450edef68
+
+0	6	NOTICE
+0	19	README
+0	43	build.xml
+0	37	contributors.xml
+0	92	docs/yui.compressor.html
+-	-	lib/yuicompressor-2.3.6.jar
+0	15	libraries.properties
+0	64	src/etc/testcases/compress.xml
+0	198	src/etc/testcases/testscripts/bbc.css
+0	3549	src/etc/testcases/testscripts/jquery-1.2.6.js
+0	4320	src/etc/testcases/testscripts/prototype-1.6.0.3.js
+0	249	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+0	31	src/main/org/apache/ant/js/compressor/YUICssCompressor.java
+0	31	src/main/org/apache/ant/js/compressor/YUIJsCompressor.java
+0	33	src/main/org/apache/ant/js/compressor/antlib.xml
+
+commit 875f62f27ced7cf58cbde1531ce7b52e774afc95
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-06-06 11:46:05 +0000
+
+    -refactor, convenience classes and initial documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@782238 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	README
+92	0	docs/yui.compressor.html
+19	10	src/etc/testcases/compress.xml
+101	112	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+31	0	src/main/org/apache/ant/js/compressor/YUICssCompressor.java
+31	0	src/main/org/apache/ant/js/compressor/YUIJsCompressor.java
+27	0	src/main/org/apache/ant/js/compressor/antlib.xml
+
+commit a292c64ba0de075df362a8192c2a6186d1da9057
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-06-06 09:12:36 +0000
+
+    -added CssCompressor and css tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@782214 13f79535-47bb-0310-9956-ffa450edef68
+
+1	8	README
+6	0	src/etc/testcases/compress.xml
+198	0	src/etc/testcases/testscripts/bbc.css
+27	15	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+
+commit c1029e5d68b39290767d20cd195574bf8e04a7f5
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-06-06 08:23:33 +0000
+
+    - Refactor to use javascriptcompressor class instead of the YUICompressor Main class
+    - Usage/Examples added to README
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@782206 13f79535-47bb-0310-9956-ffa450edef68
+
+18	0	README
+81	23	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+
+commit f98b8ca84469f0512ba646d3e1848af3de52cbd6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-03-20 20:29:14 +0000
+
+    remove redundant boilerplate code from NOTICE files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@756748 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	NOTICE
+
+commit fb839449d79ea1bfb760ef9ae1e8cd9c93fc5748
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 19:20:46 +0000
+
+    -add javascripts as test cases
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730592 13f79535-47bb-0310-9956-ffa450edef68
+
+13	6	src/etc/testcases/compress.xml
+3549	0	src/etc/testcases/testscripts/jquery-1.2.6.js
+4320	0	src/etc/testcases/testscripts/prototype-1.6.0.3.js
+1	1	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+
+commit ab1498ee0878df30227fd6dcfaf85deccc604ebc
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 16:20:37 +0000
+
+    -happy new year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730562 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit f84a06e87de3838ae676351e339a138b2430abd7
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 16:07:37 +0000
+
+    -add docs directory
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730560 13f79535-47bb-0310-9956-ffa450edef68
+
+commit b607a5d28c15e8df616a3f4e79f8b28b16fa7235
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 16:06:03 +0000
+
+    -add svn:externals property
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730559 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 06557a38e2e271f5f59de2c3f955fe5e418fb476
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 16:02:22 +0000
+
+    -first commit of YUI compressor antlib
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730558 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	NOTICE
+4	0	README
+43	0	build.xml
+37	0	contributors.xml
+-	-	lib/yuicompressor-2.3.6.jar
+15	0	libraries.properties
+42	0	src/etc/testcases/compress.xml
+190	0	src/main/org/apache/ant/js/compressor/YUICompressorTask.java
+6	0	src/main/org/apache/ant/js/compressor/antlib.xml
+
+commit 2048876e9f0a32a319ba5611e8d7592803740f83
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2009-01-01 15:55:06 +0000
+
+    -creating svn file structure
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/compress/trunk@730557 13f79535-47bb-0310-9956-ffa450edef68

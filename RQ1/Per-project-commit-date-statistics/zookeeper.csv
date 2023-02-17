@@ -1,0 +1,57 @@
+commit_id,Author,Author_adress,Date
+05b215994f5e145c2758c4089828b57ba471b329,Szabolcs Bukros,szabolcs@cloudera.com,Jul-13-2022
+a7e4dea7abccff018d123d54dd5d3ccc1544484e,tison,wander4096@gmail.com,Jul-12-2022
+de7c5869d372e46af43979134d0e30b49d2319b1,tison,wander4096@gmail.com,Jun-27-2022
+b34e1716e8fa430690252288f2e15c38fe65f325,Kezhu Wang,kezhuw@gmail.com,Jun-24-2022
+794790c9f6cbacf158493867f3058a6de748b54e,Kezhu Wang,kezhuw@gmail.com,Jun-24-2022
+eb725a0d8ab4430c6ea96d1b4fedc41739aeb62b,maoling,maoling@apache.org,Jun-20-2022
+3fd25d4ebc854328ccc3f8d1c42f6e4c63a84fac,lanicc,lanettiesso@gmail.com,Jun-17-2022
+02e481cdbf1f0393d60b9f359f69b1fbe8fa84ce,vinayvinayu,vinayvinayu@gmail.com,Jun-17-2022
+7a515fee0124eea389c599995915927e49cf4c57,Enrico Olivelli,eolivelli@apache.org,Jun-1-2022
+4b1b33e72ca819258b8675948b9a80dd6290edb0,Kezhu Wang,kezhuw@gmail.com,May-24-2022
+f770467d3b1a3b088208601b14dfc3f375a4dcc0,jithin23,jithin.girish@gmail.com,May-17-2022
+6f0052d841b268a576f49c08425b49417cb2527f,Houston Putman,houston@apache.org,May-16-2022
+724864487457d6f2eb7c331ef338936e1375072b,Manu Mathew,manu.mathew@netapp.com,May-6-2022
+5b6823aea4389aa04b0a51f0c4d376002a77af9a,Brahma Reddy Battula,brahma@apache.org,May-6-2022
+aab3ff65c4daecbbf8fc3fc5369a2e456603fbb0,Ananya Singh,purpul90@gmail.com,May-6-2022
+24073884e114c6d6a14d559dd74d219bc259792b,Mohammad Arshad,arshad@apache.org,May-5-2022
+eefae2b7127d055f6eb9b4565790cd57d6d39957,Manu Mathew,manu.mathew@netapp.com,May-4-2022
+86690ff40cb5c9f5782f0971db16e8fd1c3528e6,Mohammad Arshad,arshad@apache.org,Apr-16-2022
+e5f84f46283d70b618ce00f2df51f4bfe31d9a44,Mohammad Arshad,arshad@apache.org,Apr-9-2022
+d5876e88d6bab3cc1cee04f996b9804ff21581cb,Mohammad Arshad,arshad@apache.org,Apr-8-2022
+54cb5c39a445c63967ec7c3a46724fe87908440b,Mohammad Arshad,arshad@apache.org,Apr-6-2022
+5b12b0e4eb010dca9b46047f559c6847d7e0b5f7,Kezhu Wang,kezhuw@gmail.com,Apr-5-2022
+2173c92a2b054e2fa55fd69d0d9ea892b7cc7e66,Dora Horvat,horvath.dora06@gmail.com,Apr-1-2022
+78bbb123cfcbdd8da9d118f08b49d1d00c43f53d,Edwin Hobor,edwinhobor@gmail.com,Mar-31-2022
+91e0520133b82acb87ab60962fce5eae992d87e8,Sylvain Wallez,sylvain@bluxte.net,Mar-30-2022
+d7cb4e8b7b14ea94e7ea8cd2a8e43fa7e8668132,67,67@gd67.com,Mar-29-2022
+a160981e37d2907717284ec9f6eab5e17e8aecfa,tison,wander4096@gmail.com,Mar-28-2022
+7c864336d221d7f76f18f62ab84c3e98f0a77104,deko2369,keinissy@gmail.com,Mar-21-2022
+09117f8ed850cc12eba0d6f0ed7615e7983039aa,Kezhu Wang,kezhuw@gmail.com,Mar-12-2022
+aa1d22d92dc26a587f9d55562c34ed4751e1d1bc,Enrico Olivelli,eolivelli@apache.org,Mar-8-2022
+99cb20e82743ef73db7257a3f9a4c55bc8acf037,67,67@gd67.com,Mar-4-2022
+640b6dd65fd302ada1ac46c9b8c32f17dadb0d32,Damien Diederen,ddiederen@apache.org,Mar-1-2022
+a5b6c38edd74b263638817f7b65d057c91d5a888,Mate Szalay-Beko,symat@apache.org,Mar-1-2022
+609afd1281ace4d29aabfb48628aa9eead56c4bf,tison,wander4096@gmail.com,Feb-28-2022
+3004c909b78b3056985c8e39925e14bde3baa430,Enrico Olivelli,eolivelli@apache.org,Feb-25-2022
+bce2bf42361163a2c026fb0d629edc22f2fb1c73,Shoothzj,shoothzj@gmail.com,Feb-17-2022
+48191b63dfaa4d6d71572608a31338e15f02f0fa,67,67@gd67.com,Feb-15-2022
+428e6f92132e19390c81e19f67d5380451acdbe4,Enrico Olivelli,eolivelli@apache.org,Feb-14-2022
+0b0dfe521f374bb473aebc858bdde8fc4c491f7a,Mate Szalay-Beko,symat@apache.org,Feb-11-2022
+ebcf18e52fa095773429348ce495d59c896f4a26,Enrico Olivelli,eolivelli@apache.org,Feb-4-2022
+a88eed897187e2b5e008fca766fdebb216289917,Enrico Olivelli,eolivelli@gmail.com,Feb-3-2022
+4b967902d64fea0b1b75c89df90eccee80a8c1b7,Enrico Olivelli,eolivelli@gmail.com,Feb-3-2022
+d32ec677f8fd00a367b305e1ae8abf127700511c,Brent Nash,brent.nash@crowdstrike.com,Feb-2-2022
+04c7ad115e298387e4a75dfe14013f6c6aa68a6d,Andor Molnar,andor@apache.org,Feb-1-2022
+1bdba023c19dd9616bf3cd27ce68c140a286f558,Enrico Olivelli,eolivelli@apache.org,Jan-31-2022
+b2c1b5af36a196ca2e9080750d212aa1a0550f7c,liwang,liwang@apple.com,Jan-28-2022
+d45d5df963cc3f7641d6dec2920bb22cfe8d0a76,Enrico Olivelli,eolivelli@apache.org,Jan-27-2022
+1cc1eb6a2be7323a5c326652d59a070473bb8779,Enrico Olivelli,eolivelli@apache.org,Jan-27-2022
+85551f9be5b054fa4aee0636597b12bda2ecb2e8,Andor Molnar,andor@apache.org,Jan-27-2022
+957f8fc0afbeca638f13f6fb739e49a921da2b9d,Enrico Olivelli,eolivelli@apache.org,Jan-25-2022
+7b75017bbb70c9f159b35f7399e29dc53bdc3d97,Shoothzj,shoothzj@gmail.com,Jan-22-2022
+1104deeaa589b01548bfa6c411e090e345f132f8,Enrico Olivelli,eolivelli@apache.org,Jan-8-2022
+f1da215e2ac008dc1a691f635278f9ceaa568ab9,Shoothzj,shoothzj@gmail.com,Jan-8-2022
+a43b9ef0cb2147d6a27f9285f9db02de54a0174f,epugh@opensourceconnections.com,,Jan-8-2022
+be3c3954e6bd940baf4b8d21b4b6a87a71f76ee6,Vladimir Ivic,vivic@fb.com,Jan-4-2022
+04f3d183de5543bcde7ad2f8b99ca847677f847d,Nishanth Entoor,entoor.nishanth@gamil.com,Dec-26-2021

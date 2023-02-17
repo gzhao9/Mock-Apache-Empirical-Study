@@ -1,0 +1,860 @@
+commit_id,Author,Author_adress,Date
+4cac2b00acd71acc0a2a6ee89fbf1beb315eaf32,Varun Zaver,vzaver@owlcyberdefense.com,Jun-29-2022
+d0d80b8f968e1d8a37fe2c0eb1185e2fc57a2a5e,Steve Lawrence,slawrence@apache.org,Jun-22-2022
+974921ca1c7da3dfddfc08905eb4c6e5d4469634,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2022
+c3da06cb55542fc290d3fc6286590a61785a7b4d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2022
+899fd431e9b37e0f07fe737937d665dc149003a9,Varun Zaver,vzaver@owlcyberdefense.com,May-31-2022
+0f5ebcab73bc54394e58597b6e44d36ddfbfd8ee,Steve Lawrence,slawrence@apache.org,Jun-15-2022
+6c9cc40e86cfa54eaa49f4b2f724f1a3b12e3434,Michael Beckerle,mbeckerle@apache.org,Jun-7-2022
+382d870d640995bbb05280f3f5c1c1eb854aff71,John Interrante,interran@research.ge.com,Jun-6-2022
+c81b213b02ac414a39290787cf2eea14d83fdc26,alexanderrevello,arevello@owlcyberdefense.com,Mar-7-2022
+e56c5801ebced6ab31ca3bc0f7958bb30a6a8aad,John Interrante,interran@research.ge.com,May-16-2022
+f0cf71de892249920a2c52a12258d49800a2349b,Scala Steward,me@scala-steward.org,May-14-2022
+ac3881093ef5780b4802754d4583cc27d3b4e4a3,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-13-2022
+81a05d7bda8eb07f392cbfa20425a8296b4190d3,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-4-2022
+b2c6971af55b419baa77f3fb95b693ec22a1efb2,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-28-2022
+8c89d62add9e0d101bb630ce4250b75fddb684f4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+03ad8669c5c976ed3872b8d5a4ca5397c183eced,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+ef077f65ee5249fd34a45dc94cebecafd905e444,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-14-2022
+e13933df0ffa1445f603d97b6cac1aab01d001d1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-11-2022
+3bbebe8380e5e3a709ef34391b39a89d0f101676,Scala Steward,me@scala-steward.org,Apr-8-2022
+74a4b74e8739bec7a991c4672a67dd275caf7980,Scala Steward,me@scala-steward.org,Apr-7-2022
+2239cecfca01461bb986cd78cb7af767864919ef,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-5-2022
+caaf3bdf5cc27df537e6476262fbdcc9bcf1a72c,Scala Steward,me@scala-steward.org,Mar-28-2022
+36feb3c41ef894a75ae2ebdf44a14782bc654668,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-1-2022
+06cefc0936f959b11f76cffb43796f994ce6cf11,John Interrante,interran@research.ge.com,Mar-30-2022
+eac9b9160895e61a085e3eb67ddf65683d414210,John Interrante,interran@research.ge.com,Mar-22-2022
+ad724e90b45d50f896f03f67f552bc81513640d9,Steve Lawrence,slawrence@apache.org,Mar-25-2022
+2c5310e5408f4aff44130b47d4a4e61d4853033a,John Interrante,interran@research.ge.com,Mar-22-2022
+2db8dc0bbfa501106ec4ddf7c5e63b5ee4c53961,John Interrante,interran@research.ge.com,Mar-17-2022
+613c2b0c077f56dbb425e7ebab1a2d154cbdbd06,Michael Beckerle,mbeckerle@apache.org,Mar-14-2022
+32b6b9a31e65c6dd0145c7897e266dec0cefb4ee,Michael Beckerle,mbeckerle@apache.org,Mar-14-2022
+cfcb8b935538ebfdf7d86af5d8837cb9a472a1fd,Michael Beckerle,mbeckerle@apache.org,Mar-11-2022
+14f6c99ce67f6fc58e77330b8169e66e9719607b,Michael Beckerle,mbeckerle@apache.org,Mar-10-2022
+13342156e6272e7af54304413df96716abfb2392,Michael Beckerle,mbeckerle@apache.org,Mar-10-2022
+55f638de74edfa400ce6cba1de19162069c9298a,Michael Beckerle,mbeckerle@apache.org,Mar-9-2022
+29860a6e71bcf6c0d5def1fb2df2fa28604d3752,Scala Steward,me@scala-steward.org,Mar-7-2022
+6468bf6cfbde4b7473ec03cd6e6ef4ae93366a79,Scala Steward,me@scala-steward.org,Feb-27-2022
+946ed041361e6bb14f3547512730e9c84b4626e7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-1-2022
+86b62587c4ea843d5f8264f440ef3c626114610c,Shane Dell,shanedell100@gmail.com,Mar-2-2022
+90782a21879df7994b49cb2120b2bbffacb4ce73,U-COLUMBIA\arevello,arevello@N12157207.columbia.tresys.com,Feb-22-2022
+7c2b07d76132857e0bf87ff3e2c0199f502fea78,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-24-2022
+835bb3633819e83071dad1c74861f50467c1ba7e,Scala Steward,me@scala-steward.org,Feb-19-2022
+ce4a13511218a6e3dfaccdd9de205c3779a7ddeb,Scala Steward,me@scala-steward.org,Feb-21-2022
+f3ef3b9f5a5cddaf74c04d8d3026f8b99d72cbff,Josh Adams,jadams@owlcyberdefense.com,Dec-1-2021
+e020b73e373cec2528b3f0b604e836d77ba52e4e,Scala Steward,me@scala-steward.org,Feb-18-2022
+62d7bbe69847d85c780f40855c5cfef29a5a7c23,Josh Adams,jadams@owlcyberdefense.com,Feb-17-2022
+4c62cdf901848bbac03dce7316a248bf8b8f0bbb,Steve Lawrence,slawrence@apache.org,Feb-11-2022
+2a0748d3e0a3d65dcd3b0138535a7c7d584747ae,Michael Beckerle,mbeckerle@apache.org,Feb-15-2022
+9b8065a893fe13e56397f7ddcc58dfe8441e28d9,Josh Adams,jadams@owlcyberdefense.com,Feb-14-2022
+575a4c6ff9fcadb8eff733ba693b831de4156201,Michael Beckerle,mbeckerle@apache.org,Feb-14-2022
+89672fa05b720c189c7047d35ec31f5c6f8ba2f1,Scala Steward,me@scala-steward.org,Feb-14-2022
+9043425760dae277eff36087a2e715c70793db9c,Steve Lawrence,slawrence@apache.org,Feb-2-2022
+72c0273a81f85f34f6a57f37ad08c710a7fa64c6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-11-2022
+331499562a12a741d761b518e5ae3b0838b47ba8,Steve Lawrence,slawrence@apache.org,Feb-9-2022
+3662090976b297c81937686b0efb6c378ebdc9fa,Scala Steward,me@scala-steward.org,Feb-4-2022
+e778c997bdb1f38bc27ae44b3d680804df6ee5ce,Scala Steward,me@scala-steward.org,Feb-2-2022
+33229d879007a37724f0409ee30d7307d500777c,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Jan-31-2022
+be372695f2fc1b26b8ba26e22e7f4b421df4b7a6,Scala Steward,me@scala-steward.org,Feb-1-2022
+9548825efe67fb6f0ac35d35a3c6ba07dcb23a1e,Michael Beckerle,mbeckerle@apache.org,Feb-1-2022
+cf1736eaf16a3fd3c975a841a679bacd267ad5c0,Steve Lawrence,slawrence@apache.org,Jan-31-2022
+8a71d8aef71f28fa1eb837f84cc40e153ea75ea4,Scala Steward,me@scala-steward.org,Feb-1-2022
+f63826781be4ab80513b3ede71da8ce425da2b21,Scala Steward,me@scala-steward.org,Jan-31-2022
+6e02b388dd45b54a10392d32c5d9d90c80319413,Brennan Fox,brnnnfx@users.noreply.github.com,Jan-31-2022
+dd9e836ba88c1598e8562d986ae6d63152693b64,Michael Beckerle,mbeckerle@apache.org,Jan-31-2022
+0f17d4b967636d5bdaf352f149800972a5686a0a,Scala Steward,me@scala-steward.org,Jan-27-2022
+e1c415c57c872e2c4ddb9587dab2b35240056522,Steve Lawrence,slawrence@apache.org,Jan-26-2022
+2e420f43199d878ba4f18a03b374bf37255d472d,Steve Lawrence,slawrence@apache.org,Jan-24-2022
+54ee07216996c80e74749db46200273d48da948b,Michael Beckerle,mbeckerle@apache.org,Jan-24-2022
+9a18feaa30e512f04f287f6c35f1883195d7d928,Steve Lawrence,slawrence@apache.org,Jan-24-2022
+e97739484c028460934d2ec823f831180e1e5287,Michael Beckerle,mbeckerle@apache.org,Jan-21-2022
+4cc0863e715b79a2bc0f19bc09c5c251305a9596,Steve Lawrence,slawrence@apache.org,Jan-21-2022
+f2f85e0ad516f4652ed4ed80f6dfc981f3deb684,Scala Steward,me@scala-steward.org,Jan-14-2022
+1b4adb662ce8bc052888d112ddfe18592aa70cf4,Scala Steward,me@scala-steward.org,Jan-14-2022
+d6e0c39fe036f278f8e7ad53d7a54dab4041fc92,Michael Beckerle,mbeckerle@apache.org,Jan-14-2022
+6496d2727c79c4238925502915465d6c4b0484bf,Steve Lawrence,slawrence@apache.org,Dec-27-2021
+a1e41d391ce276fa62229b8561774142c8e22408,John Interrante,interran@research.ge.com,Jan-12-2022
+ec7c41fe666ab1238b71c641bf7b4018c8f166d4,Michael Beckerle,mbeckerle@apache.org,Jan-12-2022
+59c8ef820da439e0cd7f7831652ac509ec8af0ad,Steve Lawrence,slawrence@apache.org,Jan-12-2022
+f57d70b9e5a696ae23c89ce39e4526a46e7d22d2,Scala Steward,me@scala-steward.org,Jan-11-2022
+7d8ef49a2313347bed274e77e0c7ec44e3bd68d8,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-7-2022
+10cfdd9e3e67e6a6adb90302c854f25b6c0c6607,Steve Lawrence,slawrence@apache.org,Jan-5-2022
+090cd854de9387afd977c8ee40ca0ec5a420e010,Michael Beckerle,mbeckerle@apache.org,Dec-31-2021
+557d5e57fd441d846965a952f7821dcb6e10dd1f,Scala Steward,me@scala-steward.org,Dec-30-2021
+ea4a9dd70bbb8d8a88ac514ad79da9953b1b09fb,Scala Steward,me@scala-steward.org,Dec-29-2021
+72512d9130dd3a12aa864b8cd9fe3ac56f81c32f,Scala Steward,me@scala-steward.org,Dec-29-2021
+a674dccebaecc21bfed75375a77b236bd03d4244,Scala Steward,me@scala-steward.org,Dec-26-2021
+ff56d7c198e0a7600b6413cd4231872d174c86f1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-21-2021
+13a3885fb8da28d6c8a4af55b92f92cb7d7c8dae,Scala Steward,me@scala-steward.org,Dec-21-2021
+cc5da8c884a9a4c257aa29e4f077996aa2d84826,Scala Steward,me@scala-steward.org,Dec-19-2021
+81c03618a7c42a0e87a752f9b108df74c6835be0,Michael Beckerle,mbeckerle@apache.org,Dec-22-2021
+a17cab5e19159c8aca100913688a28811afee2bf,Scala Steward,me@scala-steward.org,Dec-18-2021
+c6d3129cf05086f56675d98f6ab364b7ce18ac4e,Michael Beckerle,mbeckerle@apache.org,Dec-16-2021
+5303d86fba8e9e1d3daa36fed405e507857fde1f,Scala Steward,me@scala-steward.org,Dec-8-2021
+b48db8d7f3ad20e7df7a1452793ac49686f8e119,Michael Beckerle,mbeckerle@apache.org,Dec-15-2021
+5c7b7cb6b19f8a638885c97ef5b9b006d8d113ff,Scala Steward,me@scala-steward.org,Dec-15-2021
+2975bc62a521cb23650273887af531b33a6bc1b8,Scala Steward,me@scala-steward.org,Dec-12-2021
+4f56f1a75dc4d27abac9d20da95e5423c3633086,Scala Steward,me@scala-steward.org,Dec-13-2021
+32432c8c5c081397f05073f42507286b42997926,Scala Steward,me@scala-steward.org,Dec-10-2021
+0b72fda711a97f7c0482bbfc65f7f373f27c1e03,Scala Steward,me@scala-steward.org,Dec-10-2021
+08c5a7ba412ace8c1b5847ed6e12abe85af78ae1,John Interrante,interran@research.ge.com,Dec-9-2021
+f7dd90eab3a88af2e8de07107e2d4bd5cb18c67e,Michael Beckerle,mbeckerle@apache.org,Dec-8-2021
+178867d806d57bace29a3966d9fd6d6fda3fa235,Michael Beckerle,mbeckerle@tresys.com,Apr-20-2021
+b4f9cec512783920a78cdfbfc4610e9e10a11e5f,Steve Lawrence,slawrence@apache.org,Dec-6-2021
+1cf6f32114fa72b9f203935470f5b4e63279e26d,John Interrante,interran@research.ge.com,Dec-6-2021
+e60c49df6b861af75b900813598d0c41803b7c19,Michael Beckerle,mbeckerle@apache.org,Nov-24-2021
+ca9d31b1b89264836a80ae6cb821cb4ae64224c9,Steve Lawrence,slawrence@apache.org,Nov-29-2021
+bbf47a8a4cb4672291984a33923394083944d351,Michael Beckerle,mbeckerle@apache.org,Dec-6-2021
+0029591b643c191ea0156dd830e848e7f8a3e728,Steve Lawrence,slawrence@apache.org,Nov-30-2021
+e35bdd98b69ff6869231e276e44a262e5d4daabd,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-29-2021
+4b41444a1423fc04851e779c00943d7db4365f41,Josh Adams,jadams@owlcyberdefense.com,Nov-30-2021
+de741a51edd3b07719ecdba7fc47023be0eb1bc2,Josh Adams,jadams@owlcyberdefense.com,Nov-30-2021
+152a7f9905a1e5a4ea966026bfd599a91bfab939,Michael Beckerle,mbeckerle@apache.org,Nov-29-2021
+bf576e8be961016df11b2b3caf50e0d8f9616867,Steve Lawrence,slawrence@apache.org,Nov-29-2021
+ebe75238207e6643e47a9d674ac6174ce2ebd869,John Interrante,interran@research.ge.com,Nov-12-2021
+c8d7d1e3082815e33690d8ace2943123fab0f943,Steve Lawrence,slawrence@apache.org,Nov-4-2021
+9ff7d04134d1d564ebf9716134b4de22767de941,Scala Steward,me@scala-steward.org,Nov-21-2021
+fcae7b978704cbdf5505d5752754e040ddf5e3e8,Steve Lawrence,slawrence@apache.org,Nov-19-2021
+0e99d503a6e3519db1503f96b238bc2bffbfdfc1,Steve Lawrence,slawrence@apache.org,Nov-15-2021
+4b649da32ed677c43e1825b89ceb3d15d979d90a,Scala Steward,me@scala-steward.org,Nov-17-2021
+39c604f4176b20f9ff7a9a683d6eee0f09d659b0,John Interrante,interran@research.ge.com,Nov-5-2021
+61d59b5cbd502eb0412ec5f3e1a4c9116df71879,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-8-2021
+772826c9070dea10ac4340c321f1071bda6fd2d2,Steve Lawrence,slawrence@apache.org,Nov-8-2021
+098bb66fc44da51e7fabbc0eff178e1a7cafc8df,Min Phyo Aung,maung@owlcyberdefense.com,Nov-5-2021
+00413b7363aa834ce3af24fecd9401ada2fa272f,Scala Steward,me@scala-steward.org,Nov-6-2021
+4fd08c65ccbc88334b4be010b4258bec61e1435f,John Interrante,interran@research.ge.com,Nov-3-2021
+5140a26cf1af05dc234aa130cf1e1a0982e4d3ba,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-2-2021
+8d82b27b244c8100fb0bf672b9b2c5b86cdd39af,Scala Steward,me@scala-steward.org,Nov-2-2021
+037fb9913f8cb50c60c6e377227bc8bbd325964f,Scala Steward,me@scala-steward.org,Oct-28-2021
+6a55c57a8234055debe3efe00189907e48a36c22,Scala Steward,me@scala-steward.org,Oct-26-2021
+4ebfc4de52a98edf59bb4821d75a0003ce8092f3,Michael Beckerle,mbeckerle@apache.org,Oct-25-2021
+1e039d0c0b267d5cef7c93abad2fc6881d297893,John Interrante,interran@research.ge.com,Oct-22-2021
+070a9ae129542ff401c1ffb02ad5b106e6ea3472,Scala Steward,me@scala-steward.org,Oct-24-2021
+11095e9060745a34606a81437e46e6c6d32c1190,Steve Lawrence,slawrence@apache.org,Oct-7-2021
+bb4cc1223cac04caa20554bad06f101d8db4ef8a,Michael Beckerle,mbeckerle@apache.org,Oct-18-2021
+1b9a5120cba156333b4e46bf2549a9fe0ae594d8,Scala Steward,me@scala-steward.org,Oct-19-2021
+a1ba9620f2c4072a945ae26bc9e419be197b94c8,Scala Steward,me@scala-steward.org,Oct-14-2021
+e325ec26ae5ee55396984552f3cffd2314e2035f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Oct-15-2021
+5dea1caffebd89b91b538218dc751c7b62c63773,Steve Lawrence,slawrence@apache.org,Oct-15-2021
+60621c4be9bab1143958ffbd8bcacede3db22ec2,Scala Steward,me@scala-steward.org,Oct-14-2021
+feb9f40ae36bd3a58105e63bbeed2ef8d4f34e35,John Interrante,interran@research.ge.com,Oct-12-2021
+a7b745314de5348728b1d4a61c8b86251d52e1db,Michael Beckerle,mbeckerle@tresys.com,Sep-30-2021
+520af37167394c996b245fe47cfc0b7872005f45,Scala Steward,me@scala-steward.org,Oct-11-2021
+d7acd4bf6d4a8ab959c93733b80a45e7e854d382,Scala Steward,me@scala-steward.org,Oct-8-2021
+49860979c83fbca77183c022d3dd679e8540f7df,John Interrante,interran@research.ge.com,Oct-1-2021
+96707f373276856ff14065a202a0f11630120e60,Steve Lawrence,slawrence@apache.org,Sep-15-2021
+b82f6c9f0882bf8a538430e41e7fab10a0835813,Scala Steward,me@scala-steward.org,Oct-7-2021
+2d0bcdf164e22780ad1b5f3e3a72cff5b1a9d937,Scala Steward,me@scala-steward.org,Oct-1-2021
+30e5f636cb8a6cff7a239e6191d25fcc713d8ebf,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-29-2021
+1582d2438d66cc19e01b5685214c93f5ba5d3e7f,Scala Steward,me@scala-steward.org,Sep-28-2021
+ae0f727e392e0b424aa8db0af395deae148044e0,Michael Beckerle,mbeckerle@tresys.com,Sep-27-2021
+ae51bfb375ca3e58a963816044e6b499f5422265,Michael Beckerle,mbeckerle@tresys.com,Sep-20-2021
+af53b1631f7bd12f4fe21e41c61699f233711a31,Michael Beckerle,mbeckerle@tresys.com,Sep-20-2021
+cfe8f8e75090914906e3c55730ee6f4c447e3861,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-24-2021
+2b48c1f3ce1f39b1cce4fbf9caa6ea56316f8126,Josh Adams,jadams@owlcyberdefense.com,Sep-23-2021
+7299e51be515132b9e784b868fa9ed983e915f31,Steve Lawrence,slawrence@apache.org,Sep-23-2021
+ba35b9bcb78ce91f707f3f811debef9d5f2428b0,Steve Lawrence,slawrence@apache.org,Sep-21-2021
+256be9a24802a8972a31c8bc72ed0f48e14ba5a8,Scala Steward,me@scala-steward.org,Sep-17-2021
+6d030e3eb48b9831cc5b8b1b4ba147704c98fa8e,Scala Steward,me@scala-steward.org,Sep-15-2021
+3e95350c72b8b798aeb608a2842ebff7509e6df2,Steve Lawrence,slawrence@apache.org,Sep-16-2021
+be0c04c291ee11adb0726ec6c32e7ab9c5d1fcbb,Scala Steward,me@scala-steward.org,Sep-16-2021
+ec0ed927cd30a9dd64dbba0ce529405fa051cd25,Steve Lawrence,slawrence@apache.org,Sep-15-2021
+c6fe5adae4ecad289103221af7e6f23e1340e765,Scala Steward,me@scala-steward.org,Sep-15-2021
+26b38bf8f04f76e99af3174f6b971a65aaadef61,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-13-2021
+02e0623b245171c74677169050590cd8344e66bf,Steve Lawrence,slawrence@apache.org,Sep-2-2021
+2d399e703ed26d90e24d99aaa9cfe8a586e5fe84,Steve Lawrence,slawrence@apache.org,Sep-3-2021
+ba44472a3dfe369fd79442505f163d20d05d5ea5,Steve Lawrence,slawrence@apache.org,Sep-2-2021
+c8f9b2dce4194ebea02a24ea594139a05ef1aa3f,Scala Steward,me@scala-steward.org,Aug-27-2021
+49e3f15d2f6ef1efc761cc325ecffa790aa8d4ef,Steve Lawrence,slawrence@apache.org,Aug-25-2021
+e95d6113fe178e13507ecaca05a478b38f6d250a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-24-2021
+0354e5e3203b24ed4e55f82f27d4f08c8f7ed12b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-23-2021
+ae9ebd391aacad320917b60a34936a066acd072e,Steve Lawrence,slawrence@apache.org,Aug-17-2021
+9562efa1fbcd74161b28906f1d9799e05883fd2f,Steve Lawrence,slawrence@apache.org,Aug-18-2021
+80d4c58b9bb70ea4896a956c1cb3a83a77d83a76,Steve Lawrence,slawrence@apache.org,Aug-19-2021
+5db795978b585643907e0617942c0dcfd1d69f96,Steve Lawrence,slawrence@apache.org,Aug-19-2021
+184820342e2ed6d5f2f52d0e5cd5b82af88f7eb9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-19-2021
+51b814e5b82f6d103e9d52ff22a0661e0d7c8884,Steve Lawrence,slawrence@apache.org,Jul-8-2021
+2c71cb2f24184012b48834205136f471e90da6ac,Darryl J Smallwood,dsmallwood@tresys.com,Aug-13-2021
+392565bb940991ae7c7fa3d3a845cf1b151fc61c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-9-2021
+fbe3ac1e05bb04b8f3dd00b88cbe2a40593fed67,s0s03c5,Samarth.Sah@walmartlabs.com,Jul-29-2021
+f3f47975bc3d6c7f144e97c8fc176096e3529b7a,Min Phyo Aung,maung@owlcyberdefense.com,Jul-28-2021
+eb603e7f4a342e1a63d1e07f59c714cf531724bc,Michael Beckerle,mbeckerle@tresys.com,Jun-29-2021
+032347dfcfce47573f81b3eaac3c782d0b3b7d9f,Min Phyo Aung,maung@owlcyberdefense.com,Jul-26-2021
+85fc372a66f9393002692c2655697e5907dec9c6,Steve Lawrence,slawrence@apache.org,Jul-26-2021
+4f2b91f017e371da86fb82d36d8da3609e63b433,Scala Steward,me@scala-steward.org,Jul-23-2021
+5ee2678324d381abb1c0861a1190adcb4e4695fe,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-23-2021
+d896e28ac39f756eace135182bde084c39a11f42,Steve Lawrence,slawrence@apache.org,Jul-19-2021
+9a4a91a97b432ef44e099a23bc6180f241c50107,Scala Steward,me@scala-steward.org,Jul-21-2021
+0def910c7e46b2b5ff6727b5c8e9c3df7d4746bb,Scala Steward,me@scala-steward.org,Jul-20-2021
+43fd9e5da23d18fc2753e5e03e02a6aae8e8453c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-19-2021
+309aa836f2737a43331439da99da9a20c5547a23,Scala Steward,me@scala-steward.org,Jul-15-2021
+94276d20240cd58462b8fb102b065bab45a5a489,Scala Steward,me@scala-steward.org,Jul-13-2021
+4c96de467e8b5c68de9c7ed5fcbb2dad9da1d3c5,Scala Steward,me@scala-steward.org,Jul-12-2021
+79771216822451aba5c2931fbbd05755743f1b21,Scala Steward,me@scala-steward.org,Jul-7-2021
+bf6f9304b18a3c51b11c43e0e4146fe588eede64,Steve Lawrence,slawrence@apache.org,Jul-1-2021
+0700ee8dc9531497f3e8b0fdf9266f8e3b105c27,Steve Lawrence,slawrence@apache.org,Jun-28-2021
+25685c75ee611c73976f5ffed75686c48e6a98bf,Steve Lawrence,slawrence@apache.org,Jun-22-2021
+8e890d5576c4191ba4816d2031096dd59f529b3f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-23-2021
+f43832eb54497d41ef9b6037926aa805a7b69a62,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-23-2021
+f6125a48bf66c823899355cd0c0a48bfc8e89e1a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-23-2021
+f3ba05824fb4f7226ae895dda74b56fccf45815a,John Interrante,interran@research.ge.com,Jun-22-2021
+ddd2e45dff42b862f60ed528fb2053f9dd8b3167,s0s03c5,Samarth.Sah@walmartlabs.com,Jun-1-2021
+a447440942502891d312083de787587286f94cb6,Michael Beckerle,mbeckerle@tresys.com,Jun-16-2021
+1cdcae423648fcb775a3ab6502268666db5539d4,Scala Steward,me@scala-steward.org,Jun-13-2021
+8e731e55a4f723d7f3246deea46893fa4a46dffe,Scala Steward,me@scala-steward.org,Jun-14-2021
+e08b42fe7c27a6032eb3b1076087869f4dfd28e5,Steve Lawrence,slawrence@apache.org,Jun-11-2021
+d0cb60d38d7dbbd421470800e192ddc1e5aa5456,Scala Steward,me@scala-steward.org,Jun-11-2021
+8bcd8ef9440a890156915377bf55bf21047660dd,Steve Lawrence,slawrence@apache.org,Jun-2-2021
+368ce541d886f475f78e87272ae40ba58cd41110,Steve Lawrence,slawrence@apache.org,Jun-3-2021
+71a5fc9879b2720e04e459531c015f67572459f8,Michael Beckerle,mbeckerle@tresys.com,Jun-3-2021
+2b4c228fa6209fc0cfa81c53912a2963c84f11fa,Josh Adams,jadams@owlcyberdefense.com,May-18-2021
+b190f5a6ce210536d29298d6f04e952bf473265e,Michael Beckerle,mbeckerle@tresys.com,Jun-2-2021
+0450adab8f091ba5f19c2b4ce4b9cbbd986f032d,Steve Lawrence,slawrence@apache.org,Jun-2-2021
+cf8437e22432bc31d61ebdaafbd39c237d800afa,Michael Beckerle,mbeckerle@tresys.com,May-27-2021
+0dcdae9ed2b919071705afde0d54ed81b35c8442,Scala Steward,me@scala-steward.org,Jun-1-2021
+9bcfa07c3d52af3fb6942b6ca7963af30262d887,Scala Steward,me@scala-steward.org,May-28-2021
+c868c5a8ab20e4203469b54294e4ec35195faae9,Scala Steward,me@scala-steward.org,May-29-2021
+6f0d89f4bea7eacb91d2563ae6554422b9af1ef9,Scala Steward,me@scala-steward.org,May-26-2021
+3643e01900279cb594adb02853dd3b237e6f00ad,Scala Steward,me@scala-steward.org,May-28-2021
+62ac1047a18979bea1f5d6c668eefeaaae39d64b,Michael Beckerle,mbeckerle@tresys.com,Mar-18-2021
+41cf56f3fa27b87d90380229483092fd63b1b571,s0s03c5,Samarth.Sah@walmartlabs.com,May-4-2021
+4f2a4401a4b96677f011389a8b2111e3ad04840f,Scala Steward,me@scala-steward.org,May-21-2021
+693244761d2f1476a91311be0e3e963d9b0dc3bd,Scala Steward,me@scala-steward.org,May-20-2021
+31c6a627e1abf331f3694a175399908d4ed10adb,Michael Beckerle,mbeckerle@tresys.com,May-20-2021
+c9d3cfae34826f66552f7abcbd8114f3e153d68e,Michael Beckerle,mbeckerle@tresys.com,May-19-2021
+d2c151ff9a888bda16e73ebaca00c2dc94ad5e34,Steve Lawrence,slawrence@apache.org,May-14-2021
+45b26a254d627e24bde07ac88a1c75b514de2600,Sandeep Kumar,Sandeep.Kumar0@walmartlabs.com,May-13-2021
+09f9dcf83c65970de4dab29b733029ab509599d8,Scala Steward,me@scala-steward.org,May-14-2021
+9f04bc4bf76ea9ab981a55a9072be4a81384efb6,Scala Steward,me@scala-steward.org,May-15-2021
+fca25c9cb5d63f72802a1b48e5c6d608ec38dab0,Steve Lawrence,slawrence@apache.org,May-18-2021
+4c1d9059d175b76526d3524550ad39c44ce9b7a9,Steve Lawrence,slawrence@apache.org,May-14-2021
+331b04f34774693eb5faeaf0cc05a567da3b27e4,Steve Lawrence,slawrence@apache.org,May-12-2021
+ad105144ac9d1b0bf356ac69b16e0c727e07a457,John Interrante,interran@research.ge.com,May-10-2021
+d5ccc0b8d4538d1f64a24595afe4d58907c218b6,Scala Steward,me@scala-steward.org,May-11-2021
+de4f1449798913e08b22dd7aba4b9515b765d8d7,Scala Steward,me@scala-steward.org,May-10-2021
+dfc370868431182b843644defaa264695d8a27e1,Ian Carlson,icarlson@owlcybersecurity.com,Oct-21-2020
+8c9d41556078b3795c8b5356102eade5dc029958,Scala Steward,me@scala-steward.org,May-3-2021
+d89813113711d84076643eecd4e8be0109f043da,Scala Steward,me@scala-steward.org,May-3-2021
+c50ac5afb67446782f6b01181f358ae285b4008b,Scala Steward,me@scala-steward.org,May-4-2021
+117eecc3d19c87f8873d4c84091bf57113e9e2ad,John Interrante,interran@research.ge.com,May-5-2021
+8c95b39f5e365ae15657bcdc4686b44689b1fbb9,John Interrante,interran@research.ge.com,May-4-2021
+8771105a355fbe0aa3453c1535ff470fa5a0b591,Scala Steward,me@scala-steward.org,Mar-8-2021
+8e89a79bfdab10b7d5dcef9c11493d7327ca9e64,Scala Steward,me@scala-steward.org,May-3-2021
+a016ae6a1d59580ff050a8f7310a9f57ec874bd4,John Interrante,interran@research.ge.com,Apr-29-2021
+fcb4dc0a0722b1fea7e98c58f88464f45b07abf9,Michael Beckerle,mbeckerle@tresys.com,Apr-23-2021
+2426e7f8527c289937506178a0e65da421d999ea,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-28-2021
+d4aa276a144133021fbdfb6125512713c87e6d04,Scala Steward,me@scala-steward.org,Apr-29-2021
+1b99b3034d016017ebd825d7a1ec0603dd5143e5,Scala Steward,me@scala-steward.org,Apr-28-2021
+690ea80d702456f450884194fdcaf3714f1ddf91,Steve Lawrence,slawrence@apache.org,Apr-27-2021
+fce93164c2dd453da2d10dc9b3f684d61244c0b6,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Jan-8-2021
+1e5595c7b94d8e34636f834841763ed69b38d04e,Scala Steward,me@scala-steward.org,Apr-26-2021
+d301a9822e44dfd90522a5d7041a1262fe344f26,Scala Steward,me@scala-steward.org,Apr-22-2021
+c095446be17b604bb5494e08462cc2210f58c8e6,John Interrante,interran@research.ge.com,Sep-20-2020
+3d2a6e59c5e300bee25cb19b9d0cdcfc449982b6,Michael Beckerle,mbeckerle@tresys.com,Apr-21-2021
+a712c68786fb9ba5dbdfa6cca7b30c6bd2fb2bd0,Michael Beckerle,mbeckerle@tresys.com,Apr-20-2021
+3ea5484c1261162c0a9e9ae961c6d6d15ce9c830,John Wass,jwass3@gmail.com,Apr-17-2021
+3848cd57c69c713225e554011bccb0b5d3967b25,Michael Beckerle,mbeckerle@tresys.com,Apr-19-2021
+99c1134575d7306993a379d8a346b106bfd4ddd2,Scala Steward,me@scala-steward.org,Apr-20-2021
+9ecf0dde8a74ef0284a362436e0de656afcdeeff,Scala Steward,me@scala-steward.org,Apr-16-2021
+d9e2839b7fda1bcdd259d6a0915d1f4abda348d4,Steve Lawrence,slawrence@apache.org,Apr-15-2021
+1fcf9f70317e22df3b837c57453f9b878e587ef0,Steve Lawrence,slawrence@apache.org,Apr-13-2021
+420401bb9fb11e8ac574a6a82fb257dbb924ed61,Steve Lawrence,slawrence@apache.org,Apr-12-2021
+08c49aa91332c33037cf685d268a6df6b0e5e824,Scala Steward,me@scala-steward.org,Apr-12-2021
+04beffc77afb93e51098c78eaf33ca0c38956e5b,Josh Adams,jadams@tresys.com,Mar-15-2021
+2d701f8d11fe548fbb4ca7421379cb9b4346a1cc,Scala Steward,me@scala-steward.org,Apr-6-2021
+8a4059545382bade504ae6db16c64bf5398b47e9,Josh Adams,jadams@tresys.com,Apr-7-2021
+4ca4bee010f679b339d13c931bcaaef13e4093ec,Scala Steward,me@scala-steward.org,Apr-8-2021
+2e0586b4711a531edc654e57616e440a9235e8a5,Josh Adams,jadams@tresys.com,Apr-1-2021
+66dda260ce09c9963cbf1c8146712739f7590afc,Scala Steward,me@scala-steward.org,Mar-18-2021
+bbdc372342791b46d1b176fea7d8d3274d5d9e88,Scala Steward,me@scala-steward.org,Mar-10-2021
+abf5422a3a5740b1dec15821130349e09ac9e9da,Scala Steward,me@scala-steward.org,Apr-6-2021
+7faeb04aa17337487848f5f61141a74d7d82484b,John Wass,wassj@ctc.com,Mar-31-2021
+50326941f91e3fc65edf4765e6139fb98ddf349c,rthomas,regis.thomas@nteligen.com,Jan-25-2021
+5289f596f327f12477db29f0f3d5ca9db55db39f,Steve Lawrence,slawrence@apache.org,Mar-24-2021
+78bcc3b61ee176bba3bd98878aafba2484035aed,Michael Beckerle,mbeckerle@tresys.com,Mar-19-2021
+6aa41087d85ad66691ab8236f8db15e9ca160630,Scala Steward,me@scala-steward.org,Mar-18-2021
+1099c3dc06da03800586c387252115eb3318cd25,Scala Steward,me@scala-steward.org,Mar-8-2021
+046fb8a441216cf181c87ae9b54b7f26353b938f,Scala Steward,me@scala-steward.org,Mar-8-2021
+420f88222ff3f6fc519e08c0be3f67fb6005635b,Scala Steward,me@scala-steward.org,Mar-8-2021
+fb60b69489c93065090fd9f6c3cd51b1fe0c57d3,Scala Steward,me@scala-steward.org,Mar-8-2021
+9a40a1f9ea54d1e826b82ccc2bdb2541238a3bf6,Scala Steward,me@scala-steward.org,Mar-8-2021
+bda861ab75cab8d50c918429b30d99060bf66640,Scala Steward,me@scala-steward.org,Mar-16-2021
+995e7a4fde0e8009bbeeae950c48783b57e98d50,Scala Steward,me@scala-steward.org,Mar-17-2021
+a262b58bf403feb86ab402a94379c645095b63e7,Scala Steward,me@scala-steward.org,Mar-8-2021
+eeb24c7b648967b2f861ad9781279316103c7e50,Scala Steward,me@scala-steward.org,Mar-8-2021
+b3eccbc0c30b6531ea0a506f3cd48cf547f29785,Scala Steward,me@scala-steward.org,Mar-8-2021
+7717c20c3f20cb604b8f21ccebb40b811b73b9b6,Scala Steward,me@scala-steward.org,Mar-16-2021
+368f4a5acd0cc89ca6be3f29729b48c01be816fa,Scala Steward,me@scala-steward.org,Mar-8-2021
+d183cb297798afb7ecb51569c2552ad4b015cc61,Scala Steward,me@scala-steward.org,Mar-8-2021
+043acaa24efd47a57886f0b56a443b61b408d149,John Interrante,interran@research.ge.com,Mar-15-2021
+040927b4dcec755a1b2a9c6e021e802b5f89f9c5,Scala Steward,me@scala-steward.org,Mar-8-2021
+f1603a0da8c9610f7ade79250315a2b5db333db2,Josh Adams,jadams@tresys.com,Dec-9-2020
+6c3a89fc6fd537a1707d59e57f613e9314cfb02e,Michael Beckerle,mbeckerle@tresys.com,Mar-3-2021
+66c272b7c21117f9f4b7ed2b986ce6c1dea72102,Steve Lawrence,slawrence@apache.org,Feb-24-2021
+5177fed1058f9f5d940066520106bfdfdbd2ee1a,Steve Lawrence,slawrence@apache.org,Feb-19-2021
+8d5dbed4044f821bb1f904b3adacafa10228053c,Steve Lawrence,slawrence@apache.org,Feb-16-2021
+0a390f67a28f1f65b84b52583917beda34de1a88,Steve Lawrence,slawrence@apache.org,Feb-9-2021
+4674dee30716f1b8147e11fb47838872461bf143,Steve Lawrence,slawrence@apache.org,Feb-2-2021
+e29292b9e7e4d2e16deaaa342fc5a97176267ea6,Steve Lawrence,slawrence@apache.org,Jan-26-2021
+92a7901c6a760679917b30a309e6d1886c074305,Steve Lawrence,slawrence@apache.org,Feb-1-2021
+94e57c4ba7ab009a7fabf5e4db25389d5e5c8466,Steve Lawrence,slawrence@apache.org,Feb-1-2021
+cda1eabcab848a7e1bd0a1a30e55a1ff4a653c48,Michael Beckerle,mbeckerle@tresys.com,Feb-1-2021
+0c6d14f4e80134460bb3dd42ae204862b9e511a8,Michael Beckerle,mbeckerle@tresys.com,Jan-29-2021
+0be304dc120f5a659bf6118762ea6237b1c24263,John Wass,wassj@ctc.com,Jan-22-2021
+ed870f2fc1d919fff981f00af1687dec1ca49e1b,Michael Beckerle,mbeckerle@tresys.com,Jan-21-2021
+583a91d427ee6f055e2c1957e493452d837e25c3,John Wass,wassj@ctc.com,Jan-20-2021
+c2357f55f5bc24ff5ac0a5611ff87c15e0c36939,Steve Lawrence,slawrence@apache.org,Jan-21-2021
+b896c31a55c13178f202f68731c9baa930d0c493,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Nov-16-2020
+1ac990c8a299a8a5ecc0ae3ead5e3e5e0e25b967,Michael Beckerle,mbeckerle@tresys.com,Jan-20-2021
+40c8b799d68c94545f5a2ddc9c8753986cd168e1,Steve Lawrence,slawrence@apache.org,Jan-14-2021
+9da656836727c2e2eb049a5ea4411082d51cce25,Steve Lawrence,slawrence@apache.org,Jan-13-2021
+f5eccdb347568c335cb2c1bbd267ec235fe12893,Steve Lawrence,slawrence@apache.org,Jan-8-2021
+fb736835446f89d81057e50f30d9a8a3087f4538,Steve Lawrence,slawrence@apache.org,Dec-14-2020
+1fd854e5b09805c2489c75b08513e5be4b07b335,Josh Adams,jadams@tresys.com,Dec-14-2020
+fbefd3a2a8648e354d5c9bdcb2325bd1f84a8fb4,Josh Adams,jadams@tresys.com,Dec-7-2020
+e9d240727791964966c14a38dd7008ee8ed4ddd2,Josh Adams,jadams@tresys.com,Oct-23-2020
+09d46dc7ca664097e463842fd97bd83352479a0c,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Dec-3-2020
+7867d8e0cb99ec6b09f0e1ce0791ce850642f7f2,Steve Lawrence,slawrence@apache.org,Nov-20-2020
+d65af5b22a742a09594f277e8154dd4078cf3459,John Wass,wassj@ctc.com,Nov-22-2020
+7037de42e28cf9cb48d2275f9ce3409a00e57e08,Michael Beckerle,mbeckerle@tresys.com,Nov-18-2020
+ab8654e8efffe87ac7e224edaca4c6954d40b9a8,Steve Lawrence,slawrence@apache.org,Nov-20-2020
+cbb3de60dd1f5fc9b2b18dcbbafb8598715cbfeb,Steve Lawrence,slawrence@apache.org,Nov-11-2020
+064d7b8655137da437a973331b7c99b039711b80,Steve Lawrence,slawrence@apache.org,Nov-6-2020
+853a5f27ab2e4287b63dbad746a0e883ec67a2c7,Steve Lawrence,slawrence@apache.org,Nov-12-2020
+0eba8b874c6b31ecefd3e30880f184500cf69332,Steve Lawrence,slawrence@apache.org,Nov-16-2020
+c38a551f353aed53479c60d38c4929743f82daf7,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Nov-6-2020
+81792fa3a45b1b5f3cd92a4b3a77ee7e569646e1,John Wass,wassj@ctc.com,Nov-5-2020
+e6d7f313fade0ef357c92e2df8fbe5ca173ed348,Steve Lawrence,slawrence@apache.org,Nov-11-2020
+32daf6dc34c3cd8b3cc69b93defd45bfadc5bfe5,Steve Lawrence,slawrence@apache.org,Oct-26-2020
+be0999901e5510aa4171e387a1ae170af047ce7b,Steve Lawrence,slawrence@apache.org,Oct-28-2020
+ebd1af445b9c9892481d50bdd2f094eec4f503db,Steve Lawrence,slawrence@apache.org,Oct-14-2020
+1b84e9e7d6aff9d1339dd39c86719bb0e5e25c4b,Josh Adams,jadams@tresys.com,Oct-26-2020
+ba182dd12e122e4910f845409c8558e3b5765a85,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Sep-29-2020
+55c220683b0fc442586044e3b84f83919f76a19b,Steve Lawrence,slawrence@apache.org,Oct-23-2020
+0391ba1345521ce2119833391428a626728b7df3,Shashi Ramaka,sramaka@tresys.com,Oct-21-2020
+d0f9a2fae7ccc2e0af169e5f98037038391e2bb5,Shashi Ramaka,sramaka@tresys.com,Oct-18-2020
+455f45a8e04b0bde54d2a5ebb31afdd00c37f168,Josh Adams,jadams@tresys.com,Jul-31-2020
+bc4526448d52359faed40e9b5ee3e8e8924e1797,Michael Beckerle,mbeckerle@tresys.com,Oct-21-2020
+ed9e35c55e0ed75abab36e7d50217b937e6d4c1e,Chia-Hung Lin,clin4j@googlemail.com,Oct-18-2020
+45934b73fbbeab65594165406cee85e744a25ca2,Steve Lawrence,slawrence@apache.org,Oct-15-2020
+154e6a1d8d96de8c8ecfb267cc8ccc6e6321cef9,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Oct-15-2020
+8433eb6a12496a74326100b7e658564ab8037bb9,Steve Lawrence,slawrence@apache.org,Oct-14-2020
+9e1b24ab7a04e9cac387d3ca14cf11eb4d8e5689,--global,--global,Oct-14-2020
+1038ecb1266632855fb1d1b513d4c8f0437ece7d,Josh Adams,jadams@tresys.com,Oct-13-2020
+2ef55d50e5582e78e59fb9f0461ac0c90bc54785,John Wass,wassj@ctc.com,Oct-13-2020
+bfe0a9d03efb41224ed5b4a5324eb31a23fb3709,Steve Lawrence,slawrence@apache.org,Sep-30-2020
+565712f05ff94bc232695b7310389f9de8f03a8e,Steinberger,rsteinberger@tresys.com,Sep-4-2020
+3b2a45730e902550b40c4628309faf9cad3cde24,Steve Lawrence,slawrence@apache.org,Sep-30-2020
+b6321eec287d753fb6ac876f36d071c1199318d5,John Interrante,interran@research.ge.com,Oct-3-2020
+82028c1ae85fd2461e633450cf9b13be4292e066,Steinberger,rsteinberger@tresys.com,Sep-4-2020
+d3b635062a396e91f3373b874808e5fce22a5967,IanCarlsonOwl,icarlson@tresys.com,Sep-28-2020
+7625d4273cdfe05523096780c40be5c4713f2863,Steinberger,rsteinberger@tresys.com,Sep-28-2020
+10f4714c1f67d1e984676034924b4c7ddbef35f8,Ian Carlson,icarlson@owlcyberdefense.com,Sep-23-2020
+187b3b245efc726c439325686146e0778ab5f9ea,Ian Carlson,icarlson@owlcyberdefense.com,Sep-11-2020
+86288209122994fa7d1de4a39574e286a3f354d0,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Aug-6-2020
+f5b45a1a7bcea3a22f32401b4db21618edad07c8,Steve Lawrence,slawrence@apache.org,Sep-9-2020
+d3c5850d0394fff75ebf3680a5015cbd207cc331,Steinberger,rsteinberger@tresys.com,Sep-11-2020
+60675a371ec7beb51e0b606e41f12346533952ed,Steve Lawrence,slawrence@apache.org,Sep-11-2020
+10d5e2a16660a0a5a4671513b2dbafe84989658d,Steinberger,rsteinberger@tresys.com,Sep-11-2020
+e55998a4305040157d5417d9117fc60b28947ce7,Steinberger,rsteinberger@tresys.com,Aug-21-2020
+8afd9727f53f99cb1e7f21f08769be8727b73989,Steinberger,rsteinberger@tresys.com,Aug-28-2020
+b0f59ef7c8b3a1088183c40691df7f3fd10ff864,Steve Lawrence,slawrence@apache.org,Aug-13-2020
+5061ed004f9206f2287a3186dfa40684c2d84e5e,Steve Lawrence,slawrence@apache.org,Sep-1-2020
+6471d1e95a9f4a23855b45acbfaf3b510d3b7358,Steinberger,rsteinberger@tresys.com,Aug-25-2020
+0adb436a4c1957d44b96daaba1d2aac9bc53a935,Steinberger,rsteinberger@tresys.com,Aug-25-2020
+1763fb2d13eba1df5dacb44c560bd24010f35881,Steve Lawrence,slawrence@apache.org,Aug-11-2020
+cf57e0d04ed7414081febb0992e6ebdbb6cd708d,Josh Adams,jadams@tresys.com,Aug-5-2020
+c79df5405d4ec5cc6bc994d764f8097fb2e2e746,Michael Beckerle,mbeckerle@tresys.com,Jul-30-2020
+779e9803ba7708d700c0205cbd690a179841b084,Josh Adams,jadams@tresys.com,Jul-27-2020
+38f6f3d3bf34d7945e44164400d875f6d8c5d7a6,Josh Adams,jadams@tresys.com,Jul-24-2020
+16f70fb2027eec5b30af75fd011669dad2a3b808,Steve Lawrence,slawrence@apache.org,Jul-16-2020
+13f7f5757ff4600a2931db435194cc32c280d8d1,Steve Lawrence,slawrence@apache.org,Jul-16-2020
+92d2036e3dfd818edf01843a5e5aa1117181712b,Andrew Chafos,andrewjchafos@gmail.com,Jul-16-2020
+c7d08c2de7d72aaef18097a2ad87b6eca1c609c1,Steve Lawrence,slawrence@apache.org,Jul-14-2020
+96582bb9f737248becb763c0613e10d465ba5e15,Michael Beckerle,mbeckerle@tresys.com,Jul-10-2020
+e74162d7dba3c5d49fbe98f65b08854d78fcd170,Michael Beckerle,mbeckerle@tresys.com,Jul-9-2020
+0ddaea2c29bbed35e2a4e62233545bb9357db68d,Steve Lawrence,slawrence@apache.org,Jun-25-2020
+f585bfabccc7699197fc2b44fc9be017c52414be,John Wass,wassj@ctc.com,Jun-26-2020
+5a8bb80cad07daffbb33100eca23912dc9ff782e,Michael Beckerle,mbeckerle@tresys.com,Jun-23-2020
+0f9a0b6841cb4dfc2fdb429f9cf87cebf872111b,Michael Beckerle,mbeckerle@tresys.com,Jun-23-2020
+67f5fb010432dc27d97a90a1c11382d517470edb,Steve Lawrence,slawrence@apache.org,Jun-19-2020
+492e04808d048766eeff45564e1253c341717b4f,Josh Adams,jadams@tresys.com,Jun-16-2020
+2d8eba2cd8dcb39c9d04ba530d92ec4ecb05f23b,claude.mamo,claude.mamo@gmail.com,Jun-17-2020
+c9ca5d6665d2d17fe637b13595a8b244584fd977,John Wass,wassj@ctc.com,Jun-18-2020
+03a2a5b5e16885cd58812f86a5a8e4aa0e2dbe91,John Interrante,interran@research.ge.com,May-22-2020
+d297545319b72eef9adcb0fe2585bc0d059ee985,John Interrante,interran@research.ge.com,May-18-2020
+92de5ff6c75be0558edc3fe767c8d591688f425c,Josh Adams,jadams@tresys.com,May-14-2020
+2de4ea13757d50d8dbfeed0666cb62ffd2710b71,Josh Adams,jadams@tresys.com,May-6-2020
+be3b714fab3e01d270b083e8853f821ea2f45fe0,Michael Beckerle,mbeckerle@tresys.com,May-11-2020
+dab55975d6bb0e252b068cb97818253dcffcc141,Michael Beckerle,mbeckerle@tresys.com,Jun-21-2019
+b8c15895e0eb6c7dba7eb7a9f57415313e46fa65,Michael Beckerle,mbeckerle@tresys.com,May-12-2020
+f5d8d713f6e1a93b175eb338ae4e3a0c3f6b63c7,Michael Beckerle,mbeckerle@tresys.com,May-12-2020
+56fe8fee1af3bb6ba885fcf638e13ceb39fa257b,Josh Adams,jadams@tresys.com,May-5-2020
+494ee9248568ff9d9ad6be017fa0f941f22afca9,John Interrante,interran@research.ge.com,Apr-25-2020
+839d44ae371071ed3738c5d93b4ac605b6295cd0,Josh Adams,jadams@tresys.com,May-1-2020
+c91cc4219a66e6be5b814dac8ce5a683a12c3b96,John Interrante,interran@research.ge.com,Apr-27-2020
+dd499070049b91fb8d859ac8d44fd0be088c985c,Josh Adams,jadams@tresys.com,Apr-13-2020
+120f2e618f63a2aca3574eb33fa7a2cd4a7c77f6,Josh Adams,jadams@tresys.com,Apr-28-2020
+15c813b90b1b86fb111536994901e50a9050eae2,Steve Lawrence,slawrence@apache.org,Apr-27-2020
+5acd1777e88245626cea77ea8ce3e7df80c0fdad,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-22-2020
+17a381f08a0dd77fd423c87a23625870382d9ca3,John Interrante,interran@research.ge.com,Apr-17-2020
+29b2cd5106706f3919d0d61829d42f3b65f8ae61,Michael Beckerle,mbeckerle@tresys.com,Apr-18-2020
+bfc53a4aa7575983b2599b87efd260b5a967c169,Michael Beckerle,mbeckerle@tresys.com,Apr-22-2020
+ca9353ffea9a9edf3bd266ec2d0a966b0849a387,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-17-2020
+7be19a16eaf6a50cb22dd03f75ac16eee208b663,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-17-2020
+5e63af1f5e0cd268b84e9de9735baac19310aeff,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-16-2020
+075ed018d786d332deddc5e20169939f95470fef,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-14-2020
+2f407aed4e9f47863202c3e99ac328c074a1d351,Steve Lawrence,slawrence@apache.org,Apr-24-2020
+c6baec9c59bf220e8c97997b7571c1cab9e089f1,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+df0780eee240a64a2d528e5019167ba9f3db5c0a,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+694a4baa3d4ec0527eca5cc727b92735b2221101,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+1c037798c0a358bd39ef5a3349c4efe2196f6ea8,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+59a1f71d49f3f48bd2b84c91bcc1429d246c4d47,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-8-2020
+5667f29cd9f45e13783a6ccbfdeb07bcf6847869,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+b1220c868450841deb0bfa5fa2274dffba7e42bb,Steve Lawrence,slawrence@apache.org,Apr-8-2020
+e42d45e31a03418ec953dcfc54fb334aa9476de1,Steve Lawrence,slawrence@apache.org,Apr-6-2020
+7c50548f2ee9ea3a22798d64d52b389623ca9afb,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-6-2020
+750d57e347b523a66e56bf3c7617ee022a064945,Michael Beckerle,mbeckerle@tresys.com,Apr-6-2020
+3078bd0c9aa9b2538fb7f6186cb10f9388c605d5,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-3-2020
+6ab6a4da7768d13ebbaddf029f0341bac7ec5337,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-3-2020
+8007671c9b78470cc7365ead09783897f72c172d,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Apr-1-2020
+73a1c5b2d0752c648d8b51ac51a00e44112dab04,Michael Beckerle,mbeckerle@tresys.com,Apr-1-2020
+bf333ad77d96531ccffaa04d6851e1ce1376ecb5,Michael Beckerle,mbeckerle@tresys.com,Mar-27-2020
+cbb92453a2f6693cd4c9aae8884276d466bc25bc,Steve Lawrence,slawrence@apache.org,Mar-31-2020
+ba2e006a9556f4f3cfde8ffe377f476519b4806b,Kurt Baumann (E518309),kurt.baumann@sbb.ch,Mar-27-2020
+d9330b77ec0d2c563321f91ddf861debd004997f,Steve Lawrence,slawrence@apache.org,Mar-27-2020
+c08b802206c0495b7b03b71d428d738286725568,Steve Lawrence,slawrence@apache.org,Mar-26-2020
+cbdf30fbc9c447581218fb0df51cf0912d0dc757,Steve Lawrence,slawrence@apache.org,Mar-26-2020
+0e7191ec0afbf7ea44a7dd6018fe921f574591f6,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Mar-25-2020
+c43887d3976e628e0eb75ba1846dce0676d0ceec,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Mar-4-2020
+f4dbacafd66bc68fb1ec4425ef67a35ac58855b7,Steve Lawrence,slawrence@apache.org,Mar-23-2020
+b1d4c5412db985ecfdbb6fa6c860f8205991b902,Steve Lawrence,slawrence@apache.org,Mar-24-2020
+f2b12718e0329ecd7dc4aac01e888426cc514ea2,Steve Lawrence,slawrence@apache.org,Mar-24-2020
+5b4abd8447a6eef642587b1cae35c6853fc746f5,Steve Lawrence,slawrence@apache.org,Mar-20-2020
+30b4e812c94f66f110c043c747cffe8e6b367c31,Steve Lawrence,slawrence@apache.org,Mar-17-2020
+356291c3f5cbd82832bc68f7f573b292a46feb3d,Michael Beckerle,mbeckerle@tresys.com,Mar-19-2020
+126789891ed5e834037198e5aa59e1f6b34dcb04,Steve Lawrence,slawrence@apache.org,Mar-9-2020
+5516f2542e5d75174b9e2fd417a7a99ebbd0bc3c,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Mar-4-2020
+2b60d54cc751672d234893e32f03a4076b0d9f0a,Steve Lawrence,slawrence@apache.org,Feb-3-2020
+f2e0fd92fb7f8a44fa4c2c27e458a89e10e8d0d1,Steve Lawrence,slawrence@apache.org,Feb-21-2020
+e7ad02c87c428f25720616ff1ba162f1cc3b85ed,Gezapeti Cseh,gezapeti@apache.org,Mar-1-2020
+f53b9a83f0c89807f25f986966dbeb4b0f9567b7,Michael Beckerle,mbeckerle@tresys.com,Feb-27-2020
+669c702e13c2c1d101fb4da665095b15aa0c5bac,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Feb-7-2020
+7e8e1b3ed110efe939908cdf1e12df50d1f86527,Michael Beckerle,mbeckerle@tresys.com,Feb-13-2020
+a6c563bddfc00f9cf65b8bec4799c8c37c2c6818,Steve Lawrence,slawrence@apache.org,Feb-10-2020
+f0242e1b2af50e555e3ffdd34c9dfcead6e16866,Michael Beckerle,mbeckerle@tresys.com,Feb-5-2020
+f3eee732f1f5535d0177877720c4fe9f39bc3327,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Feb-3-2020
+aeafeccb4482a9c39ab7a0026060f8c6b2d7ab92,Steve Lawrence,slawrence@apache.org,Jan-31-2020
+f388c5a0da8ee609cce236bb6e69914168c1f1a2,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Jan-28-2020
+143731d692363e0a315c560abc3d62060ae3bb86,Steve Lawrence,slawrence@apache.org,Jan-21-2020
+02e65048052a40dc5fb6ea729a7361a8e39cc8e6,Steve Lawrence,slawrence@apache.org,Jan-13-2020
+0ba8cfd1efb73be42d3ffb472dd26daf6b526946,Steve Lawrence,slawrence@apache.org,Jan-13-2020
+265fc9d1c3a43f8ee270cbd6c6035dfbcc0071cc,Steve Lawrence,slawrence@apache.org,Dec-18-2019
+d0a25d2fc43d3b2789d6da14419049be2b06aa56,Steve Lawrence,slawrence@apache.org,Jan-2-2020
+de17bbbdf0a2b4b2b881ccd0aa61ae624736f94d,Steve Lawrence,slawrence@apache.org,Jan-3-2020
+46f0cb3cc893fc1961f49a75bd18bb891fc979d4,Steve Lawrence,slawrence@apache.org,Jan-2-2020
+03364e0a0dc49b13d2d21572069aff2537ea8e84,Josh Adams,jadams@tresys.com,Dec-31-2019
+26742ccffed2c9c3d83ff792c3978d8a168fc310,Josh Adams,jadams@tresys.com,Dec-30-2019
+1bdf1cdf69e1a48e45817be9bf2114592b8e290f,Michael Beckerle,mbeckerle@tresys.com,Dec-26-2019
+5e3bfc9c2089a1c1e7fdf0645e0e44a825db6b72,Steve Lawrence,slawrence@apache.org,Dec-20-2019
+7d96b4cbae3949f266674da0a44e4909f565759f,Steve Lawrence,slawrence@apache.org,Dec-20-2019
+48bb02292b6a8edc36b6e4be09b478d5160e8f4c,Brandon Sloane,bsloane@tresys.com,Dec-19-2019
+3808610cd1354f395337b9e37116fb096b579dde,Brandon Sloane,bsloane@tresys.com,Dec-16-2019
+eb7e0403baa097328c7f75eabaef292ac0092bcc,Brandon Sloane,btsloane@verizon.net,Jul-23-2019
+e9526842a0165a6454df0050fff5ce6c4590fd91,Steve Lawrence,slawrence@apache.org,Dec-12-2019
+ab8fe7802ba62924ba096bf6d2c94951c69e1da4,Michael Beckerle,mbeckerle@tresys.com,Dec-6-2019
+9c262fdce1bdc1cd2a62b0668c9ac763e556494a,Steve Lawrence,slawrence@apache.org,Dec-13-2019
+a31900c8ed0c9e1a4f9fb88967fe892c77fe6393,Michael Beckerle,mbeckerle@tresys.com,Nov-8-2019
+afc903330bc91bd2125ba2b5c7449ec45a2cdb69,Josh Adams,jadams@tresys.com,Nov-11-2019
+8f4563bbd710180ababd8466565d16891ecbd63f,Michael Beckerle,mbeckerle@tresys.com,Dec-3-2019
+aed324f8906f5c73937a5ce87b4778fc37ae111c,Michael Beckerle,mbeckerle@tresys.com,Nov-22-2019
+5cd7ea2f0b5a82825887e01f04bff769abfb992a,Michael Beckerle,mbeckerle@tresys.com,Nov-27-2019
+5ec6b1c8732d02224796adcb25be19f4a0225c7f,Michael Beckerle,mbeckerle@tresys.com,Nov-8-2019
+a098134a4c33bd5052f39cd5030d16f2db5dd591,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Nov-20-2019
+5ec9ba9af71c6d89368d132d31ad0958bac0e6b4,Michael Beckerle,mbeckerle@tresys.com,Nov-13-2019
+b776f9617657be0d1ccf9aefc53e21eb12ed14cc,Steve Lawrence,slawrence@apache.org,Oct-30-2019
+a819f28d29c50ae3e342f11daaf45a7311d2297c,Michael Beckerle,mbeckerle@tresys.com,Nov-6-2019
+83e59c1f392d443f20efebf10bd367500e71069a,Michael Beckerle,mbeckerle@tresys.com,Nov-5-2019
+734d08188d4805e9bf497905ba3c65da2fb75c66,Michael Beckerle,mbeckerle@tresys.com,Nov-5-2019
+219953796ac2c74d319cddc6541e8393b7d7c869,Michael Beckerle,mbeckerle@tresys.com,Nov-5-2019
+b088d2edab3e5f12e5ab75efcab38224abddad96,Michael Beckerle,mbeckerle@tresys.com,Nov-5-2019
+fc66e48df9ec056391cb2a5fab6c7df411b7eb2d,Michael Beckerle,mbeckerle@tresys.com,Nov-5-2019
+3ef2420c95e74bec3d8328377957e37d5ed5c3da,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Nov-6-2019
+400aff38529f5daf432e5436dd1a1ea747e6fc54,Michael Beckerle,mbeckerle@tresys.com,Nov-6-2019
+fd6007ab5c2e326daca225136344ee09a37f0516,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Nov-5-2019
+1b1483c26584e9f8eda0be760b8e351171181d88,Michael Beckerle,mbeckerle@tresys.com,Oct-10-2019
+1868257f306572512b6d000150508b60dec3ff0a,Josh Adams,jadams@tresys.com,Oct-31-2019
+f7d483c2e467dbc963ba9e1863da29643dfc9c55,Steve Lawrence,slawrence@apache.org,Oct-31-2019
+e64ddbd85d2ee7c4b83ea4d45d403d0ba162639c,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Sep-19-2019
+04fef21c6192ab89288e038ff33455e11968a5b1,Michael Beckerle,mbeckerle@tresys.com,Oct-17-2019
+08cb436e269a93ad04c35ca1a581d669cc8b4945,Steve Lawrence,slawrence@apache.org,Oct-15-2019
+7d6b72ea08beb00fc11c0f29023895c10b3551be,Josh Adams,jadams@tresys.com,Oct-11-2019
+756f0670e4435ef7498b060bcc41d44d13a9df7f,Michael Beckerle,mbeckerle@tresys.com,Oct-10-2019
+1a76b5e102554cd7d9c55788d82fcf4789a9f1a7,Michael Beckerle,mbeckerle@tresys.com,Oct-10-2019
+53c68f9eea6495717a8edbbdfffbba55da31ae62,olabusayoT,50379531+olabusayoT@users.noreply.github.com,Oct-2-2019
+1191a78a4901be282e3b7ad385dde486142c713a,Josh Adams,jadams@tresys.com,Oct-3-2019
+e23ed924e1aab5a378c6b6686064577befceb82c,Josh Adams,jadams@tresys.com,Jul-11-2019
+9c5a6b1d352939aeb6cd0e4ff09b7f2d1f53dea3,Michael Beckerle,mbeckerle@tresys.com,Sep-25-2019
+856938733a27c997c6e9e3e79de85d4c4bc0dc09,dchitlangia,dineshchitlangia@gmail.com,Sep-21-2019
+5f167e3685d35959055e92acdecab9c9959c3e7b,Michael Beckerle,mbeckerle@tresys.com,Sep-17-2019
+5c95833b59e4f6b8ba90de24aa006f7a48506c43,Michael Beckerle,mbeckerle@tresys.com,Sep-6-2019
+9de0d1a3c3d294600d5c769243efe4f67b03bac1,Steve Lawrence,slawrence@apache.org,Aug-15-2019
+ebee69f3362b6d418a501927c5f0faaf794c75ef,Steve Lawrence,slawrence@apache.org,Aug-20-2019
+d3e8f82cebad4a6dea51c75759a5ece0a09fc289,Michael Beckerle,mbeckerle@tresys.com,Jul-18-2019
+7a80dca8a72849bc4e2b417b384c9667cd5f33bf,Olabusayo Kilo,okilo@tresys.com,Jul-10-2019
+8555e25b14555b0ff4f271ea1170083a8d6c1a13,Olabusayo Kilo,okilo@tresys.com,Jul-9-2019
+ae3fba0a08cb9a88a3ca82eb4cd2dd803bb38f17,Michael Beckerle,mbeckerle@tresys.com,Jun-28-2019
+351c746268effc19cd07635be007c96ebabe4186,Steve Lawrence,slawrence@apache.org,Jul-12-2019
+29974f9beeda5a4cc742d386569d29b076b0f38a,Olabusayo Kilo,okilo@tresys.com,Jul-2-2019
+aa844ad14a8c7a238987b7347e510132460af57b,Steve Lawrence,slawrence@apache.org,Jul-2-2019
+100ec3f4177cdf132919532e7107e3503653fe0b,Brandon Sloane,bsloane@tresys.com,Jun-26-2019
+a7c890167f7b5d38cfbab33a4c47d902757293ea,Brandon Sloane,bsloane@tresys.com,Jun-7-2019
+4b17550d26f73ae3ff168e1297b74f2b6374fb88,Steve Lawrence,slawrence@apache.org,Jun-27-2019
+f4c1a822f26570adf2d6e7412c95e1795aff68cb,Olabusayo Kilo,okilo@tresys.com,Jun-27-2019
+ef04704c8fe58a543bb71f889ca15ce03d4722f0,Olabusayo Kilo,okilo@tresys.com,Jun-28-2019
+efa1613a04dd51169d5e7c3d884a640f073f09c0,Brandon Sloane,bsloane@tresys.com,Jun-19-2019
+6f6b65c5988562af04a847ad4722aeb00a1cadac,Brandon Sloane,bsloane@tresys.com,Jun-24-2019
+5b7230c48ee532df13dae07287c8775e3a861655,Olabusayo Kilo,okilo@tresys.com,Jun-26-2019
+3a837fd88d134a2fe3026c942e15558cf491b2ff,Steve Lawrence,slawrence@apache.org,Jun-26-2019
+b988b7e0d1840390c36117b64ebd5d3ef653d0bc,Steve Lawrence,slawrence@apache.org,Jun-25-2019
+ad83748e95d17ecb1b8633d2bf3f117cb32dac2d,Steve Lawrence,slawrence@apache.org,Jun-25-2019
+a0a14de0a9a589953236ac8454c62b5708ed465f,Steve Lawrence,slawrence@apache.org,Jun-26-2019
+3e4657059e2c351681a11bc71ac49b9a4684f0ca,Steve Lawrence,slawrence@apache.org,Jun-21-2019
+947c3ec108fd3159c3fbdfdb23440c1cc5c66475,Brandon Sloane,bsloane@tresys.com,Jun-20-2019
+55ab6a4de262003abf5f20d1a66776f8b8b7f487,Olabusayo Kilo,okilo@tresys.com,Jun-20-2019
+247da210d7cf68065e997be02ecab3c6b15501a9,Michael Beckerle,mbeckerle@tresys.com,Jun-20-2019
+7c8d01a1e9dec12c3dbba1a023696c5482bca9c9,Michael Beckerle,mbeckerle@tresys.com,Jun-19-2019
+113015f72bc675d0f9368f46999afdd24625ea46,Olabusayo Kilo,okilo@tresys.com,Jun-19-2019
+427f4e1a18c3fe0e30b44546f87c1cc5cbbf39d7,Olabusayo Kilo,okilo@tresys.com,Jun-18-2019
+826844a408f905ec68f28ea26256ca8fe4f11c66,Michael Beckerle,mbeckerle@tresys.com,Jun-18-2019
+707d8b8a6ddac02821d4d94b92e401cae5438780,Michael Beckerle,mbeckerle@tresys.com,Jun-18-2019
+1c7a23ddc1056a8df1e8fd590aba890224a44c27,Brandon Sloane,bsloane@tresys.com,Jun-18-2019
+b8338d7c7f56f335a25d945da0824529c126af6c,Steve Lawrence,slawrence@apache.org,Jun-11-2019
+015891ff982144ab07f092a25ab133707a9a31e9,Michael Beckerle,mbeckerle@tresys.com,Jun-3-2019
+d4ec7d9dd99ca163d8403c0b99770006aaba379b,Steve Lawrence,slawrence@apache.org,Jun-13-2019
+6a0cadbb5d7fe784b9c1740f0554be7b3f21f230,Steve Lawrence,slawrence@apache.org,Jun-11-2019
+db7b779ff6ce915a0f7c5f84d399f5b5027b2849,Steve Lawrence,slawrence@apache.org,Jun-11-2019
+f840372b780d59506196fa895a4c5190ac767ec2,Brandon Sloane,bsloane@tresys.com,Jun-7-2019
+4413ed755ef6ae80b209e0f7a2aa486d836883a7,Steve Lawrence,slawrence@apache.org,Jun-7-2019
+1ccb8c82bf4c1a6bddc8020a6c0f571efd2c4af3,Michael Beckerle,mbeckerle@tresys.com,Jun-1-2019
+2ec2bee17c7d0d85eaffefc268a974d1844d265b,Josh Adams,jadams@tresys.com,May-13-2019
+821b62d4180806973edd3fb3dce6bba56e24e000,Brandon Sloane,bsloane@tresys.com,Jun-6-2019
+fea8c7c0485d7432a832c4b60479f15bb3f37e26,Brandon Sloane,bsloane@tresys.com,Jun-3-2019
+6aacf32fa53cb5618da74bd24f05b1e2bb5238e2,Michael Beckerle,mbeckerle@tresys.com,May-30-2019
+db7b1eac516c3de16fe58d87804ec799fac382a5,Steve Lawrence,slawrence@apache.org,May-15-2019
+f298aebad96a2e0f2cd4bc331055e77a5bd4701c,Michael Beckerle,mbeckerle@tresys.com,Apr-8-2019
+bb4d96556269d04faf7c5029451f57b0fea8a7cb,Michael Beckerle,mbeckerle@tresys.com,May-24-2019
+6ac13f438f5b343f044b5216cfea4cb64e92fa86,Michael Beckerle,mbeckerle@tresys.com,May-23-2019
+f770c834bc7f0fdc5724284006b8074df5a6876e,Michael Beckerle,mbeckerle@tresys.com,May-24-2019
+53d6b4f342140f9a807ee1ca087dbeaf0367ade7,Michael Beckerle,mbeckerle@tresys.com,Dec-13-2018
+c8b4d91b911e96adccb80bdf716c2d72a0df2f83,Steve Lawrence,slawrence@apache.org,May-16-2019
+5e47a9b21b3693f862f71259e0006df77fe46b80,Brandon Sloane,bsloane@tresys.com,Mar-14-2019
+8bb1aa2b1c9d2b2e00cf07de6b449805a2fd2d37,Steve Lawrence,slawrence@apache.org,May-15-2019
+7e2ce3fb07545ac9bc15bf7580a15c32b1e5166a,Steve Lawrence,slawrence@apache.org,May-9-2019
+3e648b3b94a169a84386069cbc696fd856ec6375,Steve Lawrence,slawrence@apache.org,May-10-2019
+f6e4ebe5e5257bff1ad7d18f0ea67a976131f785,Josh Adams,jadams@tresys.com,Apr-25-2019
+135e74cffaa3b9146b539ef8cdde056cc53ab94f,Brandon Sloane,bsloane@tresys.com,Mar-18-2019
+6101cdbbc9876d3b18b84d0a6ddfd528a3ed0386,Josh Adams,jadams@tresys.com,Apr-22-2019
+ebd28636d915dba407c268f112fb5058974c0d45,Josh Adams,jadams@tresys.com,Apr-17-2019
+aae5c1233dd38d574a347b14750d6d9c31574fa1,Josh Adams,jadams@tresys.com,Apr-15-2019
+a6828dc8abe0c385007a9e07dbb7c656ab4962e3,Steve Lawrence,slawrence@apache.org,Apr-10-2019
+df4e69fb929b7e171424553735874c3b85fc1129,Josh Adams,jadams@tresys.com,Mar-18-2019
+13cf581bbcafe274287a14783a445ea46d758686,Josh Adams,jadams@tresys.com,Mar-15-2019
+9719bb400977e336e0a1a5a115a58a4af198bc6d,Brandon Sloane,bsloane@tresys.com,Mar-18-2019
+ce14e6ef5313fec909ebdd14d4a511a20597d350,Steve Lawrence,slawrence@apache.org,Mar-18-2019
+a01cc32375a50761a9688c6243c245df59ba85a0,Steve Lawrence,slawrence@apache.org,Mar-15-2019
+4caaeff7b9df8432d482e7bf664b134921ce2293,Josh Adams,jadams@tresys.com,Mar-15-2019
+9db5146504d8195f7503cf4fca066b9a7083d6d1,Steve Lawrence,slawrence@apache.org,Mar-12-2019
+c9302a03964ef36581ca9217ca3bacd87ba8ea3e,Michael Beckerle,mbeckerle@tresys.com,Mar-8-2019
+a6dc540fa13a45e119bbfda77ea4e514ccd1a88f,Steve Lawrence,slawrence@apache.org,Mar-5-2019
+57a68953463f3ebbea779d6664ae56ebdf2912c4,Steve Lawrence,slawrence@apache.org,Mar-4-2019
+0b924b67de67d21226bd7674fba78a410247e3ce,Steve Lawrence,slawrence@apache.org,Mar-4-2019
+0f141863049e6000f4f32eeb98edc413c3f222fa,Steve Lawrence,slawrence@apache.org,Mar-1-2019
+76046cd8898ad2cbcd3aa119ca2d2d3f3874a44b,Steve Lawrence,slawrence@apache.org,Mar-1-2019
+e23e162eef34baf35b8af4e3b2a200d4468626dd,Steve Lawrence,slawrence@apache.org,Feb-27-2019
+b9594c7da79cb6ff9c4311f31cab378deda28fad,Steve Lawrence,slawrence@apache.org,Feb-27-2019
+1a9567cff34804bab6ab0f6e4174eaa101ce4b7c,Michael Beckerle,mbeckerle@tresys.com,Feb-19-2019
+937033bf99646e024def756704f171e1ad12f635,Mark Otto,motto@tresys.com,Feb-19-2019
+de74c03544cf636b06196106a73ddc0a6bb52a92,Josh Adams,jadams@tresys.com,Feb-15-2019
+193c84690401debd93c1f48e39e564fec09e9337,Josh Adams,jadams@tresys.com,Feb-14-2019
+3e497fa25b458de131e873c713b3fa90209e8a4c,Steve Lawrence,slawrence@apache.org,Feb-13-2019
+34c862b632ccad77a2745c32b7be32d1cf382501,Josh Adams,jadams@tresys.com,Feb-11-2019
+187addc6aabba1c74b78daa18f69225b36211ea6,Steve Lawrence,slawrence@apache.org,Jan-29-2019
+728eb437a910c2687c8b73cc69180a73c0ea7dcd,Steve Lawrence,slawrence@apache.org,Feb-12-2019
+4a1fbbb44f73c14886eed6d5694158effeafaf68,Otto,motto@tresys.com,Feb-6-2019
+a20ff4172807f5e0264ce68142f15f9798df1e8b,Josh Adams,jadams@tresys.com,Feb-7-2019
+f4232ea629cdb2ff39cd04bef3efd131f923e32c,Josh Adams,jadams@tresys.com,Feb-6-2019
+f072199eb4d0cc0254b570d9bd79e11672fdf428,Josh Adams,jadams@tresys.com,Jan-28-2019
+629aa2a1dccda54f1d8a2328de3af8da4c618091,Otto,motto@tresys.com,Jan-24-2019
+5c19ac1aff47f3d33c878d81696fe3af726dc1b9,Steve Lawrence,slawrence@apache.org,Jan-29-2019
+cdf956b113e1eea2d7eddac87ffb11e66b872a41,Steve Lawrence,slawrence@apache.org,Jan-25-2019
+11414971032f6eb81808672f486dd1add18c4a3e,Josh Adams,jadams@tresys.com,Jan-24-2019
+51af49531fadfba0b91ba1fb36ca57b6979eb6c6,Josh Adams,jadams@tresys.com,Jan-18-2019
+6cfcb15464f4eb61ddae1bb9876c47b610cabb89,Steve Lawrence,slawrence@apache.org,Jan-22-2019
+ba2c3b1337aa22d352eae3b32f044ffdf00575db,Otto,motto@tresys.com,Jan-15-2019
+69f399983f45cc6f878a2739698f338f8674992d,Steve Lawrence,slawrence@apache.org,Jan-16-2019
+1fd5a2ed14cacce1e06dcf0e79aa3e31058b4e7f,Steve Lawrence,slawrence@apache.org,Jan-14-2019
+69bb0a185ef320acf31739d8b90e63b9f7c8a8de,Steve Lawrence,slawrence@apache.org,Jan-3-2019
+912f7d2b735789d1e38ae97e5e23a978c1befd90,Josh Adams,jadams@tresys.com,Jan-11-2019
+540fb50b6af50d482848f405b949d02c38cc4598,Josh Adams,jadams@tresys.com,Jan-8-2019
+a2f56a3f44d307a138fb7a4614f873120e186d63,Steve Lawrence,slawrence@apache.org,Dec-13-2018
+fc0b2ed3809d7d310efe74c8a4a092f896bda76a,Steve Lawrence,slawrence@apache.org,Jan-4-2019
+7a8103bfab5ba0866d6e57a79fe2076075e5de1f,Brandon Sloane,bsloane@tresys.com,Dec-21-2018
+a3e15e665f92b0ea64a7651eff080489cff82e22,Steve Lawrence,slawrence@apache.org,Dec-13-2018
+14258de5ff23b4d46bfc1db1c34c278fb6291211,Josh Adams,jadams@tresys.com,Dec-12-2018
+b2ec67b9dd06daa9651dbc31d6fbc92687f7a4d0,Josh Adams,jadams@tresys.com,Dec-13-2018
+da876398ff180e7c6f00cec8c9f2d3c90780414b,Steve Lawrence,slawrence@apache.org,Dec-12-2018
+3fa32cbd3020f24e565696980384e5c6aa73aa74,Michael Beckerle,mbeckerle@tresys.com,Dec-11-2018
+ab2b409cef18d1bd450c25d4c02b0d999295c0f3,Steve Lawrence,slawrence@apache.org,Dec-12-2018
+9ae1b9eaa5e366bf26ea3830c9ad166f15bb83ca,Josh Adams,jadams@tresys.com,Dec-12-2018
+3868989577be2e9b85194cc866de9e29cf4c574e,Michael Beckerle,mbeckerle@tresys.com,Dec-11-2018
+59b805580eb71d1161ebd098121f1ae8352ef1df,Michael Beckerle,mbeckerle@tresys.com,Dec-10-2018
+6924d7d7c102d72b46908a642703f3c4fdef32cf,Michael Beckerle,mbeckerle@tresys.com,Dec-10-2018
+af489bc6ea1701ce92c01ac8a7d649e2f7ad11ca,Steve Lawrence,slawrence@apache.org,Dec-10-2018
+2f2e9b599a01424134c99d0928b81d8eb8eb5d09,Steve Lawrence,slawrence@apache.org,Oct-8-2018
+cb0bb66e82f28c5c64f272d32115fb2779d095b7,Steve Lawrence,slawrence@apache.org,Dec-10-2018
+f046c290c8156bca375389239f606e24287e58ce,Steve Lawrence,slawrence@apache.org,Dec-7-2018
+d986442c184cb181220ea231bc2508b2c043261a,Michael Beckerle,mbeckerle@tresys.com,Nov-30-2018
+50948119b725f2a29fe540f67a80497dd6f122c6,Michael Beckerle,mbeckerle@tresys.com,Nov-28-2018
+6239df20ebfcf9c13505188b299d037c02cc5c26,Michael Beckerle,mbeckerle@tresys.com,Nov-30-2018
+92429a0fc26673d1df362916862729c03a9c9a0a,Michael Beckerle,mbeckerle@tresys.com,Nov-28-2018
+55ddb637732fca7cabc79258c2434d516a87993f,Josh Adams,jadams@tresys.com,Oct-18-2018
+d5826ec302820a20a8899d8bc3a889b247f15949,Beth Fahl,efahl@tresys.com,Nov-16-2018
+dfb1506ce955bd0f5f6196a901baf52ae0768238,Beth Fahl,efahl@tresys.com,Nov-14-2018
+3cd88062e3f78463b459c1c6458e1bbc9728b13a,Beth Fahl,efahl@tresys.com,Nov-13-2018
+64e10fe5499c1f022c3172af350327c7c201cb0e,Josh Adams,jadams@tresys.com,Nov-14-2018
+8a5a137c0593a78e9d85080231f82a12ae7acac7,Josh Adams,jadams@tresys.com,Nov-12-2018
+e49bd80659ebb1693429e3db312ad2d5c24152e3,Josh Adams,jadams@tresys.com,Nov-8-2018
+aac772680bdeda0c352c7cdfcdc32e56cb57c684,Steve Lawrence,slawrence@apache.org,Nov-5-2018
+8692fdd230aca8b5c2481fc658c134288c3f0112,Josh Adams,jadams@tresys.com,Nov-5-2018
+cf18604bcbbb6dd57f9a1002b25c9968cfc1c4de,Josh Adams,jadams@tresys.com,Oct-31-2018
+af22f1f80199c099531adc7d4485a2f8c03e4df1,Josh Adams,jadams@tresys.com,Oct-26-2018
+6502b40cd2b4f96c67aaf4b1754a8384194cc41a,Josh Adams,jadams@tresys.com,Oct-17-2018
+e32c463856e34a6b24de74163007a9d63e8e10c5,Josh Adams,jadams@tresys.com,Oct-15-2018
+3ca30e8ddfbdbbdfed94311c11234d6b56df5681,Josh Adams,jadams@tresys.com,Oct-15-2018
+7e9c83519cde3f850d7ff040acc6b91526f272ae,Steve Lawrence,slawrence@apache.org,Oct-9-2018
+36896dfed168771ee7f28ee8d28826e598080b41,Steve Lawrence,slawrence@apache.org,Oct-4-2018
+22ac86b617280cdcaf532536ca66116e44da7912,Steve Lawrence,slawrence@apache.org,Aug-27-2018
+7883f85ebfa32cd1cb910ed34fcaddbe6ea9d217,Steve Lawrence,slawrence@apache.org,Sep-7-2018
+1875ac981a255684a383f3456a17ae930c96e6fa,Steve Lawrence,slawrence@apache.org,Sep-12-2018
+60dc2b5d8d3ebe3469a4dd09f6d2d9118d112bc9,Steve Lawrence,slawrence@apache.org,Sep-13-2018
+0354e5e62536d0c8bafbadbe66cfe87e0edfbb8b,Steve Lawrence,slawrence@apache.org,Sep-13-2018
+1a0e6544ad15ca6ea613759be7e98ce29252c5b9,Steve Lawrence,slawrence@apache.org,Aug-27-2018
+cd439d16294a0fc6a23783c3333dd49544d88c95,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+af28fc42111129c1cc1f9f219aaba046b6ccc360,Michael Beckerle,mbeckerle@tresys.com,Aug-22-2018
+b04e86d9cc3f72dc13b5c051423e3d78a9244edf,Steve Lawrence,slawrence@apache.org,Aug-20-2018
+6b5383020979077ce0c7360fa42654e206a2c3c2,Steve Lawrence,slawrence@apache.org,Aug-20-2018
+25d68ee5de2ec596a1bb4e974a3265f8a03f3887,Steve Lawrence,slawrence@apache.org,Aug-16-2018
+8d85ea3f8a0056a48fdc89badf969280f6be0c95,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+b6c39d9a17b1a892896858be3e81a618cfbfde9a,Steve Lawrence,slawrence@apache.org,Aug-16-2018
+cd0129b284b668e81ae0c9d0785d3c0563110b7d,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+f4c5694a4d80e3b7c3937a647aa1205b863aab4c,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+b1690cb57c9afdeb57847eaea15b2c9855360529,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+ee91f531ebdf7cc680c9da84fc7731e3cd57df09,Michael Beckerle,mbeckerle@tresys.com,Aug-16-2018
+6b5fa10af9538924f3c811c40e94905b309980c1,Steve Lawrence,slawrence@apache.org,Aug-16-2018
+12ad0019bfb2feb7a7c713743f40865bd00795aa,Steve Lawrence,slawrence@apache.org,Aug-16-2018
+4522a82d9739a4e47cc3dd89af76e05f54abcd08,Michael Beckerle,mbeckerle@tresys.com,Aug-15-2018
+62da5b5a44e3f90c42ed446f7e64950ff61b6738,Steve Lawrence,slawrence@apache.org,Aug-15-2018
+818636589a3c563a4ab7b4569f0365730b10643f,Michael Beckerle,mbeckerle@tresys.com,Aug-15-2018
+ed14cb351bbba6c2f98ae18ae957db6cca448a8b,Michael Beckerle,mbeckerle@tresys.com,Aug-15-2018
+73d071750b7b484e010cb357f226b93de2f4439a,Michael Beckerle,mbeckerle@tresys.com,Aug-14-2018
+8709b5996c10bfa3ccb7730f9b90bb2fdc916772,Steve Lawrence,slawrence@apache.org,Aug-15-2018
+8a694b5fd57265a0457ae94c2adc0d21f476a4e6,Beth Fahl,efahl@tresys.com,Aug-3-2018
+3877a44c790b562b6c0799abae815e35a105ebd0,Beth Fahl,efahl@tresys.com,Jul-27-2018
+80d40e01f533ffe04fa8fa6e12be7b73d4eff269,Steve Lawrence,slawrence@apache.org,Aug-13-2018
+8dcb4e4cc8f486bb5ef082719be36ef519fd361e,Michael Beckerle,mbeckerle@tresys.com,Aug-13-2018
+bd57f7ddd3c4373c8e540ff3087ae39de78413cb,Michael Beckerle,mbeckerle@tresys.com,Aug-13-2018
+d48c6c1293263b13be50a2f1b4fc082d069dd604,Steve Lawrence,slawrence@apache.org,Aug-8-2018
+2612ad8da23a70ebefd82f351ad83db8d8e89022,Michael Beckerle,mbeckerle@tresys.com,Jul-5-2018
+a19285ef738d1c0bd996083fa077909c0eb6a54f,Steve Lawrence,slawrence@apache.org,Aug-8-2018
+d50e1fa098feec407a8aae07921d1f1e885e4ff5,Michael Beckerle,mbeckerle@tresys.com,Aug-10-2018
+0872aa27743a30279353dc30523e7ee1b568cdfd,Steve Lawrence,slawrence@apache.org,Jul-19-2018
+a83b3772bc5d6eccb127babc7278ef797db29c75,Josh Adams,jadams@tresys.com,Jul-26-2018
+339967faf80ca9b13f8a3725032e79b5c988a8fd,Beth Fahl,efahl@tresys.com,May-22-2018
+ff2d3fb4144b99f2ff24e3dbd01608f8b02accef,Marshall Miller,marshall@quarksecurity.com,May-14-2018
+ab1a1a0d8cdc1fe0b0963f35edd256f2b28472b8,Steve Lawrence,slawrence@apache.org,Jul-16-2018
+522a6d88e7b17ce200e4d8198dd7090eb6f10099,Steve Lawrence,slawrence@apache.org,Jul-16-2018
+07ee2434bb207d7137dbe4ea70efb41921562334,Steve Lawrence,slawrence@apache.org,Feb-23-2018
+383148eaeebe57879af2e7589aa1b08e08280ebd,Michael Beckerle,mbeckerle@tresys.com,Jul-5-2018
+f1e47b40779c6f6955d4faf580d6a63d0ae3d0d6,Nick Smith,nick.smith@finastra.com,Jun-14-2018
+1ec6abb3c74279f2eaa0204568458a459cdb4ef6,Steve Lawrence,slawrence@apache.org,May-30-2018
+098b3d54e6bc6d60ffbb612e912ee2daec83dcca,Josh Adams,jadams@tresys.com,Apr-5-2018
+f5bace6f483297b8723ccd4327fd0caa22772dc3,Steve Lawrence,slawrence@apache.org,Jul-5-2018
+b3c184995d251021edd65d559bd3726d553c1f8f,Beth Fahl,efahl@tresys.com,May-16-2018
+98874596fdf83ad272053c62af83a0a6b71df3e2,Russ Williams,37781645+rmw42@users.noreply.github.com,May-25-2018
+2c3ff3c39b5a1a285b2312a37b81c8d990ec1a5b,Russ Williams,37781645+rmw42@users.noreply.github.com,May-24-2018
+dbe98c1065d6874471f271124627fbe3e346976f,Steve Lawrence,slawrence@apache.org,May-15-2018
+e79a43c8ce8a19992811605cf1b4f47042e071d5,Steve Lawrence,slawrence@apache.org,Apr-13-2018
+08fd62b23d05ae7c991795b724749e607541db29,Michael Beckerle,mbeckerle@tresys.com,May-7-2018
+a705789fd0c37963371e188350e53279eac1e360,Michael Beckerle,mbeckerle@tresys.com,May-3-2018
+66b20173a1a92fcfd0688f87b4cb01d2e5adff84,Steve Lawrence,slawrence@apache.org,May-4-2018
+438e5fe751fe566fbc57da5542ffbf373febeda1,Dave Thompson,dthompson@tresys.com,Apr-20-2018
+2a4c81ac76ee6abd49ffa8bff40d432e63a1f5b6,Steve Lawrence,slawrence@apache.org,Apr-19-2018
+1ea2290f28e9ede344cb7d8d06f38a7fe818dfc3,Michael Beckerle,mbeckerle@tresys.com,Mar-6-2018
+8a29c60b5c5857f17bc63298345fbde24a6d0a8c,Michael Beckerle,mbeckerle@tresys.com,Mar-29-2018
+3a5183a40a3df65219f68478fc8a662eab9cf3f4,Steve Lawrence,slawrence@apache.org,Apr-3-2018
+a9965181bfd558019b820f425d2d7603736476e6,Steve Lawrence,slawrence@apache.org,Mar-5-2018
+f23602ac894c436cb7a9eebe05b75229d96e911e,Josh Adams,jadams@tresys.com,Apr-5-2018
+a54caa74deb895816aa274353d389a241c303917,Josh Adams,jadams@tresys.com,Feb-23-2018
+300b444de58a2e5f68e8285c6ad9efef4b54be8e,Michael Beckerle,mbeckerle@tresys.com,Mar-9-2018
+29c629e4b6e7f8192a5256dcba9e2b3607cc4bc0,Michael Beckerle,mbeckerle@tresys.com,Feb-20-2018
+ba5b94a5795e242502740a1f99f8ea5240eb874e,Michael Beckerle,mbeckerle@tresys.com,Mar-5-2018
+4e23af5c2a2033967e2ea3fc662ffd567473a489,Steve Lawrence,slawrence@apache.org,Feb-28-2018
+6f088b6bb25d8b8acf380d25974c72a658a37465,Steve Lawrence,slawrence@apache.org,Feb-27-2018
+6ad629d19b9c53db117155ed4f99ec565a07e274,Michael Beckerle,mbeckerle@tresys.com,Feb-20-2018
+075084f5a825bde3168b8e89a02c7e58404cc325,Michael Beckerle,mbeckerle@tresys.com,Feb-27-2018
+62eea54b75392c3fffcb36060d5bb078dfed3910,Michael Beckerle,mbeckerle@tresys.com,Feb-16-2018
+1328c40f23d23f6e15e300607b27cf22447b0e13,Josh Adams,jadams@tresys.com,Feb-16-2018
+00aa364bd7af29fd5ddfd8c8119fc4af9b925171,Steve Lawrence,slawrence@apache.org,Feb-13-2018
+abf9ea5e0fa0cece332877a38918324229f82928,Steve Lawrence,slawrence@apache.org,Feb-15-2018
+836d657ca5bd99577110e8c30007591a26ee4317,Michael Beckerle,mbeckerle@tresys.com,Feb-14-2018
+f33208a3917f3ca35c5f2d9084ef175bc6af133d,Michael Beckerle,mbeckerle@tresys.com,Feb-14-2018
+ac39c932e53cef4ec3361d04b93fd998db0864ef,mbeckerle,mbeckerle@tresys.com,Feb-8-2018
+5fd83a46f05c1a90b2939c432aa556a744a63ced,mbeckerle,mbeckerle@tresys.com,Feb-8-2018
+a56215bcd697706bae5ab14661d37019f2e67ab8,Steve Lawrence,slawrence@apache.org,Feb-8-2018
+044ce2898b82848f3e33232d6c9eb54ac52fedca,Steve Lawrence,slawrence@apache.org,Feb-12-2018
+7fac84af9e9c27f3a9959bb17f86c9f05f18d728,Steve Lawrence,slawrence@apache.org,Feb-8-2018
+add8c5a6f82f25073475a4d6c7ae94fb5ca6e01a,Steve Lawrence,slawrence@apache.org,Jan-29-2018
+50dc6d32fe33ef876fc509670e1c51523bb4a40f,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+3cf749d5a45254743506fbb941ea3a75cf43ce2d,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+1d0adfda7a2849f7a24f3db29d356256c28b1151,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+bf35b44093a8dc9c1aa7582e78b4c29ecd81abbb,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+ebb198708e26c8b35cef3afebe8b6d71000605fa,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+945a1c1ab363485003ebf14fef3463055d4fab37,mbeckerle,mbeckerle@tresys.com,Feb-6-2018
+cdb5ba23d26a4455f1f05e50260ac36c294666ab,Steve Lawrence,slawrence@apache.org,Feb-7-2018
+11d36b21e1abb7fc6fd26f7aa10cab3827f53546,Josh Adams,jadams@tresys.com,Jan-30-2018
+8d9aadab07a2f422dfae527b3a4d1cb4047a6efa,Josh Adams,jadams@tresys.com,Jan-24-2018
+23fbbfa1a10e707411d0d12bc01d8532fda71b33,Mike Beckerle,mbeckerle@tresys.com,Sep-12-2017
+ee4177b4c9bf84af2af19d8c9f67f283e233105e,mbeckerle,mbeckerle@tresys.com,Jan-12-2018
+15ebb3770a13b730d81b14ffc94a06fa4d1205ad,Steve Lawrence,slawrence@apache.org,Jan-24-2018
+e7492d0211c80690c397a54219cbb34d0b48acd3,jadams-tresys,30659277+jadams-tresys@users.noreply.github.com,Jan-23-2018
+c1b2b5622ff98b5c403eca8dc5c2bbf65482e11a,Josh Adams,jadams@tresys.com,Oct-26-2017
+5c3b495b9841dd975296323413fb4773380cbb2e,Steve Lawrence,slawrence@apache.org,Jan-18-2018
+02c8324294ed4395c1231c6ea3ec6ae77139ba46,mbeckerle,mbeckerle@tresys.com,Dec-28-2017
+eec6c76a36edeecebf87ab5a3d80f9040442f120,Steve Lawrence,slawrence@apache.org,Jan-5-2018
+a1d881b13d26e47040c0302b2874cc78f0de27bf,Mike Beckerle,mbeckerle@tresys.com,May-31-2017
+e7008b4b63839fee19c9c472e264236d55674276,mbeckerle,mbeckerle@tresys.com,Dec-18-2017
+40176161e67484f3bebd73ffd2639f1645feffd3,Steve Lawrence,slawrence@apache.org,Jan-2-2018
+44372a15de37c3c454e49eaa85f6ebff7bd0f04b,mbeckerle,mbeckerle@tresys.com,Dec-15-2017
+7ac79fbd4f89dcb538ab9380a25be1ca6d78ba9a,Steve Lawrence,slawrence@apache.org,Dec-11-2017
+6608b1f6dd071e28d08152b2c0d31c2da5883b1d,Steve Lawrence,slawrence@apache.org,Dec-7-2017
+cf322c0e5cfe6b3f9fa9f274162577353c1f5814,Steve Lawrence,slawrence@apache.org,Nov-30-2017
+3b5853a084967def26c307cab47511c3e904330e,Steve Lawrence,slawrence@apache.org,Nov-30-2017
+541bb07801d44e976d2feb256cc04735268445b0,Steve Lawrence,slawrence@apache.org,Nov-6-2017
+64da806eec363707db051b69263bf3308523f25f,Steve Lawrence,slawrence@apache.org,Nov-29-2017
+6d15ef0fa78ecfb7fdefb32e1ecf57f1e9118a89,Steve Lawrence,slawrence@apache.org,Oct-26-2017
+4404af30e724c19be1eb1bf01bec8fd5a04600ea,mbeckerle,mbeckerle@tresys.com,Nov-29-2017
+ea41975b92f41383160b162f4a3f718bb7c9f5ee,mbeckerle,mbeckerle@tresys.com,Nov-29-2017
+41a0dc7298edc91ed10cf984c5af1df122150c08,Steve Lawrence,slawrence@apache.org,Oct-26-2017
+895177173781c57fc17ef2c9e957302a82bbf164,mbeckerle,mbeckerle@tresys.com,Oct-23-2017
+f761e4d134d4f3cd09ac694eb1d2ea8dab5221f5,Taylor Wise,twise@tresys.com,Oct-18-2017
+b790e683a5d73a82a177c6c9b33c71d15b8a2458,mbeckerle,mbeckerle@tresys.com,Sep-14-2017
+eabc3694839e817a6bf33452b1b3c2e1d27d13bb,Beth Finnegan,efinnegan@tresys.com,Aug-31-2017
+767cb7a6111ae20ffbc8ed2c078742158e8d1046,Taylor Wise,twise@tresys.com,Aug-30-2017
+6430d57d356d26a526b7f5fc972055b8041dd6ac,Josh Adams,jadams@tresys.com,Aug-29-2017
+1c35b8fff09df2be9e67508216dc778ee7db2ec4,Mike Beckerle,mbeckerle@tresys.com,Aug-29-2017
+9311c70d22e499b701a9900132d9a1e50d91283e,Steve Lawrence,slawrence@tresys.com,Aug-25-2017
+5a335fbe656a5b4995b97054c1b28cf0b68f071c,Steve Lawrence,slawrence@tresys.com,Aug-25-2017
+873fae40a599be05055d482aad4d25eafd8f586e,Steve Lawrence,slawrence@tresys.com,Aug-21-2017
+c9e9441cddd49a133fd466e87949f4c51dca0d09,Mike Beckerle,mbeckerle@tresys.com,Aug-18-2017
+eb66970088108c19a5d1076af22f7f0b160395f9,Mike Beckerle,mbeckerle@tresys.com,Aug-16-2017
+440e9d40d47d918f65117322369e077cfe3cd194,Beth Finnegan,efinnegan@tresys.com,Aug-22-2017
+2637a7337b456f666cec5fe5ffb9eada2a979426,Steve Lawrence,slawrence@tresys.com,Aug-18-2017
+f9f92a8e2b26755f109feb9b95461f5fea806df0,Steve Lawrence,slawrence@tresys.com,Aug-17-2017
+8c13432ceac17a4627bd17e64e36d69d3cc351f6,Steve Lawrence,slawrence@tresys.com,Aug-17-2017
+6e08a054edb1dd4da35a8885acd9d38d465e9275,Josh Adams,jadams@tresys.com,Aug-4-2017
+bfdd78bb18abaee3a9ed9b4c4416b1c99a678e65,Steve Lawrence,slawrence@tresys.com,Aug-17-2017
+4dd53aea6401613aad84d571ca2daaa7b676ecdc,Steve Lawrence,slawrence@tresys.com,Aug-16-2017
+e5b0c3203ced82bbf2afe1fa4acb34cb39a1183f,Steve Lawrence,slawrence@tresys.com,Aug-16-2017
+c9025f65eb83c9cb86549e55dcedb0f85030450e,Beth Finnegan,efinnegan@tresys.com,Aug-15-2017
+c3ec258c989e3af1d8717d1ce80cfe378d02b4bd,Beth Finnegan,efinnegan@tresys.com,Aug-11-2017
+6204d2a140cbf63c0b8d32e45110b264aa221f88,Mike Beckerle,mbeckerle@tresys.com,Aug-7-2017
+51236ac8f3a91440f22d5fe6c8d14ca8d88b8545,Steve Lawrence,slawrence@tresys.com,Aug-7-2017
+8e40307f5f42a40368a1364617e733637748987e,Josh Adams,jadams@tresys.com,Aug-3-2017
+0d7a22ea74f50b7d3f7605bbd00fad9d808306f6,Beth Finnegan,efinnegan@tresys.com,Aug-2-2017
+b6da46dac99d6f601f0538f752f4aa36cea5ffae,Steve Lawrence,slawrence@tresys.com,Aug-2-2017
+1d3be7c6cc78b8194fa2596344b0e261d937b2b3,Steve Lawrence,slawrence@tresys.com,Aug-2-2017
+5517f68c55a8c3162bc62c85f67e577c74150c48,Steve Lawrence,slawrence@tresys.com,Aug-2-2017
+5540d9fdb3160763538a4832bce403431c56380a,Taylor Wise,twise@tresys.com,Aug-1-2017
+3811458641ea5837afe34d8b574fd433814be250,Steve Lawrence,slawrence@tresys.com,Aug-1-2017
+809e9a90cedfaf3bd4270f11d94335da879d4819,Steve Lawrence,slawrence@tresys.com,Aug-1-2017
+f3690c6369d733c809af26358fdad496089d40e9,Mike Beckerle,mbeckerle@tresys.com,Aug-1-2017
+1d3c835689a8a3a2201750821b0ce04c24b41015,Josh Adams,jadams@tresys.com,Aug-1-2017
+fed9f77c5c058416bfe01ee885ee885d9e5f502c,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+d26790cc7e55c1fcf0e06bd1e19572ecf66e8344,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+7cf3c4d0434748ae69bceeb70062ab2c21f3b23b,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+1ed068abda5b806918cb14204a05d9c45634b7e1,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+287692eea648f091c769388f17c3ebe3a526d1eb,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+00d8500216e5da4d1656f83acca491d80af93ca9,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+c0a0854c168a895c69026c26082f9382fe20424d,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+c986bf77caeb15fc89e47e08cee42b0c685c3fe6,Mike Beckerle,mbeckerle@tresys.com,Jul-31-2017
+2db1f3f34b2518429d8d23cbdd821e3ccb33cce5,Mike Beckerle,mbeckerle@tresys.com,Jul-26-2017
+cda2728cd0c25fe662bd702fa37747d8c2b5d6f8,Mike Beckerle,mbeckerle@tresys.com,Jul-26-2017
+0a156d9210fe07172fbb7e8ff013ca683007aee6,Steve Lawrence,slawrence@tresys.com,Jul-26-2017
+249ee22f45f66e611b4ff2fe9314fe342a7ab29d,Steve Lawrence,slawrence@tresys.com,Jul-26-2017
+7cffb2e46c2be719ad868c911985a23dcfdfc5a1,Steve Lawrence,slawrence@tresys.com,Jul-26-2017
+732dd7e2c111cf5eaa4ad3e608b41a30e9ed0edd,Steve Lawrence,slawrence@tresys.com,Jul-25-2017
+d309eae5f506cf681f644b43ec3b7aa46ca5dd97,Mike Beckerle,mbeckerle@tresys.com,Jul-21-2017
+115728dc3c051ec062c80d390beaaa91ac6cfc35,Taylor Wise,twise@tresys.com,Jul-20-2017
+561fa12a94c93d692ea8b8efc0fa13de60abbe26,Steve Lawrence,slawrence@tresys.com,Jul-19-2017
+151e9db29f989b44d28b026f2858645533a9e709,Taylor Wise,twise@tresys.com,Jul-19-2017
+87517851045db6b6ec3b11d1b255ede13d9ad821,Steve Lawrence,slawrence@tresys.com,Jul-19-2017
+17839aabbb436dd523533650ec9d88e8899a3ba9,Steve Lawrence,slawrence@tresys.com,Jul-17-2017
+27d0bf4801130eefdeab13230e61732b22e29eaf,Dave Thompson,dthompson@tresys.com,Jul-11-2017
+8b6738b6f008dafb8b8ebc91e98fdbf990c8c538,Josh Adams,jadams@tresys.com,Jul-11-2017
+7e225965500800626fe6b1e2451c7494405a1105,Taylor Wise,twise@tresys.com,Jul-7-2017
+84c19cbbbe99cf93e7f82ad2e56c40c4f06e68f2,Mike Beckerle,mbeckerle@tresys.com,Jul-7-2017
+fc010e32daf47095a54e3e2ade88c787e1f077b8,Mike Beckerle,mbeckerle@tresys.com,Jul-6-2017
+de6a3b24764a8e8fafbbe65695803a33c9900cc0,Taylor Wise,twise@tresys.com,Jun-30-2017
+3be42ce3107abb4bb48a37d5e78e55ddee0adb55,Steve Lawrence,slawrence@tresys.com,Jul-5-2017
+b58ebaa081b14012bf0b74417b370409143eca25,Steve Lawrence,slawrence@tresys.com,Jun-30-2017
+0041deba4168f43bcbdfad2aee0ee925c9ef86bb,Steve Lawrence,slawrence@tresys.com,Jun-30-2017
+1d4271d79cf52d684d4511753198954dd57ef504,Steve Lawrence,slawrence@tresys.com,Jun-30-2017
+57ea80345d0b04f8c61a973a715659e232eea4bf,Steve Lawrence,slawrence@tresys.com,Jun-29-2017
+7446ba775e121810553c83cbba09ef78743b135f,Mike Beckerle,mbeckerle@tresys.com,Jun-29-2017
+b4b588ae9f2a97dadef698411e89356d2b9e7daf,Mike Beckerle,mbeckerle@tresys.com,Jun-29-2017
+f04024a8d303bf43d7d4710f3b7d9f15271341ba,Mike Beckerle,mbeckerle@tresys.com,Jun-1-2017
+41b6a826aa6e629aada893f7203de141924ff23d,Josh Adams,jadams@tresys.com,Jun-28-2017
+9561651c0f335487e7873c4521ab117039886a31,Steve Lawrence,slawrence@tresys.com,Jun-27-2017
+fb6841aba030026269afd11d236b7d4e9c884501,Steve Lawrence,slawrence@tresys.com,Jun-20-2017
+a8d50a5196575a89589599fabde5f56057966596,Josh Adams,jadams@tresys.com,Jun-23-2017
+6ea51e95ce1000c901570c5d9833be1c3910f1b2,Steve Lawrence,slawrence@tresys.com,Jun-14-2017
+c022f10f7373b0b619a8b8dae15bc257da671110,Taylor Wise,twise@tresys.com,Jun-9-2017
+3d8a45561520ba6804581005a7097baa49067e87,Beth Finnegan,efinnegan@tresys.com,Jun-13-2017
+6bdf9cc735652edcffaafa1e8508be7926f2dbe5,Steve Lawrence,slawrence@tresys.com,Jun-12-2017
+3e754f259cbe9c36d96379921bc060acc4f8ab24,Beth Finnegan,efinnegan@tresys.com,May-23-2017
+dd05de3e658f93b312ee3cf481dcf90fb2314fc8,Josh Adams,jadams@tresys.com,May-2-2017
+2f62fde97b2b0576aa538222114e3d27c07314a7,Josh Adams,jadams@tresys.com,Jun-5-2017
+8ca34e49f9ce01bbc71ed99f97c6adbb438c8040,Steve Lawrence,slawrence@tresys.com,Jun-1-2017
+e8941e41b198241c1bf746645b3820d600896a59,Dave Thompson,dthompson@tresys.com,May-25-2017
+fa7ddb82b91957aa3e01608a447f2b48852c5229,Dave Thompson,dthompson@tresys.com,May-25-2017
+fd9431912ef5d65a03ef2b48b740f7391fd82358,Beth Finnegan,efinnegan@tresys.com,May-5-2017
+bfbb322398fce0517698cf0907f2a03da329d1c3,Beth Finnegan,efinnegan@tresys.com,May-11-2017
+a45557f69a54138f9ea17e3baf680ddf93b7f948,Mike Beckerle,mbeckerle@tresys.com,May-18-2017
+429f502a5475ac1c6654f0d405a2e30de14e3340,Steve Lawrence,slawrence@tresys.com,May-9-2017
+9b97b0e3f6e968b9d58183936a23c88b1606cf83,Steve Lawrence,slawrence@tresys.com,May-9-2017
+04de25daeb506e131393214e35e41915a13d06ca,Mike Beckerle,mbeckerle@tresys.com,May-9-2017
+1a94eb188e8478c30b9b07bb0df7a25e474e68ac,Mike Beckerle,mbeckerle@tresys.com,May-9-2017
+d79a8afec4cc10d35adb44bd0fcedddc9f0c0676,Beth Finnegan,efinnegan@tresys.com,May-4-2017
+6eaebac6b2a2c86cc710bfb60babd3ac351e59da,Steve Lawrence,slawrence@tresys.com,May-8-2017
+78423d081fb005fd4033b9059097af3d65bb0a3a,Steve Lawrence,slawrence@tresys.com,Apr-24-2017
+2fa660b3dc23b27f243361a53eea554945f1badc,Steve Lawrence,slawrence@tresys.com,May-5-2017
+3a469bd2842a32a05211045f55a87b828e7ce57b,Mike Beckerle,mbeckerle@tresys.com,May-4-2017
+fbfe22ecef14ee552018b704dea71eee592f5b8b,Mike Beckerle,mbeckerle@tresys.com,May-4-2017
+fea9416359285bcc3b7e71d16a5ce5518b7b6a91,Beth Finnegan,efinnegan@tresys.com,Apr-27-2017
+c3ca1df0e7e3ab76e529defa79a4ee4e17422073,Mike Beckerle,mbeckerle@tresys.com,May-3-2017
+141fc723695b82379e74b214ad930048195ef57c,Steve Lawrence,slawrence@tresys.com,May-1-2017
+a06a64411bc2ec74c76f66295d437f1de70bb874,Steve Lawrence,slawrence@tresys.com,May-1-2017
+bc9c98f98b18d6b1cabc9e993b1ea7c456171768,Mike Beckerle,mbeckerle@tresys.com,Apr-27-2017
+443ae4ff7b0c5f6f8ab4c00810f30091d3743052,Mike Beckerle,mbeckerle@tresys.com,Apr-27-2017
+e73dd613a10f13a8285df6a2570d0f633eb25f65,Mike Beckerle,mbeckerle@tresys.com,Apr-27-2017
+e752fd908532a6a647f93402172495967afab1a2,Steve Lawrence,slawrence@tresys.com,Apr-27-2017
+660f5c8a4d6cc278dc560f315d17a91a5a14973a,Steve Lawrence,slawrence@tresys.com,Apr-19-2017
+26ca5076a802b9c953ed89f9715c8f042a0ec290,Steve Lawrence,slawrence@tresys.com,Apr-19-2017
+ab86ec0188dd3074685d9e371ef14fcb87757c97,Steve Lawrence,slawrence@tresys.com,Apr-19-2017
+8bb229a1742b8cc1bcf47d0c56a053d9faa2c981,Steve Lawrence,slawrence@tresys.com,Apr-20-2017
+5375578496d5a1c874f15d99347be1e5f81b5049,Beth Finnegan,efinnegan@tresys.com,Mar-20-2017
+82c692259999a640679a64c41df1965ccbe59994,Mike Beckerle,mbeckerle@tresys.com,Apr-12-2017
+00903d4ccf15e4a9d04183cab42946340cd38b08,Steve Lawrence,slawrence@tresys.com,Apr-4-2017
+80588b063d17dca49a0e183de28d290d2b4e4556,Steve Lawrence,slawrence@tresys.com,Apr-3-2017
+5c4169971f8bcafde9322d11243fafed004e5ef3,Steve Lawrence,slawrence@tresys.com,Mar-29-2017

@@ -1,0 +1,361 @@
+commit_id,Author,Author_adress,Date
+b621659dbffc4e7826d618f0f0359c0a6e597b97,Sergiy Matusevych,motus@apache.org,May-26-2021
+38bb194256023de5e5b6a8e63991e21d691ec1c8,Sergiy Matusevych,motus@apache.org,Nov-9-2020
+8eb98d93943ccaa9943af10ba35e2762d3818bfc,Dongjoon Hyun,dongjoon@apache.org,Jul-16-2020
+1d90218e15c19f22ae0f025ddbe003ba13f6fc13,dengliming,liming.d.pro@gmail.com,Jul-16-2020
+677a5348b04a9774b6b2bd295a7d617dc3c401c0,Pratik Raj,Rajpratik71@gmail.com,Jun-22-2020
+0715691b64b5ab887c14a20db880537f8240da0a,Wooyeon Lee,wylee@apache.org,Jun-12-2020
+66baaad3161d2ad9cf296893cac2d1d0d05f9f93,Sergiy Matusevych,motus@apache.org,May-21-2020
+6cfa54086b622906969c3f57b0c429d4e27d0eb8,Sergiy Matusevych,motus@apache.org,May-21-2020
+067e1627c48d326a352f83cac871af8edc129f6d,Sergiy Matusevych,motus@apache.org,May-7-2020
+49f5bc63cddebc55c9bf3eca136fd156dc2273cf,Sergiy Matusevych,motus@apache.org,Feb-17-2020
+91a587a4f99532204f5d0afe18702056d374b45f,Sergiy Matusevych,motus@apache.org,Oct-4-2019
+e2c47121cde21108a602c560cf76565a40d0e916,HelloCoCooo,46306510+HelloCoCooo@users.noreply.github.com,Apr-24-2019
+abc122a37d1478530967add245e63e13bf148b9a,Dongjoon Hyun,dongjoon@apache.org,Jan-29-2019
+17b344c2935ac0ab259365d2e51409fc65789d41,Tyson Condie,tcondie@users.noreply.github.com,Oct-12-2018
+549401500b6a5562f81835ae2bd35219594cd9e8,Sean,s.po@live.com,Oct-9-2018
+e30060ddd091e8306a0d5d14deb109f0b75449c3,sharathmalladi,msharath@live.com,Aug-3-2018
+5d9165f0b4249f53cf578bdaaffca1a9191d6ce0,mandyshieh,mandyshieh@users.noreply.github.com,Aug-3-2018
+58cd6946ff9c302ff06699d4086670921afe2140,mandyshieh,mandyshieh@users.noreply.github.com,Jul-9-2018
+c4f934f044fdacb3845ce3a083e940249d6de693,Tyson Condie,tcondie@users.noreply.github.com,Jul-6-2018
+f98f20bb67290e74e8f6ccd57aef539f673237d3,Dwaipayan Mukhopadhyay,dwaijam@gmail.com,Jun-27-2018
+52881d2ccbf166d9b8d93c724ddcccd301f82c24,mandyshieh,mandyshieh@users.noreply.github.com,Jun-22-2018
+2e8b79d489588d41cb97ef8e396ac029a8e50fff,Tyson Condie,tcondie@users.noreply.github.com,Jun-20-2018
+396fd82503a2f8205a0c1d5cb742ce17bee1ad51,sharathmalladi,msharath@live.com,Jun-20-2018
+d20e391cd9ff0ed522c91ceda0892341e5d596a0,Dwaipayan Mukhopadhyay,dwaijam@gmail.com,Jun-20-2018
+b96c04526cc9f4ad7554c8aed118799bc644244a,Chenxi Zhao,chzha@microsoft.com,Jun-19-2018
+51e779b3cabf5cba65324dd6732f04c69b377f18,sharathmalladi,msharath@live.com,Jun-15-2018
+28f15f60801e922464d46dea689921727096b189,Chenxi Zhao,chzha@microsoft.com,Jun-14-2018
+db7bdf64767c11502abf76275341705e69d882e2,Byung-Gon Chun,bgchun@gmail.com,Jun-12-2018
+7e1ec477a04fb52d6c59bc94af69b507a155876f,mandy shieh,meshieh@microsoft.com,May-16-2018
+fafc236bc6cb0ea2732e43ad36e6cef34fb49044,Scott Inglis,singlis@microsoft.com,May-11-2018
+79941915f431c35675e93fe0b95f7ddb7f8b398b,Gyewon Lee,gwlee@apache.org,May-18-2018
+5ed56eba3b0b438dc0fdf10a37a58fcfdeb81223,Tyson Condie,tcondie@apache.org,Apr-26-2018
+35df8205febfb565f73e3cf502639d9d17731acd,Chenxi Zhao,33109414+chzhams@users.noreply.github.com,Apr-27-2018
+c0ddb8d3f1042ba92c4170b675ddd02a7525c082,Scott Inglis,singlis@microsoft.com,Apr-27-2018
+49255b0d93d0483adf3ddb8b819512a9edbc97ca,Markus Weimer,weimer@apache.org,Apr-27-2018
+4784959c080dd9e1145569b40dee098d504f9bf1,Scott Inglis,singlis@microsoft.com,Apr-27-2018
+24bfea49dbf5c956033c214bddcb6c8ff5cd2a57,Tyson Condie,tcondie@apache.org,Apr-25-2018
+8d0bad248c5421d1d906ce5fc67b0863817c70b0,Chenxi Zhao,chzha@microsoft.com,Nov-30-2017
+aa30e7fec2f4d771dc48bd87048333fa2f4b0b16,Markus Weimer,weimer@apache.org,Apr-25-2018
+8dc333136811f22eaac943da8d1d69b6bedcada0,Scott Inglis,singlis@microsoft.com,Apr-24-2018
+c93e1219c0783371b5e31e00d4c0d812c8f3d98a,Markus Weimer,weimer@apache.org,Apr-24-2018
+7343e62c408dede8c46d2e72b4c58dda785e24b0,Scott Inglis,singlis@microsoft.com,Apr-20-2018
+30abddb5423f08965cea7e4e66c88e99ec9cdbdd,Dwaipayan Mukherjee,dwaijam@gmail.com,Apr-2-2018
+fed6fb77050b58cc8429adb010bffb9e2b0a23e8,Tyler Clintworth,tyclintw@microsoft.com,Apr-4-2018
+8c6a6535d5da40fa94fe77dd4a3c81be8e09071b,Scott Inglis,singlis@microsoft.com,Mar-26-2018
+561a336f2f0dda8f4a67a96179750a76167b038f,Reed Umbrasas,ryumbra@microsoft.com,Feb-28-2018
+7924188ca18d3af5d859aa020ed2b4448b7c0ae3,Scott Inglis,singlis@microsoft.com,Mar-26-2018
+c5196182dbd29b460080beab39961b73cad2bd70,Scott Inglis,singlis@microsoft.com,Mar-16-2018
+0f7a1cf797dbac75354a7783a3626739a1f9fec6,Scott Inglis,singlis@microsoft.com,Mar-13-2018
+b759764c7b67afd6cd37044029901ec8a9adba72,dwaijam,dwaijam@gmail.com,Jan-25-2018
+baa5be82b349ff94113f1b9ff51af2cce53ff097,Chenxi Zhao,33109414+chzhams@users.noreply.github.com,Feb-6-2018
+0348e54ec13bd8f267670167af55b8f6797b24bd,dwaijam,dwaijam@gmail.com,Jan-18-2018
+d459549354a144c94152c8b7ffc323ea186f01fb,jwang98052,juliaw@apache.org,Dec-12-2017
+e43019f40d31341818e921c6180e6fd53e5f3df1,Mandy Shieh,meshieh@microsoft.com,Jan-16-2018
+227ce1d4b92b70d5f142d05f37c1ce34ac8c3985,Markus Weimer,weimer@apache.org,Jan-3-2018
+b0b9cb1dd5048da7429cf2fd3143de7a6ebdea75,Markus Weimer,weimer@apache.org,Dec-21-2017
+8c1fbf1fe8beaf0fc7bda975c36fffcb97c2ffb4,RoganC,rocarr@microsoft.com,Dec-11-2017
+8d5f861ec4071252181f5707f007d71e4e132724,RoganC,rocarr@microsoft.com,Nov-17-2017
+4296e20f24baded5143f1f53c29b2deb2f5e90a0,roganc,rocarr@microsoft.com,Nov-4-2017
+cc1073f6c008da08d0580d2b0c15febe95515b47,Markus Weimer,weimer@apache.org,Nov-8-2017
+821ef2a2206b4b615d0289b655d57c259196b653,Sergiy Matusevych,motus@apache.org,Nov-10-2017
+aeb730aa3b27cee4815093e1961aad0c5a425462,Geon-Woo Kim,gwkim@toss.im,Nov-12-2017
+3b89926a2498790b7056555acd098f42ac5d68a9,Markus Weimer,weimer@apache.org,Oct-22-2017
+3d571e6a4bd85d095cca5bd2f903c2acf67a5f4f,Markus Weimer,weimer@apache.org,Nov-6-2017
+e36ee921d77ca6b88512ad1b8f3a1ad9752ed939,jwang98052,juliaw@apache.org,Nov-2-2017
+7b81827ff0f00ccf86dcd938c8fbaadaf6bc084a,Sergiy Matusevych,motus@apache.com,Oct-26-2017
+7a2aa5cc6e2f6133976c60f00b6146c383c3d1ab,Markus Weimer,weimer@apache.org,Nov-3-2017
+fece629495a8a4946136577658d3d81356166354,Markus Weimer,weimer@apache.org,Nov-1-2017
+bee789a75daf5db55205e75a466de140e770749d,Sergiy Matusevych,motus@apache.org,Oct-27-2017
+94af38d363b5c8ea4fef0d920082113523442b8a,Sergiy Matusevych,motus@apache.com,Oct-26-2017
+eb522e923453ae7c7a42f3be8884e66a6e5cc3ce,Sergiy Matusevych,motus@apache.com,Nov-1-2017
+49fbac27548793f4a036b1aa461d1e7cb3c1d33b,Mariia Mykhailova,michaylova@gmail.com,Nov-1-2017
+af6c39a214321f7c1969baf694641af3ee9ce828,Julia Wang,juliaw@apache.org,Jul-25-2017
+e90ffbee09919aa6cfadc999cc82843b331e2445,Sergiy Matusevych,motus@apache.org,Oct-27-2017
+48e65c0dcb52a47774dbb09300c0a142becf52d5,Sergiy Matusevych,motus@apache.com,Oct-25-2017
+daf33d56ca5937f49392bb1e950ab6456a81983a,Julia Wang,jwang98052@yahoo.com,Oct-24-2017
+e147293f2f6635171851aaabbd220e11d7465642,Julia Wang,jwang98052@yahoo.com,Oct-25-2017
+72ecec743598d0dd74d37d465c72a3eb7c050955,tcondie,tcondie@microsoft.com,Oct-10-2017
+51b76fc72899ce5fdfe0327fea02b4860ab5ba31,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+f6a0e452cb4c9c2eaabaabce19f892e197bfdf8b,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+f8a8357518b3a25a6ac8c6ba9031e615696ff326,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+49157eeda190f073b6629f04323e1da75261ea99,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+0314e61a5829b1f3a8c15e34821043c2139367fd,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+b6c9a93c4496f9bdbe2ce7dde6fb89d60bae82d3,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+a431a8c3f81635368556750283085584afcaa06b,Julia Wang,jwang98052@yahoo.com,Oct-19-2017
+0a48ea9e6831ea83b19c3ce1ab27fd2b89d2a495,Markus Weimer,weimer@apache.org,Oct-12-2017
+3a3e1e2bb802ea8ffc0f6edbb1d9668e942b531e,Sergiy Matusevych,motus@apache.com,Oct-18-2017
+987240cb7c36befdda1b168c51231002de41c24d,Julia Wang,juliaw@apache.org,Sep-22-2017
+e18b5d36ad714a877e2806f1c48f56401d6132da,Julia Wang,jwang98052@yahoo.com,Oct-9-2017
+35dc55eb65a2817debc77d018ef5618107c0ab5e,Mariia Mykhailova,michaylova@gmail.com,Oct-5-2017
+3483e3d25a108934f118961dcf335410090b2d4b,Markus Weimer,weimer@apache.org,Oct-12-2017
+ffaf906555a9148e478211fb57a91ee2a2de9210,Julia Wang,juliaw@apache.org,Oct-10-2017
+3d1411d7dfcd959025cdfef2e7e1fb60dad050de,Shouheng Yi,shouyi@microsoft.com,Sep-27-2017
+23d9b960a533c7cd2986fe086142cbd437a5a9e5,Scott Inglis,singlis@microsoft.com,Oct-3-2017
+85bae60ab0b988b143ddd49f8f4295475ebdf49c,Julia Wang,juwang@microsoft.com,Sep-1-2017
+9fb6cc41ad06c660c1be8bbcf38349e01e6c41f5,roganc,rocarr@microsoft.com,Jul-26-2017
+c0477f512f654d366fb9026c7abd6fee101a0e9b,Scott Inglis,singlis@microsoft.com,Sep-13-2017
+21029140a4e20d16115f74b83aee77d2a7408737,Julia Wang,jwang98052@yahoo.com,Sep-12-2017
+07f8e023e1243de29eb6fe0ed76bb784d486ab36,Markus Weimer,weimer@apache.org,Sep-12-2017
+4d0485a48af5c1004a0e5362ba680b43f304d3ee,Markus Weimer,weimer@apache.org,Sep-12-2017
+6489d43d00722c8406353772fccd18fbee30479d,Matteo Interlandi,mainterl@microsoft.com,Sep-3-2017
+e0634a48d501c7cde124e90cc0e54573fdbfa89a,JangHo Seo,jangho@jangho.kr,Sep-2-2017
+b8cecb612feaa96a86c031df0b6f6f7306f215b2,nhne,disoxc21@gmail.com,Aug-31-2017
+365f36ab2e93a4ef09a09a15f419c6b16e82eaa7,Sergiy Matusevych,motus@apache.org,Aug-31-2017
+d8cb35e49b49cf2fc781def2d180b6da26a24420,Shouheng Yi,shouyi@microsoft.com,Jul-13-2017
+4d1b80e107da81510ec15e9ca72569fc6cbbac72,Julia Wang,juliaw@apache.org,Jul-26-2017
+d609c002c38032f55c915c72434ae1443604461b,Doug Service,dougse@microsoft.com,Aug-11-2017
+9937c7519257a7034568938adbddfa3ebb98697b,interesaaat,90701@studenti.unimore.it,May-12-2017
+8be63d23025427a50cdbb551e16401ec308ba180,Julia Wang,juliaw@apache.org,Aug-9-2017
+c3b350fa1eb414eef43e290bba0541ad12e6ab00,taegeonum,taegeonum@gmail.com,Aug-17-2017
+ac49176e14cdea95b48459c83cebd6b983687dfa,taegeonum,taegeonum@gmail.com,Aug-11-2017
+0540bf23b79cd445ebd3bc2bf89a3acb5b8ddfc2,Sergiy Matusevych,motus@apache.org,Aug-14-2017
+47593a77059e082b1e094af3b6811473cb5ac628,Julia Wang,juliaw@apache.org,Aug-8-2017
+721f8ca48b0e5fe0485142c0f04e56046c8b9a38,Julia Wang,juliaw@apache.org,Aug-9-2017
+46911db2a5fb3aec7990db6d07491a71e9cf59e7,Doug Service,dougse@microsoft.com,Aug-8-2017
+18c24b1c760ef9afc1ea45d4c54cce8e97f3b29f,Julia Wang,juliaw@apache.org,Aug-7-2017
+2d024692645abc9e463d1ad9afd8fcc7b6293ca1,Markus Weimer,weimer@apache.org,Aug-7-2017
+b37cc1f0a34b52ea30a627e3cc6914a118006e16,taegeonum,taegeonum@gmail.com,Aug-4-2017
+93ef5013d6b02c5294591619d22a51efdcd07221,roganc,rocarr@microsoft.com,Aug-2-2017
+19ed1a120854015f90370a819006510c8a3419dd,Sergiy Matusevych,motus@apache.org,Aug-7-2017
+b702289852e32a0e9d7876dc067934f7700a1a2f,Ivanidze,Ivanidze.kirov@gmail.com,Aug-7-2017
+23d978d895c5318ad9d5732b2634c3eec026483d,roganc,rocarr@microsoft.com,Aug-2-2017
+55f11db0d9b882531a41c80e9ebb0891f0d6ca6c,Ivanidze,Ivanidze.kirov@gmail.com,Aug-7-2017
+0b45b14acf98d3c28b330a41c7eb9e6921bf7a08,Ivanidze,Ivanidze.kirov@gmail.com,Aug-7-2017
+1312c8db589d2499401a65a9c9e9480fb659fab1,roganc,rocarr@microsoft.com,Aug-2-2017
+0d7094717a47495570a7cf2e35705669fba9cef7,roganc,rocarr@microsoft.com,Aug-2-2017
+515e6ee9bffffd1194b01e02224025bf6d7202f6,roganc,rocarr@microsoft.com,Aug-2-2017
+1ec1119f4d238fd951b374bbb5569a48b2cc7509,Doug Service,dougservice@apache.org,Jul-6-2017
+9aaa65ec68c5b2eae76d46b1a3f3a78d567b7868,roganc,rocarr@microsoft.com,Jul-19-2017
+bd617bd4f9830454c876dabe4b74c93706bd4d0e,taegeonum,taegeonum@gmail.com,Jul-28-2017
+299126dd859c6262894251a8243987e35d3c469a,Julia Wang,juliaw@apache.org,Jul-26-2017
+6e927b1cc20e788a9eb34d052dc6ff1e32c2d19d,roganc,rocarr@microsoft.com,Jul-20-2017
+6a087780e3a72af6648f9af0ed6641b3229e063a,roganc,rocarr@microsoft.com,Jul-20-2017
+33a96c17d225f149762f654b4bc4904529da0880,Mariia Mykhailova,michaylova@gmail.com,Jul-21-2017
+184e4d9541da9016a1ed08a4fb084bbba02de984,Sergiy Matusevych,motus@apache.org,Jul-19-2017
+5abb8b13a462adff9b8fb1d93d669610857b03b8,Julia Wang,juliaw@apache.org,Jul-13-2017
+564b880665f27c4330530867837b159829300c06,Scott Inglis,msinglft@gmail.com,Jul-13-2017
+2b42c504afb152b60303ac070f6a5de1e927733d,Doug Service,dougservice@apache.org,Jul-20-2017
+643fe9b21c6adc14dee3abf1fdaa0640c30941d4,Doug Service,dougservice@apache.org,Jun-30-2017
+efaee7311b1f186e47b6f7bd551eb5d9fd7c3508,roganc,rocarr@microsoft.com,Jul-5-2017
+2012a48f1f18fff660fd446fc4b78ca6396c4f17,Julia Wang,juliaw@apache.org,Jul-13-2017
+7a417393cdade1d73427d4d2e124f7d3c19b9c49,Sergiy Matusevych,motus@apache.org,Jul-13-2017
+41e4be2550b5a4954cf38641210ba524d2cbbd17,roganc,rocarr@microsoft.com,Jul-11-2017
+47568d78c22a76bbbf85d0e3467e062ee9e46ac5,Julia Wang,juliaw@apache.org,May-18-2017
+7f8793952b9cd5bedc8c581900c8508d7dc58404,Doug Service,dougse@microsoft.com,Apr-26-2017
+b0efd4428b6b0af68809d8073e41aec311cc2e48,Doug Service,dougservice@apache.org,Jun-13-2017
+70ca4d92c118accf51bb73c69d94cf8a8878a614,Doug Service,dougservice@apache.org,Jun-26-2017
+ed40479e1c7a7c3a38bbcb583d48bcd1255acf6a,Mariia Mykhailova,michaylova@gmail.com,Jun-26-2017
+2f8c76b818b6289ca3d1f52718196070d3ab181d,Doug Service,dougservice@apache.org,Jun-9-2017
+c5cd0853c65577c96b0118050b55eeaf6d4d45be,Scott Inglis,msinglft@gmail.com,Jun-1-2017
+4811a5d7920d2e964031de980ebf30ad6f74e93d,Julia Wang,juliaw@apache.org,May-31-2017
+9b2bcb5bcde3bc0418ce9ff8ffa47b24eeb9f47f,Scott Inglis,msinglft@gmail.com,May-18-2017
+7bd1ae9070a8916761bb4c79b030a6fdb817f284,Julia Wang,juliaw@apache.org,May-18-2017
+687e02ab3573f140f6d37d6c4a50344b2c0b54cb,Scott Inglis,msinglft@gmail.com,May-15-2017
+4729037be79fc7d5f2f02194cda433497022798c,Sergiy Matusevych,motus@apache.org,May-16-2017
+c4710a88616ef5b059a2a730a80655bc29d3685c,Sergiy Matusevych,motus@apache.org,May-16-2017
+b90a3f690e859fa23319abe33fdbc259007fa393,Julia Wang,juliaw@apache.org,Mar-14-2017
+39adc451b9799f3441000a7cb37764b1f66d5375,Sergiy Matusevych,motus@apache.org,May-3-2017
+49c1414d6ee4ee7dc803ff729388371bd55bfdb9,Sergiy Matusevych,motus@apache.org,Apr-26-2017
+4551b471eae9307769ca2babe0c41255a7edb47f,Julia Wang,juliaw@apache.org,May-2-2017
+2ce19a571df020a9f2114d33bb9be92df5cc7ca1,Markus Weimer,weimer@apache.org,Apr-17-2017
+5e7d99be321976ee3c02dc55a146a5e1420b7227,Won Wook SONG,wsong0512@gmail.com,Apr-28-2017
+3531944f11cc115b105a6bec4268713766425034,Markus Weimer,weimer@apache.org,Apr-19-2017
+fd4f6d047581f6d7e56765eac8906c41d97efbe3,Mariia Mykhailova,michaylova@gmail.com,Apr-26-2017
+fa81f9e5129f0b3f646bcd58bf123a1e08c878cb,Doug Service,dougservice@apache.org,Apr-27-2017
+0434969aa0cb5d942370a284aa28f43026cd86fe,Scott Inglis,msinglft@gmail.com,Apr-19-2017
+326ad9ab7394c98e682a4a9075f78d0a4c665746,Sergiy Matusevych,motus@apache.org,Apr-19-2017
+d426e2b8bcb42ba2bd22a8ca112041ab9fd2a7b1,Sergiy Matusevych,motus@apache.org,Jan-25-2017
+3e9afba8b9074f0b7b68215c0ecd9777bae7cd28,Shouheng Yi,shouyi@microsoft.com,Mar-20-2017
+c5322db90db7430455c70623b6cfe063a2ae6603,Sergiy Matusevych,motus@apache.org,Apr-4-2017
+e6c23d53f6ee3922d9e28167decacb1189184b3d,taegeonum,taegeonum@gmail.com,Apr-17-2017
+4e2e09c4fbece40ea6364ceb3fd8823552efbe3e,roganc,rocarr@microsoft.com,Apr-12-2017
+affd9735d7cd63c8576b89dc119ef1c1f61b053a,roganc,rocarr@microsoft.com,Apr-11-2017
+267140543782487269f9f5fdb54317f536bd7a91,Shouheng Yi,shouyi@microsoft.com,Apr-4-2017
+9349e99b5ce9f085610a0cdb46d3f0d7028e1540,Julia Wang,juliaw@apache.org,Apr-4-2017
+9c3fd46cc799bc443251cad2bef454bcda036d57,Shouheng Yi,shouyi@microsoft.com,Apr-6-2017
+41de6d4dc8715548bb93090f48085147dfacee65,Julia Wang,juliaw@apache.org,Apr-3-2017
+d3503ec1a98385269c5e243a719e21dc32dde61d,Sergiy Matusevych,motus@apache.org,Mar-30-2017
+10678052ca227b23e3b5c15f8613aed0dd3d59b2,taegeonum,taegeonum@gmail.com,Mar-31-2017
+8657733fd20d370eb83aaba0d49f9c01e04d4112,Sergiy Matusevych,motus@apache.org,Mar-28-2017
+ca1a9e2129263086095b84e52bad8affba09fa92,Julia Wang,juliaw@apache.org,Mar-22-2017
+b4c379c0c67f5d04ce5b1ff563a5a57952d38485,Saikat Kanjilal,sxk1969@hotmail.com,Mar-23-2017
+96725fa7719d4c1bd020c1a6acdffee735af6479,Sergiy Matusevych,motus@apache.org,Mar-24-2017
+a21aa3c0317b933387ca73e721e313e23bbb25c6,taegeonum,taegeonum@gmail.com,Mar-24-2017
+3df726738abe66fea090fdce198d8bc445c4c8cb,taegeonum,taegeonum@gmail.com,Mar-23-2017
+7e0f408c2120f1b67524cf86a3dc8ddef7b4cefb,Julia Wang,juliaw@apache.org,Mar-21-2017
+0147a893261dff1ec99609b0a94364567e0dc921,Julia Wang,juliaw@apache.org,Mar-21-2017
+636af6afae00825959adb730e8b4e102e491eca6,Sergiy Matusevych,motus@apache.org,Mar-21-2017
+11201cbdc5bdf588d0f8f3804d33a52dd0f160da,Shouheng Yi,shouyi@microsoft.com,Mar-20-2017
+3cca118468d0974c623ecccc920395edc0580a3f,taegeonum,taegeonum@gmail.com,Mar-17-2017
+e851c4614b518bc9e7f690677f6dbde4f0741e98,Julia Wang,juliaw@apache.org,Mar-17-2017
+9fdaed2161bd1c9ec60acb0822028e410b0ed966,Julia Wang,juliaw@apache.org,Mar-16-2017
+9a9715f91ccce3910986ef2bdbbedf397768ba4d,Julia Wang,juliaw@apache.org,Mar-16-2017
+216ecdec0f47fa5414095cfe9366db91dda90b4c,taegeonum,taegeonum@gmail.com,Mar-17-2017
+bcfafbc341f17abea6a0836435ae240710783a8c,Julia Wang,juliaw@apache.org,Feb-16-2017
+9ab622fe44389bc1db37ffe12dccb94188289b66,Emeka-NMC,emeka.nduaguba@gmail.com,Feb-16-2017
+58e7c67b4ec6b3f8d235f7eed60feeffba9503e3,Sergiy Matusevych,motus@apache.org,May-6-2016
+f236c7a818feaa97fb5a911e3909406022983939,Saikat Kanjilal,sxk1969@hotmail.com,Feb-10-2017
+0d803909a49f13a854d7a0bb1f2095cda75844ad,nnaemeka,nnaemeka@microsoft.com,Feb-16-2017
+2332f40be9f3a848eeef169f8d94ee4323f960bd,Sergiy Matusevych,motus@apache.org,Feb-15-2017
+076b98c9a6112a1d26699d00c4fd4222ec708f3b,Julia Wang,jwang98052@yahoo.com,Feb-6-2017
+26f98be43a9ca59e6d4afa8d313e02bff3b34147,Sergiy Matusevych,motus@apache.org,Nov-14-2016
+e554dd37bf8b1e3f769c484f0d760224de4af694,Sergiy Matusevych,motus@apache.org,Jan-31-2017
+944ef73bee63cbd19a25fd65959966ac08861ea2,Sergiy Matusevych,motus@apache.org,Jan-31-2017
+3c7aba279288d1cbf4e9b72a9875e2839ede8a35,Julia Wang,jwang98052@yahoo.com,Jan-27-2017
+b8d2bad8643bf3bbbee27bbd20d8799fc2046967,Sergiy Matusevych,motus@apache.org,Jan-25-2017
+b0626ee471b5aa3851267ba41a814e18ce6ef7f2,Mariia Mykhailova,mariia@apache.org,Jan-30-2017
+2fd16b5fce2e19c611ce22a79409af353e90763e,Mariia Mykhailova,mariia@apache.org,Jan-30-2017
+4550b841db1ddedf6c59aaf93b4dc042ed760162,Sergiy Matusevych,motus@apache.org,Jan-25-2017
+d5e448101c40a8db8f1a4ca8e9f979607941b7b0,Mariia Mykhailova,mariia@apache.org,Jan-25-2017
+485242c5781afec1e0cab9d0303efa74133c9542,Sergiy Matusevych,motus@apache.org,Jan-26-2017
+e4a2a075f394c49eb5dc119861ff84c7ba80ebec,Sergiy Matusevych,motus@apache.org,Jan-13-2017
+2142dd7a3ea40690764d4c8a3c914d9775141d0d,Sergiy Matusevych,motus@apache.org,Jan-23-2017
+876722f2f1de3d7edfbe4749557d18d3007f71b4,Mariia Mykhailova,mariia@apache.org,Jan-22-2017
+0b23aa14f13c8b7beb102847fc3abc4ed02e2366,Won Wook SONG,wsong0512@gmail.com,Jan-20-2017
+8d06580670589001f16ca59796643988c6fa4054,Julia Wang,juliaw@apache.org,Jan-19-2017
+82a32809c5267c3caa9923a5c3e5d2503b853fc7,Mariia Mykhailova,mariia@apache.org,Jan-18-2017
+5f212e179b4221e2234999ba5acb93b1c68b6a6a,Sergiy Matusevych,motus@apache.org,Jan-13-2017
+c48c3f0420626171ffb85d1216da2e718ecf36f7,Julia Wang,juliaw@apache.org,Jan-17-2017
+f8e45ff3682d72039ce6bf4f57878fde2d7ab144,Mariia Mykhailova,mariia@apache.org,Jan-17-2017
+45f7f17305ccec0cc56b6e1e287e0029954189ec,Sergiy Matusevych,motus@apache.org,Jan-13-2017
+2a4d08d4f61c2b57565676645907ecf2657ed5ea,Shouheng Yi,EstusDev@users.noreply.github.com,Jan-13-2017
+c030e7366675bb44a735b7ffc5cf5fe5940c449d,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+f783554890b1fc1c8ee865a4f706b578f718b411,Sergiy Matusevych,motus@apache.org,Jan-13-2017
+be68df345c7dcb3af4c14a7720b6e385e9ad3837,Julia Wang,jwang98052@yahoo.com,Jan-4-2017
+1396fb3dc7a4b9c739e245d260320eb0d3096357,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+0fb3f8d9a885c0431b2a6d01cb69c7ce486149ab,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+8ef1b836109450434391fc788c6fb2db74d51736,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+a1ef9374d95772299796d3bbe1ce1b28d013801a,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+a050b1ca54cbdab47beafe268e3a5a53aa235b1d,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+17840f04c4512682d03df959bf1cd8a995128286,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+a85effcb138319692571c5abed205fdb0ffc434a,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+559f489c64a03a257ede111a3c214071cb685411,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+2da14d264ff01b73ce484f3ba25576dbab313b76,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+9e299c564e6197b34016ceba0faf52a5072c017d,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+8be582f5fbeb53c80a722a1a545ceb82df991e8b,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+6ebeff4441ce3e39cdbeefb6c1bfd9ec0aa80726,Sergiy Matusevych,motus@apache.org,Jan-11-2017
+3b5a60a6cfc02d19af7ff5fdcad94d0bac6d6447,Mariia Mykhailova,mariia@apache.org,Jan-6-2017
+433f449dc48a3a43a5466c70e653afa2f0ef249d,Mariia Mykhailova,mariia@apache.org,Jan-3-2017
+55e8e3ffbcb199a89df9fee29565fa33dfdb6242,Mariia Mykhailova,mariia@apache.org,Dec-29-2016
+abba4735b8a7d3932e1b9482bce3b06019cd4f24,Julia Wang,juliaw@apache.org,Dec-15-2016
+415bb9eb3dabf93153a20c462c80eb71b679e342,Mariia Mykhailova,mariia@apache.org,Dec-15-2016
+09d56bcfbe2044c62ecb1509df48204f30c8171d,dhruv,dhruv@apache.org,Nov-22-2016
+92b21364c7234c57b4c4dcfa550078a2e2b82ada,Mariia Mykhailova,mariia@apache.org,Dec-15-2016
+6c597f140184471969ce8bac4c96fc41ca8ea36d,Julia Wang,jwang98052@yahoo.com,Dec-13-2016
+7adaa97d3ddf4e192ae42fea88f6911a7f747343,Julia Wang,juliaw@apache.org,Dec-13-2016
+55cde7d623ae2096248fea58e84ac211a04de2ad,Mariia Mykhailova,mariia@apache.org,Jul-8-2016
+765d7f616844ed947549465ce991b9ee71b4c190,Julia Wang,juliaw@apache.org,Dec-6-2016
+eb66b2e9d473418b8df9415b26809016c526114a,Sergiy Matusevych,motus@apache.org,Dec-6-2016
+7c04284ede34fe5c51f42c4b84b99c1dde0b9a4b,Julia Wang,juliaw@apache.org,Dec-6-2016
+5f6946150b27bde30e7bed246053b58a49f599fb,Mariia Mykhailova,mariia@apache.org,Nov-23-2016
+977965c239ec59888c0dae5309d598f00848824c,Julia Wang,jwang98052@yahoo.com,Dec-1-2016
+0d78bf8220a012c5d1b83db930ed431cfd521572,Julia Wang,jwang98052@yahoo.com,Nov-29-2016
+dd14f091050b9e8f22cff3627a8be686fd91350e,Julia Wang,jwang98052@yahoo.com,Nov-29-2016
+c0ddcc9c95b946abb346c1521eb3fc8fee1c22b6,Mariia Mykhailova,mariia@apache.org,Dec-1-2016
+cf42937fc7582c9e375d05b7ef3efcc75b348c31,andrey-me,andreym@microsoft.com,Nov-18-2016
+1e1fff6f2e2873e39a7338bb1370148ed17a2401,Mariia Mykhailova,mariia@apache.org,Nov-28-2016
+9f98435e023c14af8d1fc56d0d41d1448469305c,Mariia Mykhailova,mariia@apache.org,Nov-23-2016
+35b48e1eab365ff609a49ee97b0143805d7b61f3,Mariia Mykhailova,mariia@apache.org,Nov-22-2016
+729128ef9e8753b3aa795873a5e91347699067f8,Markus Weimer,weimer@apache.org,Nov-23-2016
+fd2a746ee7b71a9e95cf784a86fd3d241eaf558b,dhruv,dhruv@apache.org,Nov-17-2016
+6eb3a89292016bc8325e592de60bf51ce0947d60,Mariia Mykhailova,mariia@apache.org,Nov-21-2016
+b0a47f9b707f044a5a496266255826113d29cf61,Mariia Mykhailova,mariia@apache.org,Nov-17-2016
+1fd4f2655406b7ce0f9e9b8c0d954d1941e60880,andrey-me,andreym@microsoft.com,Oct-14-2016
+4e4e568faa3c3d625433b17bb4d15e0cd7897d7a,Julia Wang,jwang98052@yahoo.com,Nov-16-2016
+4392ab83badf077133bdaeabaaa7168f6588852b,Sergey Dudoladov,ssd@apache.org,Nov-4-2016
+b7a98d795ca2fa1714da21640f3f1fc19d4c0a4d,Sergiy Matusevych,motus@apache.org,Nov-7-2016
+a5395f8758436b92ea0ca0c3590624ef5ef0fc46,Sergiy Matusevych,motus@apache.org,Nov-7-2016
+205df7bf134f04d4e41637a50a5ea073842fb902,Julia Wang,juwang@microsoft.com,Nov-2-2016
+55e0cfc856c4f3940bedd6539de67a709e723c00,Sergiy Matusevych,motus@apache.org,Oct-31-2016
+220d75cacb49754cfdbac9da54eba4a116c9d1fb,Mariia Mykhailova,mariia@apache.org,Nov-1-2016
+31fbd0e997534f14ec826470e838deda3ea6012f,Sergiy Matusevych,motus@apache.org,Oct-31-2016
+8e628faeb2c1d2a1dade06ad39629f8269e70d81,andrey-me,andreym@microsoft.com,Oct-31-2016
+8ef0c4e2a20da78d4547a9c31f6fa86c37d7678f,Sergiy Matusevych,motus@apache.org,Oct-27-2016
+5f4591083b3ee74eacc70770193913e6972812b2,Sergiy Matusevych,motus@apache.org,Oct-28-2016
+73c28280c518996714a7bcacdd9e687baafaf35d,Julia Wang,jwang98052@yahoo.com,Oct-20-2016
+1a7c6d1d3caeabd34cac8f9ba430a8990f574f4e,Sergiy Matusevych,motus@apache.org,Oct-27-2016
+17ef67734ff36936eeb8468ef4804eca7239769d,Mariia Mykhailova,mariia@apache.org,Oct-21-2016
+6e1d171d6fca65e7e3c4e47ff7d89fbcfa30555f,Sergiy Matusevych,motus@apache.org,Oct-20-2016
+b68ae3b7991d46ee52859f3aa44abd3c8e1cc1f6,dhruv,dhruv@apache.org,Oct-24-2016
+5da7cb457ccbd4614ea80345f57585299b51cabe,Sergiy Matusevych,motus@apache.org,Oct-20-2016
+5a1c60f5a0f7e548e8acfd234ec320c96d7398e6,Mariia Mykhailova,mariia@apache.org,Oct-24-2016
+556bda809f6f2301dfa9afdf313cfb25f308c887,Sergiy Matusevych,motus@apache.org,Oct-18-2016
+44ee29c04f37c7aec4d952e2e6ce5e3efb49775f,Mariia Mykhailova,mariia@apache.org,Oct-17-2016
+ac732bde29ec6ae8827ffa93bdc1e03bb538228b,Mariia Mykhailova,mariia@apache.org,Oct-17-2016
+1fc8cd0515dcfa520a8193202b3e9aa099e806c6,Sergiy Matusevych,motus@apache.org,Oct-11-2016
+18c25fdcfabb7ba1c56ea374d0d7f6777d99d7fd,Julia Wang,jwang98052@yahoo.com,Oct-14-2016
+08f096a2778a731c4de40c13edb1e7141f39a02b,Sergiy Matusevych,motus@apache.org,Oct-11-2016
+234eeba7de648d5f1dbed4246733f60df143bca7,Sergiy Matusevych,motus@apache.org,Oct-12-2016
+a4e7294d7756abc8a7cd6c54263c79c50f83e8ce,Mariia Mykhailova,mariia@apache.org,Oct-13-2016
+dc918bdc8048606802696424d5652b0b13060d16,Sergiy Matusevych,motus@apache.org,Oct-6-2016
+f5107f0ebd7553d1f3f0995a9472389e437b69e5,Julia Wang,jwang98052@yahoo.com,Oct-6-2016
+59b766e87ac55c87cf88b2fb8a8ed029b52e417a,Sergiy Matusevych,motus@apache.org,Oct-6-2016
+24ea116ab8de0232f74f4dd2ac974f292bdf453f,Mariia Mykhailova,mariia@apache.org,Oct-6-2016
+6ef24d3e195c8d3c17855bfea1f49ea4220dd5b4,Mariia Mykhailova,mariia@apache.org,Oct-5-2016
+59325a311ce5c3ba8f44187cff6f169197f71b02,Sergiy Matusevych,motus@apache.org,Sep-22-2016
+6a0947109aebe5b452c29ab479f4ecef72c6e766,Doug Service,dougse@microsoft.com,Sep-12-2016
+292f781f26b2435def829ede19d2e9399f4bbe71,Julia Wang,juliaw@apache.org,Oct-3-2016
+7d12ab6dc88ac319814176391176937c506a2e9e,Markus Weimer,weimer@apache.org,Sep-27-2016
+a28f994ea0f253450889cb0ad25ee253f80a4579,Mariia Mykhailova,mariia@apache.org,Sep-29-2016
+45cae485ebfaf5c30d8847c50c2a8e13e9782f1d,Sergiy Matusevych,motus@apache.org,Sep-30-2016
+a105042a9f57bb0b21ce3246a168f0a67dd4d74a,Julia Wang,juliaw@apache.org,Sep-29-2016
+8103ed90b34fa42537f0a6d1a374265efa7ad027,Doug Service,dougse@microsoft.com,Sep-29-2016
+75f78ac8dfbcfa76bf4bde82948761d0fd1372db,Mariia Mykhailova,mariia@apache.org,Sep-28-2016
+6ef63c19633554b3889c14aa203b8c628df4538e,Mariia Mykhailova,mariia@apache.org,Sep-28-2016
+a2278b4db74f6b60b41f1b4c1e848edaa3453de5,Mariia Mykhailova,mariia@apache.org,Sep-27-2016
+3ea89be97c20a440bba84c8c33338ee8e480875d,Mariia Mykhailova,mariia@apache.org,Sep-26-2016
+1add8399e84a9153774aaf9b63b2571490c15303,Doug Service,dougse@microsoft.com,Sep-26-2016
+37d1891c60de25e7cb92cdf50ed722b692991acf,Jason (Joo Seong) Jeong,culex496782@gmail.com,Aug-11-2016
+e8b7c08f07a163d28f720974321220847bdb8623,Mariia Mykhailova,mariia@apache.org,Sep-22-2016
+9fd95d04682c58e9ae8868ba8bed80a28b00511c,Mariia Mykhailova,mariia@apache.org,Sep-22-2016
+e227f8d7eedb664e3c1d0bef9c003ecb17b46dfd,Mariia Mykhailova,mariia@apache.org,Sep-21-2016
+57e9f4db77052622746abf6adadbce4f47459bcc,Shravan Narayanamurthy,shravan@apache.org,Sep-20-2016
+7cc27178027c2e13dfb43af92649792960815dc5,inchiosa,marinch@microsoft.com,Sep-16-2016
+719e6445951b0214c1b687ac85def666e5bc2c4a,Sergiy Matusevych,motus@apache.org,Sep-9-2016
+a9d6d6a66dacb52015ca2c89db659bde4a0ae462,Julia Wang,juliaw@apache.org,Sep-14-2016
+9234a081df5fd911d96bb6e02534256dfbd7a8be,Markus Weimer,weimer@apache.org,Sep-15-2016
+023ba25c3babffd7746654c654bde755d15f62c2,Mariia Mykhailova,mariia@apache.org,Sep-13-2016
+1b83ad21346ffb028dd8271ef4ac7b2f5af19b1f,Julia Wang,jwang98052@yahoo.com,Sep-9-2016
+1c7adac041243973f53ec98b0cf8cd468c58dd93,Julia Wang,juliaw@apache.org,Sep-9-2016
+9b034dd3c11b3a9854ad7967ad676e6853a01e1d,Julia Wang,jwang98052@yahoo.com,Sep-7-2016
+3cc39310b2f899cf5b5be4f97cf1cd70d0f94f30,inchiosa,marinch@microsoft.com,Aug-31-2016
+fba47fa2cfb605dc7d664ef796e31d87ca9af4ce,Mariia Mykhailova,mariia@apache.org,Sep-8-2016
+8c08561146ed5c1c22927ff7cc278dac966e85c9,sanha,sanhaleehana@naver.com,Aug-18-2016
+d25412e9cb17de688c0db9809dcc1ad314d8337d,Sergiy Matusevych,motus@apache.org,Aug-30-2016
+67fe835872a3248fead32e8d40b3aabf4893eae7,Mariia Mykhailova,mariia@apache.org,Sep-7-2016
+b14c8cd8191b70249a939c1cca25a61e7231a9b0,Julia Wang,juliaw@apache.org,Jun-6-2016
+d116d94e69f826d650d87d0d9e0dfdf0457502eb,Mariia Mykhailova,mariia@apache.org,Sep-1-2016
+80f1a54c1c5a81fc5f213f7f79f1ab04be91455a,Dongjoon Hyun,dongjoon@apache.org,Aug-28-2016
+db4ffaec659a139797dd00227985e201ca88c2f5,Doug Service,dougse@microsoft.com,Aug-30-2016
+0b8da4cfc3761b38339b03870eb4bb75f90811d0,dhruv,dhruv@apache.org,Jul-8-2016
+af63bf639755bbd17ca8e0439b18471e19f6e171,Sergiy Matusevych,motus@apache.org,Aug-12-2016
+f7f08b9f28eaee5af8d4c55ddb949290da570fca,Sergey Dudoladov,ssd@apache.org,Aug-7-2016
+65649348ceceb5630e4c09c8237ab6a2640bd88b,Sergiy Matusevych,motus@apache.org,Aug-12-2016
+addd62328d77b5f0f227eb8a448c77dd0a75461e,pchung13,me@patrickchung.net,Aug-23-2016
+c01d947376490c5d8fdc3199fd04cd484c1af9f5,Julia Wang,juliaw@apache.org,Aug-11-2016
+038b24dc699f2d0f3d5b682ceedb09fae3c677c0,Sergiy Matusevych,motus@apache.org,Aug-18-2016
+35ed753df373168ad70f1d2d252413b5fdfa3507,Sergiy Matusevych,motus@apache.org,Aug-18-2016
+30b57ae452c6262f8c950da4f96bd42549fac313,Won Wook SONG,wsong0512@gmail.com,Jun-24-2016
+e6ba12a08e18dc7fa9027f51bdd40e3bab4d63ed,Boris Shulman,shulmanb@gmail.com,Aug-18-2016
+a59070fa0829eb8d211f8140e3df9f1b70e4a6e1,Boris Shulman,shulmanb@gmail.com,Aug-15-2016
+8e140c72083cfe7747436d84dfbe6c1a8426477f,Sergiy Matusevych,motus@apache.org,Aug-12-2016
+44bb76eb7b5d9782f7da0893c758a9dd09126d83,Shiv Sundram,shsund@microsoft.com,Aug-16-2016
+c26901fc41f2b7af03df03693b673f78eeb19ab5,inchiosa,marinch@microsoft.com,Aug-11-2016
+0ab1c2729c54266a2aa29004b8fb2b8eec506c51,Julia Wang,juliaw@apache.org,Aug-11-2016
+1038a6da822ad591daaefea0cf518ccf860a9ea4,Sergiy Matusevych,motus@apache.org,Aug-10-2016
+2bfb7318f5694b30884ebf240156de4750eaa6e2,Sergiy Matusevych,motus@apache.org,Aug-10-2016
+8b7ae014e8d119ce7917128672391435cc249fc2,Shiv Sundram,shsundr@gmail.com,Aug-8-2016
+d01c0c46f335bf85446a99243233907ae7d9fad8,Julia Wang,juliaw@apache.org,Aug-3-2016
+58090fec083edb797e2242a6f12250fc6b40946e,inchiosa,marinch@microsoft.com,Aug-8-2016
+1ae16d9b25c2fd39bdd8b080426396cc5355fbcc,Shiv Sundram,shsundr@gmail.com,Jul-28-2016
+42aa9462bde5a7ea32a97aaadb3227a9963d1031,Mariia Mykhailova,mariia@apache.org,Aug-1-2016
+cf2f146a19f54a976ab8b593badb3a00b7d8bf4c,JiEun Lee,smokyblackashes@gmail.com,Jul-27-2016
+cfdb2bf5dff50c4f6f0852f5267011f5bca14d2c,Doug Service,dougse@microsoft.com,Jul-29-2016
+c4cb3156eba40679c4ded1e12fdd4edd3c3d9110,Jason (Joo Seong) Jeong,culex496782@gmail.com,Jun-24-2016
+b4595db9574eacaff3244a63eada77d1d5a98703,bellatoris,bellatoris@snu.ac.kr,Jul-20-2016
+a44cd58eab27270f616e059d072e539070cb27cd,inchiosa,marinch@microsoft.com,Jul-21-2016
+83e5e8667320b133ca75e1763627f18af28307b7,Jason (Joo Seong) Jeong,culex496782@gmail.com,Jun-22-2016
+d0b6752384700790a302c1dd9d1f10f384d69ba8,Mariia Mykhailova,mariia@apache.org,Jul-11-2016
+46e98f9d71a5eab0ac84208df5bc193a5c517ec0,Mariia Mykhailova,mariia@apache.org,Jul-6-2016

@@ -1,0 +1,550 @@
+commit_id,Author,Author_adress,Date
+5a875755019a7f342a07c8c368a50e3efb6ae68c,Martin Veith,veithm@apache.org,May-18-2015
+3e9c5aa41f90084ef08fcb5a25deda61cb084eaf,Martin Veith,veithm@apache.org,May-15-2015
+1fd95692f38ffca6ae56c369997c7742c5bc0660,Martin Veith,veithm@apache.org,May-15-2015
+3ba470389f9d20e5ce673a3d3bd50c79b23e52a9,Martin Veith,veithm@apache.org,May-15-2015
+e0e77f991bb3fdad8de640fd895062bd530f669e,Martin Veith,veithm@apache.org,May-15-2015
+dd80348e19acae59cb1b860710fc8edfd3d7be30,Martin Veith,veithm@apache.org,May-15-2015
+e3905fb0e3f2a81ea0e37967ec0333e23cc45cfa,Martin Veith,veithm@apache.org,May-15-2015
+e471132053b0c757f84fef9666a3d08dc6064757,Martin Veith,veithm@apache.org,May-15-2015
+2d69ad1dc9eb661dc7421aa7ad6900af821c4843,Martin Veith,veithm@apache.org,May-15-2015
+8f52029aa68717505b1c7ee6c9345172a5613d92,Martin Veith,veithm@apache.org,May-15-2015
+4fd3dfac83f77ee8651ba2da106a143cd13a302c,Martin Veith,veithm@apache.org,May-15-2015
+d667dcb418ae71879b4333ea8562a299fbb0243a,Martin Veith,veithm@apache.org,May-15-2015
+4580c9d2a851dede392fdcd7889398899fd3cccc,Martin Veith,veithm@apache.org,May-15-2015
+799a1efdc0b199973b5a774b9174076746c349aa,Martin Veith,veithm@apache.org,May-15-2015
+b93ac57d3073396da92bb2fb60f24f38759fbe05,Martin Veith,veithm@apache.org,Jun-20-2014
+d3a39f1d05fa74334d332d92992a6fbbfbca9304,Martin Veith,veithm@apache.org,Jun-20-2014
+a49528b2c806c43cbb4fecfc6aba1af4b3487b4c,Martin Veith,veithm@apache.org,May-12-2014
+cf0ad6e42a1fdfd5447dae021b9810c0383c0d36,Martin Veith,veithm@apache.org,Apr-4-2014
+40b35dd391aacdc7cae38718f7a1b753191c6592,Martin Veith,veithm@apache.org,Apr-4-2014
+001ddadef4ddaea7057e7c92a5a26fc79fa3fa6b,Martin Veith,veithm@apache.org,Apr-4-2014
+9371a631670f38db0d474503d1d35eceb6207c94,Martin Veith,veithm@apache.org,Apr-1-2014
+a058ef9cf36e027eee05260150c18aeda629ceb8,Martin Veith,veithm@apache.org,Mar-24-2014
+0e3846ad7848f506527520d9e4993b9308e2fc1b,Martin Veith,veithm@apache.org,Mar-24-2014
+becb91e8018ddd21a0e2bc430363253eecbf57ae,Martin Veith,veithm@apache.org,Mar-21-2014
+f92aa31bd602114808c18d90ba87757b419ba0da,Martin Veith,veithm@apache.org,Mar-20-2014
+a411a57cd10c1d7f63a67b701ca27f638772fa49,Martin Veith,veithm@apache.org,Mar-20-2014
+bde92c67acdd72d539a3bb1b0a60c1793a5f9330,Martin Veith,veithm@apache.org,Mar-20-2014
+eea649f472896c51592f2c965373ac90d4bb204a,Martin Veith,veithm@apache.org,Mar-18-2014
+60d819693294deedf6c8e3622884328884d6971c,Martin Veith,veithm@apache.org,Mar-18-2014
+888ff19f9343434e447157f71033112d105b35df,Martin Veith,veithm@apache.org,Mar-18-2014
+89ee328f3259d0e59dea0ea2c1302a638efffa66,Martin Veith,veithm@apache.org,Mar-18-2014
+d0c6b4860bebc48d82744197befd14430a3d1e92,Martin Veith,veithm@apache.org,Mar-18-2014
+3067f1fa85dd07cc376106e323b3dbc4e37b580f,Martin Veith,veithm@apache.org,Mar-18-2014
+de5e70d6266095a2e59af4e48e2ee8cb6d61ee34,Martin Veith,veithm@apache.org,Mar-18-2014
+834a7fa17c935f56569dc525892e7dc24a19ff89,Martin Veith,veithm@apache.org,Mar-18-2014
+e9802a45de523b1236d8a6a72eea3ab3c0a7558b,Martin Veith,veithm@apache.org,Mar-18-2014
+5d6b4a052ca843847e37789d3e74dc02ff0f7517,Martin Veith,veithm@apache.org,Mar-18-2014
+cf3c17c099ac35d3ec3b751b0ea5480068db345d,Martin Veith,veithm@apache.org,Mar-18-2014
+273f52f06f93a89d431089285b3948a342065300,Martin Veith,veithm@apache.org,Mar-18-2014
+a101d9521eaad96d040ac60f04d1b5babd3a7c1a,Martin Veith,veithm@apache.org,Mar-18-2014
+2ccc8d36b49dd73a6c181c56e24c5a2c9d2b2c80,Martin Veith,veithm@apache.org,Mar-18-2014
+ddf89b4d9be825f3137ef3450eaf34ad74240fc0,Martin Veith,veithm@apache.org,Mar-18-2014
+63d6014add78d059bd0d897f1edc79d090f2b614,Martin Veith,veithm@apache.org,Mar-18-2014
+10189a107fdf3b49cd8d9233bdd51e0abfe75775,Martin Veith,veithm@apache.org,Mar-18-2014
+892f17edcac7bb73cbc4e8e30b0e6e45ebe5d62b,Martin Veith,veithm@apache.org,Mar-18-2014
+3dd64bd94cccd5f8c07ea4e4f5b60959c4441779,Martin Veith,veithm@apache.org,Feb-5-2014
+e7eb609042d39d031ed3cbe4aaf15ca21b8be6f9,Martin Veith,veithm@apache.org,Dec-11-2013
+a3a5512c78654b0f5469db4dfa63138edb3ff817,Martin Veith,veithm@apache.org,Dec-11-2013
+aa97e9fd43804ae3334ebf08e80bdd9a5d44894a,Martin Veith,veithm@apache.org,Dec-6-2013
+9025cb4ce932bb4167ef1bee7934498a10667263,Martin Veith,veithm@apache.org,Dec-6-2013
+95e3427a2c0e79079881bda43afb8928309ff110,Martin Veith,veithm@apache.org,Dec-6-2013
+d9e3fed20e1e6ab945cae656064a5e97e3245c2f,Martin Veith,veithm@apache.org,Dec-6-2013
+b238be9743120af2b9efb5a198fe9046de7eee3f,Martin Veith,veithm@apache.org,Dec-3-2013
+12f2eece144ca78d913b1daabe3959a7084c21dd,Martin Veith,veithm@apache.org,Dec-3-2013
+964f3fe9d47283bebf83fa50cea47b4ab117491c,Martin Veith,veithm@apache.org,Aug-29-2013
+2b48de76b89ad1a7fedea4f401b7819d61465110,Martin Veith,veithm@apache.org,Aug-29-2013
+63451ff38d292b264312e33bb0eeee7f1ab0c383,Martin Veith,veithm@apache.org,Aug-28-2013
+45d52911f0c4e36af2bdb3275f8095d3633538d1,Martin Veith,veithm@apache.org,Aug-28-2013
+a0871d7f8a3cb1f636033aaa50d6e4a79292de83,Martin Veith,veithm@apache.org,Aug-28-2013
+0e47ff550c4ccd7e336ff3e4101bfb420fc9b6cf,Martin Veith,veithm@apache.org,Aug-28-2013
+bb3251bf34b7bb1982daee3b49d87709dc4d3903,Martin Veith,veithm@apache.org,Aug-28-2013
+1f8b4039dbab3eea236665fe9efaf42252c29bb2,Martin Veith,veithm@apache.org,May-15-2013
+99a6a0524811df565969c2bdb56467e9c7ef366c,Martin Veith,veithm@apache.org,May-15-2013
+b46edb799f4796bb4c2e8a2645748c9de8da6fa8,Martin Veith,veithm@apache.org,Apr-26-2013
+b721f8db8060e2d1a4440da64c08d90b5a8e1584,Martin Veith,veithm@apache.org,Mar-25-2013
+18beee836d18d3ed1303684ef55d8c744a0684f8,Martin Veith,veithm@apache.org,Mar-25-2013
+3d93d33400b11850b692b0a7f3130997e837f8b4,Martin Veith,veithm@apache.org,Mar-25-2013
+7eafcc0a1fe6b4657322c3e505368fa046028172,Martin Veith,veithm@apache.org,Mar-25-2013
+80db2a25ce1ffb54343f45b8b2daff0de2073c7e,Martin Veith,veithm@apache.org,Mar-25-2013
+a861ced9c87c36c9e465efc3151f06a8d5834051,Martin Veith,veithm@apache.org,Mar-25-2013
+b35f563f3f13b42a1dc2eb8c7f9dc6da6173564e,Martin Veith,veithm@apache.org,Mar-25-2013
+15d6feb7a1416e319ada3e878dea0e7e75ca4139,Martin Veith,veithm@apache.org,Mar-25-2013
+ce0b23825676cb3c668c7c0159670ba664f29fde,Daniel Shahaf,danielsh@apache.org,Jan-30-2013
+7886801c9ff9f961e6fca495b3f286ee3ba2790a,Martin Veith,veithm@apache.org,Oct-22-2012
+1cc4a02f68755d4819b7a664a4c612fb1ad4b308,Martin Veith,veithm@apache.org,Oct-22-2012
+aee78b1bf58a30e45bfbf3aed2c0e38c8e60c648,Martin Veith,veithm@apache.org,Oct-17-2012
+43915d62a0f84084b767433200b74e05223debae,Martin Veith,veithm@apache.org,Oct-17-2012
+d5d750768c60d88679a49139cc94f8ca9398c4e9,Martin Veith,veithm@apache.org,Oct-17-2012
+51e6aca3f92dfc5f2f0f82dce0f9ff99bc6ee047,Martin Veith,veithm@apache.org,Oct-17-2012
+43f0a8ffdb55afe645c0ff349cc0dcaa136f5f32,Martin Veith,veithm@apache.org,Oct-17-2012
+d64fe0bab24ecbbb8820481fb377f0906e8737b2,Martin Veith,veithm@apache.org,Oct-17-2012
+8496b57a6ac9306728134fcc02fda6a434547782,Martin Veith,veithm@apache.org,Oct-17-2012
+1daea3fae1e582971a433de8340755f3f774c4b4,Martin Veith,veithm@apache.org,Oct-17-2012
+903c6724e47cb5dbc8dbac232d08183af652e388,Martin Veith,veithm@apache.org,Oct-17-2012
+c85cec93a41e58d289d2322f13c67e6d9e767054,Martin Veith,veithm@apache.org,Oct-17-2012
+aa258a921dfd8334d5a36c822ad4fb912f35fe02,Martin Veith,veithm@apache.org,Oct-17-2012
+bd563b5ec2ad75bd360e9af87c7d6794166f90fb,Martin Veith,veithm@apache.org,Oct-17-2012
+97d47eaa11b3b774a390b19d618b13ab0405198c,Martin Veith,veithm@apache.org,Oct-17-2012
+968373fdcc1aa8848a6b15ef5893c0b1b12df78c,Martin Veith,veithm@apache.org,Oct-17-2012
+98d9bb76982db4e5c484700fff129858fda1768c,Martin Veith,veithm@apache.org,Aug-23-2012
+e1fbee638fc86af80b24b0e3865847af26b90063,Martin Veith,veithm@apache.org,Aug-23-2012
+4741bbd448ab0399e3560641c52c04088ddda679,Michael Fitzner,fitzner@apache.org,Aug-23-2012
+d52f57150eb4c45e5a78f6fe2cf3f4cb7a218f36,Michael Fitzner,fitzner@apache.org,Aug-23-2012
+7507854bbceef1dc435b8795f857cad668561ea4,Michael Fitzner,fitzner@apache.org,Aug-23-2012
+609e58ae85918ff5d0fa8b7b232512d3cdf5ee12,Martin Veith,veithm@apache.org,Aug-23-2012
+911df0dbfd6cf50ad09ca1b695ad84f48dc61abe,Michael Fitzner,fitzner@apache.org,Aug-23-2012
+f89a42cb56aef48e14440596746708ab02255f0d,Michael Fitzner,fitzner@apache.org,Aug-23-2012
+b5b7d7094bd8fa509ff2461655effdeb7f48acc3,Martin Veith,veithm@apache.org,Aug-3-2012
+a801f0c196b61276c4d817b338b580386bb51dfc,Martin Veith,veithm@apache.org,Aug-2-2012
+92aeb1b5306e7edc489e51ec444d94ba066c92ed,Martin Veith,veithm@apache.org,Aug-2-2012
+88a69c23c03c59e9fda06eda6047fe2441202af6,Martin Veith,veithm@apache.org,Aug-2-2012
+11f9bbae20865ef7e8807be26e07decb7a223d57,Martin Veith,veithm@apache.org,Aug-2-2012
+81ac32e2e018ee07b41e9f5696e8d0a916b8b5f7,Martin Veith,veithm@apache.org,Aug-2-2012
+71ef9625ba4dbf3f06a196b0ed8e7213801892f9,Martin Veith,veithm@apache.org,Aug-2-2012
+e939e520dd2130c0f19f5bbf1503aae961e089ea,Martin Veith,veithm@apache.org,Aug-2-2012
+bb6a6945f587bd485e0817a4b55af6324ed8bf2a,Martin Veith,veithm@apache.org,Aug-2-2012
+c02cbbd06ad1c41d5c1a0848162aa3a576ad1a1e,Martin Veith,veithm@apache.org,Aug-2-2012
+97ac621980108700512cabe82cb35cfbf835a93f,Martin Veith,veithm@apache.org,Aug-2-2012
+8b86134e7b680dc8238e2316b9ed653ff4c87780,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+6e7d3f65fa4ed0c20477a57b671dfa31be00f918,Martin Veith,veithm@apache.org,Aug-2-2012
+4f62c06aa1757f713cff9dfad638852c5a2d7a0a,Martin Veith,veithm@apache.org,Aug-2-2012
+af24cc49a9d23497c1dc47a3476c923b9ac9f0b9,Martin Veith,veithm@apache.org,Aug-2-2012
+11ecf6acedc932071c4102a04a952a0110ef44a4,Martin Veith,veithm@apache.org,Aug-2-2012
+9d4b427dc11f4810800d12ae9e0190069c461e32,Martin Veith,veithm@apache.org,Aug-2-2012
+a2c87752da2403fa188e9dd42b5e91cdf1b5395b,Martin Veith,veithm@apache.org,Aug-2-2012
+b87a5db4061275131ff79064e237ffd5451698bd,Martin Veith,veithm@apache.org,Aug-2-2012
+621af788dae110fc981e6fa20fabe4cd2aba9c1c,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+c071a97550dd6ac366b072fe7febfcea9e5c0a60,Martin Veith,veithm@apache.org,Aug-2-2012
+bf856a7457602dce89f4050af8bf23ec45ecf273,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+2bf9880f76833ba8ebc2f1601bf4eaa58569037c,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+654a6dab2fa17df168f7711753eb39d2f0602cbc,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+97eaf20bfe6e32c9f26546bde1877ccebc46c4d3,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+28dcca0355006452f11b4e44b7148e148164fc80,Martin Veith,veithm@apache.org,Aug-2-2012
+40a7727559ca1eb86e52d7d284ee0941f11d8912,Martin Veith,veithm@apache.org,Aug-2-2012
+ff1a6f3fd71603a605ed60e3f616158620a8b1a5,Martin Veith,veithm@apache.org,Aug-2-2012
+1aed7645d17e9075a68f3e0a21454f6bdc9018b1,Martin Veith,veithm@apache.org,Aug-2-2012
+ebec821c0b7a4eede59dd4e32b52851849067e46,Martin Veith,veithm@apache.org,Aug-2-2012
+75e757736611715b5a9539010af2d6acc66d0edd,Martin Veith,veithm@apache.org,Aug-2-2012
+d4a2fc20a1069fea21a567ea67eaf18d90584618,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+2e0c5440dc4f2dff904d4161c91c25b74dcb2c4c,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+4485dcd45e5c9c29a56168c457db85726fba586e,Martin Veith,veithm@apache.org,Aug-2-2012
+c57f87185621f8bc8231283efb38d540b73f461b,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+e1b7bb8c624fde2f74ba139e1e4a387ea4b07223,Martin Veith,veithm@apache.org,Aug-2-2012
+4f4225c0c01a53b1e844af3806e90146f87e42ef,Martin Veith,veithm@apache.org,Aug-2-2012
+c9543ac214558107e71dd7f409d8a876343db83b,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+f72ee132bf4e942d9a1389b568d92d230122433c,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+3e06ae78b5f67c38b52896aaef8fbed8713f1ec0,Martin Veith,veithm@apache.org,Aug-2-2012
+9dad334e6156be0d1f38210f841c86814993ff4f,Martin Veith,veithm@apache.org,Aug-2-2012
+186c105b376d6093c55c8893018b6ee68bc08b7d,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+e9852c78478ad63034d7b0a65add05139f232d20,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+946fbcfc555d5b535fa2f7cbb045a7dd3f2bd349,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+36c68eeb52e40239c1089f172d64fa7ea1592bf6,Martin Veith,veithm@apache.org,Aug-2-2012
+60352f2c514b3d7cfaa58e494e9a21a54a45568f,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+06d41c36d0969be08a2cc13825c6046fc457864e,Martin Veith,veithm@apache.org,Aug-2-2012
+f8298e988cf680894a2e8a92584dc5e20e4990e7,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+6b6ded9461dcf8761e657a650b11cd7015346777,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+1b5d99baa51296b89f84bebc1505c6ad98e3a6fb,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+efcdc9320848f29e74c90a48e01c1148f988423a,Michael Fitzner,fitzner@apache.org,Aug-2-2012
+a47f9639a367a5cb5922bab6b065a77fa676abfe,Martin Veith,veithm@apache.org,Aug-2-2012
+9da935bb813bb7c7f8f9f8e8c64e6658c69bfd59,Martin Veith,veithm@apache.org,Aug-2-2012
+51d02135c4e924c0c69b4af2b6e1609ae7100e43,Martin Veith,veithm@apache.org,Aug-2-2012
+3fb8400d9115ca8d70bad5de58ec0f3b48d2101f,Martin Veith,veithm@apache.org,Aug-2-2012
+c600c6ba4abb3a98bfcfc4dbcb86fc7b445a6d9d,Martin Veith,veithm@apache.org,Jun-1-2012
+8863e9a9bab369a61c3feaae4189c9a52d065af8,Martin Veith,veithm@apache.org,Jun-1-2012
+bbc714599add19c34a59e6e85bd4bb0bc4fdc778,Martin Veith,veithm@apache.org,Jun-1-2012
+fbbaba29b8e4dff3233ea88ef6e24465bad6fe4d,Martin Veith,veithm@apache.org,Jun-1-2012
+f7f533ea85bf2495ef3894ad82fad81633f26c81,Martin Veith,veithm@apache.org,Jun-1-2012
+6019a0f161ec066ac5f3050c1a05d10210227c6e,Martin Veith,veithm@apache.org,Jun-1-2012
+1277db4d772823178aae2f91ba26ec53a9bb9d56,Martin Veith,veithm@apache.org,Jun-1-2012
+b2084f867aa6cd3af0bcdda39b72e7930935d98d,Martin Veith,veithm@apache.org,Jun-1-2012
+934d3fb93ce174328e5accbc0021f6cf0dd3544f,Martin Veith,veithm@apache.org,Jun-1-2012
+94ab0f89dccce1586da58c2d4e905a9c00f9e3f4,Martin Veith,veithm@apache.org,Jun-1-2012
+446de77e682b60ee107764b26c27f2b0a6329bd2,Martin Veith,veithm@apache.org,Jun-1-2012
+94a5d594594350addfcc2469c6de25bb8f37a8de,Martin Veith,veithm@apache.org,Jun-1-2012
+cd540b77dbae7b51a9b0423738158efcba3087b5,Martin Veith,veithm@apache.org,Jun-1-2012
+c956446a9151983f4677fce35e0b3292c426a5a2,Martin Veith,veithm@apache.org,Jun-1-2012
+d4c6117d68cdbc229155244a4bcf267b041f0591,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+a7a85373e78205c3ca6f67d2f3e19076fc19c720,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+f24a575a42c885e3e3cedd2ab783eca82701c072,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+a83eab3fa8342dee41fb0eabcbbadec2cdfb98ea,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+17d20376cbff67bd8cf5ad5bdcf10460f10d50e4,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+2a167007102dfac693df7fb51df62a7ea1082ca1,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+22fa6f5f90645a1d1165434a90808a5d2a04598a,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+ad0ea9d8ca0aa191c40a1336ea0d3d9e672ed7c0,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+ca24fbce4ab33875283e4a2abac0dd4a2c60cd9f,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+107c9716eb5aa1a0a873ee635dc1620c38c99ccb,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+e8ee46425373b28500f513ad4e63ecb83b574c70,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+b26951a1bbcee051e8e3ed75492dde98d5d03091,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+a32c357d8e350c216a84eff4181cbd71fc9c2c7c,Martin Veith,veithm@apache.org,Jun-1-2012
+3df12b5925b2d9fd1eb2ee36687503a60752ba85,Martin Veith,veithm@apache.org,Jun-1-2012
+e7079c2bece36250ebcd746500b029dc4e96bbb9,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+740ab44bc2e51e7b736e81e8f47c09bdf72a9693,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+d8bd1a2bcc8104bca0e3bcdda9b6f0e324dad087,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+495955a6de48e1b84ab14b6af6c90d8c60203021,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+e62694866a1628f81d517a74cc2bb0f4f0632d2d,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+009b5f31929c8c8ae2dc19390fcb138df569da5e,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+3b83b882d1b0d5cb7c637e72400091052968bdf9,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+76729bc057616876b4931c477deaf3a5096f7e5f,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+cbc66594418ea5435fa61ca6c729cddc6a87508e,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+260e9b8bcc88e54eb562b6f42018b5bf8b90eb93,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+b9acb13b3e3b37f84cad6d65828332e4901095f2,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+0928c2f0f7482d0ecae1a7b727ef5f3f349f4a0b,Michael Fitzner,fitzner@apache.org,Jun-1-2012
+cad7eefc6455c04d6d3e0e3da4f78e0de9a58d01,Martin Veith,veithm@apache.org,Jun-1-2012
+79fc08ca58efab03a8e3707573a6afa6269f9462,Martin Veith,veithm@apache.org,Jun-1-2012
+9ddde2bc53a00e968ba14f8ffabe099f8aaaa802,Robert Scott Comer,sccomer@apache.org,Mar-15-2012
+94b0be26caf02f7eba7af8f74a43d4c027159717,Michael Fitzner,fitzner@apache.org,Mar-15-2012
+13b9a01f1956069727f7e5cee00a10e89f880395,Martin Veith,veithm@apache.org,Mar-2-2012
+222e2ef42a651062b9d0eea32c8003463cdd194f,Martin Veith,veithm@apache.org,Mar-2-2012
+2ca9d966ac0d33add067be9c3fe1c77422249e3a,Martin Veith,veithm@apache.org,Mar-2-2012
+cf2448a3d18e3809e2b5bba16d29cad1b02240b6,Martin Veith,veithm@apache.org,Mar-2-2012
+7403bdf14744bbd26bdc8bb4d65ea2e9ee829d79,Martin Veith,veithm@apache.org,Mar-2-2012
+c5ba1d9c7a5aff75d4802e8f72810a0c327a65e3,Martin Veith,veithm@apache.org,Mar-2-2012
+cd24d545b71cbf606689f670b6e57abf014a9fcb,Martin Veith,veithm@apache.org,Mar-2-2012
+14a530f6f5ea796c6880e21e6eb6e676c6c35b58,Martin Veith,veithm@apache.org,Mar-2-2012
+fa1ede55619e53748928c5cb837a61dd2df44ffd,Martin Veith,veithm@apache.org,Mar-2-2012
+dc69a3bc92053fd39db0dd2ddcb4b037236a43df,Martin Veith,veithm@apache.org,Mar-1-2012
+6438a45744205e40450f257bd27854b16a977cf6,Martin Veith,veithm@apache.org,Mar-1-2012
+2716b6e00035c84b985104feb8839739ae821f23,Martin Veith,veithm@apache.org,Mar-1-2012
+372fd95faaf7bdbe848265f6bbf7ed504a4457c2,Michael Fitzner,fitzner@apache.org,Mar-1-2012
+2bd848370ea4f9094da01d9515580728df9c3202,Martin Veith,veithm@apache.org,Feb-8-2012
+cdec27f35ae8121745a89ee98b2a9d742fb72529,Martin Veith,veithm@apache.org,Feb-8-2012
+bd43648c0f8a029288b62a5df2f0cc2edb0a0dbf,Martin Veith,veithm@apache.org,Feb-8-2012
+0df0f81a5aa97ac29941cf82b2fd42aeaaa0a107,Martin Veith,veithm@apache.org,Feb-8-2012
+17bbceb52d5a7e7e7c538e40239fb11d687faa55,Martin Veith,veithm@apache.org,Feb-8-2012
+8d84dcda64f4a80000f3f207cfb6928a14768a8b,Martin Veith,veithm@apache.org,Feb-8-2012
+780ddd2675f61deb4a9dbc9100081571978567ad,Martin Veith,veithm@apache.org,Jan-27-2012
+c5bc982c659be9c00760a88d3c24047a4a8cbb86,Michael Fitzner,fitzner@apache.org,Jan-12-2012
+bbd6f768886db8ae7de05a17a805d3e9770c84b1,Michael Fitzner,fitzner@apache.org,Jan-12-2012
+85f451120321c75c3f06450ca12e32ac338271eb,Martin Veith,veithm@apache.org,Jan-12-2012
+0412cdd06c220f9569b336d302a46a5265e107be,Martin Veith,veithm@apache.org,Jan-12-2012
+1b02101b55fcce84bde94934496caee2920aaf00,Martin Veith,veithm@apache.org,Jan-12-2012
+b45478e9209f134da25a09451a3233d72df6e57d,Martin Veith,veithm@apache.org,Jan-12-2012
+27b62fbe2020dbb4023ce22a04200c668a73bcc1,Martin Veith,veithm@apache.org,Jan-12-2012
+9515e9860a5bf1cb6aa1f506b913dc9615470215,Martin Veith,veithm@apache.org,Jan-12-2012
+c4989c43f3c7ef943c40f7b15fcb1b926d80ac6f,Martin Veith,veithm@apache.org,Jan-12-2012
+3f5a410bec1abbc30010551150498b4caa5a9aaa,Martin Veith,veithm@apache.org,Jan-4-2012
+b00501f72179ac30d11d047af00aa1a54cb21c6d,Martin Veith,veithm@apache.org,Dec-12-2011
+77565d99ecae4369c2bf9972a4883f51d95a98d0,Martin Veith,veithm@apache.org,Dec-9-2011
+da580875bd7afd68e2896c3e0eef405501e2b865,Martin Veith,veithm@apache.org,Dec-9-2011
+7703229aa69177a115c07f8bbd53770a082f951d,Martin Veith,veithm@apache.org,Dec-7-2011
+3c570dc7ef4250fc4fe7209f6691ce033154f7c4,Martin Veith,veithm@apache.org,Dec-7-2011
+2183cbf885061855d1552852c95825750fff9ffa,Martin Veith,veithm@apache.org,Dec-7-2011
+f4d664e8e48f49ee03c3daade6368bdfd408e28d,Martin Veith,veithm@apache.org,Dec-7-2011
+793e8fdd316120690807dd508eb58f2525caf1a0,Martin Veith,veithm@apache.org,Dec-7-2011
+84644e461b6ff701a69f434b76f896a8eecee5c5,Martin Veith,veithm@apache.org,Dec-7-2011
+dd80e79bef610863294b44167f41c8acd70b8908,Martin Veith,veithm@apache.org,Dec-7-2011
+bd9b007110c6e7106f62003d29ca89ad63b6ab6f,Martin Veith,veithm@apache.org,Dec-7-2011
+6d3dd100cabd607da8bb3a7d7770c0cc7138df4b,Michael Fitzner,fitzner@apache.org,Oct-18-2011
+f63c368e15a06fcc7ccbb541ff627833da28af45,Martin Veith,veithm@apache.org,Oct-18-2011
+b1a7cc8d0afd990d9b03b8a54404c2901c90375f,Martin Veith,veithm@apache.org,Oct-18-2011
+758524d38a03b06cd23919e037ba39e7b36c9cc3,Michael Fitzner,fitzner@apache.org,Sep-23-2011
+f0cbf6abb0acf5f726b62e9a569832359109289d,Michael Fitzner,fitzner@apache.org,Sep-23-2011
+3ca8becbd71c14cb6c40d3f7f46722ab291fe19f,Michael Fitzner,fitzner@apache.org,Sep-23-2011
+e1e1f472501c3172dee9c8387e7a5cafc7d84f51,Michael Fitzner,fitzner@apache.org,Sep-19-2011
+1d913452e9b30a3820c02228a1a0c1a1f0b5a01d,Michael Fitzner,fitzner@apache.org,Sep-19-2011
+cb2b1112c7fd3621e891910f2fe646025dd19b30,Dr. Holger Grandy,grandyho@apache.org,Sep-9-2011
+45cf4e4ed3bbf3ce17418839490b73927282f508,Dr. Holger Grandy,grandyho@apache.org,Sep-9-2011
+8c266f9e1ac1264f310cf4470b931fd1f59fb3c8,Michael Fitzner,fitzner@apache.org,Aug-29-2011
+2d90a7ecf7814e1b0cde1aa2786813891d627100,Michael Fitzner,fitzner@apache.org,Aug-25-2011
+5fbb772c69531af2699d099d2fc0c01eb424965f,Michael Fitzner,fitzner@apache.org,Aug-23-2011
+48a5f283f65699db7eef92c1f577feeb996aef67,Michael Fitzner,fitzner@apache.org,Aug-22-2011
+b7450ba7c3f8c5ca4aa1d37ec49a21cd690b2cb7,Michael Fitzner,fitzner@apache.org,Aug-22-2011
+228f45331a3277172ab90e710a3cd7760a863483,Michael Fitzner,fitzner@apache.org,Aug-19-2011
+74e1ebaef3f49480b152e0f662e15e7a78fa1099,Michael Fitzner,fitzner@apache.org,Aug-4-2011
+37015c7e50aa676f1c74a3d961972846b6ee5243,Michael Fitzner,fitzner@apache.org,Aug-4-2011
+c0cbb1bf54ae8ae6702aa7ba71000741c6ffa0fa,Michael Fitzner,fitzner@apache.org,Aug-4-2011
+bcb913aca75ec0c39aeabd2f99b0170eef1cabaa,Michael Fitzner,fitzner@apache.org,Jul-29-2011
+0466dfe0a5576bf5210f36d23307ea4cc12b3044,Michael Fitzner,fitzner@apache.org,Jul-29-2011
+aa02eb74cdde4333ac19650007935d32c7024280,Michael Fitzner,fitzner@apache.org,Jul-26-2011
+d79771d2da254455970f45c8f0bc5bc38bbd20e0,Michael Fitzner,fitzner@apache.org,Jul-26-2011
+f06879f403a45ee75c38f1f20b555c095382b82d,Michael Fitzner,fitzner@apache.org,Jul-24-2011
+3d9703eb66f93239a9e19754765608126757678c,Michael Fitzner,fitzner@apache.org,Jul-24-2011
+f809086bcf3f0822d9543891c7414674db415c1f,Michael Fitzner,fitzner@apache.org,Jul-23-2011
+3f770cd060ad934275091224ffbfd64ed4a40d45,Michael Fitzner,fitzner@apache.org,Jul-23-2011
+cc07e2117a808a69888a748a53e0f0b6b16beafd,Michael Fitzner,fitzner@apache.org,Jul-22-2011
+75e9ae15c8219e1ded4b7493151baa6627358ba0,Michael Fitzner,fitzner@apache.org,Jul-22-2011
+33a41968d9d7f387c2abcd27f5335a53dac55cb1,Michael Fitzner,fitzner@apache.org,Jul-21-2011
+51df2c864af3285290cf73951aa0f89b0576f604,Michael Fitzner,fitzner@apache.org,Jul-21-2011
+1a854c1842ef6ff0abd2863ee5cfe166101afb5d,Michael Fitzner,fitzner@apache.org,Jul-7-2011
+473d0e06dde8b6ad22b23482c7dea90d54f04fda,Michael Fitzner,fitzner@apache.org,Jul-7-2011
+c1953d6f3943dd30ce5dce2b6154be8272d2856c,Michael Fitzner,fitzner@apache.org,Jun-16-2011
+ace59fc7e92d29f6ad6c3ba01026c1374b85d5b8,Dr. Holger Grandy,grandyho@apache.org,May-24-2011
+ab028d34f853ad274b5be5474b5eecd9eaf496c4,Michael Fitzner,fitzner@apache.org,May-15-2011
+bb9b94df0ce89a3f27c2f14b078b54b5fe97435c,Michael Fitzner,fitzner@apache.org,May-15-2011
+23bb966e4fedb949043e150037578c856e01bf3f,Michael Fitzner,fitzner@apache.org,May-15-2011
+f822d496cf225c9e09135c78577e037533f195db,Dr. Holger Grandy,grandyho@apache.org,May-14-2011
+0bad2552ba14b42d6e3fa4dfb01c505609dee23d,Michael Fitzner,fitzner@apache.org,Apr-28-2011
+1bdebe4cd2e7e520c450aaa7e99a794bf15effb5,Dr. Holger Grandy,grandyho@apache.org,Apr-28-2011
+5059e1068bc8f00a835698acddab459ad7b9d92f,Dr. Holger Grandy,grandyho@apache.org,Apr-19-2011
+ad9d50ce1cf0be03410872269abbb9c8969e066b,Michael Fitzner,fitzner@apache.org,Apr-18-2011
+85b23443e273d471f598c3f29c6512e4e5a67e2f,Michael Fitzner,fitzner@apache.org,Mar-29-2011
+d0e68db05585a0d9ac56083ab500aa8f8a45e2e5,Dr. Holger Grandy,grandyho@apache.org,Feb-25-2011
+882b81402c94b3230459c92246cddc6f95592706,Dr. Holger Grandy,grandyho@apache.org,Feb-25-2011
+d9144603ba519da276eabd9087bd7f80e67748e0,Dr. Holger Grandy,grandyho@apache.org,Feb-25-2011
+5296563eb86d225fcdb6cf7ca4444f88e848a4be,Dr. Holger Grandy,grandyho@apache.org,Feb-1-2011
+6408760671cb3a35f8f8956c684c7580fec24f4a,Dr. Holger Grandy,grandyho@apache.org,Feb-1-2011
+0019412da8ff72d56c572bac748d146196d99f2f,Dr. Holger Grandy,grandyho@apache.org,Feb-1-2011
+a1da4af2038a299bd7068bb20018e263df1aac63,Dr. Holger Grandy,grandyho@apache.org,Feb-1-2011
+95aed107be116b3571ba27f6b7fb83b62faaf70f,Dr. Holger Grandy,grandyho@apache.org,Jan-31-2011
+69117c9b1bd7ccadd8b8b5ef88aeb9acd7d9125b,Dr. Holger Grandy,grandyho@apache.org,Jan-25-2011
+c78f2bfc4b548d9f16c1f22f3a47b871923a4ae8,Dr. Holger Grandy,grandyho@apache.org,Jan-24-2011
+6796409b6eadbed3de3491f6176cfcce91edb97c,Dr. Holger Grandy,grandyho@apache.org,Jan-21-2011
+741c0864f6b1047eac42d93da0066cb22f1e39e1,Dr. Holger Grandy,grandyho@apache.org,Dec-20-2010
+4f17b7fa1265a623faf1bd66c746abf994f82202,Michael Fitzner,fitzner@apache.org,Dec-10-2010
+1be623796e9761e1df9f22018cf133753de33982,Michael Fitzner,fitzner@apache.org,Dec-9-2010
+163c7ab73c26040be3c1f93026498f391412bc91,Dr. Holger Grandy,grandyho@apache.org,Nov-29-2010
+59c3629b84d3aaff202030731b84e9c5d120db03,Dr. Holger Grandy,grandyho@apache.org,Nov-29-2010
+a62b14d2851535f08abcde2f138637291bbd8c2f,Michael Fitzner,fitzner@apache.org,Nov-29-2010
+d26781a5fe54eeecc100d7e8bd5e6a2583125892,Michael Fitzner,fitzner@apache.org,Nov-15-2010
+11b351dd26c6909c76374c539f09fc34756caa25,Michael Fitzner,fitzner@apache.org,Nov-15-2010
+2c547ccbf19a88883fdf0c58f019bf377167ae67,Michael Fitzner,fitzner@apache.org,Nov-15-2010
+904de7b7500f06642bd08d014c96ed7af85c45d7,Michael Fitzner,fitzner@apache.org,Nov-9-2010
+19d3a5e478036b62d3e5c3c181e523ca7a656873,Michael Fitzner,fitzner@apache.org,Nov-9-2010
+82266fe1e080d6454821d953d3006f61e50b931d,Dr. Holger Grandy,grandyho@apache.org,Nov-5-2010
+8287cc21900ad200189ed8939d41aacfaf0096fa,Dr. Holger Grandy,grandyho@apache.org,Oct-27-2010
+b9afaa6c8b07168f0264ab538cdd3306389198bc,Dr. Holger Grandy,grandyho@apache.org,Oct-27-2010
+50a7097cd22a52c42639592787b9066693a48045,Dr. Holger Grandy,grandyho@apache.org,Oct-27-2010
+081ccf94b2a86da7fed9c0e84dee40bfb6557eb2,Dr. Holger Grandy,grandyho@apache.org,Oct-26-2010
+9f65cc03387b19faec3fe4f71d5ace9fd2bafb06,Dr. Holger Grandy,grandyho@apache.org,Oct-22-2010
+0ab94435ca0af1ce1f08a72863f2755449bd3ce5,Dr. Holger Grandy,grandyho@apache.org,Oct-19-2010
+d30bf141ee4906590a6724a284316fdbf7e3e514,Dr. Holger Grandy,grandyho@apache.org,Oct-4-2010
+25d074532990113e357f271b7ae1f5b4332ed4e0,Dr. Holger Grandy,grandyho@apache.org,Sep-24-2010
+a9400ee15c39b425db2db11fdba03f18c769e2f6,Dr. Holger Grandy,grandyho@apache.org,Sep-24-2010
+3ae8cfe65a4ae1443e23b520df23ffacf265b623,Dr. Holger Grandy,grandyho@apache.org,Sep-24-2010
+f3353161a51dc77a71f08c4445fa484c069c0e82,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+b3ebe4fce1efba518f8e82e801ad59177d15428b,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+48e131bc310414570b06135d78edf99662a562d5,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+5dc63eadb534a6997152346f57cff72c96f175cd,Michael Fitzner,fitzner@apache.org,Sep-23-2010
+51c7f9d0017f974568c1de664e90bb4c7b0a8294,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+d33913b966cd0c20fb731e730d0c67035fed70d4,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+73df9b83f0808d40d91f5e0971a911813cf16423,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+aacd54c899fc43ca5e71914d9422ec065144d8f4,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+236a59d473dddeebe056c6eeb2538dcfa4f6b96b,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+1788556f233290eb14bba57da6a4c7412f972766,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+a2d05f1d7142c1167c782765fc9b7b5be29f881e,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+ef24d909afba8df929224c1be25816449843fb9c,Michael Fitzner,fitzner@apache.org,Sep-23-2010
+088e479e00f42f8786c1eb958b2cd2162bdb85d6,Dr. Holger Grandy,grandyho@apache.org,Sep-23-2010
+3436fd71870e0731c0104c5a8aa9bac124b7ca0f,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+2a579ba39119da18889fba638755f19d8c009844,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+8ba25daa10285636303480a54dae04ce7aa7b0f8,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+d3bdaee47d3f4088883f339f02728b59bdaae108,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+cefab4fef5a7e48a3375d0d17c0aa3d12a65f644,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+bfb4eaecca8ae1292ce8882c4f549fa913165a4b,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+262281b5a299095138e53a5703f3492e558c7c76,Michael Fitzner,fitzner@apache.org,Sep-22-2010
+ea1054c88d548148be69a704de6aa3e42c67f468,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+8f34e6fef3ef288f026c72939e47537f6a237280,Dr. Holger Grandy,grandyho@apache.org,Sep-22-2010
+35596687bf9eb1459c71c8c976324a519b2dd4fe,Michael Fitzner,fitzner@apache.org,Sep-21-2010
+0c00bfa93723c40b0ef6ebcc9f12767561f28f79,Dr. Holger Grandy,grandyho@apache.org,Sep-20-2010
+fa30207e4d3b5f606d625034b5616f1943858de2,Dr. Holger Grandy,grandyho@apache.org,Sep-20-2010
+69523462c7c4a5c81c975a498aaaa9261a26341a,Michael Fitzner,fitzner@apache.org,Sep-20-2010
+976881ecaa22f4975f54da7581e91aa00443c484,Dr. Holger Grandy,grandyho@apache.org,Sep-20-2010
+4f52dc29168e5ce121a307a590e3129a53b7e783,Dr. Holger Grandy,grandyho@apache.org,Sep-17-2010
+5f59a3a83cc7bcd3f0178c6354a3f223ae68e740,Dr. Holger Grandy,grandyho@apache.org,Sep-17-2010
+91d6980efc011d1036883d212d8b1f22620b9d4e,Dr. Holger Grandy,grandyho@apache.org,Sep-17-2010
+5d434a2f96ecee52d60d48b1623166799908c5a7,Dr. Holger Grandy,grandyho@apache.org,Sep-16-2010
+7d2fbb4abec3d2e23c7ee61196f0b0c958481b9d,Dr. Holger Grandy,grandyho@apache.org,Sep-16-2010
+ff6149713d753ccc54cfe40092a8d18de26e517c,Dr. Holger Grandy,grandyho@apache.org,Sep-16-2010
+d0d68ee5c562299bf5f6f16003df7128e125b1ba,Dr. Holger Grandy,grandyho@apache.org,Sep-15-2010
+ebfe92659dddf42d079a0107998a5bb30d8a1af3,Dr. Holger Grandy,grandyho@apache.org,Sep-15-2010
+f74e483f7ce07a1c0f0bd8ad28b53a4ec1595905,Michael Fitzner,fitzner@apache.org,Sep-15-2010
+d79eb26e80778d1240dab1001d6544bb1db0115b,Michael Fitzner,fitzner@apache.org,Sep-14-2010
+4d6ebe892ffcaa409cb51bfc1ad6fa8ce726a82e,Robert Scott Comer,sccomer@apache.org,Jun-11-2009
+e5c1e27526221a0ff6864c74a90c773f96686f5e,Manoj Ganesan,manojganesan@apache.org,Jun-11-2009
+60387df6cdb414314b24f0127da3475dd66fe609,Robert Scott Comer,sccomer@apache.org,May-28-2009
+52be9026e0b836f63c7e66ba01889d42a2ffec38,Robert Scott Comer,sccomer@apache.org,May-28-2009
+1060a2dc741d138b02ce464d703f5a14a6e7ccea,Robert Scott Comer,sccomer@apache.org,May-28-2009
+562d8d2e1882824be0f2bd3f226493d91fc00c33,Robert Scott Comer,sccomer@apache.org,May-28-2009
+e55e76d8c16d70fb95bf31c7afad49cec9620e73,Robert Scott Comer,sccomer@apache.org,May-27-2009
+9945ec16c0e16d84c2f0c9924a59822296609d82,Robert Scott Comer,sccomer@apache.org,May-27-2009
+aee690b08f29487e7e3d6257dbf545de7d600257,Robert Scott Comer,sccomer@apache.org,May-25-2009
+c5f0fbb26b39455266d56d1409f43b775edb7bbc,Robert Scott Comer,sccomer@apache.org,May-21-2009
+33e21709ff7fe38e3596d165b1fdd78176a21685,Robert Scott Comer,sccomer@apache.org,May-20-2009
+815fc509d5b74145c0b167b8dc0ec918e903f56f,Robert Scott Comer,sccomer@apache.org,May-20-2009
+3f26a550343b7614ac479dc5b3b32733855e5140,Robert Scott Comer,sccomer@apache.org,May-20-2009
+618305a08965a1343013bf7c2c50a24662a7e8e0,Robert Scott Comer,sccomer@apache.org,May-6-2009
+b4d350d15bbfc6ba21ebad9246d7371c17579b73,Robert Scott Comer,sccomer@apache.org,May-5-2009
+8c4a4fc2ce2bf9158a344dd44636b4071ddb69fd,Robert Scott Comer,sccomer@apache.org,Apr-24-2009
+678a2b89074044cba4ae7b2bd16ad700a296a3fb,Robert Scott Comer,sccomer@apache.org,Apr-23-2009
+06c501277e9791cec7d93c39231c78c8733b6350,Robert Scott Comer,sccomer@apache.org,Apr-23-2009
+afd835f39479dc8cc32abb67acb54feecea8cb96,James Decocq,jdecocq@apache.org,Apr-22-2009
+159d362e1f5d6836e9c9b8fa8e71146e4c137a54,James S. Dixson III,dixson@apache.org,Mar-12-2009
+7c54c7c74674e7c27dcabd9b84c5d0e051cf8658,James S. Dixson III,dixson@apache.org,Mar-12-2009
+910650f73b19bff14b601b379cafec3ce40a41b6,James S. Dixson III,dixson@apache.org,Mar-12-2009
+d93c1a0324f0dfc2a66dc109471a4a8f17c64fc7,James S. Dixson III,dixson@apache.org,Mar-12-2009
+abef09c330574924ff93088eeb8322174745ec88,James S. Dixson III,dixson@apache.org,Mar-12-2009
+b362893b8b04a845db58127c7ad3f08f585fd11a,James S. Dixson III,dixson@apache.org,Mar-12-2009
+c6dd4b45b4d8c6a23689da6a15c0792ae8520c33,James S. Dixson III,dixson@apache.org,Mar-12-2009
+7e09af1ee8d180e00ffe5364653b66f3e8f61729,James S. Dixson III,dixson@apache.org,Mar-12-2009
+760f4279fb81ae280d1e43c647d50c6c13c8aba6,James S. Dixson III,dixson@apache.org,Mar-12-2009
+ec4660fca6723d6d5182e23908f285fd720eefb0,James S. Dixson III,dixson@apache.org,Mar-12-2009
+bc1a8321976607e9aa7ca24526fb37153fa031c6,James S. Dixson III,dixson@apache.org,Mar-12-2009
+dcd89850e7fc8941df6c23981a474d267a5aaba8,James S. Dixson III,dixson@apache.org,Mar-12-2009
+39672d05f875258bc360189abc9f0a2309dcb799,James S. Dixson III,dixson@apache.org,Mar-12-2009
+8bf16541615b3414f1f61f1d7c731ff11b3ad34a,James S. Dixson III,dixson@apache.org,Mar-12-2009
+f874f7c3b77fb91ecc90527024c45aa0ba853478,James S. Dixson III,dixson@apache.org,Mar-12-2009
+4bc9ad77454ff622f9540953693e0ba172f9e225,James S. Dixson III,dixson@apache.org,Mar-12-2009
+a702d553bfc8a2d7ec42dafaaabef87e0a2e542b,James S. Dixson III,dixson@apache.org,Mar-12-2009
+82254f6c55726f2785ec4a4ad52235594e0a5801,James S. Dixson III,dixson@apache.org,Mar-12-2009
+97b46ec4e63f8918dba451ea7d1b2938d9e7be6d,James S. Dixson III,dixson@apache.org,Mar-12-2009
+67bfda89743d2fcee051e9308e8a1595fa89a383,James S. Dixson III,dixson@apache.org,Mar-12-2009
+60913a686944bd40b393c2d2108698e4d0e0f66c,James S. Dixson III,dixson@apache.org,Mar-12-2009
+4db0173a3447c121ca7bf4b70356982756d52964,James S. Dixson III,dixson@apache.org,Mar-12-2009
+ab0df8ce38c3a6ea9a7f637dfedafa451e6ffe60,James S. Dixson III,dixson@apache.org,Mar-10-2009
+273944773255f955dc16f33283d1e28dc26b7049,Robert Scott Comer,sccomer@apache.org,Mar-3-2009
+c7353e160bdea92f1d7fda46f02b89bac3352244,Robert Scott Comer,sccomer@apache.org,Feb-26-2009
+aac0404f24e8019a9d564c225ac9fe9afc1e5141,Robert Scott Comer,sccomer@apache.org,Feb-26-2009
+03952326d842bb351962b68d188b16763acfd64e,Robert Scott Comer,sccomer@apache.org,Feb-26-2009
+c70f663208604f4d6c130cd46ee5430073e46ced,Robert Scott Comer,sccomer@apache.org,Feb-13-2009
+313e28f6f2349821215047cd547a529cc0076cb0,James S. Dixson III,dixson@apache.org,Feb-12-2009
+8df41f3257da3fd17dbebc6d77858009425c9c36,James S. Dixson III,dixson@apache.org,Feb-11-2009
+3646ed31f93f9cfda12db5e6024f0c8f293ac067,James S. Dixson III,dixson@apache.org,Feb-11-2009
+e064b6ed60906d8d83adc439b6b5019ede9666cf,James S. Dixson III,dixson@apache.org,Feb-11-2009
+c3e53b3042775b39ad812b186e941f9051e199fe,James S. Dixson III,dixson@apache.org,Feb-11-2009
+4e37043ed3d43a2cca3bfb4dfc50032f5fa2418a,James S. Dixson III,dixson@apache.org,Feb-11-2009
+a0267ed6cc8b26dd703acbda165228bf425becae,James S. Dixson III,dixson@apache.org,Feb-11-2009
+44e8e7228eec3d5ccc15c13dbff5638e136e40de,James S. Dixson III,dixson@apache.org,Feb-11-2009
+345ab279c3f02d0cb14f72e85edbfad26283d41b,James S. Dixson III,dixson@apache.org,Feb-11-2009
+35a19a480d2b103364fec0ec25c865327f5c4a5f,James S. Dixson III,dixson@apache.org,Feb-11-2009
+4f209ff7916e97f53da4d74d7285a1fdeaf6c177,James S. Dixson III,dixson@apache.org,Feb-11-2009
+248bbb6660b799b4242221e0e27d09acf81d3bfa,James S. Dixson III,dixson@apache.org,Feb-11-2009
+a1041e6ce102686942b76eb31740e062f0725b28,James S. Dixson III,dixson@apache.org,Feb-11-2009
+c049d5765ecf1fc454724a35567d89e299e742ce,James S. Dixson III,dixson@apache.org,Feb-11-2009
+34021ccd7517dddf177859fd14157305bb6deffa,James S. Dixson III,dixson@apache.org,Feb-11-2009
+62827c6aba938c09eedab06da321c1048bed8963,Robert Scott Comer,sccomer@apache.org,Feb-11-2009
+dcdf8c9fb4794ba080b83b414c7758519dc7a22f,Robert Scott Comer,sccomer@apache.org,Feb-10-2009
+f078a7e5c6c5219beddd95235bc6f52259859ce9,Robert Scott Comer,sccomer@apache.org,Feb-10-2009
+71f06bbe61cf9e362a5676b663a029bf3fe31c9e,James S. Dixson III,dixson@apache.org,Feb-5-2009
+16baea519540de8ff69b84b765e8eb3dbb401150,James S. Dixson III,dixson@apache.org,Feb-5-2009
+a1c45983689be738b8a7d323dccbd3cf544ef989,James S. Dixson III,dixson@apache.org,Feb-5-2009
+7e8642222fd262c4ec9e28e5adfeb9f7d52ec2e0,James S. Dixson III,dixson@apache.org,Feb-5-2009
+12a3e807b6962e530778ff42c0015053f91cda4e,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+2d120c09b2c0378461aed1a8fe797c8a00116681,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+2fd3b0a24629a05a29f10084ed13267e28069d9b,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+3721b5ea765306d5ed41627d0958c738a96ac687,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+6c3a8c15a2adca6c6b2124414ee3e1f44c23708e,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+4f1b95fb8ecdc0c025ced7d7d86fecafe7ac9660,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+175e9ea0b1784e0171a6e1464887e54322b16856,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+1cd81d6841c3688dd60e2f87dab664fc44ed732c,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+703448cbca543269c9f2b57f923749fd28704320,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+da9ea3585cfde2f3863d7f08815b44857c42ee69,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+27018a4d5d970c94d955acd1e87e1bec3b75635b,Robert Scott Comer,sccomer@apache.org,Feb-4-2009
+46b1c6d1e04e7b45ed6d9b8c03c6f7e704152cc5,Robert Scott Comer,sccomer@apache.org,Feb-3-2009
+2359314ebbd6a7bcb6eaacfbeb9111cf6aba465f,Robert Scott Comer,sccomer@apache.org,Feb-1-2009
+72b86bb48b8556b7b0368281368651ab2d4c912f,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+eae15188948de717f540dba17809de07010838d6,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+8c17090af4612ac07c088ba33a81391cdae635cc,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+0d5ff82ff709b31164b722d7f27284c936647ab3,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+cded2e4408922f01044a0317dac3ba6dade6bbf9,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+938f90941a5218fad2fd6b5f79112a85a0be776d,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+7d40bbc8db70d7e212cbd6c71a7aa45767118c88,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+8c5e727c121c8e341d66da7c3128417e3be51add,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+ca25bf5d591173402a14c9d4cb6dd3ea09a528b6,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+a0c3778c3948b294ca0607e1d92ef533148ed5da,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+18144ba2c8bcf3f801ddfad2a80cb0dd948625aa,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+f7927e0cf45c28facdb52ab5ca2eff91d298fb3a,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+e47cce4e59506d0a2898c768f35ceebd37e45d7f,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+acf5fd9648154af6eeb333461a3d25bc57be949c,Robert Scott Comer,sccomer@apache.org,Jan-30-2009
+8dd5b5bf31e8895ed13a23e5fbc0984a2bdc304b,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+186f143e4ad2c6e095afd46319ee46a69a31d77d,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+f4b75acb27a8a16403af844d0f6908d0e957d38f,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+fcb5767ad8e6bdcdbc501880c3766ac86fbe314d,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+415297723986d159e710998548a1f45fee2cee98,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+449365a016c04a181b80d48103326fc887476375,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+05a0cb3f393fdc45876349b33803ca1c58e5adbb,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+027155e5d9d2ac4522601f29a1603d05e2837daf,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+070334d7eac703dd0573d719c294376cf814ae83,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+17c24c3651c59b9cce5f36726c75744c09ad872c,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+797aad9f6f4a93d60e7bbf1e3c209774a7d7d540,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+c811bcd58b44c19475be72a7969042907e2b71b9,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+72542e0e39b4c60a4302903f8e4dc9a13377acde,Robert Scott Comer,sccomer@apache.org,Jan-29-2009
+9896bc4bd7646f97758efd99e269ad743ba6ed91,James S. Dixson III,dixson@apache.org,Jan-29-2009
+77af36167e9453510beee44218dbfe164796acf4,James S. Dixson III,dixson@apache.org,Jan-28-2009
+03ad9a069bccea95b93a20e4607c9d0cb4c94746,Robert Scott Comer,sccomer@apache.org,Jan-27-2009
+8b55efe0a99b9d8e8949a7a7c04feacc3f1180d2,Robert Scott Comer,sccomer@apache.org,Jan-27-2009
+8256b1392d14a2a7b42c44f1aa5020f91abb30f3,James S. Dixson III,dixson@apache.org,Jan-27-2009
+e27df6b2ae8f23ebccd3ff802cbd3e03e1dc5720,Robert Scott Comer,sccomer@apache.org,Jan-26-2009
+70523ba288edf96df42f4848be1928e45a4486f9,Robert Scott Comer,sccomer@apache.org,Jan-26-2009
+740f69fc53d518f928031bb69195928f351ecd6e,Robert Scott Comer,sccomer@apache.org,Jan-26-2009
+3bae219bd2d1503ea0a26e20306abbdcd5b9b432,Robert Scott Comer,sccomer@apache.org,Jan-22-2009
+48a783e7fe16c42dc066176b6e3e6d4b46322d35,Robert Scott Comer,sccomer@apache.org,Jan-22-2009
+0bc13ddc753e010a91235c1e5b77d3909461b81e,Robert Scott Comer,sccomer@apache.org,Jan-22-2009
+7bb1c6341162a61f947212aa8eef90f1ba21d737,Robert Scott Comer,sccomer@apache.org,Jan-20-2009
+99724625411627a3b8b187a36e2ed8251248f94e,Rene Fernando Barraza,rebarraz@apache.org,Jan-12-2009
+c7e1152c3b58537ed28c0e9d8eb73af858c1b604,Robert Scott Comer,sccomer@apache.org,Dec-8-2008
+86e91616bb7335248022c874100d902edce44c90,Robert Scott Comer,sccomer@apache.org,Dec-4-2008
+efb4062403f559c4e0ab3bf2af80a0fe076370ed,Robert Scott Comer,sccomer@apache.org,Dec-3-2008
+8647895de7c2cd5f198469ee5d9f0138ad284446,Robert Scott Comer,sccomer@apache.org,Dec-3-2008
+f94bc8e67a5943b99de6dde5ce8bc7ee243d2499,Robert Scott Comer,sccomer@apache.org,Dec-3-2008
+7690f1c7852be29599756a4624234c2e0a115808,Robert Scott Comer,sccomer@apache.org,Dec-2-2008
+d3b5984d217fbb7a15235514c0a8622294cadc0e,Robert Scott Comer,sccomer@apache.org,Dec-2-2008
+dbbe5bb2b4f4536d72537a9d8e172d25f6063ca3,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+aca512b21c20ea7487c5cd873cfdb53f67534913,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+59b5729be5eb58dead934bbb928c979073d4f40a,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+f210e2cd108c887721112139c8689ed128892820,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+10fdc7bdd6cdc524fa2422b1b2709ae134d47742,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+d13948079f3899aa66acd5ac78d254ceb6fb6a8c,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+13b9b771f0f6863bbac400b3f8ab4e8be911813b,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+0fb588f83e2dc8539603f2232d5b4c4a9b0e7f4d,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+eac990791da9cb13d275d43e3814af02b623b8dd,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+a3135b546e3952a88413ff37ce4c6552a2cf24b1,Robert Scott Comer,sccomer@apache.org,Dec-1-2008
+5dda54a421712f38b8cddbde5431aad733fbb542,Robert Scott Comer,sccomer@apache.org,Nov-25-2008
+edf0d0b3bdc8d9c1bd022b4a7de5c6201ab5d8b1,Robert Scott Comer,sccomer@apache.org,Nov-24-2008
+06d6063d1f4f9798b6d57431411386c250a01580,Robert Scott Comer,sccomer@apache.org,Nov-21-2008
+374ccfb1d9b235f6930fa6319e2001a13fdc33d8,Robert Scott Comer,sccomer@apache.org,Nov-20-2008
+29e89ea6a07506356a6acd70b6fc04d108e1d2bd,Robert Scott Comer,sccomer@apache.org,Nov-20-2008
+87049610e2965253a30f299c15624b309fd044a1,Robert Scott Comer,sccomer@apache.org,Nov-20-2008
+6eaa3a02e3d6aa67c025017ec0485935342a1811,Robert Scott Comer,sccomer@apache.org,Nov-20-2008
+a9e6b76d4220a6a87a80d899584c57e3e4bf45b3,Gaurav Sandhir,gsandhir@apache.org,Nov-12-2008
+1297cc3530cf38fb8ca3e4e1ac615208ed47b5d2,Par Niclas Hedhman,niclas@apache.org,Nov-12-2008
+6bf93206b00b7ed3fc7db59ed81eda0294efaac0,Robert Scott Comer,sccomer@apache.org,Sep-30-2008
+6f93afacb65fcdd898cab42ba0a99df7ee055a22,dixson3,dev-null@apache.org,Sep-10-2008
+cf5b3a49aa9b4619dcac4c3831a21a8bdb3d9348,Robert Scott Comer,sccomer@apache.org,Sep-8-2008
+193f09f81808908af9cd16014999d0ba44cc231e,Robert Scott Comer,sccomer@apache.org,Sep-8-2008
+e60f1918e78d68e0195865dff6df1bbe0ec20e67,Robert Scott Comer,sccomer@apache.org,Sep-8-2008
+a1a94c9156bf480ffe473633c5ac40b9c821a657,Robert Scott Comer,sccomer@apache.org,Sep-8-2008
+2855891190e08d933079d2b6d4029a0d7cc00de0,Robert Scott Comer,sccomer@apache.org,Sep-8-2008
+8e2cd09cf7a09cac28ccab159e3c34715ee0375a,dixson3,dev-null@apache.org,Sep-8-2008
+5787f1b72d226558c7a7c10314ebc2737749b543,Robert Scott Comer,sccomer@apache.org,Sep-7-2008
+f6aed66325d42f02657747884a7c3df7d41f5921,Robert Scott Comer,sccomer@apache.org,Sep-7-2008
+0a4af010286fd4088760ca9acd4a0094b3195111,Robert Scott Comer,sccomer@apache.org,Sep-5-2008
+983b5003f4db496fd07409c4e7cdcba3ee8d3592,Robert Scott Comer,sccomer@apache.org,Sep-5-2008
+2ef6081a1a9104abd295439809ec083482794005,Robert Scott Comer,sccomer@apache.org,Sep-5-2008
+6841306186354429ed814536b808c7ad7bcb0401,dixson3,dev-null@apache.org,Sep-5-2008
+27d6ab9a62cc49104d8467450b69fd4b65958fbf,Robert Scott Comer,sccomer@apache.org,Sep-4-2008
+e3843b9b7825c594c9efc2812040b9de8271e6ad,Robert Scott Comer,sccomer@apache.org,Sep-4-2008
+73615e644d14dd40da77e3e356d6b7f48f077465,Robert Scott Comer,sccomer@apache.org,Sep-4-2008
+ff12f50fd4f038b20e572ae7e46f982d275366c6,Robert Scott Comer,sccomer@apache.org,Sep-4-2008
+c1f48b84c5e7effba721a3d3c1ba01d91b4f5556,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+9481f671405ceeebe794b71082f5dfd294811ef8,dixson3,dev-null@apache.org,Sep-2-2008
+5beb903e646178dd1ed7f34fb632b9f9c37d1e4e,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+ed6cb0eb361ae8ce883ad26e1bed75ccad9d6d9e,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+5db065fc80e1e4bf83a5a77b657d058546b50e26,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+4149026e2ee4214804f386eab70c9984e17e2099,dixson3,dev-null@apache.org,Sep-2-2008
+be61aabbdf9c73d262e68a7d049b12dc696d75d4,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+4fa2da921489a94626138b231ee3cd593a21212f,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+3d733cc8dbf28f8fb6a5cdef05da07390be41409,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+460a893faeb5651e74f851763eaa9f4161f753b7,Robert Scott Comer,sccomer@apache.org,Sep-2-2008
+b960a60cab23f6e03b3c237ec3f899a7d3e2fc4e,dixson3,dev-null@apache.org,Aug-30-2008
+5752dc9e61ab8b3bea063856b970f8f2e631949e,dixson3,dev-null@apache.org,Aug-29-2008
+1331cdcb97ab3b1637d54454e5428802745a8d5a,Robert Scott Comer,sccomer@apache.org,Aug-29-2008
+bb2181a3f7ba1ae75aeafa0b7bacca6cc50f1128,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+7dd8c903c1d7099829b7c84e21bd33df366dac0c,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+402db07860fd187b3c1f3bbda67cbc3dcda1f561,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+a11c7b515731d967ddca4cb3c3290e2859c805f9,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+02fa05e076bcbec65ec9d55362968620c70353ec,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+d6ae2b7a23d072ff22b13c94830eed136bf4c14b,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+3ac13b66ce669ef70442819efce93e60940db701,Robert Scott Comer,sccomer@apache.org,Aug-28-2008
+4c44cc873f1af18854d72011b91ae9aa4acff84a,Robert Scott Comer,sccomer@apache.org,Aug-27-2008
+c9298796461b3efed7e933ab064e1950df9bf4a3,Robert Scott Comer,sccomer@apache.org,Aug-26-2008
+ba4d7e38e3fc697a04be5597ad8fb6c8f6af70ec,Robert Scott Comer,sccomer@apache.org,Aug-26-2008
+5f9056d02e057c582ad0df3f8d9db974e7a5b9b0,Robert Scott Comer,sccomer@apache.org,Aug-22-2008
+17ef685689ecba2ab9f7e0b461491a437d451dd7,Robert Scott Comer,sccomer@apache.org,Aug-22-2008
+8417a92a793a6c64c77696654d41a33de0d3ee13,Robert Scott Comer,sccomer@apache.org,Aug-22-2008
+b2aff1d8033d3b36456acbd19edfc72613153a76,Robert Scott Comer,sccomer@apache.org,Aug-22-2008
+9a840541d3fb53162fccd6c78bbe8317796466e2,Robert Scott Comer,sccomer@apache.org,Aug-22-2008
+8d16b6efb769df9fcc740a823c7f7fc18f854f99,Robert Scott Comer,sccomer@apache.org,Aug-1-2008
+4f4d40d1de294ede6c044667c2ac3dd343cc9a5e,Robert Scott Comer,sccomer@apache.org,Aug-1-2008
+081b8b96d28ddec72ea7faf8a0164ab1eb989bfb,Robert Scott Comer,sccomer@apache.org,Jul-31-2008
+9fcdfafd6f3e0d2f3ce0340a6be28debdba63e46,jadixson,dev-null@apache.org,Jul-29-2008

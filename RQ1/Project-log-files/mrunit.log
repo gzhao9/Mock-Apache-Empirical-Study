@@ -1,0 +1,3111 @@
+commit aafb9ee07939093c809f4f7aa802cca7cfe2a5b6
+Author: Hen <hen@flamefew.com>
+Date:   2016-05-12 15:41:03 -0700
+
+    Updating the DOAP now that MRUNIT is in the Attic
+
+3	2	doap_mrunit.rdf
+
+commit 98d08f2d11165c39bf37c9d9a7d7489ec3e60c13
+Author: Jason Tedor <jasontedor@apache.org>
+Date:   2015-03-28 21:05:20 -0400
+
+    MRUNIT-221: Wrong Generic for setKeyGroupingComparator/setKeyOrderComparator in MultipleInputsMapReduceDriverBase (Contributed by Mathias R¨¹diger via Jason Tedor)
+
+4	4	src/main/java/org/apache/hadoop/mrunit/internal/driver/MultipleInputsMapReduceDriverBase.java
+
+commit c68c9e45aaf1d17a0e9b4c37a0f739e42def4842
+Author: Brock Noland <brock@apache.org>
+Date:   2015-01-03 15:37:03 -0800
+
+    MRUNIT-212 - Shade mockito dependencies (Mac Noland via Brock)
+
+1	0	pom.xml
+
+commit 917dab7052d865cc1327be54befd6f1054907ad0
+Author: Brock Noland <brock@apache.org>
+Date:   2014-12-15 14:20:59 -0800
+
+    MRUNIT-220 - Update Hadoop Dependency to 2.6.0 (Mac Noland via Brock Noland)
+
+0	453	pom.xml.orig
+
+commit daab87917264a1c4092aa960cd86abe90593694e
+Author: Brock Noland <brock@apache.org>
+Date:   2014-12-15 14:19:48 -0800
+
+    MRUNIT-197 - Problems using Avro with MRUnit (Nicolas Dalsass via Brock)
+
+1	0	src/main/java/org/apache/hadoop/mrunit/internal/io/Serialization.java
+
+commit a47abde7eadbf50373462d4d30986d9a8cd0c230
+Author: Brock Noland <brock@apache.org>
+Date:   2014-12-15 13:52:44 -0800
+
+    MRUNIT-220 - Update Hadoop Dependency to 2.6.0 (Mac Noland via Brock Noland)
+
+1	1	pom.xml
+453	0	pom.xml.orig
+
+commit cb7694e710af2f20875d4b890258494ebedbbe90
+Author: Bertrand Dechoux <dechouxb@apache.org>
+Date:   2014-06-22 20:52:06 +0200
+
+    Let rat ignore DOAP file
+
+1	0	pom.xml
+
+commit 73b166d8cf978e72832b547d45556ee26a5a7723
+Author: Bertrand Dechoux <dechouxb@apache.org>
+Date:   2014-06-22 20:07:00 +0200
+
+    store first generation of doap file
+
+245	0	doap_mrunit.rdf
+
+commit 8f3712e3f5a4104586727e02f0eea253f7756315
+Author: Bertrand Dechoux <dechouxb@apache.org>
+Date:   2014-06-22 20:06:30 +0200
+
+    MRUNIT-206 : generate DOAP file using maven
+
+51	11	pom.xml
+
+commit 762d700d6b5e1d4e5c8b1cd3963e701ccfd6e9b4
+Author: Dave Beech <dbeech@apache.org>
+Date:   2014-06-03 15:15:02 +0100
+
+    MRUNIT-211: Javadoc errors in MultipleInputsMapReduceDriver (Jason E Tedor via Dave Beech)
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MultipleInputsMapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MultipleInputsMapReduceDriver.java
+
+commit 53126c235f1d586d091ea348889517d190043486
+Author: Brock Noland <brock@apache.org>
+Date:   2014-05-27 16:23:29 -0700
+
+    Update CHANGES.txt for 1.1 release
+
+3	0	CHANGES.txt
+
+commit 0fa2496c5e57540efdfd6c7e25c8e4b6dc907dba
+Author: Dave Beech <dbeech@apache.org>
+Date:   2014-04-30 22:02:05 +0100
+
+    MRUNIT-209: Can't use the maven dependency plugin with maven 3 on mrunit (Alexandre Normand via Dave Beech)
+
+1	1	pom.xml
+
+commit 432b2441d85490f0867ae066bb76c0a122d1f5d6
+Author: Dave Beech <dbeech@apache.org>
+Date:   2014-04-30 21:29:50 +0100
+
+    MRUNIT-208: mrunit unnecessarily depends on mockito-all (Alexandre Normand via Dave Beech)
+
+13	1	pom.xml
+
+commit 56d07464cfc21d5030f0ff26c953e3ec2eb335bc
+Author: Brock Noland <brock@apache.org>
+Date:   2014-04-28 12:35:24 -0500
+
+    Preparing for 1.1.0 release - updating release notes
+
+5	1	CHANGES.txt
+
+commit d237089883a238ac211c4a95428c746621e65796
+Author: Brock Noland <brock@apache.org>
+Date:   2014-04-28 12:23:47 -0500
+
+    MRUNIT-205 - Add support for MultipleInputs (Jason E Tedor via Brock)
+
+33	30	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+113	0	src/main/java/org/apache/hadoop/mrunit/MapOutputShuffler.java
+29	67	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+26	114	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+482	0	src/main/java/org/apache/hadoop/mrunit/MultipleInputsMapReduceDriver.java
+27	25	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+27	30	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+92	0	src/main/java/org/apache/hadoop/mrunit/ReducePhaseRunner.java
+267	243	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+307	0	src/main/java/org/apache/hadoop/mrunit/internal/driver/MultipleInputsMapReduceDriverBase.java
+38	75	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+503	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MultipleInputsMapReduceDriver.java
+90	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReducePhaseRunner.java
+130	0	src/test/java/org/apache/hadoop/mrunit/TestMapOutputShuffler.java
+72	169	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+675	0	src/test/java/org/apache/hadoop/mrunit/TestMultipleInputsMapReduceDriver.java
+92	166	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+658	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMultipleInputsMapReduceDriver.java
+
+commit 2d40d5fec383262f7059277cb3dce7bf61eb2691
+Author: Bertrand Dechoux <dechouxb@apache.org>
+Date:   2014-03-30 20:33:51 +0200
+
+    MRUNIT-201 : update list of committers for maven ie pom.xml
+
+25	0	pom.xml
+
+commit 15acfaf39c273c15e74f61bf2fb0d718f3aedc27
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-17 22:44:38 -0500
+
+    MRUNIT-203 - tarballs should extract to dirs with the same name as tarball
+
+1	1	src/main/assembly/bin-assembly.xml
+1	1	src/main/assembly/src-assembly.xml
+
+commit 51a4cc8e955dce80df14cfda5261e549f4b01ab0
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-17 22:25:16 -0500
+
+    MRUNIT-190 - Use mvn enforcer plugin to ensure that a non-vulnerable version of java is used for javadoc generation
+
+20	0	pom.xml
+
+commit b829ae10c3b1ac7980f4afc645c7b49c9f224650
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-16 12:08:02 -0500
+
+    commit
+    
+    MRUNIT-194 - Update versions of Hadoop we compile against
+
+1	1	pom.xml
+
+commit e43ef01dd1199a7eb0963edbf05258a8609bf0dc
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-16 11:47:29 -0500
+
+    MRUNIT-192 - MRUNIT-180 requires values be comparable (Bertrand via Brock)
+
+1	0	pom.xml
+6	6	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+13	13	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+12	12	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+20	20	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+18	18	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+8	8	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+21	21	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+147	117	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+4	4	src/main/java/org/apache/hadoop/mrunit/internal/counters/CounterWrapper.java
+3	3	src/main/java/org/apache/hadoop/mrunit/internal/io/Serialization.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockReporter.java
+12	12	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+3	3	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCreator.java
+6	6	src/main/java/org/apache/hadoop/mrunit/internal/util/DistCacheUtils.java
+20	5	src/main/java/org/apache/hadoop/mrunit/internal/util/Errors.java
+0	66	src/main/java/org/apache/hadoop/mrunit/internal/util/PairComparator.java
+55	0	src/main/java/org/apache/hadoop/mrunit/internal/util/PairEquality.java
+4	4	src/main/java/org/apache/hadoop/mrunit/internal/util/StringUtils.java
+10	10	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+5	5	src/main/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+6	6	src/main/java/org/apache/hadoop/mrunit/testutil/TemporaryPath.java
+1	1	src/main/java/org/apache/hadoop/mrunit/types/Pair.java
+1	1	src/test/java/org/apache/hadoop/mrunit/ExtendedAssert.java
+7	7	src/test/java/org/apache/hadoop/mrunit/TestDistributedCache.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+37	29	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+21	10	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+17	6	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+27	19	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/internal/util/TestStringUtils.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/StatefulMapper.java
+17	17	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestDistributedCache.java
+32	24	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+24	12	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+28	20	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+3	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestStatefulMapReduce.java
+8	8	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestWordCount.java
+1	1	src/test/java/org/apache/hadoop/mrunit/testutil/TestTemporaryPath.java
+67	0	src/test/java/org/apache/hadoop/mrunit/types/UncomparableWritable.java
+6	0	src/test/resources/log4j.properties
+
+commit 9d3b1e2c941466f53cd50f0fc093f33ed8aeec9c
+Author: Bertrand Dechoux <bdechoux@apache.org>
+Date:   2014-03-15 22:22:14 +0100
+
+    MRUNIT-202 : Fix javadoc warnings when generating documentation
+
+8	8	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+8	8	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+6	6	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+1	4	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+2	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceFeeder.java
+
+commit 35d0800f402d0801292d16bb29045fb2fa185ddf
+Author: Bertrand Dechoux <bdechoux@apache.org>
+Date:   2014-03-15 21:29:59 +0100
+
+    MRUNIT-202
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+
+commit bcc6028d37bdf664b499a1259cca14128b477b22
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-04 13:27:08 -0600
+
+    Preparing for the 1.1 release
+
+1	1	pom.xml
+
+commit 7d131b276e5e625b2028db27ae3443f88d3e7635
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-04 13:24:22 -0600
+
+    Update release notes for 1.1 release
+
+96	0	CHANGES.txt
+
+commit 802effad8cc3fc5f279b9e99749580feff9ab7f0
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-04 13:01:29 -0600
+
+    MRUNIT-199 - Mapper.Context and Reducer.Context are not fully mocked (Lukas Nalezenec via Brock)
+
+2	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+2	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+
+commit a18979ec6907a9d8fedc1fb4e6d3148433effd61
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-04 12:58:00 -0600
+
+    MRUNIT-198 - Serialization is missing in MockMultipleOutputs (Lars Grote via Brock)
+
+138	68	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+47	37	src/main/java/org/apache/hadoop/mrunit/internal/output/MockMultipleOutputs.java
+93	5	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMultipleOutput.java
+
+commit 57196c39a73cf2251e0f2ba7da225731362407ba
+Author: Brock Noland <brock@apache.org>
+Date:   2014-03-04 12:52:41 -0600
+
+    MRUNIT-193 - Serialization.copy throws NPE instead of ISE (missing serilization impl) for Hadoop 2.x (Cosmin Lehen via Brock Noland)
+
+9	3	src/main/java/org/apache/hadoop/mrunit/internal/io/Serialization.java
+12	3	src/test/java/org/apache/hadoop/mrunit/internal/io/TestSerialization.java
+
+commit 2c24ab2af152bc7b41c4d52cba4883aacba40764
+Author: Brock Noland <brock@cloudera.com>
+Date:   2014-01-07 09:31:11 -0600
+
+    MRUNIT-186 - method context.getNumReduceTasks() does not work (Lukas Nalezenec via Brock Noland)
+
+9	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+59	0	src/test/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapperTest.java
+
+commit 2929a3a9659e6c511b61273026691ea7fb5e3054
+Author: Brock Noland <brock@cloudera.com>
+Date:   2013-12-20 09:24:11 -0600
+
+    MRUNIT-13 - Add support for MultipleOutputs (Dennis Federico, JiangHan, David Parks, and others via Brock Noland)
+
+38	53	pom.xml
+198	65	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+103	0	src/main/java/org/apache/hadoop/mrunit/internal/output/MockMultipleOutputs.java
+27	13	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+26	11	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+220	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMultipleOutput.java
+
+commit 8c3ca4869d9e9edb1e624803a5b2f8539f425dab
+Author: Brock Noland <brock@cloudera.com>
+Date:   2013-10-24 15:14:22 -0500
+
+    MRUNIT-188 - Throw assertion error if drivers are reused (Terry Kock via Brock Noland)
+
+7	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+6	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+6	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+15	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+14	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+12	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+20	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+14	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+12	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+18	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 90f8fb0df8be21c22eecd43f081fc4f28f2b8f07
+Author: Brock Noland <brock@cloudera.com>
+Date:   2013-10-18 10:38:23 -0500
+
+    MRUNIT-189: MapDriverBase.withInput comments state same as setInput but uses addInput (Terry Koch via Brock Noland)
+
+3	2	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+
+commit 08bbdfd5295e617f956f31937976f7b75ed60378
+Author: Brock Noland <brock@apache.org>
+Date:   2013-06-03 19:46:43 -0700
+
+    MRUNIT-129: Key object re-use in Reducer is inconsistent with MapReduce behaviour (new API)
+
+5	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+19	10	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+18	0	src/main/java/org/apache/hadoop/mrunit/internal/util/StringUtils.java
+29	7	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+107	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+170	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceFeeder.java
+84	0	src/main/java/org/apache/hadoop/mrunit/types/KeyValueReuseList.java
+31	0	src/test/java/org/apache/hadoop/mrunit/internal/util/TestStringUtils.java
+103	10	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+30	7	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+241	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceFeeder.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueReuse.java
+85	0	src/test/java/org/apache/hadoop/mrunit/types/TestKeyValueReuseList.java
+
+commit 0578f8652621c05feb79e992de1ac7b9e8671ec7
+Author: Brock Noland <brock@apache.org>
+Date:   2013-05-21 12:52:00 -0500
+
+    MRUNIT-164: Remove duplicated InputPathStoringMapper classes
+
+41	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/InputPathStoringMapper.java
+1	17	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	19	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit 6e94cecfff1986807ef2f5c1e735c7857f6b57a7
+Author: Dave Beech <dave@paraliatech.com>
+Date:   2013-04-23 10:48:58 +0100
+
+    MRUNIT-185 - IllegalFormatException for % in Output. Contributed by Joseph Beard.
+
+8	0	src/main/java/org/apache/hadoop/mrunit/internal/util/Errors.java
+8	0	src/test/java/org/apache/hadoop/mrunit/internal/util/TestErrors.java
+
+commit aa44d5406468cff4e852da528ea68e44e56b76c4
+Author: Brock Noland <brock@apache.org>
+Date:   2013-04-04 09:32:08 -0500
+
+    MRUNIT-180: Being able to use a comparator on runTest
+
+44	5	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+66	0	src/main/java/org/apache/hadoop/mrunit/internal/util/PairComparator.java
+65	5	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+5	4	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+50	8	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+5	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+8	8	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit d70cedd1fb09ba3e3cc23882f51bcd6fa07e5463
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-30 10:33:05 -0500
+
+    MRUNIT-182: TemporaryPath should support test data in subdirectories
+
+1	1	src/main/java/org/apache/hadoop/mrunit/testutil/TemporaryPath.java
+9	0	src/test/java/org/apache/hadoop/mrunit/testutil/TestTemporaryPath.java
+17	0	src/test/resources/testdir/data.txt
+
+commit 30e2d1fde029a6071ed4643d819aa758d723085a
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-24 13:24:15 -0500
+
+    MRUNIT-162: MapReduce testing utilties
+
+6	0	pom.xml
+179	0	src/main/java/org/apache/hadoop/mrunit/testutil/TemporaryPath.java
+100	0	src/test/java/org/apache/hadoop/mrunit/testutil/TestTemporaryPath.java
+
+commit 19ef2d3a78af2525cebc616b234c4b28a3d9e316
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-05 14:56:01 -0600
+
+    MRUNIT-173: Create instructions on building hadoop1 and hadoop2 source/binary tarball
+
+2	1	pom.xml
+2	0	src/main/assembly/bin-assembly.xml
+1	1	src/main/assembly/src-assembly.xml
+
+commit e7fd5934ba0b4d0feef36bae343195cafb1dcc06
+Author: Dave Beech <dbeech@apache.org>
+Date:   2013-03-04 17:35:15 +0000
+
+    Preparing for the 1.0 release
+
+1	1	pom.xml
+
+commit 38eb6f9ef6ce2653b50faa3a4fb847bcbcd90757
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-02 18:09:39 -0600
+
+    MRUNIT-179: Set mapred.output.dir and mapred.input.dir in trunk
+
+6	4	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapreduceOutputFormat.java
+
+commit 526abd65105dffc8f32324fd373cfe44e5f7f352
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-01 11:27:36 -0600
+
+    MRUNIT-138: Multiple calls to withInput should be supported
+
+3	1	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+9	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+94	2	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+
+commit 0d261d6298ed2377a85fdeb60d574a62c204b4b7
+Author: Brock Noland <brock@apache.org>
+Date:   2013-03-01 07:21:01 -0600
+
+    MRUNIT-167: context passed to an OuputFormatter is ignored by the framework
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+23	71	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapreduceOutputFormat.java
+19	7	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCreator.java
+42	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+
+commit 0c6460834bb7925ecffeddf97828a732dbd1d5ff
+Author: Brock Noland <brock@apache.org>
+Date:   2013-02-06 16:40:43 -0600
+
+    MRUNIT-172: Branch trunk should use hadoop 2
+
+19	52	pom.xml
+
+commit 5bc1086432700b27cb1a012bd3e3449f68b1174d
+Author: Brock Noland <brock@apache.org>
+Date:   2013-01-07 14:01:10 -0600
+
+    MRUNIT-161: some distributed cache apis not working - JobContext getCacheArchives()
+
+2	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+38	7	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+44	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+5	2	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+3	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+16	4	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+16	4	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+0	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestDistributedCache.java
+
+commit c6977354df69d3a96d0078b9c261d19a1624636c
+Author: Brock Noland <brock@apache.org>
+Date:   2012-12-21 14:47:58 -0600
+
+    MRUNIT-169: rat exclude does not list .gitignore
+
+1	0	pom.xml
+
+commit e21ed2e5cf35c77de18df8b307c0c0849906c0c9
+Author: Brock Noland <brock@apache.org>
+Date:   2012-12-21 13:02:11 -0600
+
+    MRUNIT-168: .gitignore does not exist
+
+12	0	.gitignore
+
+commit 59aa9dc1871d99495196f11f6014e34557b46b85
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-12-04 16:56:46 +0000
+
+    MRUNIT-163: getTaskAttemptID is missing from context
+    
+    Fix for hadoop2 as interface of TaskAttemptID has been changed
+
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+
+commit 92ad229dafea47db18fa978e809d13261721a806
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-12-04 13:15:27 +0000
+
+    MRUNIT-165: MapReduceDriver calls Mapper#cleanup for each input instead of once (unit test contributed by Yoni Ben-Meshulam)
+
+61	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/StatefulMapper.java
+47	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestStatefulMapReduce.java
+
+commit 2f9b6f787f9ceeb18509f5d984fe24f8db29cf42
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-11-30 23:18:27 +0000
+
+    MRUNIT-158: withOutput doesn't generate useful information with MapWritable on error
+
+34	3	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+
+commit 3c774067780bf51cef83ec1856bfad4e4512e1d4
+Author: Dave Beech <dbeech@minotaur.apache.org>
+Date:   2012-11-30 21:34:06 +0000
+
+    MRUNIT-160: DistributedCache unit tests fail on Mac OS X 10.8.2
+
+-	-	src/test/resources/testarchive.tar
+
+commit 319e6bbd00582624afb4d953a020af72c27e9e02
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-11-30 18:27:15 +0000
+
+    MRUNIT-163: getTaskAttemptID is missing from context
+
+9	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+9	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+17	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+17	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 6ff6ac62c64b5cae565c169704522f99a56856f0
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-11-12 09:57:43 +0000
+
+    Fixed licensing errors
+
+17	0	src/main/java/org/apache/hadoop/mrunit/internal/util/StringUtils.java
+0	0	src/test/java/org/apache/hadoop/mrunit/TestTestDriver.java
+17	0	src/test/java/org/apache/hadoop/mrunit/internal/util/TestErrors.java
+
+commit a6e9d4d0c5715abafb24db4114a059707571bc29
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-11-12 09:49:21 +0000
+
+    MRUNIT-140: TestDriver should use composition and have less responsibilities (bdechoux)
+
+37	102	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+65	0	src/main/java/org/apache/hadoop/mrunit/internal/util/Errors.java
+74	0	src/main/java/org/apache/hadoop/mrunit/internal/util/StringUtils.java
+0	203	src/test/java/org/apache/hadoop/mrunit/TestTestDriver.java
+43	0	src/test/java/org/apache/hadoop/mrunit/internal/util/TestErrors.java
+227	0	src/test/java/org/apache/hadoop/mrunit/internal/util/TestStringUtils.java
+
+commit 27b8505da44394456f4ae3d91220683e2e5977b5
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-11-11 12:38:17 +0000
+
+    MRUNIT-159: MRUnit not compiling with hadoop 0.23.3
+
+2	2	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+15	0	src/main/java/org/apache/hadoop/mrunit/internal/util/DistCacheUtils.java
+
+commit 03b0d58cb51268bef16ac1bc20dbd5467acf95ba
+Author: Dave Beech <david.beech@newsint.co.uk>
+Date:   2012-10-06 11:31:54 +0100
+
+    MRUNIT-136: PipelineMapReduceDriver needs withAll/addAll methods
+
+24	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+22	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+
+commit 3b1f193d77590150e117d69f7a32c2c6e6c72051
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-30 12:14:04 -0400
+
+    MRUNIT-101: allow use of real OutputFormats such as TextOutputFormat
+    instead of the MockOutputCollector/MockContextWrapper classes
+    
+    fix javadoc to refer to run* methods since there are currently 4 of them
+
+1	2	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+
+commit 475c00d6db1b3dcf364f3d4325d67ba018afe8d6
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-30 12:06:18 -0400
+
+    MRUNIT-115: set JobConf specific to the inputformat reading the results
+    of the outputformat/copying when not using a real outputformat
+    
+    add javadoc, use simpler method name OutputSerializationConfiguration
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+34	7	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/ContextDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+
+commit 6a5e5fbae2f11d6b8088a9c09a47056c49a4557f
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-30 11:28:50 -0400
+
+    MRUNIT-101: allow use of real OutputFormats such as TextOutputFormat
+    instead of the MockOutputCollector/MockContextWrapper classes
+    
+    add javadoc
+
+9	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+
+commit 9fd77a8797edbef1fc68f24abb23327bc7c4562b
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-09 22:23:16 -0400
+
+    MRUNIT-150: remove unnecessary log4j dependency
+
+1	1	LICENSE.txt
+0	25	pom.xml
+
+commit 04f025f5dfade44a95e971b3967be944f67fca10
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-09 21:46:45 -0400
+
+    MRUNIT-149: bind analyze-only goal from dependency plugin to
+    prepare-package to make sure dependencies are correct
+
+18	0	pom.xml
+
+commit aac4fb598075a8d9968dd2590cdfffd4d19427e4
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-09 17:00:42 -0400
+
+    MRUNIT-148: log4j is not used explicitly anywhere and should be runtime
+    scope
+
+1	0	pom.xml
+
+commit 57b5850b9f452d534025f467ae9d3346554a1b5f
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-09-09 13:13:16 -0400
+
+    MRUNIT-147: upgrade parent pom to version 11
+
+1	1	pom.xml
+
+commit e02d318475aa5f83962ed8cb765f87521ab28e01
+Author: Jarek Jarcec Cecho <jarcec@cloudera.com>
+Date:   2012-09-09 09:18:34 +0200
+
+    MRUNIT-146: Change repository location in source code
+
+4	3	pom.xml
+
+commit 8dcf2c1ba8fca63d8ea9f72877ccf49d50a00858
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-15 10:23:55 +0000
+
+    MRUNIT-142: withKeyGroupingComparator/withKeyOrderComparator should be in MapReduceDriverBase (contrib. Bertrand Dechoux)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1373314 13f79535-47bb-0310-9956-ffa450edef68
+
+0	29	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+26	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+0	29	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+
+commit 75f76ecce9d8911df54655167bafee0dd846175c
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-13 20:29:16 +0000
+
+    MRUNIT-141: Fix grammatical errors in counter log messages
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1372586 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 382a18366441f18b98206e11944690a10c25be07
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-09 20:26:29 +0000
+
+    MRUNIT-137: Remove duplicated set/add/withOutput methods
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1371440 13f79535-47bb-0310-9956-ffa450edef68
+
+7	107	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+5	112	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	79	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+6	114	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+100	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+
+commit 44401263f27353e5ce2a78080c48b82e355d6c5b
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-09 19:56:00 +0000
+
+    Fixed rat license error on src/test/resources/testfile
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1371418 13f79535-47bb-0310-9956-ffa450edef68
+
+17	1	src/test/resources/testfile
+
+commit 142719620eea3399f243ffe7ce979a5fb5392da6
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-09 19:15:46 +0000
+
+    MRUNIT-98: DistributedCache support. Fixing unit tests - order of outputs is unimportant
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1371389 13f79535-47bb-0310-9956-ffa450edef68
+
+9	9	src/test/java/org/apache/hadoop/mrunit/TestDistributedCache.java
+9	9	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestDistributedCache.java
+
+commit de7b7decaae62ef6b00107c2a88ac236ae9aeec6
+Author: Brock Noland <brock@apache.org>
+Date:   2012-08-09 19:13:38 +0000
+
+    MRUNIT-133: MapInput stuff should be moved from TestDriver to MapDriver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1371388 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+30	1	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+27	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+28	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+1	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	27	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+9	1	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockReporter.java
+1	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+45	0	src/test/java/org/apache/hadoop/mrunit/InputPathStoringMapper.java
+1	19	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+2	19	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+19	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+
+commit fec3c473687028f77f50f84c0051eb601064abf2
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-09 18:53:21 +0000
+
+    MRUNIT-98: DistributedCache support
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1371380 13f79535-47bb-0310-9956-ffa450edef68
+
+21	16	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+26	21	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+20	17	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+186	2	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+132	0	src/main/java/org/apache/hadoop/mrunit/internal/util/DistCacheUtils.java
+4	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+22	21	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+4	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+241	0	src/test/java/org/apache/hadoop/mrunit/TestDistributedCache.java
+256	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestDistributedCache.java
+-	-	src/test/resources/testarchive.tar
+-	-	src/test/resources/testarchive.tar.abc
+1	0	src/test/resources/testfile
+
+commit b4a4d3140d2e6344123c429ca431005863aa913c
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-06 21:44:42 +0000
+
+    MRUNIT-132: Spelling mistakes in TestReducerInputValueReuse
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1370032 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/{TestReducerInputValueResuse.java => TestReducerInputValueReuse.java}
+
+commit af8ac7bab81dd0f50d447bc49b5723e3996261ee
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-06 21:34:08 +0000
+
+    MRUNIT-125: reduce duplicate code related to fluent methods with generics. Contributed by Bertrand Dechoux
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1370030 13f79535-47bb-0310-9956-ffa450edef68
+
+0	151	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+7	23	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+0	115	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+0	23	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+0	13	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+0	184	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+9	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+23	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+0	131	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+0	166	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+
+commit b9e827462f6b9f012172dd2b4105c5865594edfa
+Author: Brock Noland <brock@apache.org>
+Date:   2012-08-05 20:38:27 +0000
+
+    MRUNIT-125: reduce duplicate code related to fluent methods with generics
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1369676 13f79535-47bb-0310-9956-ffa450edef68
+
+2	35	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+172	2	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	55	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+157	5	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	22	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	18	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+168	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+15	10	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+0	1	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockInputSplit.java
+0	1	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockReporter.java
+4	61	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+3	169	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+3	36	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+0	1	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+3	3	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+0	1	src/test/java/org/apache/hadoop/mrunit/internal/mapred/TestMockOutputCollector.java
+0	1	src/test/java/org/apache/hadoop/mrunit/internal/mapred/TestMockReporter.java
+
+commit 33e99f8a4b28a961ed7945aba1e1ce9d7c226e50
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-04 22:02:14 +0000
+
+    MRUNIT-131: Comparators registered using WritableComparator.define are not used during tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1369483 13f79535-47bb-0310-9956-ffa450edef68
+
+29	16	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+33	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+2	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+26	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+124	0	src/test/java/org/apache/hadoop/mrunit/types/TestWritable.java
+
+commit ec6cadec6647e3b61da077270f4b2b0b6b812c6e
+Author: Brock Noland <brock@apache.org>
+Date:   2012-08-03 16:29:08 +0000
+
+    MRUNIT-64: Multiple Input Key, Value Pairs should be supported (2)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1369090 13f79535-47bb-0310-9956-ffa450edef68
+
+45	7	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+43	16	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+61	6	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+29	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+2	2	src/main/java/org/apache/hadoop/mrunit/internal/counters/CounterWrapper.java
+7	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+10	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+13	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+14	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+16	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+
+commit 85f5ea303a4a4cfd17b554c02458afca63a49eb9
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-03 09:39:45 +0000
+
+    MRUNIT-127: Key grouping with GroupingComparators is not consistent with MapReduce behaviour
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1368848 13f79535-47bb-0310-9956-ffa450edef68
+
+32	28	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	3	src/main/java/org/apache/hadoop/mrunit/types/Pair.java
+41	6	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+41	6	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit b0e290d35ccdb669fe6df812c789af501ea8bdae
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-08-01 08:28:02 +0000
+
+    Removed dupe runTest method from PipelineMapReduceDriver. Also gets rid of wrapped IOException (MRUNIT-123)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1367882 13f79535-47bb-0310-9956-ffa450edef68
+
+0	12	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+
+commit f747c39b748c0c7cb7501258248e946c66f27aea
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-07-31 21:05:14 +0000
+
+    MRUNIT-126 - Counter tests are ignored if test is executed using run() rather than runTest()
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1367781 13f79535-47bb-0310-9956-ffa450edef68
+
+5	7	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+1	7	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+6	13	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+34	3	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+34	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+
+commit 4577a916a43fcb4e814eab16f02c9712a44c4c96
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-07-30 07:09:03 +0000
+
+    MRUNIT-119: Counter tests should support assertions that counters are not present. Contributed by Bertrand Dechoux.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1367010 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+79	10	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+46	0	src/main/java/org/apache/hadoop/mrunit/internal/counters/CounterWrapper.java
+6	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+6	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+44	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+69	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+74	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+63	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+44	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+66	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+57	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit e48f77aa695e9e3c0640a2fa9928d8cbd8a9e6a0
+Author: Brock Noland <brock@apache.org>
+Date:   2012-07-29 16:07:36 +0000
+
+    MRUNIT-64: Multiple Input Key, Value Pairs should be supported
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1366869 13f79535-47bb-0310-9956-ffa450edef68
+
+68	10	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+24	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+81	11	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+37	11	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+43	17	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+48	10	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+13	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+14	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+16	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+147	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestWordCount.java
+
+commit a06615ed34f95c09255f877d69fe8e0de41a0ead
+Author: Jarek Jarcec Cecho <jarcec@apache.org>
+Date:   2012-07-16 12:44:33 +0000
+
+    MRUNIT-121.  Configure RAT to ignore IntelliJ IDEA files.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1362004 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	pom.xml
+
+commit e63c8f6ade999b905137a813f9f19499f6a94c7a
+Author: Brock Noland <brock@apache.org>
+Date:   2012-07-10 22:10:28 +0000
+
+    MRUNIT-123: Driver.runTest should not wrap IOException in RuntimeException
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1359932 13f79535-47bb-0310-9956-ffa450edef68
+
+4	9	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	9	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+4	9	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+2	2	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+3	1	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+29	29	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+19	19	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+11	11	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+25	25	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/internal/mapred/TestMockOutputCollector.java
+22	22	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+18	18	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+24	24	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 0d95fadb950ccd19674be40befdfafd64c53dbb1
+Author: Brock Noland <brock@apache.org>
+Date:   2012-07-01 19:34:59 +0000
+
+    MRUNIT-122: Context should be mockable (2)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1355990 13f79535-47bb-0310-9956-ffa450edef68
+
+28	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/ContextDriver.java
+
+commit fd1ce4d28cf6bc1e92544cd7f5b64e7df8164a43
+Author: Brock Noland <brock@apache.org>
+Date:   2012-07-01 19:34:18 +0000
+
+    MRUNIT-122: Context should be mockable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1355989 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+49	36	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/AbstractMockContextWrapper.java
+50	47	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+49	41	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+39	13	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+38	10	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+17	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+17	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 1070ffe1df51c61be2392aea825e2ed6db9df540
+Author: Brock Noland <brock@apache.org>
+Date:   2012-06-16 16:47:01 +0000
+
+    MRUNIT-118: InputSplit should support a configurable filename
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1350958 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+36	2	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+33	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit d0a33cdbf98e9f3a87a58ab3d0040501a4d0a004
+Author: Brock Noland <brock@apache.org>
+Date:   2012-06-13 21:34:49 +0000
+
+    MRUNIT-118: InputSplit should support a configurable filename
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1350028 13f79535-47bb-0310-9956-ffa450edef68
+
+13	3	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+11	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+2	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+16	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+2	11	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockInputSplit.java
+5	2	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockReporter.java
+2	11	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockInputSplit.java
+5	2	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+14	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+12	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+34	2	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+3	2	src/test/java/org/apache/hadoop/mrunit/internal/mapred/TestMockReporter.java
+32	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+
+commit db107426a3c1f8baeb172cec831f1a2d389d3f2a
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-06-09 21:45:49 +0000
+
+    MRUNIT-117 - Fix compiler warnings.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1348511 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+5	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	2	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+0	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+6	6	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/counters/CounterWrapper.java
+4	0	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockMapredOutputFormat.java
+4	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapreduceOutputFormat.java
+0	1	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCollector.java
+1	0	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCreator.java
+2	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+5	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+2	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 941c6942f864227c0f831eae1f414839de51fd49
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-06-09 14:07:43 +0000
+
+    MRUNIT-116: Setting of configuration on Mappers/Reducers in MapDriver and ReduceDriver is inconsistent
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1348413 13f79535-47bb-0310-9956-ffa450edef68
+
+3	5	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+3	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+
+commit c05691154c835c503c4ecd8b82df41789ec2256f
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-30 13:12:20 +0000
+
+    MRUNIT-114: should support calling configure on sorting and grouping comparators if applicable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1344239 13f79535-47bb-0310-9956-ffa450edef68
+
+5	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+74	63	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+12	38	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit b159c7bedb03af9932b27daad061779eae861149
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-30 12:51:42 +0000
+
+    MRUNIT-113: upgrade hadoop 2 dependency to 2.0.0-alpha
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1344236 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 8fecfe5396dc556c9a9ba00dfa1403b104a51e32
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-30 12:41:02 +0000
+
+    MRUNIT-115: set JobConf specific to the inputformat reading the results of the outputformat/copying when not using a real outputformat
+    
+    initial checkin, need to add javadoc
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1344232 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+10	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+8	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+10	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+22	15	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockMapredOutputFormat.java
+18	13	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapreduceOutputFormat.java
+13	7	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCreator.java
+8	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+10	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+8	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+
+commit 49e8d0209544dcc83aa601c1171bd2b5358a0d8c
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-23 12:56:23 +0000
+
+    MRUNIT-112: upgrade hadoop 1 dependency to hadoop-core 1.0.3
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1341849 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 2f4c1baa14bfbcd8a0354ebc195dd55bf44e4408
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-22 13:25:43 +0000
+
+    MRUNIT-110: remove disclaimer and update links in the pom to new TLP resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1341467 13f79535-47bb-0310-9956-ffa450edef68
+
+20	20	pom.xml
+
+commit 3b1071e69e978fa79cbc60ea18387f33c8cf6c1f
+Author: Tony Stevenson <pctony@apache.org>
+Date:   2012-05-22 12:46:21 +0000
+
+    Move the mrunit directory tree as per INFRA-4837
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/mrunit/trunk@1341447 13f79535-47bb-0310-9956-ffa450edef68
+
+commit e140be5d709c0e9e7afb65226e6f84ebdd0f7aa3
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-22 04:30:36 +0000
+
+    MRUNIT-110: remove disclaimer and update links in the pom to new TLP resources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1341302 13f79535-47bb-0310-9956-ffa450edef68
+
+0	15	DISCLAIMER.txt
+
+commit a63dfbdae636644d02575f80743812f57a9e3986
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-10 08:00:25 +0000
+
+    MRUNIT-101: allow use of real OutputFormats such as TextOutputFormat instead of the MockOutputCollector/MockContextWrapper classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1336519 13f79535-47bb-0310-9956-ffa450edef68
+
+17	5	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+21	4	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+17	7	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockInputSplit.java
+116	0	src/main/java/org/apache/hadoop/mrunit/internal/mapred/MockMapredOutputFormat.java
+22	12	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/{MockContextWrapper.java => AbstractMockContextWrapper.java}
+1	1	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockInputSplit.java
+11	21	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapContextWrapper.java
+174	0	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockMapreduceOutputFormat.java
+9	18	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper.java
+4	4	src/main/java/org/apache/hadoop/mrunit/internal/{mapred => output}/MockOutputCollector.java
+65	0	src/main/java/org/apache/hadoop/mrunit/internal/output/MockOutputCreator.java
+30	0	src/main/java/org/apache/hadoop/mrunit/internal/output/OutputCollectable.java
+18	9	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+21	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+18	4	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+23	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+24	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+27	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+23	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+24	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+27	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit c02e29feffe902305e74f0684cba27e95509e552
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-10 02:07:11 +0000
+
+    forgot to increment version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1336470 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit ccc235601f5cc417d1fc6c05b23565c289c0c864
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-08 03:52:22 +0000
+
+    MRUNIT-108: copy ExtendedAssert.assertListEquals to src/test/java and deprecate entire class and all methods in ExtendedAssert in src/main/java
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1335332 13f79535-47bb-0310-9956-ffa450edef68
+
+28	2	src/main/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+58	0	src/test/java/org/apache/hadoop/mrunit/ExtendedAssert.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestTestDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit b7bf3921b3a6055372c6b6e6ec978fe5c929ba6c
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-07 02:23:54 +0000
+
+    MRUNIT-107: remove unused internal classes: MockOutputCommitter, MockRawKeyValueIterator and mapreduce.MockReporter
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1334862 13f79535-47bb-0310-9956-ffa450edef68
+
+0	55	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockReporter.java
+
+commit 2ee7478b16b37a4ddbcf2523a141a0922e6d5afe
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-05-06 22:26:33 +0000
+
+    MRUNIT-107: remove unused internal classes: MockOutputCommitter and MockRawKeyValueIterator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1334807 13f79535-47bb-0310-9956-ffa450edef68
+
+0	54	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockOutputCommitter.java
+0	52	src/main/java/org/apache/hadoop/mrunit/internal/mapreduce/MockRawKeyValueIterator.java
+
+commit 1d10325afaf8be1c4678159ff185d8b9637db9df
+Author: Dave Beech <dbeech@apache.org>
+Date:   2012-04-30 16:07:04 +0000
+
+    Added myself (Dave Beech) to developer section of pom
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1332272 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	pom.xml
+
+commit 6567d6de3ed4e87a5a7415c9356947b12602bed1
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-23 02:27:06 +0000
+
+    MRUNIT-105: testJavaSerialization methods fail in Java 7 because they do not set a group comparator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1329030 13f79535-47bb-0310-9956-ffa450edef68
+
+17	2	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+6	4	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+4	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit 94497895e6d03c576327d1672074e41c8590e033
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-20 05:08:41 +0000
+
+    MRUNIT-104: move non user classes into internal package
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1328200 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+3	3	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+2	1	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{ => internal}/counters/CounterWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{ => internal/io}/Serialization.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mock => internal/mapred}/MockInputSplit.java
+2	2	src/main/java/org/apache/hadoop/mrunit/{mock => internal/mapred}/MockOutputCollector.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mock => internal/mapred}/MockReporter.java
+2	2	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockInputSplit.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockMapContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockOutputCommitter.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockRawKeyValueIterator.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockReduceContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/{mapreduce/mock => internal/mapreduce}/MockReporter.java
+3	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+2	1	src/test/java/org/apache/hadoop/mrunit/{ => internal/io}/TestSerialization.java
+1	1	src/test/java/org/apache/hadoop/mrunit/{mock => internal/mapred}/TestMockOutputCollector.java
+2	1	src/test/java/org/apache/hadoop/mrunit/{mock => internal/mapred}/TestMockReporter.java
+
+commit 725b821fb22d8c5e343ce7c9092a6444a8dc4be5
+Author: Brock Noland <brock@apache.org>
+Date:   2012-04-18 20:07:45 +0000
+
+    Update CHANGES.txt to include latest changeset from 0.9
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1327659 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CHANGES.txt
+
+commit 9970af7130840cb32426d29bc46a210b29312249
+Author: Brock Noland <brock@apache.org>
+Date:   2012-04-18 19:45:51 +0000
+
+    MRUNIT-103: JUnit license not in NOTICE.txt in a binary tarball
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1327649 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	BIN-NOTICE.txt
+
+commit 1f6bbdd6977a7bb9b256cf3f4f0e20e427b7fc8a
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-18 01:39:17 +0000
+
+    MRUNIT-95: use Serialization framework to change all set/add input/output methods to serialize, deserialize to do defensive copying
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1327353 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+18	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+22	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+18	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+
+commit 88fef6d2b49b605127583b1c508956b116bb4137
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-17 03:37:10 +0000
+
+    MRUNIT-95: use Serialization framework to change all set/add input/output methods to serialize, deserialize to do defensive copying
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326898 13f79535-47bb-0310-9956-ffa450edef68
+
+4	6	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+3	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+5	9	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+4	4	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+8	8	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+22	5	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+28	17	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+3	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+
+commit 0fd587395358ad2ae0dc9a350e6d03a2555bc5d0
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-17 01:12:58 +0000
+
+    MRUNIT-95: use Serialization framework to change all set/add input/output methods to serialize, deserialize to do defensive copying
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326859 13f79535-47bb-0310-9956-ffa450edef68
+
+3	4	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+21	15	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+5	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+5	9	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+6	4	src/test/java/org/apache/hadoop/mrunit/TestSerialization.java
+
+commit 3b415b7e3bd67ee2482fbca8ae4dae45fadd48b3
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-17 00:12:44 +0000
+
+    MRUNIT-100: Maven doesn't generate md5/sha1 files automatically
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326836 13f79535-47bb-0310-9956-ffa450edef68
+
+12	1	pom.xml
+
+commit 328cddba84b134bc63fe2957d3873a543e78d4da
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-16 04:35:05 +0000
+
+    MRUNIT-99: dont force K2 in MapReduceDriver's to be Comparable since Hadoop dont enforce this on the map output key and value classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326480 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+3	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+
+commit c6370d42719442bf2238040bf279bf1a25566b65
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-16 02:30:33 +0000
+
+    MRUNIT-99: dont force K2 in MapReduceDriver's to be Comparable since Hadoop dont enforce this on the map output key and value classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326465 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CHANGES.txt
+
+commit c2a56e9a52922c69a922040ca611c1346bba7645
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-16 02:25:24 +0000
+
+    MRUNIT-99: dont force K2 in MapReduceDriver's to be Comparable since Hadoop dont enforce this on the map output key and value classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326463 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+9	15	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+
+commit f1132d31235866ec737ffe54acd871d63204db48
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-15 20:37:11 +0000
+
+    MRUNIT-97: InputSplit causes NullPointerException in mapreduce api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326421 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CHANGES.txt
+
+commit 9b0c7b810a1dc951788b7d132a4e35a6dbe8b25e
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-15 00:13:26 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution with 2 build artifacts, 1 for hadoop 1+ and 1 for hadoop 2+
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326239 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	CHANGES.txt
+
+commit 443b924951beb3fe3d5dcebd5db4191c965f4268
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-15 00:05:44 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution with 2 build artifacts, 1 for hadoop 1+ and 1 for hadoop 2+
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326237 13f79535-47bb-0310-9956-ffa450edef68
+
+5	9	BUILD.txt
+
+commit f6761fe9b471095e08d7dee115d88dad71bd4b79
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-14 23:57:47 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution with 2 build artifacts, 1 for hadoop 1+ and 1 for hadoop 2+
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326235 13f79535-47bb-0310-9956-ffa450edef68
+
+0	27	src/test/sh/run-artifact-unit-tests.sh
+
+commit f43424e873f9803ce32abf69a6e67330daceb8aa
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-14 23:53:46 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution with 2 build artifacts, 1 for hadoop 1+ and 1 for hadoop 2+
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326233 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	BIN-NOTICE.txt
+0	5	NOTICE-src.txt
+0	6	NOTICE.txt
+2	2	pom.xml
+2	1	src/main/assembly/bin-assembly.xml
+1	2	src/main/assembly/src-assembly.xml
+
+commit bb4a51e3f540713cbce3a274939743bd2c488d05
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-14 23:33:14 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution with 2 build artifacts, 1 for hadoop 1+ and 1 for hadoop 2+
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1326231 13f79535-47bb-0310-9956-ffa450edef68
+
+156	159	pom.xml
+1	8	src/main/assembly/bin-assembly.xml
+
+commit 12d6df971de68b4560c044947f307ecf01d9a3dd
+Author: Brock Noland <brock@apache.org>
+Date:   2012-04-13 21:18:52 +0000
+
+    MRUNIT-97: InputSplit causes NullPointerException in mapreduce api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1325959 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+12	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+20	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+
+commit 7d228077bb2912174e8037ba0905e44d571924d8
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-04 04:14:41 +0000
+
+    MRUNIT-96: Cleanup release: remove unnecesssary artifacts from nexus and distribute single binary distribution
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1309238 13f79535-47bb-0310-9956-ffa450edef68
+
+0	34	pom.xml
+0	70	src/site/site.xml
+
+commit fcf3353ebda3f470f92def97b67460c1987c9e80
+Author: Brock Noland <brock@apache.org>
+Date:   2012-04-04 00:06:56 +0000
+
+    Bumping version in pom.xml
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1309188 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit a47b68b6afc6acf6af84989a6aa3e50f75168ce3
+Author: Brock Noland <brock@apache.org>
+Date:   2012-04-03 23:54:41 +0000
+
+    Preparing for release 0.9.0-incubating
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1309186 13f79535-47bb-0310-9956-ffa450edef68
+
+31	0	CHANGES.txt
+
+commit 8ab1645ea107d20b957efd00ce963e7edda17ee1
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-03 03:43:35 +0000
+
+    MRUNIT-94: upgrade parent pom to version 10 and remove info in pom that is inherited from parent
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1308664 13f79535-47bb-0310-9956-ffa450edef68
+
+1	34	pom.xml
+
+commit ce0734e0af3164619891e32dbbcb1a6bf681acc9
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-04-03 02:56:26 +0000
+
+    MRUNIT-91: runTest() should optionally ignore output order. Contributed by Dave Beech.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1308657 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+2	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	2	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+155	142	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+136	18	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+24	4	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+120	31	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+55	10	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+13	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+104	28	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 8c7d27c1ed5dba56830998e46ecbcb85eaba4cba
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-28 11:51:23 +0000
+
+    MRUNIT-61: Build separate source and binary tar balls
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1306274 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	src/main/assembly/component.xml
+
+commit 0504243dd98605b87089c4a073a60c3ac1a58945
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-27 08:42:16 +0000
+
+    MRUNIT-61: Build separate source and binary tar balls
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1305780 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	BUILD.txt
+276	0	LICENSE.txt
+5	0	NOTICE-src.txt
+6	0	NOTICE.txt
+24	5	pom.xml
+63	0	src/main/assembly/bin-assembly.xml
+10	35	src/main/assembly/{dist.xml => component.xml}
+44	0	src/main/assembly/src-assembly.xml
+
+commit 56ea1987053641eff4c56286418ed419d20edc63
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-27 08:22:38 +0000
+
+    MRUNIT-92: cleanup multiple release profile and javadoc handling in pom
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1305772 13f79535-47bb-0310-9956-ffa450edef68
+
+0	129	doc/overview.html
+20	23	pom.xml
+
+commit 9462d9148513e8398e2e5eb79bc14b167ed26655
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-26 02:04:51 +0000
+
+    MRUNIT-92: cleanup multiple release profile and javadoc handling in pom
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1305201 13f79535-47bb-0310-9956-ffa450edef68
+
+29	55	pom.xml
+
+commit 5498965d6af5969410bf4508f8dc04dd924a04a3
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-26 01:14:56 +0000
+
+    MRUNIT-46: Tests should use *Driver.new*Driver factory methods for cleaner code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1305187 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+9	9	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit d69f513419fadd417c4af47d4db97cb1fb97bde3
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-26 00:56:50 +0000
+
+    MRUNIT-66: null input checks and behavior on no input to a driver are inconsistent
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1305185 13f79535-47bb-0310-9956-ffa450edef68
+
+12	12	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+14	55	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+23	23	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+9	39	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+24	76	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+12	12	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+13	43	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+0	6	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+29	43	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+13	8	src/main/java/org/apache/hadoop/mrunit/counters/CounterWrapper.java
+52	0	src/main/java/org/apache/hadoop/mrunit/internal/util/ArgumentChecker.java
+12	12	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+23	19	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+14	11	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+2	12	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+4	18	src/main/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+18	55	src/main/java/org/apache/hadoop/mrunit/types/Pair.java
+1	2	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+21	15	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+1	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+0	42	src/test/java/org/apache/hadoop/mrunit/types/TestPair.java
+
+commit 7bd404d274b0180005ff4f1e01c901d3b77d746f
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-24 22:02:23 +0000
+
+    MRUNIT-66: null input checks and behavior on no input to a driver are inconsistent
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1304939 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+3	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+7	6	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+3	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+3	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+3	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+4	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+3	2	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+14	29	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+3	8	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+27	57	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+28	47	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+14	30	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+22	25	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+30	49	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 68015dc8bf2c3f459b1f7f788b97ecfa378e7ba4
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-20 03:02:55 +0000
+
+    MRUNIT-68: Support custom counter checking
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1302763 13f79535-47bb-0310-9956-ffa450edef68
+
+37	33	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+
+commit 18fcd53816189f3e4dcdfa7096b17e6eccda38d8
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-20 02:35:34 +0000
+
+    MRUNIT-90: upgrade junit to 4.10 and change ExpectedSuppliedException to implement TestRule instead
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1302759 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+5	6	src/test/java/org/apache/hadoop/mrunit/ExpectedSuppliedException.java
+
+commit 002de100d2fbd0d61af20874fc4ea05cfbac5878
+Author: Brock Noland <brock@apache.org>
+Date:   2012-03-17 15:30:14 +0000
+
+    MRUNIT-68: Support custom counter checking (update license)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1301950 13f79535-47bb-0310-9956-ffa450edef68
+
+17	0	src/main/java/org/apache/hadoop/mrunit/counters/CounterWrapper.java
+
+commit efbfa4d62ba247caaa4ca284ea6f67fc97442185
+Author: Brock Noland <brock@apache.org>
+Date:   2012-03-17 14:37:37 +0000
+
+    MRUNIT-68: Support custom counter checking
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1301944 13f79535-47bb-0310-9956-ffa450edef68
+
+20	2	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+2	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+21	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+20	2	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+20	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+110	0	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+62	0	src/main/java/org/apache/hadoop/mrunit/counters/CounterWrapper.java
+20	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+20	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+20	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+55	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+36	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+50	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+72	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+47	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+34	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+55	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit fcd2f0e2151bcccd5a874c7371fc8654474957dd
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-15 08:28:38 +0000
+
+    MRUNIT-67: o.a.h.mrunit.mapreduce.MapReduceDriver should support a combiner
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1300844 13f79535-47bb-0310-9956-ffa450edef68
+
+98	20	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+35	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit 14a5977a8166caa7003f85c2d4849fe7a4c6e940
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-15 08:10:50 +0000
+
+    MRUNIT-86: Configuration not passed to individual mappers/reducers in mapred MapReducerDriver, PipelineMapReduceDriver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1300837 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 595c3fe214d8068d433fafecdedc395b58b65a36
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-15 07:51:02 +0000
+
+    MRUNIT-86: Configuration not passed to individual mappers/reducers in mapred MapReducerDriver, PipelineMapReduceDriver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1300829 13f79535-47bb-0310-9956-ffa450edef68
+
+13	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+16	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+14	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+13	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+15	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+16	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+20	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+6	8	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+15	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+15	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+13	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit f2cabb7971941b4e9804f7891e12052ae908ace5
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-15 03:48:51 +0000
+
+    MRUNIT-89: add static convenience methods to PipelineMapReduceDriver class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1300809 13f79535-47bb-0310-9956-ffa450edef68
+
+23	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+
+commit a2432e4af7c90b5ad6690f4af386f2ff3f57ec6a
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-14 01:43:51 +0000
+
+    MRUNIT-85: Run java conventions formatter that comes with eclipse on all source code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1300437 13f79535-47bb-0310-9956-ffa450edef68
+
+54	50	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+38	38	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+138	97	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+86	71	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+132	80	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+63	54	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+30	24	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+31	22	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+80	52	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+63	59	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+111	80	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+66	55	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+25	21	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockInputSplit.java
+29	28	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+13	8	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockOutputCommitter.java
+6	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockRawKeyValueIterator.java
+37	33	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+6	7	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+4	5	src/main/java/org/apache/hadoop/mrunit/mock/MockInputSplit.java
+12	18	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+15	15	src/main/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+24	16	src/main/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+19	13	src/main/java/org/apache/hadoop/mrunit/types/Pair.java
+0	2	src/test/java/org/apache/hadoop/mrunit/ExpectedSuppliedException.java
+19	13	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+33	32	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+4	6	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+74	56	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+102	107	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+65	53	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+82	97	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+13	12	src/test/java/org/apache/hadoop/mrunit/TestSerialization.java
+35	35	src/test/java/org/apache/hadoop/mrunit/TestTestDriver.java
+24	23	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+57	48	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+101	102	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+91	99	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+16	13	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueResuse.java
+15	14	src/test/java/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+7	5	src/test/java/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+32	35	src/test/java/org/apache/hadoop/mrunit/types/TestPair.java
+
+commit 4430c7b6f7656ec7ca91a658c3f9a689b2d63a82
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-12 07:04:58 +0000
+
+    MRUNIT-74: Matching output but at incorrect position is not returned as an Error in the message string thrown in the RuntimeException
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1299567 13f79535-47bb-0310-9956-ffa450edef68
+
+25	8	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+17	7	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+3	1	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+12	6	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+10	5	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+3	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+11	6	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 0a27db8766f2381b789a759e432923c09a28149a
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-10 06:57:55 +0000
+
+    MRUNIT-77: cannot use serializations that do not clone into object, or serializations without no arg constructors with reduce driver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1299156 13f79535-47bb-0310-9956-ffa450edef68
+
+1	6	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+19	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+
+commit dadedc264409645cbc136275b6bd3423f68b89ba
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-10 05:17:30 +0000
+
+    MRUNIT-70: copy(orig, conf) in Serialization shouldn't require objects to have a no-args constructor, and copy(orig, copy, conf) seems to violate contract for deserializer.deserialize()
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1299150 13f79535-47bb-0310-9956-ffa450edef68
+
+27	13	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+57	0	src/test/java/org/apache/hadoop/mrunit/TestSerialization.java
+
+commit 21688bc84e22f361ff211045f9d40967cc5de517
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-09 05:31:20 +0000
+
+    MRUNIT-75: cleanup exception checking in tests to use a @Rule ExpectedException
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1298707 13f79535-47bb-0310-9956-ffa450edef68
+
+8	12	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+7	6	src/test/java/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+25	49	src/test/java/org/apache/hadoop/mrunit/types/TestPair.java
+
+commit 1279ba1568ac98fa04dfe957f4d8c24ea31e03f5
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-09 05:13:38 +0000
+
+    MRUNIT-54: Driver.runTest throws RuntimeException should it throw AssertionError?
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1298706 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+5	9	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+89	0	src/test/java/org/apache/hadoop/mrunit/ExpectedSuppliedException.java
+47	104	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+56	82	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+75	126	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+40	84	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+35	57	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+78	129	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit a177f5a0b92e31737ed46f8ec749f9f0bb23ce84
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-06 08:23:15 +0000
+
+    MRUNIT-48: Test and Deprecate Driver.{*OutputFromString,*InputFromString} Methods
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1297378 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+8	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+21	7	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+74	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+
+commit b9789c4427663c61d58f221a24743e6e82cd30d5
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-06 06:33:18 +0000
+
+    MRUNIT-72: MRUnit pom.xml should not depend on 0.23.1-SNAPSHOT
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1297349 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit b8d0b9de392807c5289e42c3136f7c9b9438c5ce
+Author: Jim Donofrio <jdonofrio@apache.org>
+Date:   2012-03-06 01:56:52 +0000
+
+    MRUNIT-62: Add Maven Profile Build Information to BUILD.txt
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1297319 13f79535-47bb-0310-9956-ffa450edef68
+
+11	1	BUILD.txt
+
+commit 6562c47239c75bee24fd2c4866991eb116e01407
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-28 12:38:24 +0000
+
+    MRUNIT-45: MockOutputCollector.deepCopy should use o.a.h.mrunit.Serialization.copy
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1294624 13f79535-47bb-0310-9956-ffa450edef68
+
+3	49	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+
+commit 22193c9ec64439a7d3beaeaf36cb6ae28aa9f138
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-26 17:16:41 +0000
+
+    MRUNIT-46: Tests should use *Driver.new*Driver factory methods for cleaner code (patch 2)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1293877 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 0ae70a2bef491dbb3f908aa100e194d310e50d34
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-26 16:30:22 +0000
+
+    MRUNIT-65: return better error message when mapper or reducer is null for MapDriver or ReduceDriver
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1293865 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+3	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+7	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+5	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+3	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+4	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+11	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+24	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+28	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+11	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+27	16	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+24	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+27	17	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit c7df5ac0ea0cc6840bc971e11f5af247722149a7
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-26 16:14:25 +0000
+
+    MRUNIT-46: Tests should use *Driver.new*Driver factory methods for cleaner code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1293860 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	doc/overview.html
+19	5	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/package.html
+1	1	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+3	3	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	2	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+3	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+1	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+1	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueResuse.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+
+commit 89408b278ad58e4c355a1d0d0b72a97ca6fd6159
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-26 08:26:01 +0000
+
+    MRUNIT-49: o.a.h.mrunit.mapreduce.ReduceDriverBase.ValueClassInstanceReuseList Configuration not modifable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1293772 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+
+commit 25296a2103dc4638a52e17b36c0609ce5473f2a0
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-17 20:06:22 +0000
+
+    Pulling in updated 0.8.1-incubating release notes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1245733 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CHANGES.txt
+
+commit 27348249a4cf2893e515ef2b805a348472d4e393
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-17 19:56:45 +0000
+
+    MRUNIT-60: Remove special characters from classifers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1245729 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 5bfecfe4a0a344bdf09bdfdfc7644fc97cad657d
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-16 03:04:08 +0000
+
+    Update release notes from 0.8.1
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1244834 13f79535-47bb-0310-9956-ffa450edef68
+
+15	0	CHANGES.txt
+
+commit 44822a927c88f0b1f57c0241d9f8f01cc2a77b72
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-16 03:01:01 +0000
+
+    MRUNIT-59: Only assemble tar.gz, not .zip
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1244832 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/assembly/dist.xml
+
+commit eb0bba8a3ac6e5ef76f9ca682b56f8f78035a386
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-16 02:55:09 +0000
+
+    MRUNIT-58: Javadoc for org.apache.hadoop.mrunit Package Ends Prematurely
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1244829 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	src/main/java/org/apache/hadoop/mrunit/package.html
+
+commit 639db9cfeb02fca1cf08eb99d742fe3f7179be83
+Author: Brock Noland <brock@apache.org>
+Date:   2012-02-16 02:47:53 +0000
+
+    MRUNIT-56: 0.8.0 release does not work with Hadoop 0.23 (also MRUNIT-55 and MRUNIT-57)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1244828 13f79535-47bb-0310-9956-ffa450edef68
+
+46	4	pom.xml
+
+commit 242c7d40d1006697b92b65af89b93f146fcbe70c
+Author: Chris Mattmann <mattmann@apache.org>
+Date:   2012-01-11 03:38:06 +0000
+
+    fix for MRUNIT-52 Update copyright year in NOTICE.txt file.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1229882 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE.txt
+
+commit 899a52f56e34c516403d88bf8a0a5406057c1c1c
+Author: Brock Noland <brock@apache.org>
+Date:   2012-01-07 20:07:11 +0000
+
+    MRUNIT-51: Add SNAPSHOT to trunk version number
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1228713 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 81e419ffb50a60c1c885dfc8e0cec27149012ea1
+Author: Brock Noland <brock@apache.org>
+Date:   2012-01-07 20:02:00 +0000
+
+    Incrementing version in trunk
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1228712 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit ce94f47772931517909418f9552a56ea9b93a768
+Author: Brock Noland <brock@apache.org>
+Date:   2012-01-07 19:54:54 +0000
+
+    Preparing for release 0.8.0-incubating
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1228710 13f79535-47bb-0310-9956-ffa450edef68
+
+31	0	CHANGES.txt
+
+commit 906486df0019dd1adda7c8dbc727287357ca5e4b
+Author: Brock Noland <brock@apache.org>
+Date:   2011-12-21 01:00:49 +0000
+
+    MRUNIT-44: Remove AllTests classes (1)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1221544 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/test/java/org/apache/hadoop/mrunit/AllTests.java
+0	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/AllTests.java
+0	0	src/test/java/org/apache/hadoop/mrunit/types/AllTests.java
+
+commit ea3b4e07b2813246b1f33ebef0f7a4a981ccf1af
+Author: Brock Noland <brock@apache.org>
+Date:   2011-12-21 00:59:27 +0000
+
+    MRUNIT-44: Remove AllTests classes (0)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1221543 13f79535-47bb-0310-9956-ffa450edef68
+
+0	53	src/test/java/org/apache/hadoop/mrunit/AllTests.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+1	3	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+2	3	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/TestTestDriver.java
+0	43	src/test/java/org/apache/hadoop/mrunit/mapreduce/AllTests.java
+2	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+2	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+2	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+3	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueResuse.java
+1	3	src/test/java/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+2	2	src/test/java/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+0	37	src/test/java/org/apache/hadoop/mrunit/types/AllTests.java
+2	2	src/test/java/org/apache/hadoop/mrunit/types/TestPair.java
+2	1	src/test/sh/run-artifact-unit-tests.sh
+
+commit 9cfda096b579d7f3fb9bcd6260949c67b57791b3
+Author: Brock Noland <brock@apache.org>
+Date:   2011-12-21 00:46:56 +0000
+
+    MRUNIT-50: Remove guava dependency
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1221540 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	pom.xml
+4	13	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+2	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueResuse.java
+
+commit e12d7eb9883db9d77741d809fa343b71a86ac229
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 22:52:10 +0000
+
+    MRUNIT-42: Push -javadoc.jar and -sources.jar to maven
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207677 13f79535-47bb-0310-9956-ffa450edef68
+
+15	0	pom.xml
+4	4	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+4	3	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+17	0	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+
+commit 768ead0a86147311b638b717850d04de308fc7d4
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 22:16:00 +0000
+
+    MRUNIT-43: Driver methods should have static factory methods similar to Guava Lists.newArrayList()
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207654 13f79535-47bb-0310-9956-ffa450edef68
+
+22	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+28	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+23	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+23	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+29	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+22	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+1	1	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+1	4	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	2	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+1	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+1	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 799913ea3d189c94224ce91f43f85baef93376e5
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 21:56:19 +0000
+
+    MRUNIT-14: Support JobConfigurable and Closable interfaces
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207646 13f79535-47bb-0310-9956-ffa450edef68
+
+3	2	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+4	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+2	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+69	0	src/test/java/org/apache/hadoop/mrunit/TestConfigureClose.java
+2	2	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+
+commit 2ee2e6e721a2d17dd479c4d30a4f2e867a62f28b
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 21:30:29 +0000
+
+    MRUNIT-19: MRunit ReduceDriver does not fully replicate the reducers behaviour with reusing pointers over the iterator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207626 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+81	25	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+67	0	src/main/java/org/apache/hadoop/mrunit/Serialization.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+4	27	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+80	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReducerInputValueResuse.java
+
+commit 110a68173c38c802c62b62f8db55c44ff8e2ee2d
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 17:11:00 +0000
+
+    MRUNIT-30: Methods {add,set}{Input,Output}FromString have poor error messages
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207469 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	4	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+4	4	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+4	4	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+
+commit ef89814642e1aa7c1bb200816ab974eb602747cf
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 17:05:30 +0000
+
+    MRUNIT-27: Remove unused variables/imports (2)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207456 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+0	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+1	0	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 9457eec93efd7b416b7af2e2897c2dc26af46e26
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 17:02:49 +0000
+
+    MRUNIT-28: remove generic types compiler warnings (2)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207454 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	2	src/main/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+20	20	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+4	4	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit a7d022b61e4f09ecba520de425f254ec06a1493a
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 16:49:37 +0000
+
+    MRUNIT-29: squash warnings for depreciated classes/methods
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207421 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/mock/MockInputSplit.java
+1	0	src/main/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestExample.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestMapDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+1	0	src/test/java/org/apache/hadoop/mrunit/TestReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+
+commit c8695bd872b1cabb8ed8f17014347db8f9aab48b
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 16:38:46 +0000
+
+    MRUNIT-27: unused variables/imports (1)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207408 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+0	3	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+0	7	src/main/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+0	2	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+0	2	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+0	2	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+0	4	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+0	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+0	7	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+0	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+0	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockInputSplit.java
+0	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockOutputCommitter.java
+0	2	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockRawKeyValueIterator.java
+0	2	src/test/java/org/apache/hadoop/mrunit/TestCounters.java
+0	1	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+0	2	src/test/java/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+0	2	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+0	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+0	6	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+0	3	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit db2ea8389a80be3a612fff4f0c6de15bf8680e83
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 16:33:40 +0000
+
+    MRUNIT-28: remove generic types compiler warnings (1)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207398 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+4	0	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+7	4	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	0	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+1	1	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+1	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+2	0	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+6	4	src/main/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+1	0	src/main/java/org/apache/hadoop/mrunit/types/Pair.java
+4	4	src/test/java/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+
+commit d5e29a750e37ba9d785bbf83552ca82872a4ee07
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-28 16:29:25 +0000
+
+    Add forgotten file for MRUNIT-31: Support Hadoop 0.22 and 0.23
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1207388 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+111	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockContextWrapper.java
+
+commit 294c7d094f9dfa6c1c3ae7b812950d13b40b9115
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-27 23:41:22 +0000
+
+    MRUNIT-41: Add Brock to list of developers in pom.xml
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1206922 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	pom.xml
+
+commit c5d0cccce3b23066667114adedb39bd4db5b6e64
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-17 20:31:00 +0000
+
+    MRUNIT-31: Support Hadoop 0.22 and 0.23
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1203354 13f79535-47bb-0310-9956-ffa450edef68
+
+60	6	pom.xml
+5	6	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+5	6	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+62	74	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+89	167	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+4	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+3	0	src/main/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+
+commit 39e5f0a70ebfb0caf7b211c1b0b4499f1d52be8f
+Author: Brock Noland <brock@apache.org>
+Date:   2011-11-04 01:28:18 +0000
+
+    Update release notes for 0.5.0 release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1197381 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	CHANGES.txt
+
+commit bf3ebd3d508c550f8854f8e80e8befe86d16bc31
+Author: Brock Noland <brock@apache.org>
+Date:   2011-10-31 23:05:44 +0000
+
+    MRUNIT-37: Use maven deploy plugin
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1195713 13f79535-47bb-0310-9956-ffa450edef68
+
+86	0	pom.xml
+
+commit d7cf384219c4ecb0812511fcade3acd868d38b9b
+Author: Brock Noland <brock@apache.org>
+Date:   2011-10-26 14:43:36 +0000
+
+    MRUNIT-36: Update release notes and add tag for 0.5.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1189248 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	CHANGES.txt
+
+commit 737fa04563a7c04f0977c56bbde5c1142fec11f9
+Author: Brock Noland <brock@apache.org>
+Date:   2011-10-26 13:34:01 +0000
+
+    MRUNIT-35: Include DISCLAIMER and BUILD in artifact
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1189206 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/assembly/dist.xml
+
+commit 6da2601b137e64bdcdaa1f9a6b1d476cf7f631ae
+Author: Brock Noland <brock@apache.org>
+Date:   2011-10-26 12:04:09 +0000
+
+    MRUNIT-34: Create smoke test for build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1189151 13f79535-47bb-0310-9956-ffa450edef68
+
+26	0	src/test/sh/run-artifact-unit-tests.sh
+
+commit 32351b71c984884bf717bdd2cdd97b9c26da3b43
+Author: Brock Noland <brock@apache.org>
+Date:   2011-10-25 16:39:40 +0000
+
+    Merged 1188763 from 0.5.0 (fixed MRUNIT-33: maven assembly fails with no assembly descriptors found)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1188775 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	pom.xml
+
+commit 46bbd993125d84a6f792554cddfbfdaf4c3b1dce
+Author: Chris Mattmann <mattmann@apache.org>
+Date:   2011-10-01 22:31:00 +0000
+
+    Apply patch for MRUNIT-15 from Brock Noland.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1178100 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/hadoop/mrunit/MapDriverBase.java
+2	3	src/main/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	3	src/main/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+2	3	src/main/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+13	6	src/main/java/org/apache/hadoop/mrunit/TestDriver.java
+
+commit 46a72ca24ac00b7f9b90bd1fd8d70cecfc308714
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-13 20:28:00 +0000
+
+    MRUNIT-2: Create a project site
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1135261 13f79535-47bb-0310-9956-ffa450edef68
+
+113	2	pom.xml
+70	0	src/site/site.xml
+
+commit 729e4ed8c982618091655978fe8ef7a311431ffb
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:54:53 +0000
+
+    Cleaning up directories that should have been removed already
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129999 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 0f3ce0f7420fefc6416f1bf2c17f36c7e02fc347
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:47:12 +0000
+
+    Updated CHANGES.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129996 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	CHANGES.txt
+
+commit 50522e2e52412f9846cf2059c05ba2d0ce55c2b4
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:47:10 +0000
+
+    MRUNIT-25: Updated BUILD instructions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129995 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	BUILD.txt
+
+commit fb500b4168aa37e500a92cf769e7d3e0c45d1de3
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:17:31 +0000
+
+    Updated CHANGES.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129993 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	CHANGES.txt
+
+commit 3d9fbef8709c74ac56c4b4d976a1a98e0b900e1a
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:17:29 +0000
+
+    MRUNIT-17: Bind maven assembly to package phase
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129992 13f79535-47bb-0310-9956-ffa450edef68
+
+13	3	pom.xml
+
+commit 2ab42f39c39abdd7f5e27e92c6525819bb42b484
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-06-01 04:17:26 +0000
+
+    MRUNIT-24: Fix RAT license check failures since adding CHANGES file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129991 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	pom.xml
+
+commit 9f03f4ac0e3131ba47c1069b179e94fee06ba989
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-31 07:21:55 +0000
+
+    MRUNIT-23: Create a CHANGES file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129517 13f79535-47bb-0310-9956-ffa450edef68
+
+24	0	CHANGES.txt
+
+commit 5073de9d17384156115b2bbd2ab91d8a159d536f
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-31 00:39:28 +0000
+
+    MRUNIT-22: Add build instructions document
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129447 13f79535-47bb-0310-9956-ffa450edef68
+
+33	0	BUILD.txt
+
+commit b139b9d578ca721a0c233065d9a5e5e761951f4d
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-31 00:15:08 +0000
+
+    MRUNIT-21: Add the ASF incubator disclaimer to the README
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129446 13f79535-47bb-0310-9956-ffa450edef68
+
+15	0	DISCLAIMER.txt
+
+commit 5d82ea7967be5b6a1e425fe869d54964b5afac9d
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-31 00:04:58 +0000
+
+    FIX: Undoing previous addition of a dist directory - should have been top level.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129442 13f79535-47bb-0310-9956-ffa450edef68
+
+0	46	dist/KEYS
+
+commit d364cd849d66f53f130f7eb8e1e8f26eeffdaabf
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-30 23:59:38 +0000
+
+    MRUNIT-20: Add a KEYS file containing dev pgp keys to the repo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1129440 13f79535-47bb-0310-9956-ffa450edef68
+
+46	0	dist/KEYS
+
+commit b014ac6b3d9a6a5387c77780aa4ad53bf192aa24
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-27 01:11:10 +0000
+
+    MRUNIT-16: Generate distribution artifacts from maven
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1128131 13f79535-47bb-0310-9956-ffa450edef68
+
+12	3	pom.xml
+69	0	src/main/assembly/dist.xml
+
+commit 82b0b3e475aff662f0ff876628c12aa21d02417f
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-27 00:20:26 +0000
+
+    MRUNIT-9: Fix failing testDoubleIteration test
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1128128 13f79535-47bb-0310-9956-ffa450edef68
+
+35	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+
+commit a063810b8b88e29c79b3c81af9ccc633a81985bd
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-26 23:46:51 +0000
+
+    MRUNIT-8: Fix failing testConfiguration tests
+    
+    Initial contribution from Garret Wu <wugarrett@gmail.com>.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1128123 13f79535-47bb-0310-9956-ffa450edef68
+
+6	1	src/main/java/org/apache/hadoop/mrunit/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/ReduceDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+1	1	src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+5	5	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+5	5	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+3	9	src/main/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+1	1	src/test/java/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+
+commit 72143cb27bfdd8de3e88f2ad249bb50f2e93ed58
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-13 01:28:27 +0000
+
+    MRUNIT-11: Test output should be redirected to files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102531 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	pom.xml
+
+commit 75a7ff9d7f4f3003f4398be5ee71401047f14ec2
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-13 01:28:25 +0000
+
+    MRUNIT-10: Version in pom should contain -incubating per policy
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102530 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 4951ae39a311fe2b45c7ae8d760201364830761f
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-13 01:10:16 +0000
+
+    MRUNIT-4: Create README, LICENSE, and other necessary files for independent release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102524 13f79535-47bb-0310-9956-ffa450edef68
+
+203	0	LICENSE.txt
+5	0	NOTICE.txt
+
+commit cbe843923dbfcac00de9036714fb32c19b0f2870
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-11 22:53:36 +0000
+
+    MRUNIT-7: Remove empty MockMapContext.java file accidentally added
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102126 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/main/java/org/apache/hadoop/mrunit/mock/MockMapContext.java
+
+commit 09255c1ccaad26fb68b377ac81a83a343a656dfa
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-11 22:53:33 +0000
+
+    MRUNIT-3: Add Apache RAT support to the build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102125 13f79535-47bb-0310-9956-ffa450edef68
+
+20	1	pom.xml
+
+commit 0a5ef107412b4645d317dab953d1fdfbbb32e592
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-05-11 22:17:32 +0000
+
+    MRUNIT-1: Port build system to Maven
+    MRUNIT-6: Reverse MAPREDUCE-954 in trunk
+    
+    These were rolled into a single commit only because MRUNIT-6 couldn't be tested
+    on trunk as the ant build was broken since extracting from hadoop trunk. I
+    won't be combining patches for different JIRAs in the future.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1102112 13f79535-47bb-0310-9956-ffa450edef68
+
+0	28	build.xml
+0	55	ivy.xml
+0	17	ivy/libraries.properties
+105	0	pom.xml
+0	118	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContext.java
+0	204	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/MapDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/MapDriverBase.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/ReduceDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/TestDriver.java
+6	5	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+7	5	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/mock/MockInputSplit.java
+121	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/mock/MockOutputCommitter.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/mock/MockRawKeyValueIterator.java
+185	0	src/main/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mock/MockInputSplit.java
+0	0	src/main/java/org/apache/hadoop/mrunit/mock/MockMapContext.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/package.html
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+0	0	src/{ => main}/java/org/apache/hadoop/mrunit/types/Pair.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/AllTests.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestCounters.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestExample.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestMapDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestReduceDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/TestTestDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mapreduce/AllTests.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/types/AllTests.java
+0	0	src/test/{ => java}/org/apache/hadoop/mrunit/types/TestPair.java
+
+commit 5f51c709fbf22bca7df15b75f54d51c971ee1c7d
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-03-27 03:50:53 +0000
+
+    - Trunk is now mrunit from hadoop/contrib/mrunit.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/trunk@1085864 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 7a67f65f4acda0c3df65362d28e6959bd62528d1
+Author: Eric Sammer <esammer@apache.org>
+Date:   2011-03-27 03:45:49 +0000
+
+    - Copying hadoop/contrib/mrunit -> mrunit.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/mrunit/mrunit@1085862 13f79535-47bb-0310-9956-ffa450edef68
+
+commit d6a3e3c47299c54df368e17f8379bacb7bdff712
+Author: Thomas White <tomwhite@apache.org>
+Date:   2010-12-03 22:43:59 +0000
+
+    MAPREDUCE-1878. Add MRUnit documentation. Contributed by Aaron Kimball
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@1042039 13f79535-47bb-0310-9956-ffa450edef68
+
+221	0	src/java/org/apache/hadoop/mrunit/package.html
+
+commit 21351dfe4ede10ec9fb5cb3101f5424da2a8324d
+Author: Thomas White <tomwhite@apache.org>
+Date:   2010-07-01 04:58:51 +0000
+
+    MAPREDUCE-1870. Harmonize MapReduce JAR library versions with Common and HDFS.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@959509 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	ivy.xml
+
+commit ba56c47a080094f7ed7215aa0cae07f2d134dc51
+Author: Thomas White <tomwhite@apache.org>
+Date:   2010-05-28 03:44:48 +0000
+
+    MAPREDUCE-1751. Change MapReduce to depend on Hadoop 'common' artifacts instead of 'core'.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@949090 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	ivy.xml
+
+commit fc95ec31bfa2f441cc609ea288b742ac67388afe
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2010-04-25 20:48:17 +0000
+
+    MAPREDUCE-1570. Add grouping comparators to MRUnit. Contributed by Chris White
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@937871 13f79535-47bb-0310-9956-ffa450edef68
+
+29	1	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+97	33	src/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+29	1	src/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+75	0	src/test/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+66	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+
+commit 98efbfda89f235abedaed8c8b6e3ff78a0243e11
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2010-03-20 06:30:27 +0000
+
+    MAPREDUCE-1569. Pass configuration through mocked contexts in MRUnit. Contributed by Chris White
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@925558 13f79535-47bb-0310-9956-ffa450edef68
+
+19	0	src/java/org/apache/hadoop/mrunit/TestDriver.java
+12	1	src/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+14	2	src/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+13	1	src/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+25	3	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContext.java
+28	3	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+29	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+25	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+33	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 46c621f57bc7e6c0d42977dbe71ee9fee0a11346
+Author: Owen O'Malley <omalley@apache.org>
+Date:   2010-01-15 23:48:54 +0000
+
+    HADOOP-1126. Reverting due to -1.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@899844 13f79535-47bb-0310-9956-ffa450edef68
+
+1	10	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+
+commit 56e26729869c964a4ce8f730e3abe9cf6620a5ee
+Author: Thomas White <tomwhite@apache.org>
+Date:   2010-01-15 00:42:36 +0000
+
+    MAPREDUCE-1212. Mapreduce contrib project ivy dependencies are not included in binary target. Contributed by Aaron Kimball.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@899501 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	ivy.xml
+
+commit eb3b3721f06292242f74bc02d695fbf3f3ba74cb
+Author: Doug Cutting <cutting@apache.org>
+Date:   2010-01-11 19:22:42 +0000
+
+    AVRO-1126. Shuffle now uses Serialization API for comparisons, permitting non-Writable intermediate data.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@898019 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+
+commit f923a5adaa837b4c6c3477961d7f6037b52e4701
+Author: Owen O'Malley <omalley@apache.org>
+Date:   2009-11-24 05:52:46 +0000
+
+    HADOOP-5107. Use Maven ant tasks to publish artifacts. (Giridharan Kesavan
+    via omalley)
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@883594 13f79535-47bb-0310-9956-ffa450edef68
+
+6	16	ivy.xml
+
+commit 33a57ff51858d26437996057a1f06f431feb442f
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2009-11-05 06:05:32 +0000
+
+    MAPREDUCE-1128. Fix MRUnit to prohibit iterating over values twice. Contributed by Aaron Kimball
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@833006 13f79535-47bb-0310-9956-ffa450edef68
+
+23	2	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+44	0	src/test/org/apache/hadoop/mrunit/TestReduceDriver.java
+38	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 2f5c7ae77ebf983b5ca818f7f6aeed69a26a6cd1
+Author: Arun Murthy <acmurthy@apache.org>
+Date:   2009-09-18 23:52:56 +0000
+
+    MAPREDUCE-954. Change Map-Reduce context objects to be interfaces. (acmurthy)
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@816816 13f79535-47bb-0310-9956-ffa450edef68
+
+5	6	src/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+5	7	src/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+96	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContext.java
+0	123	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+158	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContext.java
+0	187	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+
+commit 63dc1dc9b14801e28ac63b6ee3179be3eb61ff1d
+Author: Doug Cutting <cutting@apache.org>
+Date:   2009-09-18 22:22:37 +0000
+
+    MAPREDUCE-980.  Modify JobHistory to use Avro for serialization.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@816801 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	ivy.xml
+
+commit fea2b1975a5e4b1dbfba7017fcf9fc4ab6a49fc8
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2009-09-15 06:30:41 +0000
+
+    MAPREDUCE-112. Add counters for reduce input, output records to the new API.
+    Contributed by Jothi Padmanabhan
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@815162 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+
+commit e24cfece6e618ba8eb286f20ab32c392485dc3b7
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2009-08-26 09:42:00 +0000
+
+    MAPREDUCE-910. Support counters in MRUnit. Contributed by Aaron Kimball
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@807942 13f79535-47bb-0310-9956-ffa450edef68
+
+23	1	src/java/org/apache/hadoop/mrunit/MapDriver.java
+28	2	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+25	0	src/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+24	1	src/java/org/apache/hadoop/mrunit/ReduceDriver.java
+23	1	src/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+24	1	src/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+23	1	src/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+5	16	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+6	16	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+62	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReporter.java
+23	8	src/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+1	0	src/test/org/apache/hadoop/mrunit/AllTests.java
+116	0	src/test/org/apache/hadoop/mrunit/TestCounters.java
+1	0	src/test/org/apache/hadoop/mrunit/mapreduce/AllTests.java
+97	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestCounters.java
+2	2	src/test/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+
+commit be0f5a152d79ba29cff6529127fcad5875aab56f
+Author: Thomas White <tomwhite@apache.org>
+Date:   2009-08-24 12:01:28 +0000
+
+    MAPREDUCE-798. MRUnit should be able to test a succession of MapReduce passes. Contributed by Aaron Kimball.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@807165 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+315	0	src/java/org/apache/hadoop/mrunit/PipelineMapReduceDriver.java
+1	0	src/test/org/apache/hadoop/mrunit/AllTests.java
+129	0	src/test/org/apache/hadoop/mrunit/TestPipelineMapReduceDriver.java
+
+commit fe11a7acc0c93a6ad844bdaf47c9f85a20ec2706
+Author: Thomas White <tomwhite@apache.org>
+Date:   2009-08-21 14:51:39 +0000
+
+    MAPREDUCE-800. MRUnit should support the new API. Contributed by Aaron Kimball.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@806577 13f79535-47bb-0310-9956-ffa450edef68
+
+1	149	src/java/org/apache/hadoop/mrunit/MapDriver.java
+194	0	src/java/org/apache/hadoop/mrunit/MapDriverBase.java
+3	142	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+195	0	src/java/org/apache/hadoop/mrunit/MapReduceDriverBase.java
+2	156	src/java/org/apache/hadoop/mrunit/ReduceDriver.java
+195	0	src/java/org/apache/hadoop/mrunit/ReduceDriverBase.java
+1	1	src/java/org/apache/hadoop/mrunit/TestDriver.java
+189	0	src/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java
+208	0	src/java/org/apache/hadoop/mrunit/mapreduce/MapReduceDriver.java
+194	0	src/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java
+48	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockInputSplit.java
+134	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockMapContextWrapper.java
+51	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockOutputCommitter.java
+50	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockRawKeyValueIterator.java
+197	0	src/java/org/apache/hadoop/mrunit/mapreduce/mock/MockReduceContextWrapper.java
+1	0	src/test/org/apache/hadoop/mrunit/AllTests.java
+42	0	src/test/org/apache/hadoop/mrunit/mapreduce/AllTests.java
+186	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestMapDriver.java
+235	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestMapReduceDriver.java
+227	0	src/test/org/apache/hadoop/mrunit/mapreduce/TestReduceDriver.java
+
+commit 8115c4bbd71fe4912af17a8c5449feff1039361c
+Author: Hemanth Yamijala <yhemanth@apache.org>
+Date:   2009-08-17 05:07:29 +0000
+
+    MAPREDUCE-877. Added avro as a dependency to contrib ivy settings. Contributed by Tsz Wo (Nicholas) Sze.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@804865 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	ivy.xml
+
+commit cccf56973e7e309143e0e128cbfa642e29727f46
+Author: Johan Oskarsson <johan@apache.org>
+Date:   2009-08-11 16:30:14 +0000
+
+    MAPREDUCE-799. Fixes so all of the MRUnit self-tests run. Contributed by Aaron Kimball.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@803193 13f79535-47bb-0310-9956-ffa450edef68
+
+7	7	src/test/org/apache/hadoop/mrunit/TestMapDriver.java
+3	3	src/test/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+9	9	src/test/org/apache/hadoop/mrunit/TestReduceDriver.java
+
+commit d60363d1161aa8af55801721eac0106df9aa64da
+Author: Johan Oskarsson <johan@apache.org>
+Date:   2009-07-30 16:34:13 +0000
+
+    MAPREDUCE-797. Adds combiner support to MRUnit MapReduceDriver. (Aaron Kimball via johan)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@799356 13f79535-47bb-0310-9956-ffa450edef68
+
+73	14	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+41	0	src/test/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+
+commit 8b44c5df6b96ad757720ffa26f4da4c5daae97a7
+Author: Johan Oskarsson <johan@apache.org>
+Date:   2009-07-15 16:42:06 +0000
+
+    MAPREDUCE-680. Fix so MRUnit can handle reuse of Writable objects. (Aaron Kimball via johan)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@794324 13f79535-47bb-0310-9956-ffa450edef68
+
+66	12	src/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+2	0	src/test/org/apache/hadoop/mrunit/AllTests.java
+71	0	src/test/org/apache/hadoop/mrunit/mock/TestMockOutputCollector.java
+
+commit c83ddb40c8e9878fcd9c78b3a289f66d3d767662
+Author: Owen O'Malley <omalley@apache.org>
+Date:   2009-06-19 23:53:20 +0000
+
+    Moving HADOOP-4687 from branch to new trunk.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/mapreduce/trunk/src/contrib/mrunit@786727 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 40d3cb84940e9faf986b52dfd9d88ad89d9d8a4d
+Author: Christopher Douglas <cdouglas@apache.org>
+Date:   2009-06-19 05:42:53 +0000
+
+    HADOOP-4687. Merge mapred/contrib changes -r 776174:785643
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/HADOOP-4687/mapred/src/contrib/mrunit@786377 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 37a535c4cc5d95a62c85867bd8ce5b3345b11431
+Author: Owen O'Malley <omalley@apache.org>
+Date:   2009-05-19 04:30:38 +0000
+
+    HADOOP-4687 More moving around
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/HADOOP-4687/mapred/src/contrib/mrunit@776175 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 545e49497d4ceddd94769dbb53bb6197ec2a48b1
+Author: Owen O'Malley <omalley@apache.org>
+Date:   2009-05-19 04:10:52 +0000
+
+    HADOOP-4687. making branch for project split
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/HADOOP-4687/src/contrib/mrunit@776173 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 83b1cf6c0488fe533e2f6dc87dc44163c7a15683
+Author: Doug Cutting <cutting@apache.org>
+Date:   2009-04-06 21:23:26 +0000
+
+    HADOOP-5518.  Add contrib/mrunit, a MapReduce unit test framework.  Contributed by Aaron Kimball.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk/src/contrib/mrunit@762509 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	README.txt
+28	0	build.xml
+129	0	doc/overview.html
+56	0	ivy.xml
+17	0	ivy/libraries.properties
+328	0	src/java/org/apache/hadoop/mrunit/MapDriver.java
+345	0	src/java/org/apache/hadoop/mrunit/MapReduceDriver.java
+343	0	src/java/org/apache/hadoop/mrunit/ReduceDriver.java
+245	0	src/java/org/apache/hadoop/mrunit/TestDriver.java
+70	0	src/java/org/apache/hadoop/mrunit/mock/MockInputSplit.java
+66	0	src/java/org/apache/hadoop/mrunit/mock/MockOutputCollector.java
+81	0	src/java/org/apache/hadoop/mrunit/mock/MockReporter.java
+73	0	src/java/org/apache/hadoop/mrunit/testutil/ExtendedAssert.java
+127	0	src/java/org/apache/hadoop/mrunit/types/Pair.java
+48	0	src/test/org/apache/hadoop/mrunit/AllTests.java
+52	0	src/test/org/apache/hadoop/mrunit/TestExample.java
+186	0	src/test/org/apache/hadoop/mrunit/TestMapDriver.java
+237	0	src/test/org/apache/hadoop/mrunit/TestMapReduceDriver.java
+226	0	src/test/org/apache/hadoop/mrunit/TestReduceDriver.java
+204	0	src/test/org/apache/hadoop/mrunit/TestTestDriver.java
+46	0	src/test/org/apache/hadoop/mrunit/mock/TestMockReporter.java
+37	0	src/test/org/apache/hadoop/mrunit/types/AllTests.java
+208	0	src/test/org/apache/hadoop/mrunit/types/TestPair.java

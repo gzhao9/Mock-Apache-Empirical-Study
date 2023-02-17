@@ -1,0 +1,730 @@
+commit bef9a17cda546aa65e1a135e7a3d9fa0b2146158
+Author: Jan Matrne <jan@materne.de>
+Date:   2020-08-14 10:23:49 +0200
+
+    Fix Javadoc as it breaks the build
+
+1	1	src/main/org/apache/ant/props/LogicalOperationEvaluator.java
+
+commit d09d23bea23768202443fff854ba54fe2ac87aa2
+Merge: 7f8db09 ed44fdf
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:53:11 +0200
+
+    Merge branch 'master' of https://gitbox.apache.org/repos/asf/ant-antlibs-props
+
+commit 7f8db09607342abd4697cb186d584917d2c58c12
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:47:19 +0200
+
+    updated reference to license from http to https using find . -type f -exec sed -i s/http://www.apache.org/licenses/LICENSE-2.0/https://www.apache.org/licenses/LICENSE-2.0/ {} \;
+
+1	1	build.xml
+1	1	changes.xml
+1	1	contributors.xml
+1	1	docs/index.html
+1	1	docs/stringops.html
+1	1	docs/style.css
+1	1	prepare.xml
+1	1	src/main/org/apache/ant/props/ComponentTypeEvaluator.java
+1	1	src/main/org/apache/ant/props/ConditionTypeEvaluator.java
+1	1	src/main/org/apache/ant/props/ConditionsEvaluator.java
+1	1	src/main/org/apache/ant/props/DelegatingPropertyEvaluator.java
+1	1	src/main/org/apache/ant/props/EncodeURLEvaluator.java
+1	1	src/main/org/apache/ant/props/LogicalOperationEvaluator.java
+1	1	src/main/org/apache/ant/props/NestedPropertyExpander.java
+1	1	src/main/org/apache/ant/props/PrefixedEvaluator.java
+1	1	src/main/org/apache/ant/props/RegexBasedEvaluator.java
+1	1	src/main/org/apache/ant/props/StaticPrefixedEvaluator.java
+1	1	src/main/org/apache/ant/props/antlib.xml
+1	1	src/main/org/apache/ant/props/stringops/DefaultValue.java
+1	1	src/main/org/apache/ant/props/stringops/DeleteFromEndGreedy.java
+1	1	src/main/org/apache/ant/props/stringops/DeleteFromEndReluctant.java
+1	1	src/main/org/apache/ant/props/stringops/DeleteFromStartGreedy.java
+1	1	src/main/org/apache/ant/props/stringops/DeleteFromStartReluctant.java
+1	1	src/main/org/apache/ant/props/stringops/DeletePartOperation.java
+1	1	src/main/org/apache/ant/props/stringops/PatternOperation.java
+1	1	src/main/org/apache/ant/props/stringops/ReplaceOperation.java
+1	1	src/main/org/apache/ant/props/stringops/RequireProperty.java
+1	1	src/main/org/apache/ant/props/stringops/SetDefaultValue.java
+1	1	src/main/org/apache/ant/props/stringops/StringOperationsEvaluator.java
+1	1	src/main/org/apache/ant/props/stringops/Substring.java
+1	1	src/main/org/apache/ant/props/stringops/Translate.java
+1	1	src/tests/antunit/condition-type-test.xml
+1	1	src/tests/antunit/conditions-test.xml
+1	1	src/tests/antunit/encodeURL-test.xml
+1	1	src/tests/antunit/logical-ops-test.xml
+1	1	src/tests/antunit/nested-test.xml
+1	1	src/tests/antunit/stringops-test.xml
+1	1	src/tests/antunit/types-test.xml
+1	1	version.properties
+
+commit ed44fdfc0fe48f81ab6f70e197857e0052918aa5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2019-05-25 16:16:45 +0200
+
+    TLS
+
+1	1	NOTICE
+1	1	common
+3	3	docs/index.html
+1	1	prepare.xml
+5	5	src/tests/antunit/encodeURL-test.xml
+
+commit df20430a5528af8229b66b3e81af536fcbeda996
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-12-17 10:01:02 +0100
+
+    moved to gitbox, update submodule
+
+1	1	.gitmodules
+1	1	common
+
+commit 848896debf403adede6e185f4ce0a4ab9ffee73f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 13:17:41 +0200
+
+    DOAP file now lives in ant-site
+
+1	1	common
+0	45	doap_PropsAntlib.rdf
+
+commit f3d50ee1fe1c698ac07ce5a142a2281c50ab5183
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-01 19:57:13 +0200
+
+    update common submodule
+
+1	1	common
+
+commit 0d2009b5f4d52cecad25cfa3ca5ebcdfea4e78ba
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-26 08:00:54 +0200
+
+    committed a bad merge
+
+0	48	prepare.xml
+
+commit b1d008e4eed1e99aadd224d98bf53e07d02d378d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-26 07:52:25 +0200
+
+    add common submodule
+
+3	0	.gitmodules
+1	0	common
+21	1	prepare.xml
+
+commit 2857660e25d6ab7a7077ea353f59c1f59ed5c8bd
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 14:31:37 +0200
+
+    fix javadoc warnings
+
+1	1	src/main/org/apache/ant/props/EncodeURLEvaluator.java
+1	1	src/main/org/apache/ant/props/RegexBasedEvaluator.java
+
+commit d9e2cf79e3421e7e89ed115a8c806ced1164c8a7
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 09:50:55 +0200
+
+    update doap-file after git-migration
+
+4	4	doap_PropsAntlib.rdf
+
+commit ec4d78e5842047a4a290d01519af5cd21eef5b70
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 08:56:07 +0200
+
+    update
+
+1	1	prepare.xml
+
+commit 6a2a39fe99c9c9a4a8d6feceba3acb2fddc9e13f
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 08:33:31 +0200
+
+    update
+
+24	2	prepare.xml
+
+commit f293423b1f69f15fd9849879a79edd8614443e1c
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-03 15:46:24 +0200
+
+    update
+
+30	17	prepare.xml
+
+commit e6fbc896587e4ab7af1b7e9ae58214b0defe7526
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-03 14:43:21 +0200
+
+    update prepare.xml
+
+10	4	prepare.xml
+
+commit 72b12ffa056367a3ec7b9c705a4fed371eae0e66
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-02 10:29:30 +0200
+
+    reuse of .gitignore of ant-core
+
+23	0	.gitignore
+
+commit 8ee9d459d1951c7fe726e0f7bc8612cb353e0cc6
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-02 10:01:45 +0200
+
+    Workaround for missing svn:external. Try to build on Jenkins@a.o.
+
+52	0	prepare.xml
+
+commit 15c1d82cdedd95398964abe36ed29bea7d3dd3bc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-05 19:11:18 +0000
+
+    fix NOTICE
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@1548247 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	NOTICE
+
+commit 12d06263116592765aa3f5459d87b14657c1ccd4
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2013-10-31 19:19:22 +0000
+
+    update copyright year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@1537591 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit 53f85165b5af596d3583e444694fc4b9782b0978
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2012-01-18 20:58:20 +0000
+
+    correct example
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@1233064 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/stringops.html
+
+commit cdbd3e1207258387d80a217fe9413f2855d89bf8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-11-16 16:11:28 +0000
+
+    Initial DOAP descriptors for all 'proper' Antlibs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@1035673 13f79535-47bb-0310-9956-ffa450edef68
+
+45	0	doap_PropsAntlib.rdf
+
+commit 75158aa92223c2cbcd76a670dd5030b8fac165f6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-04-12 10:25:46 +0000
+
+    remove costly indexOf - see revision 932588 of core's PropertyHelper
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@933177 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/org/apache/ant/props/NestedPropertyExpander.java
+
+commit 7c05d40023ecbbcf16671a94290b8a0719a6e53c
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-27 00:05:34 +0000
+
+    moving ConditionEvaluator to ConditionTypeEvaluator; creating ConditionsEvaluator to merge (by delegation) the functionality of the ConditionTypeEvaluator and the LogicalOperationEvaluator
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916874 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	docs/index.html
+3	3	src/main/org/apache/ant/props/{ConditionEvaluator.java => ConditionTypeEvaluator.java}
+38	0	src/main/org/apache/ant/props/ConditionsEvaluator.java
+1	1	src/main/org/apache/ant/props/antlib.xml
+111	109	src/tests/antunit/{condition-test.xml => condition-type-test.xml}
+113	0	src/tests/antunit/conditions-test.xml
+
+commit dc9ba858a634ee196288c2c12746815663d0fa6c
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 23:24:19 +0000
+
+    add LogicalOperationEvaluator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916861 13f79535-47bb-0310-9956-ffa450edef68
+
+86	0	src/main/org/apache/ant/props/LogicalOperationEvaluator.java
+216	0	src/tests/antunit/logical-ops-test.xml
+
+commit 4a5fa500f393021deb52aabba282909233ce0361
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 23:23:54 +0000
+
+    extract DelegatingPropertyEvaluator from StringOperationsEvaluator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916860 13f79535-47bb-0310-9956-ffa450edef68
+
+109	0	src/main/org/apache/ant/props/DelegatingPropertyEvaluator.java
+12	49	src/main/org/apache/ant/props/stringops/StringOperationsEvaluator.java
+
+commit d530e0cbd62b6c92115afc6b520a05f93a107282
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 23:23:27 +0000
+
+    add == check to equals()
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916859 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/props/NestedPropertyExpander.java
+
+commit d0365f70fc64158dcc300d0c67af38c01c5f7d73
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 22:35:21 +0000
+
+    make options modifiable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916848 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/main/org/apache/ant/props/RegexBasedEvaluator.java
+
+commit 82adbacb673356beba32839a6caf0b6e48c364a4
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 20:49:15 +0000
+
+    javadoc; fmt; equals; hashCode
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916813 13f79535-47bb-0310-9956-ffa450edef68
+
+26	6	src/main/org/apache/ant/props/NestedPropertyExpander.java
+
+commit 7ed45be79e58fea141a579f62e2cdba94f43581d
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 19:52:13 +0000
+
+    document \!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916797 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/props/ConditionEvaluator.java
+
+commit b7070fc50fbfcca6c4353258c37f81bead6cca94
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 19:48:10 +0000
+
+    remove unnecessary nc group
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916796 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	src/main/org/apache/ant/props/ConditionEvaluator.java
+
+commit cf0e8c5ec50eea65e5e24921b0d768e6a52bc7b0
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 19:40:36 +0000
+
+    extract repeating part from regex
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916795 13f79535-47bb-0310-9956-ffa450edef68
+
+18	15	src/main/org/apache/ant/props/ConditionEvaluator.java
+
+commit 5cbd8cc7c6e9e3743c052432a55e307fdfc5758e
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-26 17:29:20 +0000
+
+    document regex
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916767 13f79535-47bb-0310-9956-ffa450edef68
+
+23	1	src/main/org/apache/ant/props/ConditionEvaluator.java
+
+commit 3d715541c29fd1c9432165dff6be1a7d078f37ab
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 23:24:00 +0000
+
+    add condition negation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916485 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	docs/index.html
+9	5	src/main/org/apache/ant/props/ConditionEvaluator.java
+7	0	src/tests/antunit/condition-test.xml
+
+commit 583337aa686d0f184bf0fdff0de74ccd3d600ab2
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 21:19:24 +0000
+
+    test istrue too
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916465 13f79535-47bb-0310-9956-ffa450edef68
+
+12	0	src/tests/antunit/condition-test.xml
+
+commit 0e47eceb40879e684a1b130b6c0daf6eae091a30
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 20:12:46 +0000
+
+    make condition evaluator work for restricted types, which most conditions are
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916435 13f79535-47bb-0310-9956-ffa450edef68
+
+47	8	src/main/org/apache/ant/props/ConditionEvaluator.java
+
+commit b09dac22ef76e69fd118f82ca3941c6680dbc292
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 20:11:37 +0000
+
+    reworking condition test to show that it doesn't work for restricted types e.g. equals
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916434 13f79535-47bb-0310-9956-ffa450edef68
+
+50	24	src/tests/antunit/condition-test.xml
+
+commit 55c8af8e0523eb350e8ac6ab1b26b4f31bb63200
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 18:33:06 +0000
+
+    conditions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916389 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+
+commit 0b958ca8288e2592790732ee165f4e3815834a77
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-25 03:47:06 +0000
+
+    reference resolving evaluator baked into core
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@916109 13f79535-47bb-0310-9956-ffa450edef68
+
+0	7	docs/index.html
+0	47	src/main/org/apache/ant/props/ReferenceResolvingEvaluator.java
+0	1	src/main/org/apache/ant/props/antlib.xml
+0	49	src/tests/antunit/refs-test.xml
+
+commit d2b10d217ade6f45c5e4e8b6df1bf87cd9b28cc4
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-02-16 22:02:11 +0000
+
+    clarify :? syntax
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@910723 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/stringops.html
+
+commit 3802f5ed2d4d8be24a2ba40192fdeb439fe0469e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-10 14:20:39 +0000
+
+    minimal docs, a bit more tests, tiny optimization and better whitespace handling for the conditions evaluator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@908513 13f79535-47bb-0310-9956-ffa450edef68
+
+12	0	docs/index.html
+8	3	src/main/org/apache/ant/props/ConditionEvaluator.java
+36	5	src/tests/antunit/condition-test.xml
+
+commit 5a10f6cc824b4c914efedce6c734c61a0d3f274e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-10 14:15:01 +0000
+
+    Ant 1.8.0 is released, the props Antlib no longer in the sandbox
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@908509 13f79535-47bb-0310-9956-ffa450edef68
+
+4	6	docs/index.html
+
+commit 5da8e21a7c7884524186dec154fb991f68e8c533
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-09 16:50:45 +0000
+
+    evaluator that evaluates ant conditions.  can certainly be improved, better tested and documented in the first place, but I wanted to commit the work in progress before I forget about it
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@908112 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	contributors.xml
+1	1	src/main/org/apache/ant/props/ComponentTypeEvaluator.java
+57	0	src/main/org/apache/ant/props/ConditionEvaluator.java
+1	0	src/main/org/apache/ant/props/antlib.xml
+33	0	src/tests/antunit/condition-test.xml
+
+commit 10b27029359581b172186cd93c3635da5ddaa0af
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-09 16:10:58 +0000
+
+    copyright year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@908095 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit b90d77b8adaf3c09a7530c98d37ff272c4ae9b86
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-09 15:54:42 +0000
+
+    standard antlib files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@908085 13f79535-47bb-0310-9956-ffa450edef68
+
+42	0	changes.xml
+37	0	contributors.xml
+15	0	version.properties
+
+commit fa9e34ba7e98f775336f3b70c4c44bc7584ed5a0
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-01-14 23:26:47 +0000
+
+    add EncodeURLEvaluator
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@899468 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	docs/index.html
+60	0	src/main/org/apache/ant/props/EncodeURLEvaluator.java
+1	0	src/main/org/apache/ant/props/antlib.xml
+52	0	src/tests/antunit/encodeURL-test.xml
+
+commit 34336e02458f49ef9a7d1533adc81f0e6415ac46
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-01-14 23:25:22 +0000
+
+    java 1.4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@899467 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	build.xml
+
+commit e0352fa6052eba1aa323b9c6f3308dae4e9a0e85
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2010-01-14 22:54:10 +0000
+
+    doc work
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@899453 13f79535-47bb-0310-9956-ffa450edef68
+
+12	7	docs/index.html
+
+commit 237e595388eb2ae96f5301a3c46a49cabd3ae00e
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-10-06 15:42:51 +0000
+
+    promote props antlib
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/props/trunk@822320 13f79535-47bb-0310-9956-ffa450edef68
+
+commit c39dc9c7547e99d879b8184f70f308e4e0e1943b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-03-20 20:29:14 +0000
+
+    remove redundant boilerplate code from NOTICE files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@756748 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	NOTICE
+
+commit 714e52908650e3b03228f6af530a539a27d109dc
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2008-10-10 17:12:35 +0000
+
+    nested double dollar bug
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@703525 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/org/apache/ant/props/NestedPropertyExpander.java
+10	0	src/tests/antunit/nested-test.xml
+
+commit 380b578aaa0ea6db0e0fd587e960bf28a6064d6f
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2008-04-16 15:06:14 +0000
+
+    remove stray BZ reference
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@648712 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+
+commit 84b985dd19fa4e4846f728450cb6acc017469524
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-03-26 19:41:23 +0000
+
+    Add license
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@641510 13f79535-47bb-0310-9956-ffa450edef68
+
+19	0	src/main/org/apache/ant/props/StaticPrefixedEvaluator.java
+17	0	src/tests/antunit/nested-test.xml
+17	0	src/tests/antunit/refs-test.xml
+17	0	src/tests/antunit/stringops-test.xml
+17	0	src/tests/antunit/types-test.xml
+
+commit f78c3bbb7626b589d3af373f723517460cb1358e
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2008-01-29 15:25:40 +0000
+
+    doc update
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@616383 13f79535-47bb-0310-9956-ffa450edef68
+
+2	4	docs/index.html
+1	1	docs/stringops.html
+
+commit 1354e4eadfb4f76b0092234bb16812e3460df85e
+Author: Peter Reilly <peterreilly@apache.org>
+Date:   2007-09-24 11:57:25 +0000
+
+    use the new PropertyExpander api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@578770 13f79535-47bb-0310-9956-ffa450edef68
+
+27	26	src/main/org/apache/ant/props/NestedPropertyExpander.java
+
+commit 3477c1abb2c4935c47e035c860b4c6f08913bb55
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-07-25 22:50:12 +0000
+
+    modifying delimiter was broken
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@559641 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/props/PrefixedEvaluator.java
+16	2	src/tests/antunit/refs-test.xml
+
+commit 1ce1cbaf377338f43ce842cc674f99ef8e2b83f4
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-29 18:48:52 +0000
+
+    document change of type eval syntax to type(arg) rather than type:arg to accommodate ns'd types
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@551996 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+2	2	src/main/org/apache/ant/props/ComponentTypeEvaluator.java
+
+commit 2eda80443776c5de2d1ec7f7a0dfae08a46412cd
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-29 18:16:45 +0000
+
+    tweakage
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@551987 13f79535-47bb-0310-9956-ffa450edef68
+
+30	45	src/main/org/apache/ant/props/ComponentTypeEvaluator.java
+97	0	src/main/org/apache/ant/props/PrefixedEvaluator.java
+16	11	src/main/org/apache/ant/props/ReferenceResolvingEvaluator.java
+110	0	src/main/org/apache/ant/props/RegexBasedEvaluator.java
+69	0	src/main/org/apache/ant/props/StaticPrefixedEvaluator.java
+4	3	src/main/org/apache/ant/props/stringops/DefaultValue.java
+1	1	src/main/org/apache/ant/props/stringops/DeletePartOperation.java
+2	1	src/main/org/apache/ant/props/stringops/PatternOperation.java
+2	2	src/main/org/apache/ant/props/stringops/ReplaceOperation.java
+4	3	src/main/org/apache/ant/props/stringops/RequireProperty.java
+8	12	src/main/org/apache/ant/props/stringops/SetDefaultValue.java
+0	69	src/main/org/apache/ant/props/stringops/StringOperation.java
+3	3	src/main/org/apache/ant/props/stringops/StringOperationsEvaluator.java
+3	2	src/main/org/apache/ant/props/stringops/Substring.java
+3	2	src/main/org/apache/ant/props/stringops/Translate.java
+1	1	src/tests/antunit/types-test.xml
+
+commit 80326fa91310f8671079ce94457feff603eeb1cf
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-28 14:35:43 +0000
+
+    tablize
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@551578 13f79535-47bb-0310-9956-ffa450edef68
+
+31	15	docs/index.html
+
+commit f25cf1b5a0e9370b79b7286e5dfe0c30879c71df
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-26 15:36:09 +0000
+
+    ext common
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550831 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 4d162fbbf73aa2ed75a905c565f4a9ccd88256bb
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-26 14:01:35 +0000
+
+    nitpicking
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550809 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/index.html
+
+commit e57aa264c9f8761b7074946819bf6be8052c35d1
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-26 03:58:08 +0000
+
+    refine stringops doc
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550674 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	docs/stringops.html
+
+commit 15ef76ab38a4c9f524419bab7f4fca27291e7892
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-26 03:55:35 +0000
+
+    refine docs again
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550671 13f79535-47bb-0310-9956-ffa450edef68
+
+20	27	docs/index.html
+
+commit 616c376fd202c58cd1ce57d97ed04a56e1adc642
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-25 20:23:46 +0000
+
+    fix docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550595 13f79535-47bb-0310-9956-ffa450edef68
+
+3	5	docs/index.html
+
+commit f42d539d69d7e92846aa70af84f2cf4c7fd4117b
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-25 20:03:02 +0000
+
+    put stuff in trunk
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550593 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	NOTICE
+29	0	build.xml
+125	0	docs/index.html
+106	0	docs/stringops.html
+54	0	docs/style.css
+86	0	src/main/org/apache/ant/props/ComponentTypeEvaluator.java
+61	0	src/main/org/apache/ant/props/NestedPropertyExpander.java
+42	0	src/main/org/apache/ant/props/ReferenceResolvingEvaluator.java
+25	0	src/main/org/apache/ant/props/antlib.xml
+41	0	src/main/org/apache/ant/props/stringops/DefaultValue.java
+47	0	src/main/org/apache/ant/props/stringops/DeleteFromEndGreedy.java
+47	0	src/main/org/apache/ant/props/stringops/DeleteFromEndReluctant.java
+47	0	src/main/org/apache/ant/props/stringops/DeleteFromStartGreedy.java
+47	0	src/main/org/apache/ant/props/stringops/DeleteFromStartReluctant.java
+64	0	src/main/org/apache/ant/props/stringops/DeletePartOperation.java
+190	0	src/main/org/apache/ant/props/stringops/PatternOperation.java
+60	0	src/main/org/apache/ant/props/stringops/ReplaceOperation.java
+47	0	src/main/org/apache/ant/props/stringops/RequireProperty.java
+50	0	src/main/org/apache/ant/props/stringops/SetDefaultValue.java
+69	0	src/main/org/apache/ant/props/stringops/StringOperation.java
+81	0	src/main/org/apache/ant/props/stringops/StringOperationsEvaluator.java
+46	0	src/main/org/apache/ant/props/stringops/Substring.java
+40	0	src/main/org/apache/ant/props/stringops/Translate.java
+67	0	src/tests/antunit/nested-test.xml
+18	0	src/tests/antunit/refs-test.xml
+161	0	src/tests/antunit/stringops-test.xml
+19	0	src/tests/antunit/types-test.xml
+
+commit 97baf97c9a8695a0791f632682ca9f80e67f1ef2
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2007-06-25 20:00:43 +0000
+
+    attempt to get a correct structure in place
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/props/trunk@550592 13f79535-47bb-0310-9956-ffa450edef68

@@ -1,0 +1,107 @@
+commit_id,Author,Author_adress,Date
+d40b55cb7af21d170ff10eff026351d8b034b917,Julian Hyde,jhyde@apache.org,Jun-22-2022
+515f3356a6a1ab4bd570c1c20bec9a7e5d4aca5f,Julian Hyde,jhyde@apache.org,Jul-8-2022
+85a6ecdd1d759e2f53e574b1a1b194d5af16aa75,Julian Hyde,jhyde@apache.org,Jul-9-2022
+724eb032d0141c15d17422d50c5235be00ac989f,Benchao Li,libenchao@gmail.com,Jul-5-2022
+03605787517da4a2bb760462126e13a3a10c2c1a,xiejiajun,jiajunbernoulli@foxmail.com,Jun-25-2022
+44082a08a11a7a62a73fda7bf4e5f423130aabc5,hannerwang,hannerwang@tencent.com,Jun-24-2022
+300f5200fe50870da418366613df1cd09921b1b6,chunwei.lcw,chunwei.leii@gmail.com,Jun-22-2022
+94dc303ed0a5ccd4e4f972abf7a41f155cbe5546,Sergey Nuyanzin,snuyanzin@gmail.com,Jun-23-2022
+b2fb2334260fc8c8bd6ab147da24b10f6c772ea8,xiejiajun,jiajunbernoulli@foxmail.com,Feb-19-2022
+4a01c99e9d1fdf8742e909159a2a0292d8519e7e,rubenada,rubenql@gmail.com,Jun-13-2022
+9a102e77dd2f7b566b0a4a8cb0d504c6c572e1e1,xiejiajun,jiajunbernoulli@foxmail.com,Nov-20-2021
+c8875048e57ee1c2f16dec458f6f4f9daa5e0d9f,Viliam Durina,viliam@hazelcast.com,May-17-2022
+0ae65494d3b20964a779bcb2b2600fda332b1162,Daniel Henneberger,git@danielhenneberger.com,Jun-14-2022
+2584f03d195b5a117c832f56a827a4848bdd45f5,henneberger,me@danielhenneberger.com,Jun-14-2022
+1226d1a339c9b42871d2dfc97183bbab91faf95a,wenrui,wenrui@singleorigin.tech,Jun-14-2022
+de41df4d117041fbee042e07f70e6043f1fe626d,Benchao Li,libenchao@gmail.com,May-5-2022
+e64a21ee27600537e0498cd1f72475ad1a1a0d2b,Benchao Li,libenchao@gmail.com,May-29-2022
+d1cf4a38b71b514b1d208b5ffa3220b92693464f,Volodymyr Vysotskyi,vvovyk@gmail.com,Dec-27-2020
+b0b3e3e645b57ab22d7f9a31a00a3210be6e87a5,rubenada,rubenql@gmail.com,Jun-7-2022
+75d064f659a038371d84f9fdba7847e1631d1f1d,xiejiajun,jiajunbernoulli@foxmail.com,May-12-2022
+e84a476d5dcbccab41e733fb3a61efaae5ab2c35,xiejiajun,jiajunbernoulli@foxmail.com,Jun-4-2022
+c4cc0bf80be8a285a0f0ccc363f71a3bafba87b0,chunwei.lcw,chunwei.leii@gmail.com,May-23-2022
+a9aea934dc29395ca8ee81df5dcf0d50ac823023,Francesco Gini,francesco.gini@gmail.com,Nov-28-2021
+4659479a508461921c5b1e3e7c4d09cb745de33e,wenrui,wenrui@singleorigin.tech,May-30-2022
+9d6838a3c636cb58366c45c8363dc7f6388bf589,hannerwang,hannerwang@tencent.com,Apr-7-2022
+f7aa27ec22e843c5e27022f99237175d159699bb,korlov42,korlov@gridgain.com,Jun-3-2022
+4a4114419b0341fa4887b4838195ef7855c00e22,dssysolyatin,dm.sysolyatin@gmail.com,May-12-2022
+63a15128a332af7a641b26a3224392960882170a,Julian Hyde,jhyde@apache.org,May-15-2022
+231008a16d8a3f13d0ef3601dd5a809f62a3803b,Julian Hyde,jhyde@apache.org,May-29-2022
+0f666b3d2bbffdc1824c18eb4ec49891684025c2,Julian Hyde,jhyde@apache.org,May-12-2022
+a5af80642787e3f1d24671d3a6339568d0c6b201,rkondakov,kondakov87@mail.ru,May-29-2022
+f278efb0411ba29c7bd167f5d02e566bf542acb3,chunwei.lcw,chunwei.leii@gmail.com,May-20-2022
+b0cb7c06b1e8304c7dde8de0c7f4702630bbee28,Francis Chuang,francischuang@apache.org,May-28-2022
+4969b9690efe999c522daf1151c4a00a33be0eb0,Benchao Li,libenchao@gmail.com,Apr-1-2022
+52c9b7836bbed90038f28a933c0cb56d2d69cd28,xurenhe,xurenhe19910131@gmail.com,May-20-2022
+9bdfd9a178f493b235d8785afd94fd0c998e8cce,rkondakov,kondakov87@mail.ru,May-22-2022
+2d92e2a895caba77d1451b723f9c8be8a710a9b2,Benchao Li,libenchao@gmail.com,Apr-27-2022
+3feb0adda9fc989ef1b157521ee4e4a9a698caec,zhangyue,zhangyue01@sogou-inc.com,May-22-2022
+acf82f7784823c30fb7a64e905c3acacd0ed4f2b,chunwei.lcw,chunwei.leii@gmail.com,May-9-2022
+7c1e2746b94a50f0bb08571287acb5327fdc1b16,hannerwang,hannerwang@tencent.com,Apr-13-2022
+dc2e1af5c168f01a045edc3fb3f1970418b2a03a,rubenada,rubenql@gmail.com,May-13-2022
+c5d45cb094407658f5f933240bc4492b6239e45e,chunwei.lcw,chunwei.leii@gmail.com,May-12-2022
+664e24921c521b9b8df03e4744d878a69dfeb10e,dssysolyatin,dm.sysolyatin@gmail.com,May-7-2022
+4ce91575dbe553c9dd09396f9c76b9fda8bba1bb,Benchao Li,libenchao@gmail.com,May-8-2022
+1bce280a2957326dc5c249cfd079edfd2c54adf4,Benchao Li,libenchao@gmail.com,Apr-24-2022
+86b34f7ba81cc85aec4589f8fa4dcbf503ad8677,NobiGo,nobigogle@gmail.com,May-8-2022
+bb17ab4a56f5862c1da355f6e2bcf6031a05eca0,Benchao Li,libenchao@gmail.com,May-11-2022
+b7dbee54df60720ece301ba39cd928844e1a42ee,dssysolyatin,dm.sysolyatin@gmail.com,Apr-29-2022
+f58a6aa8d04accbca3d1237eddfd82dbd3553cf8,chunwei.lcw,chunwei.leii@gmail.com,May-7-2022
+9fadc8f35e76aec54e797bf4d1e83ec0479a047d,NobiGo,nobigogle@gmail.com,May-8-2022
+ff783a8cca8caecd40b765daa1d6c4f640831c84,Benchao Li,libenchao@gmail.com,Apr-18-2022
+2e446f2a8a63aeff2513dcb1528664a4335956f2,Benchao Li,libenchao@gmail.com,Apr-25-2022
+737df397c22e31cc5a47ef56d6468865755743e6,chunwei.lcw,chunwei.lcw@alibaba-inc.com,Apr-29-2022
+2789f5e4c361b052967f42b87447f04cc1ce7896,rubenada,rubenql@gmail.com,Apr-29-2022
+3db4dd1ebf04abaf74d29464ae311a598ae929f7,nobigo,nobigogle@gmail.com,Apr-27-2022
+4ee98e0c0625e5adc7b2eed3e60702ee744c435d,Benchao Li,libenchao@gmail.com,Apr-17-2022
+da99a0b4aee390d653793970468f0369cfdc2624,Benchao Li,libenchao@gmail.com,Apr-25-2022
+5813035c8d8ef7b73dcdd2ef87230a58894dbd3c,Francis Chuang,francischuang@apache.org,Apr-27-2022
+c7075f22b684758cf8de99db4069a3dcd08bd939,Julian Hyde,jhyde@apache.org,Apr-26-2022
+2f241f045cdee69dc4fbd0a6ed825e4a37908b18,Julian Hyde,jhyde@apache.org,Apr-25-2022
+b9c2099ea92a575084b55a206efc5dd341c0df62,Michael Mior,mmior@cs.rit.edu,Apr-26-2022
+2900f7432463926b32486634799d2e184fde78d2,Michael Mior,mmior@cs.rit.edu,Feb-17-2021
+c98171da5790d3d5ee7d2eb48a21d0080d0d68f3,godfreyhe,godfreyhe@163.com,Apr-21-2022
+bfabec671a202f350f0982a50f28819688d88dac,Innovimax,innovimax@gmail.com,Feb-20-2022
+169711bb85a8b40c1e5339f492d9d98ea22ff5ef,xiejiajun,jiajunbernoulli@foxmail.com,Apr-20-2022
+0ec16e07fca341e5fefa5c6898fae68569c1271f,raghavsharma,raghavs@sigmoidanalytics.com,Feb-11-2022
+bc23290fe67725282b8e2294723c8a9368f05486,Francis Chuang,francischuang@apache.org,Apr-22-2022
+c36f56264fcb6fe08ce342c5e73cce3013003c40,Francis Chuang,francischuang@apache.org,Apr-21-2022
+b5c6c045bad86e717b3d821c710e27f60672e59c,Francis Chuang,francischuang@apache.org,Apr-21-2022
+857d8eb34e37a2c4512c5bf345048d39e0ce945a,Francis Chuang,francischuang@apache.org,Apr-21-2022
+e49f63c8d838a2306f53bbbd14bf4c79f37c6e7d,Francis Chuang,francischuang@apache.org,Apr-21-2022
+ff085891a215301572e8a85589119ba9e493dbe4,Francis Chuang,francischuang@apache.org,Apr-21-2022
+5eb97411ecb5df1c0fdfa5d3568d93468bff0fa1,xiejiajun,jiajunbernoulli@foxmail.com,Apr-5-2022
+c8d1cb5a1e1b1dd98966c29308bc6b1aed245501,xurenhe,xurenhe19910131@gmail.com,Feb-9-2022
+fe9766aaa5739f59f757206c57c1b9cc071cd6f6,Benchao Li,libenchao@gmail.com,Mar-27-2022
+4cc2d80b1fa96b18285cfc494869568e7576e54c,James Turton,james@somecomputer.xyz,Mar-20-2022
+10a3b1a3f5399851bc31ff665a999411edffbcc8,onTheQT,abhishekdasgupta005@gmail.com,Mar-29-2022
+d81c0e057b46969f0887c272b01ece60f23936a1,Vladimir Ozerov,vozerov@querifylabs.com,Apr-4-2022
+bb90457051f85930004e1f4bc23148efc672ef1c,NobiGo,nobigogle@gmail.com,Apr-7-2022
+e08ca8c5df5dee154ae1a1e6adfa2f9ce693ccf7,Julian Hyde,jhyde@apache.org,Apr-8-2022
+3e877d11ae4bf3ff6dbfc990b6a13914e7c30944,Julian Hyde,jhyde@apache.org,Apr-10-2022
+ef2cc1df21a73ad0268ccb869c976b11eff319b4,maksim,mgramin@querifylabs.com,Dec-14-2021
+32babcb90aa5940bdd75760021abab6459a9cca4,Ada Wang,wang4luning@gmail.com,Apr-1-2022
+fc2fd2dd7efe237905f53ed754a2af2dd0a669ff,NobiGo,nobigogle@gmail.com,Feb-25-2022
+a81cfb2ad001589929e190939cf4db928ebac386,xurenhe,xurenhe19910131@gmail.com,Mar-10-2022
+a891416c3bd17dd952ad20a5bac39a110c24dba9,liyafan82,fan_li_ya@foxmail.com,Mar-25-2022
+850357de1b27e0f5d5e07a47ae4044fa415ee67f,Francis Chuang,francischuang@apache.org,Apr-1-2022
+f731ca6d9fa8032997a33c4da4cc27da540db262,rubenada,rubenql@gmail.com,Mar-31-2022
+88cc385f98c551c1aca7ffab101934f1c34fdffd,Francis Chuang,francischuang@apache.org,Mar-31-2022
+f43a43141d4cd1e4d4b14799e7ec820d27298512,Francis Chuang,francischuang@apache.org,Mar-31-2022
+970ba276e78f15e65382b6d881519a65d1a60d45,Francis Chuang,francischuang@apache.org,Mar-30-2022
+14b1805475d72910e355b3d5b6e6e5874d0bb4d3,Francis Chuang,francischuang@apache.org,Mar-30-2022
+d85b2a602a547290bd5be0bba68092b702400731,Volodymyr Vysotskyi,vvovyk@gmail.com,Mar-24-2022
+8844146182c4220c0747e46dcfb745288df7e39c,Benchao Li,libenchao.bruce@bytedance.com,Mar-26-2022
+a6a1e2cef332893fd90286098869c56529e052c3,xurenhe,xurenhe19910131@gmail.com,Mar-15-2022
+1ce516dcb660caa40ac806617f37cae9532bd0aa,Jing Zhang,beyond1920@gmail.com,Mar-17-2022
+92843e8d63455cfb3cd8cc2b83951525e6e93143,Julian Hyde,jhyde@apache.org,Mar-10-2022
+cd5229b9a371e20de207231d55bcbddf1ff39ec2,liyafan82,fan_li_ya@foxmail.com,Mar-16-2022
+692b8f0886a25538e010d1a8ae5efe89f80d89e9,Julian Hyde,jhyde@apache.org,Mar-14-2022
+dcbc493bf699d961427952c5efc047b76d859096,IceMimosa,chk19940609@gmail.com,Feb-23-2022
+6a3eea213732028e424f01b01f6f93d064348d41,NobiGo,nobigogle@gmail.com,Mar-3-2022
+6febf781b98ede6e2c2242f8fd1edf38e2635cee,Stamatis Zampetakis,zabetak@gmail.com,Mar-3-2022
+0e2dada65ceee964972afdfc10d29bb15ad6705c,Stamatis Zampetakis,zabetak@gmail.com,Feb-1-2022
+5a6d2874d2ea42fe6ef543bc1fd8ad6ba8b5fc36,NobiGo,nobigogle@gmail.com,Feb-21-2022
+20ca53c962b1642ac4cda32ffdf1294042e951a8,Scott Reynolds,sreynolds@twilio.com,Feb-26-2022
+cbbe5701b7f61d7f8df12d314ba5aabf898c1cae,Roman Puchkovskiy,roman.puchkovskiy@gmail.com,Feb-10-2022

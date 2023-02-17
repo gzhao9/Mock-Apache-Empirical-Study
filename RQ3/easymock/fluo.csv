@@ -1,0 +1,9 @@
+file_path,method
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,createMock
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,anyTimes
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,andReturn
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,expect
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,anyTimes
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,andReturn
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,expect
+/accumulo/src/test/java/org/apache/fluo/accumulo/iterators/TestIteratorEnv.java,replay

@@ -1,0 +1,8 @@
+file_path,method
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/impl/DefaultFileSystemManagerTest.java,spy
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/impl/DefaultFileSystemManagerTest.java,verify
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/impl/DefaultFileSystemManagerTest.java,never
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/impl/DefaultFileSystemManagerTest.java,verify
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/ftp/FtpMdtmOnRefreshLastModifiedTests.java,thenReturn
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/ftp/FtpMdtmOnRefreshLastModifiedTests.java,when
+/commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/ftp/FtpMdtmOnRefreshLastModifiedTests.java,spy

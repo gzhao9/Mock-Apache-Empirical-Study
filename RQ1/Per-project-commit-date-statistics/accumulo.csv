@@ -1,0 +1,873 @@
+commit_id,Author,Author_adress,Date
+36dd78ce6bbc2aae8db72014b8703f94b9b92ded,Keith Turner,kturner@apache.org,Jul-11-2022
+2136890cd4213e98a8f727a3abec21bb46f91e69,EdColeman,dev1@etcoleman.com,Jul-11-2022
+4e56361501bf0e14016a76ca9e12e880f80b5091,Dave Marion,dlmarion@apache.org,Jul-8-2022
+f3fb5642bdd4b7bca0dd80cf201a628c8573de12,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-7-2022
+2e74f4d05031e6aa224292dfea89fa553be0cf3d,Dom G,dominic.garguilo@gmail.com,Jul-6-2022
+70a27ecefe2fc28c54f8731a55dd654e38fdb7f4,Dom G,dominic.garguilo@gmail.com,Jul-6-2022
+b31f065d2371f0bbe9dca4fc2f322e7baae9b8ac,Dave Marion,dlmarion@apache.org,Jun-30-2022
+8a517b0d8c8bf669908afe6dc3713c5dc258e7f9,Nicholas Coltharp,coltharp@pdx.edu,Jun-29-2022
+b999c6f0aaba8bf5f3e6342cdbc5c7f26cbe76a2,Keith Turner,kturner@apache.org,Jun-29-2022
+4327bee71f63bd7380d6ec2f209414adfe9335e2,EdColeman,dev1@etcoleman.com,Jun-28-2022
+44cefe8d50d8497ec2b9bed61c543e7a9d6a64b8,Dom G,dominic.garguilo@gmail.com,Jun-27-2022
+7d0930f22fe3c3c94c4c758feb5d49a0deb423c1,Dom G,dominic.garguilo@gmail.com,Jun-27-2022
+afe78566f85f9e9fd5b43165305bc70cd3a9c878,Mike Miller,mmiller@apache.org,Jun-23-2022
+ad686b92cef018a7339b32d752ce5db68a4c9bf7,Dave Marion,dlmarion@apache.org,Jun-22-2022
+9cfd339ba1e7b0eb5059cb7d4d0a1ad4f73c2f74,EdColeman,dev1@etcoleman.com,Jun-17-2022
+607003f3f1c44c81bf98a83615349fb2130c4327,Mike Miller,mmiller@apache.org,Jun-16-2022
+418eee8fa0abed50f30cb6c97184964f924d2c67,Mike Miller,mmiller@apache.org,Jun-15-2022
+0bc41827a59fcff585fa8b349f2dde2746749c5c,EdColeman,dev1@etcoleman.com,Jun-15-2022
+cf57e343de77f416de10c22e0ed05ef37f433b36,Christopher Tubbs,ctubbsii@apache.org,Jun-14-2022
+6f5c2f07a44bbbda1c33fb094654fc5644dab461,Mark Owens,jmark99@apache.org,Jun-13-2022
+b77287acf33f2cce28e6639c014f0e677ea29e5f,Dave Marion,dlmarion@apache.org,Jun-13-2022
+d5f81877fcc794c8158f38b840d02331e3c563dc,Mike Miller,mmiller@apache.org,Jun-10-2022
+0031befaa9253b31351d3d626fd96a51e1630b7b,Mike Miller,mmiller@apache.org,Jun-10-2022
+37e1c6f275cca0b118ed6ab631345c0699515552,Mike Miller,mmiller@apache.org,Jun-8-2022
+354190f080035457b7ea74729795babfcecbd7f7,Christopher Tubbs,ctubbsii@apache.org,Jun-8-2022
+c1fa24df9963cd877be23852ded637705b3bf7d6,Christopher Tubbs,ctubbsii@apache.org,Jun-8-2022
+61b107d876e2427b5fd7c1536036e1a050732ac5,Mike Miller,mmiller@apache.org,Jun-7-2022
+7f42c7d72ac8115a933b0e961c6f687c15360543,Dom G,dominic.garguilo@gmail.com,Jun-3-2022
+48165863bf359b2e0ddf4cddbcc6f33f7ffe4ce7,Christopher Tubbs,ctubbsii@apache.org,Jun-1-2022
+c4b0ee33dee4863c34a8532c85bef9852bff5895,Christopher Tubbs,ctubbsii@apache.org,Jun-1-2022
+445d1bec2955a6c56367298a3f597763943c1eb1,Dom G,domgarguilo@apache.org,Jun-1-2022
+56e0253a86534b662a47913785925baf489cb4ac,Christopher Tubbs,ctubbsii@apache.org,Jun-1-2022
+62aa21e40ebdcfd0a3c1d864d6adfe2c3de2de27,Mike Miller,mmiller@apache.org,May-31-2022
+fdd455ddd333bafd9fcd4ac5aa6f73883d74b380,Mike Miller,mmiller@apache.org,May-31-2022
+cf50b72bca7729120dddc2e94396ef63137948fd,Mike Miller,mmiller@apache.org,May-31-2022
+fa21795f9e7d7ca2da4a24b62f7fc69af9775de1,Christopher Tubbs,ctubbsii@apache.org,May-28-2022
+e12fcbefb6f2979c3aeabd5597f3799c107df1ba,Mike Miller,mmiller@apache.org,May-27-2022
+3d17dd766d769a3a055bfc7d923e081589e92363,Dave Marion,dlmarion@apache.org,May-26-2022
+2370418d5a9a66afc57b196f88c2a1bd03c092d1,EdColeman,dev1@etcoleman.com,May-26-2022
+a30980f8a99e3eef2aa828f591e8443818478c87,Dave Marion,dlmarion@apache.org,May-26-2022
+9777a7e789c3668f1d9619a2a7538495f95b7cfc,Luke Foster,84727868+foster33@users.noreply.github.com,May-25-2022
+6286a2542d30dc04647f402b1e32963358b80ff3,kitswas,90329875+kitswas@users.noreply.github.com,May-25-2022
+4dc53e7c8ce41f59b424eadac6a30b6a626b93fc,Mike Miller,mmiller@apache.org,May-24-2022
+6338319cf82cd93d16654679417ebb9ef1a33724,Mike Miller,mmiller@apache.org,May-24-2022
+c259914115b80b4442eb9670608b6df1c6b2c0c0,Mike Miller,mmiller@apache.org,May-24-2022
+811a9e33b49a59eca5ae94e2a00f7a375fd8b8ac,Christopher Tubbs,ctubbsii@apache.org,May-24-2022
+be780ddadfc731ef5d260859fdf2af12f8426c7e,Nicholas Coltharp,coltharpnicholas@gmail.com,May-24-2022
+0cfdb76abf10f7e63c93079942a3f5e17d6fc452,Christopher Tubbs,ctubbsii@apache.org,May-24-2022
+4b1675e657a749c1562f9a9d9be02e2cd78b692f,Christopher Tubbs,ctubbsii@apache.org,May-23-2022
+fb898bce2f617dee3f68dd37fafd9f71db7c19c9,Christopher Tubbs,ctubbsii@apache.org,May-23-2022
+0982c1ec3bd189c67c7d2b5660ab3e42d10c44f7,EdColeman,dev1@etcoleman.com,May-23-2022
+3522f7f16f64bd70d690a5e737b85147af309858,Christopher Tubbs,ctubbsii@apache.org,May-23-2022
+d3a02c9ccb79548caf037d27aa9b60c2a6c6b698,Christopher Tubbs,ctubbsii@apache.org,May-23-2022
+37a5babfa31e76063b7e40d9ff3a4008eb2d5605,Dom G,dominic.garguilo@gmail.com,May-20-2022
+f27380142dba2605a810b931356401b7e319bee3,Dom G,dominic.garguilo@gmail.com,May-19-2022
+76aaba0ec4e086ab535a1e88ba6ecb0f62481b2c,Mike Miller,mmiller@apache.org,May-19-2022
+6c5e5683eb8e267aba60e9e93af3ea642cfb9ddb,Mike Miller,mmiller@apache.org,May-18-2022
+cdc957f222849a110d395addcfb0303109257096,Christopher Tubbs,ctubbsii@apache.org,May-17-2022
+ed5e188a92bcd8d0be191b2d1a2380b72b2c998b,EdColeman,dev1@etcoleman.com,May-17-2022
+c55821213f202f5b131f4475c3d4a755942ac8d6,Mike Miller,mmiller@apache.org,May-17-2022
+e52df66b944e3e15098fa3ff65ff9f05aad6afc2,Dave Marion,dlmarion@apache.org,May-17-2022
+250fdaa0a9d2c9956ce2c89e8bff873a15545af8,Christopher Tubbs,ctubbsii@apache.org,May-16-2022
+1996f5db0d10c6c0f06250e08acd0cc6a00dc4fa,Christopher Tubbs,ctubbsii@apache.org,May-16-2022
+0642fb074c9309fedd0e0f4ba4f3c43942c4b782,EdColeman,dev1@etcoleman.com,May-14-2022
+1a0bb1e3d58583ab1f9a90dd1bbc33138345d85a,Christopher Tubbs,ctubbsii@apache.org,May-13-2022
+79fb7964143695cfd2c6e58c60121998ae46dbb8,Emily,71804562+tchaie@users.noreply.github.com,May-13-2022
+8e698a47eef0f32a261945ada0904db499891b66,Dave Marion,dlmarion@apache.org,May-13-2022
+f029ab40bcb09df816d2fcc52c0c1b671d7dc117,Dave Marion,dlmarion@apache.org,May-13-2022
+c847b73f27a7e39d87f2f9747e4aac5ec1054262,EdColeman,dev1@etcoleman.com,May-12-2022
+ad2b545cd96336f894d7344ba261a9810fc69c5b,Dom G,dominic.garguilo@gmail.com,May-11-2022
+a10ee097dd42973cd838aef1a9124d7cc36fdecf,Emily,71804562+tchaie@users.noreply.github.com,May-11-2022
+19e420da392c3905dbe9f3b020a4a60d03615d55,Dom G,dominic.garguilo@gmail.com,May-11-2022
+287293f4ae8d17c6d7bdb98a56e23e499ad50dbd,Dave Marion,dlmarion@apache.org,May-11-2022
+30a74e24008e6015d56443cebb348d257ba6420d,Dave Marion,dlmarion@apache.org,May-11-2022
+00941828c56f4ebcd9d3056ca3296d44f5bdc13d,Emily,71804562+tchaie@users.noreply.github.com,May-10-2022
+2d93f430c8f8c79faff65141fc4338932af8bec3,Christopher Tubbs,ctubbsii@apache.org,May-10-2022
+47de8950844babf3124df430622e7c1365e0d0ea,EdColeman,dev1@etcoleman.com,May-10-2022
+4c0ad3c24e1b27467d5003702c7538709e1b6b56,Christopher Tubbs,ctubbsii@apache.org,Apr-27-2022
+1cc056c37ffdff20e1793a45cd8d37c9f87efa7e,Christopher Tubbs,ctubbsii@apache.org,Apr-27-2022
+0e681c6eb30ad89d4c24a50fbe5c287305d1b534,Christopher Tubbs,ctubbsii@apache.org,Apr-27-2022
+1601dde98fa67c6f12ae474aec40cf93c6f21cd1,Christopher Tubbs,ctubbsii@apache.org,Apr-26-2022
+4d5ec236eaf1b48a8e6488d6d1b0ec82ddc8a815,EdColeman,dev1@etcoleman.com,May-10-2022
+7af40badbe25718fa5050bf883582e23d7b76631,Mike Miller,mmiller@apache.org,May-10-2022
+e223e7997a574c80388f3c707c142e5498bec98f,Christopher Tubbs,ctubbsii@apache.org,May-9-2022
+838eccf83ee88d0716b88d021611b1fb85089491,Christopher Tubbs,ctubbsii@apache.org,May-6-2022
+c356c93f5b8b731cdf806cf6b0d7ecc8866ccdda,Mike Miller,mmiller@apache.org,May-6-2022
+bbd32b1ad44512b8305d1273ed7c8c72de6d21ae,Dom G,dominic.garguilo@gmail.com,May-6-2022
+c5ca1713d1f70b71effbfb1451a881590590437a,Mike Miller,mmiller@apache.org,May-6-2022
+82146a499497d9cb9553a5d910c14ff5bd70f837,Emily,71804562+tchaie@users.noreply.github.com,May-4-2022
+74b48da924ee5c2cdd378786f24275dd77266fc5,Mike Miller,mmiller@apache.org,May-4-2022
+16b5e3bb7b3598896004f5648a9418f3e238d570,Mike Miller,mmiller@apache.org,May-3-2022
+b3ac225d43bacf86bb280be48de750c409f45e66,Dom G,dominic.garguilo@gmail.com,Apr-29-2022
+bbcf67424d320d72c41de71894d3954b5d1616a6,Mike Miller,mmiller@apache.org,Apr-29-2022
+d51e2f1c4455012b66d38600a3579b5d233fc4e3,Mike Miller,mmiller@apache.org,Apr-29-2022
+c355945f8a08004da63743a14bf91e3f0b73af36,Christopher Tubbs,ctubbsii@apache.org,Apr-28-2022
+006ba33116e886982037babccdb95898149a6dd4,Christopher Tubbs,ctubbsii@apache.org,Apr-28-2022
+9381f5eae45d2d4ca0f306f775c5147a551154b4,Christopher Tubbs,ctubbsii@apache.org,Apr-28-2022
+39bc7a0524862a3d39a818e9ac7748874dc06949,Dave Marion,dlmarion@apache.org,Apr-28-2022
+ba244f6515be6d62cfdcfae86116beeb79e19960,Christopher Tubbs,ctubbsii@apache.org,Apr-28-2022
+295f82c4b0341c1d12fb4ce4ba5dd3816cfa2213,Mark Owens,jmark99@apache.org,Apr-28-2022
+874ea84a07203077d69018688b8a7cb0a58a4d60,Mike Miller,mmiller@apache.org,Apr-28-2022
+d564715e827940af1e45b504ab7c100fb08140e5,Dom G,dominic.garguilo@gmail.com,Apr-28-2022
+5aaeb011f362f89caae1e1ab117c897ed2e4da21,Dom G,dominic.garguilo@gmail.com,Apr-28-2022
+837dc6b24272b54fd131ff1120a5a1d1e95fe3aa,Dave Marion,dlmarion@apache.org,Apr-28-2022
+f37d5e43cef945c18c7c4998c797713373ef12ff,Christopher Tubbs,ctubbsii@apache.org,Apr-28-2022
+6b6ba749b6c350edd78a8796bcf84cc4492b6c62,Dave Marion,dlmarion@apache.org,Apr-27-2022
+c3f6b58a901cfce8602e5f7cc2869157f4b47f21,Christopher Tubbs,ctubbsii@apache.org,Apr-27-2022
+981d54612cef6ab02f9b0b3ab516b3901b7a4d2f,Mark Owens,jmark99@apache.org,Apr-27-2022
+1908f066fd066096f9e26e8e4a4a8b7494014196,Mark Owens,jmark99@apache.org,Apr-27-2022
+ef0f52b16ae148bceb74d9d3ff2a091a4d497aeb,nikita,72053786+nikita-sirohi@users.noreply.github.com,Apr-26-2022
+375e1cc6c233f583df6e724b5a3ed4d456ce5152,Mike Miller,mmiller@apache.org,Apr-26-2022
+5cbe96a320dfe849ab50e18e77688138b0acc286,Mike Miller,mmiller@apache.org,Apr-26-2022
+ab5bb96bd1258b5a6720f22e855019f403dd7f1c,Mike Miller,mmiller@apache.org,Apr-25-2022
+50b9267f526736fc2c510a2626693b072ca4dd04,Dave Marion,dlmarion@apache.org,Apr-21-2022
+933ce3a32ab170101ad7c1dee3fc611d81da60f6,Dave Marion,dlmarion@apache.org,Apr-21-2022
+36cece479b2412ab10fec752023a3602b1c97879,Christopher Tubbs,ctubbsii@apache.org,Apr-20-2022
+c130f1cc5536e959e98cdb5e7da5c92db385a3f0,Dom G,dominic.garguilo@gmail.com,Apr-20-2022
+e7a20c0a2b038f9c8d7661ceef026bba9de2a09c,Mike Miller,mmiller@apache.org,Apr-20-2022
+8be98d6744962ccb9806800943dcd8cc6f2003c1,Dave Marion,dlmarion@apache.org,Apr-19-2022
+286d9279568906d56a96dd7c673cc9e6d8e792c4,Mike Miller,mmiller@apache.org,Apr-19-2022
+b00c6d216bca33330755bd0d1fdc26518ae99a59,Christopher Tubbs,ctubbsii@apache.org,Apr-18-2022
+072ee41e44027d8d8c587d2812dd13e47d2d589b,Dave Marion,dlmarion@apache.org,Apr-18-2022
+f86f4927a6968fa95d3025f3612858619a46f63c,Dom G,dominic.garguilo@gmail.com,Apr-14-2022
+bd27df02c86bc224de2d39f0839bbbf8f6b46357,Mike Miller,mmiller@apache.org,Apr-14-2022
+09e51978d37b48ec9fe0a5482390cf983a0beed7,Christopher Tubbs,ctubbsii@apache.org,Apr-13-2022
+f1986d4c59818662780981c41de0f860f4a1093f,AlbertWhitlock,albertwhitlock4@gmail.com,Apr-13-2022
+25f6995fb3c6ba3fbd76ab71c5d6b7469342cbe6,Christopher Tubbs,ctubbsii@apache.org,Apr-13-2022
+7b40211126e8af11be8a4ad43f9207ebdc52c37e,Christopher Tubbs,ctubbsii@apache.org,Apr-13-2022
+78490fbac87fc84c7c29b92dad5030419ca87d94,domgarguilo,dominic.garguilo@gmail.com,Mar-22-2022
+09ae8477e6a8b141626045f34215b81caa98586c,AlbertWhitlock,albertwhitlock4@gmail.com,Apr-12-2022
+a5947214bac05f2407a58d20ef730a94d1809e2a,Christopher Tubbs,ctubbsii@apache.org,Apr-12-2022
+6696c072a1cdeb35636d39cf5404d00333f6b6f2,Christopher Tubbs,ctubbsii@apache.org,Apr-12-2022
+f0ce689fb8f038adddda9373cd1d6486e1930212,Christopher Tubbs,ctubbsii@apache.org,Apr-12-2022
+2dfe37b620ca9163bccaf4f4caea96923d5ecc0d,Christopher Tubbs,ctubbsii@apache.org,Apr-11-2022
+ad6a7958c3399aaa208831edb430d8e735071906,Christopher Tubbs,ctubbsii@apache.org,Apr-11-2022
+3db9052d7b955dd7c89740e173ed368fa1616b46,Christopher Tubbs,ctubbsii@apache.org,Apr-11-2022
+a76401788a5b0fdeb38cb4e29abdbfbb11a27faf,Christopher Tubbs,ctubbsii@apache.org,Apr-11-2022
+d454afd39c91ee0a1ab267e0caafc52254d209b0,Dave Marion,dlmarion@apache.org,Apr-6-2022
+6d1a9de2f6cba5a3fa5dcd0840cbf0371039eb79,Mark Owens,jmark99@apache.org,Apr-5-2022
+db2485bf046ad8cbae73fa40cd710e46d5fcba02,Christopher Tubbs,ctubbsii@apache.org,Apr-4-2022
+dd6c02d5d5aae78c8fa0a5fed2023354a4be4598,Keith Turner,kturner@apache.org,Apr-4-2022
+26cb8ef487c1a42dc39f89f011a1667938204c98,Mike Miller,mmiller@apache.org,Apr-4-2022
+120d5ffd1b2447fec8c343778aa3396b3ed349dc,Dave Marion,dlmarion@apache.org,Apr-1-2022
+3cf165b4fa97514dc454eef15ee03ed1601ace9e,Mike Miller,mmiller@apache.org,Mar-31-2022
+59b506b9faa728f9441e563ed86eba1b9f6b68b9,Dom G,dominic.garguilo@gmail.com,Mar-30-2022
+cbd689fbce9f3d4d0c521ef896e5787970733fbe,Dave Marion,dlmarion@apache.org,Mar-29-2022
+4974d2cabed96e6f4fdc06aa6d57b8966f0facef,Mike Miller,mmiller@apache.org,Mar-29-2022
+1c0aa8f54642d42c5c4fbb6970141b8acd7a63d9,Dave Marion,dlmarion@apache.org,Mar-29-2022
+c7dfaeab13872e31bf05b60775691faf7a86d9c4,Dave Marion,dlmarion@apache.org,Mar-29-2022
+d093c5f850954b192d5bafa3bca3a931535937a8,Diego Marcilio,dvmarcilio@gmail.com,Mar-28-2022
+69c31d48058e8fbf121ace69324f186ab56a4e70,Mike Miller,mmiller@apache.org,Mar-25-2022
+502317d4cd54d74a49a5298bbe7ed4b601f5a5ba,Dave Marion,dlmarion@apache.org,Mar-25-2022
+7c3a9783ad01809f7c1bd5cf22471a1ffa421852,Mike Miller,mmiller@apache.org,Mar-25-2022
+dd81d608bff88835676e756ffcb2a2f6b69c9be8,Mike Miller,mmiller@apache.org,Mar-24-2022
+510ece827b4b42fc0d46b2397fbc0d4bdf6a3111,Dom G,dominic.garguilo@gmail.com,Mar-24-2022
+73c33d1180fb9579c1d9079fa37ff8a651680a59,Dom G,dominic.garguilo@gmail.com,Mar-24-2022
+2980e4e9cedea438072057a5c846253688623a8f,Dom G,dominic.garguilo@gmail.com,Mar-24-2022
+738b1c15b6f6383f6d1609a1cba702cd350f0a42,Mike Miller,mmiller@apache.org,Mar-23-2022
+918bb92eb21827b73a51c487fb35db45c32ac008,Dom G,dominic.garguilo@gmail.com,Mar-21-2022
+26ee87e6567e24d0de88879f38ec3ecf2c85e0ce,Mike Miller,mmiller@apache.org,Mar-21-2022
+a1a1b7203fe59d43563dc984700fe4c20dd5d28a,Dave Marion,dlmarion@apache.org,Mar-18-2022
+a4e4f196fcfcab0f2377193d24da60e56c9f2379,Mike Miller,mmiller@apache.org,Mar-18-2022
+a9bd3a130ec3220fd543d3d2a399a3e5e48a51f4,Christopher Tubbs,ctubbsii@apache.org,Mar-17-2022
+c2af0d46eea61946e87188ea683ec86e413ab0f8,Christopher Tubbs,ctubbsii@apache.org,Mar-17-2022
+7ee8059d924224b89023bde6a16e17045fdb11bd,AlbertWhitlock,albertwhitlock4@gmail.com,Mar-17-2022
+b807552c3881a057623f5e64d30e267efbd48c1a,Dom G,dominic.garguilo@gmail.com,Mar-17-2022
+88a35606e8c1782f19bd6672e1d4397d0e19e235,Dom G,dominic.garguilo@gmail.com,Mar-16-2022
+68606c780123bab7c8646a6742f573221571649b,Christopher Tubbs,ctubbsii@apache.org,Mar-15-2022
+ccc0a7a815394fb958f09e143e02b194de2eadc4,Dom G,dominic.garguilo@gmail.com,Mar-15-2022
+8acc4ca71cf75a7c08e802fc6fdca4c41793d9ab,Mike Miller,mmiller@apache.org,Mar-15-2022
+dca3ae8d056a24510aa9d86347d9d6338613c4b3,Dave Marion,dlmarion@apache.org,Mar-15-2022
+2ca070b54cb48761bc69ad1437b1cac560949201,Dom G,dominic.garguilo@gmail.com,Mar-14-2022
+8e3d33d630c6c8a2d43862bf468d0e5d34f943e0,Dave Marion,dlmarion@apache.org,Mar-11-2022
+660ed07e2224c2bce3a6841970c17e83e6640da7,Mark Owens,jmark99@apache.org,Mar-9-2022
+9a33724f0ebbf6a25eb76f2b5efb07fa7ec4aef4,Dave Marion,dlmarion@apache.org,Mar-9-2022
+6242c1d5f1e54bf058e316a119f12dc5bd893c44,Mark Owens,jmark99@apache.org,Mar-9-2022
+97af14509d2755de29e2c0196201018f576cab68,Mark Owens,jmark99@apache.org,Mar-9-2022
+a6e3950fc9aaa715c22c5e9295d781f35041f5c4,AlbertWhitlock,albertwhitlock4@gmail.com,Mar-9-2022
+b13ba9daf696b8088887c7ed5acfeec721572e60,Dave Marion,dlmarion@apache.org,Mar-8-2022
+8c07e0c8281fef857eeda03f78e287a37cdc6e47,Christopher Tubbs,ctubbsii@apache.org,Mar-8-2022
+cd9b536232b8c963be1831fc7136004e04c3a4a3,Mike Miller,mmiller@apache.org,Mar-8-2022
+05a741a915de39477fee9cdf31bce82f52c04b52,Christopher Tubbs,ctubbsii@apache.org,Mar-8-2022
+7fb1b5df9e3abe18304039fb3e781b2617eec4b5,Dave Marion,dlmarion@apache.org,Mar-4-2022
+4b66b96b8f6c65c390fc26c11acf8c51cb78d858,Christopher Tubbs,ctubbsii@apache.org,Mar-3-2022
+edbae8e32cf1008ab898490dc00e776a56df09ab,Mark Owens,jmark99@apache.org,Mar-3-2022
+48679fef73e246de52fbeecad03f974f2116b97a,Christopher Tubbs,ctubbsii@apache.org,Mar-2-2022
+fd97a07eca6cd88d819a9c3875b99c1f1b184b17,Christopher Tubbs,ctubbsii@apache.org,Mar-2-2022
+1d2c636ee690d780de293f5f0f3490b9af7c151b,Christopher Tubbs,ctubbsii@apache.org,Mar-1-2022
+b24fb8d7cfaf13bc60794867425ebb2ba39e8558,Dave Marion,dlmarion@apache.org,Mar-1-2022
+3c3a91f7a4b6ea290a383a77844cabae34eaeb1f,Christopher Tubbs,ctubbsii@apache.org,Mar-1-2022
+f442f94b1b2505d9425bbbcc940f26225bfe3930,Dom G,dominic.garguilo@gmail.com,Feb-28-2022
+c7a0d592245ed0988692d55490bbb7a7f781e259,Dom G,dominic.garguilo@gmail.com,Feb-28-2022
+3546261f007a8780b0f478ab870a4f1a1d6cb3fc,Keith Turner,kturner@apache.org,Feb-28-2022
+4a6c477f7f243750c57b23fe3e32b61d6ee19ffd,Dom G,dominic.garguilo@gmail.com,Feb-28-2022
+6f8be5c9f26676712eb417db69ea1938380f4ff3,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-26-2022
+b63e51de09db8518302f88705d9b1eb7c503a6e6,Mark Owens,jmark99@apache.org,Feb-24-2022
+a9775e70d6161ecd082f49715ed3f443c48a44f7,Christopher Tubbs,ctubbsii@apache.org,Feb-24-2022
+6fcf9c6a76e5bba6e3ac14cc0ebb30fc9531222e,Dom G,dominic.garguilo@gmail.com,Feb-23-2022
+0a64b442a92f728858066c2bc12312f96d41d22e,Kylian Meulin,59285425+KikiManjaro@users.noreply.github.com,Feb-24-2022
+c46fa8f1e2eac80ffac3ef594afe3f7b9052fd8a,Christopher Tubbs,ctubbsii@apache.org,Feb-23-2022
+78a1425ded5725d4d0c40fe85664fa97ceb15184,Dom G,dominic.garguilo@gmail.com,Feb-21-2022
+e39fbea6dfd96b7086babb51af76be99238686e7,Kylian Meulin,59285425+KikiManjaro@users.noreply.github.com,Feb-21-2022
+b570aecdd82a353f10143f8c5951a282753cce1a,Kylian Meulin,59285425+KikiManjaro@users.noreply.github.com,Feb-21-2022
+0ede27e69406e26a7a5e8dc4e3bf116ee79712d1,Christopher Tubbs,ctubbsii@apache.org,Feb-21-2022
+664b5a5dd137a58e4df47915c8f5f209a530cd8a,Christopher Tubbs,ctubbsii@apache.org,Feb-20-2022
+24f16e5c0279fcc2e0bc1ff9c17fce791f7437f6,Luke Foster,84727868+foster33@users.noreply.github.com,Feb-19-2022
+9650e3b484bfacc98590ee5fb228b57ed02484b4,Dave Marion,dlmarion@apache.org,Feb-18-2022
+8b8a6f7339fdcfbf4118c6164eb47035d857f0d9,Mike Miller,mmiller@apache.org,Feb-18-2022
+041ec0d4dce310170b5035e76f013461a56c7b42,Dave Marion,dlmarion@apache.org,Feb-17-2022
+48e31af4962660dd1c09054cd5128a30f86b3c71,Dave Marion,dlmarion@apache.org,Feb-17-2022
+f8ec16c833ad7b58759a9101e4d9befd524b9daf,Mike Miller,mmiller@apache.org,Feb-16-2022
+40fb5d01ffeefd6fb2e9a867a03bcf5737b56578,Christopher Tubbs,ctubbsii@apache.org,Feb-15-2022
+4ce9ab25d061a7cb1f79b49746637b91c22c40ec,Dave Marion,dlmarion@apache.org,Feb-15-2022
+2cfc63396b3879c2c4b3ed773c1aad366745402d,Dom G,dominic.garguilo@gmail.com,Feb-15-2022
+afe4791a673ee039138d5f8e8a8f608dea19f57e,Mike Miller,mmiller@apache.org,Feb-15-2022
+6f01f81326cd00ed71b51c4fd98158939ef4d709,Christopher Tubbs,ctubbsii@apache.org,Feb-14-2022
+60d0ae7fc4958920cc8e86d165a9a89e22f97929,Dave Marion,dlmarion@apache.org,Feb-14-2022
+d8aaa1fbd454ce8dbd5d2acc73a3dc9eb61b5d70,Dom G,domgarguilo@apache.org,Feb-14-2022
+aa13bdc23d5e56e097c81ad3dbf66a710e0411bc,Mike Miller,mmiller@apache.org,Feb-14-2022
+5d6c3660c8587d47081b75a8a23fd98e6d29b8f4,Mike Miller,mmiller@apache.org,Feb-14-2022
+4dc8d3effc9eeccd514317b3028bc10e1cf71c22,Mark Owens,jmark99@apache.org,Feb-14-2022
+810db8e9dcdda0b6a06bac7e769e5d5e22af0fca,Christopher Tubbs,ctubbsii@apache.org,Feb-13-2022
+7088cdec4fab5bb590645ab6dc10fb7b2021f50e,Mark Owens,jmark99@apache.org,Feb-10-2022
+87a715a4eace9bbd2a04f9accdf986fd4029d46d,Dave Marion,dlmarion@apache.org,Feb-10-2022
+0e19f143c08fcf8337fb90bad261bd42b1afef9c,Mike Miller,mmiller@apache.org,Feb-10-2022
+66ef78338927d61c2624f10b377e3928527665e8,Mark Owens,jmark99@apache.org,Feb-10-2022
+1632c8fe8769078f47c528d8f29bc4149347b6b7,Mark Owens,jmark99@apache.org,Feb-9-2022
+e62816675c51b48ae438766663746b3ce5191251,Christopher Tubbs,ctubbsii@apache.org,Feb-8-2022
+db2baf1706c0721e25438d5329ef1bba5159c24d,Christopher Tubbs,ctubbsii@apache.org,Feb-8-2022
+fc611bc0a82c3707b70007737d3cb6f503ca4ecd,EdColeman,dev1@etcoleman.com,Feb-8-2022
+e3e8a9e1164231897a10a04c9e76f7cfe908c771,Mike Miller,mmiller@apache.org,Feb-8-2022
+b12de8ab29d005d65326d7b526cbf796541b908a,Christopher Tubbs,ctubbsii@apache.org,Feb-8-2022
+7eda64176f4f8ed44efdbc9b6e1b6b3315024128,Christopher Tubbs,ctubbsii@apache.org,Feb-8-2022
+a4189d309bad73b17a53853700b14af5f0e097a7,Mike Miller,mmiller@apache.org,Feb-7-2022
+7aa51ab6bd5ca22553bd49cfd248b5953bb5f0f2,Christopher Tubbs,ctubbsii@apache.org,Feb-4-2022
+bbae5c6da9dbfa25b4dedf2e79e9a969497d217c,Christopher Tubbs,ctubbsii@apache.org,Feb-4-2022
+a80cf36ab6904690ddb2a0c8bb5b3eb5f4ec67a4,Dave Marion,dlmarion@apache.org,Feb-4-2022
+b98f8e98e91c47a18f8d8892045ef4dbb32bdde1,Mike Miller,mmiller@apache.org,Feb-4-2022
+6623a76be125425d58a7bc3201b0541f33d853b0,Mike Miller,mmiller@apache.org,Feb-4-2022
+aefff9773cc9f4ea03b16fcbdd74da59796c8b55,FineAndDandy,cwilliams.work@gmail.com,Feb-4-2022
+008860b5ee61d19b1a8896a519974159f93ed03b,FineAndDandy,cwilliams.work@gmail.com,Feb-3-2022
+d0981258046480aae778fc5d54aeab55599d62c9,Mark Owens,jmark99@apache.org,Feb-3-2022
+ab70060bc01c78c2136a1d33091c2cce81b17545,Christopher Tubbs,ctubbsii@apache.org,Feb-2-2022
+e2efd0400d4206de188d4960b273892d725f3a82,Christopher Tubbs,ctubbsii@apache.org,Feb-2-2022
+da1944c5a5b9261619e7330feb551e1d0034159e,Christopher Tubbs,ctubbsii@apache.org,Feb-2-2022
+7f082d5fe21da65123c2e3897bb79ae48264e2cd,Christopher Tubbs,ctubbsii@apache.org,Feb-1-2022
+2658deaf326c58454e260a9b6777ced15ec095dc,Mark Owens,jmark99@apache.org,Feb-1-2022
+b742f106d11339f9d019c024bcc35735824aa4e8,Mike Miller,mmiller@apache.org,Feb-1-2022
+e20aae49c6ae1e68de443b17fb9f2979dfb04744,Mark Owens,jmark99@apache.org,Feb-1-2022
+b0e2fd0d9e2f7c9877edea47650e8f0b6683dd36,Christopher Tubbs,ctubbsii@apache.org,Jan-31-2022
+af4d4d978a4785c1971984513fb51c629ef68100,Christopher Tubbs,ctubbsii@apache.org,Jan-31-2022
+0fdfee5322278d8833aec541d47bf778489394ac,Christopher Tubbs,ctubbsii@apache.org,Jan-31-2022
+ece553a3ef0f47ef321eb4541ba220d22b5f796a,Christopher Tubbs,ctubbsii@apache.org,Jan-31-2022
+358fabde758ee3f90fbff74cc455af204baeff34,Mike Miller,mmiller@apache.org,Jan-31-2022
+8f83526224ed64c99ea35e2d68675b36da8b3bdf,Mike Miller,mmiller@apache.org,Jan-28-2022
+36fca0f3c8f7481e2ec400a486e6955026ba7af4,Dave Marion,dlmarion@apache.org,Jan-28-2022
+7c3247bc6eea357dd86c91b82c2622610090eae7,Mike Miller,mmiller@apache.org,Jan-28-2022
+3183f7accb1c1505e69709e9763e83d1f9bca7d8,Christopher Tubbs,ctubbsii@apache.org,Jan-28-2022
+e8ea60dfb5b432b7e6bc1aef6664e958fa5f051a,Christopher Tubbs,ctubbsii@apache.org,Jan-27-2022
+b264246a9a17279e096570b9f377aa06251c9460,Dom G,dominic.garguilo@gmail.com,Jan-27-2022
+91733275e7ee02c19c286fa0f6ebe89b5f6f1bdd,Christopher Tubbs,ctubbsii@apache.org,Jan-27-2022
+912292d2131dbaf0f9cc28aff464608b478bf362,Mike Miller,mmiller@apache.org,Jan-26-2022
+42b120806bf062cdb306f8d170d47946e4bc667c,Dave Marion,dlmarion@apache.org,Jan-25-2022
+0e4baf318d1108712b1282605e358a799c34966e,Mike Miller,mmiller@apache.org,Jan-25-2022
+9a1784cce75e22ab01b446b7e9ee08df9b719647,EdColeman,dev1@etcoleman.com,Jan-24-2022
+d5f9611efbcffc883271b77d0512e8c0102c1079,Christopher Tubbs,ctubbsii@apache.org,Jan-21-2022
+80f84187b236fef684f066d6e36b6b6edcf72522,Mike Miller,mmiller@apache.org,Jan-21-2022
+2b65a222c6b740567f62eecd20900bcd5965d6f5,Christopher Tubbs,ctubbsii@apache.org,Jan-20-2022
+1f80b7445d1320efaa8db1fb58c7b67d73c9fdbc,Dom G,dominic.garguilo@gmail.com,Jan-20-2022
+0baf2046820e6a12e4afd109b0920fb1cf31596e,Dave Marion,dlmarion@apache.org,Jan-19-2022
+23fa7d48e7908b9af0a761fda431ffa0fc472a12,EdColeman,dev1@etcoleman.com,Jan-19-2022
+4ce35a7498fe3d7aca560bb4632ebe751901821d,Filipe Rodrigues,fdf.rodrigues@campus.fct.unl.pt,Jan-14-2022
+30c49ef1a193bd6712efe4c28e304e107b47a1c3,Mike Miller,mmiller@apache.org,Jan-12-2022
+13ab04b88250eeb72a38ac9d711dd45a4d69024a,Dave Marion,dlmarion@apache.org,Jan-11-2022
+a6da437cae6119db739fb6698ea711bb3b8c5cfa,Christopher Tubbs,ctubbsii@apache.org,Jan-10-2022
+e237006d0f5ff62d08f3469e78950ae0ff5487bb,Christopher Tubbs,ctubbsii@apache.org,Jan-10-2022
+39514270b1d8fad1b68b9e559467df9f5f81e4a5,Christopher Tubbs,ctubbsii@apache.org,Jan-7-2022
+22cf17b157c191035de816bb9295a8beccba34ff,Keith Turner,kturner@apache.org,Jan-6-2022
+2d9dc4cdb63d0a39fc20b02639dde7c46b98f3f0,Dave Marion,dlmarion@apache.org,Jan-5-2022
+7c0e9bfcddf4ac4c07bc404384d5fdd15864d5af,Dave Marion,dlmarion@apache.org,Jan-5-2022
+730a026407885f7342ca9a080524de6e17e9521e,Luke Foster,84727868+foster33@users.noreply.github.com,Jan-4-2022
+12fe9633f6cdcac7a964d8fdfcec8c615aaf1629,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jan-3-2022
+681139e786787bdc5c9778bbb2a6062962e63f51,Mike Miller,mmiller@apache.org,Jan-3-2022
+6ea23a0f450397362781b63c45704684604e83a5,Dave Marion,dlmarion@apache.org,Jan-3-2022
+5a7a805cff981b7a2a0bb3c15d0bfc876fcf436f,Dave Marion,dlmarion@apache.org,Jan-3-2022
+976af80c1591a177265009aa4ed1eb03b8e21c93,EdColeman,dev1@etcoleman.com,Dec-29-2021
+67127d81a03a693adbde7791605e1f6f57f9ba29,Luke Foster,84727868+foster33@users.noreply.github.com,Dec-28-2021
+b216d17731c924fac825c113eb80e6af4c249db9,Mike Miller,mmiller@apache.org,Dec-22-2021
+b3eca97016b280d719ebe49fa65af55f04d2e7cc,Dave Marion,dlmarion@apache.org,Dec-21-2021
+9a56c45c8dd6283ea78f283dc49de065a1a6f6d2,Mike Miller,mmiller@apache.org,Dec-21-2021
+e4a19bcbecdf07171aa48aa4bd495c0341e954a0,EdColeman,dev1@etcoleman.com,Dec-20-2021
+e0853b7715f9712ad05168b727ebc916a7aeb200,Mike Miller,mmiller@apache.org,Dec-17-2021
+f5121ec42460358eef9d25f5e5ca1914d1842a76,Mike Miller,mmiller@apache.org,Dec-17-2021
+c029c89ac3e9bfc4f9b73b8d4e016ce07419fba6,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2021
+02de5104c4c115d913e5547e1dd6f0b6d26390d1,Mike Miller,mmiller@apache.org,Dec-15-2021
+59879556866021518ba4a3633cbb07dc6fa9efd9,EdColeman,dev1@etcoleman.com,Dec-15-2021
+6597638da485599fbf0f96da1fcc357d3a63ae6f,Dave Marion,dlmarion@apache.org,Dec-15-2021
+6ab8d076c5a98e956864df13ff09709c3bf7663c,EdColeman,dev1@etcoleman.com,Dec-15-2021
+c06f6072d3550b9c44ce6e2680d8b5827ae52c82,EdColeman,dev1@etcoleman.com,Dec-15-2021
+ff4e542a7ef1a244826888c572bedc713fe8183b,Mike Miller,mmiller@apache.org,Dec-13-2021
+83211c207cc74c30e25433b595026d31752ba2be,Mark Owens,jmark99@apache.org,Dec-13-2021
+de569f3e3573439807993a5c5b76450e4c794ae1,Christopher Tubbs,ctubbsii@apache.org,Dec-10-2021
+a743c76bb1a05f75fb094b9c8e95356fee7f65f8,Dave Marion,dlmarion@apache.org,Dec-10-2021
+fad597bf40bf3c6893e98d5ebd0e391859a3c7dc,Christopher Tubbs,ctubbsii@apache.org,Dec-10-2021
+de54ed96041581a916a36e3395123d048c22f0c9,Dave Marion,dlmarion@apache.org,Dec-10-2021
+5233e849c12bc0fe4887a461ef148747721826da,Dave Marion,dlmarion@apache.org,Dec-10-2021
+783857b35fd322e96b7a5737df3ac381b22c41bd,markjens,94677193+markjens@users.noreply.github.com,Dec-10-2021
+2fd40dd8fd68c94bad6fb887d6b1cd99d39481c3,EdColeman,dev1@etcoleman.com,Dec-8-2021
+1687ede211888da0dcd40323c894eff0e00fce26,Dom G,47725857+DomGarguilo@users.noreply.github.com,Dec-6-2021
+ea0d2f26f40e330a6dde1221441be702554459bf,Christopher Tubbs,ctubbsii@apache.org,Dec-2-2021
+b94ce9ac73328488f8f8dd55dfa77e3795353515,Mark Owens,jmark99@apache.org,Nov-29-2021
+7e97566a8b1f0b464753d9e7099afb1bdfa5b043,Mark Owens,jmark99@apache.org,Nov-29-2021
+45a4a93d2926760d6a916ae2da1d7e668ec4dcb1,Damon Brown,70720273+trietopsoft@users.noreply.github.com,Nov-24-2021
+a3969c3f7e6c91e4ae047b27386146ad547f1b12,AlbertWhitlock,albertwhitlock4@gmail.com,Nov-24-2021
+58431fe6c0d8a8be8b1864b6d175906245c6fdfb,Christopher Tubbs,ctubbsii@apache.org,Nov-22-2021
+9db57c6adcb717284721608157dd690258e79583,Tulika,fictionfree54@gmail.com,Nov-22-2021
+2bce8939145b49a765f998f5dbe2b6242a64e3e6,Mike Miller,mmiller@apache.org,Nov-19-2021
+240c60c7c8ec326338d15ecb3c1168cee7a54557,Christopher Tubbs,ctubbsii@apache.org,Nov-18-2021
+f8bb900ae080fe0f54dfe04f9e1ad8c4dd2e7930,Dave Marion,dlmarion@apache.org,Nov-12-2021
+28e57aac909c9e6a13d412189d686182612bd3ba,Dave Marion,dlmarion@apache.org,Nov-12-2021
+6cfb9180a0d3e5115922314ff2062e0706ef0795,Mike Miller,mmiller@apache.org,Nov-10-2021
+bf4d8e4ad5c06e2881a8235ffd0bb293c54289e4,alerman,alerman@gmail.com,Nov-10-2021
+52e80b1d11f0093a07a2d886d85aa74f7998096b,Mike Miller,mmiller@apache.org,Nov-9-2021
+b6a466348807fe0d23203f3776cbc3119d5a037d,Dave Marion,dlmarion@apache.org,Nov-9-2021
+25013a8b4bad40e88279645c82ed9f602394a23e,Christopher Tubbs,ctubbsii@apache.org,Nov-3-2021
+785a3645261571f000a7adb3c7c72b07886f0587,Christopher Tubbs,ctubbsii@apache.org,Nov-2-2021
+dc847b1fb971efa81e6fcc24f126e93fcc1ddf8a,Dave Marion,dlmarion@apache.org,Nov-1-2021
+82df376b1fe5b222c6156a64afeac252beb26441,Mike Miller,mmiller@apache.org,Nov-1-2021
+ddff6381197fd74f352700e13418c090ad3022c9,Keith Turner,kturner@apache.org,Nov-1-2021
+bf7d90fbf3e362bdb99ee3c2350f84f4f7576a4e,Dave Marion,dlmarion@apache.org,Oct-29-2021
+bc921baf1f96adf1ccb5aec7a8f8a5b6ae66b3bd,Mike Miller,mmiller@apache.org,Oct-28-2021
+bbc002116465be98acc09d30f9e4d1b9486fe944,Jeffrey Manno,jeffreymanno15@gmail.com,Oct-28-2021
+b5ca15806659efbbd6f5d158be8648cc2cd13593,Dave Marion,dlmarion@apache.org,Oct-27-2021
+5f20e38628abd6385a5ee652634f4d748ecd013f,EdColeman,dev1@etcoleman.com,Oct-25-2021
+4738d5ad55047a93a5e6869d0defea9b5b4956da,Mike Miller,mmiller@apache.org,Oct-25-2021
+c9e3877373303997d42b465b2cdb62fd3fffd5d8,Mike Miller,mmiller@apache.org,Oct-22-2021
+b56390466ffcd203e2adbc967dcded64a2fb6103,Mike Miller,mmiller@apache.org,Oct-18-2021
+98cf4b5b443c0baee7e31a24ef927b68b4ae7a58,EdColeman,dev1@etcoleman.com,Oct-18-2021
+1cb697324418a823de26c7485e87454845d9813d,Mike Miller,mmiller@apache.org,Oct-14-2021
+eaa8268f3835733283f8a1ffcabdf5101135a4f3,Mike Miller,mmiller@apache.org,Oct-13-2021
+0357c9b66e0fcd49cc8778c3e51d91a60b494e38,Mike Miller,mmiller@apache.org,Oct-13-2021
+e46706e1e3a98716895f15b9e8f724deceebe0fa,Keith Turner,kturner@apache.org,Oct-12-2021
+0f0bcfffff41906ea2c3eec88fbe0e02e52e7ce5,Mike Miller,mmiller@apache.org,Oct-12-2021
+bbc18e37c58f3b24cea6e7a6f3913d501b364b6b,Mark Owens,jmark99@apache.org,Oct-11-2021
+2c81f2f69d410241f8d05515ac8377007e618f10,Mike Miller,mmiller@apache.org,Oct-7-2021
+eba505922225dbdac4f2d9d7c26a5baaf3d851b6,Dom G,47725857+DomGarguilo@users.noreply.github.com,Oct-7-2021
+8d714bb19bcf3fc4f29818fd16b04901fdeb3a99,Dom G,47725857+DomGarguilo@users.noreply.github.com,Oct-5-2021
+8fb5d43ae19112497f9809e206b0b636ec2fde69,Mike Miller,mmiller@apache.org,Oct-5-2021
+db22fdd03db44a44ae87c6ae8add23edc63c21e8,Mike Miller,mmiller@apache.org,Oct-1-2021
+93411515086a6a269830f92fbf42b9a02fcdd774,Dave Marion,dlmarion@apache.org,Oct-1-2021
+03d76769366971ebacb575f7c5e6c962ddbea29c,Dave Marion,dlmarion@apache.org,Sep-30-2021
+a8c27d5286f43abc246e799b60d0ba1e1b3910f9,Keith Turner,kturner@apache.org,Sep-29-2021
+a3aea30ad1903d91df55773c44d39a408cf82ded,Mike Miller,mmiller@apache.org,Sep-29-2021
+04bf24f777a3422d968240c66adf9167ffc4b2e0,Mike Miller,mmiller@apache.org,Sep-29-2021
+879977c8269bf1a029e7f8f0cf7847461f08f6d4,EdColeman,dev1@etcoleman.com,Sep-28-2021
+d4cb0ebacddcad11a520e87829714f3f67dc71d5,Christopher Tubbs,ctubbsii@apache.org,Sep-27-2021
+140202c00aca8e99bbc424d07b8c329c9ef009c8,Dave Marion,dlmarion@apache.org,Sep-24-2021
+455d5cadbab9618a6fe8be2abd7e4465b562bf14,Dave Marion,dlmarion@apache.org,Sep-23-2021
+9451dd0dda6b4d9ebb5203e8314782233b28b75f,Mike Miller,mmiller@apache.org,Sep-23-2021
+87dac9634aeff03ddb93be44c74175059c635d01,Dom G,47725857+DomGarguilo@users.noreply.github.com,Sep-22-2021
+b2ed0018c5b1df8289a7e6385a0405f30cf7ee03,Keith Turner,kturner@apache.org,Sep-21-2021
+e67ffa0a4be2140234fb3c0ea0742dff192bce91,Dave Marion,dlmarion@apache.org,Sep-21-2021
+279ee5f634253581462ad14602b35e07e8570930,Dave Marion,dlmarion@apache.org,Sep-20-2021
+62334515c982d7ccc8428f288c607eb3cf425761,Dave Marion,dlmarion@apache.org,Sep-17-2021
+f73af60b86e452ef9cd429b56ccc53e93c602eda,Mike Miller,mmiller@apache.org,Sep-16-2021
+9e101e189e20943af930144878d6b65722f42a8c,BukrosSzabolcs,szabolcs@cloudera.com,Sep-16-2021
+9dd65807008d3d3ed313d7cfd10bfb68c4ccc597,harjitdotsingh,75006+harjitdotsingh@users.noreply.github.com,Sep-16-2021
+ba83d8fa26a8adc92ca0249780b1ddf9d7135d7a,Dave Marion,dlmarion@apache.org,Sep-15-2021
+0d246732c5fe5af67aa5a2be129f659106370685,Mike Miller,mmiller@apache.org,Sep-14-2021
+ff67c0948507db573a313da5a71f690a6a92fff9,Mike Miller,mmiller@apache.org,Sep-10-2021
+e08cf60876268d3ee6fdb8f4b58f129b73fa459f,Mike Miller,mmiller@apache.org,Sep-9-2021
+e6ec4cda75e30924d143bf3291827693e04f0f0f,Mike Miller,mmiller@apache.org,Sep-9-2021
+77157661af4e6de790e4b0cd34debd02f69bdce2,wx930910,wx19930910@gmail.com,Sep-8-2021
+70112240c5a36f5a146d8ecafa322cd7d94cd387,Dave Marion,dlmarion@apache.org,Sep-7-2021
+68ca8c1c584d7987602a8c1dd901c45d0f9cd7ad,Mike Miller,mmiller@apache.org,Sep-7-2021
+506f3c539a2b5247e2ca3c78c14e0ccd19e92b39,Mike Miller,mmiller@apache.org,Sep-3-2021
+647b03a231c43d84e1a949668bb3c3cc8fa1b917,Mike Miller,mmiller@apache.org,Sep-2-2021
+0bf3c9e7056fbdc8c1dfd53ddc0b62a74d7c31b0,Keith Turner,kturner@apache.org,Sep-2-2021
+fc32430a15004a9f5e1427b72295d785e7dc563c,Keith Turner,kturner@apache.org,Sep-1-2021
+705dfe07f3af0bfd0dc6bb0f62a01fb9a0164f37,Mike Miller,mmiller@apache.org,Aug-31-2021
+4b21ebe3d1cfe02cb60161a96b2acf238487aace,Mike Miller,mmiller@apache.org,Aug-31-2021
+ae7d18f9779e346e010be7ce54b24ec16f429270,Mike Miller,mmiller@apache.org,Aug-31-2021
+66d85b872a0ff5cbc9e56ddb521fff3e2157c30f,Dave Marion,dlmarion@apache.org,Aug-27-2021
+e55b961c10bde3c985a2fefde16965ab7562417e,Mark Owens,jmark99@apache.org,Aug-25-2021
+4222d8828f4236c2d3834f0948b24f6bee86ba22,Jeffrey Manno,jeffreymanno15@gmail.com,Aug-24-2021
+dcca6ce23e5a365fa162275f2082dc81f973fff8,Mike Miller,mmiller@apache.org,Aug-24-2021
+7c9c82724f1583685f16964ebf6391b6bda98452,Mike Miller,mmiller@apache.org,Aug-24-2021
+2987f3762afbba81501ad52b5a188aa25bdd7ab8,Mike Miller,mmiller@apache.org,Aug-23-2021
+87d4aa5d51c8dc9ac1bc6d714998228b21270411,Mike Miller,mmiller@apache.org,Aug-23-2021
+38e4cced3de382e737950e9cfd46c2f4826fc571,Mike Miller,mmiller@apache.org,Aug-23-2021
+3ea979d5971016b9c2512a96cc5b6bd5d1969b2e,Mike Miller,mmiller@apache.org,Aug-20-2021
+bd46219580375f36861961c092fba59fa96041a3,Mike Miller,mmiller@apache.org,Aug-18-2021
+13599604dbb507d0ee9a28046528b5e0519deb31,Mike Miller,mmiller@apache.org,Aug-17-2021
+efbaf2d52d10110d8dbbec0a11daf5c596f2d278,Mike Miller,mmiller@apache.org,Aug-17-2021
+f2adfedda8d4efee48c5138b1373b2d4e2cd7598,Mike Miller,mmiller@apache.org,Aug-16-2021
+baf7a6aca6f40be2c440ec5e794f9eeb37ac3285,Mike Miller,mmiller@apache.org,Aug-13-2021
+7db0561cac3d42ba09d1fb038dad1ff1a03afc46,harjitdotsingh,75006+harjitdotsingh@users.noreply.github.com,Aug-11-2021
+9ae9337fcf0aae732cd05fb88871196996c04242,Jeffrey Manno,jeffreymanno15@gmail.com,Aug-11-2021
+3da639ac6c49ad1b9671230e3443632d27887f75,EdColeman,dev1@etcoleman.com,Aug-6-2021
+8e309e987c8e565fa48ed82ac98e6990464ddbc3,Keith Turner,kturner@apache.org,Aug-5-2021
+bbe2de8a8c00eb0b7cc01766ac6e6db672bf8444,Keith Turner,kturner@apache.org,Aug-5-2021
+5d475b00eabf9aa419dbc49d5a49465633a61815,Keith Turner,kturner@apache.org,Aug-5-2021
+1e9ac217e36813b9f5a1d2c904ee790fbbea8f43,Shivakumar,47275182+Shivakumar-SG@users.noreply.github.com,Aug-4-2021
+a9100ac35f3d72677b767d7670dfb032c7e7d733,Keith Turner,kturner@apache.org,Aug-3-2021
+f503f1f6e66fe5657f305e18a65d07852ba035e0,Keith Turner,kturner@apache.org,Aug-3-2021
+5497d4fb3774e07d3fb2d8aa42427588ca67798f,Mike Miller,mmiller@apache.org,Aug-2-2021
+93bafa8f96d211ead5a09535d6d5aaf32145065d,Mark Owens,jmark99@apache.org,Aug-2-2021
+09e3d771ef11fcc2c2a8eb1d1b29b024d7da900f,Mike Miller,mmiller@apache.org,Jul-30-2021
+485114a4760028e70d2eb4ed23b795ed386fbaa1,Mark Owens,jmark99@apache.org,Jul-29-2021
+146b1d3d0dc2ade6f1888c9905d83e37d98aedbe,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jul-23-2021
+f0fe4acc3d2e4b83c72f831ac8feec9b0897cabf,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jul-23-2021
+7d176b60fc6a2ce28fcc3cfdc9a3b68684c76f87,Mike Miller,mmiller@apache.org,Jul-23-2021
+548b037c5917dc1e693733dc3d89599369d79103,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jul-19-2021
+f5df4f9681736d35e14b92c58033a1cf062b3d4e,Jeffrey Manno,jeffreymanno15@gmail.com,Jul-15-2021
+5a44af4cfed519e9fbd4fa036c6582b56bffd26f,classickartik,73540552+classickartik@users.noreply.github.com,Jul-15-2021
+f9f1d3f6578c400862e9f0e8d82a49bf9c4a5392,Jeffrey Manno,jeffreymanno15@gmail.com,Jul-14-2021
+ff835f28445d2e0a1221da78e3656ba4c8c1240f,Luke Foster,84727868+foster33@users.noreply.github.com,Jul-13-2021
+80c8ee78342cfaea978882c37ebfcfc4af990fa1,Christopher Tubbs,ctubbsii@apache.org,Jul-9-2021
+f2b0936029fcaadb925bd9c229403c82f0283211,Christopher Tubbs,ctubbsii@apache.org,Jul-9-2021
+df7e49e771683f73d228ca02af0c40f475ac90e0,EdColeman,dev1@etcoleman.com,Jul-7-2021
+7bbe579bff33e6173237e44eeaeead71f502a3e5,Luke Foster,84727868+foster33@users.noreply.github.com,Jul-7-2021
+908105bc8fddd64aa2d5907c22ccf2a232209306,Mike Miller,mmiller@apache.org,Jul-7-2021
+6250aa567dd2218bd4cc1ab7e08ba35ba3938193,Luke Foster,84727868+foster33@users.noreply.github.com,Jun-28-2021
+3b2cdb99aeb60dfcc58eba26b6620825aadb560b,Dave Marion,dlmarion@apache.org,Jun-28-2021
+04a4a7bcb5f6e7d38829c270b46c1484e4b42650,Mike Miller,mmiller@apache.org,Jun-24-2021
+89b411c391675cb3f1faed83f2dd4451b2ac6d12,Mike Miller,mmiller@apache.org,Jun-23-2021
+b8262a424db92729c89d6870ba5973386b9e3ea1,Christopher Tubbs,ctubbsii@apache.org,Jun-23-2021
+bb1ba1be40409aab67ca26d7e167155e439feecf,Dave Marion,dlmarion@apache.org,Jun-21-2021
+3e765b1f3b487092206cee036097820c37b7907e,Mike Miller,mmiller@apache.org,Jun-21-2021
+af87ed832eec9cb1b0f496c8ce32adb9584d2bc7,Dave Marion,dlmarion@apache.org,Jun-17-2021
+1fecdd378f2bc15955baa371ac9bb706bcc94dfc,Mike Miller,mmiller@apache.org,Jun-17-2021
+4251c283a41c300ea485ed23e7eebb09ba5fdea4,Dave Marion,dlmarion@apache.org,Jun-16-2021
+9d42e3bf4cb3650b72b680f91855eeda6ff6ee53,Jeffrey Manno,jeffreymanno15@gmail.com,Jun-16-2021
+8928c15c6607de0c837970e7addbe597df8c9b64,Christopher Tubbs,ctubbsii@apache.org,Jun-14-2021
+d3b912c06737ff83ee5086c55cea53163a040df8,Jeffrey Manno,jeffreymanno15@gmail.com,Jun-14-2021
+987fc0ca3dd17b2366eb86e213c9f8ed1e76fdb4,Christopher Tubbs,ctubbsii@apache.org,Jun-14-2021
+ef744cce9375e77fa64588d4b5f1f47b1d853ef2,Christopher Tubbs,ctubbsii@apache.org,Jun-14-2021
+dad7e01ae7d450064cba5d60a1e0770311ebdb64,Christopher Tubbs,ctubbsii@apache.org,Jun-10-2021
+cd58dbb0198601ffda5e1162a757648861c8ea14,Keith Turner,kturner@apache.org,Jun-9-2021
+92a4dd3874b906a87166ae329c7f8d33e74a5a93,Dave Marion,dlmarion@apache.org,Jun-9-2021
+99ca22da9e9233e41954cf57c0c33809aca24783,Luke Foster,84727868+foster33@users.noreply.github.com,Jun-8-2021
+58a559fa6ac7c5137b5cd1418b0de457f7cad2a9,slackwinner,50567198+slackwinner@users.noreply.github.com,Jun-7-2021
+3fd48747970710a119d870b76baadd8d9d69e181,Christopher Tubbs,ctubbsii@apache.org,Jun-7-2021
+4ea9bf1ac916d66896eaaba329da04714a1e8cba,Luke Foster,84727868+foster33@users.noreply.github.com,Jun-7-2021
+5d3344dbb488d602025ce8f2acb5f807969f45ec,Dave Marion,dlmarion@apache.org,Jun-7-2021
+7cc8607a7ba36d8637034fbaa45a340d6f42ba1f,Dave Marion,dlmarion@apache.org,Jun-7-2021
+3dc2bb736995ef9a4bd78eedaeda2e2c59585338,Dave Marion,dlmarion@apache.org,Jun-7-2021
+512325e1ab14351df7722ca1956b14c42fff90d7,Mike Miller,mmiller@apache.org,Jun-4-2021
+4c9ab5a8b765e3ac7e889abcf4238e0b8aa2eca9,Keith Turner,kturner@apache.org,Jun-4-2021
+d15f21e206e28e935ce27d68285a51600191a9cf,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jun-3-2021
+0fc268694880a6c9c76880ecc6881b4bfeb311de,Jeffrey Manno,jeffreymanno15@gmail.com,Jun-3-2021
+26821c1926a3b48943f3231725f8e2e0735d05fb,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jun-3-2021
+7cbeb67f101d274a2d680f46bf452026a9ce4942,Dave Marion,dlmarion@apache.org,Jun-3-2021
+cd2dfa12943a1fce279c8399c68e1b7f4f752958,Dave Marion,dlmarion@apache.org,Jun-3-2021
+8a804b5f390bcd38d6369db040faf9cca39cc204,Dave Marion,dlmarion@apache.org,Jun-3-2021
+8d4042700c59019fb4c02a3b507fb82f1bef7b91,Dave Marion,dlmarion@apache.org,Jun-3-2021
+f906510eb3e32fa9b6f4f3d8257f15c7379162fd,Mark Owens,jmark99@apache.org,Jun-2-2021
+196fda5374b15f897255563168ac428d1126f55f,Jeffrey Manno,jeffreymanno15@gmail.com,Jun-2-2021
+c11ee7bc71a7212a0ba009e8df419e5427a5c136,Mark Owens,jmark99@apache.org,Jun-2-2021
+8a636a3ba91f5dae1d8b09b095178889a7d79c1d,Dave Marion,dlmarion@apache.org,Jun-1-2021
+74a0d5e9276946c5266e5cc452370660871ace5f,Brian Loss,brianloss@apache.org,May-28-2021
+adcc34e2a937002f54fb8010998550a95d60c77b,Dom G,47725857+DomGarguilo@users.noreply.github.com,May-27-2021
+45f57471d8a6b983d62edc4088af62c8f5373bb5,Keith Turner,kturner@apache.org,May-26-2021
+b15fbf337dabea6df3357982400abc9a1264acef,Mike Miller,mmiller@apache.org,May-21-2021
+af2d2d630094fc06e0ac1d6702a9a49d30ec1e94,slackwinner,50567198+slackwinner@users.noreply.github.com,May-18-2021
+763cf4fae5d93aff96a06458f98dfe7296b5b882,Mike Miller,mmiller@apache.org,May-14-2021
+0c8be59a6c1a8024e3af9c2790ea58fc69c1ae7e,Christopher Tubbs,ctubbsii@apache.org,May-13-2021
+e7dd6f9a0a9b253e3c8c1b9fcb907be799f2f893,Keith Turner,kturner@apache.org,May-13-2021
+1a2ef83cd7159b78f33377d917799c6ad299c9e2,Mark Owens,jmark99@apache.org,May-13-2021
+4a1844c8e8557ed5cd275cce61c5035c368ff9a0,Christopher Tubbs,ctubbsii@apache.org,May-13-2021
+347c9842a4c056e21cf7b856a50a51c3fe8b4fdd,slackwinner,50567198+slackwinner@users.noreply.github.com,May-13-2021
+92c812cc5655a0ff0a9c7fa7e578de2586d58d5c,Jeffrey Manno,jeffreymanno15@gmail.com,May-13-2021
+c0c1837592a23971a27712667bf57937d5019d77,Christopher Tubbs,ctubbsii@apache.org,May-12-2021
+f59e09af6464dae7650844edecd829144952824e,Christopher Tubbs,ctubbsii@apache.org,May-12-2021
+ef253ee922f85dc9d7aeae971fef7dbb740e4216,Christopher Tubbs,ctubbsii@apache.org,May-12-2021
+5b1c0b54e33ee108a45b2126bd194472703822f2,Dave Marion,dlmarion@apache.org,May-12-2021
+9c1477271296e1d47c13d6c38c0efbaa50b0e4d3,Dom G,47725857+DomGarguilo@users.noreply.github.com,May-12-2021
+19cbf4596773b27de0a9267556efcf0b7f12fad3,jjmar11,80709086+jjmar11@users.noreply.github.com,May-12-2021
+3c039c75ba257c9ff47e0b09be53ef12665ddc74,Mike Miller,mmiller@apache.org,May-12-2021
+a28b27a442f919dc94bfa1483f1361ba2a08c6c8,jeff,jffry.schmidt@gmail.com,May-11-2021
+714c5bbacb4f703a70b95c4304aff86815adf52e,slackwinner,50567198+slackwinner@users.noreply.github.com,May-11-2021
+be861e6d49dc7c24336ea4d787bf60e5a8557afe,EdColeman,dev1@etcoleman.com,May-11-2021
+a0af230ab65039ba4eda5e2d6ee415f89f08914c,EdColeman,dev1@etcoleman.com,May-10-2021
+afc85ae53bd0a7f65a5588a64a1ce477b895e179,Mark Owens,jmark99@apache.org,May-10-2021
+6a0a5ee30788f9f606166b8391b22c23d65071dc,Mike Miller,mmiller@apache.org,May-6-2021
+d0f738cf62fce03c546f72981016e8169e4d3f61,nicolasalarconrapela,nicolasalarconrapela@gmail.com,May-5-2021
+7dc54362fca1369f18c2057b57302886360beee1,EdColeman,dev1@etcoleman.com,May-5-2021
+16a3cec36981a694ecdfbefb839ecf9ddd70a535,Akshit Mangotra,57808363+Akshit6828@users.noreply.github.com,May-5-2021
+552fd33407f9346fba45525f3abb36864de2ea09,Jeffrey Manno,jeffreymanno15@gmail.com,May-4-2021
+6094a537421f7b2d328c8d1d016a2bf830743d4c,Mike Miller,mmiller@apache.org,May-3-2021
+77782030dbe674accf2c7d221b193e9593ae31b0,Himanshu,addyjeridiq@gmail.com,May-2-2021
+4f35e6aff1763d4b19d1e93036260094b47cc589,hguercan,hasan.guercan@gmail.com,May-1-2021
+c74e2ead8a586c5cad1f43e65eb5e318e0f6512b,hguercan,hasan.guercan@gmail.com,May-1-2021
+f35ca738a018004fa117fca216ede2f46df16dcf,EdColeman,dev1@etcoleman.com,May-2-2021
+17c017471a263edeb456b9a60d8d10b89f60ce85,Amisha Sahu,58816552+Amisha328@users.noreply.github.com,May-2-2021
+97fe15cd0e109f9d21f0a1bf12aa9190b9dc4e59,Christopher Tubbs,ctubbsii@apache.org,May-1-2021
+747c48a0b4cb27092b0d50ddb01670118acb16c5,ljana,jlawynn@gmail.com,May-1-2021
+c180b344789fc74c7f5d2387c8a49f71df8e5892,Umang goyal,goyalumang910@gmail.com,May-1-2021
+323bbea9a48930a6aa39546dc7f15943a1574e60,alimustafashah,syedmuhammadalimustafa@gmail.com,Apr-30-2021
+4213d76c2b5fcbeeb4163db04c1fb8b7226cfe22,Mike Miller,mmiller@apache.org,Apr-30-2021
+2831c292fdb714b02b779531851b940b1179d92f,sjyang18,41694933+sjyang18@users.noreply.github.com,Apr-29-2021
+4383b41b97d7780734972f3ede38abf1ef4c8055,nicolasalarconrapela,nicolasalarconrapela@gmail.com,Apr-29-2021
+35319d441f699178d5facb1b71d4279e6bdfe3e0,Mark Owens,jmark99@apache.org,Apr-29-2021
+d3b41fc0ac5da70aab86e6fb95852353b9a167aa,Mike Miller,mmiller@apache.org,Apr-28-2021
+da2b0997421feb709b280020e940689cff2dc2bb,Mark Owens,jmark99@apache.org,Apr-28-2021
+032bfdc72fc3f4ef36f2a07311f53639cf7551c5,Umang goyal,goyalumang910@gmail.com,Apr-28-2021
+9afab2c1b931d100ed6bad5cfe028c28da944427,alimustafashah,syedmuhammadalimustafa@gmail.com,Apr-27-2021
+f9bc91405ea4fb166d50d28a26d438265af5b554,slackwinner,50567198+slackwinner@users.noreply.github.com,Apr-21-2021
+5c4e1962097584e4b4269def73bce6be54c2493b,Jeffrey Manno,jeffreymanno15@gmail.com,Apr-21-2021
+70e1be41ae5f73fcb669f822674a1440262fe6a9,Christopher Tubbs,ctubbsii@apache.org,Apr-21-2021
+631386de49bbc351411ce0e3c49982f1df998fe9,Ivan Bella,ivan@bella.name,Apr-9-2021
+fb16d7c4d777d7927776181ed372c5bba228bb5b,Ivan Bella,ivan@bella.name,Apr-9-2021
+8bb474908817228b51571f80c342b8f7ea9e2f9b,Ivan Bella,ivan@bella.name,Apr-7-2021
+8dfe443af55f5d3aacb12fb38c5002dcb61cb772,Christopher Tubbs,ctubbsii@apache.org,Apr-19-2021
+dd0d88eb664fc60714a7283b357a51afaad3b899,Christopher Tubbs,ctubbsii@apache.org,Apr-16-2021
+1dc21016654dc4d8a66178540fe2ce8012deb5be,Christopher Tubbs,ctubbsii@apache.org,Apr-16-2021
+af955c87990463dd49c0225041fba458adb333c8,Karthick Narendran,karthick.narendran@gmail.com,Apr-16-2021
+30ce59fd94f51b60a30ced328156f02d3223330b,Christopher Tubbs,ctubbsii@apache.org,Apr-15-2021
+8178098c78fc6bd9b4f86264b977083dec219865,Christopher Tubbs,ctubbsii@apache.org,Apr-15-2021
+ebf743c7e7f048c448803491471a53722ad783be,Christopher Tubbs,ctubbsii@apache.org,Apr-14-2021
+a3d5a291f72cda613cda431452b8cea2f21bbe07,Christopher Tubbs,ctubbsii@apache.org,Apr-14-2021
+d68bab12c1567f8559931e35f97cc8a61f2a1302,Christopher Tubbs,ctubbsii@apache.org,Apr-13-2021
+11e258d4ad90b922699e22f1e4ee01c67fcddbc8,sjyang18,41694933+sjyang18@users.noreply.github.com,Apr-12-2021
+183387ab6de5c82ed23f9b236a76ea7fce669be4,Mike Miller,mmiller@apache.org,Apr-9-2021
+7957d67b0a0d5571a9174660e6353c9cb421e188,Jeffrey Manno,jeffreymanno15@gmail.com,Apr-9-2021
+30fd56eb3e0ef5f6cd3d7c86c2c133b48eb53f21,Ivan Bella,ivan@bella.name,Apr-7-2021
+2d126407ee960894611ee3044e4cf92036185048,Ivan Bella,ivan@bella.name,Apr-7-2021
+aab34a980d7a9ccad63797913b99b331c5cbbaae,Jeffrey Manno,jeffreymanno15@gmail.com,Mar-31-2021
+391b399e7a9b16a30d1fd3e58263798e31f8c7c0,Mike Miller,mmiller@apache.org,Mar-30-2021
+b0fe6cf85d17ccb6a7290a07e731cf5675d7d2ba,Mike Miller,mmiller@apache.org,Mar-30-2021
+7de7928274b2dca59095957e62d9356dc4b64034,Mike Miller,mmiller@apache.org,Mar-29-2021
+1dc72fce2c781dee597c8c11876a3bc6c321c199,Christopher Tubbs,ctubbsii@apache.org,Mar-23-2021
+6e30475419e49e5c5f8d8f03c1f00fc55ebf39cd,harjitdotsingh,75006+harjitdotsingh@users.noreply.github.com,Mar-23-2021
+c63063081e0f87ae5a61a93bda93046648b1e866,Jeffrey Manno,jeffreymanno15@gmail.com,Mar-18-2021
+549b5d3f7481de6064b4dc77481e718529440f6b,Dom G,47725857+DomGarguilo@users.noreply.github.com,Mar-16-2021
+99cd57530054ee0ca2b3cdb6389f72d05a4175b3,Jeffrey Manno,jeffreymanno15@gmail.com,Mar-16-2021
+a77edef9a22fa662b78dce211be6c17f59d6060d,Dave Marion,dlmarion@apache.org,Mar-8-2021
+f4a11230bbc881b6eeede73f1711143b08cb0949,Dom G,47725857+DomGarguilo@users.noreply.github.com,Mar-8-2021
+9b504121dd69bf033dced56adb55d727b0eafdc4,Christopher Tubbs,ctubbsii@apache.org,Mar-8-2021
+0a09c287e48485a4909fcdb5343db269898eec80,Christopher Tubbs,ctubbsii@apache.org,Mar-8-2021
+05a4fc0faba94b0cc8dd335aafb1e282f5f22f35,Christopher Tubbs,ctubbsii@apache.org,Mar-6-2021
+51e18e20ff7e4bdd8d164c99ec8551136d31dc37,Christopher Tubbs,ctubbsii@apache.org,Mar-6-2021
+90055da248ab183c4a5604fa683239e39ae1f6b0,Christopher Tubbs,ctubbsii@apache.org,Mar-5-2021
+0781550076f04d12716650fd64881d8b9d041afa,Mike Miller,mmiller@apache.org,Mar-4-2021
+58aa28ee2a7f4f35e4419a5bbae8ad01acf04a43,Dom G,47725857+DomGarguilo@users.noreply.github.com,Mar-4-2021
+3bbc77de13aa6cf0b849f7b28ec08cb6e6b843e9,Mike Miller,mmiller@apache.org,Mar-4-2021
+b12d1103d788473168616f28ae87a65bb76aa880,slackwinner,50567198+slackwinner@users.noreply.github.com,Mar-2-2021
+2a4226b4503a45ca4e4fb736c83997751108e07c,Mike Miller,mmiller@apache.org,Feb-26-2021
+7e3c67d0c0b831d7d29c69e24d07dd700f24c5e0,Mike Miller,mmiller@apache.org,Feb-25-2021
+05abf9fefbb9de46f7d27b6f93d1a6a839dc6963,Dom G,47725857+DomGarguilo@users.noreply.github.com,Feb-25-2021
+a8db76146740770fe86a84ff5428b15f5c8e7e68,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-25-2021
+a17397d31808b29915c53b75e0041c371b5de6f8,Mike Miller,mmiller@apache.org,Feb-25-2021
+8718d0252e64b51a04df2188d373440d5ca26290,Mike Miller,mmiller@apache.org,Feb-25-2021
+65c451aff187560e85598997ab60c581e60da14d,Christopher Tubbs,ctubbsii@apache.org,Feb-25-2021
+589c1bcb29c7589dd3505cbea0d091f513266c65,Christopher Tubbs,ctubbsii@apache.org,Feb-25-2021
+701e17949465ced573e8773cc737c1a161cf5c46,Christopher Tubbs,ctubbsii@apache.org,Feb-25-2021
+2b1410a06059b28deb42ba60236fa38b0c69624b,Mike Miller,mmiller@apache.org,Feb-24-2021
+97ac5c488217f5c17a7e5dfcf78fa4f73ec10c2d,Christopher Tubbs,ctubbsii@apache.org,Feb-19-2021
+10520766da991746df86cb94e4acf94a39d00747,Mike Miller,mmiller@apache.org,Feb-19-2021
+f18a83d48cef3a53c9975358217bf702182ae087,Mike Miller,mmiller@apache.org,Feb-19-2021
+e6cc640216e22075c205efeb6ba784a5af720c60,Mike Miller,mmiller@apache.org,Feb-18-2021
+287a1bd4c9729ad3b738db91942f3841e852d523,Mike Miller,mmiller@apache.org,Feb-17-2021
+970b0547cc9ae46fc5f95130b407bb36fc9521a9,Mike Miller,mmiller@apache.org,Feb-17-2021
+925d17bdd72cf1bbdd0d693d31e58b02fb7d6eab,Mike Miller,mmiller@apache.org,Feb-16-2021
+3a1d7404b2dc8d910c8a340c19a5326ae2e3cd23,Mike Miller,mmiller@apache.org,Feb-16-2021
+4b3a3b98d8916dc49f0ce54f6b8dca7b9473dc29,Mike Miller,mmiller@apache.org,Feb-16-2021
+0d5ea4b51e5f781c35280789d281817d4bb730ee,Mike Miller,mmiller@apache.org,Feb-12-2021
+dfd510d22ec48cae8d01752fcde0d82aef689660,Christopher Tubbs,ctubbsii@apache.org,Feb-11-2021
+7222e60b078020798581fc9aa5eebf3c9df27a2b,Christopher Tubbs,ctubbsii@apache.org,Feb-11-2021
+1a5b46ee98d22b0b4c29b8e5c79716a8c4b4826c,Mike Miller,mmiller@apache.org,Feb-11-2021
+f2ecaf6eae52f3fa4a8e3feb01ee0827a8140e50,Brian Loss,brianloss@apache.org,Feb-11-2021
+2ff2618b1c49d01a3ded44173b522c5670cfdeac,Mike Miller,mmiller@apache.org,Feb-11-2021
+fbdbda9c666a989ea5a5b8270f0ca02d4ec30e58,Mike Miller,mmiller@apache.org,Feb-11-2021
+c7b1d857eba85e4c246dd5e8350bfb6f2419757d,Christopher Tubbs,ctubbsii@apache.org,Feb-10-2021
+ec8c4c606241f2ce0e2f603724b8be48817dec44,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-10-2021
+3edd539ca290598c9f39dd226c595fcd6367b89c,Mike Miller,mmiller@apache.org,Feb-10-2021
+a75dad45d4a6e1e78f5e22f19eacaafa7f7c430e,Dave Marion,dlmarion@apache.org,Feb-10-2021
+09eef7b32da3d1c70709483c5c5a1645e3c64a44,Brian Loss,brianloss@apache.org,Feb-9-2021
+2bc241531f4945b5eacb0893445673f0904c821f,Mike Miller,mmiller@apache.org,Feb-8-2021
+daa6985409618e6242cbaf693a908d94abd55d9e,Mike Miller,mmiller@apache.org,Feb-8-2021
+c00fb38f9bc0da353a8fcfb5e7ca47146034120d,Brian Loss,brianloss@apache.org,Feb-8-2021
+cafc67182eb656e2495ce8dbc2d40cfcb844b929,Dom G,47725857+DomGarguilo@users.noreply.github.com,Feb-5-2021
+e6164901a3acdd464a7a9beff0126097b53fc06f,Brian Loss,brianloss@apache.org,Feb-5-2021
+8f18db4e3c1c4ba3fffffe6b32743e7772686526,Brian Loss,brianloss@apache.org,Feb-5-2021
+833d56acb389c50c5483e23e0242651f13650288,Keith Turner,kturner@apache.org,Feb-4-2021
+4bdbbd27b05e64a541de998ba76faf327521ef0a,Dom G,47725857+DomGarguilo@users.noreply.github.com,Feb-4-2021
+8bc4c5147e70c3372c24a98e4d421c0305e390f4,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-4-2021
+df85cfe6a51b2e2a025f7a6904910da4ac328e84,Christopher Tubbs,ctubbsii@apache.org,Feb-4-2021
+2dacbc33a220cdd989e31f51b662470d4052ad80,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-4-2021
+675e41aaed0f8ae250d97a10dad35a8aef4c3e82,Brian Loss,brianloss@apache.org,Feb-4-2021
+95a8df18049118fcf3b5564e325a08af47e0a964,Brian Loss,brianloss@apache.org,Feb-4-2021
+dd0dfd89c84e92659c971705777bbf902d32e82a,Dave Marion,dlmarion@apache.org,Feb-3-2021
+0a074b4ee545d4a5d851df49ec0233f2fdc426e5,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-3-2021
+eb6f5efb18359af3f4e28e7ca6e3e275ca47292e,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-2-2021
+27ed66bcc36fa49117c4b1d84ca7321ce2cc8e81,Christopher Tubbs,ctubbsii@apache.org,Feb-1-2021
+f7db1750938a748b7a9c024ea2c52276c8c54894,Christopher Tubbs,ctubbsii@apache.org,Feb-1-2021
+68af47a1786714c3a6d22d975bceacd58fffa513,Jeffrey Manno,jeffreymanno15@gmail.com,Feb-1-2021
+fd70e086bf4d9add11d7bc1cef1d2b30954e9efa,Dave Marion,dlmarion@apache.org,Feb-1-2021
+fd001c9ec3a55aa6427667c4143f1d6772739c86,Mike Miller,mmiller@apache.org,Feb-1-2021
+8ed8ff6b3129294ca47b9fd6ef9f57a8cbc79650,Mike Miller,mmiller@apache.org,Feb-1-2021
+b8dac789fbf637e16992257f668ef6aaeeff1a83,Mike Miller,mmiller@apache.org,Feb-1-2021
+6af856b38bb57f49418547a8b9c262c66a1fe31e,Mike Miller,mmiller@apache.org,Jan-27-2021
+ed97eac76da47f711f8f901810cc9d4d8fb27214,Mike Miller,mmiller@apache.org,Jan-27-2021
+ecddf35a9e84be668caf0837166abc07ff67594a,Mike Miller,mmiller@apache.org,Jan-26-2021
+300c933baa5800fd3bdcee2793dd416aeb26a9e6,Brian Loss,brianloss@apache.org,Jan-26-2021
+9fdfaff15bfb1a1ec91512c3e9d08b5bdb45efb1,Mike Miller,mmiller@apache.org,Jan-26-2021
+2db6d444196986b6db838cd980735bd9ad9040f3,EdColeman,dev1@etcoleman.com,Jan-26-2021
+1ac4f93a1db76b1edbfde809cc0e39ca91a17c59,sjyang18,41694933+sjyang18@users.noreply.github.com,Jan-25-2021
+680886a61158fe0906424f9fe43c2916f1f9f48f,Christopher Tubbs,ctubbsii@apache.org,Jan-25-2021
+48e483b6fab9006a224b4630dfdc3449110cb9a0,Mike Miller,mmiller@apache.org,Jan-22-2021
+62b95a927cabad8587cc4b78113bd1a03471cac1,EdColeman,dev1@etcoleman.com,Jan-22-2021
+06251dba99a8655c0db6786866447a6995976eb2,Mike Miller,mmiller@apache.org,Jan-21-2021
+0bfa4251930dc763ffabd9c2ece4b45f36ae6bc9,Keith Turner,kturner@apache.org,Jan-20-2021
+24b4ab4c784dfa82c14f37d75e2553517c015d8b,Jeffrey Manno,jeffreymanno15@gmail.com,Jan-20-2021
+bbd87a6693fc5cdbbe947b0821a4f05a18cf905b,Dave Marion,dlmarion@apache.org,Jan-19-2021
+e62ace6a9d37572d95999f5412c6148efbba50b9,Dave Marion,dlmarion@apache.org,Jan-19-2021
+a2f437fc8d9eeff4e9e4a704d5797309720c5e0c,Christopher Tubbs,ctubbsii@apache.org,Jan-16-2021
+bdcab448b5c4fb44118197615fe2e231816da01c,Brian Loss,brianloss@apache.org,Jan-13-2021
+018756754ff0f289a8b30f846af8b7092270318d,Brian Loss,brianloss@apache.org,Jan-12-2021
+9f549b2fe19666138290913f5660f8bcc83e9f51,Mike Miller,mmiller@apache.org,Jan-12-2021
+076f1b313da3151abfaf1a37eb6d11f42fdb7929,Mike Miller,mmiller@apache.org,Jan-12-2021
+3e23ad8eb0e8309b71811ded490603343f070f79,Keith Turner,kturner@apache.org,Jan-12-2021
+2f7c87170afa100b8add6206d76effe19e7518e4,Keith Turner,kturner@apache.org,Jan-12-2021
+7e989899243a770d84bf1a71368f0252f9b5cd00,Brian Loss,brianloss@apache.org,Jan-8-2021
+0f7b66dcf9391ed49c4b79d85227d1c0771b6ff1,Brian Loss,brianloss@apache.org,Jan-7-2021
+81e36d04f1c4aeeedaed14c1b1fd78c73c15b4e9,Christopher Tubbs,ctubbsii@apache.org,Jan-7-2021
+e6bba1cd4efcbd1cc62c7d522ab7389dfde97025,Brian Loss,brianloss@apache.org,Jan-7-2021
+7ad161ed29bc7d15f40785eb7b4e6c668adc9d5d,Brian Loss,brianloss@apache.org,Jan-7-2021
+15fcdbbbcbe4fb2589452a1e61ba57d9cdcbe158,Karthick Narendran,karthick.narendran@gmail.com,Jan-6-2021
+2b3abc2a6e251451cb3c8a13c8a9b279235143c8,BukrosSzabolcs,szabolcs@cloudera.com,Jan-6-2021
+e51a611f6cc0faebd7261bb2eb197ee86f71e429,Keith Turner,kturner@apache.org,Jan-6-2021
+2532a002eb60dee141214938d5088b05438b651d,Christopher Tubbs,ctubbsii@apache.org,Jan-6-2021
+0aff4d26a19efc17c2bb125ecaa67620a167a7e5,Mike Miller,mmiller@apache.org,Jan-5-2021
+ede736f214dbab5ca272240b41019bb12ea3725c,Christopher Tubbs,ctubbsii@apache.org,Jan-5-2021
+376910eb26e51d7361f3852705a954ad998e4c6b,Mike Miller,mmiller@apache.org,Jan-4-2021
+dd637c350b388e31aadad85f3616f6f0a1d07272,Dom G,47725857+DomGarguilo@users.noreply.github.com,Jan-4-2021
+658cd00f0448e48c942df21dc526049f33901f62,Christopher Tubbs,ctubbsii@apache.org,Dec-30-2020
+6bf3f406481a392c5bcffc15d44ccdfd52c2b577,Mike Miller,mmiller@apache.org,Dec-30-2020
+9a7749f397a410b8c8692d308ccb24ae499709b5,Christopher Tubbs,ctubbsii@apache.org,Dec-29-2020
+3e3b199908bb5c6a8fea4b9562a3424671596d4e,Christopher Tubbs,ctubbsii@apache.org,Dec-29-2020
+20ac9fcefa8b13ab3c02c33deb5fbe329870d660,Christopher Tubbs,ctubbsii@apache.org,Dec-23-2020
+1768515aeb53ee6cdc669d821aab25bedf8c412f,Christopher Tubbs,ctubbsii@apache.org,Dec-22-2020
+6ee740fd9dc034d19ab5781ac7813201d1c6c7a9,Christopher Tubbs,ctubbsii@apache.org,Dec-22-2020
+de4df0e612bba79156e490d80b8521370eca0e41,Christopher Tubbs,ctubbsii@apache.org,Dec-21-2020
+76247b1739dd3042cb2d959a7a99f0cf1bcb1324,Christopher Tubbs,ctubbsii@apache.org,Dec-21-2020
+435f18429a117ea1b7bd0f3cb821d8d6c9674281,Jeffrey Manno,jeffreymanno15@gmail.com,Dec-15-2020
+877ad502f6857e48342664e4b0ce83db74e4cda4,Christopher Tubbs,ctubbsii@apache.org,Dec-8-2020
+024a72ed8b80c21470ab2eed04787e3216b7b606,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+6ceb00655800dbc5b3d1cf16c1d18570c347a610,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+775b9fc38388f006127de90720f0103a93cc08ad,Christopher Tubbs,ctubbsii@apache.org,Oct-7-2020
+dc7277bea764d6172ddf26a0d4dfe3eac31a2823,Christopher Tubbs,ctubbsii@apache.org,Dec-19-2020
+cd8710aef962d89eb07bb406596bd0cd22b4da29,Christopher Tubbs,ctubbsii@apache.org,Dec-17-2020
+2ede18d4d00e48300e289666069aaa44ec341ff6,Christopher Tubbs,ctubbsii@apache.org,Dec-17-2020
+243e5771b03281c64115a625da83a20cd586adde,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+0773baac791ab2055d949bd62948d2ba39cca1a3,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+185fc90dcc8e738f2f77b9668a1f918bc5b8e4b0,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+c9ffa664a31fb577193c6e02605a04d388599649,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+ff7c8510b308191cb791248f895752e2f11c4898,Christopher Tubbs,ctubbsii@apache.org,Dec-16-2020
+8433b587a674343253626a7f498eb38b76b8556e,Jeffrey Manno,jeffreymanno15@gmail.com,Dec-15-2020
+357c54c677b662497f4d417de88e14a38fe18c7a,Christopher Tubbs,ctubbsii@apache.org,Dec-15-2020
+d4fd27f32dc2611a23f67b1d3e8dafd8ee05a1cb,Christopher Tubbs,ctubbsii@apache.org,Dec-15-2020
+1750cd7df7990e24b717dbefe57d6d7f08faffcf,Dave Marion,dlmarion@apache.org,Dec-14-2020
+12395eeec06bc88d9a530ccc9927d924eb8108e8,Christopher Tubbs,ctubbsii@apache.org,Dec-10-2020
+5fca90dc8f359dcaa0e8d345ff55e306365f5699,Dom G,47725857+DomGarguilo@users.noreply.github.com,Dec-10-2020
+d4c21f80843483a74a53477b8952d53e39c80d5d,Christopher Tubbs,ctubbsii@apache.org,Dec-10-2020
+babb1d9e559a78577fbe763181043715e572bfa5,Christopher Tubbs,ctubbsii@apache.org,Dec-9-2020
+d9ed7b411c9ca686c89870a363ca199042057d2d,Christopher Tubbs,ctubbsii@apache.org,Dec-9-2020
+db9e626a59930018a57f0dd996d55136b484b8dd,Christopher Tubbs,ctubbsii@apache.org,Dec-9-2020
+848c60a324cf127393438fc4a0302028f9c154b4,Christopher Tubbs,ctubbsii@apache.org,Dec-9-2020
+56142a89952533fef922fa86739a879c073e7c2a,Jeffrey Manno,jeffreymanno15@gmail.com,Dec-9-2020
+3b23f6af17ddc0da76fd4756a4c45c72aea50730,Christopher Tubbs,ctubbsii@apache.org,Dec-9-2020
+c2c47b3127fa897edfad125687fc08b4821d9541,BukrosSzabolcs,bukros.szabolcs@gmail.com,Dec-8-2020
+1fa84ae2ea7b40081a2c1a94a560cda2f91b5f36,Christopher Tubbs,ctubbsii@apache.org,Dec-8-2020
+b263b863335f22b4a0f54479444b5b84ef0db9e8,Mike Miller,mmiller@apache.org,Dec-8-2020
+b8fd34907155df4d69202b95183b3934ca660d95,Mike Miller,mmiller@apache.org,Dec-8-2020
+58b9de18eb51e91aa9f01338ef5772ca92e329e6,Christopher Tubbs,ctubbsii@apache.org,Dec-8-2020
+8908b56fa1fd36cb2bf54f4ce7dbbd579c52955f,Christopher Tubbs,ctubbsii@apache.org,Dec-8-2020
+b93c678a2eb0b5c974689b9999426aec9735c498,Christopher Tubbs,ctubbsii@apache.org,Dec-8-2020
+c29c102b2de156d3ffdbc204271d602706b2339d,Dave Marion,dlmarion@apache.org,Dec-4-2020
+55ed4c19b0b514bfb7397f09a3a37f0bbbc7bbde,Christopher Tubbs,ctubbsii@apache.org,Dec-4-2020
+391cfbff3a29f735fb80ddd0695f50b06dd72f28,Christopher Tubbs,ctubbsii@apache.org,Dec-3-2020
+ffa8044a60b6a439132971372ca7e6751d06de49,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-2-2020
+ca58658cce43d4758fe3b0dfcc0653cb11791850,Dom G,47725857+DomGarguilo@users.noreply.github.com,Nov-30-2020
+6db70dd33f475ebedbb8a251744f98e04baeb8a1,Christopher Tubbs,ctubbsii@apache.org,Nov-30-2020
+6f823aaab55e69761b960b9629ba4e28c14e0d5c,Christopher Tubbs,ctubbsii@apache.org,Nov-30-2020
+d552c562cd76ee6527991a96efc9587333406014,Christopher Tubbs,ctubbsii@apache.org,Nov-30-2020
+68acf9f101efeaf3a612b39e898a3a58090470fa,Christopher Tubbs,ctubbsii@apache.org,Nov-26-2020
+27ea8a1e21428eb8c0d0fe8eb4bf5241015a8721,Christopher Tubbs,ctubbsii@apache.org,Nov-26-2020
+7e2e09e0656d40adce178420be8e66cffee0a4f2,Christopher Tubbs,ctubbsii@apache.org,Nov-26-2020
+61840580b448b68d7af67bfb8440db00cedebd0e,Christopher Tubbs,ctubbsii@apache.org,Nov-26-2020
+0cd52e9854f9972550f2bb494697d39c1cd5665e,Christopher Tubbs,ctubbsii@apache.org,Nov-25-2020
+64e01c8d339dece29cc51c0630c5cc62e0ac9bda,Christopher Tubbs,ctubbsii@apache.org,Nov-25-2020
+f279ae8aa5abde0511fdfefbcfc7338e17f4f7ec,Mike Miller,mmiller@apache.org,Nov-24-2020
+d33e07a12f08063d33dfbeb9e8b6aa95afe0f2f4,Christopher Tubbs,ctubbsii@apache.org,Nov-23-2020
+44325585c2bd8aed0a3ac87a84f44e7b6755d435,Laura Schanno,lbschanno@gmail.com,Nov-23-2020
+1749dce19afbcd04374f8ae09084304ba6728cbb,Mark Owens,jmark99@apache.org,Nov-22-2020
+a19e20760c166130741ef82b782cff7de031816c,Mike Miller,mmiller@apache.org,Nov-20-2020
+a7a96b8a832e662780f8732600331709ace1d65d,Christopher Tubbs,ctubbsii@apache.org,Nov-19-2020
+f4dad97122051a64d01e187f43e5c654de2558ff,Jeffrey Manno,jeffreymanno15@gmail.com,Nov-19-2020
+42395a00cd1f442008734ca1d770260666422778,Christopher Tubbs,ctubbsii@apache.org,Nov-19-2020
+74afbabb06ba319cbb3968f30dcca58aa67fa070,Christopher Tubbs,ctubbsii@apache.org,Nov-18-2020
+6f75eea4c0a823680aa0205e7d941fe2710a2692,Dave Marion,dlmarion@apache.org,Nov-18-2020
+8f688fdf71df2ed1b7965f32de4242f8a34b60d4,cradal,20303105+cradal@users.noreply.github.com,Nov-18-2020
+5cb30ed0e9a7f3d481ea49dd126d64cc7ab9ef53,Mike Miller,mmiller@apache.org,Nov-16-2020
+7ee4a2da58a923543495e9f10b40a5669e92f57c,Mike Miller,mmiller@apache.org,Nov-17-2020
+cccac86255cd2d0ecd49e791162ca5cdf07512b6,Mike Miller,mmiller@apache.org,Nov-17-2020
+7d678ab86c2820c6b90b4ec772bfb0742f1df486,Mark Owens,jmark99@apache.org,Nov-17-2020
+6bdda648309991149c786b0bcd005533e80456b7,Christopher Tubbs,ctubbsii@apache.org,Nov-17-2020
+98dc6cb41a7f70b1eff9fe80579e7cea5aeda4f3,Dave Marion,dlmarion@apache.org,Nov-17-2020
+28ba8434334293d4bff9683464b293cd4540c245,Christopher Tubbs,ctubbsii@apache.org,Nov-16-2020
+9c8bb334c00637514c41f04c6abeca1ec6e20711,Christopher Tubbs,ctubbsii@apache.org,Nov-16-2020
+18614737b35635b35bb704b503effd07f8ebfe11,Mike Miller,mmiller@apache.org,Nov-12-2020
+fe4d4d1f8d9a7c62a5372b6adacfa6d9f55a9900,Mike Miller,mmiller@apache.org,Nov-12-2020
+7e563c8e9ef94991efe3fde12f48b2e8e68cd964,Mark Owens,jmark99@apache.org,Nov-10-2020
+18ba45e144ea8213a9637fe36bf0d8a68c3f15f5,Christopher Tubbs,ctubbsii@apache.org,Nov-5-2020
+46ee51d0c6afe9910873f55653017b91c45a345a,Mike Miller,mmiller@apache.org,Nov-4-2020
+5e0bbfcf7fe74a41cc3283d3f255162a5900c671,Jeffrey Manno,jeffreymanno15@gmail.com,Nov-4-2020
+a1054168278e81045b7d3850cf5a7208deb0a7fa,Christopher Tubbs,ctubbsii@apache.org,Nov-4-2020
+d7ca701f62e15d17a29be8f629a3c8cce826da37,Christopher Tubbs,ctubbsii@apache.org,Nov-3-2020
+de7b42f1c529b6475eabfbe0516ad652c543fa81,Christopher Tubbs,ctubbsii@apache.org,Nov-3-2020
+0168e8f9265696d4f6a00afcc9bd329bb0610a90,Keith Turner,kturner@apache.org,Nov-3-2020
+02f778a87bc74659dac45b9caf278bd7267e0dad,Mike Miller,mmiller@apache.org,Nov-3-2020
+d1b06d317983d460039861d4ab462d5a65ca3c11,Keith Turner,kturner@apache.org,Nov-3-2020
+a2b476e68f6dec17df9ec75cc56b888c4442cb39,Keith Turner,kturner@apache.org,Nov-2-2020
+e929e41d031ecf61cb5d24ddd2527fdd2d822ee5,Christopher Tubbs,ctubbsii@apache.org,Nov-2-2020
+3f47da1777f5d059d42d7706574ee3fd9882006b,Mike Miller,mmiller@apache.org,Nov-2-2020
+d820360b975de759b1575d68456e69c828225a85,Mike Miller,mmiller@apache.org,Oct-30-2020
+ea5fa7d1da90da9dfe1128c9561022d310102777,Mike Miller,mmiller@apache.org,Oct-28-2020
+252897d7e59bd8da8dd351a42e1c822008f08d8e,Mike Miller,mmiller@apache.org,Oct-28-2020
+56a2ab304c931dde346017b02cd837fbaa451cff,Mike Miller,mmiller@apache.org,Oct-28-2020
+f88cb3bcebb744d7d1f3150877243c756d717ddb,Christopher Tubbs,ctubbsii@apache.org,Oct-28-2020
+c4e47bab9d86eca894317efcb19fa11e6225425f,Christopher Tubbs,ctubbsii@apache.org,Oct-28-2020
+51dde7545a57aa9c130e5bd5e7b3236d624c4499,Christopher Tubbs,ctubbsii@apache.org,Oct-28-2020
+353c611891a8b88b307dcba5e884467d4191b1f2,Mike Miller,mmiller@apache.org,Oct-21-2020
+ccc78430f0b3f0aeca22874825b5de900f3980d9,Jeffrey Manno,jeffreymanno15@gmail.com,Oct-21-2020
+af710541001d282d494bccfa2e500e753ac92a63,Mike Miller,mmiller@apache.org,Oct-21-2020
+ba4ca755ffc9fb006ffacd4f139c09906523d994,Christopher Tubbs,ctubbsii@apache.org,Oct-21-2020
+be201f404f1230a2f31c070f7dadcf47218f318d,Mike Miller,mmiller@apache.org,Oct-21-2020
+62110a3c27b9a27d8a7c0bc272aa6778910acad7,Christopher Tubbs,ctubbsii@apache.org,Oct-21-2020
+8331eed3b18ba4305b772a891168305fe694008c,Mike Miller,mmiller@apache.org,Oct-20-2020
+0dd13dd38022414500dbb4b379f5eabed4c62e22,Christopher Tubbs,ctubbsii@apache.org,Oct-15-2020
+2ef14774866cbc41b9e7a39b51648ecafed93f04,Mark Owens,jmark99@apache.org,Oct-15-2020
+5c365f984b13dec105ecb654cea486a06443d967,Jeffrey Manno,jeffreymanno15@gmail.com,Oct-15-2020
+75b19431a1b5e3573a9a54d3874d745f100d3297,Christopher Tubbs,ctubbsii@apache.org,Oct-14-2020
+ecfa294ffa15b6eeb9d6b9aaf173f69eb4e0b547,larsw,lars@sral.org,Oct-14-2020
+9fedc5b01a0fda4ef2671d3f4cab2b2399337609,Mark Owens,jmark99@apache.org,Oct-14-2020
+3dae7d3357248e97193acb3bbac0448183df165e,cradal,20303105+cradal@users.noreply.github.com,Oct-13-2020
+438f0efd34ef9d200bc8c7ecdd11d5dedb146519,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Oct-12-2020
+70a73b1aa8ac435a87aeb1fd2c8daf46b176c204,Christopher Tubbs,ctubbsii@apache.org,Oct-9-2020
+1a801bdf9d6d76e121b64721cdfd1daa01ae01ea,Mark Owens,jmark99@apache.org,Oct-9-2020
+f1f7812fbd7872282998ce2d460fa8966cd99c39,Christopher Tubbs,ctubbsii@apache.org,Oct-9-2020
+64372ba93ce979c15361ec52502ef41e94f4e3b3,Christopher Tubbs,ctubbsii@apache.org,Oct-9-2020
+542dfd5d6daac813ac8efe6681c91b345b521dbd,Christopher Tubbs,ctubbsii@apache.org,Oct-9-2020
+49b7cd67f49cccb61e0c1e2a487c1be3de69546d,Christopher Tubbs,ctubbsii@apache.org,Oct-9-2020
+9b537ca679da7f435cd34f79bf2939991b0e02d5,BukrosSzabolcs,bukros.szabolcs@gmail.com,Oct-8-2020
+b55d726737746961b79ef37e7d6b294afe4dba7d,Christopher Tubbs,ctubbsii@apache.org,Oct-8-2020
+525998aa861e2176a68242ae04ed36604a8184ee,Mike Miller,mmiller@apache.org,Oct-8-2020
+80ee9ca8092dc4bf07aa1a046d6e668f0e16300e,Christopher Tubbs,ctubbsii@apache.org,Oct-7-2020
+314f2aa6639449bf99db9191d3255349f84c5b61,Christopher Tubbs,ctubbsii@apache.org,Oct-7-2020
+6281a3348eb85bcd9ad59a429b8d96b1193d145d,Mike Miller,mmiller@apache.org,Oct-6-2020
+c229265febc06133b803a552a2d8f013cf2cf09a,Christopher Tubbs,ctubbsii@apache.org,Oct-5-2020
+8789412f2fa1fb7f3eced2789d9bc8abe066fbb8,Mike Miller,mmiller@apache.org,Oct-5-2020
+25e543113f48c196b0e7d6adff6340aa46e36faa,Mike Miller,mmiller@apache.org,Oct-2-2020
+618cac44ab518ce2edb12f83168ba239005137b7,Mike Miller,mmiller@apache.org,Oct-1-2020
+e510639958f442cd579b5e7e7fd2971b025dfae0,Christopher Tubbs,ctubbsii@apache.org,Sep-29-2020
+550b494418024b7ff23a1a6cd78d25192c903fd3,Christopher Tubbs,ctubbsii@apache.org,Sep-29-2020
+9a65fe00231bd6ea40308af80f2b5c865f1fd67c,Karthick Narendran,karthick.narendran@gmail.com,Sep-29-2020
+eecdd59042f69243be5aba981056fe2600007608,Mike Miller,mmiller@apache.org,Sep-29-2020
+b3cc58a5a39a8125f30a71f2d6cb4828dc980762,Christopher Tubbs,ctubbsii@apache.org,Sep-28-2020
+c21396d8226ca5d0ab5af96a9703e4b5bfdd44cc,Mark Owens,jmark99@apache.org,Sep-28-2020
+21c7a0b9fea405b834f3c79b5df7de8fc80e184d,Mike Miller,mmiller@apache.org,Sep-28-2020
+66e2b1ccbae4ad46c1c59861a9c97ef4d5190f50,Mike Miller,mmiller@apache.org,Sep-25-2020
+6986a427fd78e82909e89dd079970e27c5922094,Christopher Tubbs,ctubbsii@apache.org,Sep-24-2020
+618ba7a9f88342ea7c8d692ce19df34d88bf07c8,Christopher Tubbs,ctubbsii@apache.org,Sep-23-2020
+530e3dec5361244118857789054e12a53d96d34b,Christopher Tubbs,ctubbsii@apache.org,Sep-22-2020
+d231f018c2d410d8b5b2d48dd217330c37bd8f55,Christopher Tubbs,ctubbsii@apache.org,Sep-17-2020
+db120a3648f2acb0aa348c2c2d2bd8574ccb88e3,Christopher Tubbs,ctubbsii@apache.org,Sep-17-2020
+b79c7f02d4ab788bfa914b9cbec0f87758003942,Jeffrey Manno,jeffreymanno15@gmail.com,Sep-17-2020
+bfe173ec140f07086b0ff8940fc08d640b9539a7,Jeffrey Manno,jeffreymanno15@gmail.com,Sep-16-2020
+bc1d6515e141457248b3b6f99ddcf136a1c621de,Christopher Tubbs,ctubbsii@apache.org,Sep-15-2020
+7dab4afcf500805c0016e611196d3e93d8c733a3,Keith Turner,kturner@apache.org,Sep-15-2020
+74145eaab0aae21f2b2525ec607e6caf6e54e2e8,Christopher Tubbs,ctubbsii@apache.org,Sep-14-2020
+33b9e4c0cebcd797a317a015c65bce2a863b4ba4,Christopher Tubbs,ctubbsii@apache.org,Sep-14-2020
+bc6fa04283d1dda3bfcde5ef193027d171adb37b,Joseph Koshakow,jkosh44@users.noreply.github.com,Sep-10-2020
+f8eb4fa53ffb39514ddf6d92cacf013432038436,Christopher Tubbs,ctubbsii@apache.org,Sep-9-2020
+4051a8c23be6f901585e07a6170b57383b2ecd69,Christopher Tubbs,ctubbsii@apache.org,Sep-8-2020
+240fcf208868e9f16cf7b988ede68a2a78313d82,Joseph Koshakow,jkosh44@users.noreply.github.com,Sep-6-2020
+fe1e66f9f4e943f57ad3585dd31d61d288e317fd,Christopher Tubbs,ctubbsii@apache.org,Sep-4-2020
+7d9a05aab21c1bc840c44a044452114ef50c7b52,Christopher Tubbs,ctubbsii@apache.org,Sep-4-2020
+90b9cacb5bd5b6dc15c7000475e10e55007094a5,Christopher Tubbs,ctubbsii@apache.org,Sep-2-2020
+8ff67657714b9d7147cf9e96246b18fdc43c3701,Christopher Tubbs,ctubbsii@apache.org,Sep-2-2020
+c997ab7017c6d03bed7f02384f09b41e97ff2b06,Christopher Tubbs,ctubbsii@apache.org,Sep-1-2020
+72e8bc41335ae542087cc70d80d2b7b7e8652575,Christopher Tubbs,ctubbsii@apache.org,Sep-1-2020
+c03d770d771e7a9f7d868a9525f275b9a1b80c46,Christopher Tubbs,ctubbsii@apache.org,Sep-1-2020
+cfd8d4481f16880e17e2f5a3247628ab9d409f88,tynyttie,ty_barnes_jobs@yahoo.com,Sep-1-2020
+69424078c23b13fd73a833909b9471fde9c3446e,cradal,20303105+cradal@users.noreply.github.com,Sep-1-2020
+1c0f8df4ebf7ecb75cde889b32fcdbcfeaf4689d,Jeffrey Manno,jeffreymanno15@gmail.com,Sep-1-2020
+9f308f95518e1069bd5814836ed2e6c5586f2b68,Mike Miller,mmiller@apache.org,Aug-27-2020
+4d261254c3ac43a3bd13ce974e91ce4303a83998,Mike Miller,mmiller@apache.org,Aug-27-2020
+3a6a94618efb11765f954d689c1ed641ea785435,Christopher Tubbs,ctubbsii@apache.org,Aug-27-2020
+cfb33e1dcad4ab7d6e07d0b65e20ef9d4d8cf7d5,Christopher Tubbs,ctubbsii@apache.org,Aug-27-2020
+677f46040aad0a81862378c1099a6cf33cb59cf2,Mike Miller,mmiller@apache.org,Aug-24-2020
+a6cbf094f9016b2cf59a06b91595ea968ede8d24,Mike Miller,mmiller@apache.org,Aug-24-2020
+0303082556102e6c6870ac99213f86e0e5320154,Mike Miller,mmiller@apache.org,Aug-24-2020
+0702e08645d94a2ebae829ba2c8f2588177799a6,Christopher Tubbs,ctubbsii@apache.org,Aug-21-2020
+f80843e35a9f2fe3a73f7de5b17bccf6cfb9a5d9,Christopher Tubbs,ctubbsii@apache.org,Aug-21-2020
+47d7b708cf14b9d935a889c1082e211075338ed1,Christopher Tubbs,ctubbsii@apache.org,Aug-20-2020
+dab5b80155835d2793b542aa4fcc382c189f9fbe,Christopher Tubbs,ctubbsii@apache.org,Aug-20-2020
+0c5bc316b2e9ab5fe3d7e949478a8d09f0a299bf,Keith Turner,kturner@apache.org,Aug-19-2020
+4cbff2aa1ac4cd32ac69838487b8810096049785,Christopher Tubbs,ctubbsii@apache.org,Aug-17-2020
+7a2d12eaf785f924f555733a54f40828cdb2414f,Christopher Tubbs,ctubbsii@apache.org,Aug-17-2020
+5e4cdcd6932da6f63c5d566eb958fa1d1f20eed4,Mike Miller,mmiller@apache.org,Aug-17-2020
+61eb91632c04b592231a2af8dc45c0d3deafec64,Christopher Tubbs,ctubbsii@apache.org,Aug-16-2020
+92af87ed026395a859213c795ae6ebf3b760fd9c,Christopher Tubbs,ctubbsii@apache.org,Aug-16-2020
+6844fde30c3ee1b24bd4f2610da1ce89916fb391,Christopher Tubbs,ctubbsii@apache.org,Aug-16-2020
+367a53ef73ab10b461fd21183ca7e8d30985cdc2,Christopher Tubbs,ctubbsii@apache.org,Aug-16-2020
+37fa85baf5a63392bd64e2afe4d63f809199b19c,Christopher Tubbs,ctubbsii@apache.org,Aug-15-2020
+64dc5db2b14509a4c8a2ca813cbab79f7247f819,Christopher Tubbs,ctubbsii@apache.org,Aug-15-2020
+d3afe5b394b9907126d7e841559ed99a9ed11f9f,Mike Miller,mmiller@apache.org,Aug-14-2020
+7a01fb020eb28a69f3fe17c5882cf1775e5257d0,Mike Miller,mmiller@apache.org,Aug-14-2020
+e1df589c43e2cbb09024c633b182589ce24974f6,Mike Miller,mmiller@apache.org,Aug-14-2020
+e7cc0d35717b099a38542a111bbd5be839302676,Christopher Tubbs,ctubbsii@apache.org,Aug-13-2020
+c581c43c6baaac758ed0f2c5cd8cab60be12f60e,Christopher Tubbs,ctubbsii@apache.org,Aug-13-2020
+a165264e714e01329af41954b00d0217e982dfce,Mike Miller,mmiller@apache.org,Aug-13-2020
+e3a14cd083848917b1f3f739eb79e6ea65a3e704,Mike Miller,mmiller@apache.org,Aug-13-2020
+5815bf652e8e0f91789535d6a74855ba581a5557,Christopher Tubbs,ctubbsii@apache.org,Aug-12-2020
+bd550e432d320540ccaf33509d33ca35759e2ef0,Mike Miller,mmiller@apache.org,Aug-12-2020
+18e82394898352c9dcf682b2086a6145af36c06e,Mike Miller,mmiller@apache.org,Aug-12-2020
+9f29f37d87809ac6a86f185348c517a104b7dec6,Christopher Tubbs,ctubbsii@apache.org,Aug-10-2020
+c43471a725bc2259aa80d041d233997c8844c37a,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+6e769af47473899515c10b9cfc989899e53a492d,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+5dec4a2e5d87bf73ff52999664ee4b1c1c635980,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+c1b3531c136596c7b81fa9868ad5cab9f38de65d,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+3b07c6d5540b3c0be9c587c3949e7008bd61248d,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+ed70fca24b169b02c8ca4029bf1dd18df09e8b8b,Christopher Tubbs,ctubbsii@apache.org,Aug-7-2020
+1f5ffd2e99704ddba81eae7c7558f15139bb3b85,Don Resnik,don.resnik@vistronix.com,Aug-6-2020
+24ea3bb7ffd340fc443639763a0c9b9f0ca43c68,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+37f6d7831980708bd179b9fa9b9e7dd157bb6344,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+d28ed21353c2b10f03fe45ea5e51d8fc8944fa0f,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+b3d516d18b6a63e9cf7a52253551a47b7a6f6bec,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+382054d119915c237e3b3bf42305ed05d95cee48,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+3a45d4cc556236b44daf7a0ccb4f940674787e01,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+750286a3234115ac560605b99c341aacac705c25,Christopher Tubbs,ctubbsii@apache.org,Aug-5-2020
+dfb4be4dcc0c829afd7ce83fabe5932737da67e7,Christopher Tubbs,ctubbsii@apache.org,Aug-4-2020
+346400d1812402bc35562f63708e65f8ea8165ac,EdColeman,dev1@etcoleman.com,Aug-4-2020
+79611eef97c07e3605c221812792644008e0c86a,Keith Turner,kturner@apache.org,Aug-3-2020
+10cbb3d541926be946ac644a694373ac1690b338,ben,git@benjamin.ie,Jul-31-2020
+97de2d819ee5ff4fb09513c662eed6e1368f1318,Christopher Tubbs,ctubbsii@apache.org,Jul-29-2020
+9c2b1a8eab1205a4e047ec3bba87730c96176e37,Mark Owens,jmark99@apache.org,Jul-28-2020
+abc961a9c742dad47b54ee5d5b1932d26e6a991a,Keith Turner,kturner@apache.org,Jul-17-2020
+82fb30d089886c944c473def83075e4405050eab,Mike Miller,mmiller@apache.org,Jul-17-2020
+4eba9329b9056948f745c8ee4d26fa4510a19659,Mike Miller,mmiller@apache.org,Jul-17-2020
+82aec2d7de02ec4c09ae9bc4507e7cf2eba152f4,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+0b6e3ed75950d1f2bf8c44d58c5ac41046bff7e7,markxiaotao,markandxiaotao@gmail.com,Jul-17-2020
+317aa43344a2cc98804934c766f96f5eb29c1760,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+7ed5cf262a6b397bd8548991511e25f8f00108e9,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+287f9b399d485adfff99580823c753a3069f5c4f,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+0fda74cfb2bf1fcc9b7ed4de240d285a69ad9fc3,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+1caf7c7927aa12a7d8380f210cca4ab8afb497c8,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+1b2946f198c022be88f3628d6a217d6e45847ba8,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+ac479ba611fe33c3d7962ad51ad376f002b4f8e3,Christopher Tubbs,ctubbsii@apache.org,Jul-16-2020
+d879f5849001dfcfcbe88fe69da0e77cf5a75470,Christopher Tubbs,ctubbsii@apache.org,Jul-15-2020
+2196bc8418eb0eedf599e9a413fe356a41b742a8,Keith Turner,kturner@apache.org,Jul-15-2020
+a9cf3a10471fe344f2006a06c3ecdccdef682efa,Keith Turner,kturner@apache.org,Jul-14-2020
+eaef84c9ee8f4d9af9c98d061f9778f355a5ebed,Jeffrey Manno,jeffreymanno15@gmail.com,Jul-14-2020
+88b11923e61bd7905ba42d9b8d58a3620dcd2e36,Mike Miller,mmiller@apache.org,Jul-13-2020
+25a55df2309fc1891ef208e35f2268b254ffb4e8,Craig Scheiderer,cdschei2@gmail.com,Jul-9-2020
+07bc9d329ea0b8da9a577863acfe009910e189cd,Jeffrey Manno,jeffreymanno15@gmail.com,Jul-8-2020
+9c4f732e56f7d52f7969ad4a95904c51877ddc56,Ivan Bella,ivan@bella.name,Jul-7-2020
+87da7a1b3d23599e429902e084e134c15af4c4d5,Ivan Bella,ivan@bella.name,Jul-1-2020
+113ca49ae4a86a4066c97ace12b0d13bf5708c77,Ivan Bella,ivan@bella.name,Jun-23-2020
+b643edcd7770be9c7ca2416287575ffdfd196cfb,Ivan Bella,ivan@bella.name,Jun-23-2020

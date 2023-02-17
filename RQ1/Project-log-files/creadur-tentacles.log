@@ -1,0 +1,2432 @@
+commit 0dd72cda08a7141be3201e76bdd6c9c18e599799
+Merge: c2467ca f31a326
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-08-16 17:10:20 +0200
+
+    Merge pull request #32 from apache/dependabot/maven/org.codehaus.mojo-animal-sniffer-maven-plugin-1.22
+    
+    Bump animal-sniffer-maven-plugin from 1.21 to 1.22
+
+commit f31a3267d39724b2a15aec8317a0d816d8102646
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-08-16 14:21:11 +0000
+
+    Bump animal-sniffer-maven-plugin from 1.21 to 1.22
+    
+    Bumps [animal-sniffer-maven-plugin](https://github.com/mojohaus/animal-sniffer) from 1.21 to 1.22.
+    - [Release notes](https://github.com/mojohaus/animal-sniffer/releases)
+    - [Commits](https://github.com/mojohaus/animal-sniffer/compare/animal-sniffer-parent-1.21...animal-sniffer-parent-1.22)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.codehaus.mojo:animal-sniffer-maven-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit c2467ca76482a1c6c913d312c005361e37393be7
+Merge: 3ed76f7 ba5b669
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-08-06 00:06:29 +0200
+
+    Merge pull request #31 from apache/dependabot/maven/org.apache.maven.plugins-maven-site-plugin-3.12.1
+    
+    Bump maven-site-plugin from 3.12.0 to 3.12.1
+
+commit ba5b6698c656b3806b0de849695ab657d091b00e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-08-04 14:21:28 +0000
+
+    Bump maven-site-plugin from 3.12.0 to 3.12.1
+    
+    Bumps [maven-site-plugin](https://github.com/apache/maven-site-plugin) from 3.12.0 to 3.12.1.
+    - [Release notes](https://github.com/apache/maven-site-plugin/releases)
+    - [Commits](https://github.com/apache/maven-site-plugin/compare/maven-site-plugin-3.12.0...maven-site-plugin-3.12.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-site-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 3ed76f720cdea94dd89e962c1180f05658efc12b
+Merge: 7e852ff 87f4d30
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-28 10:33:34 +0200
+
+    Merge pull request #30 from apache/dependabot/maven/org.codehaus.mojo-extra-enforcer-rules-1.6.1
+    
+    Bump extra-enforcer-rules from 1.6.0 to 1.6.1
+
+commit 87f4d3019df62c84f2081bc0425015e50ebf1ed6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-07-25 14:26:48 +0000
+
+    Bump extra-enforcer-rules from 1.6.0 to 1.6.1
+    
+    Bumps [extra-enforcer-rules](https://github.com/mojohaus/extra-enforcer-rules) from 1.6.0 to 1.6.1.
+    - [Release notes](https://github.com/mojohaus/extra-enforcer-rules/releases)
+    - [Commits](https://github.com/mojohaus/extra-enforcer-rules/compare/extra-enforcer-rules-1.6.0...extra-enforcer-rules-1.6.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.codehaus.mojo:extra-enforcer-rules
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 7e852ff6b88a5c5f616f228c23cb489264e36aa4
+Merge: 3fb9a82 e531b84
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-16 00:16:41 +0200
+
+    Merge pull request #29 from apache/dependabot/maven/org.apache-apache-27
+    
+    Bump apache from 26 to 27
+
+commit e531b844acd87739c6945638f8bde05fcf5344f3
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-07-15 14:22:16 +0000
+
+    Bump apache from 26 to 27
+    
+    Bumps [apache](https://github.com/apache/maven-apache-parent) from 26 to 27.
+    - [Release notes](https://github.com/apache/maven-apache-parent/releases)
+    - [Commits](https://github.com/apache/maven-apache-parent/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache:apache
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 3fb9a8263ef17990ecc62e32e7e08e2002ce8ace
+Merge: 9d8a225 ec7b471
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-12 00:02:10 +0200
+
+    Merge pull request #28 from apache/dependabot/maven/org.codehaus.mojo-extra-enforcer-rules-1.6.0
+    
+    Bump extra-enforcer-rules from 1.5.1 to 1.6.0
+
+commit ec7b471b06d8e3bb5f9096cbb21671706fbab909
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-07-11 14:39:32 +0000
+
+    Bump extra-enforcer-rules from 1.5.1 to 1.6.0
+    
+    Bumps [extra-enforcer-rules](https://github.com/mojohaus/extra-enforcer-rules) from 1.5.1 to 1.6.0.
+    - [Release notes](https://github.com/mojohaus/extra-enforcer-rules/releases)
+    - [Commits](https://github.com/mojohaus/extra-enforcer-rules/compare/extra-enforcer-rules-1.5.1...extra-enforcer-rules-1.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.codehaus.mojo:extra-enforcer-rules
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 9d8a225f4f5f9e037a855e175b8a80c75c069b31
+Merge: df89781 41d2433
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-05 10:41:24 +0200
+
+    Merge pull request #27 from apache/dependabot/maven/loggerVersion-2.18.0
+    
+    Bump loggerVersion from 2.17.2 to 2.18.0
+
+commit 41d243348f3ca60f5f944d4c59561e8ab8624a99
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-07-04 14:33:34 +0000
+
+    Bump loggerVersion from 2.17.2 to 2.18.0
+    
+    Bumps `loggerVersion` from 2.17.2 to 2.18.0.
+    
+    Updates `log4j-api` from 2.17.2 to 2.18.0
+    
+    Updates `log4j-core` from 2.17.2 to 2.18.0
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.logging.log4j:log4j-api
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    - dependency-name: org.apache.logging.log4j:log4j-core
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit df89781b3068cb85882d837b4c2be6099946b283
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2022-07-03 00:27:00 +0200
+
+    fluido skin version is maintained in pom.xml
+
+0	1	src/site/site.xml
+
+commit 8551c1da82614d9e3cdefadb9904f81cab470f23
+Merge: 6841a4b 7dc0274
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-03 00:21:18 +0200
+
+    Merge pull request #26 from apache/dependabot/maven/org.apache.maven.skins-maven-fluido-skin-1.11.1
+    
+    Bump maven-fluido-skin from 1.11.0 to 1.11.1
+
+commit 6841a4b92aceb0a2eb1e61ef3f251070502f03fe
+Merge: a3479de e0cb5c3
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-07-02 23:18:41 +0200
+
+    Merge pull request #25 from apache/dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.1.0
+    
+    Bump maven-enforcer-plugin from 3.0.0 to 3.1.0
+
+commit 7dc027409b6bacecd4a74c888d00310975f46d27
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-06-30 14:45:04 +0000
+
+    Bump maven-fluido-skin from 1.11.0 to 1.11.1
+    
+    Bumps [maven-fluido-skin](https://github.com/apache/maven-fluido-skin) from 1.11.0 to 1.11.1.
+    - [Release notes](https://github.com/apache/maven-fluido-skin/releases)
+    - [Commits](https://github.com/apache/maven-fluido-skin/compare/maven-fluido-skin-1.11.0...maven-fluido-skin-1.11.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.skins:maven-fluido-skin
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit e0cb5c373240c723f7d7374b00d6927a7497c9dc
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-06-13 14:20:36 +0000
+
+    Bump maven-enforcer-plugin from 3.0.0 to 3.1.0
+    
+    Bumps [maven-enforcer-plugin](https://github.com/apache/maven-enforcer) from 3.0.0 to 3.1.0.
+    - [Release notes](https://github.com/apache/maven-enforcer/releases)
+    - [Commits](https://github.com/apache/maven-enforcer/compare/enforcer-3.0.0...enforcer-3.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-enforcer-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit a3479de0d24310a640bc714c404645c496aa0da0
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2022-06-13 12:22:53 +0200
+
+    Use new RAT 0.14 version
+
+1	1	pom.xml
+
+commit 4ac0e688920231284a3926ce5df952e8645ad2c8
+Merge: 44fd8e6 f9f0747
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-05-18 16:25:40 +0200
+
+    Merge pull request #24 from apache/dependabot/maven/org.apache.maven.skins-maven-fluido-skin-1.11.0
+    
+    Bump maven-fluido-skin from 1.10.0 to 1.11.0
+
+commit f9f0747684facd04af5f5fec6326b785f586aa14
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-18 14:20:28 +0000
+
+    Bump maven-fluido-skin from 1.10.0 to 1.11.0
+    
+    Bumps [maven-fluido-skin](https://github.com/apache/maven-fluido-skin) from 1.10.0 to 1.11.0.
+    - [Release notes](https://github.com/apache/maven-fluido-skin/releases)
+    - [Commits](https://github.com/apache/maven-fluido-skin/compare/maven-fluido-skin-1.10.0...maven-fluido-skin-1.11.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.skins:maven-fluido-skin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 44fd8e626a314a33a468e6b62de2fe4a4c35b205
+Merge: 01f9a97 c70bc41
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-05-18 07:52:03 +0200
+
+    Merge pull request #23 from apache/dependabot/maven/com.fasterxml.jackson.module-jackson-module-jaxb-annotations-2.13.3
+    
+    Bump jackson-module-jaxb-annotations from 2.13.2 to 2.13.3
+
+commit c70bc41f58100a3d6a8d71e9f506adacdd8c3b67
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-16 14:51:01 +0000
+
+    Bump jackson-module-jaxb-annotations from 2.13.2 to 2.13.3
+    
+    Bumps [jackson-module-jaxb-annotations](https://github.com/FasterXML/jackson-modules-base) from 2.13.2 to 2.13.3.
+    - [Release notes](https://github.com/FasterXML/jackson-modules-base/releases)
+    - [Commits](https://github.com/FasterXML/jackson-modules-base/compare/jackson-modules-base-2.13.2...jackson-modules-base-2.13.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 01f9a9783f798e855821e9e3d6e31928fdab9f0f
+Merge: bf69f83 0221144
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-04-22 13:26:27 +0200
+
+    Merge pull request #22 from apache/dependabot/maven/org.apache.maven.plugins-maven-site-plugin-3.12.0
+    
+    Bump maven-site-plugin from 3.11.0 to 3.12.0
+
+commit 0221144440a2ee87d9d0f139dd8406de416b28b0
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-04-21 14:41:42 +0000
+
+    Bump maven-site-plugin from 3.11.0 to 3.12.0
+    
+    Bumps [maven-site-plugin](https://github.com/apache/maven-site-plugin) from 3.11.0 to 3.12.0.
+    - [Release notes](https://github.com/apache/maven-site-plugin/releases)
+    - [Commits](https://github.com/apache/maven-site-plugin/compare/maven-site-plugin-3.11.0...maven-site-plugin-3.12.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-site-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit bf69f83dbf33c3a7292e6ed42ae7d82ef17bb074
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2022-04-14 09:48:06 +0200
+
+    Use new ASF parent
+
+1	1	pom.xml
+
+commit 790df1f479880a273388c0cb39120bc094a34655
+Merge: 68fc7d8 0be8742
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-03-16 08:21:44 +0100
+
+    Merge pull request #21 from apache/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.10.1
+    
+    Bump maven-compiler-plugin from 3.10.0 to 3.10.1
+
+commit 0be87421ca3f8960025017f9cf6cad2960498498
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-03-15 15:03:40 +0000
+
+    Bump maven-compiler-plugin from 3.10.0 to 3.10.1
+    
+    Bumps [maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.10.0 to 3.10.1.
+    - [Release notes](https://github.com/apache/maven-compiler-plugin/releases)
+    - [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.10.0...maven-compiler-plugin-3.10.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-compiler-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 68fc7d809ad232c130aa1386a89c3548c3035292
+Merge: 4002dda e333e1e
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-03-12 09:02:19 +0100
+
+    Merge pull request #20 from apache/dependabot/maven/com.fasterxml.jackson.module-jackson-module-jaxb-annotations-2.13.2
+    
+    Bump jackson-module-jaxb-annotations from 2.13.1 to 2.13.2
+
+commit e333e1e8dbd0684bc603d33995facf701f6cce58
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-03-08 15:10:08 +0000
+
+    Bump jackson-module-jaxb-annotations from 2.13.1 to 2.13.2
+    
+    Bumps [jackson-module-jaxb-annotations](https://github.com/FasterXML/jackson-modules-base) from 2.13.1 to 2.13.2.
+    - [Release notes](https://github.com/FasterXML/jackson-modules-base/releases)
+    - [Commits](https://github.com/FasterXML/jackson-modules-base/compare/jackson-modules-base-2.13.1...jackson-modules-base-2.13.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 4002dda29796454eebdf399e21e3fe50f790fab1
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2022-02-28 16:10:59 +0100
+
+    Extract version of log4j into property to ease future updates
+
+3	2	pom.xml
+
+commit df48a50c12642c4de292a225fc2b3b293cd3bc3f
+Merge: 6a3ad98 df333b7
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-28 16:04:31 +0100
+
+    Merge pull request #19 from apache/dependabot/maven/org.apache.logging.log4j-log4j-api-2.17.2
+    
+    Bump log4j-api from 2.17.1 to 2.17.2
+
+commit df333b7d5dd02e4be6b09a746b0981be1eee42bf
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-28 15:03:39 +0000
+
+    Bump log4j-api from 2.17.1 to 2.17.2
+    
+    Bumps log4j-api from 2.17.1 to 2.17.2.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.logging.log4j:log4j-api
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 6a3ad988c5d75bb3ae605314dfab884f775de416
+Merge: c18a00b 9c8823f
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-28 16:00:35 +0100
+
+    Merge pull request #18 from apache/dependabot/maven/org.apache.logging.log4j-log4j-core-2.17.2
+    
+    Bump log4j-core from 2.17.1 to 2.17.2
+
+commit 9c8823f2fa0218ea98a49f0be8c7c2afb9c8d92c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-28 14:43:04 +0000
+
+    Bump log4j-core from 2.17.1 to 2.17.2
+    
+    Bumps log4j-core from 2.17.1 to 2.17.2.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.logging.log4j:log4j-core
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit c18a00bfc349f0016880af7c50124dc072c6935b
+Merge: d9e4f83 c10ef89
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-22 08:22:27 +0100
+
+    Merge pull request #17 from apache/dependabot/maven/org.apache-apache-25
+    
+    Bump apache from 24 to 25
+
+commit c10ef89ebee0944769d5b298c535c3fbbb9f29d7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-21 14:58:46 +0000
+
+    Bump apache from 24 to 25
+    
+    Bumps [apache](https://github.com/apache/maven-apache-parent) from 24 to 25.
+    - [Release notes](https://github.com/apache/maven-apache-parent/releases)
+    - [Commits](https://github.com/apache/maven-apache-parent/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache:apache
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit d9e4f83d16780513a91b6db9edebb305f84e3159
+Merge: 62c3a14 e95ef77
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-21 08:04:52 +0100
+
+    Merge pull request #16 from apache/dependabot/maven/org.apache.maven.plugins-maven-site-plugin-3.11.0
+    
+    Bump maven-site-plugin from 3.10.0 to 3.11.0
+
+commit e95ef77b961434adf1cd9ea9a1b5198addbcd201
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-17 14:59:35 +0000
+
+    Bump maven-site-plugin from 3.10.0 to 3.11.0
+    
+    Bumps [maven-site-plugin](https://github.com/apache/maven-site-plugin) from 3.10.0 to 3.11.0.
+    - [Release notes](https://github.com/apache/maven-site-plugin/releases)
+    - [Commits](https://github.com/apache/maven-site-plugin/compare/maven-site-plugin-3.10.0...maven-site-plugin-3.11.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-site-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 62c3a14e4816ea91d74f0b9ce2427a2953d52d57
+Merge: faaca84 3b362b8
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-17 09:02:48 +0100
+
+    Merge pull request #15 from apache/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.10.0
+    
+    Bump maven-compiler-plugin from 3.9.0 to 3.10.0
+
+commit 3b362b8fce35598f686f7c266808d49423cb5f02
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-16 14:58:58 +0000
+
+    Bump maven-compiler-plugin from 3.9.0 to 3.10.0
+    
+    Bumps [maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.9.0 to 3.10.0.
+    - [Release notes](https://github.com/apache/maven-compiler-plugin/releases)
+    - [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.9.0...maven-compiler-plugin-3.10.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-compiler-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit faaca84d4d70fda2ec91db6ff053a592cc49a547
+Merge: 01624eb 6d16eff
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-02-04 11:45:39 +0100
+
+    Merge pull request #14 from apache/dependabot/maven/org.codehaus.mojo-animal-sniffer-maven-plugin-1.21
+    
+    Bump animal-sniffer-maven-plugin from 1.20 to 1.21
+
+commit 6d16effbcc5cb650c4e779c4bdea90ef411a94ed
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-02-01 15:42:32 +0000
+
+    Bump animal-sniffer-maven-plugin from 1.20 to 1.21
+    
+    Bumps [animal-sniffer-maven-plugin](https://github.com/mojohaus/animal-sniffer) from 1.20 to 1.21.
+    - [Release notes](https://github.com/mojohaus/animal-sniffer/releases)
+    - [Commits](https://github.com/mojohaus/animal-sniffer/compare/animal-sniffer-parent-1.20...animal-sniffer-parent-1.21)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.codehaus.mojo:animal-sniffer-maven-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 01624ebcef2f5b904048b759229fb4f44c45712a
+Merge: e5f93ea 9e005d6
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-01-19 21:34:51 +0100
+
+    Merge pull request #13 from apache/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.9.0
+    
+    Bump maven-compiler-plugin from 3.8.1 to 3.9.0
+
+commit 9e005d66046214809c168b33e2137001bf6ae133
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-01-12 14:41:30 +0000
+
+    Bump maven-compiler-plugin from 3.8.1 to 3.9.0
+    
+    Bumps [maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.8.1 to 3.9.0.
+    - [Release notes](https://github.com/apache/maven-compiler-plugin/releases)
+    - [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.8.1...maven-compiler-plugin-3.9.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-compiler-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit e5f93ea1f8f56442619a1ac37043af0cbb1f7705
+Merge: 930c950 6e51513
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2022-01-04 16:16:17 +0100
+
+    Merge pull request #12 from apache/dependabot/maven/org.apache.logging.log4j-log4j-core-2.17.1
+    
+    Bump log4j-core from 2.17.0 to 2.17.1
+
+commit 6e51513206f877b7dda07ee5c137d7ba65e8afc9
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-01-04 14:22:09 +0000
+
+    Bump log4j-core from 2.17.0 to 2.17.1
+    
+    Bumps log4j-core from 2.17.0 to 2.17.1.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.logging.log4j:log4j-core
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 930c95039d35d520e8616aaac05b360dec9972b1
+Merge: d4cd27c 14f3132
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-30 15:55:35 +0100
+
+    Merge pull request #11 from apache/dependabot/maven/org.apache.logging.log4j-log4j-api-2.17.1
+    
+    Bump log4j-api from 2.17.0 to 2.17.1
+
+commit 14f31326d55420ce02fd3baade36102895d40ce8
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-12-30 14:37:49 +0000
+
+    Bump log4j-api from 2.17.0 to 2.17.1
+    
+    Bumps log4j-api from 2.17.0 to 2.17.1.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.logging.log4j:log4j-api
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit d4cd27ce22379d20dd2ac77940b58f32feb358b1
+Merge: 2dc6c79 4216e8c
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-28 11:47:06 +0100
+
+    Merge pull request #8 from apache/dependabot/maven/com.fasterxml.jackson.module-jackson-module-jaxb-annotations-2.13.1
+    
+    Bump jackson-module-jaxb-annotations from 2.4.2 to 2.13.1
+
+commit 4216e8c0574bbf216b34194d520bcd7bf53df258
+Merge: fd2a69a 2dc6c79
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-28 10:55:56 +0100
+
+    Merge remote-tracking branch 'origin/master' into dependabot/maven/com.fasterxml.jackson.module-jackson-module-jaxb-annotations-2.13.1
+
+commit 2dc6c79ae05814f68cf5311391d37aa0f01951c1
+Merge: 4fb01a7 49b16fe
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-28 10:48:17 +0100
+
+    Merge pull request #9 from apache/dependabot/maven/javax.xml.bind-jaxb-api-2.3.1
+    
+    Bump jaxb-api from 2.3.0 to 2.3.1
+
+commit 4fb01a7b5c6c9c54974498552b858c57df468b17
+Merge: d729b0d c894328
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-28 10:48:01 +0100
+
+    Merge pull request #10 from apache/dependabot/maven/org.apache.maven.plugins-maven-site-plugin-3.10.0
+    
+    Bump maven-site-plugin from 3.9.1 to 3.10.0
+
+commit c89432890f51e52f7a6dd76a5d1d246600ebbf88
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-12-27 14:59:55 +0000
+
+    Bump maven-site-plugin from 3.9.1 to 3.10.0
+    
+    Bumps [maven-site-plugin](https://github.com/apache/maven-site-plugin) from 3.9.1 to 3.10.0.
+    - [Release notes](https://github.com/apache/maven-site-plugin/releases)
+    - [Commits](https://github.com/apache/maven-site-plugin/compare/maven-site-plugin-3.9.1...maven-site-plugin-3.10.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-site-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 49b16fe6a3a1fd056bcbf17d65cfa6355c6b8fcf
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-12-27 14:55:52 +0000
+
+    Bump jaxb-api from 2.3.0 to 2.3.1
+    
+    Bumps [jaxb-api](https://github.com/javaee/jaxb-spec) from 2.3.0 to 2.3.1.
+    - [Release notes](https://github.com/javaee/jaxb-spec/releases)
+    - [Commits](https://github.com/javaee/jaxb-spec/compare/2.3.0...2.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: javax.xml.bind:jaxb-api
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit d729b0dd8a9cdfb3adec719b36607c2a93f32641
+Merge: e561569 73ca902
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-24 13:45:50 +0100
+
+    Merge pull request #3 from apache/dependabot/maven/org.apache.maven.plugins-maven-site-plugin-3.9.1
+    
+    Bump maven-site-plugin from 3.7 to 3.9.1
+
+commit e5615693d321d8ae995de72ef1d8c95ecc9373fe
+Merge: 465543b 98252ef
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-24 13:44:15 +0100
+
+    Merge pull request #4 from apache/dependabot/maven/junit-junit-4.13.2
+    
+    Bump junit from 4.13.1 to 4.13.2
+
+commit 465543b71edbabe94642d03b77420315bea19718
+Merge: 608de40 5fd9b2c
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-24 13:43:01 +0100
+
+    Merge pull request #5 from apache/dependabot/maven/org.codehaus.mojo-animal-sniffer-maven-plugin-1.20
+    
+    Bump animal-sniffer-maven-plugin from 1.19 to 1.20
+
+commit 608de403a31712080182f4981190d9060d15e9ea
+Merge: e8941bd a02a60f
+Author: P. Ottlinger <ottlinger@users.noreply.github.com>
+Date:   2021-12-23 17:15:23 +0100
+
+    Merge pull request #1 from apache/feature/TENTACLES-12
+    
+    TENTACLES-12: Update to latest log4j2 and update dependencies and plugins
+
+commit a02a60f028e00ec53dce5dfe73c1c05a04e74248
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:55:20 +0100
+
+    TENTACLES-12: Fix fluido skin version
+
+1	1	pom.xml
+
+commit 013f3a3c3d2e533d891c01d10e89b8d123f711d2
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:54:22 +0100
+
+    TENTACLES-12: Update fluido skin
+
+1	1	pom.xml
+
+commit 5a89fa5589129301c9ddc1f7490f07d116111d08
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:53:49 +0100
+
+    Update to latest jackson-module-jaxb-annotations 2.13.1
+
+1	1	pom.xml
+
+commit b5be26509805b27d6b1e90d239f7f6c560000576
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:52:31 +0100
+
+    TENTACLES-12: Downgrade to JDK8 as enforcer problems are solved
+
+1	1	.travis.yml
+1	1	Jenkinsfile
+1	1	README.md
+
+commit aa0215f02095300dcd81a755d2ebbf6b6f8123a7
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:49:30 +0100
+
+    TENTACLES-12: Update to latest log4j
+
+2	2	pom.xml
+
+commit 5c874592b288e82e066d4d2183d7f43d1e0d5053
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:47:29 +0100
+
+    TENTACLES-12: Update enforcer rules to fix existing problem during log4j updates
+
+2	2	pom.xml
+
+commit 22ca260e5cbd18c57d77e4709c3098ebbedc6122
+Merge: 063172a e8941bd
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 15:09:29 +0100
+
+    Merge master into feature branch
+
+commit e8941bd021a54a86b7edc4b13cf1485d633c970c
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-12-23 14:13:58 +0100
+
+    RAT291: Fix Travis URL
+
+1	1	README.md
+
+commit fd2a69a9a2eb9cc8c9c372e4e737dc1725d3fd48
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-12-20 14:43:34 +0000
+
+    Bump jackson-module-jaxb-annotations from 2.4.2 to 2.13.1
+    
+    Bumps [jackson-module-jaxb-annotations](https://github.com/FasterXML/jackson-modules-base) from 2.4.2 to 2.13.1.
+    - [Release notes](https://github.com/FasterXML/jackson-modules-base/releases)
+    - [Commits](https://github.com/FasterXML/jackson-modules-base/commits/jackson-modules-base-2.13.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 452e7a76e641e637e23980cff58efa5c6a7aac67
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:32:03 +0200
+
+    Fix copy/paste error
+
+2	2	pom.xml
+
+commit b26bf5be9b14e61ecbc8e12f490f1736e81e14f3
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:28:31 +0200
+
+    Update maven fluido skin to 1.9 and site-plugin to 3.9.1
+
+2	2	pom.xml
+1	1	src/site/site.xml
+
+commit 097a695f543649b0546457f9ec06854b7c8e77da
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:26:03 +0200
+
+    Update animal sniffer plugin to 1.20
+
+1	1	pom.xml
+
+commit 66f8fc57ded201d146c8ecd2b7c810af6f5e9604
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:24:08 +0200
+
+    Update parent pom and add property for reproducable build
+
+2	1	pom.xml
+
+commit f45122a94edfd5d33a34ee7aacdaab025c33b3e5
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:22:14 +0200
+
+    Fix typo
+
+1	1	pom.xml
+
+commit ddd90b2fe7848c583868e0b584c4e1b11f7f95d8
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:14:09 +0200
+
+    Update junit to latest 4.13.2
+
+1	1	pom.xml
+
+commit 5fd9b2cd09f6cf7f95d5957a5e33eab8fa7b2d49
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-08-31 18:09:33 +0000
+
+    Bump animal-sniffer-maven-plugin from 1.19 to 1.20
+    
+    Bumps [animal-sniffer-maven-plugin](https://github.com/mojohaus/animal-sniffer) from 1.19 to 1.20.
+    - [Release notes](https://github.com/mojohaus/animal-sniffer/releases)
+    - [Commits](https://github.com/mojohaus/animal-sniffer/compare/animal-sniffer-parent-1.19...animal-sniffer-parent-1.20)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.codehaus.mojo:animal-sniffer-maven-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 98252ef2ed78359d018db85376edf6095abfc0e3
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-08-31 18:09:27 +0000
+
+    Bump junit from 4.13.1 to 4.13.2
+    
+    Bumps [junit](https://github.com/junit-team/junit4) from 4.13.1 to 4.13.2.
+    - [Release notes](https://github.com/junit-team/junit4/releases)
+    - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)
+    - [Commits](https://github.com/junit-team/junit4/compare/r4.13.1...r4.13.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: junit:junit
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit 73ca902c37b044193e7464b8a1ac7fa29954c48a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2021-08-31 18:09:18 +0000
+
+    Bump maven-site-plugin from 3.7 to 3.9.1
+    
+    Bumps [maven-site-plugin](https://github.com/apache/maven-site-plugin) from 3.7 to 3.9.1.
+    - [Release notes](https://github.com/apache/maven-site-plugin/releases)
+    - [Commits](https://github.com/apache/maven-site-plugin/compare/maven-site-plugin-3.7...maven-site-plugin-3.9.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.maven.plugins:maven-site-plugin
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+1	1	pom.xml
+
+commit ddfd382a3517ee0528b4a15190b93fe384a230ab
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-08-31 20:08:21 +0200
+
+    RAT-289: Add dependabot integration
+
+25	0	.github/dependabot.yaml
+
+commit c7e09f5512211dd84aad715c1732fb4fd7b23e6f
+Author: P. Ottlinger <pottlinger@apache.org>
+Date:   2021-06-08 10:34:42 +0200
+
+    TENTACLES-13: Upgrade httpclient
+
+1	1	pom.xml
+
+commit 063172afb63dba101579474bad14e6ae04869de7
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 22:07:54 +0100
+
+    TENTACLES-12: Use JDK9 to build
+
+1	1	.travis.yml
+
+commit af41edf008118723817a029b1884bccd40b866ac
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:47:11 +0100
+
+    TENTACLES-12: Fix headline about min JDK9
+
+1	1	README.md
+
+commit 45b652cebfee33ed9812cb689cc27f67ee93da68
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:43:53 +0100
+
+    TENTACLES-12: Update to latest jaxb
+
+1	1	pom.xml
+
+commit 74ec5a31cde98e61f0f467b977ca0c5befbb4a10
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:35:07 +0100
+
+    TENTACLES-12: Update fluido and fix site build
+
+1	0	.gitignore
+1	1	src/site/site.xml
+
+commit aaa1fb5d917df6df65accb45e783a853bc3e51c0
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:27:07 +0100
+
+    TENTACLES-12: Update fluido skin
+
+1	1	pom.xml
+
+commit f88cb1907f721e91525af09daf99148db9d3192d
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:26:17 +0100
+
+    TENTACLES-12: Update site plugin
+
+1	1	pom.xml
+
+commit 925074a097d8be97c6d03d2791b8e87d2eef45db
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:25:36 +0100
+
+    TENTACLES-12: Update httpclient
+
+1	1	pom.xml
+
+commit 855b22718a2dea2001715746193f7cb1878cd77b
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:25:13 +0100
+
+    TENTACLES-12: Change default JDK / guess
+
+1	1	Jenkinsfile
+
+commit 2ae9ecf1551014ed847b5eeea544c31b54ceb68a
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:19:02 +0100
+
+    TENTACLES-12: Add enhanced defaultGoal
+
+1	1	pom.xml
+
+commit 93014099f89bba4f427f4e7403cb66ff6aa02bce
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 16:18:12 +0100
+
+    TENTACLES-12: Update to JDK9 and log4jx2
+
+5	27	pom.xml
+88	96	src/main/java/org/apache/creadur/tentacles/IOSystem.java
+5	10	src/main/java/org/apache/creadur/tentacles/Main.java
+2	2	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit b2b2a868ced4d46ea48357a53f6a480c5f986e6f
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 15:51:17 +0100
+
+    TENTACLES-12: Add log4j2 config
+
+14	0	src/main/resources/log4j2.xml
+
+commit 982721d7bb3f0c7533f76f587921a4eeb4b6434a
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-12-15 15:51:00 +0100
+
+    Update to JDK9 in order to work with new log4j2
+
+2	2	README.md
+16	6	pom.xml
+
+commit f66a79f9a1196bb4d22854cdac53243011760a7e
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-11-12 14:59:03 +0100
+
+    RAT-279: Change badge to Travis CI.com
+
+1	1	README.md
+
+commit 2d7ea472ef31c450a445b9c82465863dded5d461
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-10-18 21:42:15 +0200
+
+    Adapt to new JDK name in Jenkins
+
+1	1	Jenkinsfile
+
+commit 6a33d8cdd3060b3fea26b2ae63f9900f991ca52a
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-10-18 21:41:24 +0200
+
+    Adapt to new Maven name in Jenkins
+
+1	1	Jenkinsfile
+
+commit 9196a6a0d101eb5ebb774294ffd937312334ec79
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-10-14 11:46:13 +0200
+
+    Update junit to fix CVE-2020-15250
+
+1	1	pom.xml
+
+commit 45404afddb3c84cb7d111a58dd2d3708f6270e5d
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-10-06 11:34:46 +0200
+
+    Add bage for ASF Jenkins
+
+2	1	README.md
+
+commit 9c92d23fe3be0feabb09843fb3248637b09a9998
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-08-27 11:34:46 +0200
+
+    RAT-271: Update new Jenkins coordinates
+
+3	8	pom.xml
+
+commit a3d741eb66c4c1889216dcedd5ace06f5910c796
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-08-20 11:31:11 +0200
+
+    RAT-271: Add Gitbox coordinates as SCM info
+
+3	3	pom.xml
+
+commit 61d58d458604de6514f6e7ada6cb8fd566dcacf0
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-08-14 22:27:21 +0200
+
+    RAT-271: Upgrade animal sniffer to comply with JDK8
+
+3	3	pom.xml
+
+commit 3683e34c643bce2dfef81bd0257065912ca3d343
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-08-14 22:22:02 +0200
+
+    RAT-271: Add basic Jenkinsfile
+
+158	0	Jenkinsfile
+
+commit f63f87aea9a8ae422574b78d0f00f48096d05d9d
+Author: Hugo Hirsch <github@hugo-hirsch.de>
+Date:   2020-08-14 22:08:41 +0200
+
+    RAT-271: Project is so old, build is not successful with modern JDK
+
+2	2	pom.xml
+
+commit a7e1f45577729d3823fa8b866fe8bc7de656d1d5
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2019-06-05 18:58:27 +0000
+
+    Use openJDK instead of OracleJDK
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1860678 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	.travis.yml
+
+commit 2beabf11d65425572acd350d30613078168359af
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-08-30 21:57:52 +0000
+
+    Fix build after ASF parent pom update
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1839705 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit 8c6932ecbece2e8085f8d623d9450798b78c3ec3
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-08-22 19:14:40 +0000
+
+    Update to latest ASF parent pom
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1838675 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit d03ae962172b2e09fbb413a9f7ff136b0df91044
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-23 21:50:28 +0000
+
+    INFRA-15791: Add link to travis
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1822063 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	README.md
+
+commit 41da8368f2c41361a15282be615982d122c9e79b
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-22 20:33:08 +0000
+
+    INFRA-15791: Move docs.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1821942 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	README.mdtext => README.md
+
+commit 5d53b1286e3b1724717c007d3a363c1fdad60112
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-14 12:35:39 +0000
+
+    INFRA-15791: Readd travis config
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1821101 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	.travis.yml
+
+commit 82f0df1b543c6a83c6242dc99bb50349091eb73e
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-10 20:20:13 +0000
+
+    Update to newer maven-site-plugin.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1820782 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	pom.xml
+
+commit aee6376b74950867b2ecb88caf68c3802f3d8446
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-10 20:05:43 +0000
+
+    INFRA-15660: Update to latest parent
+    
+    to trigger ASF<->github sync
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1820777 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 09d4002e5654b5a12b35796510e10f5da6ad8e13
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2018-01-09 22:22:58 +0000
+
+    Ignore travis file during RAT scan
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1820713 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	pom.xml
+
+commit 7cbd20fe9d95afae84427eea99caae74986460bb
+Author: Karl Heinz Marbaise <khmarbaise@apache.org>
+Date:   2016-09-11 21:06:16 +0000
+
+    [TENTACLES-11]Upgrade to RAT version 0.12
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1760280 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit a02d3be723e8b2b153b0e761f72e8c16316f69a3
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2015-11-17 18:48:57 +0000
+
+    TENTACLES-9: Add patch to have a retr strategy during crawl phase (patch)
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1714849 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	RELEASE_NOTES.txt
+2	2	pom.xml
+5	19	src/main/java/org/apache/creadur/tentacles/IOSystem.java
+123	104	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit c0958166d0ddf61de17a24b99dd5a1a1fde3e9ab
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-10-14 19:26:20 +0000
+
+    LHF: Reducing Eclipse warnings.
+    
+    * Version information comes from parent pom.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1631846 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	pom.xml
+
+commit 9c5db33c0055bc64ccd4a8660030eb9f182b8b07
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-09-14 21:07:54 +0000
+
+    TENTACLES-8 NexusClient not closing connections
+    
+    * Applying patch from Andy Gumprecht to raise number of connections.
+    
+    * Reformatted, added constants.
+    * Removed unused dependency to httpcore.
+    * Remove resource-leakage-warning by extracting encapsulated inputStream.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1624903 13f79535-47bb-0310-9956-ffa450edef68
+
+2	7	pom.xml
+130	131	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+104	86	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit e25f6878a75750193d727b7504a4868e83d0f490
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-09-07 21:57:42 +0000
+
+    TENTACLES-4 Build infra
+    
+    * Updating dependencies.
+    * Adding rat to every run and rat report to site reports.
+    * Started basic site and augmented pom.xml
+    * Enabled new maven skin for tentacles site.
+    * LHF: Removed some PMD warnings.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1623233 13f79535-47bb-0310-9956-ffa450edef68
+
+135	46	pom.xml
+1	1	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+5	0	src/main/java/org/apache/creadur/tentacles/IOSystem.java
+1	2	src/main/java/org/apache/creadur/tentacles/Main.java
+4	5	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+60	0	src/site/site.xml
+
+commit 42a38df186ca9a02f8b7b7045a1ca8d7d8e42cc1
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-26 06:59:21 +0000
+
+    TENTACLES-7
+    
+    - Added missing documentation and first template of release notes.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1620518 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	README.mdtext
+13	0	RELEASE_NOTES.txt
+
+commit dae74247dd8b85d9e261fea31a1721029201bda1
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-26 06:50:51 +0000
+
+    TENTACLES-7 Scan archives in EAR and RAR files.
+    
+    - Applied modified patch from Jonathan Gallimore from Jira.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1620516 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	.gitignore
+2	1	src/main/java/org/apache/creadur/tentacles/Main.java
+3	2	src/main/java/org/apache/creadur/tentacles/filter/IsArchiveInPathFilter.java
+
+commit 41abe62ef21cfde9651d362363c43ab586510b69
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-20 10:06:21 +0000
+
+    TENTACLES-4: build infra
+    
+    - Disable findbugs due to problem with older JDKs for now.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1619062 13f79535-47bb-0310-9956-ffa450edef68
+
+3	2	pom.xml
+
+commit 784291ad3d9e7bc2a1f98dc51c404dce9b690aa6
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-19 21:02:24 +0000
+
+    TENTACLES-4 Streamline Build Infrastructure
+    
+    - Added rat profile to enable RAT checks.
+    - Added rat reports to site-plugin configuration.
+    - Upgraded dependencies and added license headers and exclusions.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1618987 13f79535-47bb-0310-9956-ffa450edef68
+
+151	30	pom.xml
+1	1	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+20	0	src/main/resources/legal/style.css
+18	0	src/test/java/org/apache/creadur/tentacles/filter/ListOfFilesFilterTest.java
+
+commit f931f7dd6aeb6bb7fae516681502b5a29ce35719
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-19 19:04:14 +0000
+
+    Local development with git - more ignores.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1618936 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	.gitignore
+
+commit a54fa1a86b65f962a0eda55df9cd2bf87709357b
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-19 10:58:04 +0000
+
+    Adding IntelliJ stuff to svn/gitignore.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1618838 13f79535-47bb-0310-9956-ffa450edef68
+
+6	1	.gitignore
+
+commit ce06c9fef9e6b004f80262f420b43bb51c426851
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-19 10:15:02 +0000
+
+    Adding gitignore for local git development.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1618829 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	.gitignore
+
+commit 7c668688b127689a109faedb81d4604a70af8b79
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-12 21:57:02 +0000
+
+    TENTACLES-3: Provde help text in case number of arguments is to low
+    
+    -To prevent NPEs the number of parameters is checked. Output is printed via logger to comply with the current Tentacles architecture.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1617605 13f79535-47bb-0310-9956-ffa450edef68
+
+10	1	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 790e6209d5948ff9b3e4447f76ddd3f061226e3a
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-06 19:34:59 +0000
+
+    Using non-deprecated methods of httpClient.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1616319 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit ff663df33897c1e3f390d0689733a27692a45f89
+Author: David Blevins <dblevins@apache.org>
+Date:   2014-08-04 05:00:57 +0000
+
+    barely started with writing json version of archive data
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1615488 13f79535-47bb-0310-9956-ffa450edef68
+
+8	2	pom.xml
+23	0	src/main/java/org/apache/creadur/tentacles/ArchivesJson.java
+170	0	src/main/java/org/apache/creadur/tentacles/model/Archives.java
+43	0	src/test/java/org/apache/creadur/tentacles/ArchivesJsonTest.java
+
+commit 17a21e68ec7a04063f7a8592c00c1695689ad280
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-08-03 18:32:48 +0000
+
+    pom.xml improvements
+    
+    Adding link to Jira and TODO for Jenkins to be compliant with other creadur parts.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1615430 13f79535-47bb-0310-9956-ffa450edef68
+
+15	0	pom.xml
+
+commit 457eaf9e05a66b09a94fc1cd69473cc5984a1c26
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-07-30 21:02:21 +0000
+
+    Upgraded to parent pom v14 and removed unnecessary version information.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1614765 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	pom.xml
+
+commit 2f0d2bbafcaaac47b9acb8e4fa43016643a13021
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-07-28 21:27:28 +0000
+
+    https://issues.apache.org/jira/browse/TENTACLES-1
+    
+    Augmenting test case to verify that the list of files to check against is correct.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1614187 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/test/java/org/apache/creadur/tentacles/filter/ListOfFilesFilterTest.java
+
+commit 028f829d57369089d3d85dcd5c1e4f37482dbab5
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-07-28 21:23:51 +0000
+
+    https://issues.apache.org/jira/browse/TENTACLES-1
+    
+    Enhanced license and notice filters to not work on directories (thanks to Andy Gumbrecht) by factoring out a new super class.
+    Added UK/US-notion of license/licence to the LicenseFilter.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1614184 13f79535-47bb-0310-9956-ffa450edef68
+
+4	17	src/main/java/org/apache/creadur/tentacles/filter/LicenseFilter.java
+60	0	src/main/java/org/apache/creadur/tentacles/filter/ListOfFilesFilter.java
+4	17	src/main/java/org/apache/creadur/tentacles/filter/NoticeFilter.java
+16	0	src/test/java/org/apache/creadur/tentacles/filter/ListOfFilesFilterTest.java
+
+commit 1c4d5f9ac771e2c5cadecbfa41bde54c1a18bb11
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-07-28 21:00:46 +0000
+
+    https://issues.apache.org/jira/browse/TENTACLES-2
+    
+    Escaped license header in vm-templates to produce proper HTML, thanks to Andy Gumbrecht.
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1614175 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/resources/legal/archive-licenses.vm
+2	0	src/main/resources/legal/archive-notices.vm
+3	1	src/main/resources/legal/archives.vm
+3	1	src/main/resources/legal/licenses.vm
+3	1	src/main/resources/legal/notices.vm
+
+commit 8e4a572154387aa6fa8fb2636364504809c4d72d
+Author: Philipp Ottlinger <pottlinger@apache.org>
+Date:   2014-07-28 20:07:58 +0000
+
+    FIxed typos and updated year to 2014.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1614155 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+3	3	README.mdtext
+
+commit 797f06132dd5aa6849a192bc072a9d866dc365cd
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-04-01 07:31:36 +0000
+
+    Improve fluency of interface
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1463102 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/java/org/apache/creadur/tentacles/License.java
+4	4	src/main/java/org/apache/creadur/tentacles/LicenseType.java
+10	2	src/main/java/org/apache/creadur/tentacles/Licenses.java
+4	8	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit ea59f94ee4acd99203737d262f9eac1ca77ae22f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 17:35:25 +0000
+
+    Move nested type to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1463013 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/java/org/apache/creadur/tentacles/Archive.java
+91	0	src/main/java/org/apache/creadur/tentacles/License.java
+2	2	src/main/java/org/apache/creadur/tentacles/LicenseType.java
+53	0	src/main/java/org/apache/creadur/tentacles/Licenses.java
+5	76	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit bc0c9fc31ec37a2452fbe6e0cba2d77d8c713686
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:44:24 +0000
+
+    Move nested type to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462981 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/java/org/apache/creadur/tentacles/Archive.java
+1	68	src/main/java/org/apache/creadur/tentacles/Main.java
+96	0	src/main/java/org/apache/creadur/tentacles/Notice.java
+
+commit 4d92d6eb3ff2ed83386e5a29dc7c9d861618ddd1
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:40:47 +0000
+
+    Oops - added missing
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462979 13f79535-47bb-0310-9956-ffa450edef68
+
+158	0	src/main/java/org/apache/creadur/tentacles/Archive.java
+63	0	src/main/java/org/apache/creadur/tentacles/Layout.java
+
+commit 15f316cb0c4f19f5576cc46d250fd2e7b1155c17
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:37:16 +0000
+
+    Move type to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462976 13f79535-47bb-0310-9956-ffa450edef68
+
+8	136	src/main/java/org/apache/creadur/tentacles/Main.java
+0	1	src/main/java/org/apache/creadur/tentacles/Reports.java
+
+commit b79cfedf6eb9e30b1e9a6d1d627da284c4c0952f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:30:58 +0000
+
+    Introduce parameter object, consolidating directory locations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462972 13f79535-47bb-0310-9956-ffa450edef68
+
+44	44	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 7b3af86ab7225fba98519532fd0a3a5bc199464c
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:20:07 +0000
+
+    Preparing to push contents into archive
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462969 13f79535-47bb-0310-9956-ffa450edef68
+
+17	14	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 814b79cfa112914f11302072cd5732d7c112b3d6
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 14:14:03 +0000
+
+    Distinguish between the local root directory and the output root directory
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462966 13f79535-47bb-0310-9956-ffa450edef68
+
+21	16	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit f731cda5322f91e7e40f347631c3c054fda15a2f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 13:54:01 +0000
+
+    Move towards moving Archive to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462953 13f79535-47bb-0310-9956-ffa450edef68
+
+13	7	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit aa8cde90f20b016e4116e78295db8a4d4ff35440
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 13:47:38 +0000
+
+    DRY up code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462952 13f79535-47bb-0310-9956-ffa450edef68
+
+11	10	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit c8bbb2eda40279d77c8f38ff3a038f7134449432
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 13:42:51 +0000
+
+    Improve fluency
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462949 13f79535-47bb-0310-9956-ffa450edef68
+
+24	16	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 09f1e56d31aa76621b0bf9c06f71239796c813a1
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 13:33:40 +0000
+
+    Only create nexus client when needed
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462945 13f79535-47bb-0310-9956-ffa450edef68
+
+7	9	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 79daa684f1f75f5a54d36e911ea6c7b52ba9b5b5
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 11:31:44 +0000
+
+    Move toward more specific interface
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462932 13f79535-47bb-0310-9956-ffa450edef68
+
+31	33	src/main/java/org/apache/creadur/tentacles/FileSystem.java
+12	41	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 29a102e730d68ca7d8d8cbbabfc5f2394ef473a2
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 11:09:20 +0000
+
+    Consolidate file wrangling into FileSystem and delegate
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462930 13f79535-47bb-0310-9956-ffa450edef68
+
+45	3	src/main/java/org/apache/creadur/tentacles/FileSystem.java
+14	14	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 5ab3ab997049c373b0b0d789b95ee45b44fa5c84
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 10:43:06 +0000
+
+    Improve names
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462914 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	src/main/java/org/apache/creadur/tentacles/Main.java
+5	5	src/main/java/org/apache/creadur/tentacles/filter/Filters.java
+
+commit 8bce8a71a85f0adf5c0fdb00fd4bc56693cc58ff
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 10:20:05 +0000
+
+    Repackage filters, introducing factory
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462909 13f79535-47bb-0310-9956-ffa450edef68
+
+18	18	src/main/java/org/apache/creadur/tentacles/Main.java
+3	3	src/main/java/org/apache/creadur/tentacles/{Filters.java => filter/AndFilter.java}
+2	2	src/main/java/org/apache/creadur/tentacles/{ => filter}/DeclaredFilter.java
+1	1	src/main/java/org/apache/creadur/tentacles/{ => filter}/FilesOnlyFilter.java
+75	0	src/main/java/org/apache/creadur/tentacles/filter/Filters.java
+3	3	src/main/java/org/apache/creadur/tentacles/{IsArchiveInPath.java => filter/IsArchiveInPathFilter.java}
+2	2	src/main/java/org/apache/creadur/tentacles/{ => filter}/LegalFilter.java
+2	2	src/main/java/org/apache/creadur/tentacles/{ => filter}/LicenseFilter.java
+2	2	src/main/java/org/apache/creadur/tentacles/{ => filter}/NotFilter.java
+2	2	src/main/java/org/apache/creadur/tentacles/{ => filter}/NoticeFilter.java
+
+commit a853049af8acd52679995fc4ad62980599dcce01
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 09:33:01 +0000
+
+    Enumerate licenses
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462905 13f79535-47bb-0310-9956-ffa450edef68
+
+64	0	src/main/java/org/apache/creadur/tentacles/LicenseType.java
+3	9	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 05b07f550a0945d8a4e8892454b5068922c44baa
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 08:31:55 +0000
+
+    Push resource wrangling into responsible class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462900 13f79535-47bb-0310-9956-ffa450edef68
+
+7	10	src/main/java/org/apache/creadur/tentacles/Main.java
+2	1	src/main/java/org/apache/creadur/tentacles/Platform.java
+30	8	src/main/java/org/apache/creadur/tentacles/TentaclesResources.java
+
+commit 506a53c95c07cf17f127c19d475b65a8fee70e91
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-31 08:16:47 +0000
+
+    Introduce parameter object to simplify constructors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462896 13f79535-47bb-0310-9956-ffa450edef68
+
+12	11	src/main/java/org/apache/creadur/tentacles/Main.java
+3	3	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+54	0	src/main/java/org/apache/creadur/tentacles/Platform.java
+3	4	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit 66ffcf8ada9bb33ea947ea7479ace9363839c4f2
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 18:41:27 +0000
+
+    Move out nested type
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462838 13f79535-47bb-0310-9956-ffa450edef68
+
+42	0	src/main/java/org/apache/creadur/tentacles/IsArchiveInPath.java
+4	13	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 14131f3ffb2f261a6f56de2f3f48be89838cfe5a
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 18:36:50 +0000
+
+    Start to clean up repository mirroring code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462836 13f79535-47bb-0310-9956-ffa450edef68
+
+10	14	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit c7dfeb9aed1f57bfb22deaf5e92f28ad74785bbe
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 18:01:59 +0000
+
+    Push logic out into enumeration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462824 13f79535-47bb-0310-9956-ffa450edef68
+
+7	9	src/main/java/org/apache/creadur/tentacles/Main.java
+40	0	src/main/java/org/apache/creadur/tentacles/RepositoryType.java
+
+commit f0f245ee9ba34971d21374015bf643a102dffdda
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 17:48:33 +0000
+
+    Move nested class to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462815 13f79535-47bb-0310-9956-ffa450edef68
+
+0	11	src/main/java/org/apache/creadur/tentacles/Main.java
+34	0	src/main/java/org/apache/creadur/tentacles/Reports.java
+
+commit cf70fb3fcfbf993342a891ccff5d9ac46e4dcfc4
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 17:43:25 +0000
+
+    Move nested classes to top level
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462812 13f79535-47bb-0310-9956-ffa450edef68
+
+46	0	src/main/java/org/apache/creadur/tentacles/DeclaredFilter.java
+29	0	src/main/java/org/apache/creadur/tentacles/FilesOnlyFilter.java
+46	0	src/main/java/org/apache/creadur/tentacles/Filters.java
+33	0	src/main/java/org/apache/creadur/tentacles/LegalFilter.java
+38	0	src/main/java/org/apache/creadur/tentacles/LicenseFilter.java
+2	109	src/main/java/org/apache/creadur/tentacles/Main.java
+35	0	src/main/java/org/apache/creadur/tentacles/NotFilter.java
+38	0	src/main/java/org/apache/creadur/tentacles/NoticeFilter.java
+
+commit 870e309d1055fc94e6fefb670c6b146eae45bb48
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:58:39 +0000
+
+    Pushing classpath resource loading code into separate class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462800 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/creadur/tentacles/Main.java
+7	12	src/main/java/org/apache/creadur/tentacles/TemplateBuilder.java
+6	2	src/main/java/org/apache/creadur/tentacles/Templates.java
+41	0	src/main/java/org/apache/creadur/tentacles/TentaclesResources.java
+
+commit 1b9509687c7bfb18c66f3c79e52c0f4f98a1afc6
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:50:54 +0000
+
+    Tidy up: improving thread safety, names and field usage
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462795 13f79535-47bb-0310-9956-ffa450edef68
+
+27	24	src/main/java/org/apache/creadur/tentacles/TemplateBuilder.java
+
+commit 9a88a929a77cfe9078f3c37ce95bb26fb1a8317c
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:41:43 +0000
+
+    Inject templates
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462794 13f79535-47bb-0310-9956-ffa450edef68
+
+12	9	src/main/java/org/apache/creadur/tentacles/Main.java
+5	9	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit 2863e27eab98b8733aac8d7435cd41a985843c7d
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:36:08 +0000
+
+    Factor out nested type
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462793 13f79535-47bb-0310-9956-ffa450edef68
+
+91	0	src/main/java/org/apache/creadur/tentacles/TemplateBuilder.java
+4	65	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit e77f9c97916dbb3b2d4b4e4049e9a25b2883fa4f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:17:39 +0000
+
+    Inject IO object, hopefully more testable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462791 13f79535-47bb-0310-9956-ffa450edef68
+
+8	3	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+13	16	src/main/java/org/apache/creadur/tentacles/{IO.java => IOSystem.java}
+25	22	src/main/java/org/apache/creadur/tentacles/Main.java
+4	2	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+39	24	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit 7ee1b41244ad5bc2d4ffe8b3aa257949df93cf2c
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:07:57 +0000
+
+    Tidy up, removing or privatising methods
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462790 13f79535-47bb-0310-9956-ffa450edef68
+
+28	78	src/main/java/org/apache/creadur/tentacles/IO.java
+
+commit 34e3fe609eb00fe4c34d2a09a253088edb6946e2
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 16:01:22 +0000
+
+    Inject FileSystem
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462789 13f79535-47bb-0310-9956-ffa450edef68
+
+64	37	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+5	5	src/main/java/org/apache/creadur/tentacles/FileSystem.java
+43	30	src/main/java/org/apache/creadur/tentacles/Main.java
+32	20	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit 4221071297a194bc37e003c05ed312ec3a84a6fe
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 15:53:46 +0000
+
+    First steps towards injecting an object
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462786 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+1	1	src/main/java/org/apache/creadur/tentacles/{Files.java => FileSystem.java}
+15	15	src/main/java/org/apache/creadur/tentacles/Main.java
+1	1	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+
+commit e96309356c2cb4e5c91dc1c8f04f0aed1d3e7170
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 15:51:40 +0000
+
+    Tidy up and fix assertions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462784 13f79535-47bb-0310-9956-ffa450edef68
+
+16	36	src/main/java/org/apache/creadur/tentacles/Files.java
+
+commit b13e94328e4586534e0f357e117720b244795b55
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 15:44:09 +0000
+
+    Switch to longer, more descriptive names
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462783 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	src/main/java/org/apache/creadur/tentacles/Configuration.java
+15	9	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 7d2a03200eef1cc13003e7bce0d408edb00c0e2f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 15:25:30 +0000
+
+    Push file repository path name filter into configuration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462781 13f79535-47bb-0310-9956-ffa450edef68
+
+13	0	src/main/java/org/apache/creadur/tentacles/Configuration.java
+1	3	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit c94fe5ff852f32f499ae689c7c10fef3ee2ad9c9
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 09:24:58 +0000
+
+    Push more argument wrangling logic into configuration.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462723 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 4113f02dcd4e45dc79d3373cc793ec5d8be8a0e7
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 09:20:28 +0000
+
+    Push argument wrangling logic into configuration. Also apply some code format rules
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462722 13f79535-47bb-0310-9956-ffa450edef68
+
+20	2	src/main/java/org/apache/creadur/tentacles/Configuration.java
+275	216	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit cf5d7c845f4425cfe89ccb81fd5d24d389de6b91
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 09:06:13 +0000
+
+    Consolidate field into configuration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462721 13f79535-47bb-0310-9956-ffa450edef68
+
+7	10	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 6cc164d1da57ca653fdde646001cc81b0942a328
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 09:02:14 +0000
+
+    Start to factor out transformation of arguments into configuration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462720 13f79535-47bb-0310-9956-ffa450edef68
+
+48	0	src/main/java/org/apache/creadur/tentacles/Configuration.java
+5	11	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 33c77059afdcc744a7e10f2b677af9c30460899f
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-30 08:38:19 +0000
+
+    DRY up code, factoring out argument transformation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1462717 13f79535-47bb-0310-9956-ffa450edef68
+
+11	7	src/main/java/org/apache/creadur/tentacles/Main.java
+
+commit 5ce44b151c23b6974783daec21c1f0f21a8c39af
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-25 11:40:42 +0000
+
+    We've started making some changes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1460627 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit fab19a4b27147ab83159557547bc1579f346463c
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2013-03-25 11:12:58 +0000
+
+    The name is now Apache Tentacles
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1460613 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	README.mdtext
+
+commit 8f89b47762b3396e25001da80942945dd2221306
+Author: David Blevins <dblevins@apache.org>
+Date:   2013-03-13 06:05:04 +0000
+
+    update groupid
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1455806 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	pom.xml
+
+commit 04d610ffbecffb6b7d7c2685f0e391ce31243e04
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 11:09:01 +0000
+
+    Tidy up some legal information missed during initial import
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355697 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+18	0	src/main/resources/legal/archive-licenses.vm
+18	0	src/main/resources/legal/archive-notices.vm
+18	0	src/main/resources/legal/archives.vm
+18	0	src/main/resources/legal/licenses.vm
+18	0	src/main/resources/legal/notices.vm
+
+commit 31e3fc683ae7983cd408afd6011e9ff17d6a16d0
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 11:02:30 +0000
+
+    Organised imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355695 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/java/org/apache/creadur/tentacles/Deauthorize.java
+5	6	src/main/java/org/apache/creadur/tentacles/Main.java
+7	7	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+4	4	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit d424f3a5b31dbf7923116fc4d4c96048f79d42d4
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 11:00:48 +0000
+
+    Sort out license headers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355694 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/creadur/tentacles/Main.java
+16	0	src/main/java/org/apache/creadur/tentacles/NexusClient.java
+1	1	src/main/java/org/apache/creadur/tentacles/Templates.java
+
+commit 803efac6e65e79c9ffe1d81124d25a190b940da6
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 10:58:54 +0000
+
+    Repackage under creadur
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355691 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/Deauthorize.java
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/Files.java
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/IO.java
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/Main.java
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/NexusClient.java
+1	1	src/main/java/org/apache/{rat => creadur}/tentacles/Templates.java
+
+commit c2147a70114bf13663b6a4921fbff75717ff28a0
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 10:55:25 +0000
+
+    Adopt top level naming systems for components
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355689 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	pom.xml
+
+commit c30d28a2d226d1a40ab99385544de4977ffbaca7
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 10:51:02 +0000
+
+    Tidy up comments
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355688 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	pom.xml
+
+commit 77e058b6f2af8845dc5d115f691479d891be3b43
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 10:45:50 +0000
+
+    Ignore the usual files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355686 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 93b88928fa4768da49fa1522d8941b6261267ede
+Author: Robert Burrell Donkin <rdonkin@apache.org>
+Date:   2012-06-30 10:44:03 +0000
+
+    RAT-117 Switch to last major version, so that jar is easily available.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1355685 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	pom.xml
+
+commit 81e74836da23611e7c7a5d3bcb3af3c32e0449fb
+Author: Daniel Shahaf <danielsh@apache.org>
+Date:   2012-05-07 18:40:39 +0000
+
+    move creadur to TLP
+    
+    git-svn-id: https://svn.apache.org/repos/asf/creadur/tentacles/trunk@1335180 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 5ac0ed4e9b4423e2a4584bd7839fe9c88a9a646d
+Author: David Blevins <dblevins@apache.org>
+Date:   2012-01-17 03:07:20 +0000
+
+    Refactored so some of the logic can be more easily reused
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1232283 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	src/main/java/org/apache/rat/tentacles/Files.java
+16	128	src/main/java/org/apache/rat/tentacles/Main.java
+119	0	src/main/java/org/apache/rat/tentacles/NexusClient.java
+17	88	src/main/java/org/apache/rat/tentacles/Templates.java
+
+commit c342461dd5f1207146d92cfedaeef2eb3ecc7d7e
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-12-18 23:39:21 +0000
+
+    slight improvement in readability
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1220563 13f79535-47bb-0310-9956-ffa450edef68
+
+8	6	src/main/java/org/apache/rat/tentacles/Deauthorize.java
+
+commit 73e28b8ea0682a9485127997cc41d12a5d2f883f
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-12-18 21:36:29 +0000
+
+    Javadoc'ed
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1220550 13f79535-47bb-0310-9956-ffa450edef68
+
+27	2	src/main/java/org/apache/rat/tentacles/Deauthorize.java
+
+commit c7586a2effac01a51072b1f263e725a6be8e23ec
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-12-18 21:21:37 +0000
+
+    fixed the condition checking
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1220544 13f79535-47bb-0310-9956-ffa450edef68
+
+5	2	src/main/java/org/apache/rat/tentacles/Deauthorize.java
+
+commit d86638d1ae8f519d707edca08c6e46bf1fb5e8e3
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-12-15 02:10:33 +0000
+
+    Little utility that will yank the author comments from java files.
+    
+    If the resulting comment block is effectively empty, it will be yanked too.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1214594 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+106	0	src/main/java/org/apache/rat/tentacles/Deauthorize.java
+80	0	src/main/java/org/apache/rat/tentacles/Files.java
+18	2	src/main/java/org/apache/rat/tentacles/{IOUtil.java => IO.java}
+20	32	src/main/java/org/apache/rat/tentacles/Main.java
+1	1	src/main/java/org/apache/rat/tentacles/Templates.java
+
+commit 501be9a650a30bf989770f8cb4fb82d8b426835e
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-10-25 17:06:50 +0000
+
+    Added a README.mdtext to describe the tool
+    Added LICENSE and NOTICE files
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1188794 13f79535-47bb-0310-9956-ffa450edef68
+
+177	0	LICENSE
+6	0	NOTICE
+133	0	README.mdtext
+
+commit cda8f505a8ce3c7e5ecc1c5902e11a5ec23c021d
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-10-25 15:55:09 +0000
+
+    repackaged code, re-organized pom to closer match whisker
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1188744 13f79535-47bb-0310-9956-ffa450edef68
+
+47	72	pom.xml
+1	1	src/main/java/org/apache/{openejb/tools/legal => rat/tentacles}/IOUtil.java
+2	2	src/main/java/org/apache/{openejb/tools/legal => rat/tentacles}/Main.java
+1	2	src/main/java/org/apache/{openejb/tools/legal => rat/tentacles}/Templates.java
+
+commit 48edf9bb1a1258fd2e2452c17b9c01507ac768d2
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-10-25 15:34:38 +0000
+
+    moving "legal" sandbox tool to rat as "tentacles"
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/rat/tentacles/trunk@1188719 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 748177b09830bb1d09e1ad0aef3e0879db7ceb2e
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-30 07:03:55 +0000
+
+    testing commit from this machine
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1177534 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	pom.xml
+
+commit df957ac06d18b7dcc10a2aef8460bee83e736f74
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-30 04:18:58 +0000
+
+    small tweak to the layout
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1177500 13f79535-47bb-0310-9956-ffa450edef68
+
+81	27	src/main/java/org/apache/openejb/tools/legal/Main.java
+19	12	src/main/resources/legal/archives.vm
+
+commit 55f6f8bcae79d2127a00545dfecf0cb5ec10b4f6
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-28 10:15:46 +0000
+
+    support optionally crawing the file system
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176810 13f79535-47bb-0310-9956-ffa450edef68
+
+50	6	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit 01b69372217a293ae808512db3569ccf0b283f7a
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-28 07:17:42 +0000
+
+    small tweak
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176758 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit bbab6febca880be583d223c213c0837e369a74a7
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-28 07:17:11 +0000
+
+    command line executable
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176756 13f79535-47bb-0310-9956-ffa450edef68
+
+25	0	pom.xml
+17	14	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit 6203791e1f22eb2937bafeb8276d61ce74f0fb72
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-28 06:52:36 +0000
+
+    can do some comparisons and attempt to determine what isn't decalred and what is
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176751 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	src/main/java/org/apache/openejb/tools/legal/IOUtil.java
+223	10	src/main/java/org/apache/openejb/tools/legal/Main.java
+41	0	src/main/resources/legal/archive-licenses.vm
+41	0	src/main/resources/legal/archive-notices.vm
+0	17	src/main/resources/legal/archive.vm
+6	7	src/main/resources/legal/archives.vm
+6	1	src/main/resources/legal/licenses.vm
+6	2	src/main/resources/legal/notices.vm
+3	0	src/main/resources/legal/style.css
+1	1	src/main/resources/licenses/{asl.txt => asl-2.0.txt}
+324	0	src/main/resources/licenses/cddl-1.0.txt
+235	0	src/main/resources/licenses/cpl-1.0.txt
+
+commit 5009e0bcb2590094e573fa5c390f8341ea5375c6
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-28 03:58:42 +0000
+
+    Reports
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176706 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	src/main/java/org/apache/openejb/tools/legal/IOUtil.java
+364	24	src/main/java/org/apache/openejb/tools/legal/Main.java
+173	0	src/main/java/org/apache/openejb/tools/legal/Templates.java
+17	0	src/main/resources/legal/archive.vm
+23	0	src/main/resources/legal/archives.vm
+17	0	src/main/resources/legal/licenses.vm
+17	0	src/main/resources/legal/notices.vm
+202	0	src/main/resources/licenses/asl.txt
+
+commit 4d266720b890f9d78d7df869d0307822c65c23c4
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-27 23:28:57 +0000
+
+    Downloads and recursively unpacks archives
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176657 13f79535-47bb-0310-9956-ffa450edef68
+
+112	9	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit b6239cc215fd5c02906f32530e97e18542cfdfbd
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-27 22:36:05 +0000
+
+    collects a full list of binaries in sorted order
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176650 13f79535-47bb-0310-9956-ffa450edef68
+
+35	12	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit 2cae3236c49596ceca6289c98f53855a9f03060a
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-27 21:51:00 +0000
+
+    Not quite working, but attempting to collect a list of URLs of all the assets deployed
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176634 13f79535-47bb-0310-9956-ffa450edef68
+
+165	0	src/main/java/org/apache/openejb/tools/legal/IOUtil.java
+82	0	src/main/java/org/apache/openejb/tools/legal/Main.java
+
+commit 5b520c03831480dc015b04dba1a4cbf34ef2e314
+Author: David Blevins <dblevins@apache.org>
+Date:   2011-09-27 21:22:57 +0000
+
+    the start of a tool to help screen binaries
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/openejb/trunk/sandbox/legal@1176629 13f79535-47bb-0310-9956-ffa450edef68
+
+124	0	pom.xml

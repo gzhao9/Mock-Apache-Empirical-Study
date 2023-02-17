@@ -1,0 +1,4 @@
+file_path,method
+/thrift-maven-plugin/src/test/java/org/apache/thrift/maven/TestAbstractThriftMojo.java,mock
+/thrift-maven-plugin/src/test/java/org/apache/thrift/maven/TestAbstractThriftMojo.java,thenReturn
+/thrift-maven-plugin/src/test/java/org/apache/thrift/maven/TestAbstractThriftMojo.java,when

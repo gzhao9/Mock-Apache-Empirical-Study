@@ -1,0 +1,979 @@
+commit_id,Author,Author_adress,Date
+6ef5709e6c53629b41890f9df3047554663d3727,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2022
+d193d4e7c4a19f535d56e2737e9eea20e3093af0,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2022
+9d79af0962bc2d4400d86175340fe16542cc1988,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2022
+40418733744975977c050677cf14ca3623e60c0b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2022
+54c2110d05517793cb68e3a69d2e863bb7680f57,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2022
+eb2477555d32d25ec1e8f5469d52ff76beaf33b6,Evan Richter,evanjrichter@gmail.com,Jul-12-2022
+d4f7d57b43c798fd236020fe422072682cfdc67e,Martin Grigorov,martin-g@users.noreply.github.com,Jul-11-2022
+5fc7e599958c38d5aa1d46776fbc8590fcc02424,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-11-2022
+da2459fbc9edfd867fbd4bd7d77602b79d0ad3ce,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-11-2022
+d5621e9f8da61c02e4339c11b6852ad059dd72b3,clesaec,51320496+clesaec@users.noreply.github.com,Jul-8-2022
+2a46a61b65697706e2277921c3bf5ccb819c311f,Zike Yang,zike@apache.org,Jul-7-2022
+80c04a32dcbc0165c4e7f15f79c83afc6937193a,Ryan Skraba,ryan@skraba.com,Jul-4-2022
+820ed6e5ea4417b5735078bfd26c99f1305ea363,clesaec,51320496+clesaec@users.noreply.github.com,Jul-4-2022
+85348352cebf14a465eea0725b316b471e2020ad,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-4-2022
+1d72182fd6afc149d33b5de8e2c68492c116732f,Martin Grigorov,martin-g@users.noreply.github.com,Jul-4-2022
+797cec66c4d4b2d4eaf909bfc2a7d98922e2b128,Emil Ejbyfeldt,eejbyfeldt@liveintent.com,Jul-1-2022
+8066c57fe567c7f52ce2fd6c4d47a12831782351,Martin Grigorov,martin-g@users.noreply.github.com,Jul-1-2022
+bf6b86d2c784ced5ec791f8249d3f2ecf18a4ee0,Martin Grigorov,martin-g@users.noreply.github.com,Jul-1-2022
+29600bd2f569b1d31f3ffdc9f2ebd55d13db8527,Martin Grigorov,martin-g@users.noreply.github.com,Jul-1-2022
+0654da6a33cab41c894a4b3dfdde6048a75f887a,Ryan Skraba,ryan@skraba.com,Jul-1-2022
+a71fe72336d1ef5f387751551c5429a8a7c4c082,Ryan Skraba,ryan@skraba.com,Jul-1-2022
+f6740929b08cb3e4e04b7b303da9152dfa11b93e,Ryan Skraba,ryan@skraba.com,Jul-1-2022
+dd1d7ae0758596b6b4183a87eb3b94f1e7f298c2,Ryan Skraba,ryan@skraba.com,Jun-29-2022
+903fa84725ca5b2aaa1c740c9b0c3b4dcf24e023,Ryan Skraba,ryan@skraba.com,Jun-29-2022
+bbe92d0052e2561bb4dca4739c12f9a419cb1a3f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-28-2022
+f7142660d7ca58747fd53027182a42dd2acc8a1b,Ryan Skraba,ryan@skraba.com,Jun-28-2022
+3f59a62b6d9ef01aa92674c9b3e776d2bee8b252,Ryan Skraba,ryan@skraba.com,Jun-28-2022
+eb3342bb445e42b6bd1ceedc264884d20306e98c,Ryan Skraba,ryan@skraba.com,Jun-28-2022
+d17c5cc5c066297a09208098627bbed062549dd7,Martin Grigorov,martin-g@users.noreply.github.com,Jun-28-2022
+30bb7b43d8f702e9cfe4928c1e91cb764c9437d8,Martin Grigorov,martin-g@users.noreply.github.com,Jun-28-2022
+e42a570fe5405f85dd5a3bab621b725d8766463f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-28-2022
+f190f1e7d46f557881c3dc600df26d9d78a0233f,clesaec,51320496+clesaec@users.noreply.github.com,Jun-24-2022
+a8821d3ddd7e86d9567e48f0bc6387dcc0214c66,Alexander Galibey,48586936+galibey@users.noreply.github.com,Jun-24-2022
+f068da73b8543c9f6d151d1af58a43d8164b5adc,Igor Izvekov,izveigor@mail.ru,Jun-23-2022
+e4a40c4d6e93a50c17f7e42dd54928f8c42f633d,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Jun-21-2022
+6de4d088630e0ec6c6b5e603f2029bda4f9530a7,Igor Izvekov,izveigor@mail.ru,Jun-21-2022
+990ed3eb8a7b10ebdbde709458c7754ca4972b9c,Ryan Skraba,ryan@skraba.com,Jun-21-2022
+e53628d62c14f95ae9acb74449b5445f00ca072f,Ryan Skraba,ryan@skraba.com,Jun-21-2022
+41c5a3710d03b26bad5e90d04bfc51d6d9e20d65,clesaec,51320496+clesaec@users.noreply.github.com,Jun-21-2022
+5af6e43fa03be6d2a6dba4842479ae06e70bcd68,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-20-2022
+5f15869cb3c3a031a755c7b10194625d5150d68d,Ryan Skraba,ryan@skraba.com,Jun-18-2022
+5a80e32e6bba7d44fef0edfe333ff62c55da1392,Rens Groothuijsen,l.groothuijsen@alumni.maastrichtuniversity.nl,Jun-17-2022
+659917b08184528999e3307e69fabc6a66fd07b3,Igor Izvekov,izveigor@mail.ru,Jun-17-2022
+7f42e3ca9b44fc1745a59205445417d70ae294e7,clesaec,51320496+clesaec@users.noreply.github.com,Jun-17-2022
+8c723173cfcd42a098e374cdcb2416776f61393a,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Jun-16-2022
+79976977feba9a1e77ca1d96137295bc0ab96e8a,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jun-13-2022
+a8ee8778dfdccbc9bf5c8423d0d7dbdf1c2c0cbf,Martin Grigorov,martin-g@users.noreply.github.com,Jun-10-2022
+d00865afecaea95b80eb3c511b8a018fd3070d99,Martin Grigorov,martin-g@users.noreply.github.com,Jun-9-2022
+e1206ade30daca0cae5399fb1d88179bf3dbe7ec,Martin Grigorov,martin-g@users.noreply.github.com,Jun-7-2022
+051249634ad726f703c13341ad70917d300f517a,Martin Grigorov,martin-g@users.noreply.github.com,Jun-7-2022
+8a4abf06303480114c7eec3ced8ad77f3697bd32,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-7-2022
+a79c96ec8b2ac51c5da6f33c4461425db0763702,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-7-2022
+aa93007678cbabe118156179c8908399d481f625,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-7-2022
+9738a759f01e267772092c2299d8f0d7047942a8,Martin Grigorov,martin-g@users.noreply.github.com,May-31-2022
+5ad000848653d85a7a47699eb84c411ca037b0e4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2022
+e4f5674706704299eefd9abcf86d9b3fe84bd9a5,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2022
+5776ae39aa1495812ad66a4ce7a7ac5fb305255b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2022
+b6298437279cfe340aa2d51f7f9a0666f77f9cfe,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+2c13cd7e6d6d7485e1cdf93c9777f7d2ccae7558,Martin Grigorov,martin-g@users.noreply.github.com,May-22-2022
+b821b223c6e9d027a14893171c858d3ed3f03196,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+dc54464ea7694ad2facee1d333b1fa73ba1b9431,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+744af614ba4565b4d34ff637923961bb2e17a62d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+285858f7d9b7da8a5ae74990c785bc4e4818b940,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+74f6bb15c03136aedcac687c21c8914d1bee14ee,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+e429672ba6f00db5cf5fecea7f6b344b5326f47b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+043aeb148cf86c17bc2622671127e65261e1e8d4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-22-2022
+1ade72037cbb1f356f10f64550e5f94ce1a7fcde,Martin Grigorov,martin-g@users.noreply.github.com,May-19-2022
+0c769f94515cc13ae2130a818bf566cb09f27774,Martin Grigorov,martin-g@users.noreply.github.com,May-17-2022
+bed2ec96a8d8ecbffcf02f0ec73e4f4ecb886fb9,Martin Grigorov,martin-g@users.noreply.github.com,May-16-2022
+57c5428543d63529dcac37610551f77132c690f0,Martin Grigorov,martin-g@users.noreply.github.com,May-16-2022
+f56051539d9330722c36888b730aee5b559e01ec,Martin Grigorov,martin-g@users.noreply.github.com,May-12-2022
+3fafde2cf8dd4b3a34cf48347a346c436741ae91,Jack Klamer,jfklamer@gmail.com,May-11-2022
+41fbaa8e9443bebc276dc8f2d056a155f47bf0c8,Jack Klamer,jfklamer@gmail.com,May-9-2022
+ae89799545df2ffdb7cc8b42ce7ed63c435ed340,Jack Klamer,jfklamer@gmail.com,May-8-2022
+ce74e7726b33ac414299a924c63a7a7bc036f8bd,Martin Grigorov,martin-g@users.noreply.github.com,May-5-2022
+7ba9447adc1d55a990125e4203c539611d093d50,Jack Klamer,jfklamer@gmail.com,May-4-2022
+95440c4c5b904d93cfa878d3e13879a20ff499ff,Martin Grigorov,martin-g@users.noreply.github.com,May-4-2022
+c2bd724f8af1f67ef540f6b8f80fab88663a92bf,Zoltan Csizmadia,zcsizmadia@gmail.com,May-3-2022
+193d528d391a27079ae5ea4b0a01f4819405f6ff,Zoltan Csizmadia,zcsizmadia@gmail.com,May-3-2022
+923ea8e6042db6eddbd727ee303adc54ae58f4b9,Kyle Schoonover,kyle@minmaxcorp.com,May-3-2022
+fda48f29bdebbe9b7e0af9ee8397c8729f74b569,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-3-2022
+284280984e8f6a446825d30ec8c8768a644500e3,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-3-2022
+ac71ffe2812751b8a7e64660139a79c068b7af3c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-3-2022
+a21094ba79a4cad3523a47507637e2f175650380,Martin Tzvetanov Grigorov,mgrigorov@apache.org,May-3-2022
+75e74ee45c6a6f250a8f1321537e0fbb6c97517d,Thiruvalluvan M G,thiru@apache.org,May-1-2022
+76e55d8775efb02b5248aadf0bd512b137b58443,Andrew Onyshchuk,andryk.rv@gmail.com,Apr-29-2022
+9dedb2b8f635a2545617a65b4fdf1f074c3fc1a0,rbalamohan,rbalamohan@apache.org,Apr-27-2022
+5b055ac43085b11e467acd66c8630f424b1af50e,kordos,pkordowsk@gmail.com,Apr-25-2022
+1343c80eba2f6685266d3cae67ca6281c5f7f4cf,Jack Klamer,jfklamer@gmail.com,Apr-25-2022
+e921542dca3ab6ca8a4f513eec3976f54d8d2379,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-25-2022
+64c8da735db1a6e2f8492de820e80f3174be3cb1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-25-2022
+cf373f2926e3e8e87b6aefe731d991611e65c95c,Kyle Schoonover,kyle@minmaxcorp.com,Apr-21-2022
+c0463d0c376b260b4095106935855c938e80105b,Kyle Schoonover,kyle@minmaxcorp.com,Apr-21-2022
+104308d6bc6302b0d462ffc68105ec3c5dea14ad,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+8cc6650d6d52d8192b0da80cb4b1f71e33dff822,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+91baad9c4a336bd149fd00e3d98fc774e88d5f0d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+d16410a651c7cf6dd7b991d6bf91709fe016f937,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-21-2022
+9d025ca5fe413a50fb8ec039a0e614d836bb2a37,Martin Grigorov,martin-g@users.noreply.github.com,Apr-21-2022
+5cab566ce2685ec4ad933a2cdd9793d26e538e8d,Martin Grigorov,martin-g@users.noreply.github.com,Apr-21-2022
+f0b183f2773165e616ec22ed6c32f60cc5b961fe,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Apr-21-2022
+95b61b1983d8c3bccea000362dcfec64a42d76f6,Martin Grigorov,martin-g@users.noreply.github.com,Apr-20-2022
+9d87a206b52de7dc9402be711a51b72cb3c11160,Kyle Schoonover,kyle@minmaxcorp.com,Apr-20-2022
+ca71f9996f78517bbff24b4c8a03f1cf0505e605,Martin Grigorov,martin-g@users.noreply.github.com,Apr-20-2022
+f1f304644d3cd1ca8fa33d1fedb4aacc3aff47de,Zoltan Csizmadia,zcsizmadia@gmail.com,Apr-20-2022
+ab31be4a0fdadb0d48dd149a8ce43fe1583afb95,Zoltan Csizmadia,zcsizmadia@gmail.com,Apr-19-2022
+82b606e4289e0a3efa88d65a59e7ae3731fd4f44,Martin Grigorov,martin-g@users.noreply.github.com,Apr-19-2022
+361dd8b6ffdcba93c34a1801445c15fa02447442,Kyle Schoonover,kyle@minmaxcorp.com,Apr-19-2022
+a3ee2f193c199e4ff3832bdb34477e33aebd14b0,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-19-2022
+3312b986e43252963d567e3b1137b8de33220696,Martin Grigorov,martin-g@users.noreply.github.com,Apr-19-2022
+a852aa433111499f0479a8efd8149e7dcfb1b77a,Zoltan Csizmadia,zcsizmadia@gmail.com,Apr-19-2022
+1c84472681c888a77fa7295b43d84e06a4294641,yanivru,yaniv.ru@gmail.com,Apr-19-2022
+cf0cb14de5498cf420265217e8f4d3a84dd2f4a4,Zoltan Csizmadia,zcsizmadia@gmail.com,Apr-19-2022
+7c6fd1aad053b2cd33d79b6a383749e9ac50d7c6,Kyle Schoonover,kyle@minmaxcorp.com,Apr-19-2022
+3c3c05edf519ce41060c0534f0099c32f5bd8989,Jose Massada,jose.massada@gmail.com,Apr-19-2022
+3079cb8e88d185a3d3713163bed59d6b1c56ba5d,Kyle Schoonover,kyle@minmaxcorp.com,Apr-19-2022
+c908995f5b8ff2c37b4180a5f2d50c671b426d0b,Kyle Schoonover,kyle@minmaxcorp.com,Apr-19-2022
+c5d7cff2643792ab4b8da3cba78df5fe7778c91f,Kyle Schoonover,kyle@minmaxcorp.com,Apr-19-2022
+e4521514c76a3b501612f376c9e6db356e28836d,Martin Grigorov,martin-g@users.noreply.github.com,Apr-19-2022
+5bdebfdc53f1c0ff62af9f84942f2519946fa3fb,Martin Grigorov,martin-g@users.noreply.github.com,Apr-18-2022
+fc6cf1ede40735f55a8c0d95e5699524676143ae,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Apr-18-2022
+fbe7901093c5af959c9f0ddb3c8e447f62f86181,Martin Grigorov,martin-g@users.noreply.github.com,Apr-18-2022
+cbc4372029e7149c73db5a5aef491abdc5500b10,Jack Klamer,jfklamer@gmail.com,Apr-16-2022
+514e1c24f5a83901c4461efe3058dd0383b96a3f,Kyle Schoonover,kyle@minmaxcorp.com,Apr-13-2022
+6077d63143dbef1c6d762c344f43384a2e0fc76b,Martin Grigorov,martin-g@users.noreply.github.com,Apr-14-2022
+dd625f4f3aec105fef49d4e88424b892d82de0cc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-13-2022
+387f497285d49ffc577263d154bca968e2b5ea65,Martin Grigorov,martin-g@users.noreply.github.com,Apr-13-2022
+7673e8da822a9e27d7ff3e6258f91e2369b9f620,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Apr-13-2022
+fee1a73979b1f9e2b98e0797812f405c1ccb6615,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Apr-13-2022
+8c778c307ca34dce2190c2a4250ff607d5c9ab41,Kyle Schoonover,kyle@minmaxcorp.com,Apr-13-2022
+c9a346e8eb6012fdc8594877f02ea21be98c8b26,Martin Grigorov,martin-g@users.noreply.github.com,Apr-13-2022
+d44ed5ae2fbb6b2b8d21d4a2ada218f35d59a38a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-4-2022
+52abb50949e8d1933c7209f97d7bff5d8a20075d,Jack Klamer,jfklamer@gmail.com,Mar-30-2022
+4fc9e2369d620f36eabdd5d6e1f36dd45e37c458,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-30-2022
+65eb24a6275632d02eed8bca54c71314bfdb42e2,Lucas Heimberg,2036666+anekdoti@users.noreply.github.com,Mar-29-2022
+47ed66f609f079d5ffa13405d1132ce1194e9fbc,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-29-2022
+565849d05f768f5fc249711dc26bde0c9f68699b,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-29-2022
+7bbba423aeb25b4ffe9dde90be090a4311c32f92,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-29-2022
+04bac0f9b63353b9e2b3eb88185ab7c7f8b84a13,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Mar-24-2022
+c2acf468f206cba00a77dc2da462ac3029640cba,Martin Grigorov,martin-g@users.noreply.github.com,Mar-24-2022
+fcc4e2dec64e8cbb011a388f5e612c2b09e4d3ef,Martin Grigorov,martin-g@users.noreply.github.com,Mar-24-2022
+17e5a4554f65f5c3cd3300d3f87344c3474f6f2b,Jack Klamer,jfklamer@gmail.com,Mar-22-2022
+3797bbb6f844d40c58324474e9d7d8e1ea99e62b,Martin Grigorov,martin-g@users.noreply.github.com,Mar-22-2022
+8d0e53c3781e4fcfaac61e0bfd9c04b00115ad79,Martin Grigorov,martin-g@users.noreply.github.com,Mar-22-2022
+a4e42112cea950e76dd4fc914765205c7b305ae7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-20-2022
+842c9d26695c92a7f52d0850a09ec0f3d9f84513,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-20-2022
+66827318f0a134e8f6d4638a0787cb1b36821d1c,Jack Klamer,jfklamer@gmail.com,Mar-20-2022
+c7fdf69d811b57e888f31ffa520ebeb2f055f55b,Jack Klamer,jfklamer@gmail.com,Mar-20-2022
+ee4725c64807549ec74e20e83d35cfc1fe8e90a8,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Mar-18-2022
+8d6f71209f81e27efd4644fc3c8c65121a583334,Ryan Skraba,ryan@skraba.com,Mar-18-2022
+269a6ae52892b8d54c494a208cd576aa30d72c1d,Ryan Skraba,ryan@skraba.com,Mar-18-2022
+00be26acd539f9aecc809f802dc61c861f04ee2c,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-18-2022
+128510c4e9c3a714279aa7cea22eda19080521f7,Jack Klamer,jfklamer@gmail.com,Mar-18-2022
+9d5c517caa2e2aaa8ae9cb5e4f7e3ef92e2801c6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-17-2022
+ce9ef8e0e9a6ee36121a98512b1d7f510e84deed,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-17-2022
+4bc3ba0ff57bbfa4b67c6900e54181f8ed820787,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-17-2022
+8e11c613e0b0b57cf06cae3d37cb86536375770b,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Mar-10-2022
+80a9bf87b12c78c3db14b8d1419e7f77eb16f0d5,Ryan Skraba,ryan@skraba.com,Mar-10-2022
+7ec12f99c3995f50c392a5a5336cd1a5c04ae1b4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-8-2022
+f4725ca1cdac1e7b9ef9c329caf5e4bfdc5b19c2,Ryan Skraba,ryan@skraba.com,Mar-8-2022
+4b8dac4d0f210dce0b37d9f5c990d265f4ffc20b,Ryan Skraba,ryan@skraba.com,Mar-8-2022
+531ccde8a0fb2d782a4350cd8056de3ce08c427e,Martin Grigorov,martin-g@users.noreply.github.com,Mar-8-2022
+aa22276152802a85cc628c418f304a164d82b3af,Jack Klamer,jfklamer@gmail.com,Mar-8-2022
+44b8cd23756b752bf9d0976574453c712dcd44d9,Martin Grigorov,martin-g@users.noreply.github.com,Mar-7-2022
+e828cb0adc3c24e970f47c181d39ba21350d2ab5,Kyle Schoonover,kyle@minmaxcorp.com,Mar-3-2022
+5c1f4405ab46c68413a63a2206b49585a1d14695,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-3-2022
+9cd3c0e6df02e9706dc075d7be6eccd18c18d79d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-3-2022
+a0d5b943ddb9452ecc8b0d9d9e804f039ec9df1f,Martin Grigorov,martin-g@users.noreply.github.com,Mar-3-2022
+bdbb2a0379104cba9cf73a6df682c66c9e8180a4,Martin Grigorov,martin-g@users.noreply.github.com,Mar-3-2022
+5194d60ce70b6b848830f1e8ebbec1f44df0fcf6,Martin Grigorov,martin-g@users.noreply.github.com,Mar-3-2022
+81b1982da5ce28826edad26d052e6e4faad2bb9e,Ryan Skraba,ryan@skraba.com,Feb-28-2022
+137def8f3cf63cf9b53e5548aaba1fc6bf38a03a,Ryan Skraba,ryan@skraba.com,Feb-28-2022
+5d3931b9ed94a6a4558432f4993948329be35357,Martin Grigorov,martin-g@users.noreply.github.com,Feb-26-2022
+ad585c29efb46e3c056a11e4e10f9c2d408bb84b,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-25-2022
+3753a15606407c6358f76aa45a059ad3af6a3c37,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-25-2022
+e4f629c66f22d05c63c2ff6ed7f1956d0a7e2dbc,Ryan Skraba,ryan@skraba.com,Feb-25-2022
+72e1135f7c1171b7f028f7f4f5fa0a652eb4edc2,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-25-2022
+a183a205add80fa70348d5148f79e3d12f9ef144,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-25-2022
+f10fa6b9e30e38ec5cde6e00288f0b31b24bf1de,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-25-2022
+a4a0993a3eeb2f6a185a4314c50511037dadbac2,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-25-2022
+b4ab253ade3b1e88a5125e1dd533caf010141803,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-25-2022
+b184c357cb3e7c124a80ecd4698ba338df69d0c1,Ryan Skraba,ryan@skraba.com,Feb-24-2022
+7d4e46bb848ea9f2d0c3642787fd265bef9d7bfa,Ryan Skraba,ryan@skraba.com,Feb-24-2022
+d2ef493dc022e60268b25740fbffe9b51d6fc342,Ryan Skraba,ryan@skraba.com,Feb-23-2022
+092d9a9267f2b4dd1464641739f68579145ecc0c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-17-2022
+ea2d633294384cecdd50e0dd6efeb08b938a8a30,Ryan Skraba,ryan@skraba.com,Feb-15-2022
+b6c6c98536e18abc244de515f440f7f0578b3c6f,Ryan Skraba,ryan@skraba.com,Feb-15-2022
+57a8cafebabc10f22d8e2214fd7ac1eb9c5ccda5,Ryan Skraba,ryan@skraba.com,Feb-24-2022
+5a8c87a96d9aeb63b68b1f93bcff99347913a81b,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+b91e4bcc8abb1b2ad54565514a00cec8c9b91a60,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+70223760d8d29c1e21ca224df452f9f0cb801cbd,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+52b6987b7281587bab6f7a307333b631ed9fd39c,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+5d3f9a687484aac766783442f45fc66d02df530e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+a5ba8b445252987dec2d5f31e34c573823a04f0b,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+9b83acd4c7fbf6beb5be2cf10f76230624c98637,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-21-2022
+96bc4983ddad9faa951035b3c94a5434c6a4940a,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-21-2022
+7a8576475f776109d060ffdf22e876b754ac3ab4,Martin Grigorov,martin-g@users.noreply.github.com,Feb-19-2022
+4c24d9ddddc8cc7d507caf495a4f93f3c7255654,Radai Rosenblatt,radai.rosenblatt@gmail.com,Feb-17-2022
+b8e7d7d4134318ddd7713d610a339b0cea9e12a3,Radai Rosenblatt,radai.rosenblatt@gmail.com,Feb-17-2022
+f888458721ce2573a6e04113a69a30ce785f8891,Martin Grigorov,martin-g@users.noreply.github.com,Feb-17-2022
+a87e3ad4360189991e28eca05f461b85b60d3cd9,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-16-2022
+d7f9b9072c82b960f9eba0615e1b9989b81273eb,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-16-2022
+28cdc9fe57bc4d4abf8b28c9cb4b9859b4d34cdd,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-14-2022
+5c645aefadaadacaa19c268db46df5c20e7908af,Jarkko Jaakola,91882676+jjaakola-aiven@users.noreply.github.com,Feb-11-2022
+a5f8def249e7ee510d37bcf97fc60b3b87ae8001,Martin Grigorov,martin-g@users.noreply.github.com,Feb-10-2022
+11595499d6d410bf8663c365ad161e0c5d1e1358,Ryan Skraba,ryan@skraba.com,Feb-10-2022
+9f37f912e9bde481a14a27e5553fb61a4df1277b,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-10-2022
+8988196545a17e76a984b07313dd4a86497c9e02,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-9-2022
+443614c12a15bb58fcf2487eb67ca6f885a68f96,Daniel Kulp,dan@kulp.com,Feb-8-2022
+5d2f01a1ea73ba45391fcfaf0f349b81ec577f51,Daniel Kulp,dan@kulp.com,Feb-7-2022
+9ab5ae3cd60b8c38c330e9483140d1a6f8d254cc,Radai Rosenblatt,radai.rosenblatt@gmail.com,Feb-7-2022
+840dec6d47b6a81e94a451c425669f025e1c88af,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Feb-7-2022
+2681c1b0979fc37685d019c0db956593aa2ea5a2,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Feb-7-2022
+8fbd830765adfd308984fe4a8595ecb3ae11388e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-7-2022
+62e337e8e04a653730c6630f27d9f24181922ff6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-7-2022
+20cb8126867c2ab6a62d42f241e696fd91b7879d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-7-2022
+c35add7b29b5fab9229d79927a74f327bd56fa70,Adam McDevitt,adammcdevitt44@gmail.com,Feb-5-2022
+0cbfb17d49186348a85cc2afc19c6b940da4aad1,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+e57df5ea723fe403ab17d012180564ffbce1f993,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+6eebdf9777117e0301603d227b6b275616624255,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+6f704b13e4a393bb035cede13e5a2200eb3a1092,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+f9cceedeb46bf3c0b48ad21acb2c5f8778bfc9d8,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+42edbd721fedc0ed6cde89ab3b64a9ac606aa74f,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+ef1efc25c47e2a437c4f2d4475da9d2551d56d8d,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+3c55d2610169f299b73bd453c293a4c91d193c2c,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+bddc96095089b95d3e527a8e7f03550a28acc236,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+9ca68cb782a98badcbd24d0503777d6e45b0ab2f,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+60cdcd0e4dcc87a702a37272767e6e5e5c961aaf,Kyle Schoonover,kyle@minmaxcorp.com,Feb-4-2022
+fa443cf8c12b3f4cddf85c4a28f6b6aab68a148f,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-3-2022
+69fda12c5f3695504e15851b9028cc57efa4c90e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-3-2022
+ac85ba202a476fdd42acf4f074dfbffedd680f2b,Cody,csplugins@users.noreply.github.com,Feb-2-2022
+8ce603b6317638847fa547f0d2c587cd019903db,Martin Grigorov,martin-g@users.noreply.github.com,Feb-2-2022
+0cd0aa1f198e16c94cce03f7742f235d2d5bb4bd,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-2-2022
+4138f45fe19987fe4026eea2cbd8e0e7857e9bbd,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-2-2022
+a5436c589d017a6670d6e65189f381f8d8c594c0,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-2-2022
+41793f347d78127cd49d702df4d6c36abf4433fd,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Feb-2-2022
+8cbbe84bbf5e6fc97eee99131cee2b4df8d705b5,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+df720718aee6832b056c4c26f6f470f8ed4107e0,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+bfe65c688c9f67c7491e394439ce4deb24b14db2,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+b29ff557ffca53121dbc378d5c0873a06171dc60,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+18d74959d73346f9d1e1fa9dd8881177a1f49233,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+e8cd44067de5090ec6371e97b4b7dba4ba230769,Tiago Margalho,tiagomargalho@gmail.com,Feb-1-2022
+9a378ffab2b49d95edcd2dba36691096301b64ee,Kyle Carter,kcarter@mastercontrol.com,Feb-1-2022
+a80c58296037371912e9a9703bf2f7d17771b5fa,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+a95f0e677693ab8af75015f6bb333e55c7437f03,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-1-2022
+93db8e005eaaa07b5003dcbd03bee49dea3975b3,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+9c2464ca2b76b914e3563e2b101752b59ebaf6ed,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+c7827d220c018ed777b26fe16bc561fe7ea5411a,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+8bae4d83674dfd7b214c75bb920ecf1698f0919e,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+100574019b35465831d1b2fb0bff4fe2f512c89a,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+c304f08adaea2778a54349a95826d1cde1db8328,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+ae3b007de6b1fab3eedca801adea8f425544baac,Kyle Schoonover,kyle@minmaxcorp.com,Feb-1-2022
+c00aaa731b67c22281ea1f93b3bfe1788bf191ff,Michael A. Smith,michael@smith-li.com,Jan-31-2022
+7e5bdeec02d90ac63413fad09ce5e54adc087621,Martin Grigorov,martin-g@users.noreply.github.com,Jan-31-2022
+91f289e1a69ca0f337a582401381759b12d3dc22,ruleeeer,me@ruleeeer.cn,Jan-31-2022
+b3c582237398aee44d55c831ac1ad45b107b450a,Martin Grigorov,martin-g@users.noreply.github.com,Jan-31-2022
+c88481400a70546e7c261ca939709a551c8b1d40,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+5eff9a7f503ab0de550c99b6b46ac628ca9d817d,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+0766e423428b4caf36d5ef3ee1c10bcae21b6269,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+4c5379e4c15a0df2e3036094f6c90f142ee7a9fb,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-30-2022
+f7188bed2888d72a91c27e3ff0e7da63fe4ecc35,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+7ee056890cc44f956ee3a46a3663132a3b688655,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+fadf29e734bbe2774b21cbabd711dc71bccc1008,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+2af5d7e0116d53ca706b6e5a5f3b45e7d317ef7d,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+df45003d21febb2098a0cfc752a25613f0b76f4c,Kyle Schoonover,kyle@minmaxcorp.com,Jan-30-2022
+888ab68cb5b15098972ef99558dee903fe7b1e7b,Zoltan Csizmadia,zcsizmadia@gmail.com,Jan-30-2022
+2e53b45fb3cafee63c1b2f9d3ce31746f0763ef7,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-25-2022
+44aee9e09571ab3d92a9db7f103e473ae1644dce,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-25-2022
+415f6ab02eb83becea308dfc0e16f09309a58939,Kengo Seki,sekikn@apache.org,Jan-24-2022
+df4638e20e94904b9ea8225061df6b04dab9198c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-24-2022
+d369f4013d36492236d64670c533b8e28c8b186e,Martin Grigorov,martin-g@users.noreply.github.com,Jan-24-2022
+8a06ea3107664bc0083883459e4d4839ab7dd6b4,Kyle Schoonover,kyle@minmaxcorp.com,Jan-24-2022
+bdb7fadefe7c49488bfd38765c8eafc8b2d9b008,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-24-2022
+a5878d0aa4a64259885762e38485dc3e7dd54f98,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-24-2022
+0cbcda5ab0b51fd1c9c47d9adf23388e865dbd44,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-24-2022
+a35a2a5305560da8ccb8eb299498e73c8bafa3bd,Martin Grigorov,martin-g@users.noreply.github.com,Jan-21-2022
+9917a55d858dcd74d53176fad5341eb3f8846ae8,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-20-2022
+68484243164666833c03336b953c63c70a247b1a,Ryan Skraba,ryan@skraba.com,Jan-20-2022
+29197da2a94c889faa9101c92b7c60fed6a6db0b,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-20-2022
+064cc6b4bd1c6dcf59da989e712a27f0a955f70d,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-20-2022
+bb6b6dae7692f7ce6f0fbe9561c7408e8f295bec,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-20-2022
+e2eb392b5f080b7703d8bac35f6a478403d6f9af,Martin Grigorov,martin-g@users.noreply.github.com,Jan-19-2022
+49c6e1067c937d066503be9c7f4032fb03f67474,Litao Lu,lulitao1997@gmail.com,Jan-19-2022
+de6bfda7722d7df0bc9b14ee504af291fc9639c6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-19-2022
+dc4b19af1ba7d93bb36aec1b5432ef5ff3af44d4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-19-2022
+daba28643dd1b267949a659e91c6849a4cf6488d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-19-2022
+bd4e91ac09d2dc6cc25e2369697dde57fb3ad2a8,Ryan Skraba,ryan@skraba.com,Jan-19-2022
+98f4f4a87bb61cacf91f50253f8154c8b36de690,Martin Grigorov,martin-g@users.noreply.github.com,Jan-19-2022
+9ea105c793af3459c6aa492ff9898f37defd70e1,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-17-2022
+dcf925ec6c3f26ff7e5dfd7d48503b70259a2093,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-15-2022
+006f7c5ac462ab300747e367983a7223c4aa1365,Martin Grigorov,martin-g@users.noreply.github.com,Jan-14-2022
+6603e7777eda6f81ba7ed49c4672951b824bd6df,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Jan-13-2022
+3a8423fc48417e581d4423d2121cf16154e2dfaf,Martin Grigorov,martin-g@users.noreply.github.com,Jan-13-2022
+ee47d4cd64eddcbced7b7c77102480e767b210a6,Martin Grigorov,martin-g@users.noreply.github.com,Jan-13-2022
+9b4c7fcb6c31d8bfcc0ad76484b0c374c521b525,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-12-2022
+e3b11ad1aaedae21c66a7f42509b83302369fbc6,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-11-2022
+f4ad908608279c760b3a08390fe6f6c719a773e8,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-11-2022
+2a0c2638d13154e839d5cb4c438ecf67afba88b4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-11-2022
+aa890d29419511135aa13d1e95dcae2922b2912a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-11-2022
+ac1b159e482f021fcbe8b839e2943f119005eb2c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-11-2022
+633ce2cf931d95e5febbbee4e2dd8b5851d699bc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+6958462df53d88e96084a1288858e07291802f6a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+613dd99f3f096a482fbce9579572dac4634c0858,Zoltan Csizmadia,zcsizmadia@gmail.com,Jan-10-2022
+1246cc1dd31040cb6f65c503d739d065efcfec65,Martin Grigorov,martin-g@users.noreply.github.com,Jan-10-2022
+a741b2c6e368a5fd3eddf97af1b82c45c84a333d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+012197272fde9c6253a8c1672380d615c9e0d176,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+0811b827a233c415a5b48612817148b01db102ac,Martin Grigorov,martin-g@users.noreply.github.com,Jan-10-2022
+8e0c4afdadbe9f1651919ab5dd66cb5fc60af83f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+7b8f20ce52b2a74c6cc168778b655177251a53f8,Zoltan Csizmadia,zcsizmadia@gmail.com,Jan-10-2022
+c54684853c518c004a9c72f347deb81a93f4c210,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+180c041af1c4ddaaea88222dc0c1ba4b62ab026f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+9827fadaa339e9b81a480934542f7db57f7bed7b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+4781d8fe91dc8cc873d6ed21dc65c0b168e6fef4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-10-2022
+a4f200efcb14ab381b0d83d71e972753c1d178c1,Martin Grigorov,martin-g@users.noreply.github.com,Jan-10-2022
+a29b8691c216f2954e063230ce957a27e30e1853,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-10-2022
+c0bfb88abebff7ec754c20b7797cbbe6a548495b,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-7-2022
+e8200cd2d40d9cf4a702905e6d2eeb9d589ec57a,Ultrabug,ultrabug@users.noreply.github.com,Jan-7-2022
+36f34be4ae5a4c8b7a79867d6e082c5f608d5760,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-7-2022
+00969b71fb23a15a4741b4c8e906b243db5386db,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-7-2022
+7584320142768612bc7a58242231a476404bbceb,Ultrabug,ultrabug@users.noreply.github.com,Jan-7-2022
+4209b14b8750c5d631a77e2b84906a449c43f706,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-7-2022
+2e68b3ff4f7f3633a418219cd1dcee5e5bd08921,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-5-2022
+5b003cba088e122c553b0c648d13edb5ba250409,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+3af326e5e7befcc2d01c3f91ef525fbda788b565,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-5-2022
+7bda57acf5f19749bb3930f8816b06e4b3dee15a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-5-2022
+4015f96f1c71b444f626ec15fac8095861d07620,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-5-2022
+d5b85d820f28f0ad82864188531f853a78e33cb9,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-5-2022
+edd836f9d191b4ded5f1a23b432cb6913979c0d2,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-5-2022
+13de1f06ea6a4a64646a8dea5edc1d2538f2eadc,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Jan-5-2022
+b76a437b970889255703ff48f7ee5981dfbcc17a,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+409ed65dcc991f49744b6f8a9f74d94e3b29ce50,Tim Perkins,tjwp@users.noreply.github.com,Jan-5-2022
+bce386623c79b204957f1c37c43079d1c51c2038,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+74f9a51c354f986aae3efc8766d321a0939ec45f,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+87d04ef9065e3ef21f1fb4135c56d3c6500d2530,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+c4ce231b911cb26a4b860149c542a449d717e231,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-5-2022
+6a67d7161cf7c0f2e229c780b90afea8f2818886,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-5-2022
+54f37e52cb373904c7529a74dee1275bffac457a,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+9da79b68f4e37d2910d48e42dd43e559770fd38b,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+04e41fc2c8aa21e829f690e791e8aa2b0a049700,sycured,60801403+sycured@users.noreply.github.com,Jan-5-2022
+336f04adbe596b8f303b55ac29fbfc5c4785d960,Jack Klamer,jfklamer@gmail.com,Jan-5-2022
+6c2e3700b6c17e518755386fd81a2caa9deb1797,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+ea07ac016fef769e3e80645b32ca72e0a0d13a26,Martin Grigorov,martin-g@users.noreply.github.com,Jan-5-2022
+e5a0e064d795be5efa1b05d50191c0d3441c5195,Ryan Skraba,ryan@skraba.com,Dec-23-2021
+bbe3db4cc1ef68eaa129586beb5978e6315d598f,Serhii Almazov,almazik@gmail.com,Dec-22-2021
+d97e81f96e11cf0b550234d7c76045bea1734ab3,Martin Grigorov,martin-g@users.noreply.github.com,Dec-22-2021
+7c5d8df3fb282b1dffa6d11169756ed5593de838,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-22-2021
+1aa963c44d1b9da3dfcf74acb3eeed56439332a0,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-22-2021
+e7e48170a62c6060d7e532f7198756781f1d60d8,Martin Grigorov,martin-g@users.noreply.github.com,Dec-21-2021
+28f54cb35af3fab56985b710892cf9469aa7022d,Michael A. Smith,michael@smith-li.com,Dec-21-2021
+33d86a61a9d225d83349ffbda21d2b31eeefe7ac,Martin Grigorov,martin-g@users.noreply.github.com,Dec-20-2021
+57e0bbf961d0bffafe6dceddadc65f0defd84d80,Vegard Solberg,39623480+vegraux@users.noreply.github.com,Dec-18-2021
+a946ea706b933606540bc2afae4b81cf14cdbeb0,Michael A. Smith,michael@smith-li.com,Dec-17-2021
+895cdc8e2ebbf0341f292ff4ea684bf9cfbc68cb,Chris Johns,chris@ter0.net,Dec-18-2021
+8a5fc3cd17bdf6211097daf237e1e149efa78b56,Miguel E. Hernández Cuervo,mhcuervo@gmail.com,Dec-15-2021
+c528cfd7582ccb67da5789bc6b114294f89805f4,Miguel E. Hernández Cuervo,mhcuervo@gmail.com,Dec-14-2021
+d568e6d618e87ce176ba4f4dce29f44dc6da0507,RyanSkraba,ryan@skraba.com,Dec-14-2021
+69acacd50e06e489e953f8948ee6a36759c814a0,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-13-2021
+7e97a1084e11851a2614677dc088734758594049,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-12-2021
+7d851528a5e833c5bb10a54b080b8c347cdcb2c9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-11-2021
+0e74de1eedc90418731d14ce51528b84dc3caf24,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-11-2021
+d206242f3f8438421122accb87898a28eda1ea75,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-9-2021
+c1dd47e9388bc30922f043877df15caedaff23af,RyanSkraba,ryan@skraba.com,Dec-9-2021
+24ab2812eae62ac921bf03e0c1c41d1993f6551c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-9-2021
+527221aeff36587ecf5689a11114399494c2fceb,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-4-2021
+0332fdfdf07343f33e6c9e2c28c491cd80c0bb88,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-4-2021
+64267e1f4e54a12551d02ff85e41c18090917e69,Oscar Westra van Holthe - Kind,opwvhk@users.noreply.github.com,Dec-4-2021
+de50c244c00420825d4bd7d04c0c2d353e439367,Tim Perkins,tjwp@users.noreply.github.com,Nov-17-2021
+99547e0ee2e0a4a839253848d7b34bac7f5e4cea,feroze daud,ferozed@users.noreply.github.com,Nov-16-2021
+a1fce29d9675b4dd95dfee9db32cc505d0b2227c,Philip Sanetra,PSanetra@users.noreply.github.com,Oct-20-2021
+0ebd940282edfcec20c0d18faca68ea26ee31733,Zoltan Csizmadia,zcsizmadia@gmail.com,Oct-20-2021
+e5811b404ac01fac0d0d6e223d62441554c9cbe9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Oct-18-2021
+0f4197d94cb4672e756129d49af5c52591e2528f,Tim Perkins,tjwp@users.noreply.github.com,Oct-14-2021
+fb398e0ddbdd67ae50909533f55defe52488e5da,Martin Grigorov,martin-g@users.noreply.github.com,Oct-13-2021
+131f2c503b38ca7513fc9657205c7c67db3ab3ba,RyanSkraba,ryan@skraba.com,Oct-12-2021
+dee5e32f8581107c28f73dc95fff74c0b4efc6f1,Tim Perkins,tjwp@users.noreply.github.com,Oct-12-2021
+8f0b8d68c3fc10b6a5fc09bae4a5c30defe53897,RyanSkraba,ryan@skraba.com,Oct-6-2021
+0789cb7d98608bc8ff8add3b395dddd464ba23c5,RyanSkraba,ryan@skraba.com,Oct-6-2021
+753ff034cd853359ee1531a44d4ee8c4b85d8976,Kengo Seki,sekikn@apache.org,Oct-7-2021
+a86dde293841a5f7856c11c799ca6561e6745419,tom-j-irvine,66488893+tom-j-irvine@users.noreply.github.com,Oct-6-2021
+da39228b606c9260652aaa583f460cb74997b197,RyanSkraba,ryan@skraba.com,Oct-6-2021
+14b381b576f9ceb86062f6e68708cc3343abf869,Martin Grigorov,martin-g@users.noreply.github.com,Oct-6-2021
+3fe5e306eaa43bdc06cef291321a8c04058a6be9,Anatoly Kupriyanov,kan.izh@gmail.com,Oct-5-2021
+00a4f5c486baf2876bb0aaa3d1978285f0cf1d0a,Yubao Liu,yubao.liu@gmail.com,Oct-5-2021
+c86b34d01e80e19c58f28d4104b280a3e6b891f9,RyanSkraba,ryan@skraba.com,Sep-28-2021
+d2468e342b26fc613741363bd41d47e365d831b8,wx930910,wx19930910@gmail.com,Sep-28-2021
+82a7bb62a3a24d01ce33d6e4cec33387f582aad7,Ryan Skraba,ryan@skraba.com,Sep-27-2021
+c5ffd6e4fa5a231e2b37cf0f165b9fe4fc4c3c6c,belugabehr,12578579+belugabehr@users.noreply.github.com,Sep-22-2021
+b94de96866740ad3beb19d6f6784bc341aadf5a0,Matthew McMahon,maccamlc@gmail.com,Sep-22-2021
+2a353f42c18169756d04750fc3d056f1f3e7a292,Radai Rosenblatt,radai.rosenblatt@gmail.com,Sep-21-2021
+6322fad07a01cba1f62a2f41b891b000832370ed,Gyula Komlossi,gkomlossi@cloudera.com,Sep-14-2021
+b951829f06be7654d9543e89ff25a8b81abb3046,Daniel Kulp,dkulp@apache.org,Sep-15-2021
+6a2d7e72744bee6eb954a516bfa455e430071b99,Daniel Kulp,dkulp@apache.org,Sep-15-2021
+97d4dd72d3102233721d95a85bb5000dcf32396b,belugabehr,12578579+belugabehr@users.noreply.github.com,Sep-15-2021
+36f5f97f6330184594edaca84a829313b7c83bcf,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-14-2021
+0341f4dd09024495d8a49b06212697c17b8f973e,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-14-2021
+184b9b04bb51cbc294d180316fa5dc200ef6d98f,jmccl,jmccl@users.noreply.github.com,Apr-30-2021
+9418a49ef1c02a3d4192f94ac24b93e8cc58bdff,Kengo Seki,sekikn@apache.org,Mar-18-2021
+4c9d326c9d8fc0320256034132fa6bbc90a37aa9,dc154p,dcraft2@wayfair.com,Mar-10-2021
+b815566e0f3ad3840588019b4cad6f3b6fb54971,dc154p,dcraft2@wayfair.com,Mar-10-2021
+d4cad4813f34252bf09f2b2ef8eca9795848a144,Daniel Kulp,dkulp@apache.org,Sep-13-2021
+62a2d3f0e1490ae110059823af3aeda008b8a912,Ebere Abanonu,eabanonu@yahoo.com,May-9-2021
+1f1efa7a04981ac458e1889d33f7a70429e9eca7,Ebere Abanonu,eabanonu@yahoo.com,Apr-12-2021
+fe40576cd22e93776e7e48302f4d3358b0b4a4e3,Thiago Froes,tf.froes@gmail.com,May-8-2021
+a50d65c5f446708483e1fabcd816ceb3b76bcf81,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-12-2021
+79a1ae9dc81873cfd767a23003846bea0f51c936,Daniel Kulp,dkulp@apache.org,Sep-13-2021
+1e44880328fb1e1c8f6e98d863c9d36938316904,Leander Schulten,Leander.Schulten@rwth-aachen.de,Jun-1-2021
+39b849e9aceecf9547d3bf4e8879ba7f227aa941,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-4-2021
+4a9f9876f4839c668ebc6b4ce158678215a6704a,Daniel Kulp,dkulp@apache.org,Sep-13-2021
+5978d6f558e7d1d15bcbc45ba1713116655c317d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-12-2021
+b6491f3f9d196867f52393985d849af54f245fbd,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-10-2021
+444ea493f2f210f7d9839b153f97d72671e64a7a,Kengo Seki,sekikn@apache.org,Sep-13-2021
+60e2da37f103868c5b776eaa22e7de6c41a7cf00,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-10-2021
+5ad692bb5f4c29433a7a737ff3b01d24315aad52,Martin Tzvetanov Grigorov,mgrigorov@apache.org,Sep-10-2021
+ae84185254c70ada10ad93dbc7b362f934b05254,Daniel Kulp,dkulp@apache.org,Sep-9-2021
+e285a8a222e6610db4eb7dd7497b4324e50ac177,Daniel Kulp,dkulp@apache.org,Sep-9-2021
+289c193d02f9639c437692878fcad83087a4c5be,Daniel Kulp,dkulp@apache.org,Sep-9-2021
+289a3cfdcf5ef6950dc433d10113d860bad4c382,Daniel Kulp,dkulp@apache.org,Sep-9-2021
+cf7bfe7710febdc84e70fcc8ad21d859dbf1be1f,Daniel Kulp,dkulp@apache.org,Sep-9-2021
+1dbb2312163aed49937f1d96d57b305d44e39ed3,RyanSkraba,ryan@skraba.com,Sep-9-2021
+46ef00a3da71cefa7ace866c203f7969b026009a,Kengo Seki,sekikn@apache.org,Mar-18-2021
+e15c34cc6ce7be9c172253ec528942aa8ded4ce1,Meni Braun (MSFT),31686674+meni-braun@users.noreply.github.com,Aug-2-2021
+6d92d7a0f0a9345df412496ede11cc33471d12d8,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-8-2021
+c0874195b66005615487c56ffdf9a32fb2557d8b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-7-2021
+5d9984ef07d821d40d70341e2848a3b312798e5c,ShawnWu,yxmmwxe@163.com,Sep-6-2021
+4654e621888e631fa6980e83efa8cb100a272378,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-6-2021
+5a2a26bc68ae4642d3ac4839b606a6a479ac8c04,RyanSkraba,ryan@skraba.com,Sep-3-2021
+6a0e712e5d027ea0e8b3a9ee30ebc139bf0b842b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Sep-2-2021
+39c0069521015537d976786cf57b6b4990b1a8c1,Michael A. Smith,michael@smith-li.com,Aug-31-2021
+9fd2b0e1f7da1c53e02803f2666ed08e19883ed4,RyanSkraba,ryan@skraba.com,Aug-31-2021
+042593d21a22918b2c3920470bbe0b5e586313e9,RyanSkraba,ryan@skraba.com,Aug-31-2021
+e8c61ba4f0051a76d4bf2e2d4391ec92a6e90f4f,Michael A. Smith,michael@smith-li.com,Aug-29-2021
+0dc26365c209c22161b16fc3a7665007aa0f9ea7,Michael A. Smith,michael@smith-li.com,Aug-28-2021
+6a1d0f3a1c3b39350a27802bb1df18434985fe4b,RyanSkraba,ryan@skraba.com,Aug-27-2021
+411b6b9cbe4046abdc9cc4293ebd9f2548f37b64,Jeffrey Mullins,mullins.j@gmail.com,Aug-26-2021
+0a5d4c99c21d588d83e2eca2e658b0533c65d391,Yang,Yang.jim.xu@gmail.com,Aug-26-2021
+1410e79f9df61669c2d52f6d0643e6c35156e615,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-17-2021
+3abe819c3b8a5a5666081a14a7e85be47cb19104,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-16-2021
+914a6f2ef561c655ab64d81a35cbde1fb83b4c9d,Meni Braun,mebraun@microsoft.com,Aug-9-2021
+d1b4810a12e369cc94b4166037b29462275f409f,Martin Grigorov,martin-g@users.noreply.github.com,Aug-7-2021
+ba3ad6d7db72cb063c559babc1ef4ff8cb1c0c32,belugabehr,12578579+belugabehr@users.noreply.github.com,Aug-6-2021
+0980ddac4c0707c22cf71a8dddeb1e8b42cc0dee,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Aug-2-2021
+fca3cb41b40a0b048a43ca33c74262e89afa278b,Tim Perkins,tjwp@users.noreply.github.com,Jul-31-2021
+340eb3ad0d4efdcdd9646decf5f2d9fe15352d89,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-27-2021
+d303de5c1e1e9d1348a2a3b0de847d6a80025f00,Martin Grigorov,martin-g@users.noreply.github.com,Jul-26-2021
+ccb7a50077cb672407296935ffd6bacf2890ec83,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-26-2021
+ff8b0300e796a65cff0e2df6ac912300e03cc0a4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-20-2021
+a9e3915732fc29a47b150a902f5f5cdf666b502c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-19-2021
+a2cfd3519c20a3022c11ff01c1f42acfad6b0108,Anderson de Borba,ande.brb@gmail.com,Jul-16-2021
+1b630a9b5099051ea6cb63a37f7ca13e949a6343,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-13-2021
+f468930a1e119517491ed4e64b1bbd2906446b49,Subhash Bhushan,subhash.bhushan@gmail.com,Jul-12-2021
+45f425f022c64c06e6ac29df47ca2dbbbbe35fdf,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-12-2021
+4a5e4a686e55882d48c527328502700c765f1772,Martin Grigorov,martin-g@users.noreply.github.com,Jul-7-2021
+c4bc1da6b28f326e7c33b434627ce980c31d78fe,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jul-6-2021
+8dd55dbac12103c4e81be199a7d819e8e8fb5b56,Andreas Hailu,6646502+hailuand@users.noreply.github.com,Jul-2-2021
+72b3c51512752f471392e3e5eaa40f954a99b752,Benjamin Leber,grisu118@grisu118.ch,Jun-30-2021
+e813d7ae065c3f58bd9f1b3a7396d3bcf3d8f4ee,Ismaël Mejía,iemejia@gmail.com,Jun-28-2021
+3b5cdb919ca2b40bb67d806554e98a008dfa07b1,Michael A. Smith,michael@smith-li.com,Jun-23-2021
+6c4e165584431aeb21ff8f84fe1cefc5c398fa8e,Michael A. Smith,michael@smith-li.com,Jun-23-2021
+5bb032029bb2e07e5b9175b72bbf72a6fdef4289,Thiruvalluvan M G,thiru@apache.org,Jun-22-2021
+73b5fa85db895f239fc683a3225d833ec659b67c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2021
+093f576cad4106d14eaf2129286c1bbdfbff574a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2021
+bd63189c2e1857e68e5266b42ab9b5247f3791a5,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2021
+abee9574e0f8bbd8937dc20a6fc7ec1d6ba5eada,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-21-2021
+b2abc70bb85a5b515790d0ada7be212fadd5cce1,Michael A. Smith,michael@smith-li.com,Jun-18-2021
+ea371817d2e148531bc9bae959939e2911be22b6,Michael A. Smith,michael@smith-li.com,Jun-18-2021
+a3e4572dc6de4097cdf9d1e9fe984ed59ba281ad,Michael A. Smith,michael@smith-li.com,Jun-16-2021
+11621b56a5c0729d92b77974e0cd7835dab57356,Michael A. Smith,michael@smith-li.com,Jun-14-2021
+94698e2a5f3ee5ec3a62a859c5c6a5965e835409,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-13-2021
+9855c0eb737973e7a3976e2d85d40b41201be56d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-13-2021
+d8a08cec5cbb7962b09f019f32325a9072df52d3,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-13-2021
+5fd979fafe50cb55f0cd8129d45be0e1f15c4015,Ismaël Mejía,iemejia@gmail.com,Jun-11-2021
+b3944584e0dfea7c945902bde1d850b346aed4fd,Ismaël Mejía,iemejia@gmail.com,Jun-11-2021
+6dc6055e04188919886bd1b4ed95a7c6f4fac23e,Michael A. Smith,michael@smith-li.com,Jun-9-2021
+95edb5b6506015093dad197377bd021fa94776e2,Michael A. Smith,michael@smith-li.com,Jun-8-2021
+c58e23b5770a6710491f7136e1279ef408fe8f40,Ismaël Mejía,iemejia@gmail.com,Jun-8-2021
+4db2e32cbdf5577c62e9770e8387d1d312b2bfce,Michael A. Smith,michael@smith-li.com,Jun-7-2021
+14108018e886257cb629d84e85bf3148efcb4095,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jun-7-2021
+67818ad2069916f25af7cc27bd192d66359aa372,Ismaël Mejía,iemejia@gmail.com,Jun-3-2021
+2ab8fa85d05f04387bd5d63b10ad1c8fd2243616,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2021
+981c88a68a37012c9e7f9c26bd6982bfaaf469ea,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-30-2021
+b0b86bf2887ed259882a7355f4573d25629fd776,Tim Perkins,tjwp@users.noreply.github.com,May-28-2021
+8c156bd10af22f5bda22a926f86c21e93b12ab4e,Michael A. Smith,michael@smith-li.com,May-28-2021
+9f2f2d52b5449f82f4c7fa8db8581bc16ef70d1f,Michael A. Smith,michael@smith-li.com,May-28-2021
+0c96242bb7816cfe0d61ac8ff25c8572c3d9e2e6,Michael A. Smith,michael@smith-li.com,May-28-2021
+25187ec39d3564b0e564baec53365c9cce565b74,Michael A. Smith,michael@smith-li.com,May-28-2021
+8cf8e7070958a4a287e0f1a138f1eea9d0c31fc9,Ismaël Mejía,iemejia@gmail.com,May-24-2021
+e80bd2542243619673b7b3072da892a1afb9ac68,Ismaël Mejía,iemejia@gmail.com,May-24-2021
+f84c53c1fb066db34fef53ab4694ff2d44462b16,Ismaël Mejía,iemejia@gmail.com,May-24-2021
+7f15e3d52d0066b04c11e94b7dc9a3959cb3859b,Ismaël Mejía,iemejia@gmail.com,May-24-2021
+88a6014b17b36eb94df9e9208c5cc44449c1da51,Ismaël Mejía,iemejia@gmail.com,May-24-2021
+c8f953bc5e6599b90283992b643bdc91adbef84b,Michael A. Smith,michael@smith-li.com,May-23-2021
+bdff7574f386ca317f37584531928641a66d1b96,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-23-2021
+d67e6adcb307d159517c811eee60e62f90c265d3,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-23-2021
+d979758d43f58c8c7cae38c246d8821c4e61fa31,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-23-2021
+72a0fef3e9247bd94621288fb2e6d88408e3c836,Michael A. Smith,michael@smith-li.com,May-21-2021
+817c85a2cc30c24ce2032eecccef7a7c50b6979a,Michael A. Smith,michael@smith-li.com,May-20-2021
+be168d7d19ede539b45d42c4a310b979a7406486,Michael A. Smith,michael@smith-li.com,May-20-2021
+04015fed09065138679e5e90fcf8615ffb5f4e6e,Michael A. Smith,michael@smith-li.com,May-19-2021
+b51f7158b4af6b3e54918ad89aca79f76200c460,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-16-2021
+282ed6171792d30e9d15336e2ec2c289db7efd48,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-16-2021
+2bbac9e8c6ebbf462e6610b699f852b8df835668,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-16-2021
+df51e78752030c5ac929bd9adbb6fe1739a28485,Andrew Thauer,athauer@hotmail.com,May-15-2021
+36974d0e87f6b1af34d3575403afd22c62b728d5,Ismaël Mejía,iemejia@gmail.com,May-15-2021
+93d5e2110ca867c6c6611f8715c0934e437518c7,Subhash Bhushan,subhash.bhushan@gmail.com,May-14-2021
+542b65d174759f32666139422d848daccc4a1c3d,Michael A. Smith,michael@smith-li.com,May-14-2021
+68708e718c8f3731768644305b15fcdca2e30a77,Ravindranath Kakarla,ravindhranath@gmail.com,May-9-2021
+7d4dbee18244824f3bfea90247ee4a3e27b7b822,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-9-2021
+759b63d90a6d8712b1e344254c5d32f350cda66a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-9-2021
+224e2bb3bae5ea22a38689b665ff730bae6a796b,Tim Perkins,tjwp@users.noreply.github.com,May-8-2021
+389d35131af037bbf3bd5da739528a13191ade43,Tim Perkins,tjwp@users.noreply.github.com,May-8-2021
+103477369fcb49a5372f9f5c1353fcd575119287,Martin Jubelgas,unchuckable@wolke7.net,May-4-2021
+69871012fffdd6de82b32c194e7a1880320fa700,Ismaël Mejía,iemejia@gmail.com,May-3-2021
+08d9f1998836355526d12a9f09b904b23e7ccb1f,Ismaël Mejía,iemejia@gmail.com,May-3-2021
+d1ad56f762ab19a20f10000498e7c867532aa422,Ismaël Mejía,iemejia@gmail.com,May-3-2021
+ad4083b097257ac72e5cf32985e757aa09107b6e,Tim Perkins,tjwp@users.noreply.github.com,May-2-2021
+546f9f9f11152a024a035df567b5d329d2acf46f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,May-2-2021
+1ac15edc8609d700aa0ed5ece207ab904f1a8623,Artur Kalimullin,kalimullin@gmail.com,Apr-30-2021
+3f34bf8b65df1190c54d80f437d47f76a029de76,RyanSkraba,ryan@skraba.com,Apr-28-2021
+4be83e4a6768bcae90d43c20a914d082850ffd76,Ismaël Mejía,iemejia@gmail.com,Apr-28-2021
+01b174a161892802f22c6424e800ded903084078,Ismaël Mejía,iemejia@gmail.com,Apr-28-2021
+c17df618cbf717b17a0e906aa4200b0ce9daebc9,Ismaël Mejía,iemejia@gmail.com,Apr-28-2021
+18890afe3d728a0c1ef1f2aba46155c32cf0d567,Ismaël Mejía,iemejia@gmail.com,Apr-27-2021
+ffac9093dc183afb790ab2c01f691d8527c5fff1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-4-2021
+1f00455e496be35a941833e956376ef3d791116b,Ismaël Mejía,iemejia@gmail.com,Apr-21-2021
+31c4092b13cf22a2adb3a7a7925cde0a79a970f4,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-20-2021
+e177951d56d3a7cbacc8165abf7d98da743db0e9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-20-2021
+50676f142fad5d685d9f0e24a7f2e9d01e6eb8e8,Ismaël Mejía,iemejia@gmail.com,Apr-20-2021
+2ad9d3c69b29f9ea344a93f841fe57de683a520b,Ismaël Mejía,iemejia@gmail.com,Apr-20-2021
+4fd00e0f3f7d925422293f7b64eb9827e69f9c6a,Ismaël Mejía,iemejia@gmail.com,Apr-19-2021
+101b8327a0f143bc141d75a37c8e8f601137fbda,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-19-2021
+e25282a9bc53eb3558ec36d9daf72e84ba5145c1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-19-2021
+7df18d6fa83c2ed6e3bd69b5cc84e5b6815fb280,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-19-2021
+493ff8a966e17fa5bf6e293aa64afc156915d624,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-18-2021
+c5cfc6c712af06487e54e52b3983c32949650f3e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-18-2021
+4961457f91d08a5907ebd71ca9ed088cea30f342,Ismaël Mejía,iemejia@gmail.com,Apr-16-2021
+b47eda9d130f09847d5c666ce8b057196963b578,Tim Perkins,tjwp@users.noreply.github.com,Apr-16-2021
+0c9a60eba295adf9b92f785f204b5b2875ef5ac5,Subhash Bhushan,subhash.bhushan@gmail.com,Apr-16-2021
+357b8fad6464ab25f8e03385ca54d1ce8ec63543,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-11-2021
+a3befb526c0e011036b66649c2360a8c1c7d9419,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-11-2021
+d6e6fc068f8c0eaaf84d81b623744d363ece294d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-11-2021
+589a9be3387aea2ad3c356964256eaff7645c3c2,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-6-2021
+89efb8dd7bef28945d0e9598d913aa9ec843593c,Radai Rosenblatt,radai.rosenblatt@gmail.com,Apr-6-2021
+e819e3677e6e46da6cb75b1dd41d66dc976d1ea0,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-5-2021
+c769c4343e24d2473417afe46b37a1b60d7ca84f,Subhash Bhushan,subhash.bhushan@gmail.com,Apr-5-2021
+2b299efb6ce3b294991e3461304e4f1715579ddc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-4-2021
+83e31445a9cb2a7cf08c88f26fb7c7772bcbecfc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-4-2021
+20d67fdd27404b9f240a8275774b91f567ed4419,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Apr-4-2021
+8a5774b8a4942c40ee9279efeb712cfea8a1ce55,Thiruvalluvan M G,thiru@apache.org,Apr-4-2021
+c4168a0c0eccca5f117e2cc98e283fa73fe4ea91,Thiruvalluvan M G,thiru@apache.org,Apr-3-2021
+4d3da1107b8c22b0b6a3b0853fa676553d35188c,RyanSkraba,ryan@skraba.com,Apr-2-2021
+c9aee06dc78ee01b39aaacba7582bc431fb36ccf,Thiruvalluvan M G,thiru@apache.org,Apr-1-2021
+5b6e75cd29d7e78fd0422bc71b1dfad0bebe47d3,RyanSkraba,ryan@skraba.com,Apr-1-2021
+7c5e429ac5a71596844bf1d52626ce29054dd335,Subhash Bhushan,subhash.bhushan@gmail.com,Apr-1-2021
+95876f284d59acb3d7993918bda9747a68f68b99,Thiruvalluvan M G,thiru@apache.org,Mar-31-2021
+563ca6af476ce56bc1be5b5b9be82e8809c41cfa,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-28-2021
+0ceb3dfdd3ca8ec84f43aff9678e01cf47f3fbe2,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-28-2021
+39de1e2049008415a01004dfefe7a875afbd66bd,Thiruvalluvan M G,thiru@apache.org,Mar-29-2021
+5bd7cfe0bf742d0482bf6f54b4541b4d22cc87d9,Subhash Bhushan,subhash.bhushan@gmail.com,Mar-25-2021
+0b13a87dae9e7379c6fd4c2e0e896f2efc188015,Thiruvalluvan M G,thiru@apache.org,Mar-24-2021
+42822886c28ea74a744abb7e7a80a942c540faa5,Subhash Bhushan,subhash.bhushan@gmail.com,Mar-23-2021
+f0ee46dbceb4327f50a552ff32ad8c7641b43781,Mitja P,mitjap@gmail.com,Mar-22-2021
+338db27462cbb442a60033f99fde7d92f863b28a,Thiruvalluvan M G,thiru@apache.org,Mar-22-2021
+b4e8bd84205c0d7f210a4c5783a934d7c9a55275,Thiruvalluvan M G,thiru@apache.org,Mar-22-2021
+1fb064ddb647686a707f55290bd0fee83a366df1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-21-2021
+5be7d16312fb3a0e1ea18c60a04ba0c1e92e1fc0,Kengo Seki,sekikn@apache.org,Mar-19-2021
+860f45803c611c985683c9fc28482338d7dd5b3b,Ismaël Mejía,iemejia@gmail.com,Mar-18-2021
+b934afe2fa7d6a6553d505b1db2a516374c886f3,Kengo Seki,sekikn@apache.org,Mar-18-2021
+c030d4201e315f62f11ea9757017c38239fa6a17,Kengo Seki,sekikn@apache.org,Mar-18-2021
+f67e53ac7e8592b609ba46ea9cd4d73c350baa85,Tincu Gabriel,gabriel.tincu@protonmail.com,Mar-15-2021
+ba7a5895179f12521eccc0b18a5941d356fc117c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-14-2021
+e0a6a770cbc597b635009a8cb5de3d9f5437bdfe,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-14-2021
+6ebaa2d8ec5a72b459c2439a255096d67eb8bb9a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Mar-14-2021
+8824d6577368cf29b867efcd331151259c24e7b0,Ryan Skraba,ryan@skraba.com,Mar-9-2021
+0209b21a348ed7d0866c3dc46bfbcc780e86f2dd,Dongjoon Hyun,dongjoon@apache.org,Mar-9-2021
+f4e2ebaadaf6e6d99b59882233f8024243adb55d,Thiruvalluvan M G,thiru@apache.org,Mar-7-2021
+04928ad70d7c56f821f0cce2033984874c13f53a,Thomas-Barbier-1A,thomas.barbier@amadeus.com,Mar-7-2021
+b882d5230991b42bd017601435ea059d7cd3b492,Ryan Skraba,ryan@skraba.com,Mar-5-2021
+2459d95096a59559553bc4bd8c74cebf8a75d804,Anatoly Kupriyanov,kan.izh@gmail.com,Mar-4-2021
+bfe1d03d683d67cdb9a984c02c6b1eb75ffe7689,Ryan Skraba,ryan@skraba.com,Aug-5-2020
+e90c0c5cd7740a948fa49172e921bc88573ed699,Ryan Skraba,ryan@skraba.com,Jul-31-2020
+72654bf73c9eefec06001ab2d1181fbfb127922c,Ryan Skraba,ryan@skraba.com,Feb-3-2021
+1f49e55c71184fe73c754be4fa39dcb1db46d4cb,Ismaël Mejía,iemejia@gmail.com,Mar-4-2021
+f40474e07550cc33e054607a66f6cbd40fd09250,Ismaël Mejía,iemejia@gmail.com,Mar-4-2021
+fc22ada98fa5cca84651ba3f7c788910b324d852,Ismaël Mejía,iemejia@gmail.com,Mar-4-2021
+52e4d6ee1cd9f79970da38df11934e637e52b65a,Ismaël Mejía,iemejia@gmail.com,Mar-4-2021
+7c38a2977f498708fae9ca4c0a1710d1417922ee,Ismaël Mejía,iemejia@gmail.com,Mar-4-2021
+c175a63b64ee5440a906ad9dcbd298334c2c2555,Zoltan Csizmadia,zcsizmadia@gmail.com,Mar-2-2021
+cff3bdad6e32faf74cae7321e0bcef83846d5351,Dongjoon Hyun,dongjoon@apache.org,Feb-28-2021
+bfbb45b0605b8498b4050d05adcb2270350579ae,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-28-2021
+c076d619ebc32c5855258e1c9b337de2a2f3a1d1,Ismaël Mejía,iemejia@gmail.com,Feb-28-2021
+23fe79f324d6c7e7e13243d6c39a5c0da7196609,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-28-2021
+adf099d5898fd92397b21ed367be299e321e8aba,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-28-2021
+d4a257460cfbebec3dc2d0ab82375fb7ee4bd212,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-28-2021
+25459ec86ca469ee3ead855bb78556b2f09b8a24,Thiruvalluvan M G,thiru@apache.org,Feb-28-2021
+552ee9e3c1679fec9ecb959c7c12ed7bd91827b0,John Karp,john-karp@users.noreply.github.com,Feb-24-2021
+4918c14684a384d80b077fe27488c1912c3bc9bb,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-23-2021
+c7eef98ba68fc23df9a0256a0a93ac405fe3b948,Lucas Heimberg,2036666+anekdoti@users.noreply.github.com,Feb-23-2021
+4a3a624509f5dfd40e8f5b32e9d60cc7a90ab4fa,Allen Reese,areese@users.noreply.github.com,Feb-23-2021
+b90278af3446fe82b061c08076d61b7d1ecaa445,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-15-2021
+ab583427573cd9a1476265ed176f18c6b1180a30,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-15-2021
+e73952236118d144f60aa44af19eca79ba1d622a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-14-2021
+1f746d4941ae80216295ce112b84353043be5395,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-20-2021
+7b4721d91e08ab8bf71c424365a76a5b44c74e93,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-8-2021
+68090374cdb00e5bdb5e6fde3d5e08a29f2293a6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-14-2021
+214e6ebf8dce91a0a0910281ddb8e82a19f6c310,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-14-2021
+3427f5f8f2c2f404b5112f15d143205a84fd737e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-14-2021
+5ebc186856114c508f28203b19654658e87045e7,Fokko Driesprong,fokko@apache.org,Feb-11-2021
+da771e4d603b771c4add65e17c25c13990a1c463,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Feb-7-2021
+941000b1e3c71a89010999d7aa0c4955e3672f5a,Flavien Raynaud,flavien.raynaud@gmail.com,Feb-7-2021
+8e5a8ef61b0623efc797ac9bbb2028678b279956,Emily Crandall Fleischman,emily@commure.com,Feb-7-2021
+36ef0b71c6c624bef8525704229a7791b51788d5,Andrew Olson,930946+noslowerdna@users.noreply.github.com,Feb-3-2021
+02bdc2da3ade2fe5a0c1138bff0d4574a8d7075b,Ryan Skraba,ryan@skraba.com,Feb-2-2021
+568ee67c2d0c8d62049741ae78dc91910aa1b6f2,RyanSkraba,ryan@skraba.com,Feb-2-2021
+44737386cb17a359515f068e7fe9caa0f7bfff70,Fokko Driesprong,fokko@apache.org,Feb-2-2021
+8da43216f0c1c7a64154ec6ebd668d7c76893137,Tim Perkins,tjwp@users.noreply.github.com,Jan-31-2021
+6d77f5048dcc3b6f0924c86b740a2c90a8354fa8,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-31-2021
+30515453b14b4ca15e2f10c840dae448e0e1089e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-31-2021
+351f589913b9691322966fb77fe72269a0a2ec82,Allen Reese,areese@users.noreply.github.com,Jan-29-2021
+41587a9099eae06ceb615ec440ed70e767af02b6,Fokko Driesprong,fokko@apache.org,Jan-29-2021
+0fc0e05ddcef06958937af561159063d4b3c634e,Fokko Driesprong,fokko@apache.org,Jan-29-2021
+f0c2ac2f0e9df12da7a135aba290e4fc2f727f81,Flavien Raynaud,flavien.raynaud@gmail.com,Jan-29-2021
+eef23fcfea7971dc901553dcaed0f72ed365a32c,Jacob Turner,jacob.turner870@gmail.com,Jan-29-2021
+8c02574102234d49a0b48d55dd2aa36bf14322e2,Flavien Raynaud,flavien.raynaud@gmail.com,Jan-29-2021
+9c248bd138581c0d423ce9181c440ffe88a1d65e,Emily Crandall Fleischman,emilycf@mit.edu,Jan-28-2021
+d8299dc65eb5ea9fee0012032355a630e3c60f9c,[Squire] Dave Grijalva,72040568+dgrijalva-squire@users.noreply.github.com,Jan-28-2021
+afe8fa1adfbed7971c077338cd9441b14503507a,Juan Cruz Viotti,jv@jviotti.com,Jan-27-2021
+5d97f286d01f95b20b6a47f3df4525433bd30efb,Adam Sheehan,a.t.sheehan@gmail.com,Jan-23-2021
+72b06153729b1a7963012b1e3e0cc3837e452322,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-21-2021
+7643ac45d041b4273fb1099f9638131d01381c11,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-21-2021
+5412eca32406e3a5d8579400bc6c3843ff5fb206,Fokko Driesprong,fokko@apache.org,Jan-13-2021
+020e30c94c71ccfbc6de58a68befb9405ee4c048,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-20-2021
+9f3c7ee088d0a7b81a6aefe82809a75360655b49,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-20-2021
+e3f977697c605f52973aa21e61f7be3208c38029,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-20-2021
+dbed143b8d1f056a0516f37589bb1925d8b56768,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Jan-20-2021
+f4d2b0ddf51ea1bd8a8c0151ee7741ae1239eb53,Fabrice Fontaine,fontaine.fabrice@gmail.com,Jan-20-2021
+90d0a49d02416cac41962ac40d3662967febfcdb,Allen Reese,areese@users.noreply.github.com,Jan-20-2021
+8c2c6bf7610194bdad61b00743dae22a839b7ff5,Ismaël Mejía,iemejia@gmail.com,Jan-20-2021
+3c99902f50e7998f972c491bfaecac2e3cacc981,Ryan Skraba,ryan@skraba.com,Jan-11-2021
+1ee0e2778e8e6d95c9def1e94cb59c72ef0da369,Ryan Skraba,ryan@skraba.com,Nov-30-2020
+1cc5f7b607714a0750d9634d5a27e40a00e92c9c,Allen Reese,areese@users.noreply.github.com,Jan-15-2021
+21e39347f227516aa353ee84367a0d46d18420ab,Brian Davidson,bryjeep@gmail.com,Jan-14-2021
+bd31cc452dbe8513f9d2f00181d910622dfd4bbe,Joel Turkel,Jturkel@salsify.com,Jan-10-2021
+96312e4705fc6ef1c6d9fde631afe2a2cedc8e9e,Joel Turkel,Jturkel@salsify.com,Jan-10-2021
+e8db541f0c343d5f5f0773f7cec687a83cee3698,Joel Turkel,Jturkel@salsify.com,Jan-10-2021
+6c527e5f6cebd595a14b4b38f47b973a151636fa,Michael A. Smith,michael@smith-li.com,Jan-4-2021
+4467c66e05abf0f3e3ad3570fca4a7769a13533b,Michael A. Smith,michael@smith-li.com,Jan-1-2021
+ca6d72dd618b7b52aedd32654bfaa6c35d950ccf,Michael A. Smith,michael@smith-li.com,Dec-20-2020
+0fbc98b7625577a9b51c4c52467d62cf08cbc16f,Michael A. Smith,michael@smith-li.com,Dec-20-2020
+f28acbbb9860bd62cb24ead83878d7526d075454,Kirill Fomichev,fanatid@ya.ru,Dec-17-2020
+89c03cfe5fe8a0ad1aacf910e9b94c57a41ea67e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Dec-4-2020
+2cc44c5b3ab234ac1258a34d233a9d88cfe15565,RyanSkraba,ryan@skraba.com,Nov-30-2020
+de6153ecea6fe660bcf20ff67f47a0b05211b8e1,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-27-2020
+d5179c3d0a2c3146edc1c499a816e48be7a5bf80,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-27-2020
+d5b1970e95c5b43a8998ee0e01dcae095bb26963,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-27-2020
+4e372ded6760295e68bb30efebba26d2ff7047ec,Romain Leroux,lerouxrgd@users.noreply.github.com,Nov-27-2020
+9076770e2bb8bed9e8bb11d0c2442df7495dcba2,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-27-2020
+318cb4651206d7f07f92a3328bd49eccd2d0cd06,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-27-2020
+226ba8a2bd6bdc81ee9e79f85e05c63b7482fd52,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+9a42a2bc847054965cf86c77451f22105645662b,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+1e16824005d0f0fcae84e04ea4519691f710a3ec,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+9d99073c5a90e7efca9c38dd0f2ff9508c5d96bb,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+1b3e973baaa73873133a45403ca64b95c1c5ef7a,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+f59297f10e4a8a4d938640ae2bd8046f4a7a2403,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+9eebe823452a4e4772e4e9b379ba5956487d0da8,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+2817b09f09e1acce9691cbd6fa62b1c82fba0f5a,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+389e5eae7bdb8618789df22c14cc3d6fd65cf594,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Nov-25-2020
+78e524962fbc68a103094f652d605b4035326975,Ismaël Mejía,iemejia@gmail.com,Nov-21-2020
+64ce2af5cbdc36e0ebde12285068aa56c25ea9cf,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-19-2020
+0bbdfc096d3d3435a6bc2c4eff7b771ba69fd8cd,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-19-2020
+d04fc44417920714e4cad4b11a73b41e68c101a6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-19-2020
+b7d5027291621769653771e4fc91dba98bc08d8d,Joel Turkel,Jturkel@salsify.com,Nov-20-2020
+7b778627616a97a06c19a9250bdc09d8e25935ce,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-17-2020
+121df31767b77c70e9417b8521c9969d62dde95d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-17-2020
+60c59212a41406e4f24b8541332a4b2496a945e6,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-17-2020
+2a4b875081aee1e2e7030f4aedef49cb15a9fb2f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-17-2020
+9d450a50846eec18635cbde059af378575fbcaae,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Nov-17-2020
+baa676566eaaa81c5249d03edcf58b6a690a4c11,RyanSkraba,ryan@skraba.com,Nov-18-2020
+30328e20f92aee9944697de9bbb050184b8584a1,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+75c4dd3436cbc8b86a04e9681ad83a2f2a22334e,Ryan Skraba,ryan@skraba.com,Nov-16-2020
+18b811aac4313e1ac67dab4048695bd0cf9e40ca,bellemare,adam.bellemare@shopify.com,Nov-9-2020
+d3bb916340203521065972da7e29aee05ea9f421,Ryan Skraba,ryan@skraba.com,Nov-17-2020
+edddf440521d253aecbd0f95a65c6b0063fe654f,Kengo Seki,sekikn@apache.org,Nov-16-2020
+e42b44e0bfeaaf1fcfd28bb7396b7f663ec1aa50,Matt Kellogg,matthew.kellogg@gmail.com,Feb-18-2020
+c4686b715155cd31d926da962ebb2cc203e1a831,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+63afb6a2ce867379c951d42ebc8b85ff653e9bdc,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+372313b018c4b34e17469327aaf8e9381e6a4524,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+1a0bd70710bd30a4d7168e0b1c88fb33ebfdc6cd,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+51a7b211b152a5f3d3f5b13b03c3f8a1ccc4646c,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+73ea6c5585ed13ddd97fb47fe7515bd05b47b818,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+00cdeecbf65c6cdf8ef58dbfab671475e76ec93c,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+79f94fbc67bdc3880215e89225069e0d6b3bb460,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+398e6c9dacc094b1f3349d60331c087a8e5a545c,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+e6ce95914cf28f6331d1c61896e65e40a121344b,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+4f4ddf041c1a73aad011be62e9cd7e9bb654148c,Ismaël Mejía,iemejia@gmail.com,Nov-12-2020
+321d16deff543b2f07a9c1487a1dfccd8d25286e,Vladimir Kralik,vkralik@gmail.com,Nov-12-2020
+b39848b75012efe6576aad7f1a013510e3baa9f0,RyanSkraba,ryan@skraba.com,Nov-12-2020
+5ebede65e1a550295bc662e5aef9e2421a388abf,Ryan Skraba,ryan@skraba.com,Nov-9-2020
+68b2e9df5aefa187db5b627133ba009606393e2f,Ryan Skraba,ryan@skraba.com,Nov-6-2020
+53b7ccc8d61427a60b6354564e1613a6577e7c04,Ryan Skraba,ryan@skraba.com,Nov-9-2020
+c97fa4971ee951eab51a35d8e4a7c1ba7388e4e7,Ryan Skraba,ryan@skraba.com,Nov-9-2020
+942ec8e0cc011ec9fcfff7ba9f5c656bb54d51d1,Mick Jermsurawong,MickJermsurawong@users.noreply.github.com,Nov-2-2020
+6a5acde74c45c3997b093cea79d831038ac8a182,Kyle Bendickson,9833362+kbendick@users.noreply.github.com,Nov-1-2020
+9055b08eb00494e65adcf22498095864897b8b37,RyanSkraba,ryan@skraba.com,Nov-1-2020
+6caf1c304185f581fdc5ef3ef10af27a3ab0ca91,Eric Palacios,epalace@gmail.com,Oct-28-2020
+328c539afc77da347ec52be1e112a6a7c371143b,RyanSkraba,ryan@skraba.com,Oct-14-2020
+408099a9f82c542caf397b96f4279a827774a1cb,Zoltan Farkas,zolyfarkas@yahoo.com,Oct-5-2020
+816893eb5cb7a71d9a06c3c5e27db2e2fb7bbb94,Julian Wexler,41772453+juwex@users.noreply.github.com,Oct-2-2020
+9a6aa43c8699ccde7bef485206928acb35378bdb,Kyoungha Min,kyoungha@molocoads.com,Sep-30-2020
+7d1e63b219e6d0778bc57195152477adee97fcab,Krishnan Sundaram,krishnan1985@gmail.com,Sep-30-2020
+2a4d846e6e1cf3e5e8576e0be9a9698c97b9f606,Siad Ardroumli,siad.ardroumli@gmail.com,Sep-25-2020
+322ba39e68893745f0d40fb5ccc642756507898a,ypt,paul.tzen@gmail.com,Sep-14-2020
+603319f79ca7db6a3b9f40e5270aa8f137d0fb25,xaneesaxo,70016591+xaneesaxo@users.noreply.github.com,Sep-11-2020
+2e24700c6fded6ac9c21e60bd72e3c8d1aab2fdc,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Sep-9-2020
+c2dbe4367c34452a424f580c6f3e8b239f256ec6,Jeff Williams,jeffw@wherethebitsroam.com,Sep-9-2020
+caa3a4265bf0a8e6496b63938bc4ab0b6620683c,Michael A. Smith,michael@smith-li.com,Aug-27-2020
+cca4401c7ab4ef9e1237e01b6ea1f52fcea7dfc2,Alberto Sanz,alberto.sanz.herrero@gmail.com,Aug-24-2020
+859b224dd353701b38e86d1e24b4c3f0b4fddf73,Siad Ardroumli,siad.ardroumli@gmail.com,Aug-24-2020
+efb12314b5acfea075a533368441c0f5a3b844d4,Cris Ewing,cris@crisewing.com,Aug-19-2020
+e7e5cfe44f662c5a1af4c550e76b7756ee7f5e60,Koosha,i@koosha.io,Aug-19-2020
+c01f79f064ffaf489bfea106defce22e2fc66e6b,Michael A. Smith,michael@smith-li.com,Aug-18-2020
+4a298ad6dce730c4f323b9c739b810ac06d4ec3b,Ismaël Mejía,iemejia@gmail.com,Jun-29-2020
+d62132899c66e161209754f768fe5881bf7591ff,Ismaël Mejía,iemejia@gmail.com,Jun-29-2020
+c670135804df6de5eda871691e872b7b57ba562b,Ismaël Mejía,iemejia@gmail.com,Jun-29-2020
+fd2286b128cd4592a49297978e5e6e653ad269b8,Michael A. Smith,michael@smith-li.com,Aug-16-2020
+fed505631bc9692080e35b7e8131e6f96e6e8f0d,Michael A. Smith,michael@smith-li.com,Aug-16-2020
+ad820ed7edba566a8a2be480d5e2e42238862a5a,Michael A. Smith,michael@smith-li.com,Aug-16-2020
+0552c674637dd15b8751ed5181387cdbd81480d5,Michael A. Smith,michael@smith-li.com,Aug-16-2020
+d5e35e8afaee0566cd85c748ffbff3841be2bd20,Michael A. Smith,michael@smith-li.com,Aug-15-2020
+0ca45b472e51152ce4ce4f52f55c533ec92fa22e,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Aug-13-2020
+a89d82e75555160bebb660740baae5ec5793d883,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Aug-13-2020
+82490511e9995f77f40bd12ed07e2bc8cecf2fc5,Paweł Kamiński,piropaolo27@gmail.com,Aug-13-2020
+4aae22d71997a9f337f687ba1d11cc328a81fc91,aananthram,54194572+aananthram@users.noreply.github.com,Aug-13-2020
+743a6dff6f532b10be4451bc2158bace681c89a1,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Aug-13-2020
+b3edfacced605a9d3229426441a2808176c86120,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Aug-13-2020
+7791b348c979453bb071bcb5189dcd400b5521b8,Samir Khan,muhammad.samir.khan@gmail.com,Aug-13-2020
+20cbf14f8473154f0a27f064ec04823a8349c6a1,Chris Coutinho,12901868+cbcoutinho@users.noreply.github.com,Aug-10-2020
+307c8f85f3733dce4e22f83232094172084d8e62,RyanSkraba,ryan@skraba.com,Aug-6-2020
+6c3b4cd2be4e8a07137e4dc715ea22930d3e2835,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jul-24-2020
+0394e1772e78d9b726bd015c9d02b146a1abaee0,Henrique Mota,henriquelsm.ti@gmail.com,Jul-23-2020
+95ae8d22b36ec8f154b5cc5a5df9859184facce8,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jul-20-2020
+c903aa6d6fc42d3c347f95d469a8364ea44165e8,Michael A. Smith,michael@smith-li.com,Jul-16-2020
+d719de228131a8978e230f8b404c5bf07ef89567,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-13-2020
+d3f3c6eaf16cdfdf2094a61532dba86f046c26a0,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-13-2020
+7a87b535f6e3139831db94eb35be9b5b8aa96a73,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-12-2020
+69807e9fc90484aa6f723e5cbb1d618bde57e792,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jul-12-2020
+d841c04aa7519b3f6f6b3632c0bd583d4ceee5b9,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-12-2020
+656db36d8ebe0cde25dce715e778138a9d14b4db,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-12-2020
+9592038cc61ac740a15af9efe63a379e571c46c5,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jul-10-2020
+dc2afc5d3bedefa0fa1dfe611adfaedd67418a51,Tim Perkins,tjwp@users.noreply.github.com,Jul-9-2020
+72c0ffc94bac30cf1d3ce1931cde67b4b5cc593b,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-7-2020
+3fb71e0f817495bcadd7e64e297f2339029dca05,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Jul-5-2020
+df61e8ac0cd478bf0a4603228d6c33214dad8cca,Norberto Lopes,nlopes.ml@gmail.com,Jul-3-2020
+2c7b9af7d5ba35afe9cf84eae3b273a6df0612b1,RyanSkraba,ryan@skraba.com,Jul-2-2020
+98c29fbf866302c6215cca7762c47e65ff062fb7,Kengo Seki,sekikn@apache.org,Jul-2-2020
+d9fae92aed6d40bb881badbbbe5eb74060efd01b,Ryan Skraba,ryan@skraba.com,Jun-19-2020
+95f48dd6dd51f98485d04c7359371e767579bc76,Ryan Skraba,ryan@skraba.com,Jun-19-2020
+ce7c71038101785dd238a04d97cb2c6ba9b8a61a,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jun-19-2020
+c1fc9df0b3c52e3c89279db06e85ac6b7ac91a0c,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jun-19-2020
+45c941d3241b8d513b9eca1e641167d076dee6e6,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jun-19-2020
+da3580e3f3032b24a9722e308f87c88a13b5a077,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jun-19-2020
+e1cffc5a11d684f24ef1e88ffae9f84ededd8649,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jun-19-2020
+9a33ed5498a68b58fc0d3d667d64899bed1fceeb,emkornfield,emkornfield@gmail.com,Jun-12-2020
+91410e3a189dcc7cfcabe2ae1243efe0a1259c0b,Ismaël Mejía,iemejia@gmail.com,Jun-9-2020
+5ac4553c796712c8f5941c6b35d031a4bbce64ac,Ryan Skraba,ryan@skraba.com,Jun-9-2020
+f84ca85ab59cfef44b999262cde5fcd87f9aea19,RyanSkraba,ryan@skraba.com,Jun-8-2020
+b8ccc2f6451343c1da00b288ed4161d055e5daef,Siad Ardroumli,siad.ardroumli@gmail.com,Jun-8-2020
+51d0fe8451bc15e3274ba2f0c5ae0260fcfcb78b,belugabehr,12578579+belugabehr@users.noreply.github.com,Jun-8-2020
+249db48c63a9ddf5bd736a8c020fa5ebb267c50d,belugabehr,12578579+belugabehr@users.noreply.github.com,Jun-8-2020
+93ec41bacf678a875d3696dec72a84901482602a,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+e982f2e6ee57c362a7fae21ba7373c1cfc964fce,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+72c4a8f84a52c540f824db0dc9b80ec050bfe96d,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+8f3b419b2d8085d068c85e034d2ad8983733f56c,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+0de45f5592f6a891e0493676de254a5f41db230b,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+fe2228e59376f03709a558c65a9edf9031eef4e6,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+144120b540122d11c509a11e74d2559957222e30,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+bf707863e9c26696fe1046e1a45037d7d8b37463,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+42d81d70e7b9409d3b17fbcc9ea102876b45b945,RyanSkraba,ryan@skraba.com,Jun-1-2020
+6e9286ec80af368b2750a57d7a7869cb97ff3d74,Ryan Skraba,ryan@skraba.com,May-29-2020
+59f220109ea67f18cbcf02f28f2f3f85aeabfb8f,Ismaël Mejía,iemejia@gmail.com,Jun-1-2020
+2a766be2c417c71b42b49ed2898ad3e8ed0d0113,Matthew McMahon,maccamlc@gmail.com,Jun-1-2020
+606ba8dc889c77865c6f39841b6c05f4fa9f6a3a,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,May-31-2020
+7395db85afb71c7bec8d9fd8d977a7f76804d346,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,May-31-2020
+1988598fc738138cee550121bf66648d0022e70e,Norberto Lopes,nlopes.ml@gmail.com,May-31-2020
+f3433838d04543e4eacc49434f45ed1fea2c2b2c,Norberto Lopes,nlopes.ml@gmail.com,May-31-2020
+5287c794d17ec0aefbb4b964a0c01166333c8649,Tim Perkins,tjwp@users.noreply.github.com,May-30-2020
+d043d2381b7b115a481497854522bb78f7362e23,Phillip Cloud,417981+cpcloud@users.noreply.github.com,May-29-2020
+09f8afe0faa0a846b2537b0b5aff9ef05d0ce072,Ismaël Mejía,iemejia@gmail.com,May-29-2020
+0281256d42c19bb45e4dc84f8ab7c35e45edd138,Daniel Kulp,dkulp@apache.org,May-29-2020
+34c5e7b3b542c0e0b33747086c3cba7bc73b4904,Ryan Skraba,ryan@skraba.com,May-12-2020
+49263e7ae117252bdf225499b6fdfb81bac71605,Ryan Skraba,ryan@skraba.com,May-29-2020
+1c5e32d2b98e193ea048f8ece8ee3984c6165bfe,Daniel Kulp,dkulp@apache.org,May-29-2020
+e3b06fb914abc05c0fc232e54be94883b784dff6,Zezeng Wang,51382517@qq.com,May-29-2020
+ccbbb8353fcc168563c567580cb773d5fe442704,Pavel Likin,burnout171@users.noreply.github.com,May-26-2020
+a6a0346b4aae937f8e19e928d7c45f85cde09ba2,contextshuffling,contextshuffling@gmail.com,Mar-1-2020
+7fd098a56064ece218c66ba1d2ad78bd358f6009,ravowlga123,ravowlga@gmail.com,May-26-2020
+3bf7356376ff176d17960814fad62f13f66c3a4d,Zezeng Wang,51382517@qq.com,May-27-2020
+4c0dccbaf557ae6a769f8d397b1be4e14ef979af,Daniel Kulp,dkulp@apache.org,May-26-2020
+d2d5663076d9c4a5b92b7102a21217a5c8cf6115,Daniel Kulp,dkulp@apache.org,May-26-2020
+1e77a401b951a481b8175e9e5f99afeebd9acf75,David Mollitor,dmollitor@apache.org,Jan-21-2020
+a565690bdaeb9ad1cc296f3832eb45384dded2a8,Martin Jul,martin@mjul.com,May-26-2020
+d3a2b149aa92608956fb0b163eb1bea06ef2c05a,Valerian,etaty34@gmail.com,Mar-29-2020
+ab83dcd6fee848cb0a82a9da328e114cc9e3568b,Matthew McMahon,maccamlc@gmail.com,May-26-2020
+664c2fc7fba19709c1f974055f9cf4c8a799e108,Khem Raj,raj.khem@gmail.com,Dec-19-2019
+f30a7caee322f8679d90595f3f3d00549cdb6d29,Siad Ardroumli,siad.ardroumli@gmail.com,May-26-2020
+6f431fa1717b4557768cb274524874d064485dfc,belugabehr,12578579+belugabehr@users.noreply.github.com,May-26-2020
+ad63705b30504ba385cde76c530a524843adf0fc,zeshuai007,51382517@qq.com,May-26-2020
+9d6a4cf2d814d1efda5caf855b3a89d8a997c6e0,Kengo Seki,sekikn@apache.org,May-24-2020
+5f064c0d162ea3bb2a28b576c590638052177054,Erik Tank,erik@jundy.com,Sep-10-2019
+e208f4b2d442bc14aaba3dad86e8122b83a0873c,Daniel Kulp,dkulp@apache.org,May-22-2020
+4318701a20e8b0131374e63ccd263338ea57891c,priesnit,vincenz.priesnitz@researchgate.net,May-11-2020
+da680e43943ef18f12443e2a7b21bb9258dfa827,Daniel Kulp,dkulp@apache.org,May-22-2020
+005a39123a67b8fa81d985a63239c4f6a5096c34,Yaniv ru,Yaniv.ru@gmail.com,Mar-28-2020
+3226f4ef7eab4e27b10b5a5266de15f78849c3db,Kengo Seki,sekikn@apache.org,Apr-8-2020
+2d8c857a291ab61ee32e3e2b8ced02f6af6a5c76,Vladimir,valxv@users.noreply.github.com,May-22-2020
+13405739ccf0ac3b10d3ac66c6d2cc87ddfac3a2,Zoltan Csizmadia,CsizmadiaZ@valassis.com,Feb-19-2020
+61f162de6f441f65297cf8b57c0e8c36474be7d6,Eric Erhardt,eric.erhardt@microsoft.com,May-22-2020
+3a098e8be4944216f811211c9e3240fd6f67a4ae,Zoltan Farkas,zolyfarkas@yahoo.com,May-22-2020
+dfd3dd64bed7f783b0d33c7688a440235ecfc0f3,siad007,siad.ardroumli@gmail.com,May-21-2020
+87656846db4684591ec13484f2e2347f6e1b68d0,siad007,siad.ardroumli@gmail.com,May-21-2020
+086a15f04cc16dc1ee6a6259e31f5339f2ade840,siad007,siad.ardroumli@gmail.com,May-21-2020
+734ea36dfe00fb70b506b4e987f0ad8341bcad94,Daniel Kulp,dkulp@apache.org,May-22-2020
+3c8a4d4514e80788611710d92b2ac7880714507b,Romain Manni-Bucau,rmannibucau@gmail.com,Jan-28-2020
+b534b8ba924cd7515ec71bd0c0898153952c6eba,zeshuai007,51382517@qq.com,Feb-29-2020
+ecc489ce5dc069a8fe8d047d9297ff11827010e6,zeshuai007,51382517@qq.com,Sep-12-2019
+dab5fbe35e7bafcf86eb587cf4c6a898ea57f673,zeshuai007,51382517@qq.com,Mar-31-2020
+58569bd5dc678a753c8a456e29d78462228b9a29,Jeff Maxwell,jmax01@users.noreply.github.com,Mar-3-2020
+97e05457f55e3f51dd8279df1247be65125d767a,ravowlga123,ravowlga@gmail.com,Feb-21-2020
+74ad244741a391450610f4d273172707ae2b9a80,ravowlga123,ravowlga@gmail.com,Feb-21-2020
+2c238747755a19fe6acce107b6fb1ce7d1984563,ravowlga123,ravowlga@gmail.com,Dec-6-2019
+8c15c1241fb52f3ce6eb480bbe16ff70d3bc426a,zeshuai007,51382517@qq.com,Mar-5-2020
+cb0d6e88a4f0c985a2ecceab3be77dadd874e3cb,zeshuai007,51382517@qq.com,Feb-26-2020
+7347e25381f170a28d6ab081e08ddf4b3354b8fe,Jeffrey Mullins,jmullins31@bloomberg.net,Dec-6-2019
+ccb95a6763d53eaa5ba24ced3531096bac390d3a,Siad Ardroumli,siad.ardroumli@gmail.com,May-9-2020
+b0c09361fe985fe57858f19485b43e1deeec8d89,zeshuai007,51382517@qq.com,Nov-12-2019
+192cd3b8d607ce77a268f99ab4e3450597d882db,zeshuai007,51382517@qq.com,Nov-7-2019
+7baac0fbb5b8ff9d42e97e2dd65936318ae7f5c7,zeshuai007,51382517@qq.com,Oct-28-2019
+a57f7537594dd10c85d3ecdeab1d193436e6a978,zeshuai007,51382517@qq.com,Nov-6-2019
+331587a27f93880a910985ea6a42125d3878bb16,zeshuai007,51382517@qq.com,Sep-27-2019
+acce806f68282a2b02f07e06ab304d2ae3fc308e,zeshuai007,51382517@qq.com,Oct-12-2019
+641193688c0ec49a46af041d2d7b7fe1e8f108ec,zeshuai007,51382517@qq.com,Oct-30-2019
+f301980140db3c8506baa43a40ded48a7c2e2c40,zeshuai007,51382517@qq.com,Sep-25-2019
+efc7cbb8f6b586569903bda469a21b442e461108,Jacob Tolar,accounts@sheckel.net,Oct-9-2019
+b9efa050bac3aa5e67ad659f8d4bb972a0b5d2dc,Kengo Seki,sekikn@apache.org,Apr-21-2020
+ef85cd4099dc645bcd853ceb60e44ff93b4840f0,Kengo Seki,sekikn@apache.org,Sep-9-2019
+eb21a2148b552d3df2db251558c7986ffb2bc833,Kengo Seki,sekikn@apache.org,Sep-4-2019
+b9bfc07c43140ef0aa58340430ab3c4909337f21,Kengo Seki,sekikn@apache.org,Aug-25-2019
+dcb8c5b25776f1d2434ac28587c68106998b4b37,Kengo Seki,sekikn@apache.org,Sep-3-2019
+bb31f109c34212e4077518d95671429587bec2db,Michael Spector,mispecto@microsoft.com,Jan-24-2020
+f5d2f11972d53eca4e6ce6f8b0e16218a7c4d6c7,Andrew Onyshchuk,andryk.rv@gmail.com,Jan-2-2020
+b7948f40ca3de4edcb1ac1d10bd932b33a2c71d9,Michael Spector,mispecto@microsoft.com,Jan-27-2020
+258b917d5b3e00152d25de8f1a750bbe857afcfc,Michael Spector,mispecto@microsoft.com,Jan-23-2020
+1b1e4ba8172c083f65f3e400ab070570a3bb278a,Michael Spector,mispecto@microsoft.com,Jan-23-2020
+5e8537c3363a8fe3076295e5c8f3ae229991314f,Daniel Kulp,dkulp@apache.org,May-21-2020
+833127d6ed09618babd1cce10053d5f183740dab,Daniel Kulp,dkulp@apache.org,May-21-2020
+88538e9f1d6be236ce69ea2e0bdd6eed352c503e,zeshuai007,51382517@qq.com,Sep-6-2019
+207035aaf405ce468902e86d8d64f096a5a812b2,Kengo Seki,sekikn@apache.org,Jun-27-2019
+c536a358e19644e3dc6b646b3ee541f531d6cc6c,Siad Ardroumli,siad.ardroumli@gmail.com,May-21-2020
+af429f7ea599d64becbef80a5cf8ac0fba3e85dc,Daniel Kulp,dkulp@apache.org,May-20-2020
+94b6a1fc495f4681a1dfd750effb739d6446dd60,Daniel Kulp,dkulp@apache.org,May-20-2020
+7e7681a6882b1815fc2762beef42e053f440f0f8,Daniel Kulp,dkulp@apache.org,May-20-2020
+f106abdb13fb1fd9e6dfaf6a417dece75b9c74ac,Daniel Kulp,dkulp@apache.org,May-20-2020
+efd6cda8bf9a025ca2847fe8900ac590305facf6,Anh Le (Andy),anhld2@vng.com.vn,May-19-2020
+1eb2eb7212d2c63cb96299de2f319c9f2a5a8162,Siad Ardroumli,siad.ardroumli@gmail.com,May-17-2020
+69cc41c17eefd8a8e6c28cc5ed67a2246cbb1ca0,Daniel Kulp,dkulp@apache.org,May-15-2020
+29fe2f612fc1420ad66d30859d424372098e9ff1,Daniel Kulp,dkulp@apache.org,May-15-2020
+32436402057df32011ebccf17ff9ba81e86b0130,Daniel Kulp,dkulp@apache.org,May-15-2020
+414a51fdc1856083bb16851f09a4c61a48796132,Fabrice Fontaine,fontaine.fabrice@gmail.com,Dec-30-2019
+2b398cf179330ef545f2cae0daecd86a4aa3ac89,Laurent Stacul,laurent.stacul@amadeus.com,Mar-2-2020
+b2c58098704b9ffc70e40f657915fe820126e3d7,Andrew Nelless,nlyan@users.noreply.github.com,Apr-28-2020
+bfd5906795df1ddf830f96a1b3b5013968e6b829,Daniel Kulp,dkulp@apache.org,May-15-2020
+4898556ee5455231645fc9c4c2e9cc7014dec1c0,Siad Ardroumli,siad.ardroumli@googlemail.com,May-13-2020
+e813aff84591724b237c1943e5d20b27d8d50bf4,RyanSkraba,ryan@skraba.com,May-13-2020
+8f4134a09f8cb707cd7f0de784ecda20234c818f,Ismaël Mejía,iemejia@gmail.com,May-13-2020
+f93cd266d3031e35463a6bfc4aeee92a7550b260,Ismaël Mejía,iemejia@gmail.com,May-13-2020
+f50faa9c6bdc0ad9bc8db308b74668fa93644102,Ismaël Mejía,iemejia@gmail.com,May-6-2020
+384c355b976e107cff11a85b9fe2658e1f335792,Ismaël Mejía,iemejia@gmail.com,May-6-2020
+46d87d9aa8964684e602f114292825b9fd5c2554,Siad Ardroumli,siad.ardroumli@googlemail.com,May-11-2020
+d916ca2c1ceaabb5fc002630171255dfcdf8d882,Siad Ardroumli,siad.ardroumli@googlemail.com,May-11-2020
+bcad995f4a70fe756decb9023575e0027c1243c0,Artur Kalimullin,kalimullin@gmail.com,May-9-2020
+b5a3c44d223d781fed2572cb4ed6f11ca431f25f,Robert Yokota,rayokota@gmail.com,May-9-2020
+9c80782e3df8f025726ef6d7ccbba4817482082d,Chris Hoffman,yarmiganosca@gmail.com,May-9-2020
+7ab212b8e454c271797fc343204762ca1b925057,Anh Le (Andy),anhld2@vng.com.vn,May-9-2020
+285bda86d3f49aa5054d4fd1487680bb1accd8ac,Fokko Driesprong,fokko@apache.org,May-6-2020
+5f7b068663671bb1d4a810c35e3a4a55815bc1ef,belugabehr,12578579+belugabehr@users.noreply.github.com,May-4-2020
+d5c1ad2d7facc3f328b51dd0f9b736d925217e39,john,john-aws@users.noreply.github.com,May-3-2020
+40196080593557380d8e9ad5bc588a61dc5de93e,Tim Perkins,tjwp@users.noreply.github.com,May-3-2020
+07fd336c6e5cc052931405b7257d9d06b5337d7c,Zezeng Wang,51382517@qq.com,May-3-2020
+d7aa0a8cb33fd3511f056464985697359069705e,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,May-2-2020
+5b7e52e9aed348415422cb8b887b0806afd9ca65,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,May-2-2020
+477c71e3e11f0bfb0ccb927e8f4d3449e95e25ec,Phillip Cloud,417981+cpcloud@users.noreply.github.com,May-2-2020
+02f12b87b7a8254b5169c479d44d0e1a5952f1c7,Michael A. Smith,michael@smith-li.com,May-1-2020
+cfb6a12a5eba4ebcef1e04f53b19728d6da9aa5c,Anh Le (Andy),anhldbk@gmail.com,Apr-30-2020
+1dca808f1294056cd804af4f7bd417bc1917fe8a,masatana,masatana@apache.org,Apr-30-2020
+7d372932c08e10ef04e060c138949dfd7c714616,Michael A. Smith,michael@smith-li.com,Apr-28-2020
+067af1875257a11438a3f35cc576b152b0e6ac9c,Colm O hEigeartaigh,coheigea@apache.org,Apr-28-2020
+771c16b521e34e721e31bb2caf9f86699ea10dff,Michael A. Smith,michael@smith-li.com,Apr-27-2020
+5acbfbfbc53a58774a8492a284ebca3a6670d52c,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Apr-26-2020
+86b45873fd192e4ed9ccdf2400a30cf0e5f99a69,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Apr-26-2020
+d83e43b3cf087aa1911befd39e9df0c9f5e82628,Zezeng Wang,51382517@qq.com,Apr-26-2020
+f56cafb83854a7529625bd1d82521f5848399ccc,Kengo Seki,sekikn@apache.org,Apr-26-2020
+b6f49705ad3cc81020117d04938e1ae03d3a99d9,Zezeng Wang,51382517@qq.com,Apr-26-2020
+d336babe3e0a11d90613083de72652f358207b29,Kengo Seki,sekikn@apache.org,Apr-26-2020
+958917550ade0fa95af47c1f394d0dfb06f1d052,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-25-2020
+1a9d3ae816468d0640c9fbe0ce54ab4b44ed61aa,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-25-2020
+4c184f6bcb299a48e1d38045a0f429730297bef6,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-25-2020
+83baa43d0776fca48aeb99918076ca5270b7ce41,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-25-2020
+f679ac74a6c9132a609fbadff692a7e32c27869f,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-24-2020
+7a80378aa83131cca4b2ccc810db6c92025284e3,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-24-2020
+85d8c450153e104be160a1b8d0342c41fe1b3164,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Apr-24-2020
+3d774b913a798dd7e88c31b6d1611853efacfe75,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-24-2020
+9837a4d21c252f1b6a9cd68ca32d551c0a1d0101,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Apr-24-2020
+f7f03f3c73c4fbd1da98e6a5068eca917520a649,Phillip Cloud,417981+cpcloud@users.noreply.github.com,Apr-24-2020
+8e345c48e8f9708c27af63754965777314dac85c,belugabehr,12578579+belugabehr@users.noreply.github.com,Apr-22-2020
+97c2aeb6ca5186524e8576febfe44b1a03a1b97e,Michael A. Smith,michael@smith-li.com,Apr-22-2020
+6b0d470a79b4c4e10d9890183d6c913608a2a225,Kengo Seki,sekikn@apache.org,Apr-20-2020
+4e89943c1adcb0c05cbd6c3611b60849fabdeb16,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Apr-15-2020
+1f8af338d81e0eebfc01116f6a1cfe4bfb5d2484,Calvin Brown,cab025@protonmail.com,Apr-15-2020
+9af218d3c060da103868cdc69d7b39fc8d50dcbc,Kengo Seki,sekikn@apache.org,Apr-11-2020
+01e039ca12ade8bc08b6b4b33ef87a32f3f06b88,Justin Lambert,jlambert@eml.cc,Apr-11-2020
+d5d1cd70e920f45468bf696d3668b496a9adbab3,belugabehr,12578579+belugabehr@users.noreply.github.com,Apr-4-2020
+c81ea58c601a2f600d9d45cf50b9f6434b911d5a,Tianyu Lang,tianyu.lang1991@gmail.com,Apr-2-2020
+3336bd159f49812e7ef995f7ad3d5b7a995598b5,Phillip Cloud,cloud@standard.ai,Apr-1-2020
+87aefa28ad6cb11ab95010cdeac2223cfb701c0d,belugabehr,12578579+belugabehr@users.noreply.github.com,Mar-29-2020
+da132659c4676ede53aabb66ebd943b8232a18f3,belugabehr,12578579+belugabehr@users.noreply.github.com,Mar-29-2020
+7c44eef21561056aa0637c72f0f6be0bfd95a292,belugabehr,12578579+belugabehr@users.noreply.github.com,Mar-29-2020
+1fe960ef7b3da9222a38db443f56461466114f8f,belugabehr,12578579+belugabehr@users.noreply.github.com,Mar-29-2020
+40622368863c19f9b103927b85af9dd65d18aedb,belugabehr,12578579+belugabehr@users.noreply.github.com,Mar-29-2020
+0bcb437666358cd4f226351a41ab4ccc9d43ee9f,Phillip Cloud,cpcloud@gmail.com,Mar-23-2020
+173e4c5a2bd9bd8d59aa6aabad2c8f00f7cb888f,Phillip Cloud,cpcloud@gmail.com,Mar-22-2020
+791ec6017b03e3cc79fbf546dd9d79d20d476b4e,Kengo Seki,sekikn@apache.org,Mar-2-2020
+9741c08ae2ffe06adbf3559b5c5702d9bf8cae3c,Kengo Seki,sekikn@apache.org,Mar-2-2020
+17be402804cd0264d89e94d7b6f8b2d595008656,Kengo Seki,sekikn@apache.org,Feb-21-2020
+9d26540d9259f8e05d32e9f300f171f2530a17cd,Mario Molina,mmolimar@gmail.com,Feb-26-2020
+8199b9626e4badd34a85946cd223a91863f44cee,Matt Kellogg,matthew.kellogg@gmail.com,Feb-24-2020
+8288df87e69d9332caa7202901f321c88f06de86,Michael A. Smith,michael@smith-li.com,Feb-23-2020
+9cba8570aa5d9fab9371915b048caff6e05779a1,Kengo Seki,sekikn@apache.org,Feb-24-2020
+ebe9080060e5dd46328fcdd9a05f073944af54ce,Kengo Seki,sekikn@apache.org,Feb-24-2020
+2e8ba13d8a6c126224db503537c9870ce225c19d,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-21-2020
+1dbf61ee8cf2866e6e590388198e64c190af1e3f,Ismaël Mejía,iemejia@gmail.com,Feb-19-2020
+37be95b0bd64b9ecc118d0ff8b30e734f94e4d3c,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-19-2020
+3812985c2d4219815c0521dc193fdf811afba0dc,Michael A. Smith,michael@smith-li.com,Feb-19-2020
+a65dca9bc4981b7788b51d3297323136e4f664ae,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-17-2020
+53a7d9feef4b857be7dbe6aa5b2744b086384302,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-17-2020
+ca048907828d557eda64a4c1afdfbf279f28e286,Ismaël Mejía,iemejia@gmail.com,Feb-17-2020
+59d8c6d3105f364127658dca270c6babdda59ba3,Ismaël Mejía,iemejia@gmail.com,Feb-17-2020
+7c725541bb3672e47d6ba5579797ec84c12cbf13,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Feb-16-2020
+eff3deecaa35562f6f78c37ed9d01bf44b6d8893,Michael A. Smith,michael@smith-li.com,Feb-15-2020
+a439bf96f922fb065aed4fa8eb9f0fc43223482b,Michael A. Smith,michael@smith-li.com,Feb-15-2020
+c50a87e1d4a92232b5ec13997549822b51a3c02e,Jan Hentschel,jan.hentschel@ultratendency.com,Feb-11-2020
+ad2a8933d45488e4b0b306d14e1be50a87c33cf3,RyanSkraba,ryan@skraba.com,Feb-11-2020
+343c92e736d8fa7fce5974314b79bc2f01b00800,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-10-2020
+f7892a319e4f8bf35098cc74ca0cbfcf7a3f6fc0,Ismaël Mejía,iemejia@gmail.com,Feb-7-2020
+6d76044e2d3aaaf34fdb634dc2b1608e207ebcb8,Ismaël Mejía,iemejia@gmail.com,Feb-6-2020
+1430ccde8d7a7035138d45eb433941c5fdc50baf,Ismaël Mejía,iemejia@gmail.com,Feb-6-2020
+b31bf3133c641679741aca01f1ea61b4959d96bc,Ismaël Mejía,iemejia@gmail.com,Feb-6-2020
+335acc5770f7ad6bd6fdf4caa305373a79912d70,Ben Plommer,ben.plommer@gmail.com,Feb-6-2020
+8e5a4ea769d925df95b4d4cde596a71248f2d3c5,ravowlga123,ravowlga@gmail.com,Feb-6-2020
+5c49fdae92df878c587b3ea74e5d3d2418d3a32d,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-5-2020
+5c40cb12c9e2694ad1e47f22e275b6692893c96d,belugabehr,12578579+belugabehr@users.noreply.github.com,Feb-5-2020
+75e8f58c95e2b8c69af1a6f60c35a848a6781f0c,Tim Roberts,tim@timjroberts.com,Feb-5-2020
+0d7eda62854b89badd7e217062212364354e5a0d,Zoltan Csizmadia,zcsizmadia@gmail.com,Feb-4-2020
+9bc2c62c6a82dbce260d4cc0277f1d0276063468,RyanSkraba,ryan@skraba.com,Feb-4-2020
+4a1e3acdc09de0545cbb6bfd4554604e64ca1a35,Magne Helleborg,magnehell@gmail.com,Feb-4-2020
+3ad0106f5fa15fbe718727016c600d14cd23294c,Martin Jubelgas,unchuckable@wolke7.net,Feb-3-2020
+ce9032a4123e262341a3e746e6eb2b8476eae1ae,Ryan Skraba,ryan@skraba.com,Nov-29-2019
+afbda0798a4fe662bd5379cf535da79800c4e840,Roger Peppe,rogpeppe@gmail.com,Jan-28-2020
+183893ef8b9ae76cb6ea8492767c4a81c5b95d6d,Antonio Uccio Verardi,antonio.uccio.verardi@gmail.com,Jan-23-2020
+3417ccd2dc11b0bf419d426998551808a91ab191,Sebastian Blunt,47431204+sebastianblunt@users.noreply.github.com,Jan-23-2020
+ca38fb98f83e0345ca6c49b0660e9fbd03ea3cd5,belugabehr,12578579+belugabehr@users.noreply.github.com,Jan-22-2020
+dd9ea675124713c7abff343d34e2812f01d6a718,Fokko Driesprong,fokko@apache.org,Jan-21-2020
+84b056c2adc069cf31f3b4d3c9337cb7cdaa58d6,Fokko Driesprong,fokko@apache.org,Jan-17-2020
+ced4d7f9f3802216db81fb015b450bc7ad507d66,Fokko Driesprong,fokko@apache.org,Jan-17-2020
+f621d9370005c0dee32295d4c1ad45a2b7c54f1c,Fokko Driesprong,fokko@apache.org,Jan-17-2020
+ac82a6ef35b7ca76c557d46471becc818846c35a,Kengo Seki,sekikn@apache.org,Jan-15-2020
+fe383d8eba8078a706620c8848efe7949efb8017,Ismaël Mejía,iemejia@gmail.com,Jan-9-2020
+bcaa54576074a1f786f7ce88710502dd03ddc656,RyanSkraba,ryan@skraba.com,Jan-14-2020
+e8f54211db381ad3b54b59bdb2fe71adb4d53cd5,Michael A. Smith,michael@smith-li.com,Jan-13-2020
+2fba6f606b08140d0ef75b610c028f1b7872e06a,Fokko Driesprong,fokko@apache.org,Jan-13-2020
+8efc875f16b079e8c26d1b1bbedf433099aaa4eb,Fokko Driesprong,fokko@apache.org,Jan-12-2020

@@ -1,0 +1,3957 @@
+commit ed1bd8d8a2fc01e13a10ba1c06122530c4d590b1
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-04-27 09:34:30 +0200
+
+    update to latest Sling Models API
+
+1	1	pom.xml
+
+commit 9e16827a2b951a45ef7d483e56571603cd290f86
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-04-27 09:20:33 +0200
+
+    [maven-release-plugin] prepare for next development iteration
+
+3	3	pom.xml
+
+commit 6e825ba6315f3231f944e764617a25d3cdbba793
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-04-27 09:20:25 +0200
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.5.2
+
+3	3	pom.xml
+
+commit 52b9766b64fdb502406168ecbcc9663336214a32
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-04-27 09:18:24 +0200
+
+    update to latest Sling Models API
+
+1	1	pom.xml
+
+commit 89b90fa51e1f51913cc69e402f904f022ae953f3
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-03-11 11:45:37 +0100
+
+    SLING-11196: update parent to version 47 (#37)
+
+1	1	pom.xml
+
+commit 9ef13b77f011d30671256dbc9a690a9d2d566ee1
+Author: Sagar Miglani <85228812+sagarmiglani@users.noreply.github.com>
+Date:   2022-03-11 16:14:59 +0530
+
+    SLING-11132: Exception handling while clearing OSGiServiceReferences (#34)
+    
+    * SLING-11132 - Exception handling while clearing OSGiServiceReferences
+    * SLING-11132 - Catch only IllegalStateException
+    * SLING-11132 - Remove log from catch block
+
+5	1	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit c6f9de104c26545f6d653929bf58759c0d9c8049
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-03-11 11:33:35 +0100
+
+    SLING-8706: update mockito, fix unit tests (#36)
+
+1	1	pom.xml
+2	2	src/test/java/org/apache/sling/models/impl/OptionalObjectsTest.java
+
+commit c0475bfb004f4caf2342fac783cde262d7082744
+Merge: 031c0eb f16efce
+Author: Jrg Hoh <joerghoh@users.noreply.github.com>
+Date:   2022-02-25 16:14:21 +0100
+
+    Merge pull request #17 from etugarev/improvement/SLING-8706
+    
+    SLING-8706 - Injections for java.util.Optional<> should be automatically optional
+
+commit 031c0ebd71bbc03ab7821fe6acc9f08241a90641
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-02-25 11:55:31 +0100
+
+    SLING-11133: cache models by picked implementation type (#35)
+
+3	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+58	8	src/test/java/org/apache/sling/models/impl/CachingTest.java
+32	0	src/test/java/org/apache/sling/models/testmodels/classes/CachedModelWithAdapterTypes12.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/CachedModelWithAdapterTypes23.java
+20	0	src/test/java/org/apache/sling/models/testmodels/interfaces/AdapterType1.java
+20	0	src/test/java/org/apache/sling/models/testmodels/interfaces/AdapterType2.java
+20	0	src/test/java/org/apache/sling/models/testmodels/interfaces/AdapterType3.java
+
+commit 6419e1680f98fa8ef659b18480863663730949ce
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2022-02-18 07:19:35 +0100
+
+    SLING-11152 : Use official OSGi Converter Implementation
+
+4	4	pom.xml
+
+commit 37e83bb48a856322454ee6204614bcad617905a2
+Author: Dirk Rudolph <drudolph@adobe.com>
+Date:   2022-02-07 21:27:34 +0100
+
+    SLING-11073: rename OriginalResourceViaProvider to OriginalResourceTypeViaProvider (#33)
+    
+    In order to make it clear that this is the counterpart of ResourceSuperTypeViaProvider and ForcedResourceTypeViaProvider.
+
+6	6	src/main/java/org/apache/sling/models/impl/via/{OriginalResourceViaProvider.java => OriginalResourceTypeViaProvider.java}
+4	4	src/test/java/org/apache/sling/models/impl/via/{OriginalResourceViaProviderTest.java => OriginalResourceTypeViaProviderTest.java}
+
+commit 82a7d5198b5afef18045ce9331e5c5851d342353
+Author: Dirk Rudolph <diru91@gmail.com>
+Date:   2022-02-07 20:50:22 +0100
+
+    SLING-11073: add OriginalResourceViaProvider (#31)
+
+1	1	pom.xml
+0	31	src/main/java/org/apache/sling/models/impl/via/AbstractResourceTypeViaProvider.java
+62	0	src/main/java/org/apache/sling/models/impl/via/OriginalResourceViaProvider.java
+36	0	src/main/java/org/apache/sling/models/impl/via/ResourceTypeForcingRequestWrapper.java
+35	0	src/main/java/org/apache/sling/models/impl/via/ResourceTypeForcingResourceWrapper.java
+107	0	src/test/java/org/apache/sling/models/impl/via/OriginalResourceViaProviderTest.java
+
+commit 4db5045e325a14324ac9bc87196447a0590b308d
+Author: Dan Klco <klco@adobe.com>
+Date:   2022-01-11 08:10:23 -0500
+
+    SLING-11051 - Fixing JavaDoc badge
+
+1	1	README.md
+
+commit 0a83d4129ccb78b25dea7926a11c60014c0344e4
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2021-12-21 15:56:51 +0100
+
+    SLING-11030 : OSGiServiceInjector.getService() calls ungetService even if service is not get
+
+21	18	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit 89fcb8702e29ad3322ee2a023ae6b24e5d2f83ab
+Author: paul-bjorkstrand <paul.bjorkstrand@perficient.com>
+Date:   2021-12-15 01:49:37 -0600
+
+    Add additional tests verifying default interface method behavior (#30)
+
+66	0	src/test/java/org/apache/sling/models/impl/DefaultInterfaceMethodTest.java
+33	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ModelWithDefaultMethods.java
+
+commit 56c28d1000a32b801a73ec9cb40553286b70ada3
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-14 10:34:18 +0100
+
+    cosmetic: eliminate code warnings
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+0	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+
+commit e2ef001d2c72a344c49f0727c234ee11bf0bf7d7
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-07 09:14:13 +0100
+
+    [maven-release-plugin] prepare for next development iteration
+
+3	3	pom.xml
+
+commit 56c1b928238f0de17007caeb4e362a12b47fbb38
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-07 09:13:59 +0100
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.5.0
+
+3	3	pom.xml
+
+commit 6a10f5640b276eb36d08c304cbdb3bd27b44010c
+Author: paul-bjorkstrand <paul.bjorkstrand@perficient.com>
+Date:   2021-12-06 10:06:46 -0600
+
+    SLING-10969 Remove synchronized blocks around injection points (#29)
+    
+    Also, remove the original cause of SLING-6584, the "reset" of the setAccessible flag.
+
+5	14	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+5	14	src/main/java/org/apache/sling/models/impl/model/InjectableField.java
+2	13	src/main/java/org/apache/sling/models/impl/model/ModelClassConstructor.java
+
+commit 2e20404f9d31d9393d059ab69adbfcdfe40159ea
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2021-12-04 14:30:16 +0100
+
+    SLING-8079 throw PostConstructException for createModel in case (#28)
+    
+    Prevent creation of exception object for simple adaptations
+    
+    Co-authored-by: Stefan Seifert <stefanseifert@users.noreply.github.com>
+
+9	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+9	0	src/main/java/org/apache/sling/models/impl/Result.java
+16	11	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+1	1	src/test/java/org/apache/sling/models/testmodels/classes/{FailingPostConstuctModel.java => FailingPostConstructModel.java}
+1	1	src/test/java/org/apache/sling/models/testmodels/classes/{FalsePostConstuctModel.java => FalsePostConstructModel.java}
+1	1	src/test/java/org/apache/sling/models/testmodels/classes/{TruePostConstuctModel.java => TruePostConstructModel.java}
+
+commit d56cf5f3013c2095b876c408510c29ec71ea3b05
+Author: paul-bjorkstrand <paul.bjorkstrand@perficient.com>
+Date:   2021-12-04 07:28:24 -0600
+
+    SLING-8069: allow non-public constructors (#11)
+
+4	9	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+6	6	src/main/java/org/apache/sling/models/impl/model/ModelClass.java
+40	6	src/main/java/org/apache/sling/models/impl/model/ModelClassConstructor.java
+65	0	src/test/java/org/apache/sling/models/impl/ConstructorVisibilityTest.java
+31	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorvisibility/PackagePrivateConstructorModel.java
+31	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorvisibility/PrivateConstructorModel.java
+31	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorvisibility/ProtectedConstructorModel.java
+
+commit 391cc22d7a95d0c15cbf1e8b21831bb044d68ec7
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2021-12-03 17:04:52 +0100
+
+    SLING-5726 inject value map properties and resource paths from SlingHttpServletRequest (#27)
+
+22	3	src/main/java/org/apache/sling/models/impl/injectors/AbstractInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+1	9	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+24	15	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+3	3	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
+
+commit 2312e13683b644b75de8a9e8580bdc96061dd245
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-03 09:45:45 +0100
+
+    cosmetic: update testing dependencies
+
+15	4	pom.xml
+1	1	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+5	4	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+1	1	src/test/java/org/apache/sling/models/impl/AnnotationConflictsTest.java
+1	1	src/test/java/org/apache/sling/models/impl/CachingTest.java
+3	3	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+5	4	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ExtraDefaultTests.java
+10	11	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+1	1	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+1	1	src/test/java/org/apache/sling/models/impl/InterfaceInheritanceTest.java
+6	6	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ModelPackageBundleListenerTest.java
+3	2	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+12	11	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+4	3	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ParameterizedTypeFromRequestAttributeTest.java
+1	1	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+2	2	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+1	1	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+11	23	src/test/java/org/apache/sling/models/impl/RequestWrapperTest.java
+13	12	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+13	13	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+13	12	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+12	11	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+4	4	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+1	1	src/test/java/org/apache/sling/models/impl/StaticInjectionAPFLoadOrderTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ViaTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/BindingsInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/RequestAttributeInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/ResourceResolverInjectorTest.java
+9	7	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolverTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceTest.java
+1	1	src/test/java/org/apache/sling/models/impl/injectors/ValueMapInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/via/ChildResourceViaProviderTest.java
+
+commit 1e160bbf04face58ab88e0654dcc32221efe1d42
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-02 09:42:31 +0100
+
+    cosmetic: cleanup code, apply null annotations, eliminate code warnings, remove unused imports
+
+0	1	pom.xml
+0	1	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+2	1	src/main/java/org/apache/sling/models/impl/FirstImplementationPicker.java
+20	21	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	3	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+2	0	src/main/java/org/apache/sling/models/impl/ReflectionUtil.java
+1	1	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+7	5	src/main/java/org/apache/sling/models/impl/Result.java
+2	1	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+2	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+3	2	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+2	0	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+2	1	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+2	1	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+3	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+3	0	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+7	7	src/main/java/org/apache/sling/models/impl/model/ConstructorParameter.java
+1	3	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+26	25	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+5	7	src/test/java/org/apache/sling/models/impl/CachingTest.java
+10	3	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+3	0	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+9	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+19	15	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+10	10	src/test/java/org/apache/sling/models/testutil/ModelAdapterFactoryUtil.java
+
+commit 7d4415325336612b16e6fd08e07f7941c5e55c90
+Author: Stefan Seifert <stefanseifert@users.noreply.github.com>
+Date:   2021-12-02 09:20:02 +0100
+
+    SLING-10948 Update to Parent 46 and latest versions of OSGi annotation dependencies (#26)
+
+0	1	bnd.bnd
+3	23	pom.xml
+
+commit 251610f58c8c847896ba37eef89ed8c23c3eb104
+Author: paul-bjorkstrand <paul.bjorkstrand@perficient.com>
+Date:   2021-12-01 04:36:41 -0600
+
+    SLING-10037 Make build compatible with Java 11
+    
+    * Remove usage of Unsafe from tests (#25)
+    * Add Maven dependency for PostConstruct annotation
+    
+    Credit: @ashokmca07 (https://github.com/ashokmca07)
+
+10	3	pom.xml
+18	27	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ModelPackageBundleListenerTest.java
+6	297	src/test/java/org/apache/sling/models/testmodels/classes/CachedModelWithSelfReference.java
+
+commit a016b05184a17f3760f8594139fabc573d5bfdae
+Author: Bertrand Delacretaz <bdelacretaz@apache.org>
+Date:   2021-07-30 10:46:25 +0200
+
+    SLING-10676 - remove SECURITY.md which is not needed
+
+0	13	SECURITY.md
+
+commit 3d43a6e44e6765eacc12f852ae5924e3fcb04bb4
+Author: Bertrand Delacretaz <bdelacretaz@apache.org>
+Date:   2021-07-28 16:24:34 +0200
+
+    SLING-10676 - add or update SECURITY.md
+
+13	0	SECURITY.md
+
+commit 82c82bed2743c99488a36037de33be0ac6376988
+Author: Bertrand Delacretaz <bdelacretaz@apache.org>
+Date:   2021-07-28 16:12:46 +0200
+
+    SLING-10676 - add or update SECURITY.md
+
+0	0	SECURITY.md
+
+commit 6d32c6ffaffca0036b12010703ade1fb4f08faa8
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2021-04-26 14:40:31 +0200
+
+    Upgrade to parent version 41, version 40 is affected by SLING-9972
+
+1	1	pom.xml
+
+commit 55f74cb55e7342b73060ca1da8e385796f683e54
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2020-10-28 09:32:23 +0100
+
+    SLING-9858 remove commons testing (#22)
+
+15	2	pom.xml
+14	35	src/test/java/org/apache/sling/models/impl/CachingTest.java
+
+commit 9f5d62b88b4716be5469f216b85f14b60760f13d
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2020-10-27 12:33:04 +0100
+
+    SLING-9856 models-impl declares compile dependency to org.apache.sling.commons.testing
+
+1	0	pom.xml
+
+commit 2a1626f982956a20278e4e26af9a4dcbe09dfd4d
+Author: Radu Cotescu <radu@apache.org>
+Date:   2020-10-20 17:39:00 +0200
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit 6858215086ba64528bd3623648e2b928ced5d518
+Author: Radu Cotescu <radu@apache.org>
+Date:   2020-10-20 17:38:49 +0200
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.16
+
+2	2	pom.xml
+
+commit a8759b982eace7a120062996450a42e071a30e10
+Author: Radu Cotescu <radu@apache.org>
+Date:   2020-10-20 17:30:29 +0200
+
+    SLING-9842 - Upgrade to parent pom 40
+
+1	1	pom.xml
+
+commit 2b5c614769d1bcc8d3bd941aaabed8362edad952
+Author: Radu Cotescu <radu@apache.org>
+Date:   2020-10-20 17:21:29 +0200
+
+    SLING-9834 - [Sling Models] Caching bug with reused Servlet requests
+    
+    * minor code cleanup
+
+2	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+11	9	src/test/java/org/apache/sling/models/impl/CachingTest.java
+
+commit 10e6b40443a1670afbd3e6461ae283e83e4a83ea
+Author: Christophe Jelger <jelger@adobe.com>
+Date:   2020-10-20 17:13:28 +0200
+
+    SLING-9834 - [Sling Models] Caching bug with reused Servlet requests
+    
+    * use ServletRequest attributes to cache sling models when the adaptable is a ServletRequest
+
+5	0	pom.xml
+30	26	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+82	14	src/test/java/org/apache/sling/models/impl/CachingTest.java
+4	3	src/test/java/org/apache/sling/models/testmodels/classes/CachedModel.java
+4	3	src/test/java/org/apache/sling/models/testmodels/classes/UncachedModel.java
+
+commit 00ae84987c41179e610f5dddcb10332e557bce89
+Author: Justin Edelson <justin@justinedelson.com>
+Date:   2020-10-05 07:19:43 -0400
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit e658cb305c3eec4045632835057f2e81cabfb0ab
+Author: Justin Edelson <justin@justinedelson.com>
+Date:   2020-10-05 07:18:58 -0400
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.14
+
+2	2	pom.xml
+
+commit 73cae5875cc47c76991d0a58e4fb2351595eb146
+Author: Christophe Jelger <jelger@adobe.com>
+Date:   2020-10-05 13:08:57 +0200
+
+    SLING-9781 - [Sling Models] Caching doesn't work with Wrapped requests (#20)
+    
+    - use original sling request when caching models adapted from a wrapped request
+
+10	5	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+30	0	src/test/java/org/apache/sling/models/impl/CachingTest.java
+
+commit ddf8f2d7c32da2bf9196e798f5e59f69b962739c
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2020-10-01 08:34:10 +0200
+
+    SLING-9755 make annotation parsing more lenient (#19)
+    
+    also catch AnnotationFormatError in
+    ModelBundleListener.analyzeClass(...)
+    
+    add tests for ModelPackageBundleListener
+
+6	0	pom.xml
+3	2	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+112	0	src/test/java/org/apache/sling/models/impl/ModelPackageBundleListenerTest.java
+27	0	src/test/java/org/apache/sling/models/testmodels/classes/SimpleModelWithInvalidSecondAnnotation.java
+21	0	src/test/java/org/apache/sling/models/testmodels/classes/annotations/Hidden.java
+29	0	src/test/java/org/apache/sling/models/testmodels/classes/annotations/OtherAnnotation.java
+
+commit 1627a8804bdcb7dbf3b83fb287a525c19402c10f
+Author: Dan Klco <dklco@apache.org>
+Date:   2020-08-24 17:18:55 -0400
+
+    Adding sonarqube badges as per SLING-9682
+
+2	2	README.md
+
+commit 12119974ff5f190923c4f9195534ceaee49a7c64
+Author: Radu Cotescu <radu@apache.org>
+Date:   2020-08-24 18:51:46 +0200
+
+    Updating badges for org-apache-sling-models-impl
+
+1	1	README.md
+
+commit f16efce2c3f52214b9ebb6fdd2ab0390d2298611
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2020-06-23 13:34:04 +0200
+
+    fixes after review
+
+18	60	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+86	0	src/main/java/org/apache/sling/models/impl/model/OptionalTypedInjectableElement.java
+
+commit 80b1dea63615ea5be8252241d6147bce9552fa8e
+Merge: 3b56a55 92c0a72
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2020-03-16 12:01:52 +0100
+
+    Merge pull request #18 from etugarev/issues/SLING-8858
+    
+    SLING-8858 - Added NPE check
+
+commit 77f3f4c3f7bfb66e3110c3607ace7bec333be785
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2019-11-24 21:20:09 +0100
+
+    work in progress 3
+
+109	22	src/test/java/org/apache/sling/models/impl/OptionalObjectsTest.java
+54	7	src/test/java/org/apache/sling/models/testmodels/classes/OptionalObjectsModel.java
+
+commit 92c0a7289924f209332af675311c044338347b62
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2019-11-22 23:42:12 +0100
+
+    Added NPE check
+
+6	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit e33658c007748cbb845b6e05c3c325b5b2bdad5d
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2019-11-20 22:46:51 +0100
+
+    work in progress 2
+
+19	9	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+78	7	src/test/java/org/apache/sling/models/impl/OptionalObjectsTest.java
+169	5	src/test/java/org/apache/sling/models/testmodels/classes/OptionalObjectsModel.java
+
+commit e4dca5383fda2491797c4e87f1aff0aeb0781663
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2019-11-18 22:13:48 +0100
+
+    work in progress
+
+77	17	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+0	6	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+6	37	src/test/java/org/apache/sling/models/impl/OptionalObjectsTest.java
+6	146	src/test/java/org/apache/sling/models/testmodels/classes/OptionalObjectsModel.java
+
+commit 8608fcdce6458107b7cc8322c82ff408e4b2b9b9
+Author: Evgeny Tugarev <etugarev@gmail.com>
+Date:   2019-11-17 16:36:22 +0100
+
+    SLING-8706 - Injections for java.util.Optional<> should be automatic optional
+
+6	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+110	0	src/test/java/org/apache/sling/models/impl/OptionalObjectsTest.java
+182	0	src/test/java/org/apache/sling/models/testmodels/classes/OptionalObjectsModel.java
+
+commit 3b56a556568409c942717eb7d32e63270ebdc19d
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-11-01 11:50:15 +0100
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit 00c073749bca3a4b50f559b407cd0b462fada13e
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-11-01 11:48:02 +0100
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.12
+
+4	5	pom.xml
+
+commit 617d8008d3b4ab8c42ffd23da95325bdf4bab7f2
+Merge: f2e948b 69da76a
+Author: Nicolas Peltier <npeltier@apache.org>
+Date:   2019-11-01 09:39:51 +0100
+
+    Merge pull request #16 from npeltier/SLING-8781
+    
+    SLING-8781 use model's bundle context
+
+commit 69da76a87ab0cfa7d9b5f7562395753a783bd4fa
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-10-25 17:25:31 +0200
+
+    SLING-8781 factorizing context fetch
+
+2	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	1	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit 8ae0d41583774167ec5b25f9d74b1c1a61cc22b2
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-10-25 16:58:56 +0200
+
+    Revert "SLING-8754 [...]ndings servicecache (#15)"
+    
+    This reverts commit f2e948b4c0f338dcebeedce8c09f7d6f283e4183.
+
+1	22	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit 23ffab2d2b9f40e6dd6c755ba712ccb09cf9a818
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-10-25 16:18:36 +0200
+
+    SLING-8781 use model's bundle context
+    
+    - in ModelAdapterFactory, lookup specific context, and for osgi injector specifically, call getValue with specified bundle context,
+    - in OsgiServiceInjector, have specific (or default legacy one) bundle context used for service references
+
+25	8	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+32	13	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit f2e948b4c0f338dcebeedce8c09f7d6f283e4183
+Author: Nicolas Peltier <npeltier@apache.org>
+Date:   2019-10-06 18:15:57 +0200
+
+    SLING-8754 when possible use bindings servicecache (#15)
+
+19	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+
+commit 398a382724154eb6bd80bd9d4142f100fee2532c
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2019-06-26 12:20:58 +0200
+
+    SLING-8452 migrate to OSGi annotations (#13)
+    
+    * SLING-8452 migrate to OSGi annotations
+    
+    also update to the most recent Sling parent which required to increase
+    the minimum java version to 8
+
+12	0	bnd.bnd
+60	82	pom.xml
+2	6	src/main/java/org/apache/sling/models/impl/FirstImplementationPicker.java
+43	101	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+28	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactoryConfiguration.java
+2	6	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+13	20	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+2	6	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+3	3	src/main/java/org/apache/sling/models/impl/model/ModelClass.java
+6	8	src/main/java/org/apache/sling/models/impl/via/BeanPropertyViaProvider.java
+2	4	src/main/java/org/apache/sling/models/impl/via/ChildResourceViaProvider.java
+3	4	src/main/java/org/apache/sling/models/impl/via/ForcedResourceTypeViaProvider.java
+3	4	src/main/java/org/apache/sling/models/impl/via/ResourceSuperTypeViaProvider.java
+27	15	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+12	21	src/test/java/org/apache/sling/models/impl/AnnotationConflictsTest.java
+4	16	src/test/java/org/apache/sling/models/impl/CachingTest.java
+2	14	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+7	18	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+1	15	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+3	17	src/test/java/org/apache/sling/models/impl/ExtraDefaultTests.java
+4	10	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+10	17	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+4	18	src/test/java/org/apache/sling/models/impl/InterfaceInheritanceTest.java
+4	18	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+1	15	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+2	13	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+1	16	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+4	16	src/test/java/org/apache/sling/models/impl/ParameterizedTypeFromRequestAttributeTest.java
+3	16	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+1	14	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+1	16	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+16	19	src/test/java/org/apache/sling/models/impl/RequestWrapperTest.java
+4	18	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+1	15	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+1	15	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+6	17	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+1	15	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+1	14	src/test/java/org/apache/sling/models/impl/ViaTest.java
+
+commit 89ae8beba7f6bd03e3af13c45124cbe62f122b3b
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2019-05-31 14:51:59 +0200
+
+    SLING-8356 decrease ranking of ResourceTypeBasedResourcePicker to be
+    able to place pickers after it
+
+1	1	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+
+commit 359d7bf28c1e240a75e01d19f47ea44ff3c1952d
+Author: Julian Sedding <jsedding@apache.org>
+Date:   2019-05-27 14:54:40 +0200
+
+    SLING-8438 - Sling Models BeanPropertyViaProvider should support nesting
+
+8	0	src/main/java/org/apache/sling/models/impl/via/BeanPropertyViaProvider.java
+31	1	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+38	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/ViaRequestSuffixModel.java
+
+commit a17cce511be752ad45256b9ebd70b9ad773edbf8
+Author: Radu Cotescu <radu@apache.org>
+Date:   2019-01-31 13:19:02 +0100
+
+    Updating badges for org-apache-sling-models-impl
+
+2	2	README.md
+
+commit 17f35415ebb431c65f5874b1f08ea4a9937add87
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2019-01-30 09:29:49 +0100
+
+    SLING-7245 - Validate pull requests using Jenkins
+
+20	0	Jenkinsfile
+
+commit 1586c1ff53509b222268188eba5c911d812bec0e
+Merge: 72d63d7 66f637b
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-01-24 15:21:11 +0100
+
+    Merge pull request #12 from npeltier/SLING-8236
+    
+    SLING-8236 restricting toString to debug mode
+
+commit 66f637b1b4bc6ac8a3470517fd4f177c660fca55
+Author: Nicolas Peltier <peltier.nicolas@gmail.com>
+Date:   2019-01-24 14:54:20 +0100
+
+    SLING-8236 restricting toString to debug mode
+
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 72d63d764d5df10399879383c4f388c0c26a01db
+Author: Dan Klco <dklco@apache.org>
+Date:   2018-10-19 10:19:13 -0400
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit 0b00cd5239b7a64eafa1efcf320199dda0c7cf5c
+Author: Dan Klco <dklco@apache.org>
+Date:   2018-10-19 10:18:52 -0400
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.10
+
+2	2	pom.xml
+
+commit 92d2e5b38e8db3cef714a207ebd42f4fb5f896a0
+Merge: da90ebf 5a2f0f9
+Author: Dan Klco <klcodanr@users.noreply.github.com>
+Date:   2018-10-18 17:42:12 -0400
+
+    Merge pull request #7 from rr040/defer-MissingElementsException-creation
+    
+    create MissingElementsException only if there is at least one missing element
+    
+    Thanks @rr040 !
+
+commit da90ebf6584047d4eb0a6285f3e156a9dba25cf6
+Author: Dan Klco <dklco@apache.org>
+Date:   2018-10-17 13:11:49 -0400
+
+    Adding missing import
+
+1	0	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+
+commit 68aea6f3ab554e6a09c670e4dea14a2a7bf74fa2
+Merge: 6c17ddb 92ba8ca
+Author: Dan Klco <klcodanr@users.noreply.github.com>
+Date:   2018-10-17 12:43:27 -0400
+
+    Merge pull request #5 from justinedelson/issue/SLING-7584
+    
+    SLING-7584 - accumulating callbacks within the scope of a single request
+
+commit 92ba8cae992912016577ac55e670fa0ef0f468eb
+Merge: 96b17e5 6c17ddb
+Author: Dan Klco <klcodanr@users.noreply.github.com>
+Date:   2018-10-17 12:43:10 -0400
+
+    Merge branch 'master' into issue/SLING-7584
+
+commit 6c17ddbd5ae260f36d302129aaab3e7d29158790
+Author: Dan Klco <dklco@apache.org>
+Date:   2018-10-17 10:44:19 -0400
+
+    Adding license header for the new test
+
+16	0	src/test/java/org/apache/sling/models/testmodels/classes/CachedModelWithSelfReference.java
+
+commit 7fa813a6942ccde91cad91449b8a0be3ec5e4209
+Merge: 42dccf2 5b47255
+Author: Dan Klco <klcodanr@users.noreply.github.com>
+Date:   2018-10-17 10:15:33 -0400
+
+    Merge pull request #9 from paul-bjorkstrand/fix/SLING-7586-model-cache-oom
+    
+    Fix SLING-7586 using SoftReferences and WeakHashMap. Thanks for the PR @paul-bjorkstrand!
+
+commit 5b472557cc6e6057e781a4bf0e65ddfe3d3e8430
+Author: Paul Bjorkstrand <paul.bjorkstrand@perficient.com>
+Date:   2018-10-16 14:57:54 -0500
+
+    Fix SLING-7586 using SoftReferences and WeakHashMap
+    Allows the GC to collect cached model instances, even when self-referenced to the original adaptable (e.g. via @Self)
+
+12	10	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+45	3	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+309	0	src/test/java/org/apache/sling/models/testmodels/classes/CachedModelWithSelfReference.java
+
+commit 42dccf273623031c34cba9f6289431f90957b9ee
+Author: Radu Cotescu <radu@apache.org>
+Date:   2018-09-20 11:09:06 +0200
+
+    trivial: added license header to *.md files
+
+18	0	CODE_OF_CONDUCT.md
+18	0	CONTRIBUTING.md
+
+commit 03e6189f053e1942ec55ecf263ab1a0463ce5546
+Author: Radu Cotescu <radu@apache.org>
+Date:   2018-09-19 18:29:20 +0200
+
+    SLING-7215 - [nice-to-have] Add a CONTRIBUTING file to every module
+
+6	0	CONTRIBUTING.md
+
+commit fe7d4c9f105566d7f3e4a2fa0c065738613fb1b9
+Author: Radu Cotescu <radu@apache.org>
+Date:   2018-09-19 18:04:02 +0200
+
+    SLING-7216 - [nice-to-have] Add a CODE_OF_CONDUCT file to every module
+
+4	0	CODE_OF_CONDUCT.md
+
+commit 5a2f0f9ac7e9596b88ec8e240ba4c342886146cf
+Author: Robert Rathsack <robert.rathsack@sinnerschrader.com>
+Date:   2018-09-05 15:23:35 +0200
+
+    also create list for missing element exceptions if there is at least one missing element
+
+15	6	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 50f59165963c45b3f80a7bcaf05de5fb3df600b1
+Author: Robert Rathsack <robert.rathsack@sinnerschrader.com>
+Date:   2018-08-28 11:51:57 +0200
+
+    create MissingElementsException only if there is at least one missing element
+
+21	9	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 3dca10bf140c30170a178354344bb4587edf719a
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2018-08-13 11:39:09 +0200
+
+    SLING-7798 Switch from JSR-305 annotations to JetBrains Nullable/NotNull annotations
+
+3	3	pom.xml
+29	29	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+2	3	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+4	4	src/main/java/org/apache/sling/models/impl/Result.java
+4	4	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+4	4	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+5	5	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+4	5	src/main/java/org/apache/sling/models/impl/via/AbstractResourceTypeViaProvider.java
+3	4	src/main/java/org/apache/sling/models/impl/via/ForcedResourceTypeViaProvider.java
+3	4	src/main/java/org/apache/sling/models/impl/via/ResourceSuperTypeViaProvider.java
+14	15	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+5	5	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+4	5	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotationInjector.java
+4	5	src/test/java/org/apache/sling/models/impl/injector/SimpleInjector.java
+
+commit 160e49267f00d38cc52b49f871853e9194e33e67
+Author: Dan Klco <dklco@apache.org>
+Date:   2018-06-08 15:09:41 -0400
+
+    Updating badges for org-apache-sling-models-impl
+
+6	0	README.md
+
+commit 13b81a714ab1e14d6b7315a59184d57a42d91c41
+Author: Oliver Lietz <olli@apache.org>
+Date:   2018-04-19 22:28:53 +0200
+
+    SLING-7603 Add missing OSGi capabilities
+
+6	0	pom.xml
+
+commit 96b17e56fcfec4faf2e8eebbfd12208cd2502b56
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-04-16 14:21:40 -0400
+
+    SLING-7584 - accumulating callbacks within the scope of a single request
+
+60	8	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+44	7	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+
+commit a4d24b3d9faedbe077cab05d1d415b120208c09e
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2018-03-01 18:47:01 +0100
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit 377042139fba3c5096b9404d3f144b56a85f89eb
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2018-03-01 18:46:42 +0100
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.8
+
+2	2	pom.xml
+
+commit f80c6b1200818c7a0541abc42609d2bb0f15e697
+Merge: b1ac26c 37cfd10
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-02-26 16:24:58 -0500
+
+    Merge branch 'Buuhuu-SLING-7508-prevent-endless-recursion'
+
+commit 37cfd105d92914c2bb4313590259b9025c6cacf2
+Merge: b1ac26c 1f81d46
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-02-26 16:21:38 -0500
+
+    Merge branch 'SLING-7508-prevent-endless-recursion' of https://github.com/Buuhuu/sling-org-apache-sling-models-impl into Buuhuu-SLING-7508-prevent-endless-recursion
+
+commit b1ac26cfe2a6b4c6c20bbe30c5d2b3191e8bb5dc
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-02-26 14:32:59 -0500
+
+    SLING-7517 - fix fake request object memory leak for interface-based models.
+
+3	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 1f81d46ddcebab42fe25368c15311ed0622ff3e2
+Author: Dirk Rudolph <dirk.rudolph@netcentric.biz>
+Date:   2018-02-21 21:22:39 +0100
+
+    SLING-7508: check if the resourceTypeResource differs from the resource to prevent endless recursion
+
+5	1	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+
+commit b0647a3419924c46e58b78aa6384e0f49491a0c6
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-02-02 19:13:25 -0500
+
+    SLING-7470 - resolving memory leak for fake request objects
+
+7	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+43	2	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+
+commit 210700aa3dd1ad42991c68dab26064e964172013
+Author: Justin Edelson <justin@apache.org>
+Date:   2018-01-30 11:14:55 -0500
+
+    SLING-7344 - force UTF-8 as character encoding for application/json in ExportServlet
+
+11	2	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+
+commit 74e4f0697d1a2e7c151a0a0c43e2c460d76d3a03
+Author: Santiago Garc¨ªa Pimentel <santiagozky@gmail.com>
+Date:   2017-12-21 18:15:46 +0100
+
+    SLING-7321 ChildResourceViaProvider support wrapping request (#3)
+    
+    * SLING-7321 ChildResourceViaProvider support wrapping request
+    
+    * SLING-7321 formatting
+
+34	0	src/main/java/org/apache/sling/models/impl/via/ChildResourceViaProvider.java
+63	0	src/test/java/org/apache/sling/models/impl/via/ChildResourceViaProviderTest.java
+
+commit 2a1642387d8a7622d7a942d11aac96b541420d99
+Merge: 3898b28 bdf04f7
+Author: justinedelson <justin@justinedelson.com>
+Date:   2017-12-13 09:37:28 -0500
+
+    Merge pull request #2 from justinedelson/issue/SLING-7307
+    
+    SLING-7307 - remove embedded BeanUtils
+
+commit bdf04f718701fae1ead593180ef1f25dfabb23f5
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-12 10:54:36 -0500
+
+    SLING-7307 - remove embedded BeanUtils
+
+0	10	pom.xml
+11	3	src/main/java/org/apache/sling/models/impl/via/BeanPropertyViaProvider.java
+
+commit 3898b28935e6c1ffac73b23acd17799977b355fc
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-08 10:41:09 -0500
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit 1c710a403dae0dc9e407d6604e54a261ebb74763
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-08 10:40:37 -0500
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.6
+
+3	2	pom.xml
+
+commit e17a55c0d600899960530d422a12bba82097112f
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-08 10:36:27 -0500
+
+    rollback pom change for release
+
+1	1	pom.xml
+
+commit 56acddf62e55653283d750a938228aea3030b78b
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-08 10:25:43 -0500
+
+    SLING-7292 - only register the callback registry if it isn't empty
+
+20	13	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 7dce056f0641873de7444b020b67e0d9f24f51cd
+Merge: 3782219 e11c225
+Author: justinedelson <justin@justinedelson.com>
+Date:   2017-12-08 10:19:54 -0500
+
+    Merge pull request #1 from justinedelson/issue/SLING-5668
+    
+    SLING-5668 - Leverage ServletRequestListener.requestDestroyed for cal¡­
+
+commit e11c225c64ad2aefb98eb6a11c1dbf15224124bf
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-07 17:50:36 -0500
+
+    SLING-5668 - use DS for listener, OSGi constants from Whiteboard, and implement unit test
+
+5	4	pom.xml
+15	19	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+13	15	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+2	3	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+136	0	src/test/java/org/apache/sling/models/impl/RequestDisposalTest.java
+30	2	src/test/java/org/apache/sling/models/testutil/ModelAdapterFactoryUtil.java
+
+commit ef36bed1fd111c84f3bb990b3fdff3d12136efb8
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-12-07 13:33:27 -0500
+
+    SLING-5668 - Leverage ServletRequestListener.requestDestroyed for calling DisposalCallback in case the model was created from a request
+
+1	0	.gitignore
+59	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+3	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+
+commit 378221953827f67e04cfdb3d14857476032b9d07
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2017-12-01 16:05:25 +0100
+
+    SLING-7283 ModelPackageBundleListener: lower log level when registering servlets
+
+1	1	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit 2e2d545d1f954bc9f773a0e4151065fb6392ca2d
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2017-12-01 16:00:32 +0100
+
+    cosmetic: eliminate some code warnings, organize imports
+
+8	9	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+10	11	src/main/java/org/apache/sling/models/impl/ResourceOverridingRequestWrapper.java
+6	0	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+2	0	src/test/java/org/apache/sling/models/impl/AnnotationConflictsTest.java
+1	1	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+
+commit 3c7bd79543f7b6cbde81c00567c80afffb02dc60
+Author: sseifert <sseifert@pro-vision.de>
+Date:   2017-12-01 16:00:04 +0100
+
+    ignore dependency-reduced-pom.xml
+
+1	0	.gitignore
+
+commit 09f4505b1fa07ac6cfb1720ba485a39c60081e07
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2017-10-24 13:41:01 +0200
+
+    SLING-7213 - Add a default .gitignore file to every module
+
+17	1	.gitignore
+
+commit 0d9ad45a9b70680d7400612ded06c0b84d480cfd
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2017-10-23 18:38:24 +0200
+
+    SLING-7214 - Add the LICENSE file to every module
+
+202	0	LICENSE
+
+commit b93d159e220bbf1445dc290d4c0993bc57bea162
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2017-10-23 12:06:30 +0300
+
+    Fix typo in pom.xml : conncetion should be connection
+
+1	1	pom.xml
+
+commit 5ea27c9e96cd34a07937c112398545a048922e5c
+Author: Robert Munteanu <robert.munteanu@gmail.com>
+Date:   2017-10-20 19:20:07 +0200
+
+    SLING-7162 - Update SCM information in all POM files to reference Git
+
+2	2	pom.xml
+
+commit 3c89f0cae0ea664db37bf9ca32fe645948aeb435
+Author: Robert Munteanu <robert.munteanu@gmail.com>
+Date:   2017-10-20 19:13:16 +0200
+
+    SLING-7162 - Update SCM information in all POM files to reference Git
+
+2	2	pom.xml
+
+commit 20cecea89ecb6ac4ef985686fc3fb14a3fe5a0c0
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-10-10 17:16:15 +0000
+
+    SLING-7187 - handle conflicts between annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1811741 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+280	0	src/test/java/org/apache/sling/models/impl/AnnotationConflictsTest.java
+
+commit 912ae9955b8f564b65926d8f39526d84d5447c9f
+Author: Oliver Lietz <olli@apache.org>
+Date:   2017-10-03 09:55:54 +0000
+
+    SLING-7167 Adjust READMEs
+    
+    add uniform header linking to Sling project
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1810847 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	README.md
+
+commit 8990421287ee61d84a7cc3dced762189061af1fb
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-10-02 17:37:53 +0000
+
+    SLING-7174 - catch Exception in ExportServlet when accessing reader
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1810563 13f79535-47bb-0310-9956-ffa450edef68
+
+7	1	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+
+commit 0c7661a397dacad6b1d544227e2d4a533f927274
+Author: Oliver Lietz <olli@apache.org>
+Date:   2017-10-02 16:13:42 +0000
+
+    SLING-7167 Adjust READMEs
+    
+    switch from plain text to Markdown
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1810477 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	README.txt => README.md
+
+commit 5c651fbd8cdfe79f7178f6dddb85b76ad18c7d78
+Author: Oliver Lietz <olli@apache.org>
+Date:   2017-10-02 14:56:03 +0000
+
+    SLING-7167 Adjust READMEs
+    
+    remove outdated information
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1810390 13f79535-47bb-0310-9956-ffa450edef68
+
+0	23	README.txt
+
+commit 0cf38ee59a6d74744b050254e844df249f69eaff
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-09-18 13:18:04 +0000
+
+    SLING-7124 - allow PostConstruct method to return a boolean to indicate a failure
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1808699 13f79535-47bb-0310-9956-ffa450edef68
+
+9	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+2	2	src/main/java/org/apache/sling/models/impl/Result.java
+27	1	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/FalsePostConstuctModel.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/TruePostConstuctModel.java
+
+commit 23c26119f880db1c562b92beda840309e4275467
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-08-23 15:51:22 +0000
+
+    update to latest snapshot version until release is available on maven central
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1805931 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit e2e8a417a081edf6256d97f01470bac5db5657ed
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-08-23 15:04:05 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1805909 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit d3b8f9c89368cb3e066a0a0335165e7e43d15cd2
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-08-23 15:03:51 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1805907 13f79535-47bb-0310-9956-ffa450edef68
+
+245	245	pom.xml
+
+commit 6512124ba8e0abcb7dd4b85e8e8e26acb8a83cf3
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-08-23 15:03:27 +0000
+
+    use released version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1805906 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit a8fa9eac0b9a32fda4d82d6a43e94c5bb0648977
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-08-14 21:04:43 +0000
+
+    SLING-7049 - MissingExporterException thrown when the desired ModelExporter is not the first in the list
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1805037 13f79535-47bb-0310-9956-ffa450edef68
+
+2	12	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+109	0	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+
+commit 7ed5d28dc344831e058ff5fbd636870cf91dd9e6
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2017-08-09 15:52:16 +0000
+
+    SLING-7040 : Update commons lang 2.x to 3.5
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1804564 13f79535-47bb-0310-9956-ffa450edef68
+
+6	5	pom.xml
+18	18	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+60	59	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+15	16	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+4	4	src/main/java/org/apache/sling/models/impl/ReflectionUtil.java
+3	2	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+2	2	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+4	3	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+3	3	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+5	4	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+8	2	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+1	1	src/main/java/org/apache/sling/models/impl/via/BeanPropertyViaProvider.java
+1	1	src/main/java/org/apache/sling/models/impl/via/ChildResourceViaProvider.java
+3	3	src/main/java/org/apache/sling/models/impl/via/ForcedResourceTypeViaProvider.java
+20	13	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+13	6	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+4	3	src/test/java/org/apache/sling/models/impl/ViaTest.java
+
+commit d3313cc16dc1dec1a82e58644725c11b1b987563
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-07-20 15:14:15 +0000
+
+    Merge branch 'SLING-7015'
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1802505 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+4	26	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+0	55	src/main/java/org/apache/sling/models/impl/ExporterScriptEngineFactory.java
+14	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+4	3	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+93	0	src/main/java/org/apache/sling/models/impl/ResourceOverridingRequestWrapper.java
+92	0	src/main/java/org/apache/sling/models/impl/SlingModelsScriptEngineFactory.java
+125	0	src/test/java/org/apache/sling/models/impl/RequestWrapperTest.java
+5	0	src/test/java/org/apache/sling/models/impl/StaticInjectionAPFLoadOrderTest.java
+
+commit dbe0d5302e6ac51b8be71a0e8e6ed9f0f1bc2365
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-05-11 12:11:03 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1794816 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 37dd023f01391097043d67455a61eccfd6436b4d
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-05-11 12:10:49 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.2
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1794814 13f79535-47bb-0310-9956-ffa450edef68
+
+244	244	pom.xml
+
+commit 09a984f89faca4296ce806f6fa7a4bd948ccb685
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-05-09 13:01:37 +0000
+
+    SLING-6846 Sling Models Impl: Avoid exceptions when resource has no resource type
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1794571 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+10	0	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+
+commit c7b8fca0ca53a07d97a337aab797dd272cbb892f
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-05-09 12:37:12 +0000
+
+    cosmetic: remove dead code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1794555 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	src/main/java/org/apache/sling/models/impl/via/AbstractResourceTypeViaProvider.java
+
+commit 0b4b45e2b55e085e5d677e00e52166d3a73454b6
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2017-05-09 12:03:45 +0000
+
+    cosmetic: eliminate unused imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1794548 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 600cb28d3424a8fa50a4be6972f6e3f404124dfe
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-05-02 13:39:57 +0000
+
+    SLING-6818 - only attach the sources jar generated by the shade plugin
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1793493 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	pom.xml
+
+commit 72b00d2286ebd443d02e400872584399ad9bc037
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-05-01 16:56:32 +0000
+
+    SLING-6815 - add allow private package registration property to Sling Models registered Adapter Factories
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1793374 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit 37a41f2f68e5be01697bb98e75c32196d4cf767e
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2017-04-28 09:44:58 +0000
+
+    Switch to snapshot for API dependency until vote is in progress
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1793028 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 8f0eeaa6c19e03919087eb97d7d575c3efe376b0
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-04-27 13:43:20 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1792892 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 34f5d4abda132fae4fe4662444cd033489db4774
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-04-27 13:43:06 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.4.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1792890 13f79535-47bb-0310-9956-ffa450edef68
+
+237	237	pom.xml
+
+commit ebe7bab3748ba69dd3d2f6cbdcd9ef57ac95bb91
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-04-27 13:42:38 +0000
+
+    use released api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1792889 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 6f31147839defb6e82cf2585c31264d056ce9bb1
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-04-27 13:37:01 +0000
+
+    SLING-6785 - support caching for adaptations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1792884 13f79535-47bb-0310-9956-ffa450edef68
+
+42	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+112	0	src/test/java/org/apache/sling/models/impl/CachingTest.java
+33	0	src/test/java/org/apache/sling/models/testmodels/classes/CachedModel.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/UncachedModel.java
+29	0	src/test/java/org/apache/sling/models/testmodels/interfaces/CachedModel.java
+29	0	src/test/java/org/apache/sling/models/testmodels/interfaces/UncachedModel.java
+
+commit f00710327e90ee9f1e3e8f85ca8289a7a17eb902
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-04-20 15:06:03 +0000
+
+    Merge branch 'via-resource-type-force'
+    
+    # Conflicts:
+    #       bundles/extensions/models/api/src/main/java/org/apache/sling/models/annotations/package-info.java
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1792071 13f79535-47bb-0310-9956-ffa450edef68
+
+41	10	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+17	0	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+37	29	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+9	6	src/main/java/org/apache/sling/models/impl/model/InjectableElement.java
+101	0	src/main/java/org/apache/sling/models/impl/via/AbstractResourceTypeViaProvider.java
+52	0	src/main/java/org/apache/sling/models/impl/via/BeanPropertyViaProvider.java
+47	0	src/main/java/org/apache/sling/models/impl/via/ChildResourceViaProvider.java
+45	0	src/main/java/org/apache/sling/models/impl/via/ForcedResourceTypeViaProvider.java
+45	0	src/main/java/org/apache/sling/models/impl/via/ResourceSuperTypeViaProvider.java
+2	0	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+22	2	src/test/java/org/apache/sling/models/impl/ViaTest.java
+37	0	src/test/java/org/apache/sling/models/testmodels/classes/ChildResourceViaModel.java
+
+commit c6813f7c36740a8e6fea43b2ba616ea0ee54b976
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-03-31 19:14:48 +0000
+
+    SLING-6764 - Guard against reflection failures when registering Sling Model classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1789734 13f79535-47bb-0310-9956-ffa450edef68
+
+31	17	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+25	26	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+11	11	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+
+commit 1c7f35db7daca1ef7a9a812a8e4eab3b7b7e3bd3
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-03-29 22:43:15 +0000
+
+    SLING-6748 - move ValuePreparer to API
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1789419 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+0	35	src/main/java/org/apache/sling/models/impl/injectors/ValuePreparer.java
+
+commit 1907f07200d7a87a5da7a0960dc00328a49d654f
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-03-17 13:56:20 +0000
+
+    SLING-6652 - allow for multiple classes to export the same resourceType
+    
+    This closes #207
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1787388 13f79535-47bb-0310-9956-ffa450edef68
+
+21	5	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+2	2	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit d5ab4984a48f7c011d020cd78d9354243543e8f7
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-03-17 13:39:06 +0000
+
+    SLING-6658 - always include implementation class in adapterTypes list. Thanks to Dirk Rudolph for the patch!
+    
+    This closes #206
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1787379 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit 1d2bb13915352fd9d60775cfdab4e0afef945977
+Author: Justin Edelson <justin@apache.org>
+Date:   2017-03-01 14:58:55 +0000
+
+    SLING-6584 - synchronize setAccessible calls
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1784960 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+2	16	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+28	3	src/main/java/org/apache/sling/models/impl/model/InjectableField.java
+50	0	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+
+commit 61dc0eb72a74c919879b4a37b0bdad94bca9d82b
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 10:24:11 +0000
+
+    update to next snapshot version until releases are available on maven central
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775048 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 389d7e655335779e91d6da779716c9496353cad7
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 10:22:36 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775046 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 44783f8952ffbf1636613681bbe6c3ac83bb8698
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 10:22:21 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.8
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775044 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 9478e8455da4b5d190265db053861fd3fc084831
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 10:22:00 +0000
+
+    update to latest API release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775043 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 99ee62a0bbb538e3676b44a668199c9eb630f214
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 10:07:25 +0000
+
+    SLING-6409 make recolate expression for org.apache.sling.scripting.core more explicit to relocate only internal package
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775040 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit 77e82cff8e33f755555fb898280bab9e44655fff
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 09:54:09 +0000
+
+    found issue in integration test - rollback release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775037 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit d8adb0c16d40ea9f1d14ce170a88640f95b07128
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 09:14:23 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775029 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit e016a7b2caddceb0e64df396cbee143f85e61b11
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 09:14:08 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.8
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775027 13f79535-47bb-0310-9956-ffa450edef68
+
+237	237	pom.xml
+
+commit 1a7972ac06992887da600098a91ed83699302888
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-19 09:13:43 +0000
+
+    update to latest API release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1775026 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit bf9241c7df8c6e4b87be1fdafd90b6c80f942f7d
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-17 21:05:59 +0000
+
+    SLING-6409 switch back to bnd embend for commons-beanutils
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1774808 13f79535-47bb-0310-9956-ffa450edef68
+
+3	12	pom.xml
+
+commit ecd560588eaacec2dc7f93e77a0fa71376574d51
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-17 20:57:45 +0000
+
+    SLING-6409 fix filter expressions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1774807 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit c1d73f1550f06cd6789ea9c3e43383d6f28e7c54
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-17 20:00:19 +0000
+
+    SLING-6409 shade beanutils as well, and fix package imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1774797 13f79535-47bb-0310-9956-ffa450edef68
+
+29	6	pom.xml
+
+commit e2517f9165f9271e0e507541a4ca45175d0b63f5
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-17 08:31:22 +0000
+
+    cosmetic: remove some unused imports/eliminate warnings
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1774719 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+1	5	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+0	1	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+0	1	src/main/java/org/apache/sling/models/impl/injectors/ValuePreparer.java
+
+commit 59e09d57f6710cf6d5e1c42bf77c553e34015a31
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-12-17 08:23:39 +0000
+
+    SLING-6409 Models Impl: Use shading instead of embedding for commons.osgi and scripting.core
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1774718 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	.gitignore
+63	15	pom.xml
+
+commit faa44f4ddcbc69349a0f1976815ddee079177b9b
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-12-08 13:22:54 +0000
+
+    SLING-6369 MissingElementsException should not hide any stack traces of contained exceptions
+    
+    Rely on suppressed exceptions being introduced with Java7.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1773229 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	pom.xml
+
+commit b65c1c342066a82f63c6e0f523043742e4e2533a
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-12-08 13:20:36 +0000
+
+    really only log exception in case the default injection was successful
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1773228 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 3f07c441964f96eb8bdac88253379c49e426f9ac
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-12-08 12:01:57 +0000
+
+    SLING-6377 always try to adapt via ModelFactory means if possible to correctly expose the underlying exception
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1773222 13f79535-47bb-0310-9956-ffa450edef68
+
+41	25	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit dcb4e033b6c0935d4fb2fb8fd5593c3e92a74e57
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-12-08 11:24:12 +0000
+
+    SLING-6376 log correct types when adapting within a collection failed for some reason
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1773216 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 84de65b410eda4083640e999001492ea909e3f9e
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-12-05 19:14:16 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772748 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit d338562d1cea3d96e2ce457504dbb40350bdfe67
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-12-05 19:14:02 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.6
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772746 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 555b95f1399433a34aca8b29d36ccb766bbdd253
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-12-05 19:10:51 +0000
+
+    internal variable rename
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772745 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+
+commit 722162ea6bdf0c915e3430ccd2867f651c5135e8
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-12-05 19:10:36 +0000
+
+    SLING-6366 - add new data to Sling Models Configuration Printer
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772744 13f79535-47bb-0310-9956-ffa450edef68
+
+9	0	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+55	1	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+5	0	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit e428f68b9a9f33923f8593f015276130e740a9a3
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-12-01 20:59:38 +0000
+
+    SLING-6354 - fix support for SlingBindings injections in ExportServlet
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772273 13f79535-47bb-0310-9956-ffa450edef68
+
+15	3	pom.xml
+96	19	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+55	0	src/main/java/org/apache/sling/models/impl/ExporterScriptEngineFactory.java
+5	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+17	7	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+1	6	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+1	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+7	2	src/test/java/org/apache/sling/models/impl/StaticInjectionAPFLoadOrderTest.java
+
+commit d9c6b97078794bc77174c87066ad717bc54ff922
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-30 17:47:18 +0000
+
+    SLING-6341 - fix array support for resource path injector with patch from Santiago Garc¨ªa Pimentel
+    
+    This closes #186
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772094 13f79535-47bb-0310-9956-ffa450edef68
+
+6	2	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+11	1	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+43	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathModelWrapping.java
+
+commit 6e718fe739ed4bcbfc9609750c9be83e8e68455b
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-30 17:47:13 +0000
+
+    SLING-6318 - improve optimization by avoiding null return values from prepareValues
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772093 13f79535-47bb-0310-9956-ffa450edef68
+
+2	10	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+6	1	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+6	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+12	1	src/main/java/org/apache/sling/models/impl/injectors/ValuePreparer.java
+
+commit 82c8cae21cb7108713a529f4a726062d1e7635a4
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-30 17:11:02 +0000
+
+    SLING-6346 - fixing null return for sling models adapting from SlingHttpServletRequest
+    
+    This closes #187
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772087 13f79535-47bb-0310-9956-ffa450edef68
+
+1	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 04f7bde14a725c9d58d2f1e586c5fe3fa8195c01
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-30 17:09:57 +0000
+
+    SLING-6318 - internal optimization to avoid repeated retrieval of ValueMap from Resource
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1772085 13f79535-47bb-0310-9956-ffa450edef68
+
+41	8	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+9	2	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+6	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+25	0	src/main/java/org/apache/sling/models/impl/injectors/ValuePreparer.java
+9	0	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+8	0	src/test/java/org/apache/sling/models/testmodels/classes/BindingsModel.java
+8	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/BindingsModel.java
+
+commit 0c9c0d13a1414e643f7615d32ebd83eb63bdbe9d
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:39:40 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770528 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 93a1e7bfc7c9f24e56eace87b2bdfec883ff9658
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:39:25 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770526 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 71f5f6678943736c105cb1c93e08d0eacee51f8a
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:33:06 +0000
+
+    SLING-6311 - allow the cleanup job interval period to be configured.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770522 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 9106f0ae957765f18910a3fb8e34f3679bef0a0b
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:33:02 +0000
+
+    SLING-6310 - clear disposal queue on component deactivation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770521 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 77e74c6f3b4090ccac1131d941a634dd974b3972
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:09:27 +0000
+
+    SLING-6308 - support explicit class names in bundle header
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770520 13f79535-47bb-0310-9956-ffa450edef68
+
+61	48	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+1	1	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+
+commit f306e495a0ca24745852f218012a91969ab45f49
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-19 22:09:21 +0000
+
+    SLING-6309 - better job name for service disposal
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770519 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 908f0d46d1683f2b8ad73adb1005bb76dcacf597
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-18 06:50:44 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770320 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 49ef59bad3d80b6d103e53d01277dc821c09d289
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-18 06:50:24 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.2
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770318 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 10f06020ec2401a610ba9345cc6db67667388178
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-18 06:43:40 +0000
+
+    using released api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770317 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 7102caf60ca9c84a3428a0ba09b7dd4d3a36fbbb
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-17 10:19:26 +0000
+
+    SLING-6298 - register module using first adapter type rather than implementation type
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770147 13f79535-47bb-0310-9956-ffa450edef68
+
+22	21	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit e24e3c3f4ab25d2b07a5144a5cb9e1e04c74d64a
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-11-16 21:06:13 +0000
+
+    SLING-6294 - fixing bad error messages in ExportServlet
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1770055 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+
+commit 82a8aaf162cd7ad863569154e1b974f3773f3914
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-10-31 23:48:17 +0000
+
+    switch to next snapshot version until released versions are available in maven central
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1767395 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 49c0630a3b91bcf6125a8b803e7498b465d6bedf
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-10-30 23:50:12 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1767205 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 2f082ab0336d8a21897e9208569752f495dc2ba3
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-10-30 23:49:59 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.3.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1767203 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit a60877d3089e111d92412b81aabc48b9aa33184e
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-10-30 23:49:34 +0000
+
+    use released api
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1767201 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 239fd080f5c332b703a42ee408b60bf900221b31
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-10-28 15:02:13 +0000
+
+    SLING-6183 - add Sling Model Exporter feature
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1767030 13f79535-47bb-0310-9956-ffa450edef68
+
+121	0	src/main/java/org/apache/sling/models/impl/ExportServlet.java
+73	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+64	4	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit 427d83d6c7f40dbd13ad60e86c876d950c6bf5e9
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-09-09 14:14:37 +0000
+
+    cosmetic: eliminate some code warnings (no functional change)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1760024 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	pom.xml
+5	6	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+2	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+1	2	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+1	5	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+10	11	src/test/java/org/apache/sling/models/impl/InterfaceInheritanceTest.java
+0	1	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+0	1	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+4	3	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+
+commit f963668ba2a5b0f95b77c4ebcb23cdbbcf237cad
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-08-31 13:24:44 +0000
+
+    SLING-5992 - Introduce resource type to model class binding
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1758602 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	pom.xml
+113	1	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+38	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+13	2	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+78	0	src/main/java/org/apache/sling/models/impl/ResourceTypeBasedResourcePicker.java
+129	0	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+
+commit 2794bb4e0d28dfbab79a8a96e7c3bc6c3b53499e
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-07-18 16:48:57 +0000
+
+    SLING-5865 Models Impl: Update to org.apache.sling.commons.osgi 2.4.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1753268 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 17c97adc7c9532a090fff665e4023eda9d480f0b
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-05-13 11:23:07 +0000
+
+    SLING-5726 reverting r1743648
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1743654 13f79535-47bb-0310-9956-ffa450edef68
+
+2	20	src/main/java/org/apache/sling/models/impl/injectors/AbstractInjector.java
+0	1	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+6	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+15	23	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+3	3	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
+
+commit dee176987e644ce7125be3aad6ee6ab166849cc0
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-05-13 10:35:03 +0000
+
+    SLING-5726 allow both ValueMapInjector and ResourcePathInjector to act on adaptable SlingHttpServletRequest in all circumstances
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1743648 13f79535-47bb-0310-9956-ffa450edef68
+
+20	2	src/main/java/org/apache/sling/models/impl/injectors/AbstractInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+1	6	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+23	15	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+3	3	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
+
+commit 640a1734e1e76a44eca37aaa149ad04a4dd0fbc6
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-05-09 16:16:33 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1742996 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 614a8f652336980317e0e41942aa462848b7a221
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-05-09 16:16:19 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.2.8
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1742994 13f79535-47bb-0310-9956-ffa450edef68
+
+161	161	pom.xml
+
+commit 398ddcfb46e38a2e1cf8e366eb4813153b90c425
+Author: Justin Edelson <justin@apache.org>
+Date:   2016-05-03 16:47:38 +0000
+
+    SLING-5710 - fixing issue where super interface methods weren't injected
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1742144 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/main/java/org/apache/sling/models/impl/ReflectionUtil.java
+86	0	src/test/java/org/apache/sling/models/impl/InterfaceInheritanceTest.java
+29	0	src/test/java/org/apache/sling/models/testmodels/interfaces/SubClassModel.java
+29	0	src/test/java/org/apache/sling/models/testmodels/interfaces/SuperClassModel.java
+
+commit dbc6bace91f060a735e2f32f9a12e722e879f3ee
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-04-18 16:45:18 +0000
+
+    SLING-5664 consider service ranking when injecting OSGi services
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1739788 13f79535-47bb-0310-9956-ffa450edef68
+
+11	5	pom.xml
+33	57	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+25	38	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+
+commit a9f2a7cba66b535cb63367dc2c28e1ef32e2bc6b
+Author: Oliver Lietz <olli@apache.org>
+Date:   2016-04-14 09:59:31 +0000
+
+    SLING-5661 Fix typo in Result#wasSuccessfull():boolean
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1739046 13f79535-47bb-0310-9956-ffa450edef68
+
+9	9	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	1	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit f636c73140c19d87467df6d91df40c5f551101d3
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-02-24 10:03:48 +0000
+
+    SLING-5555 Make error message more explicit when a @Source annotation contains an invalid source identifier
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1732052 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+27	5	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+
+commit 5bcb784180bd82b7b153ed3c221f7e0aef664dcd
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-01-22 13:31:57 +0000
+
+    simplify code (inline method)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1726206 13f79535-47bb-0310-9956-ffa450edef68
+
+1	5	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+
+commit 3f32f5813fa3e37ded54bb019a79b0e86ec4b5f5
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-01-19 22:16:00 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1725619 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit de54ff0badce61c0796ea316e714936ea2bbe6fd
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2016-01-19 22:15:43 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.2.6
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1725617 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit caf6d004425982c05cdeb393c2551ab572f5a5c8
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-01-08 17:25:00 +0000
+
+    SLING-5029 - clarify ModelFactory.canCreateFromAdaptable to always return false in case the according adapter factory is not available (for whatever reason)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1723767 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+21	15	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+5	2	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+1	0	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+7	2	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ExtraDefaultTests.java
+29	16	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+1	0	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+1	0	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+2	7	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+1	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+2	0	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ParameterizedTypeFromRequestAttributeTest.java
+1	0	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+5	2	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+2	0	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+1	0	src/test/java/org/apache/sling/models/impl/ViaTest.java
+
+commit e905ced5a4b29555e8f9ead1d62a1f8205cb080a
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-01-08 10:00:18 +0000
+
+    SLING-5389 - also log injection exceptions with level debug in case the injection is optional
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1723673 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit bc8f4176a1ecdf1b7fae9387801544eea37d9d8c
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2016-01-08 09:54:05 +0000
+
+    SLING-5389 improve logging in case of errors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1723672 13f79535-47bb-0310-9956-ffa450edef68
+
+2	12	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 68d519afec4d38035c626a9f38272dc901e3a80b
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2016-01-03 14:07:46 +0000
+
+    Switch to parent pom 26
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1722720 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit e6bf28d8e14b21845993799353fe9ab63bd144ae
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-12-10 21:19:38 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1719215 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 9839d349543d03b408949410d8c2875d9567de91
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-12-10 21:19:21 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.2.4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1719213 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 6ac4edb563ee5aa3111ab2e24e501d833862c4d2
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-12-04 20:53:36 +0000
+
+    SLING-5032 make access to injectors concurrent map atomic to ensure thread safety of bind/unbind methods
+    remove code redundancy in injectElement method when iterating over the injectors to process
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1718031 13f79535-47bb-0310-9956-ffa450edef68
+
+27	39	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 911f7d401fad9050d3b9ed870b17589609711eb1
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-12-04 20:35:52 +0000
+
+    cosmetic: eliminate some warnings
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1718026 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+1	0	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+
+commit 6e0e1c8bd6d90c619412d4881a6d18e16db3b1c4
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-12-04 20:34:38 +0000
+
+    switch back api dependency to latest released version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1718025 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit b548eda61020160818d0e5afaf6d84883fa1074f
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2015-10-22 13:02:12 +0000
+
+    SLING-5187 - Missing metatype name for ModelAdapterFactory
+    
+    Add metatype label for the class.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1710008 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 18b07884641857cb4ea4d0f9c9e80a82fd5114e1
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2015-10-05 10:03:45 +0000
+
+    Update the main reactor to parent 25
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1706780 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 56e7902e79f80cb137950862e7340f4b13e91aa8
+Author: Radu Cotescu <radu@apache.org>
+Date:   2015-09-21 10:34:03 +0000
+
+    trivial: minor code cleaning
+    
+    * corrected JavaDoc
+    * removed unused variables / parameters
+    * removed redundant unboxing
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1704258 13f79535-47bb-0310-9956-ffa450edef68
+
+33	37	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 185db29835bde049f888efa7b23ed6cf152e8957
+Author: Radu Cotescu <radu@apache.org>
+Date:   2015-09-21 10:33:46 +0000
+
+    SLING-5032 - Even if a field is annotated with Source the ModelAdapterFactory will query all injectors
+    
+    * allow retrieving an injector directly if @Source is used, without iterating through all registered injectors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1704257 13f79535-47bb-0310-9956-ffa450edef68
+
+47	9	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+0	2	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+
+commit 8317756664a0ef7dd3150631b8b636a4e99a2f01
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-09-10 22:12:54 +0000
+
+    update to next snapshot version until releases are available in maven central
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702342 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 4e0f2e04b0be26c77a45584b04ef18f427bcf980
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-09-10 21:56:35 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702337 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 4cb33c5016064e1700f539a7a92bb7f5b1820b26
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-09-10 21:56:18 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.2.2
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702335 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	pom.xml
+
+commit 8bf80e49b6fbbabde2d94af5e80aee0e9f14fc9a
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-09-10 21:55:40 +0000
+
+    update to API release version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702334 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 5a7766025f1129a1ac77b0768bab3336ebea589c
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-09-10 08:36:33 +0000
+
+    SLING-4997 add new method isModelClass and deprecate the old one
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702186 13f79535-47bb-0310-9956-ffa450edef68
+
+21	0	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+6	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit bfd71e0b75444b1ddf859f2a74bfe52eddc5bca1
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-09-09 20:04:55 +0000
+
+    SLING-5010 Sling Models: Stale StaticInjectionAnnotationProcesssorFactory list depending on bundle startup order
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1702098 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	pom.xml
+22	1	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+12	4	src/main/java/org/apache/sling/models/impl/model/ModelClass.java
+144	0	src/test/java/org/apache/sling/models/impl/StaticInjectionAPFLoadOrderTest.java
+203	0	src/test/java/org/apache/sling/models/testutil/ModelAdapterFactoryUtil.java
+
+commit b372c0a8c94de4c79cb994708a6a1fb3a5ff3b67
+Author: Oliver Lietz <olli@apache.org>
+Date:   2015-07-07 08:09:17 +0000
+
+    set parent version to 24 and add empty relativePath where missing
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1689593 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit cca61b72d3a285a49263945b35a088c8acccf3d1
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2015-06-25 13:14:53 +0000
+
+    Remove superflous sling.java.version=6 as it's the default now
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687505 13f79535-47bb-0310-9956-ffa450edef68
+
+1	3	pom.xml
+
+commit 0988172820b0c2943d195a4f6028e490ef77d81e
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2015-06-25 13:08:16 +0000
+
+    Update to Sling Parent 23
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687500 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 9496d74eca721f010195f4a4be7a63a1e29349a4
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 08:04:55 +0000
+
+    update to latest snapshot versions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687194 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 3e46fda3a6fb72d68d9aeab54fb46ab2acd43f80
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 08:00:06 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687192 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 0b60562090736c3049624955e7aec21fbd31dfb4
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 07:59:52 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.2.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687190 13f79535-47bb-0310-9956-ffa450edef68
+
+151	151	pom.xml
+
+commit 818bd7f600faea5a878e44e871e5feda6daaf390
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 07:59:09 +0000
+
+    update to released API version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687189 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit c2e57b4beae81c60384579e6b787c56d55b4d6cb
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 07:56:29 +0000
+
+    fix javadoc errors so java 8 is not complaining
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687185 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit 0847acb9cbb10af08c657d3f81ca6fdfbbbe98e2
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-06-24 07:43:16 +0000
+
+    remove some unused imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1687181 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+4	3	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+
+commit 0b34059376c3e166878ab6f2136b845af9c7976d
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-06-10 16:32:57 +0000
+
+    SLING-4779 rely on RankedServices
+    
+    for that embed the necessary packages from commons-osgi into the bundle
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1684708 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	pom.xml
+32	54	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+7	7	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+
+commit 755098db0bea20d19a47901da33f74d07e87a644
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-06-03 06:35:33 +0000
+
+    SLING-4161 log validation errors only with level debug
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1683240 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 98485b9314dbe43e40980f48e812b59ff366a038
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-06-01 16:24:13 +0000
+
+    SLING-4161 move validation to separate bundle
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682946 13f79535-47bb-0310-9956-ffa450edef68
+
+0	8	pom.xml
+11	22	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+0	31	src/main/java/org/apache/sling/models/impl/validation/ModelValidation.java
+0	70	src/main/java/org/apache/sling/models/impl/validation/ModelValidationImpl.java
+
+commit df1255f2819463e25fbd303e19c2deec69c63244
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-06-01 07:21:27 +0000
+
+    SLING-4767
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682826 13f79535-47bb-0310-9956-ffa450edef68
+
+14	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+3	2	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+
+commit c1ce3fff1b8665505ce7eab9cea7169ef9888e51
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-06-01 06:45:23 +0000
+
+    SLING-4737 add explicit dependency on JSR 305 annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682824 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	pom.xml
+
+commit c4a53bf2c3abaa93a3309b6bdfe818fe479e4338
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-29 09:47:34 +0000
+
+    SLING-4737, fix some more JSR 305 annotation warnings
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682407 13f79535-47bb-0310-9956-ffa450edef68
+
+8	8	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	1	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+
+commit d0cc56300a4db8865fdd4b03fa9e9211bb3000a1
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-29 09:40:58 +0000
+
+    SLING-4737 fix some warnings in test classes due to new JSR 305 annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682404 13f79535-47bb-0310-9956-ffa450edef68
+
+5	3	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotationInjector.java
+5	3	src/test/java/org/apache/sling/models/impl/injector/SimpleInjector.java
+12	5	src/test/java/org/apache/sling/models/impl/injectors/BindingsInjectorTest.java
+11	4	src/test/java/org/apache/sling/models/impl/injectors/RequestAttributeInjectorTest.java
+16	3	src/test/java/org/apache/sling/models/impl/injectors/ResourceResolverInjectorTest.java
+18	14	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+12	9	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+9	6	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolverTest.java
+11	7	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceTest.java
+12	5	src/test/java/org/apache/sling/models/impl/injectors/ValueMapInjectorTest.java
+
+commit 9c73fb4b38122326780171e1fd5cca7efa67b266
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-29 09:27:50 +0000
+
+    SLING-4737 add missing JSR 305 annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1682403 13f79535-47bb-0310-9956-ffa450edef68
+
+12	10	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+4	2	src/main/java/org/apache/sling/models/impl/Result.java
+4	3	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+5	3	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+4	3	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+4	3	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+5	3	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+5	3	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+4	3	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+5	3	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+
+commit e231eb4737320310d566441b48b5937460451b38
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-20 15:17:12 +0000
+
+    SLING-3709 remove @Nonnull annotation to fix build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1680598 13f79535-47bb-0310-9956-ffa450edef68
+
+1	3	src/main/java/org/apache/sling/models/impl/validation/ModelValidation.java
+
+commit 5eaf41a644a58b2ca60ffa3cd7bc6d7f1dd5b9de
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-20 14:49:53 +0000
+
+    removed unused imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1680585 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 51d5f8852c908fb0bcaa33c0935ca3286241f1d2
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-05-20 14:39:19 +0000
+
+    SLING-3709 improve exception handling by using dedicated exception classes instead of the one global result object
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1680581 13f79535-47bb-0310-9956-ffa450edef68
+
+173	140	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+56	189	src/main/java/org/apache/sling/models/impl/Result.java
+4	3	src/main/java/org/apache/sling/models/impl/validation/ModelValidation.java
+6	11	src/main/java/org/apache/sling/models/impl/validation/ModelValidationImpl.java
+2	2	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+1	2	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+
+commit a5e3009e33466f511ee006f74ff1308eed646b04
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-05-12 16:18:31 +0000
+
+    SLING-4630 Avoid logging an failure that is thrown as exception in ModelFactory.createModel (patch supplied by Georg Henzler)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1678998 13f79535-47bb-0310-9956-ffa450edef68
+
+6	2	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit 0672bbd8a3ab7cbb6daad31584feb6de1324b306
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-05-12 13:19:11 +0000
+
+    SLING-4155 fix typo in annotation property: injectonStrategy => injectionStrategy
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1678937 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+
+commit 0b71aae89e9895f75383d3292c1d13cd1a6a31b8
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2015-05-07 10:14:40 +0000
+
+    SLING-4698 - Set parent.relativePath to empty for all modules
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1678154 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 6534ebf32b975d41cfc103b8d75c738fb58ff811
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-04-30 14:16:36 +0000
+
+    SLING-4447 move Sightly Use Provider for Models into dedicated bundle
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1677000 13f79535-47bb-0310-9956-ffa450edef68
+
+0	14	pom.xml
+0	151	src/main/java/org/apache/sling/models/impl/sightly/ModelFactoryUseProvider.java
+
+commit f03ac021dd7c01a4760ec186da087121d1159ce6
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2015-04-27 15:22:31 +0000
+
+    Add missing licence headers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1676301 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/EvenSimplerPropertyModel.java
+
+commit 997c9d65e54b27acce5f28fe0bd6a950cf98e923
+Author: Radu Cotescu <radu@apache.org>
+Date:   2015-04-14 13:43:27 +0000
+
+    SLING-4618 - Remove dependency to unexported class
+    
+    * removed dependency to org.apache.sling.scripting.sightly.impl.engine.extension.use.UseProviderUtils
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1673425 13f79535-47bb-0310-9956-ffa450edef68
+
+10	5	src/main/java/org/apache/sling/models/impl/sightly/ModelFactoryUseProvider.java
+
+commit 557ff077ac35627760b0826736f1f7bcc84edcb0
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-04-07 08:32:49 +0000
+
+    SLING-4447, rely on released version of Sightly to fix build errors related to SNAPSHOT not being available
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1671761 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 9c88174423316f55000dcb1c1df9d28763f2ae02
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-03-27 11:17:43 +0000
+
+    SLING-4432 Sling Models: Include more specific information in model adaption failure log messages
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1669540 13f79535-47bb-0310-9956-ffa450edef68
+
+0	2	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit 0efbfb51f9cc89897153e76cc5fb1d4ac8cec8ef
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-02-26 12:27:25 +0000
+
+    SLING-4447 provide a SlingModels Sightly UseProvider which throws exceptions in case a Sling Model cannot be instantiated instead of falling back to the simple Pojo instantiation.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1662434 13f79535-47bb-0310-9956-ffa450edef68
+
+14	0	pom.xml
+146	0	src/main/java/org/apache/sling/models/impl/sightly/ModelFactoryUseProvider.java
+
+commit d758703b96ef92eeb3af6945c3ffb84e66eb5b5e
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-02-18 23:44:03 +0000
+
+    SLING-4432 Sling Models: Include more specific information in model adaption failure log messages
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1660768 13f79535-47bb-0310-9956-ffa450edef68
+
+12	4	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit 8c92aa928c54c782a4bf03825e0a2f4e0e1fe793
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2015-01-30 11:01:53 +0000
+
+    SLING-4373 throw IAE in case null is given as parameter to createModel
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1655986 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit bc8ff43470f9829005805ed9b46c7b1786678a66
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-01-23 23:05:13 +0000
+
+    SLING-4212 Sling Models: Allow multiple values from ValueMap in the resource-path injector (applied patch by santiago garc¨ªa pimentel with some modifications)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1654430 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	src/main/java/org/apache/sling/models/impl/injectors/AbstractInjector.java
+1	12	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+88	23	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+57	3	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+5	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
+30	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathModel.java
+72	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathPartialModel.java
+
+commit 617eea52a12efe6e51dcfd75547e2ef2d5265d01
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-01-23 00:00:48 +0000
+
+    eliminate deprecation warnings by adding @SuppressWarning annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1654100 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	0	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+1	0	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+1	0	src/main/java/org/apache/sling/models/impl/model/InjectableElement.java
+1	0	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotationInjector.java
+1	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredFieldOptionalStrategy.java
+
+commit 02c4d6675d7537fe3ed27bafe2a874bd3e347d12
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-01-22 23:55:10 +0000
+
+    SLING-4112 make sure all variants of InjectAnnotationProcessorFactory are displayed in configuration printer
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1654099 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+16	1	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+
+commit 16219260d2435f3bf9767e482dd5227074e56678
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-01-22 23:02:33 +0000
+
+    SLING-4059 Sling Models: ResourceResolverInjector is obsolete
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1654093 13f79535-47bb-0310-9956-ffa450edef68
+
+0	52	src/main/java/org/apache/sling/models/impl/injectors/ResourceResolverInjector.java
+9	4	src/test/java/org/apache/sling/models/impl/injectors/ResourceResolverInjectorTest.java
+
+commit b0d3a32bec9e1bd1f82af2175d21585ce26f4ed9
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2015-01-22 22:27:45 +0000
+
+    cosmetic: eliminate some unused imports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1654090 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+0	1	src/main/java/org/apache/sling/models/impl/model/InjectableElement.java
+0	1	src/main/java/org/apache/sling/models/impl/model/ModelClassConstructor.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredFieldOptionalStrategy.java
+
+commit c4a9f67fc35505ab1d116d6d7f30f4b54019cee9
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2014-12-09 14:46:28 +0000
+
+    SLING-4161 support Sling Validation by a new field on the Model annotation
+    
+    The dependency to Sling Validation is optional (i.e. Sling Models still work even if  Sling Validation is not deployed)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1644069 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	pom.xml
+55	16	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+28	4	src/main/java/org/apache/sling/models/impl/Result.java
+32	0	src/main/java/org/apache/sling/models/impl/validation/ModelValidation.java
+75	0	src/main/java/org/apache/sling/models/impl/validation/ModelValidationImpl.java
+3	3	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+2	2	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+2	2	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+2	2	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+
+commit 6d98ca025e31ea51cdb78038705a68cb2aa2a5ca
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2014-11-24 18:01:50 +0000
+
+    SLING-4195 array initialized to wrong size due to typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1641433 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 851045282b44bf21ba8b6ce77f70f3340bc1ba50
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2014-11-24 13:18:11 +0000
+
+    SLING-4192, fix typo in ModelAdapterFactory
+    
+    This closes #47
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1641391 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 9831e4121354c7290a93bb9b37cf4186c9741878
+Author: Konrad Windszus <kwin@apache.org>
+Date:   2014-11-20 10:18:08 +0000
+
+    SLING-4155, consider default injection strategy also for injector-specific annotations
+    
+    by that deprecate isOptional on all injector-specific annotations and introduce the new injectionStrategy attribute as a replacement.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1640710 13f79535-47bb-0310-9956-ffa450edef68
+
+30	18	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+10	5	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+12	6	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+10	4	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+10	4	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+10	4	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+10	4	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+11	6	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+9	3	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+50	20	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+10	2	src/main/java/org/apache/sling/models/impl/model/ConstructorParameter.java
+5	7	src/main/java/org/apache/sling/models/impl/model/InjectableElement.java
+3	2	src/main/java/org/apache/sling/models/impl/model/InjectableField.java
+3	2	src/main/java/org/apache/sling/models/impl/model/InjectableMethod.java
+16	9	src/main/java/org/apache/sling/models/impl/model/ModelClass.java
+4	2	src/main/java/org/apache/sling/models/impl/model/ModelClassConstructor.java
+1	1	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+18	10	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+8	2	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+27	6	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredFieldOptionalStrategy.java
+
+commit 97182c55bb12fdaf988a032a70610a3197d84949
+Author: Stefan Seifert <sseifert@apache.org>
+Date:   2014-11-13 13:51:33 +0000
+
+    SLING-4112 Sling Models: Optimize performance when read sling models annotations
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1639323 13f79535-47bb-0310-9956-ffa450edef68
+
+71	24	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+0	87	src/main/java/org/apache/sling/models/impl/ConstructorParameter.java
+135	306	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	3	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+116	0	src/main/java/org/apache/sling/models/impl/ReflectionUtil.java
+1	5	src/main/java/org/apache/sling/models/impl/Result.java
+3	3	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+4	4	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+3	3	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+5	5	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+7	7	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+3	3	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+258	0	src/main/java/org/apache/sling/models/impl/model/AbstractInjectableElement.java
+111	0	src/main/java/org/apache/sling/models/impl/model/ConstructorParameter.java
+76	0	src/main/java/org/apache/sling/models/impl/model/InjectableElement.java
+43	0	src/main/java/org/apache/sling/models/impl/model/InjectableField.java
+64	0	src/main/java/org/apache/sling/models/impl/model/InjectableMethod.java
+112	0	src/main/java/org/apache/sling/models/impl/model/ModelClass.java
+63	0	src/main/java/org/apache/sling/models/impl/model/ModelClassConstructor.java
+1	1	src/main/java/org/apache/sling/models/impl/{ => model}/ParameterCountInjectComparator.java
+11	4	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+3	3	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+3	3	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+15	14	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+
+commit b1e314b35b2b51333f070e7fb2a19dfd3b227fc5
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-30 10:02:59 +0000
+
+    SLING-4083 revert all changes from trunk, copied to branch https://svn.apache.org/repos/asf/sling/whiteboard/sseifert/SLING-4083_models_slingobject_threadlocal
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1635446 13f79535-47bb-0310-9956-ffa450edef68
+
+0	6	pom.xml
+17	35	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+0	35	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContext.java
+0	73	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContextFilter.java
+0	85	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContextFilterTest.java
+19	33	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+0	49	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequest_RequestContextTest.java
+0	49	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolver_RequestContextTest.java
+0	49	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResource_RequestContextTest.java
+
+commit ea2d50233c08865717d4b6d4495cf84555ae505d
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-22 20:20:55 +0000
+
+    SLING-4056 ModelFactory.canCreateFromAdaptable reports false errors when using "adapters" on models (patch suppplied by Konrad Windszus)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633709 13f79535-47bb-0310-9956-ffa450edef68
+
+25	11	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+1	1	src/main/java/org/apache/sling/models/impl/Result.java
+164	0	src/test/java/org/apache/sling/models/impl/AdapterFactoryTest.java
+9	0	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+27	0	src/test/java/org/apache/sling/models/testmodels/classes/ConstructorWithExceptionModel.java
+32	0	src/test/java/org/apache/sling/models/testmodels/classes/InvalidModelWithMissingAnnotation.java
+
+commit fb05078a86e730658c257715e2db4bddf5733800
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-22 08:15:23 +0000
+
+    SLING-4083 fix comment
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633555 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContextFilter.java
+
+commit 52c2d708d7d94f5a4a37407bdd0933f84970e519
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-21 16:28:11 +0000
+
+    SLING-4083 add missing "test" scope
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633412 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	pom.xml
+
+commit 31c61c5a121460204a35ab8ef1b4e9a0e765a10a
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-21 16:12:24 +0000
+
+    SLING-4083 Enable SlingObject injector to inject all context objects when a request is attached to the current thread
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633409 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	pom.xml
+35	17	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+35	0	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContext.java
+73	0	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContextFilter.java
+85	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestContextFilterTest.java
+33	19	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+49	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequest_RequestContextTest.java
+49	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolver_RequestContextTest.java
+49	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResource_RequestContextTest.java
+
+commit 4711842d9a844b93c119b4db8cb934a78d099efe
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-21 15:37:46 +0000
+
+    remove auto-generated TODO tag
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633400 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/SubClass.java
+
+commit 2dcac9b41665110d5123db4e60c30591c09645ea
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-21 15:32:35 +0000
+
+    move detailed JavaDoc description of SlingObject injector support to annotation, because this is what's usually only included as dependency in the projects
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1633399 13f79535-47bb-0310-9956-ffa450edef68
+
+1	47	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+
+commit e55e0fb45677ca944c05f1bb5736ad7c7820dafe
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-15 13:41:31 +0000
+
+    SLING-4057 ModelFactory: Ordering of method arguments inconsistent
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1632023 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 5db955a47bb2f57e48585a7b6a52d7d8ee727883
+Author: sseifert <sseifert@unknown>
+Date:   2014-10-15 13:08:24 +0000
+
+    reformat list of enums (no code change)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1632006 13f79535-47bb-0310-9956-ffa450edef68
+
+8	7	src/main/java/org/apache/sling/models/impl/Result.java
+
+commit 12e8bcbfd00f7567fb413109d2e786d771c4eed4
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-10-03 18:09:32 +0000
+
+    SLING-3709 - adding additional testing for missing elements and post construct failures
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1629277 13f79535-47bb-0310-9956-ffa450edef68
+
+65	45	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+113	63	src/main/java/org/apache/sling/models/impl/Result.java
+31	13	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+25	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/FailingPostConstuctModel.java
+
+commit 56d23013e84975a0cbea0ccdfba62540c60626d1
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-10-01 20:04:24 +0000
+
+    SLING-3709 - introduce new ModelFactory service interface which throws various exceptions based on failure conditions. Thanks to Konrad Windszus for the original patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1628824 13f79535-47bb-0310-9956-ffa450edef68
+
+89	44	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+140	0	src/main/java/org/apache/sling/models/impl/Result.java
+6	0	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+22	0	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+
+commit 45570dab4818dc9f626f89f8aa6dbca6557dcc42
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-10-01 13:18:01 +0000
+
+    SLING-3923 - fixing multiple calls to post construct method with patch from Konrad Windszus. Thanks! This closes #27
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1628698 13f79535-47bb-0310-9956-ffa450edef68
+
+13	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+13	0	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/SubClassOverriddenPostConstruct.java
+
+commit 11fbd209fc839c53922894a3595062e3bcfae17d
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2014-10-01 06:57:44 +0000
+
+    Update to Sling Parent POM 22 with baselining enabled
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1628622 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit a2710c0c1858652f9ed25799e8b39c6d952449cb
+Author: sseifert <sseifert@unknown>
+Date:   2014-09-29 15:44:04 +0000
+
+    remove log member variable which is not used currently
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1628208 13f79535-47bb-0310-9956-ffa450edef68
+
+0	4	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+
+commit 646afdf8325f5e86d87115f7cda20d8ade884338
+Author: sseifert <sseifert@unknown>
+Date:   2014-09-29 15:43:04 +0000
+
+    remove @SuppressWarnings("javadoc") from unit test files (most of them where added by my patches) - this is not usual in the other sources
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1628207 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+0	1	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+0	1	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+0	1	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+0	1	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+0	1	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/BindingsInjectorTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/RequestAttributeInjectorTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolverTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceTest.java
+0	1	src/test/java/org/apache/sling/models/impl/injectors/ValueMapInjectorTest.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/DirectCyclicSelfDependencyModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/IndirectCyclicSelfDependencyModelA.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/IndirectCyclicSelfDependencyModelB.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/SelfDependencyModelA.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/SelfDependencyModelB.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/BindingsModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultPrimitivesModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultStringModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultWrappersModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/InjectorSpecificAnnotationModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/ListOSGiModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/NoNameModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/SimpleOSGiModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/WithThreeConstructorsOneInjectModel.java
+
+commit e3d961e799ba8d2a1dc065cab13aa7d5b2524ca5
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-12 13:54:49 +0000
+
+    SLING-3911 - fixing issue where empty or wrong arrays are specified for default values
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1624550 13f79535-47bb-0310-9956-ffa450edef68
+
+7	7	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+266	0	src/test/java/org/apache/sling/models/impl/ExtraDefaultTests.java
+2	2	src/test/java/org/apache/sling/models/testmodels/classes/DefaultPrimitivesModel.java
+
+commit d706c17774babe40c9cddb0323758ca0bd58711b
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-08 14:59:44 +0000
+
+    formatting
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1623419 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 76bb7aa8d0d748fbef355b788bc67a8ba8f80c5c
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-02 19:17:36 +0000
+
+    using next snapshot during release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1622104 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 036ab2e0e67dddb998f82073968ec5fcf1a6eaca
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-02 19:14:47 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1622103 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 3b548dbdb865b0c3574f7b1bfdc72b2e6d18590f
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-02 19:14:41 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.1.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1622101 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 62d308e5d8385974bba703accc03cd34e5548d64
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-09-02 19:12:54 +0000
+
+    release prep
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1622097 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 0fdaa1f4d842c8e889b3d184c4d13844ce0ec83a
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-29 18:53:41 +0000
+
+    SLING-3886 - adding support for adapter indirection where the adapting target is a superclass or implemented interface of the implementation class. Thanks to Stefan for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1621361 13f79535-47bb-0310-9956-ffa450edef68
+
+120	0	src/main/java/org/apache/sling/models/impl/AdapterImplementations.java
+45	0	src/main/java/org/apache/sling/models/impl/FirstImplementationPicker.java
+35	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+20	2	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+78	19	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+125	0	src/test/java/org/apache/sling/models/impl/AdapterImplementationsTest.java
+253	0	src/test/java/org/apache/sling/models/impl/ImplementsExtendsTest.java
+52	0	src/test/java/org/apache/sling/models/impl/implpicker/FirstImplementationPickerTest.java
+14	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/EvenSimplerPropertyModel.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/ExtendsClassPropertyModel.java
+55	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/ImplementsInterfacePropertyModel.java
+54	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/ImplementsInterfacePropertyModel2.java
+54	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/InvalidImplementsInterfacePropertyModel.java
+31	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/InvalidSampleServiceInterface.java
+31	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/SampleServiceInterface.java
+47	0	src/test/java/org/apache/sling/models/testmodels/classes/implextend/SimplePropertyModel.java
+
+commit 17ad7cf66c73294cebf4cebb672459388ca44eb8
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-29 11:41:59 +0000
+
+    SLING-3897 - fixing synchronization block error
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1621289 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 35ac4010d36fb345dc59e196e38f1ca5654ba738
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-29 11:32:05 +0000
+
+    SLING-3897 - fixing copy&paste error in unbind method. Thanks to Stefan for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1621286 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 8d30771116f06370018705e5043cbaa63d64a31f
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-28 23:41:16 +0000
+
+    SLING-3895 - supporting list adaptation for method and constructor injection
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1621231 13f79535-47bb-0310-9956-ffa450edef68
+
+39	42	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+5	4	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+119	0	src/test/java/org/apache/sling/models/impl/ResourceModelConstructorTest.java
+36	10	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+58	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/ParentModel.java
+9	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ParentModel.java
+
+commit 7db6cf41da691fe1c723b8d3c952915e76fffa65
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-28 23:00:37 +0000
+
+    SLING-3894 - removing duplicate type checks in Request and SlingBindings injectors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1621224 13f79535-47bb-0310-9956-ffa450edef68
+
+1	6	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+1	25	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+0	7	src/test/java/org/apache/sling/models/impl/injectors/BindingsInjectorTest.java
+0	7	src/test/java/org/apache/sling/models/impl/injectors/RequestAttributeInjectorTest.java
+
+commit 5e6f11676fa7c207a80b842509c2509cdf7affc7
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-25 11:44:46 +0000
+
+    SLING-3879 - fixing NPE in PathInjector. Thanks Stefan for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1620296 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+23	0	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+66	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
+2	1	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathModel.java
+
+commit 45af5c63fdb6a111bd364499ed644eb950525424
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-24 19:09:39 +0000
+
+    SLING-3715 - adding sling object injector. Thanks to Stefan for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1620175 13f79535-47bb-0310-9956-ffa450edef68
+
+196	0	src/main/java/org/apache/sling/models/impl/injectors/SlingObjectInjector.java
+120	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorRequestTest.java
+87	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceResolverTest.java
+102	0	src/test/java/org/apache/sling/models/impl/injectors/SlingObjectInjectorResourceTest.java
+
+commit 0b6a0bdd617397d24dc3e4344d1bc0b088ff1b22
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-24 12:41:58 +0000
+
+    SLING-3878 - allowing the injection of parameterized request attributes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1620132 13f79535-47bb-0310-9956-ffa450edef68
+
+23	8	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+87	0	src/test/java/org/apache/sling/models/impl/ParameterizedTypeFromRequestAttributeTest.java
+
+commit 7a3f6c7fa66e47c946332f7e872f314085bfb413
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-22 21:39:30 +0000
+
+    SLING-3860 - allowing maximum recursion depth to be configured
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619937 13f79535-47bb-0310-9956-ffa450edef68
+
+25	27	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+42	0	src/main/java/org/apache/sling/models/impl/ThreadInvocationCounter.java
+3	0	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+3	0	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+3	0	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+3	0	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+2	0	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+3	0	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+3	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+4	0	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+3	0	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+3	0	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+2	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+3	0	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+3	0	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+4	0	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+3	0	src/test/java/org/apache/sling/models/impl/ViaTest.java
+
+commit fe148d7a2b03bfc07b5ef34946aedeb180e29547
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-22 15:50:07 +0000
+
+    SLING-3877 - adding a resource path injector. also did some minor refactoring to avoid code duplication between injectors.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619848 13f79535-47bb-0310-9956-ffa450edef68
+
+53	0	src/main/java/org/apache/sling/models/impl/injectors/AbstractInjector.java
+117	0	src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
+2	8	src/main/java/org/apache/sling/models/impl/injectors/ResourceResolverInjector.java
+2	14	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+107	0	src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
+62	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathModel.java
+
+commit 71a12ec021801ea17880af50f55fb0a439b29eae
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-22 15:49:57 +0000
+
+    SLING-3876 - ensuring that class-based self injection only happens on the first constructor parameter. Otherwise the @Self annotation is necessary. Also changing the ranking so that other injectors have the opportunity to inject to the first constructor parameter before.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619847 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/java/org/apache/sling/models/impl/ConstructorParameter.java
+9	6	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+31	12	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+
+commit 0f0f749e6534af3dfe166e37b6a5fea2678a1d8a
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-22 14:18:41 +0000
+
+    fixing error in Sling Models test code - service ranking must be an integer to be effective
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619818 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/ServicePropertiesMap.java
+
+commit ed9305fe9c8d48975bf8fd4305dc2f3d8ecef480
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-21 20:46:36 +0000
+
+    SLING-3869 - fixing branding issues with Sling Models. Thanks to Stefan Seifert for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619575 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit 53513439d9a9e6389b950eeb80a09fcb74c3dc06
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-20 19:42:00 +0000
+
+    SLING-3863 - correcting behavior where optional methods and constructor parameters were injected with non-null wrapper classes.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619212 13f79535-47bb-0310-9956-ffa450edef68
+
+18	24	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+39	2	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+61	5	src/test/java/org/apache/sling/models/testmodels/classes/OptionalPrimitivesModel.java
+58	2	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/OptionalPrimitivesModel.java
+30	6	src/test/java/org/apache/sling/models/testmodels/interfaces/OptionalPrimitivesModel.java
+
+commit 2d51f721cec8a3a2c46c5337582602fdaee9ad5b
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-20 18:42:24 +0000
+
+    SLING-3863 - adding initial values for primitives when injecting to fields and constructor params. Thanks to Stefan Seifert for the original patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619199 13f79535-47bb-0310-9956-ffa450edef68
+
+71	3	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+119	0	src/test/java/org/apache/sling/models/impl/OptionalPrimitivesTest.java
+84	0	src/test/java/org/apache/sling/models/testmodels/classes/OptionalPrimitivesModel.java
+89	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/OptionalPrimitivesModel.java
+52	0	src/test/java/org/apache/sling/models/testmodels/interfaces/OptionalPrimitivesModel.java
+
+commit 35846958baa20124444a82c95ca22842c4e014bf
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-20 16:02:38 +0000
+
+    SLING-3861 - adding condition option for @Model annotation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619134 13f79535-47bb-0310-9956-ffa450edef68
+
+10	0	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit d5e18283b3fd2bfdbce6c25a9b0de6478dde6b21
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-08-19 22:51:36 +0000
+
+    SLING-3716 SLING-3718 - adding support for constructor injection and self injection based on a patch from Stefan Seifert
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1619007 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+87	0	src/main/java/org/apache/sling/models/impl/ConstructorParameter.java
+37	0	src/main/java/org/apache/sling/models/impl/MapBackedInvocationHandler.java
+198	106	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+63	0	src/main/java/org/apache/sling/models/impl/ParameterCountInjectComparator.java
+2	1	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+87	0	src/main/java/org/apache/sling/models/impl/injectors/SelfInjector.java
+34	5	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+58	4	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+100	6	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+54	8	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+10	1	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+95	0	src/test/java/org/apache/sling/models/impl/SelfDependencyTest.java
+98	0	src/test/java/org/apache/sling/models/impl/injectors/BindingsInjectorTest.java
+86	0	src/test/java/org/apache/sling/models/impl/injectors/RequestAttributeInjectorTest.java
+86	0	src/test/java/org/apache/sling/models/impl/injectors/SelfInjectorTest.java
+86	0	src/test/java/org/apache/sling/models/impl/injectors/ValueMapInjectorTest.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/DirectCyclicSelfDependencyModel.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/IndirectCyclicSelfDependencyModelA.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/IndirectCyclicSelfDependencyModelB.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/SelfDependencyModelA.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/SelfDependencyModelB.java
+41	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/BindingsModel.java
+62	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultPrimitivesModel.java
+48	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultStringModel.java
+63	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/DefaultWrappersModel.java
+91	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/InjectorSpecificAnnotationModel.java
+42	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/ListOSGiModel.java
+42	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/NoNameModel.java
+40	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/SimpleOSGiModel.java
+59	0	src/test/java/org/apache/sling/models/testmodels/classes/constructorinjection/WithThreeConstructorsOneInjectModel.java
+
+commit 92476e540a06e5ec4a9a006154be466ae1b5d8bc
+Author: Robert Munteanu <rombert@apache.org>
+Date:   2014-08-01 19:16:26 +0000
+
+    Updated to parent version 20
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1615208 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 1b3662be8e14282b37cf5138d0220ea87955c4dc
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-07-25 12:33:05 +0000
+
+    SLING-3703 - referencing older version of commons osgi
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1613413 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit 4905f624411373c8dfb3bff2429b5ac584acc1cf
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-25 17:00:17 +0000
+
+    using next version during release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605500 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit fbb9f6e14088f21de2cf7f4baa3c63a61193e612
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-25 15:56:11 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605462 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 31d2f27f56de05784fbe3fdb07586f440508bc89
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-25 15:56:06 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.0.6
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605460 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit d732347a1c8e3c01301033b87dadd87837f18c48
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-25 15:54:50 +0000
+
+    using released version of API
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605459 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 61543776d26cae96b7c4f960e864ab920f986bf2
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-25 15:38:50 +0000
+
+    SLING-3700 - adding a ResourceResolver injector
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605451 13f79535-47bb-0310-9956-ffa450edef68
+
+58	0	src/main/java/org/apache/sling/models/impl/injectors/ResourceResolverInjector.java
+62	0	src/test/java/org/apache/sling/models/impl/injectors/ResourceResolverInjectorTest.java
+
+commit 145dc1dc4fb3d3b6be14d47e700d347012eec7f7
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-24 18:56:45 +0000
+
+    SLING-3677 - converting arrays to lists in ValueMapInjector. Thanks to Krystian Panek for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605153 13f79535-47bb-0310-9956-ffa450edef68
+
+23	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+21	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+41	0	src/test/java/org/apache/sling/models/testmodels/classes/ListModel.java
+
+commit 90874bdc9da14433f03d59d2c573a73f9e3f30f8
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-24 18:37:50 +0000
+
+    SLING-3696 - adding support for defining a default injection strategy of required or optional. Also adding a @Required annotation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1605150 13f79535-47bb-0310-9956-ffa450edef68
+
+17	10	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+34	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+2	2	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredField.java
+44	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredFieldOptionalStrategy.java
+
+commit 2fc4821b127d8b0d343e51bcd906329bd48636b3
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-24 01:24:16 +0000
+
+    trivial formatting
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1604992 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+
+commit 4675a15b0c4bee553bb533acd86ca4d1f37b507c
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-23 19:34:43 +0000
+
+    SLING-3683 - breaking apart annotation processor factory selection from injector selection
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1604914 13f79535-47bb-0310-9956-ffa450edef68
+
+32	6	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+12	3	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+1	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+4	1	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+22	4	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+2	0	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+2	1	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotationInjector.java
+
+commit 46a107f8d04f1fc68ecfc169a5c3e822c044c7fb
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-17 19:53:52 +0000
+
+    SLING-3516 - adding ability to inject a list of grandchild resources. Thanks to Igor Sechyn for the initial patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1603277 13f79535-47bb-0310-9956-ffa450edef68
+
+45	7	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+49	1	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+51	13	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+18	1	src/test/java/org/apache/sling/models/testmodels/classes/ChildResourceModel.java
+17	0	src/test/java/org/apache/sling/models/testmodels/classes/ParentModel.java
+
+commit 82956803f0804e8091204f891e7a318be19727cc
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-17 14:08:57 +0000
+
+    SLING-3674 - avoiding duplicating code in ClassUtils
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1603178 13f79535-47bb-0310-9956-ffa450edef68
+
+5	22	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+5	56	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+
+commit d5c9edac93661a3edb8cda3aa1d92125fbef2e08
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-17 13:12:54 +0000
+
+    SLING-3674 - automatically wrapping/unwrapping arrays where possible during value map injection
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1603159 13f79535-47bb-0310-9956-ffa450edef68
+
+98	1	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+46	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+40	0	src/test/java/org/apache/sling/models/testmodels/classes/ArrayPrimitivesModel.java
+40	0	src/test/java/org/apache/sling/models/testmodels/classes/ArrayWrappersModel.java
+
+commit fde3394370d0cbd84b5dd2f2bb41db4c52a92823
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-10 14:40:52 +0000
+
+    cleanup
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1601650 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+
+commit 54467a874e13e34e406761fe04c34453c98cdf8e
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-04 19:38:55 +0000
+
+    SLING-3499 - adding support for custom annotation per injector (thanks Konrad Windszus for the patch!)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1600469 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+227	197	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+41	2	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+58	2	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+52	12	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+44	4	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+59	3	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+90	0	src/test/java/org/apache/sling/models/impl/CustomInjectorTest.java
+180	0	src/test/java/org/apache/sling/models/impl/InjectorSpecificAnnotationTest.java
+1	0	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+1	1	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+32	0	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotation.java
+66	0	src/test/java/org/apache/sling/models/impl/injector/CustomAnnotationInjector.java
+42	0	src/test/java/org/apache/sling/models/impl/injector/SimpleInjector.java
+82	0	src/test/java/org/apache/sling/models/testmodels/classes/InjectorSpecificAnnotationModel.java
+
+commit 2f9dc8f92a6085852f8c2abe946169f718e54ae5
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-06-02 17:43:18 +0000
+
+    unit test improvements
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1599279 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+16	3	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+88	0	src/test/java/org/apache/sling/models/impl/InvalidAdaptationsTest.java
+6	5	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+2	3	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+1	5	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+2	5	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+2	5	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+32	0	src/test/java/org/apache/sling/models/impl/ServicePropertiesMap.java
+2	4	src/test/java/org/apache/sling/models/impl/ViaTest.java
+35	0	src/test/java/org/apache/sling/models/testmodels/interfaces/PropertyModelWithDefaults.java
+
+commit b8655b728b188a6819ac39580ba7a3681b092043
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-05-13 19:35:35 +0000
+
+    SLING-3547 - correctly dealing with primitive and wrapper default objects. applying slightly modified version of patch from Konrad to split out primitive from wrapper model classes.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1594343 13f79535-47bb-0310-9956-ffa450edef68
+
+25	6	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+39	0	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+58	0	src/test/java/org/apache/sling/models/testmodels/classes/DefaultPrimitivesModel.java
+60	0	src/test/java/org/apache/sling/models/testmodels/classes/DefaultWrappersModel.java
+
+commit 6a651c3b4c5e09801298e4e4668571fe62702963
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-05-01 19:06:14 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1591741 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 8a48f850517dd0eb47bf4aa717451ef7b990659b
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-05-01 19:06:10 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.0.4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1591739 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 1f27b689d6dda379c9abc5e009b078cf29ef7aca
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-05-01 19:05:32 +0000
+
+    fixing bad url
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1591738 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	README.txt
+
+commit 22929402e9e80a34b46884951bf28e8417a42b9f
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-05-01 12:48:32 +0000
+
+    SLING-3536 - on each interval for callback disposal, continue to poll until all queue is exhausted.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1591638 13f79535-47bb-0310-9956-ffa450edef68
+
+3	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit bc322c56aeea3798c9137ceb8ee4fcb675543613
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-04-24 12:23:09 +0000
+
+    SLING-3510 - checking for bad package, either one which doesn't exist or doesn't have classes in it. Thanks Chris Pilsworth for the patch!
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1589690 13f79535-47bb-0310-9956-ffa450edef68
+
+8	2	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+
+commit 66964491a2630179bfa4dcbb9d9bf2f2c12ebd12
+Author: Carsten Ziegeler <cziegeler@apache.org>
+Date:   2014-03-31 14:39:20 +0000
+
+    Update to parent pom v19
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1583337 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 12e953602f548e6988f48c73ac39493b08841205
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-18 15:07:43 +0000
+
+    SLING-3460 - internal refactoring to ease meta-annotation support
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1578946 13f79535-47bb-0310-9956-ffa450edef68
+
+21	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 729cfe091e1637a17ba15dd022a3637ccead7531
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-15 14:53:16 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1577871 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 56360a69f689efa865e1cc1fdf8853ef2568e19e
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-15 14:53:13 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.0.2
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1577869 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 05369658c9ec3efbfb6e3a894780598aac048b26
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-14 13:54:27 +0000
+
+    SLING-3455 - fixing issue with injection adaption in classes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1577534 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+3	3	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+67	1	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/ChildResourceModel.java
+35	0	src/test/java/org/apache/sling/models/testmodels/classes/ChildValueMapModel.java
+33	0	src/test/java/org/apache/sling/models/testmodels/classes/ParentModel.java
+29	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ChildModel.java
+0	1	src/test/java/org/apache/sling/models/testmodels/interfaces/ParentModel.java
+
+commit 852d7c7c7775763bd7b3817290f795a7301b0367
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-14 13:10:33 +0000
+
+    adding test for array properties
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1577514 13f79535-47bb-0310-9956-ffa450edef68
+
+7	1	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+7	0	src/test/java/org/apache/sling/models/testmodels/classes/SimplePropertyModel.java
+
+commit 1b0d640adfed8ef1719a533e04d985381a89adce
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-14 13:10:31 +0000
+
+    no need to depend upon SNAPSHOT version of API
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1577513 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 6e36336af6fe4de9f23fd0202f33d5491abc98ec
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-04 11:57:55 +0000
+
+    SLING-3340 - reverting change to restrict inclusion of beanutils. error prone.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1574050 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit f12ac6aa52d7aa93c70a332e9fc5fbdb622014be
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-03 17:58:20 +0000
+
+    SLING-3430 - only embedding necessary parts of beanutils
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1573638 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit a666ecfd4d90a3a85d0832d37034cd57ea5f8503
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-03-03 17:58:16 +0000
+
+    SLING-3429 - fix NPE in OSGiServiceInjector which impacted multi-valued properties
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1573637 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+25	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/OptionalArrayOSGiModel.java
+38	0	src/test/java/org/apache/sling/models/testmodels/classes/OptionalListOSGiModel.java
+
+commit fe7d4e16654be709d973d8200cd0c3605bf89c7e
+Author: Bertrand Delacretaz <bdelacretaz@apache.org>
+Date:   2014-01-31 10:12:04 +0000
+
+    Using 1.0.0 breaks the build, reverting to SNAPSHOT, we might change back to 1.0.0 once it's out
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563100 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 7bac1bc28c7328eebc5e352655081a2e80f78ff0
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:30:07 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563059 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit 73a677e34a8ddf73ef8c8cf2c330383a510dcae2
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:30:03 +0000
+
+    [maven-release-plugin] prepare release org.apache.sling.models.impl-1.0.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563057 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	pom.xml
+
+commit d80f143bd7bfde14b718b1f0096852ec6116069a
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:29:40 +0000
+
+    avoid the use of Integer.compare()
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563056 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit ba7b6f4dcc6ccf8025fa4292643f42db4ca59314
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:24:57 +0000
+
+    using release version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563055 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml
+
+commit 7e0029c00c8fcc354b1b51224d1d4b47eb838f3d
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:07:05 +0000
+
+    SLING-3357 - allow a model class to have a single argument constructor which takes the adaptable as a parameter.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563049 13f79535-47bb-0310-9956-ffa450edef68
+
+59	2	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+104	0	src/test/java/org/apache/sling/models/impl/ConstructorTest.java
+44	0	src/test/java/org/apache/sling/models/testmodels/classes/InvalidConstructorModel.java
+47	0	src/test/java/org/apache/sling/models/testmodels/classes/SuperclassConstructorModel.java
+43	0	src/test/java/org/apache/sling/models/testmodels/classes/WithOneConstructorModel.java
+58	0	src/test/java/org/apache/sling/models/testmodels/classes/WithThreeConstructorsModel.java
+46	0	src/test/java/org/apache/sling/models/testmodels/classes/WithTwoConstructorsModel.java
+
+commit 2a77d7430b26d43b7b498611c1301403f894e78e
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:07:01 +0000
+
+    SLING-3334 - explicitly rank injectors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563048 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+3	0	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+3	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+3	0	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+3	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+
+commit 48957a5928de05a4fb61bb63f592f41f04915f74
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:06:59 +0000
+
+    SLING-3335 - add a models configuration printer to see the currently registered injectors
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563047 13f79535-47bb-0310-9956-ffa450edef68
+
+29	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+47	0	src/main/java/org/apache/sling/models/impl/ModelConfigurationPrinter.java
+2	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+
+commit 644e862c1dc7b90de3caea065cec054f9a2792f1
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-31 04:06:42 +0000
+
+    SLING-3313 - actually use the seal() method to make the disposal callback list unmodifiable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1563046 13f79535-47bb-0310-9956-ffa450edef68
+
+6	4	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+
+commit 547e1570a8a08b51f2317c976681ac4d93264e09
+Author: Justin Edelson <justin@apache.org>
+Date:   2014-01-22 17:36:40 +0000
+
+    SLING-3313 - adding initial version of Sling Models (nee YAMF)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/sling/trunk@1560437 13f79535-47bb-0310-9956-ffa450edef68
+
+24	0	README.txt
+142	0	pom.xml
+615	0	src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+130	0	src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java
+75	0	src/main/java/org/apache/sling/models/impl/injectors/BindingsInjector.java
+46	0	src/main/java/org/apache/sling/models/impl/injectors/ChildResourceInjector.java
+194	0	src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java
+60	0	src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java
+65	0	src/main/java/org/apache/sling/models/impl/injectors/ValueMapInjector.java
+70	0	src/test/java/org/apache/sling/models/impl/DefaultTest.java
+128	0	src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java
+209	0	src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+57	0	src/test/java/org/apache/sling/models/impl/PostConstructTest.java
+76	0	src/test/java/org/apache/sling/models/impl/RequestInjectionTest.java
+163	0	src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+96	0	src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+78	0	src/test/java/org/apache/sling/models/impl/ViaTest.java
+35	0	src/test/java/org/apache/sling/models/testmodels/classes/ArrayOSGiModel.java
+37	0	src/test/java/org/apache/sling/models/testmodels/classes/BindingsModel.java
+33	0	src/test/java/org/apache/sling/models/testmodels/classes/ChildModel.java
+37	0	src/test/java/org/apache/sling/models/testmodels/classes/CollectionOSGiModel.java
+43	0	src/test/java/org/apache/sling/models/testmodels/classes/DefaultStringModel.java
+37	0	src/test/java/org/apache/sling/models/testmodels/classes/ListOSGiModel.java
+35	0	src/test/java/org/apache/sling/models/testmodels/classes/RequestOSGiModel.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/ResourceModelWithRequiredField.java
+37	0	src/test/java/org/apache/sling/models/testmodels/classes/SetOSGiModel.java
+35	0	src/test/java/org/apache/sling/models/testmodels/classes/SimpleOSGiModel.java
+71	0	src/test/java/org/apache/sling/models/testmodels/classes/SimplePropertyModel.java
+43	0	src/test/java/org/apache/sling/models/testmodels/classes/SubClass.java
+34	0	src/test/java/org/apache/sling/models/testmodels/classes/SuperClass.java
+36	0	src/test/java/org/apache/sling/models/testmodels/classes/ViaModel.java
+30	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ChildResourceModel.java
+31	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ChildValueMapModel.java
+30	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ParentModel.java
+30	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ResourceModelWithRequiredField.java
+21	0	src/test/java/org/apache/sling/models/testmodels/interfaces/ServiceInterface.java
+43	0	src/test/java/org/apache/sling/models/testmodels/interfaces/SimplePropertyModel.java

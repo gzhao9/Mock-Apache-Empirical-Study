@@ -1,0 +1,5 @@
+file_path,method,api
+/mrunit/src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java,withArguments,org.powermock.api.mockito.expectation.WithExpectedArguments<org.apache.hadoop.mapreduce.lib.output.MultipleOutputs>
+/mrunit/src/main/java/org/apache/hadoop/mrunit/mapreduce/ReduceDriver.java,whenNew,org.powermock.api.mockito.PowerMockito
+/mrunit/src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java,withArguments,org.powermock.api.mockito.expectation.WithExpectedArguments<org.apache.hadoop.mapreduce.lib.output.MultipleOutputs>
+/mrunit/src/main/java/org/apache/hadoop/mrunit/mapreduce/MapDriver.java,whenNew,org.powermock.api.mockito.PowerMockito

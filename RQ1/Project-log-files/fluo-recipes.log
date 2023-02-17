@@ -1,0 +1,2840 @@
+commit 29036ca4531b15ec7171e74f38ab873dd0a18c5b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:57:12 -0400
+
+    Bump commons-io from 2.4 to 2.7 (#162)
+    
+    Bumps commons-io from 2.4 to 2.7.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: commons-io:commons-io
+      dependency-type: direct:development
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 58d27c6c20b42c5025254264ccec25c447578196
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:56:53 -0400
+
+    Bump commons-collections from 3.2.1 to 3.2.2 (#161)
+    
+    Bumps commons-collections from 3.2.1 to 3.2.2.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: commons-collections:commons-collections
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 2ff94ea290d725fdde5facae7f1da5cc4dd07235
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:56:33 -0400
+
+    Bump junit from 4.12 to 4.13.1 (#160)
+    
+    Bumps [junit](https://github.com/junit-team/junit4) from 4.12 to 4.13.1.
+    - [Release notes](https://github.com/junit-team/junit4/releases)
+    - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.12.md)
+    - [Commits](https://github.com/junit-team/junit4/compare/r4.12...r4.13.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: junit:junit
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 6d9d6cc5164005fb0631ee1e2c3da938b947f190
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:56:09 -0400
+
+    Bump zookeeper from 3.4.8 to 3.4.14 (#158)
+    
+    Bumps zookeeper from 3.4.8 to 3.4.14.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.zookeeper:zookeeper
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit e809a0cfbbfee40e344f3250f0b5f20ddb0cd658
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:55:51 -0400
+
+    Bump accumulo-core from 2.0.0 to 2.0.1 (#159)
+    
+    Bumps [accumulo-core](https://github.com/apache/accumulo) from 2.0.0 to 2.0.1.
+    - [Release notes](https://github.com/apache/accumulo/releases)
+    - [Commits](https://github.com/apache/accumulo/compare/rel/2.0.0...rel/2.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.apache.accumulo:accumulo-core
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 7df50187e4473e7629dd290bff5adc40e6b7130e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 04:42:57 -0400
+
+    Bump gson from 2.2.4 to 2.8.9 (#157)
+    
+    Bumps [gson](https://github.com/google/gson) from 2.2.4 to 2.8.9.
+    - [Release notes](https://github.com/google/gson/releases)
+    - [Changelog](https://github.com/google/gson/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/google/gson/compare/gson-2.2.4...gson-parent-2.8.9)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.google.code.gson:gson
+      dependency-type: direct:development
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 16920b3f4c6573a787a7b7a7fa4ffebf48264f50
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-13 16:59:05 -0400
+
+    Upload test logs on build failure (#156)
+
+2	0	.github/workflows/maven.yaml
+
+commit 64cabc492e3a3dbd9a362096b6403a5b7a9364d9
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-09 12:42:47 -0400
+
+    Fix #153 Update build to work on JDK11 (#155)
+    
+    * Update -release target to 11, to match JDK 11 source files
+    * Update some plugins that need to be newer to run on JDK 11
+    * Fix modernizer warnings by using Java builtins instead of Guava
+      classes
+    * Fix incorrect param name in javadoc
+
+1	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	3	modules/core/src/test/java/org/apache/fluo/recipes/core/common/TestGrouping.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/BigUpdateIT.java
+4	5	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/CollisionFreeMapIT.java
+9	9	modules/core/src/test/java/org/apache/fluo/recipes/core/types/TypeLayerTest.java
+1	1	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+21	3	pom.xml
+
+commit 5833bb2e728bbf0b461f6b706ced25e5379230a3
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-08 17:42:38 -0400
+
+    Migrate from TravisCI to GitHub Actions (#154)
+
+66	0	.github/workflows/maven.yaml
+0	33	.travis.yml
+4	2	README.md
+14	0	pom.xml
+
+commit f0f54528298d29ad5ec5031be6e3da502542f4aa
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-05 18:09:11 -0400
+
+    Add .asf.yaml (#152)
+
+34	0	.asf.yaml
+
+commit f29f63695baeadcd7be37340d3a43b3ea5b0bfca
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-08-14 08:00:55 -0400
+
+    Update links to point to main branch (#151)
+
+2	2	README.md
+
+commit cfc86ba4c1faf20da78f8a0fc149c737aca407c7
+Author: Keith Turner <kturner@apache.org>
+Date:   2020-07-16 11:55:44 -0400
+
+    Update to work with Accumulo 2.0.0 and Fluo 2.0.0 (#150)
+
+0	1	.travis.yml
+0	4	modules/accumulo/pom.xml
+9	12	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloWriter.java
+45	49	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+23	0	modules/accumulo/src/main/spotbugs/exclude-filter.xml
+23	0	modules/core/src/main/spotbugs/exclude-filter.xml
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/export/it/ExportTestBase.java
+2	13	modules/spark/pom.xml
+44	31	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+23	0	modules/spark/src/main/spotbugs/exclude-filter.xml
+46	2	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+23	0	modules/test/src/main/spotbugs/exclude-filter.xml
+66	19	pom.xml
+
+commit 24c11234c9654b16d999437ff49ddc3db86665f8
+Author: Christopher McTague <cjmctague@apache.org>
+Date:   2018-08-29 10:04:04 -0400
+
+    Fluo recipes updates (#149)
+    
+    - Java 8 Translation/simplification
+    - Spelling corrections in comments/javadocs
+    - Updated Travis to test Accumulo 1.9.2
+
+1	1	.travis.yml
+1	1	contrib/create-release-candidate.sh
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloExporter.java
+1	1	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/AccumuloTranslatorTest.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CombineQueue.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/InputImpl.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+2	7	modules/core/src/test/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionTest.java
+10	16	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+1	1	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+
+commit 8e22a64b3716d8427f855a4393f0b7f0067f8989
+Merge: 94bc590 357c70e
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-06 17:50:10 -0500
+
+    Merge remote-tracking branch 'origin/1.2.0-rc1-next'
+
+commit 94bc590007cefcc7ba50a4289197ecf2560c9fea
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 17:44:40 -0500
+
+    Synchronize release-candidate scripts across repos (#148)
+
+23	16	contrib/create-release-candidate.sh
+
+commit 0056c7dccb6ee7087001c702e87f8224cdc22a2b
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 16:37:14 -0500
+
+    Update release notes URL (#147)
+
+1	1	contrib/create-release-candidate.sh
+
+commit 357c70e0d8bb6715929c1496012636ccaca4ad38
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 12:44:53 -0500
+
+    [maven-release-plugin] prepare for next development iteration
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit 6e8956c39c993a6f5059999a557cbdad60f23954
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 12:44:43 -0500
+
+    [maven-release-plugin] prepare release rel/fluo-recipes-1.2.0
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit 2b13cbafe566ab30a656b4ae3504a12bd4d38964
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-02-28 19:53:42 -0500
+
+    Build against Fluo 1.2.0 and Accumulo 1.7.3 (#146)
+    
+    * Update build configuration to build against Fluo 1.2.0
+    * Change Accumulo default version to 1.7.3, since Fluo 1.2.0 requires 1.7
+    * Update copyright date
+    * Update Travis config to build with both Accumulo 1.7.3 and 1.8.1
+    * Remove unused thrift dependency (version need not be managed
+      since Fluo 1.2.0 now shades its version, so it won't conflict with
+      Accumulo's version)
+
+20	6	.travis.yml
+1	1	NOTICE
+2	14	pom.xml
+
+commit 91ac935e48f1c88da7a0b1bdf952d0c9eff2ff9c
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-11-27 17:42:47 -0500
+
+    Apply formatter changes from parent POM 3
+
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+4	5	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+2	3	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloExporter.java
+2	3	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloWriter.java
+7	9	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+8	12	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CombineQueueImpl.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CqConfigurator.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CqOptimizer.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/InputImpl.java
+2	3	modules/core/src/main/java/org/apache/fluo/recipes/core/common/TransientRegistry.java
+6	9	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+2	3	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+3	5	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserverImpl.java
+9	11	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+4	4	modules/core/src/main/java/org/apache/fluo/recipes/core/export/FluentConfigurator.java
+8	9	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Update.java
+4	6	modules/core/src/main/java/org/apache/fluo/recipes/core/serialization/SimpleSerializer.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/LogEntry.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+4	8	modules/core/src/test/java/org/apache/fluo/recipes/core/combine/SplitsTest.java
+4	4	modules/core/src/test/java/org/apache/fluo/recipes/core/combine/it/CombineQueueTreeIT.java
+2	3	modules/core/src/test/java/org/apache/fluo/recipes/core/data/RowHasherTest.java
+5	5	modules/core/src/test/java/org/apache/fluo/recipes/core/export/OptionsTest.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/export/it/ExportTestBase.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/core/map/OptionsTest.java
+8	14	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+16	16	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/BigUpdateIT.java
+4	5	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/CollisionFreeMapIT.java
+4	5	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/DocumentObserver.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/WordCountObserver.java
+26	26	modules/core/src/test/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionTest.java
+65	85	modules/core/src/test/java/org/apache/fluo/recipes/core/types/TypeLayerTest.java
+2	2	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+5	7	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+4	4	modules/spark/src/test/java/org/apache/fluo/recipes/spark/it/FluoSparkHelperIT.java
+8	9	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+10	10	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+
+commit e7de688c359a9f7e21311e1175786b9116e1e509
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-11-27 17:42:39 -0500
+
+    Update fluo-parent POM to 3
+
+1	54	pom.xml
+
+commit aa07963abb0541e3248549024cac07fae215a07c
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-10-02 15:53:13 -0400
+
+    Removes docs as they were moved to project website (#144)
+
+7	84	README.md
+0	117	docs/accumulo-export-queue.md
+0	224	docs/combine-queue.md
+0	316	docs/export-queue.md
+0	85	docs/recording-tx.md
+0	135	docs/row-hasher.md
+0	89	docs/serialization.md
+0	32	docs/spark.md
+0	78	docs/table-optimization.md
+0	27	docs/testing.md
+0	96	docs/transient.md
+
+commit 2844a7ad24c154716f442b9323b1031c0c4eae61
+Author: Keith Turner <keith@deenlo.com>
+Date:   2017-09-28 10:28:52 -0400
+
+    Added CONTRIBUTING.md (#143)
+
+49	0	CONTRIBUTING.md
+
+commit 0c596973f3fe63527e6e19abfaa773e5959caf9d
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-08-18 18:02:13 -0400
+
+    Remove automated Sonatype deploy from travis.yml (#142)
+
+0	8	.travis.yml
+
+commit 18d44041b2702bfd68cca444b1f40e7b3189c96b
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-08-18 16:22:19 -0400
+
+    Fix broken javadoc (#141)
+    
+    Fix broken javadoc, caused by #137
+    Fix trivial deprecation warning in test overlooked in #137
+
+3	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+4	3	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+
+commit 69f8f7e9a0904ee33f5a536fec0bf7f80d626277
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-08-18 15:39:56 -0400
+
+    More removing incubating status (#140)
+    
+    Additional post-graduation removal of incubating status
+
+3	3	README.md
+3	3	contrib/create-release-candidate.sh
+4	4	pom.xml
+
+commit eaa0a7b0687b5c919f8d0ff243115f2cca4f1858
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-08-18 15:37:57 -0400
+
+    Fix #135 Remove deprecation warnings (#137)
+    
+    Add missing @Deprecation annotations
+    Avoid warning-triggering imports of deprecated classes
+
+5	5	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+1	3	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+9	8	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMapObserver.java
+1	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Combiner.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/UpdateObserver.java
+14	9	modules/core/src/test/java/org/apache/fluo/recipes/core/export/OptionsTest.java
+15	9	modules/core/src/test/java/org/apache/fluo/recipes/core/map/OptionsTest.java
+6	3	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+14	13	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/BigUpdateIT.java
+9	8	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/CollisionFreeMapIT.java
+4	3	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/DocumentObserver.java
+1	3	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/WordCountCombiner.java
+5	5	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/WordCountObserver.java
+
+commit b7ac244db168433631f79f0802b3bb5609f6acae
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-08-18 15:23:55 -0400
+
+    Follow documented project import order (#137)
+
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+1	2	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserverImpl.java
+1	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Update.java
+1	2	modules/core/src/test/java/org/apache/fluo/recipes/core/common/TestGrouping.java
+2	2	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+24	0	pom.xml
+
+commit 28b1b5fad5754a9d49eb5d1639eef2daf0f481c3
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-07-26 15:34:05 -0400
+
+    Removed incubating from version and documentation
+
+0	9	DISCLAIMER
+1	1	NOTICE
+2	2	modules/accumulo/pom.xml
+2	2	modules/core/pom.xml
+2	2	modules/kryo/pom.xml
+2	2	modules/spark/pom.xml
+2	2	modules/test/pom.xml
+2	2	pom.xml
+
+commit c0f6cc573b042c6124b4eb689386dede822a042b
+Merge: c53a8f8 22ad45b
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-06-26 09:40:14 -0400
+
+    Merge pull request #136 from keith-turner/readme-ver-110
+    
+    update version in readme
+
+commit 22ad45b9edad995de4ff20959dfd3e54bea2a154
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-23 11:37:32 -0400
+
+    update version in readme
+
+1	1	README.md
+
+commit c53a8f890fb4c3708c8872a94982e22c5f1b013e
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-12 18:56:52 -0400
+
+    [maven-release-plugin] prepare for next development iteration
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit 4769fa9a3a43af030de318c0423a7cae5c5eb4fe
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-12 18:56:42 -0400
+
+    [maven-release-plugin] prepare release rel/fluo-recipes-1.1.0-incubating
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit f363574471987d7be2a80f27975264e917e982e5
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-12 17:41:55 -0400
+
+    fixed some javadoc warnings
+
+1	1	.travis.yml
+3	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloReplicator.java
+7	7	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloExporter.java
+1	4	modules/core/src/main/java/org/apache/fluo/recipes/core/export/Exporter.java
+4	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/function/Exporter.java
+
+commit 06acd645992b57b884407b1c64a517b57224d09f
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-12 15:58:34 -0400
+
+    Depend on Fluo 1.1.0
+
+1	1	pom.xml
+
+commit 416c109459f05faa65708782533672ba1e11512c
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-06-06 16:19:41 -0400
+
+    update NOTICE file for 2017
+
+1	1	NOTICE
+
+commit 6cef609d5fd327bc1e304886ffeec01345051d9c
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-05-12 17:15:30 -0400
+
+    Update git URLs to gitbox.apache.org
+
+3	3	pom.xml
+
+commit d4cc0e343e24b2aa46f2bb04b476546f95d3a2bb
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-05-05 18:51:01 -0400
+
+    Updated for new way of registering observers
+
+1	1	docs/accumulo-export-queue.md
+1	1	docs/combine-queue.md
+1	1	docs/export-queue.md
+4	2	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CombineQueueImpl.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+19	5	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+2	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/it/ExportTestBase.java
+
+commit 70a4239c837223a287c5eb1a396326ab7cc5be67
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-03-08 18:46:28 -0500
+
+    Updated ExportQ and CFM to use new ObserverProvider API
+    
+    Created a new CombineQueue API that replaces the CollisionFreeMap.  The new
+    combineQ uses the new Fluo Observer APIs exclusively.  The CollisionFreeMap
+    only uses the old Fluo Observer APIs and was deprecated.
+    
+    The ExportQueue was modified to support a Fluent configuration mechanism. This
+    can only be used when using the new Observer API.
+
+3	2	README.md
+45	39	docs/accumulo-export-queue.md
+0	257	docs/cfm.md
+224	0	docs/combine-queue.md
+133	118	docs/export-queue.md
+28	41	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+24	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloReplicator.java
+104	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloExporter.java
+86	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AccumuloTranslator.java
+2	13	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/{ => function}/AccumuloWriter.java
+104	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/function/AeFluentConfigurator.java
+3	2	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/{AccumuloExportTest.java => AccumuloTranslatorTest.java}
+48	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/ChangeImpl.java
+52	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/ChangeObserver.java
+183	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CombineQueue.java
+320	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CombineQueueImpl.java
+51	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/Combiner.java
+148	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CqConfigurator.java
+70	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/CqOptimizer.java
+52	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/InitializerImpl.java
+68	0	modules/core/src/main/java/org/apache/fluo/recipes/core/combine/InputImpl.java
+16	11	modules/{test/src/test/java/org/apache/fluo/recipes/test/export/SimpleExporter.java => core/src/main/java/org/apache/fluo/recipes/core/combine/SummingCombiner.java}
+1	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+1	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportEntry.java
+16	90	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+91	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserverImpl.java
+141	80	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+5	2	modules/core/src/main/java/org/apache/fluo/recipes/core/export/Exporter.java
+156	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/FluentConfigurator.java
+54	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/MemLimitIterator.java
+87	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/function/Exporter.java
+65	323	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMapObserver.java
+4	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Combiner.java
+1	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/NullUpdateObserver.java
+12	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Update.java
+5	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/UpdateObserver.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedObserver.java
+48	0	modules/core/src/test/java/org/apache/fluo/recipes/core/combine/OptionsTest.java
+66	0	modules/core/src/test/java/org/apache/fluo/recipes/core/combine/SplitsTest.java
+281	0	modules/core/src/test/java/org/apache/fluo/recipes/core/combine/it/CombineQueueTreeIT.java
+10	11	modules/core/src/test/java/org/apache/fluo/recipes/core/common/TestGrouping.java
+58	14	modules/core/src/test/java/org/apache/fluo/recipes/core/export/OptionsTest.java
+10	17	modules/core/src/test/java/org/apache/fluo/recipes/core/export/it/DocumentObserver.java
+25	15	modules/core/src/test/java/org/apache/fluo/recipes/core/export/it/ExportTestBase.java
+1	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/OptionsTest.java
+1	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+2	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/BigUpdateIT.java
+2	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/CollisionFreeMapIT.java
+2	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/DocumentObserver.java
+2	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/WordCountCombiner.java
+2	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/it/WordCountObserver.java
+32	7	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+21	6	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+
+commit 0cda5ae9ccb43497e43ef48d8651dfd969e5d085
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-04-26 18:21:27 -0400
+
+    Reduced creation of intermediate String and byte arrays
+
+21	20	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+22	22	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	1	pom.xml
+
+commit 4f11ec4d982271c01aeb734ee0a6e9bc5d15e9d6
+Author: Keith Turner <kturner@apache.org>
+Date:   2017-01-09 10:26:10 -0500
+
+    fixes #122 improved Spark documentation
+
+2	0	README.md
+32	0	docs/spark.md
+1	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+29	5	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+
+commit f724aa0e425a9f2d3b2d226b1058572b892b33f8
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-11-29 21:45:40 -0500
+
+    fix bug in accumulo export docs
+
+1	1	docs/accumulo-export-queue.md
+
+commit a6edddeed80224a50cbaa6991fe8b15500538563
+Merge: 240a78a 5a43dcc
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-28 21:31:12 -0400
+
+    Merge branch 'doc_summary_update'
+
+commit 5a43dcc32bffd938a36627fa2fc1c9ba09f90628
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-28 14:57:24 -0400
+
+    update description
+
+5	3	README.md
+
+commit 240a78ad311c17ac5e6f6b156606f6ec7d714370
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-28 11:34:50 -0400
+
+    fix link in docs
+
+1	1	docs/accumulo-export-queue.md
+
+commit 4debb8b7908d8b8dc0ed4cfd4e2639e405a5ef5d
+Merge: 4ace42f de7bee5
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-27 17:39:41 -0400
+
+    Merge branch '1.0.0-incubating-rc1-next'
+
+commit 4ace42fd3b1b70e155f9232f3f30a6ea7ad7e163
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-27 13:11:56 -0400
+
+    Added link to Balancing blog post
+
+2	1	docs/table-optimization.md
+
+commit de7bee53d725466c61d325f3bd73c4a9bf233f4f
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-20 18:16:50 -0400
+
+    [maven-release-plugin] prepare for next development iteration
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit 682eff983f1fe6e60b75c36d3b2f782c6a93b155
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-20 18:16:40 -0400
+
+    [maven-release-plugin] prepare release rel/fluo-recipes-1.0.0-incubating
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit e1d0aa7964dcd441361a537a6595c773b42b8cfb
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2016-10-20 18:04:12 -0400
+
+    Fix small compiler warning in IT
+    
+    Make use of resource inside of try-with-resources block by ensuring it's
+    not null.
+
+1	0	modules/spark/src/test/java/org/apache/fluo/recipes/spark/it/FluoSparkHelperIT.java
+
+commit 5279878bc87d7f056824a87b9631eb4c417513d6
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-20 16:27:58 -0400
+
+    Modified rc script and pom for generating release candidates
+
+9	11	contrib/create-release-candidate.sh
+14	0	pom.xml
+
+commit ba3c7278628e33141f3416f5e0b6d61579ee3ffa
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-20 16:21:53 -0400
+
+    Copied rc script from Fluo apache/fluo@2f9d3ee
+
+288	0	contrib/create-release-candidate.sh
+
+commit 545cbcad832a0f10042c4277cb46d63c4211c071
+Merge: eab5787 e989dfc
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-20 13:34:01 -0400
+
+    Merge branch 'name-fix'
+
+commit e989dfc3826952657148037fead24f246c6878be
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-19 16:15:46 -0400
+
+    Correct naming in poms and NOTICE
+
+1	1	DISCLAIMER
+1	1	NOTICE
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+1	1	pom.xml
+
+commit eab5787a104d0cf93f3069a42b2b196bdf4da6a0
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-10-18 13:41:17 -0400
+
+    Document thrift dep in pom
+
+6	0	pom.xml
+
+commit 10ccb16aedd8c141f5bd21be6822481471afa7ad
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-14 17:04:59 -0400
+
+    Misc release prep cleanup
+
+16	0	README.md
+16	0	docs/accumulo-export-queue.md
+16	0	docs/cfm.md
+16	0	docs/export-queue.md
+16	0	docs/recording-tx.md
+16	0	docs/row-hasher.md
+16	0	docs/serialization.md
+16	0	docs/table-optimization.md
+16	0	docs/testing.md
+16	0	docs/transient.md
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/common/TableOptimizations.java
+12	2	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+0	31	modules/core/src/main/java/org/apache/fluo/recipes/core/impl/BucketUtil.java
+16	6	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	0	modules/core/src/test/java/org/apache/fluo/recipes/core/export/OptionsTest.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/DocumentLoader.java
+3	2	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/DocumentObserver.java
+2	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/ExportBufferIT.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/ExportQueueIT.java
+4	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/ExportTestBase.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/GsonSerializer.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/RefInfo.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/{ => it}/RefUpdates.java
+1	0	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+5	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/BigUpdateIT.java
+2	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/CollisionFreeMapIT.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/DocumentLoader.java
+2	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/DocumentObserver.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/TestSerializer.java
+3	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/WordCountCombiner.java
+3	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/{ => it}/WordCountObserver.java
+1	1	modules/kryo/pom.xml
+1	1	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+2	1	modules/kryo/src/test/java/org/apache/fluo/recipes/{core/serialization => kryo}/KryoSimpleSerializerTest.java
+1	1	modules/spark/pom.xml
+3	1	modules/spark/src/test/java/org/apache/fluo/recipes/spark/{ => it}/FluoSparkHelperIT.java
+1	1	modules/test/pom.xml
+0	1	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+2	36	pom.xml
+
+commit 573aeb788a0b4623f10b7afd8b0363b501e31776
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-12 15:26:47 -0400
+
+    Avoid allocating collection in AccumuloExporter
+
+2	2	docs/accumulo-export-queue.md
+17	7	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+6	6	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloReplicator.java
+19	10	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/AccumuloExportTest.java
+3	4	modules/test/src/test/java/org/apache/fluo/recipes/test/export/SimpleExporter.java
+
+commit 42176d1ec83020d735ed59e37c0c0836d7981570
+Merge: f4e9713 3d5388e
+Author: Mike Walch <mwalch@apache.org>
+Date:   2016-10-07 10:23:53 -0400
+
+    Merge remote-tracking branch 'keith/use-fluo-10'
+
+commit 3d5388e131d46126968f372696f1eeed29d3d222
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-05 17:45:47 -0400
+
+    Removed SNAPSHOT from Fluo version!
+
+1	1	pom.xml
+
+commit f4e97138935f6adf289e6cb1b46910d0bca556e3
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-10-04 16:01:32 -0400
+
+    Reviewed APIs in prep for 1.0 release.  Made two small changes.
+    
+     * Made it easier to do table optimizations for any recipe
+     * Made type layer increment return old value
+     * Optimized some code
+
+15	5	docs/row-hasher.md
+13	10	docs/table-optimization.md
+1	3	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+14	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+37	5	modules/core/src/main/java/org/apache/fluo/recipes/core/common/TableOptimizations.java
+71	25	modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+31	43	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+10	3	modules/core/src/main/java/org/apache/fluo/recipes/core/impl/BucketUtil.java
+44	54	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+8	2	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedTransactionBase.java
+8	2	modules/core/src/test/java/org/apache/fluo/recipes/core/common/TestGrouping.java
+11	2	modules/core/src/test/java/org/apache/fluo/recipes/core/data/RowHasherTest.java
+4	11	modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+29	25	modules/core/src/test/java/org/apache/fluo/recipes/core/types/TypeLayerTest.java
+1	3	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+
+commit dc765718c59104a1643cbaa0ae81d565ae5e4146
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-21 18:02:23 -0400
+
+    Added standard way to setup per exporter configuration.
+
+15	9	docs/accumulo-export-queue.md
+0	278	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExportQueue.java
+75	9	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloReplicator.java
+169	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloWriter.java
+1	1	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/AccumuloExportTest.java
+18	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+32	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+11	2	modules/core/src/main/java/org/apache/fluo/recipes/core/export/Exporter.java
+11	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/OptionsTest.java
+7	5	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+6	7	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+1	1	modules/test/src/test/java/org/apache/fluo/recipes/test/export/SimpleExporter.java
+
+commit 6f5177363ca309c35403fd822e3270559e9dfdbd
+Author: Mike Walch <mwalch@apache.org>
+Date:   2016-09-07 12:04:44 -0400
+
+    Fixes #102 - Simplify Accumulo export queue recipe
+    
+    * AccumuloExporter is now abstract class that is implemented by user
+      and handles writing mutation given by user to Accumulo.
+    * AccumuloExport objects are no longer placed on queue
+    * Renamed SharedBatchWriter to AccumuloWriter
+    * AccumuloExportQueue class contains code for configuring queue
+
+89	0	docs/accumulo-export-queue.md
+0	57	docs/accumulo-export.md
+1	1	docs/export-queue.md
+0	4	modules/accumulo/pom.xml
+0	37	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExport.java
+278	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExportQueue.java
+15	30	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+17	16	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/{ReplicationExport.java => AccumuloReplicator.java}
+0	101	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/DifferenceExport.java
+0	149	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/SharedBatchWriter.java
+0	36	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/TableInfo.java
+21	24	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/{DifferenceExportTest.java => AccumuloExportTest.java}
+4	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+14	18	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+22	25	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+7	14	modules/test/src/test/java/org/apache/fluo/recipes/test/export/{TestExport.java => SimpleExporter.java}
+
+commit d7347ee15555abcc01881d04af1b375eca4018a3
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-16 18:03:14 -0400
+
+    updates for Fluo API changes
+
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMapObserver.java
+2	63	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/export/ExportTestBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/map/CollisionFreeMapIT.java
+2	24	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockSnapshotBase.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockTransactionBase.java
+
+commit b79c6fb8944e207ef671d818bba2809cfbe77697
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-07 16:57:26 -0400
+
+    Fixed CompactTransient, it was not picking up internal only
+
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+
+commit 91ff0776f949c761d8b2d5cb39006f75299c538e
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-07 12:38:57 -0400
+
+    Update for changes from apache/incubator-fluo#714
+
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+7	8	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/LogEntry.java
+7	6	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+4	3	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedTransactionBase.java
+4	3	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockSnapshotBase.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockTransactionBase.java
+
+commit 138e1617e0ed9fcab5e0f536b76047d3f967cfea
+Merge: 1b31114 4036b02
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-06 15:10:49 -0400
+
+    Merge remote-tracking branch 'origin/thrift-version'
+
+commit 4036b0267ae7d3942d013ebdecf15f3457c2f8c2
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-09-02 17:47:54 -0400
+
+    Made thrift version configurable.
+    
+    Needed to do this to test building against Accumulo 1.8.0 which used thrift 0.9.3.
+
+6	0	pom.xml
+
+commit 1b31114059e1e9fd9d156312287e163b6766995b
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-08-12 18:34:50 -0400
+
+    Update for changes from apache/incubator-fluo#758
+
+12	14	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockSnapshotBase.java
+
+commit 2aed08d00247e6aed9814dd9b9ee1697426c2483
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-08-12 11:24:23 -0400
+
+    update to newly released parent pom
+
+1	1	pom.xml
+
+commit 5d6b35c627c87309430212a46ac62e9fc2be12d7
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-29 17:55:02 -0400
+
+    Update for changes in apache/fluo#746
+
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+3	2	modules/core/src/test/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionTest.java
+1	1	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+
+commit e86ab10daf83ddecf1b3a13bcd1f14f9001387f2
+Merge: 58d6d9f ab0b557
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-26 15:26:26 -0400
+
+    Merge branch 'fr-94'
+
+commit ab0b5573eef7d39a4d032202a711b9ac172e7531
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-26 09:54:42 -0400
+
+    Closes #94 - Update pom to use new Fluo parent
+    
+    * Converted a do-while statemnt to while to avoid checkstyle error
+    * Fix properties in POM used to start MiniAccumulo instance
+    * Updated snapshots repo to Apache server
+
+8	3	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+5	22	pom.xml
+
+commit 58d6d9fb849df4eee8ba5b65938a1c1e5de0216f
+Merge: ac898df f7635dc
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-25 15:55:44 -0400
+
+    Merge remote-tracking branch 'keith/fluo-723'
+
+commit f7635dc89219e0cc45376ad318c328dfa199d63d
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-25 15:30:43 -0400
+
+    update for changes in apache/incubator-fluo#723
+
+1	1	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+
+commit ac898df17d97fa3313202fc672855e94bc3ca9ba
+Merge: 9be53cb 65ddeba
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-21 12:46:34 -0400
+
+    Merge branch 'recipes-92'
+
+commit 65ddebaac109505a9e0731e6804573a1b2213960
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-18 17:29:30 -0400
+
+    Fixes #92 - Added dependency analysis plugin
+    
+    * Updated dependencies that caused failure by analysis plugin
+    * Updated README.md
+    * Removed commons-lang dependency in core
+
+32	18	README.md
+14	2	modules/accumulo/pom.xml
+18	5	modules/core/pom.xml
+1	2	modules/core/src/test/java/org/apache/fluo/recipes/core/export/DocumentLoader.java
+8	1	modules/kryo/pom.xml
+29	5	modules/spark/pom.xml
+13	1	modules/test/pom.xml
+86	0	pom.xml
+
+commit 9be53cba4915077ff7fa714789ed0b47b067d311
+Merge: 3ee3771 97f671a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-20 15:51:30 -0400
+
+    Merge remote-tracking branch 'keith/add-commons-collections'
+
+commit 97f671a0b3a8d8ad6dab7aad3a46aeaa19842379
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-20 15:44:10 -0400
+
+    add missing dependency on commons collections
+
+1	1	modules/accumulo/pom.xml
+5	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+5	0	pom.xml
+
+commit 3ee377194f54d62cb2cdce8fc7ad237815edee5e
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-18 16:42:30 -0400
+
+    Minor updates in preparation for 1.0.0 release
+    
+    * Set version to 1.0.0-incubating-SNAPSHOT
+    * Removed unnecessary whitespace
+    * Added missing @since tags
+    * Excluded *.impl.* packages from javadocs
+    * Removed unnecessary public modifiers from public interface methods
+    * Fixed method misspelling in SimpleSerializer
+    * Set Accumulo min version in pom.xml to 1.6.5 to match Fluo
+
+1	1	README.md
+0	1	modules/core/src/main/java/org/apache/fluo/recipes/core/common/RowRange.java
+0	1	modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+0	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+3	1	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+5	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+7	7	modules/core/src/main/java/org/apache/fluo/recipes/core/serialization/SimpleSerializer.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/LogEntry.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/export/ExportTestBase.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/BigUpdateIT.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/CollisionFreeMapIT.java
+3	2	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+0	1	modules/spark/src/main/java/org/apache/fluo/recipes/spark/AccumuloRangePartitioner.java
+2	0	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+0	2	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkTestUtil.java
+0	1	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+0	3	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+9	2	pom.xml
+
+commit b4c9cdce85be5c3d8932aa11086d90fd0e864055
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-15 16:43:50 -0400
+
+    Fixed bug with continuance introed in #71
+
+5	2	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+10	4	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+0	1	modules/core/src/test/java/org/apache/fluo/recipes/core/map/BigUpdateIT.java
+
+commit 18933f226b4b4adfc3e1e5487927b148583ce176
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-15 15:59:21 -0400
+
+    Updated to use new scanner API from apache/incubator-fluo#639
+
+13	22	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportBucket.java
+14	19	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+166	43	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+6	7	modules/core/src/main/java/org/apache/fluo/recipes/core/types/TypedSnapshotBase.java
+13	28	modules/core/src/test/java/org/apache/fluo/recipes/core/export/ExportTestBase.java
+11	16	modules/core/src/test/java/org/apache/fluo/recipes/core/map/BigUpdateIT.java
+15	24	modules/core/src/test/java/org/apache/fluo/recipes/core/map/CollisionFreeMapIT.java
+57	56	modules/core/src/test/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionTest.java
+2	3	modules/core/src/test/java/org/apache/fluo/recipes/core/types/MockSnapshotBase.java
+27	46	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+1	1	pom.xml
+
+commit 22354d0f7f03f532ec093b7ece61b5ae9fb070e9
+Merge: a8b85f3 083e4af
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-15 18:01:55 -0400
+
+    Merge remote-tracking branch 'mike/package-refactor'
+    
+    Conflicts:
+            docs/row-hasher.md
+            modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+            modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+            modules/core/src/main/java/org/apache/fluo/recipes/common/Pirtos.java
+            modules/core/src/main/java/org/apache/fluo/recipes/common/TableOptimizations.java
+            modules/core/src/main/java/org/apache/fluo/recipes/core/common/Pirtos.java
+            modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+            modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+            modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+            modules/core/src/test/java/org/apache/fluo/recipes/core/map/SplitsTest.java
+            modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+
+commit a8b85f33288e32b73b6c042305f1cf065195b863
+Merge: 9bafe1a 0ce1bc2
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-07-15 17:05:40 -0400
+
+    Merge remote-tracking branch 'mike/fr-50'
+
+commit 9bafe1a1e371ae6d8af45a5307c1333baf9981a2
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-15 13:34:03 -0400
+
+    Update whitespace in LICENSE file
+
+189	178	LICENSE
+
+commit 083e4afb1d6528c6cb8443ef24565f11187299a6
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-15 12:26:07 -0400
+
+    Added '@since 1.0.0' annotations
+    
+    * Also made minor whitespace changes
+
+3	6	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+3	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+1	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExport.java
+1	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+1	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/DifferenceExport.java
+1	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/ReplicationExport.java
+3	0	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/TableInfo.java
+2	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/common/Pirtos.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/common/RowRange.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/common/TransientRegistry.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/data/RowHasher.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/Export.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportObserver.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/ExportQueue.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/Exporter.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/export/SequencedExport.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMap.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/map/CollisionFreeMapObserver.java
+4	1	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Combiner.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/map/Update.java
+2	1	modules/core/src/main/java/org/apache/fluo/recipes/core/map/UpdateObserver.java
+3	0	modules/core/src/main/java/org/apache/fluo/recipes/core/serialization/SimpleSerializer.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/LogEntry.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransaction.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/RecordingTransactionBase.java
+2	0	modules/core/src/main/java/org/apache/fluo/recipes/core/transaction/TxLog.java
+3	0	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+3	0	modules/spark/src/main/java/org/apache/fluo/recipes/spark/AccumuloRangePartitioner.java
+2	0	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+2	0	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkTestUtil.java
+2	0	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+2	0	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+
+commit 594997ab7afe4f5a0b57854e64f245b96816aaeb
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-15 11:50:40 -0400
+
+    Made SharedBatchWriter package private
+
+7	7	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/SharedBatchWriter.java
+
+commit beea3f96e5f633341d977d327f6aa1a0f12307f3
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-15 11:31:28 -0400
+
+    Updated package names in core module
+    
+    * Packages now have 'org.apache.recipes.core.' prefix
+
+1	1	docs/export-queue.md
+2	2	docs/row-hasher.md
+1	1	docs/serialization.md
+1	1	docs/transient.md
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/ReplicationExport.java
+3	3	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/common/Pirtos.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/common/RowRange.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/common/TransientRegistry.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/data/RowHasher.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/Export.java
+5	5	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/ExportBucket.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/ExportEntry.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/ExportObserver.java
+5	5	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/ExportQueue.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/Exporter.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/export/SequencedExport.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/impl/BucketUtil.java
+6	6	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/CollisionFreeMap.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/CollisionFreeMapObserver.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/Combiner.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/NullUpdateObserver.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/Update.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/map/UpdateObserver.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/serialization/SimpleSerializer.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/transaction/LogEntry.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/transaction/RecordingTransaction.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/transaction/RecordingTransactionBase.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/transaction/TxLog.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/Encoder.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/StringEncoder.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypeLayer.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedLoader.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedObserver.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedSnapshot.java
+5	5	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedSnapshotBase.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedTransaction.java
+5	5	modules/core/src/main/java/org/apache/fluo/recipes/{ => core}/types/TypedTransactionBase.java
+6	8	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/common/TestGrouping.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/common/TransientRegistryTest.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/data/RowHasherTest.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/DocumentLoader.java
+4	4	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/DocumentObserver.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/ExportBufferIT.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/ExportQueueIT.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/ExportTestBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/GsonSerializer.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/OptionsTest.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/RefInfo.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/export/RefUpdates.java
+6	6	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/BigUpdateIT.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/CollisionFreeMapIT.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/DocumentLoader.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/DocumentObserver.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/OptionsTest.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/SplitsTest.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/TestSerializer.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/WordCountCombiner.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/map/WordCountObserver.java
+4	4	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/transaction/RecordingTransactionTest.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/types/MockSnapshot.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/types/MockSnapshotBase.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/types/MockTransaction.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/types/MockTransactionBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/{ => core}/types/TypeLayerTest.java
+1	1	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+1	1	modules/kryo/src/test/java/org/apache/fluo/recipes/{ => core}/serialization/KryoSimpleSerializerTest.java
+1	1	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+1	1	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+5	5	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+
+commit 0ce1bc20684ab383bb306f31e5435bb7100dd14a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-14 10:49:28 -0400
+
+    Fixes #50 - Rename Pirtos to TableOptimizations
+
+2	2	docs/row-hasher.md
+3	3	docs/table-optimization.md
+3	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+8	6	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+7	8	modules/core/src/main/java/org/apache/fluo/recipes/common/{Pirtos.java => TableOptimizations.java}
+6	6	modules/core/src/main/java/org/apache/fluo/recipes/data/RowHasher.java
+11	10	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportQueue.java
+10	10	modules/core/src/main/java/org/apache/fluo/recipes/map/CollisionFreeMap.java
+13	12	modules/core/src/test/java/org/apache/fluo/recipes/common/TestGrouping.java
+8	7	modules/core/src/test/java/org/apache/fluo/recipes/map/SplitsTest.java
+3	2	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+
+commit f1dce149959260303ce20cfdc8f309eaa13e21d3
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-07-07 17:18:53 -0400
+
+    Update to reflect changes in apache/fluo#695
+    
+    T
+
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+3	3	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+2	2	modules/core/src/main/java/org/apache/fluo/recipes/common/Pirtos.java
+4	4	modules/core/src/main/java/org/apache/fluo/recipes/common/TransientRegistry.java
+8	8	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportQueue.java
+8	7	modules/core/src/main/java/org/apache/fluo/recipes/map/CollisionFreeMap.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/serialization/SimpleSerializer.java
+0	1	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedSnapshotBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/export/GsonSerializer.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/map/TestSerializer.java
+2	2	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+
+commit 640c51716fdd13a60b88dc566dcca2876b3657e3
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-01 12:12:27 -0400
+
+     #82 - Updates to due to move of type layer to Fluo recipes
+    
+    * Updated type layer imports and reorganized all imports
+    * Fixed tests
+    * Added public API type changes from apache/incubator-fluo#697
+
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+2	2	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+1	1	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/DifferenceExport.java
+6	6	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+1	1	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/DifferenceExportTest.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/common/Pirtos.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/common/TransientRegistry.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportBucket.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportQueue.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/map/CollisionFreeMap.java
+1	1	modules/core/src/main/java/org/apache/fluo/recipes/serialization/SimpleSerializer.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/types/TypeLayer.java
+3	9	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedSnapshotBase.java
+3	3	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedTransactionBase.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/export/DocumentLoader.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/export/DocumentObserver.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/export/ExportTestBase.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/export/GsonSerializer.java
+5	5	modules/core/src/test/java/org/apache/fluo/recipes/map/BigUpdateIT.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/map/CollisionFreeMapIT.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/map/DocumentLoader.java
+2	2	modules/core/src/test/java/org/apache/fluo/recipes/map/DocumentObserver.java
+1	1	modules/core/src/test/java/org/apache/fluo/recipes/map/TestSerializer.java
+3	3	modules/core/src/test/java/org/apache/fluo/recipes/transaction/RecordingTransactionTest.java
+1	1	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+7	7	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+6	6	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+6	6	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+5	5	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+8	8	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+1	1	modules/test/src/test/java/org/apache/fluo/recipes/test/export/TestExport.java
+1	1	pom.xml
+
+commit 777db493ce55f6b9b40b5434106456fbb4014d49
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-07-01 12:05:45 -0400
+
+    Fixes #82 - Moved TypeLayer from Fluo API to Fluo Recipes
+
+86	0	modules/core/src/main/java/org/apache/fluo/recipes/types/Encoder.java
+86	0	modules/core/src/main/java/org/apache/fluo/recipes/types/StringEncoder.java
+488	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypeLayer.java
+45	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedLoader.java
+46	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedObserver.java
+38	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedSnapshot.java
+562	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedSnapshotBase.java
+46	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedTransaction.java
+278	0	modules/core/src/main/java/org/apache/fluo/recipes/types/TypedTransactionBase.java
+30	0	modules/core/src/test/java/org/apache/fluo/recipes/types/MockSnapshot.java
+202	0	modules/core/src/test/java/org/apache/fluo/recipes/types/MockSnapshotBase.java
+36	0	modules/core/src/test/java/org/apache/fluo/recipes/types/MockTransaction.java
+90	0	modules/core/src/test/java/org/apache/fluo/recipes/types/MockTransactionBase.java
+494	0	modules/core/src/test/java/org/apache/fluo/recipes/types/TypeLayerTest.java
+
+commit 93f482aa447e5f63c3e3406f05e328404ac143ba
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-06-17 17:13:20 -0400
+
+    Delete AUTHORS file, added DISCLAMER & NOTICE, updated project website links
+
+0	5	AUTHORS
+9	0	DISCLAIMER
+5	0	NOTICE
+1	1	README.md
+
+commit 4e332ef70bff37ab9ca5ee1f507a90479cdc14a2
+Merge: e0e4f06 c40b559
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-06-17 16:24:00 -0400
+
+    Merge remote-tracking branch 'mike/license-headers'
+
+commit e0e4f06156060ec18647afe9184ec0b9dec298fc
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-06-17 15:24:10 -0400
+
+    Updated links in docs due to move to Apache
+
+4	3	README.md
+4	4	pom.xml
+
+commit c40b5591d09b1047f90aedcd442e410c48c1396a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-06-17 10:21:47 -0400
+
+    Updated license headers for Apache
+
+11	11	.travis.yml
+10	11	modules/accumulo/pom.xml
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/CompactTransient.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/cmds/OptimizeTable.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExport.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/AccumuloExporter.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/DifferenceExport.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/ReplicationExport.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/SharedBatchWriter.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/export/TableInfo.java
+5	4	modules/accumulo/src/main/java/org/apache/fluo/recipes/accumulo/ops/TableOperations.java
+5	4	modules/accumulo/src/test/java/org/apache/fluo/recipes/accumulo/export/DifferenceExportTest.java
+9	10	modules/accumulo/src/test/resources/log4j.properties
+10	11	modules/core/pom.xml
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/common/Pirtos.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/common/RowRange.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/common/TransientRegistry.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/data/RowHasher.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/Export.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportBucket.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportEntry.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportObserver.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/ExportQueue.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/Exporter.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/export/SequencedExport.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/impl/BucketUtil.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/CollisionFreeMap.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/CollisionFreeMapObserver.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/Combiner.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/NullUpdateObserver.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/Update.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/map/UpdateObserver.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/serialization/SimpleSerializer.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/transaction/LogEntry.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/transaction/RecordingTransaction.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/transaction/RecordingTransactionBase.java
+5	4	modules/core/src/main/java/org/apache/fluo/recipes/transaction/TxLog.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/common/TestGrouping.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/common/TransientRegistryTest.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/data/RowHasherTest.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/DocumentLoader.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/DocumentObserver.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/ExportBufferIT.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/ExportQueueIT.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/ExportTestBase.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/GsonSerializer.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/OptionsTest.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/RefInfo.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/export/RefUpdates.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/BigUpdateIT.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/CollisionFreeMapIT.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/DocumentLoader.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/DocumentObserver.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/OptionsTest.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/SplitsTest.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/TestSerializer.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/WordCountCombiner.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/map/WordCountObserver.java
+5	4	modules/core/src/test/java/org/apache/fluo/recipes/transaction/RecordingTransactionTest.java
+10	11	modules/kryo/pom.xml
+5	4	modules/kryo/src/main/java/org/apache/fluo/recipes/kryo/KryoSimplerSerializer.java
+5	4	modules/kryo/src/test/java/org/apache/fluo/recipes/serialization/KryoSimpleSerializerTest.java
+10	11	modules/spark/pom.xml
+5	4	modules/spark/src/main/java/org/apache/fluo/recipes/spark/AccumuloRangePartitioner.java
+5	4	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkHelper.java
+5	4	modules/spark/src/main/java/org/apache/fluo/recipes/spark/FluoSparkTestUtil.java
+5	4	modules/spark/src/test/java/org/apache/fluo/recipes/spark/FluoSparkHelperIT.java
+9	10	modules/spark/src/test/resources/log4j.properties
+10	11	modules/test/pom.xml
+5	4	modules/test/src/main/java/org/apache/fluo/recipes/test/AccumuloExportITBase.java
+5	4	modules/test/src/main/java/org/apache/fluo/recipes/test/FluoITHelper.java
+5	4	modules/test/src/main/java/org/apache/fluo/recipes/test/Hex.java
+5	4	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloExporterIT.java
+5	4	modules/test/src/test/java/org/apache/fluo/recipes/test/export/AccumuloReplicatorIT.java
+5	4	modules/test/src/test/java/org/apache/fluo/recipes/test/export/TestExport.java
+9	10	modules/test/src/test/resources/log4j.properties
+14	0	pom.xml
+
+commit a07c569865f9a9af3e0c84ec72ea77330abb1d98
+Merge: 9554c3c 4f3689b
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-06-16 12:25:21 -0400
+
+    Merge pull request #78 from keith-turner/apache-package-rename
+    
+    Rename packages to apache names
+
+commit 4f3689b1935cbcb12ae474179a6195b904686506
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-06-16 10:49:51 -0400
+
+    Fix links in markdown
+
+2	2	docs/accumulo-export.md
+1	1	docs/export-queue.md
+1	1	docs/serialization.md
+2	2	docs/testing.md
+2	2	docs/transient.md
+
+commit 00d4b983d1cfeaff39dcf75c8284e1f8ce20a9b7
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-06-06 18:37:35 -0400
+
+    Rename packages to apache names
+
+5	5	README.md
+3	3	docs/row-hasher.md
+1	1	docs/table-optimization.md
+1	1	docs/transient.md
+16	15	modules/accumulo/pom.xml
+7	7	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/cmds/CompactTransient.java
+4	4	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/cmds/OptimizeTable.java
+1	1	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/AccumuloExport.java
+5	5	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/AccumuloExporter.java
+4	4	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/DifferenceExport.java
+6	7	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/ReplicationExport.java
+1	1	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/SharedBatchWriter.java
+1	1	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/export/TableInfo.java
+8	8	modules/accumulo/src/main/java/{io => org/apache}/fluo/recipes/accumulo/ops/TableOperations.java
+4	4	modules/accumulo/src/test/java/{io => org/apache}/fluo/recipes/accumulo/export/DifferenceExportTest.java
+2	2	modules/accumulo/src/test/resources/log4j.properties
+9	13	modules/core/pom.xml
+7	7	modules/core/src/main/java/{io => org/apache}/fluo/recipes/common/Pirtos.java
+2	2	modules/core/src/main/java/{io => org/apache}/fluo/recipes/common/RowRange.java
+5	5	modules/core/src/main/java/{io => org/apache}/fluo/recipes/common/TransientRegistry.java
+4	4	modules/core/src/main/java/{io => org/apache}/fluo/recipes/data/RowHasher.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/Export.java
+13	13	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/ExportBucket.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/ExportEntry.java
+6	6	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/ExportObserver.java
+9	9	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/ExportQueue.java
+2	2	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/Exporter.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/export/SequencedExport.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/impl/BucketUtil.java
+19	19	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/CollisionFreeMap.java
+5	5	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/CollisionFreeMapObserver.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/Combiner.java
+2	2	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/NullUpdateObserver.java
+1	1	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/Update.java
+3	3	modules/core/src/main/java/{io => org/apache}/fluo/recipes/map/UpdateObserver.java
+4	3	modules/core/src/main/java/{io => org/apache}/fluo/recipes/serialization/SimpleSerializer.java
+15	4	modules/core/src/main/java/{io => org/apache}/fluo/recipes/transaction/LogEntry.java
+3	3	modules/core/src/main/java/{io => org/apache}/fluo/recipes/transaction/RecordingTransaction.java
+82	8	modules/core/src/main/java/{io => org/apache}/fluo/recipes/transaction/RecordingTransactionBase.java
+3	3	modules/core/src/main/java/{io => org/apache}/fluo/recipes/transaction/TxLog.java
+10	10	modules/core/src/test/java/{io => org/apache}/fluo/recipes/common/TestGrouping.java
+3	3	modules/core/src/test/java/{io => org/apache}/fluo/recipes/common/TransientRegistryTest.java
+2	2	modules/core/src/test/java/{io => org/apache}/fluo/recipes/data/RowHasherTest.java
+3	3	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/DocumentLoader.java
+6	6	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/DocumentObserver.java
+4	4	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/ExportBufferIT.java
+5	5	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/ExportQueueIT.java
+15	15	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/ExportTestBase.java
+2	2	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/GsonSerializer.java
+3	3	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/OptionsTest.java
+1	1	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/RefInfo.java
+1	1	modules/core/src/test/java/{io => org/apache}/fluo/recipes/export/RefUpdates.java
+18	18	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/BigUpdateIT.java
+16	16	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/CollisionFreeMapIT.java
+3	3	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/DocumentLoader.java
+5	5	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/DocumentObserver.java
+3	3	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/OptionsTest.java
+5	5	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/SplitsTest.java
+2	2	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/TestSerializer.java
+1	1	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/WordCountCombiner.java
+4	4	modules/core/src/test/java/{io => org/apache}/fluo/recipes/map/WordCountObserver.java
+10	10	modules/core/src/test/java/{io => org/apache}/fluo/recipes/transaction/RecordingTransactionTest.java
+2	2	modules/core/src/test/resources/log4j.properties
+7	7	modules/kryo/pom.xml
+3	3	modules/kryo/src/main/java/{io => org/apache}/fluo/recipes/kryo/KryoSimplerSerializer.java
+4	4	modules/kryo/src/test/java/{io => org/apache}/fluo/recipes/serialization/KryoSimpleSerializerTest.java
+17	21	modules/spark/pom.xml
+3	3	modules/spark/src/main/java/{io => org/apache}/fluo/recipes/spark/AccumuloRangePartitioner.java
+8	8	modules/spark/src/main/java/{io => org/apache}/fluo/recipes/spark/FluoSparkHelper.java
+1	1	modules/spark/src/main/java/{io => org/apache}/fluo/recipes/spark/FluoSparkTestUtil.java
+6	6	modules/spark/src/test/java/{io => org/apache}/fluo/recipes/spark/FluoSparkHelperIT.java
+23	20	modules/test/pom.xml
+7	7	modules/test/src/main/java/{io => org/apache}/fluo/recipes/test/AccumuloExportITBase.java
+11	11	modules/test/src/main/java/{io => org/apache}/fluo/recipes/test/FluoITHelper.java
+5	5	modules/test/src/main/java/{io => org/apache}/fluo/recipes/test/Hex.java
+10	10	modules/test/src/test/java/{io => org/apache}/fluo/recipes/test/export/AccumuloExporterIT.java
+16	16	modules/test/src/test/java/{io => org/apache}/fluo/recipes/test/export/AccumuloReplicatorIT.java
+2	2	modules/test/src/test/java/{io => org/apache}/fluo/recipes/test/export/TestExport.java
+2	2	modules/test/src/test/resources/log4j.properties
+33	26	pom.xml
+
+commit 9554c3c5620fddf3fb2daccb595e2370d96bf0f1
+Merge: 5dd0e2d 247bed9
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-05-27 18:23:55 -0400
+
+    Merge pull request #77 from mikewalch/spark161
+    
+    Upgrade Spark to 1.5.2
+
+commit 247bed9b8a05eb14aaf083a53d9bd1d03cd6719f
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-05-25 17:10:05 -0400
+
+    Upgrade Spark to 1.5.2
+
+1	1	pom.xml
+
+commit 5dd0e2dd3f75cb14723422a7cd729885bc676899
+Merge: ac876a2 0dd5dea
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-05-13 16:20:30 -0400
+
+    Merge pull request #76 from keith-turner/ct-retry
+    
+    made compact transient command retry when calling compact throws an e¡­
+
+commit 0dd5deaa70df56abac172608a06404c5eaa9e2a3
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-05-13 15:28:26 -0400
+
+    made compact transient command retry when calling compact throws an exception
+
+14	13	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/CompactTransient.java
+
+commit ac876a2016de9c3ce28d19e7b9740f436e2bae83
+Merge: dd1c373 0c6b8cc
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-05-12 15:56:14 -0400
+
+    Merge pull request #75 from keith-turner/cont-row
+    
+    construct exportQ row that falls in bucket
+
+commit 0c6b8ccd6bebcecf73096054f3085ab0868fb758
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-05-12 15:09:38 -0400
+
+    construct exportQ row that falls in bucket
+
+11	6	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+
+commit dd1c37313d272ff7647040e43ed4261c70939a9b
+Merge: 8be2177 442e521
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-05-12 12:53:03 -0400
+
+    Merge pull request #74 from keith-turner/fr-73
+    
+    fixes #73 allow different sleep times for ranges
+
+commit 442e521d740068f48589b3b015a18e4f530a2aa5
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-05-11 12:57:10 -0400
+
+    fixes #73 allow different sleep times for ranges
+
+22	6	docs/transient.md
+88	20	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/CompactTransient.java
+8	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+27	0	modules/core/src/main/java/io/fluo/recipes/common/RowRange.java
+
+commit 8be21778b96f4e0fbaa6dda0589105b9d4cafcd3
+Merge: c41ee42 94bd602
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-05-11 15:48:06 -0400
+
+    Merge pull request #71 from keith-turner/fr-70
+    
+    fixes #70 lowered default buffer sizes and added continuance to CFM a¡­
+
+commit 94bd602a8ffe0f71e5f67c48c2bc6308e7824499
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-05-06 19:39:36 -0400
+
+    fixes #70 lowered default buffer sizes and added continuance to CFM and exportQ
+
+31	2	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+18	4	modules/core/src/main/java/io/fluo/recipes/export/ExportObserver.java
+1	1	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+35	5	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+14	13	modules/core/src/test/java/io/fluo/recipes/map/BigUpdateIT.java
+
+commit c41ee4291138f579ae492dc7655be75d5442a9ce
+Merge: c99478e b840d5c
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-05-10 11:57:30 -0400
+
+    Merge pull request #72 from keith-turner/fr-69
+    
+    fixes #69 make sleep time a function of compact time
+
+commit b840d5c99b1e0a0ba1f3b7df3025bdd9ca7154b0
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-05-09 17:02:30 -0400
+
+    fixes #69 make sleep time a function of compact time
+
+8	5	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/CompactTransient.java
+3	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+
+commit c99478ef96aa8f24f77e1ada8862e61f9e7f6117
+Merge: a65d414 2604eea
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-04-28 18:34:28 -0400
+
+    Merge pull request #68 from keith-turner/fr-67
+    
+    closes #67 made it possible to create less tablets than buckets
+
+commit 2604eea6ae01e22f71c5cc61d97d73328221d4d9
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-04-21 17:43:12 -0400
+
+    closes #67 made it possible to create less tablets than buckets
+
+11	3	docs/cfm.md
+7	2	docs/export-queue.md
+30	3	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+32	4	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+50	0	modules/core/src/test/java/io/fluo/recipes/export/OptionsTest.java
+50	0	modules/core/src/test/java/io/fluo/recipes/map/OptionsTest.java
+6	3	modules/core/src/test/java/io/fluo/recipes/map/SplitsTest.java
+1	1	modules/test/src/test/java/io/fluo/recipes/test/export/AccumuloExporterIT.java
+
+commit a65d414e9b7695c0f476a82a5d51a1b5b1e77ad6
+Merge: 393bbd4 bb1055f
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-04-13 12:49:37 -0400
+
+    Merge pull request #66 from mikewalch/docs-fix
+    
+    Add space after colon in link labels. Needed for publishing documenta¡­
+
+commit bb1055fe6cac64be497f702b5b24ee4af13a263b
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-04-13 12:09:36 -0400
+
+    Add space after colon in link labels. Needed for publishing documentation on Fluo website
+
+2	2	README.md
+3	3	docs/accumulo-export.md
+1	3	docs/cfm.md
+3	3	docs/export-queue.md
+2	2	docs/row-hasher.md
+0	1	docs/serialization.md
+2	2	docs/testing.md
+2	2	docs/transient.md
+
+commit 393bbd4f6763a0420512fc6ff87a69e8a2200e2a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-29 11:59:21 -0400
+
+    [maven-release-plugin] prepare for next development iteration
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit 0c86f6e152047b2f70045a809c5db8f5d7e3e899
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-29 11:59:21 -0400
+
+    [maven-release-plugin] prepare release fluo-recipes-parent-1.0.0-beta-2
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+1	1	modules/kryo/pom.xml
+1	1	modules/spark/pom.xml
+1	1	modules/test/pom.xml
+2	2	pom.xml
+
+commit df008a6a6b87d088b5089ca15faac066b482a0be
+Merge: e2a05ef 36fd64b
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-22 12:58:04 -0400
+
+    Merge pull request #64 from keith-turner/cfm_startts
+    
+    Use TX.startTs instead of UUID for CFM updates
+
+commit 36fd64ba9008c9fbb402cff9ea042a6870a12aae
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-03-21 18:15:48 -0400
+
+    Use TX.startTs instead of UUID for CFM updates
+
+15	13	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+
+commit e2a05efb1e6369e50b03cce1e82cf583d9cbb9b2
+Merge: f506a15 5927c1e
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-03-16 16:20:18 -0400
+
+    Merge pull request #63 from mikewalch/update-parent
+    
+    Updated fluo-io-parent to version 2
+
+commit 5927c1efcd2dce436665f3fcbbc74c3afed3be3b
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-16 13:06:08 -0400
+
+    Updated fluo-io-parent to version 2
+
+1	1	pom.xml
+
+commit f506a1583f28a808ecb84621bfc5e1fa52cf38fd
+Merge: 1882f16 ee8d01d
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-10 14:06:24 -0500
+
+    Merge pull request #62 from keith-turner/fr-53
+    
+    fixes #53 and moved Kryo code out of core
+
+commit ee8d01d922d2a1327b3b3d1afbdcf43fc98823d5
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-03-09 15:42:02 -0500
+
+    fixes #53 and moved Kryo code out of core
+
+51	0	README.md
+57	0	docs/accumulo-export.md
+4	2	docs/export-queue.md
+4	2	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+1	1	modules/core/src/main/java/io/fluo/recipes/serialization/SimpleSerializer.java
+3	0	modules/core/src/test/java/io/fluo/recipes/export/ExportTestBase.java
+41	0	modules/core/src/test/java/io/fluo/recipes/export/GsonSerializer.java
+10	5	modules/core/src/test/java/io/fluo/recipes/map/BigUpdateIT.java
+49	0	modules/kryo/pom.xml
+2	2	modules/{core/src/main/java/io/fluo/recipes/serialization => kryo/src/main/java/io/fluo/recipes/kryo}/KryoSimplerSerializer.java
+1	0	modules/{core => kryo}/src/test/java/io/fluo/recipes/serialization/KryoSimpleSerializerTest.java
+5	0	modules/test/pom.xml
+3	3	modules/test/src/test/java/io/fluo/recipes/test/export/AccumuloExporterIT.java
+3	3	modules/test/src/test/java/io/fluo/recipes/test/export/AccumuloReplicatorIT.java
+6	0	pom.xml
+
+commit 1882f161a355b3b843cf6aaaa763edf08133208a
+Merge: da098ea 3b6ac6e
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-08 10:33:26 -0500
+
+    Merge pull request #60 from keith-turner/kryo-bug
+    
+    fixed Kruo bug
+
+commit 3b6ac6e5564515a691bd81091dbb07ddfea78cfd
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-03-07 18:09:21 -0500
+
+    fixed Kruo bug
+
+1	1	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+
+commit da098eac13cc0501f4015b71bc0037eaf5d90daa
+Merge: 0ad4f91 981e9ac
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-03-07 15:08:38 -0500
+
+    Merge pull request #59 from mikewalch/parent-pom
+    
+    Closes #58 - Make Fluo recipes use fluo-io-parent pom
+
+commit 981e9accb7260767fef4c6fa906d2e3031a12ec4
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-03 18:19:00 -0500
+
+    Closes #58 - Make Fluo recipes use fluo-io-parent pom
+
+0	225	contrib/fluo-checks.xml
+0	352	contrib/fluo-eclipse-style.xml
+3	2	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/DifferenceExport.java
+2	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/ReplicationExport.java
+3	4	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/SharedBatchWriter.java
+2	2	modules/core/src/main/java/io/fluo/recipes/common/Pirtos.java
+4	3	modules/core/src/main/java/io/fluo/recipes/common/RowRange.java
+3	3	modules/core/src/main/java/io/fluo/recipes/export/Export.java
+4	8	modules/core/src/main/java/io/fluo/recipes/export/ExportObserver.java
+1	1	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+15	4	modules/core/src/main/java/io/fluo/recipes/transaction/LogEntry.java
+1	1	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+1	0	modules/core/src/test/resources/log4j.properties
+8	2	modules/spark/src/main/java/io/fluo/recipes/spark/FluoSparkHelper.java
+2	7	modules/test/src/main/java/io/fluo/recipes/test/AccumuloExportITBase.java
+4	2	modules/test/src/main/java/io/fluo/recipes/test/FluoITHelper.java
+41	439	pom.xml
+
+commit 0ad4f9156bb68e622116cabfd49f755b8d218b51
+Merge: 9b7ffc5 82dabae
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-07 12:27:58 -0500
+
+    Merge pull request #56 from mikewalch/spark-helper
+    
+    Created SparkHelper and FluoITHelper.  Modified several ITs to use
+
+commit 82dabaea0b9aaebad1ee22367f26fbf45b893024
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-03-04 18:46:01 -0500
+
+    Moved functionality from FluoITHelper to AccumuloExportITBase
+
+2	0	README.md
+11	0	docs/testing.md
+20	31	modules/spark/src/test/java/io/fluo/recipes/spark/FluoSparkHelperIT.java
+4	5	modules/test/pom.xml
+240	0	modules/test/src/main/java/io/fluo/recipes/test/AccumuloExportITBase.java
+51	155	modules/test/src/main/java/io/fluo/recipes/test/FluoITHelper.java
+1	1	modules/test/src/main/java/io/fluo/recipes/test/Hex.java
+14	14	modules/test/src/test/java/io/fluo/recipes/test/export/AccumuloExporterIT.java
+13	13	modules/test/src/test/java/io/fluo/recipes/test/export/AccumuloReplicatorIT.java
+0	53	modules/test/src/test/java/io/fluo/recipes/test/export/ExportITBase.java
+
+commit 63be6a4c8d531f97d92e83212f96f1afd82d7f23
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-02-17 18:09:36 -0500
+
+    Created SparkHelper and FluoITHelper.  Modified several ITs to use
+    FluoITHelper and moved them to new test module.
+
+0	10	modules/accumulo/pom.xml
+0	88	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+8	11	modules/accumulo/src/test/resources/log4j.properties
+1	1	modules/core/pom.xml
+3	3	modules/core/src/main/java/io/fluo/recipes/data/RowHasher.java
+0	1	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+1	1	modules/core/src/test/resources/log4j.properties
+74	0	modules/spark/pom.xml
+52	0	modules/spark/src/main/java/io/fluo/recipes/spark/AccumuloRangePartitioner.java
+300	0	modules/spark/src/main/java/io/fluo/recipes/spark/FluoSparkHelper.java
+41	0	modules/spark/src/main/java/io/fluo/recipes/spark/FluoSparkTestUtil.java
+92	0	modules/spark/src/test/java/io/fluo/recipes/spark/FluoSparkHelperIT.java
+21	0	modules/spark/src/test/resources/log4j.properties
+69	0	modules/test/pom.xml
+435	0	modules/test/src/main/java/io/fluo/recipes/test/FluoITHelper.java
+98	0	modules/test/src/main/java/io/fluo/recipes/test/Hex.java
+24	14	modules/{accumulo/src/test/java/io/fluo/recipes/accumulo => test/src/test/java/io/fluo/recipes/test}/export/AccumuloExporterIT.java
+23	11	modules/{accumulo/src/test/java/io/fluo/recipes/accumulo => test/src/test/java/io/fluo/recipes/test}/export/AccumuloReplicatorIT.java
+53	0	modules/test/src/test/java/io/fluo/recipes/test/export/ExportITBase.java
+2	1	modules/{accumulo/src/test/java/io/fluo/recipes/accumulo => test/src/test/java/io/fluo/recipes/test}/export/TestExport.java
+29	0	modules/test/src/test/resources/log4j.properties
+30	2	pom.xml
+
+commit 9b7ffc551fba18e441cadb9c72998a6baef2833e
+Merge: edbb2fe 9d97dba
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-03-01 11:20:29 -0500
+
+    Merge pull request #57 from mikewalch/sw-upgrade
+    
+    Upgraded Accumulo to 1.7.1 and Zookeeper to 3.4.8
+
+commit 9d97dbaca2659a417bccf2c83fc2dfcc8c6abf13
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-03-01 10:25:32 -0500
+
+    Upgraded Accumulo to 1.7.1 and Zookeeper to 3.4.8
+
+4	3	pom.xml
+
+commit edbb2feecb40d89b77591df372386b8bf18670cf
+Merge: 4f1a559 c98a2a1
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-02-19 09:54:46 -0500
+
+    Merge pull request #55 from ctubbsii/fix-warnings
+    
+    Fix warnings (with formatting)
+
+commit c98a2a1276536a3398c55f55e738a4a71a4eeeac
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2016-02-18 16:50:59 -0500
+
+    Fix additional warnings
+    
+    * Fix redundant generic types according to contrib guide
+    * Fix imports according to contrib guide
+
+3	3	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/SharedBatchWriter.java
+9	10	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+1	2	modules/core/src/main/java/io/fluo/recipes/common/TransientRegistry.java
+2	2	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+3	3	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+18	18	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+1	2	modules/core/src/test/java/io/fluo/recipes/data/RowHasherTest.java
+
+commit 64a7b1e2ffd3ecec082ce64a924fa64a0d1f8e40
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2016-02-18 14:51:16 -0500
+
+    Fix warnings (with formatting)
+    
+    * fix javadoc problems
+    * fix m2e problems (and move to profile)
+    * fix generics
+
+9	9	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/DifferenceExport.java
+11	11	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+4	3	modules/core/src/main/java/io/fluo/recipes/common/TransientRegistry.java
+117	76	pom.xml
+
+commit 4f1a559ee459626468aae53a64c408032b8624e6
+Merge: 908b621 6ce06cf
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-02-11 12:05:02 -0500
+
+    Merge pull request #51 from mikewalch/accumulo-export
+    
+    AccumuloExporter now exports AccumuloExports to allow different value¡­
+
+commit 6ce06cf55a4f4d6b8d1d3a627ff5f41599f8fdb3
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-02-02 13:44:17 -0500
+
+    AccumuloExporter now exports AccumuloExports to allow different values types to share the export queue.
+    Created DifferenceExport class which creates mutations by comparing the old and new data.  Created unit
+    test for DifferenceExport class.
+
+35	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExport.java
+9	7	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+98	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/DifferenceExport.java
+23	7	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/{AccumuloReplicator.java => ReplicationExport.java}
+5	5	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+12	11	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+104	0	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/DifferenceExportTest.java
+12	3	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/{TestExporter.java => TestExport.java}
+0	1	modules/core/src/main/java/io/fluo/recipes/common/TransientRegistry.java
+3	3	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+1	2	modules/core/src/main/java/io/fluo/recipes/map/Combiner.java
+1	1	modules/core/src/main/java/io/fluo/recipes/map/Update.java
+1	1	modules/core/src/test/java/io/fluo/recipes/map/BigUpdateIT.java
+2	3	modules/core/src/test/java/io/fluo/recipes/map/WordCountCombiner.java
+1	1	modules/core/src/test/java/io/fluo/recipes/map/WordCountObserver.java
+
+commit 908b621da6af59f7d522bf5ec732e273ee7e7ef6
+Merge: 6e98054 821d4f2
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-02-04 11:28:31 -0500
+
+    Merge pull request #52 from keith-turner/fr-45
+    
+    fixes #45 Added row hasher recipe
+
+commit 821d4f231dc51949fe683d24b822b3d28c1f18c4
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-02-01 18:44:16 -0500
+
+    fixes #45 Added row hasher recipe
+
+2	0	README.md
+109	0	docs/row-hasher.md
+4	2	docs/table-optimization.md
+2	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/OptimizeTable.java
+0	19	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+2	1	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+20	0	modules/core/src/main/java/io/fluo/recipes/common/Pirtos.java
+134	0	modules/core/src/main/java/io/fluo/recipes/data/RowHasher.java
+62	0	modules/core/src/test/java/io/fluo/recipes/data/RowHasherTest.java
+
+commit 6e98054bee1eab9a37df189f7a870e8a5744c952
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-01-13 18:32:34 -0500
+
+    [maven-release-plugin] prepare for next development iteration
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+2	2	pom.xml
+
+commit dd71255a8fdab81f379878c47244baad2bf456c5
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-01-13 18:32:24 -0500
+
+    [maven-release-plugin] prepare release 1.0.0-beta-1
+
+1	1	modules/accumulo/pom.xml
+1	1	modules/core/pom.xml
+2	2	pom.xml
+
+commit 88dbcf89073bab4fa5e91036a8c1d9b44a121816
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-01-13 18:09:45 -0500
+
+    add release plugin to pom
+
+91	0	pom.xml
+
+commit d40ee15b0c7762d81034a6bbb17555e5b2d76fc8
+Merge: 838fe68 9696c65
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-01-13 17:45:40 -0500
+
+    Merge pull request #48 from keith-turner/beta-2
+    
+    set fluo version to beta-2
+
+commit 838fe680663396778ebaff753ac3726608070563
+Merge: af807b8 89d9b9a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-01-13 17:43:30 -0500
+
+    Merge pull request #47 from keith-turner/optimize-command
+    
+    Added helper command for optimizing table
+
+commit af807b8129981336e4166a9efd48379ff771f7ef
+Merge: 96858d0 cb54918
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2016-01-13 17:41:56 -0500
+
+    Merge pull request #46 from keith-turner/fr-44
+    
+    Fix issues with split points.
+
+commit 9696c6590ca970c727b3e7d44f39ff7e1f587b4d
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-01-13 14:39:22 -0500
+
+    set fluo version to beta-2
+
+1	1	pom.xml
+
+commit 89d9b9aa0973efe5d566a39fcf9f768f8a5fb120
+Author: Keith Turner <kturner@apache.org>
+Date:   2016-01-13 14:24:19 -0500
+
+    Added helper command for optimizing table
+
+21	1	docs/table-optimization.md
+1	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/CompactTransient.java
+38	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/OptimizeTable.java
+
+commit cb54918f5e033ffaf55ab10e743db35b287e6e70
+Author: Keith Turner <keith@deenlo.com>
+Date:   2016-01-07 22:17:09 -0500
+
+    Fix issues with split points.
+    
+     * Created a split per bucket.
+     * Removed 0 split point because it has not data and throws off balancing
+     * Modfied export queue notification so that it does not go into previous tablet
+
+4	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+1	1	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+8	3	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+2	3	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+0	25	modules/core/src/main/java/io/fluo/recipes/impl/BucketUtil.java
+2	4	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+1	50	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+71	0	modules/core/src/test/java/io/fluo/recipes/map/SplitsTest.java
+1	1	pom.xml
+
+commit 96858d04be0bce16310ccc77ad406cca7d0065e2
+Merge: b1a5fd8 b36b4c6
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-12-31 12:57:12 -0500
+
+    Merge pull request #43 from keith-turner/fr-42
+    
+    fixes #42 encoded export Q seq# as binary
+
+commit b36b4c61abb8c8d10fb2cb34e76e9ae708bc4cc7
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-12-30 15:48:14 -0500
+
+    fixes #42 encoded export Q seq# as binary
+
+22	13	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+0	1	modules/core/src/main/java/io/fluo/recipes/export/ExportEntry.java
+
+commit b1a5fd809cbb056a790a64fe2a56d17def2662c2
+Merge: cb9dce9 4acaa46
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-12-17 17:38:22 -0500
+
+    Merge pull request #41 from keith-turner/fr-39
+    
+    fixes #39 Moved serialized key to row for CFM and export Queue
+
+commit 4acaa46693bed8ced3423372616a65535e1f3f3e
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-12-16 14:54:08 -0500
+
+    fixes #39 Moved serialized key to row for CFM and export Queue
+
+22	22	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+75	86	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+
+commit cb9dce99f3fb7ff3817d59589082553bf71ecc9c
+Merge: e1b778f 6ba945e
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-12-15 18:08:04 -0500
+
+    Merge pull request #40 from keith-turner/adjust-splits
+    
+    increase the number of splits generated by default
+
+commit 6ba945eaba7f5734ab3490bcb89c133bf50a0861
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-12-14 15:12:15 -0500
+
+    increase the number of splits generated by default
+
+1	1	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+2	2	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+7	3	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+
+commit e1b778ff94c1b4b5e158cfb672cfc41d3da0b3a5
+Merge: 9547638 49f5b0d
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-12-11 18:53:50 -0500
+
+    Merge pull request #38 from keith-turner/compact_transient_cmd
+    
+    added compact transient command
+
+commit 49f5b0d862d053b56d54f0df3c8458fc03283d96
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-12-10 18:55:37 -0500
+
+    added compact transient command
+
+11	1	docs/transient.md
+62	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/cmds/CompactTransient.java
+4	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/SharedBatchWriter.java
+11	3	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+
+commit 9547638b935bc19667e75721ec9a667b30314cad
+Merge: d47208c ec8fe2c
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-12-02 14:15:34 -0500
+
+    Merge pull request #37 from keith-turner/fr-20
+    
+    fixes #20 Tablet grouping is now configured as part of table optimiza¡­
+
+commit ec8fe2c5b99c478ac1a3797bfd78faea861270e4
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-11-25 22:01:15 -0500
+
+    fixes #20 Tablet grouping is now configured as part of table optimizations
+
+28	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+1	1	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+3	1	modules/core/src/main/java/io/fluo/recipes/common/Pirtos.java
+12	4	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+13	7	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+93	0	modules/core/src/test/java/io/fluo/recipes/common/TestGrouping.java
+4	4	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+
+commit d47208cc1412e919f417d9e6c48f3a3f4fed44a0
+Merge: b4e2590 874bd8d
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-12-01 11:19:48 -0500
+
+    Merge pull request #36 from keith-turner/webindex-21
+    
+    Make table optimizations easier to use
+
+commit 874bd8d5ea1a8e6248e784240f1cd02e82547f53
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-11-24 22:19:03 -0500
+
+    Make table optimizations easier to use
+
+13	10	docs/table-optimization.md
+28	7	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+13	6	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+3	4	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+3	7	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+8	2	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+45	4	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+48	0	modules/core/src/main/java/io/fluo/recipes/impl/BucketUtil.java
+62	14	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+45	0	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+
+commit b4e259024fd34101625a199333a4a746c854a52b
+Merge: dffcacd 6add87c
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-11-12 12:10:15 -0500
+
+    Merge pull request #35 from keith-turner/fr-34
+    
+    fixes #34 Updated kryo docs with excplicit ids
+
+commit 6add87c9644c8605b20df1a6237cddc1f1dc7a31
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-11-12 11:26:28 -0500
+
+    fixes #34 Updated kryo docs with excplicit ids
+
+4	6	docs/serialization.md
+
+commit dffcacdcd7ac7ed3821e6ffaed262bb3500859a0
+Merge: 5aefe88 d2bda34
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-11-06 17:25:24 -0500
+
+    Merge pull request #33 from keith-turner/fr-18
+    
+    closes #18 set memory limit on exports
+
+commit 5aefe88d66cec8dd264057166727cc4d01ddde1b
+Merge: 28321e3 fb86dbc
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-11-06 17:25:08 -0500
+
+    Merge pull request #31 from keith-turner/cfm_memory_limit2
+    
+    set limit on CFM mem usage
+
+commit fb86dbceb6246fade11fedb2bc528d886b41543c
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-11-03 21:31:22 -0500
+
+    set limit on CFM mem usage
+
+38	20	docs/cfm.md
+131	96	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+3	3	modules/core/src/main/java/io/fluo/recipes/map/Combiner.java
+5	5	modules/core/src/main/java/io/fluo/recipes/map/Update.java
+0	150	modules/core/src/test/java/io/fluo/recipes/map/BadCombinerIT.java
+207	0	modules/core/src/test/java/io/fluo/recipes/map/BigUpdateIT.java
+2	2	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+17	17	modules/core/src/test/java/io/fluo/recipes/map/DocumentObserver.java
+3	3	modules/core/src/test/java/io/fluo/recipes/map/WordCountCombiner.java
+
+commit d2bda34606f23de0e27832cb961e2d596e915cf7
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-11-06 16:04:40 -0500
+
+    closes #32 set memory limit on exports
+
+2	13	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+15	4	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+52	8	modules/core/src/main/java/io/fluo/recipes/export/ExportObserver.java
+33	0	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+1	1	modules/core/src/test/java/io/fluo/recipes/export/DocumentObserver.java
+105	0	modules/core/src/test/java/io/fluo/recipes/export/ExportBufferIT.java
+2	220	modules/core/src/test/java/io/fluo/recipes/export/ExportQueueIT.java
+282	0	modules/core/src/test/java/io/fluo/recipes/export/ExportTestBase.java
+
+commit 28321e3108a2624838cfce807d41387f2f2e8428
+Merge: 22d58c2 f2fed66
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-11-04 12:59:04 -0500
+
+    Merge pull request #29 from keith-turner/cfm_config_doc_fix
+    
+    fix documentation mistake
+
+commit f2fed66a024ee55cd584e33cb5d7ef27a7ea727e
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-11-03 18:52:35 -0500
+
+    fix documentation mistake
+
+2	2	docs/cfm.md
+
+commit 22d58c2401ba2c2ed317da0e251b8c39e4a5a12c
+Merge: 5ad58b7 f7af635
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-11-03 15:44:50 -0500
+
+    Merge pull request #27 from keith-turner/document_cfm
+    
+    Documented collision free map
+
+commit f7af6358b681b5270b6aff0aedfa637428faea44
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-29 23:17:37 -0400
+
+    Documented collision free map
+
+2	0	README.md
+217	0	docs/cfm.md
+21	0	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+5	0	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMapObserver.java
+8	0	modules/core/src/main/java/io/fluo/recipes/map/Combiner.java
+5	1	modules/core/src/main/java/io/fluo/recipes/map/UpdateObserver.java
+10	4	modules/core/src/test/java/io/fluo/recipes/map/DocumentObserver.java
+0	1	modules/core/src/test/java/io/fluo/recipes/map/WordCountObserver.java
+
+commit 5ad58b7635e33996a7e61d3c78d81a18b7c65594
+Merge: 6dedeae ff9f557
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-30 15:08:50 -0400
+
+    Merge pull request #25 from keith-turner/cfm-init
+    
+    Added code to to enable initializing a CFM
+
+commit ff9f557e00cc9f0fc7462b154996081559a563c5
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-10-27 19:10:53 -0400
+
+    Added code to to enable initializing a CFM
+
+1	1	.travis.yml
+51	1	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+25	4	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+5	4	modules/core/src/test/java/io/fluo/recipes/serialization/KryoSimpleSerializerTest.java
+17	0	pom.xml
+
+commit 6dedeaeef5be9f2a3c8b23bc689f11517e7a8ef8
+Merge: 64cbc5f c87cc5c
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-29 16:24:01 -0400
+
+    Merge pull request #24 from keith-turner/cfm-delete
+    
+    Added delete support to collision free map
+
+commit c87cc5cecbbadc326cc3cb7e4c4d06d8160ff578
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-28 22:05:18 -0400
+
+    Added delete support to collision free map
+
+17	13	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+1	2	modules/core/src/main/java/io/fluo/recipes/map/Combiner.java
+2	2	modules/core/src/test/java/io/fluo/recipes/map/BadCombinerIT.java
+5	7	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+6	3	modules/core/src/test/java/io/fluo/recipes/map/WordCountCombiner.java
+
+commit 64cbc5f9817229f5afd340521dad301a9e9b214c
+Merge: 8f91580 202c2e7
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-27 16:28:34 -0400
+
+    Merge pull request #23 from keith-turner/map_bug
+    
+    made CFM tolerant of Combiner mutating cur val
+
+commit 202c2e7b9eec8c95ffd27eda4f587445cc4dce49
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-10-23 16:01:53 -0400
+
+    made CFM tolerant of Combiner mutating cur val
+
+6	1	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+150	0	modules/core/src/test/java/io/fluo/recipes/map/BadCombinerIT.java
+
+commit 8f915808b59629cb1cd29b7a0a06937bbbf1579c
+Merge: 3e74059 79a7ff5
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-23 10:58:21 -0400
+
+    Merge pull request #22 from keith-turner/kryo-overhauls
+    
+    Multiple serialization changes
+
+commit 79a7ff5edbed0c874068ca44645370749bd7d4d9
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-10-21 19:36:53 -0400
+
+    Multiple serialization changes
+    
+     * Centralized Serialization configuration instead of each recipe having serialization config.
+     * Added configurable KryoFactory support
+     * Documented serialization
+     * Made Kryo serialization record root class, this allows deserialization of a sub type.
+
+2	0	README.md
+76	0	docs/serialization.md
+2	8	modules/core/src/main/java/io/fluo/recipes/export/ExportObserver.java
+3	25	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+3	25	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+74	15	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+32	0	modules/core/src/main/java/io/fluo/recipes/serialization/SimpleSerializer.java
+4	2	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+4	0	modules/core/src/test/java/io/fluo/recipes/map/TestSerializer.java
+
+commit 3e74059c90654c04bee42529f6cf84ab09bf3fa7
+Merge: fe05600 b995f2f
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-10-21 10:55:33 -0400
+
+    Merge pull request #17 from keith-turner/table-ops
+    
+    Added common code for performing standard Accumulo operations on the ¡­
+
+commit b995f2f7928dfca60eb13ba6efd98b02f09ba2b3
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-09-22 23:10:29 -0400
+
+    Added common code for performing standard Accumulo operations on the Fluo table.
+
+9	0	README.md
+11	0	docs/export-queue.md
+33	0	docs/table-optimization.md
+54	0	docs/transient.md
+0	1	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/SharedBatchWriter.java
+79	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/ops/TableOperations.java
+7	3	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+9	4	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+6	3	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+3	0	modules/accumulo/src/test/resources/log4j.properties
+60	0	modules/core/src/main/java/io/fluo/recipes/common/Pirtos.java
+53	0	modules/core/src/main/java/io/fluo/recipes/common/RowRange.java
+79	0	modules/core/src/main/java/io/fluo/recipes/common/TransientRegistry.java
+23	1	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+3	3	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+21	1	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+47	0	modules/core/src/test/java/io/fluo/recipes/common/TransientRegistryTest.java
+
+commit fe056007c51b016dac61014494f3829aa3f75e8f
+Merge: fba5de9 678bffe
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-21 13:33:26 -0400
+
+    Merge pull request #14 from mikewalch/replicator
+    
+    Created AccumuloReplicator which is an implementation of AccumuloExpo¡­
+
+commit 678bffeb55f8c57afb2a0e341150b09191868939
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-16 15:07:04 -0400
+
+    Created AccumuloReplicator which is an implementation of AccumuloExporter
+    that uses a TxLog to replicate updates from a Fluo transaction to Accumulo.
+    Created AccumuloReplicatorIT which shares code with AccumuloExporterIT
+    in AccumuloITBase.  Also, made KryoSimpleSerializer support
+    serialization of Bytes.
+
+3	3	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+64	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloReplicator.java
+5	61	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+83	0	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloITBase.java
+132	0	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloReplicatorIT.java
+4	0	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+7	8	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+42	0	modules/core/src/test/java/io/fluo/recipes/serialization/KryoSimpleSerializerTest.java
+6	5	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+
+commit fba5de98fb0846ba12144b06abe23deb6d1898f8
+Merge: cacb1ea 54522ec
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-18 17:00:22 -0400
+
+    Merge pull request #13 from keith-turner/export-q-docs
+    
+    Document export queue
+
+commit 54522ecef18df5a1b6182c5fbd023726557e98ac
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-17 18:06:46 -0400
+
+    Document export queue
+
+2	0	README.md
+267	0	docs/export-queue.md
+2	1	docs/recording-tx.md
+34	3	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+
+commit cacb1ea32b854930a804e424cc2ed714e3fa258b
+Merge: 6d30386 f654345
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-17 18:53:39 -0400
+
+    Merge pull request #11 from mikewalch/missingfiles
+    
+    Adding AUTHORS and LICENSE files
+
+commit f65434541e554b6265358ddb713f66b355996a2c
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 17:47:13 -0400
+
+    Adding AUTHORS and LICENSE files
+
+5	0	AUTHORS
+191	0	LICENSE
+
+commit 6d303867d0a090e902a0513dc7dc054c9df68dc7
+Merge: 2a31e46 a0b59b7
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-17 17:10:07 -0400
+
+    Merge pull request #10 from mikewalch/cideploy
+    
+    Enabling TravisCI builds and snapshot deployments.  Added build statu¡­
+
+commit a0b59b77e2b17e05e9f73863b5b3a132590cc4d4
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 16:57:49 -0400
+
+    Fixed formatting issues that was causing build to fail
+
+7	8	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+6	5	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+
+commit a5d9f6beb284a974b7f96942fc7dda9e5c27f812
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 16:46:56 -0400
+
+    Enabling TravisCI builds and snapshot deployments.  Added build status to README.
+
+28	0	.travis.yml
+5	1	README.md
+
+commit 2a31e461816caafeee930ed40da624938ee977ee
+Merge: a23f5a4 aad95c0
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 12:46:24 -0400
+
+    Merge pull request #8 from mikewalch/txr-filter
+    
+    Users can now pass filter function to RecordingTransaction to filter
+
+commit aad95c0b3d7103a941680aa25fc77f51aa143f3a
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-11 12:24:10 -0400
+
+    Users can now pass filter function to RecordingTransaction to filter
+    logs by entry. RecordingTransaction now logs GET operations. Also,
+    improved documentation for recipe.
+
+8	1	README.md
+68	0	docs/recording-tx.md
+91	0	modules/core/src/main/java/io/fluo/recipes/transaction/LogEntry.java
+21	0	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransaction.java
+101	11	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+41	61	modules/core/src/main/java/io/fluo/recipes/transaction/TxLog.java
+92	10	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+
+commit a23f5a45875763dc2848044387261537c848990c
+Merge: ec627cb bdb2247
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 10:19:23 -0400
+
+    Merge pull request #7 from keith-turner/fix_warnings
+    
+    fixed type warnings
+
+commit ec627cb2baf5f02f468985689cedc07474f1f73a
+Merge: 82c3a7b 00b3767
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-17 10:18:06 -0400
+
+    Merge pull request #6 from keith-turner/m2e-ignore
+    
+    Added m2e config to ignore plugins
+
+commit bdb22473d87bcc0cfc2783c488e000eb0607815e
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-09-15 17:56:42 -0400
+
+    fixed type warnings
+
+8	8	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+
+commit 00b376700a67faf0866490887dc8d9654d8b2f89
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-09-15 17:45:11 -0400
+
+    Added m2e config to ignore plugins
+
+0	1	modules/accumulo/pom.xml
+0	1	modules/core/pom.xml
+52	0	pom.xml
+
+commit 82c3a7b185dbb110fd364efeb9fc6eb0dd0e4ed4
+Merge: c8a2c69 4f33892
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-15 16:11:22 -0400
+
+    Merge pull request #5 from keith-turner/overhaul
+    
+    Lots of changes :
+
+commit 4f33892db99f5d1d6c0cee3c76f97b83e09a2fba
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-09-11 22:32:33 -0400
+
+    Lots of changes :
+    
+     * Made export queue use tx startTS
+     * Changed how recipes are configured and used
+     * Partitioned updated data in collision free map so it can easily be compacted
+     * Added get method to collision free map
+
+27	38	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+14	18	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+0	8	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/TestExporter.java
+15	8	modules/core/src/main/java/io/fluo/recipes/export/{ExportQueueOptions.java => Export.java}
+1	14	modules/core/src/main/java/io/fluo/recipes/export/ExportBucket.java
+91	0	modules/core/src/main/java/io/fluo/recipes/export/ExportObserver.java
+120	27	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+5	71	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+28	0	modules/core/src/main/java/io/fluo/recipes/export/SequencedExport.java
+225	65	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+5	5	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMapObserver.java
+24	0	modules/core/src/main/java/io/fluo/recipes/map/Combiner.java
+24	0	modules/core/src/main/java/io/fluo/recipes/map/NullUpdateObserver.java
+42	0	modules/core/src/main/java/io/fluo/recipes/map/Update.java
+29	0	modules/core/src/main/java/io/fluo/recipes/map/UpdateObserver.java
+5	0	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+1	2	modules/core/src/test/java/io/fluo/recipes/export/DocumentLoader.java
+2	2	modules/core/src/test/java/io/fluo/recipes/export/DocumentObserver.java
+47	67	modules/core/src/test/java/io/fluo/recipes/export/ExportQueueIT.java
+138	37	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+30	20	modules/core/src/test/java/io/fluo/recipes/map/DocumentObserver.java
+33	0	modules/core/src/test/java/io/fluo/recipes/map/WordCountCombiner.java
+17	20	modules/core/src/test/java/io/fluo/recipes/map/{WordCountMap.java => WordCountObserver.java}
+10	4	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+
+commit c8a2c693d0a17188d4813b9d5eba5e2b7f5ff1bf
+Merge: 16843f1 9938401
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-11 12:07:33 -0400
+
+    Merge pull request #3 from mikewalch/txrecord
+    
+    Created RecordingTransaction to keep record of all sets and deletes i¡­
+
+commit 9938401e4afe0f0bb70cd5f3c40d4f446aca4a3d
+Author: Mike Walch <mwalch@gmail.com>
+Date:   2015-09-04 16:22:01 -0400
+
+    Created RecordingTransaction to keep record of all sets and deletes in transaction using TxLog
+
+7	5	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+5	3	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/TestExporter.java
+5	0	modules/core/pom.xml
+4	1	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+1	1	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+42	0	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransaction.java
+81	0	modules/core/src/main/java/io/fluo/recipes/transaction/RecordingTransactionBase.java
+98	0	modules/core/src/main/java/io/fluo/recipes/transaction/TxLog.java
+137	0	modules/core/src/test/java/io/fluo/recipes/transaction/RecordingTransactionTest.java
+6	1	pom.xml
+
+commit 16843f1115abe0f23f744ac40ab5bcf412f15f3c
+Author: Keith Turner <kturner@apache.org>
+Date:   2015-09-08 18:44:50 -0400
+
+    Added collision free map and updated serialization code
+
+3	5	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+2	3	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/TestExporter.java
+6	1	modules/core/pom.xml
+6	5	modules/core/src/main/java/io/fluo/recipes/export/{Bucket.java => ExportBucket.java}
+7	7	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+14	16	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+282	0	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMap.java
+47	0	modules/core/src/main/java/io/fluo/recipes/map/CollisionFreeMapObserver.java
+45	0	modules/core/src/main/java/io/fluo/recipes/serialization/KryoSimplerSerializer.java
+4	7	modules/core/src/main/java/io/fluo/recipes/serialization/SimpleSerializer.java
+4	5	modules/core/src/test/java/io/fluo/recipes/export/ExportQueueIT.java
+6	49	modules/core/src/test/java/io/fluo/recipes/export/RefUpdates.java
+259	0	modules/core/src/test/java/io/fluo/recipes/map/CollisionFreeMapIT.java
+12	8	modules/core/src/{main/java/io/fluo/recipes/serialization/StringSerializer.java => test/java/io/fluo/recipes/map/DocumentLoader.java}
+72	0	modules/core/src/test/java/io/fluo/recipes/map/DocumentObserver.java
+40	0	modules/core/src/test/java/io/fluo/recipes/map/TestSerializer.java
+50	0	modules/core/src/test/java/io/fluo/recipes/map/WordCountMap.java
+
+commit 794472cb644800b257853460fc320dddfb8bc0e2
+Author: Keith Turner <keith@deenlo.com>
+Date:   2015-09-03 21:26:33 -0400
+
+    initial commit
+
+8	0	.gitignore
+1	0	README.md
+225	0	contrib/fluo-checks.xml
+352	0	contrib/fluo-eclipse-style.xml
+67	0	modules/accumulo/pom.xml
+91	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/AccumuloExporter.java
+147	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/SharedBatchWriter.java
+32	0	modules/accumulo/src/main/java/io/fluo/recipes/accumulo/export/TableInfo.java
+186	0	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/AccumuloExporterIT.java
+36	0	modules/accumulo/src/test/java/io/fluo/recipes/accumulo/export/TestExporter.java
+29	0	modules/accumulo/src/test/resources/log4j.properties
+54	0	modules/core/pom.xml
+149	0	modules/core/src/main/java/io/fluo/recipes/export/Bucket.java
+22	0	modules/core/src/main/java/io/fluo/recipes/export/ExportEntry.java
+71	0	modules/core/src/main/java/io/fluo/recipes/export/ExportQueue.java
+30	0	modules/core/src/main/java/io/fluo/recipes/export/ExportQueueOptions.java
+97	0	modules/core/src/main/java/io/fluo/recipes/export/Exporter.java
+25	0	modules/core/src/main/java/io/fluo/recipes/serialization/SimpleSerializer.java
+30	0	modules/core/src/main/java/io/fluo/recipes/serialization/StringSerializer.java
+36	0	modules/core/src/test/java/io/fluo/recipes/export/DocumentLoader.java
+62	0	modules/core/src/test/java/io/fluo/recipes/export/DocumentObserver.java
+352	0	modules/core/src/test/java/io/fluo/recipes/export/ExportQueueIT.java
+25	0	modules/core/src/test/java/io/fluo/recipes/export/RefInfo.java
+85	0	modules/core/src/test/java/io/fluo/recipes/export/RefUpdates.java
+29	0	modules/core/src/test/resources/log4j.properties
+377	0	pom.xml

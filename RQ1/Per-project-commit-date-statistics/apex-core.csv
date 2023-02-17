@@ -1,0 +1,714 @@
+commit_id,Author,Author_adress,Date
+f09bc61fd09441e6c8c7d8c3aa10def7e74eb160,Sebb,sebb@apache.org,Apr-9-2021
+d17f464fcaf19778e2f8edbe2b03419151558068,Pramod Immaneni,pramod@datatorrent.com,Sep-14-2017
+819026eca63806b774fee85f7d2ebd9784a015d9,Pramod Immaneni,pramod@apache.org,Jun-18-2018
+436785bd63be0e90265cf8f8f18882647b8ecab0,Pramod Immaneni,pramod@apache.org,Jan-17-2018
+1f5425dc5ac1d3452a3b37db0e4c61485af9c6e1,Ankit Singh Rathore,ankitsinghrathoreasr@gmail.com,May-15-2018
+805aba30b5b84e39cf6dda8c6d5a805a3c880c60,Vlad Rozov,vrozov@apache.org,May-15-2018
+a8bbec7f54e94d67106a46f8b1ca6d8e7890f126,Pramod Immaneni,pramod@apache.org,Feb-4-2018
+77136a52c8dc9b15f774ad9e0ee7b27878c8a48e,Chinmay Kolhatkar,chinmay@apache.org,May-5-2018
+5a42ffb900b0f06548e3bafbad903ba80f79b11c,chinmaykolhatkar,chinmay@apache.org,May-4-2018
+0342b9378d66fd823a37463029a2e224e9a897a5,Apex Dev,dev@apex.apache.org,Apr-9-2018
+2d4eb2e468f6ee015450dd4e03a5dae2a155f9c7,Vlad Rozov,vrozov@apache.org,Apr-19-2018
+44b9cef0e5d4699c341d97a16c2c80d408202d9d,Apex Dev,dev@apex.apache.org,Apr-17-2018
+4a91c30c25c0c10562aec4350fb03e40a06d4a89,Apex Dev,dev@apex.apache.org,Apr-9-2018
+ab82f9771c13721e660b4c3d88adc16990cffe6b,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Oct-10-2017
+eb9e904368c1d6170c0a0011ace2b2c9f198916d,Vlad Rozov,vrozov@apache.org,Apr-2-2018
+4fb580fdfb4abf4c29f85a2662a2982b64ee6ae8,Thomas Weise,thw@apache.org,Jan-17-2018
+1a826aaf8fea1e971fc97fa65516f35a0c0faf0e,Thomas Weise,thw@apache.org,Jan-17-2018
+f4879ebc1504eaea2155885a5de0c1f727f4be3c,Apex Dev,dev@apex.apache.org,Nov-7-2017
+2e4a7728a9ba5ac98fa93c7460bb48bd5d1d0b98,Vlad Rozov,vrozov@apache.org,Dec-15-2017
+d40033a9bf160cd484ad696b8c7d9d3c7fa96acb,Vlad Rozov,vrozov@apache.org,Dec-15-2017
+646674ba9810b60d6e51950f6d12eb8bd5b0894a,Vlad Rozov,vrozov@apache.org,Nov-30-2017
+b6e4333c2ed60364071906ac3b07c6630e3664cb,Vlad Rozov,vrozov@apache.org,Oct-17-2017
+cc3724048e864b33574a2afa20bcb1aa86985002,Vlad Rozov,vrozov@apache.org,Oct-18-2017
+b3911c3515951685bc47ff77b2bf22dadb18f1b3,Florian Schmidt,florian.schmidt.1994@icloud.com,Oct-11-2017
+c87dd0d6d650abb56314931f56d9c5af98bdc3b6,Vlad Rozov,vrozov@apache.org,Oct-31-2017
+9ca51f2683ffe61f8c550630ad8412b37da50393,Pramod Immaneni,pramod@datatorrent.com,Oct-24-2017
+7995d3629ec90fd93fd2cbc952c0c9931aae0289,Vlad Rozov,vrozov@apache.org,Sep-24-2017
+10d22dff4ba4648e5a7aad4bc9ed31b26d6fd855,Florian Schmidt,florian.schmidt.1994@icloud.com,Jul-24-2017
+e2a0a69fb1a627bb7c45fc09d1d59243324083cc,bhupeshchawda,bhupesh@apache.org,May-15-2017
+59c1a44ca6089aed16a85a50204e8317af32dd55,Vlad Rozov,vrozov@apache.org,Aug-22-2017
+66a03c4e0ea1aa916c94e09e5d0582a644ebfdbe,Vlad Rozov,vrozov@apache.org,Aug-30-2017
+821184e296d2ecc982c3b3275d28c7167d0768e8,Vlad Rozov,vrozov@apache.org,Aug-26-2017
+760b0e77cb8bf524e3dd17afd8684e4896f358ca,Florian Schmidt,florian.schmidt.1994@icloud.com,Jul-26-2017
+06a8737cc4a15364ff636e5c5781ba3eefcfad16,Sandesh Hegde,sandesh.hegde@gmail.com,Aug-15-2017
+70fa21c9a66d50b1b4d10a5845f7f67aebbb7bd6,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Jun-1-2017
+6cdb92bf5ad98a90d6881dcaa854e4c8a9e70361,Thomas Weise,thw@apache.org,Jul-18-2017
+f1ce4dc5b1f45186a4cb213691d9c80ad7959396,Tushar R. Gosavi,tushar@apache.org,Feb-21-2017
+fc0cf71f90efc796229cc275033efa4ba85758b2,Vlad Rozov,vrozov@apache.org,Jul-18-2017
+6ae9433971c225c3bc3cdb8c8b7ef1860009fadf,Pramod Immaneni,pramod@datatorrent.com,Jul-19-2017
+8c48eefc5f98c99c0d165933f94062cac0cab141,Sandesh Hegde,sandesh.hegde@gmail.com,Jul-17-2017
+79de893f673ee0be3302fada2dd34f7984566ded,Florian Schmidt,florian@datatorrent.com,Jul-19-2017
+0413f9b5bd19a2e5a46c565a7815f1e5c2f7a57f,Pramod Immaneni,pramod@datatorrent.com,Jun-5-2017
+44640824cbea2ff588d9c56e6b2d97117051d63a,Thomas Weise,thw@apache.org,Jul-13-2017
+78c7a5fd54987589285a66f1e6d459924f46ad63,Vlad Rozov,vrozov@apache.org,May-30-2017
+3a1017c5af995d7f7d7781ff9daeb293059eda8a,priya,priyag@apache.org,Jul-10-2017
+5994a0b0fa9d2b60ca7595e7c6a1ebaab168060c,Sergey Golovko,sergey@datatorrent.com,Jul-6-2017
+c78ebd8fbee2f13cea05d903034158b10cfbf8c5,Vlad Rozov,vrozov@apache.org,Jul-5-2017
+1831356ea44aa09f75fa0f4d23c276432dd762d6,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Jul-3-2017
+771f5880291f0f7dbfe593e5c765f5d8fb4b9ad6,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Jun-26-2017
+33812f65712f9965d7e6140d5da638fafb24cc8e,Vlad Rozov,vrozov@apache.org,Jun-8-2017
+91effc9792ac24278971de266d6d6abd44da6e6e,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Jun-11-2017
+2ba6084440bdfc23d246cbb397ef46662d3a1688,priya,priyag@apache.org,Feb-23-2017
+1f78515fc9ef881c86b6627e5f2d4eb544881a8c,Vlad Rozov,vrozov@apache.org,Jun-20-2017
+d55a3c592afa1221ab88dd043e414895a00c6413,Pramod Immaneni,pramod@datatorrent.com,Apr-10-2017
+f6e6672fa3deabc5a46da8b89d5d21c2892094ef,devtagare,devtagare@gmail.com,Mar-24-2017
+12706ca43b00e272ba8cb13bc5d6648e0124187d,Sanjay Pujare,sanjaypujare@users.noreply.github.com,Jun-25-2017
+f9c1701a2f22bf7405496c3ee4d6a71185762070,Sergey Golovko,sergey@datatorrent.com,Jun-7-2017
+5e23fb44c319bb2a0674e29d3713db977c822a4a,Vlad Rozov,vrozov@apache.org,Jun-22-2017
+3ddd2389f7e52cbca82370b1f77377b083f4aa44,Vlad Rozov,vrozov@apache.org,Jun-21-2017
+34da9dce210de6b97a67b5cf8546432278ac54eb,Chinmay Kolhatkar,chinmay@apache.org,Jun-9-2017
+5f79cb75df41a5f5f6b9a11b9c1b116c92c25946,Vlad Rozov,vrozov@apache.org,May-30-2017
+91459d46d11111abdf01cf1bff14bb4b538eaada,Vlad Rozov,vrozov@apache.org,Jun-5-2017
+91eb45078b27d27dfcda35d124dce90f57f39efb,devtagare,devtagare@gmail.com,May-31-2017
+a0dd30d8fdc27c0503f59c93ea84f7edacf53137,Pramod Immaneni,pramod@datatorrent.com,May-29-2017
+22feeed8dfefedb114343c265f09d86e4c2cc680,devtagare,devtagare@apache.org,May-31-2017
+f2469f28d6ef36d8c5e809e558e3f91c28fd8767,Pramod Immaneni,pramod@datatorrent.com,May-12-2017
+e4d44e559376eb6203e19f186139334ad1b3f318,Sergey Golovko,sergey@datatorrent.com,May-17-2017
+47f1d9121c193b73e58b7c45e43e3bb803ad7e00,Thomas Weise,thw@apache.org,May-20-2017
+dca51d99e6246f99d3150f7b74d2f8368285ddd0,Sergey Golovko,sergey@datatorrent.com,May-11-2017
+899f4cb0a01d799c8a3f6905ee98429bbde2bc82,Chinmay Kolhatkar,chinmay@apache.org,May-12-2017
+e927414743c1c9a03cbecf97416385345c54e551,Sergey Golovko,sergey@datatorrent.com,Apr-14-2017
+1c2d66adc3724ab5c7fd33ecfe95203c68c81578,Sanjay Pujare,sanjaypujare@Sanjay-DT-Mac2.local,Apr-27-2017
+0824a4baf688c73dc6159ff6d76c80688d881946,Pramod Immaneni,pramod@datatorrent.com,May-7-2017
+0de7be9b36a7b8ee0edb823e8c8eb376d4fdb277,Vlad Rozov,v.rozov@datatorrent.com,May-7-2017
+90528017f9c8b2ac0d5bcf76ce44eebb68180647,Apex Dev,dev@apex.apache.org,May-8-2017
+4c0a5e1fe6e287b6e79b258a701bdf720fa06e4d,Apex Dev,dev@apex.apache.org,May-1-2017
+4379fd40bb9df35e44da151b335b6b17e5897a3a,Apex Dev,dev@apex.apache.org,May-1-2017
+ce0a135813012b989555e2c98203051c7596a15c,Vlad Rozov,v.rozov@datatorrent.com,Apr-27-2017
+ea0adae7209d9cd9d5586c38c2f5fc7b3e7cf8ab,Tushar R. Gosavi,tushar@apache.org,Apr-27-2017
+9856080ede62a4529d730bcb6724c757f5010990,Pramod Immaneni & Vlad Rozov,pramod+v.rozov@datatorrent.com,Apr-18-2017
+8829286d12c755b9678498183b2ba052519a73c2,Vlad Rozov,v.rozov@datatorrent.com,Apr-16-2017
+cfe9cefed1400f83dc95a17a1f1f8de921d552b1,Pramod Immaneni,pramod@datatorrent.com,Apr-21-2017
+d705ed433f3bc6750e4ff693196490d9e9b07061,Tushar R. Gosavi,tushar@apache.org,Mar-27-2017
+6cb3e3510060e23f1519d2f91a629d8df38e4431,Tushar R. Gosavi,tushar@apache.org,Apr-17-2017
+25e4c4c51b599e63d746ca207d7557c616162381,Tushar R. Gosavi,tushar@apache.org,Apr-14-2017
+e4022674efb6a4db8fc2ec25d72920756b1ebd20,bhupeshchawda,bhupesh@apache.org,Mar-26-2017
+e9b01c53f1243944000b912d893eb8ee1234345e,bhupeshchawda,bhupesh@apache.org,Mar-23-2017
+6f2b35de5578aaeca45c86b34ec950ca5835a447,Dean Lockgaard,dean.lockgaard@gmail.com,Apr-15-2017
+5fe931543e6dca91f614eaf0fad96bc2bf0cd8ff,Thomas Weise,thw@apache.org,Apr-13-2017
+c52e17bac350f8abb31e894ff130198140bcda2d,Dean Lockgaard,dean.lockgaard@gmail.com,Apr-14-2017
+e4af896cb8f37a05d87bdd92732614384f086544,Thomas Weise,thw@apache.org,Apr-13-2017
+f63e01d142f16dad34e2420dccbcc8addbbd404a,Vlad Rozov,v.rozov@datatorrent.com,Apr-13-2017
+ca1a375f983be4876e85719c85c8e06dab129593,bhupeshchawda,bhupesh@apache.org,Mar-6-2017
+01eb7926dcf9fb6ad40be010894e635bd24f37e3,Pramod Immaneni,pramod@datatorrent.com,Apr-13-2017
+2ce4ae515ddfadddace260839b634cf122653a29,Oliver Winke,oliver@datatorrent.com,Apr-11-2017
+077009e4cc80d1988bfcec50ceb8b4e27ec577bd,Apex Dev,dev@apex.apache.org,Apr-9-2017
+88bf336271d5c9c375ea9054b4c4f17b0e277102,Pramod Immaneni,pramod@datatorrent.com,Apr-10-2017
+412a3bd81fbfc973858f36172533c0d5ab83e39f,Thomas Weise,thw@apache.org,Mar-27-2017
+aa81bea306aed51fd881d97ce62a01537eeb2003,Apex Dev,dev@apex.apache.org,Apr-7-2017
+9383613741d6614a613bcbf9a41f4648cf22c147,Vlad Rozov,v.rozov@datatorrent.com,Mar-21-2017
+869e166e1c733fc8bfe1acf189f5d9ff7f654fdc,Thomas Weise,thw@apache.org,Apr-5-2017
+8825f5fa3e22beaf360f111f37ec0c4dba24ad1c,Tushar R. Gosavi,tushar@apache.org,Feb-27-2017
+7420d69fef5226eb83fc293bf91a4d949558fba6,Vlad Rozov,v.rozov@datatorrent.com,Mar-30-2017
+9054fd2b9775116aaa790b3946600b84acf41b06,Pramod Immaneni,pramod@datatorrent.com,Mar-29-2017
+926ecc89aa9083d1b8104f90d1e3bc31dd368bbd,Vlad Rozov,v.rozov@datatorrent.com,Mar-25-2017
+9d6408ea4c6e26df489a5e5dd1ecfdb9afca6d42,Sandesh Hegde,sandesh.hegde@gmail.com,Mar-7-2017
+04a352b3ed6a602b52fdfa618c0823b9f1fc6389,Vlad Rozov,v.rozov@datatorrent.com,Mar-27-2017
+c42f26e01d9e4fc8748217c4605f3e9a57ea9ca2,Pramod Immaneni,pramod@datatorrent.com,Mar-27-2017
+9d2707a263a6a4c7247f08a423a9e2ba6b33a8da,Hitesh-Scorpio,forhiteshjob@gmail.com,Mar-24-2017
+b4a4e05170980547d791ff0d8fd42c2f00e2306a,Vlad Rozov,v.rozov@datatorrent.com,Mar-24-2017
+5f95ee0e954fb505f4a0022fdf9ecdc0a80df6ca,Tushar R. Gosavi,tushar@apache.org,Mar-21-2017
+82f2761dd5c31968e95d85b51a2103b7ebe2f293,vikram,patilvikram@gmail.com,Mar-24-2017
+16d1bf62d7a4c83aec1c3bdb9a8e5878fae42323,Hitesh-Scorpio,forhiteshjob@gmail.com,Mar-14-2017
+df8bc7e001041808a52a194375c3fcd1ae45f3b8,ajaygit158,ajaygit158@gmail.com,Mar-23-2017
+075dd483af53e0eb16bd53df6108fcfd8df102e0,Vlad Rozov,v.rozov@datatorrent.com,Feb-12-2017
+3c063a44177eaf44fec70aa618e361266d357a86,ajaygit158,ajaygit158@gmail.com,Mar-21-2017
+9f2dfaad64ab8a782f5bbd1d0de302104e94f589,Matt Zhang,mattqzhang@gmail.com,Feb-15-2017
+d90e8829fd89edba66ee5b79296a69fd9a5b6dd8,Pramod Immaneni,pramod@datatorrent.com,Mar-20-2017
+491e2e332a223304209b7835a8ac762b112b7318,ajaygit158,ajaygit158@gmail.com,Mar-19-2017
+d6f17f23a9c11e49a72dc87f76908c71ec235b11,bhupeshchawda,bhupesh@apache.org,Mar-6-2017
+576047e413d01c4997509b1dfbdb1176fe89db17,Vlad Rozov,v.rozov@datatorrent.com,Feb-8-2017
+84e6663a5e570c7b88c8de301895fec4670431fe,Pramod Immaneni,pramod@datatorrent.com,Mar-17-2017
+408cd967a98506317e94821df5143a7800f0eb7d,ajaygit158,ajaygit158@gmail.com,Dec-19-2016
+3024b06e16103efbd16a018f7b557dd848476c99,Pramod Immaneni,pramod@datatorrent.com,Mar-14-2017
+10650b3a0e30522bf2346b93208de43acfe95e98,Tushar R. Gosavi,tushar@apache.org,Mar-14-2017
+8d46cc6d1256d00ad14024dbf12c601835af14f6,Tushar R. Gosavi,tushar@apache.org,Mar-6-2017
+ad4210ba7052feb5545e5f7d30095a404b7e61c3,Vlad Rozov,v.rozov@datatorrent.com,Dec-19-2016
+41aea840d46f8dfa7ce23eeb8f640c5f1d346e03,Thomas Weise,thw@apache.org,Feb-26-2017
+8ce340ef3e363d188a58ae496d51cec170a58947,Vlad Rozov,v.rozov@datatorrent.com,Mar-3-2017
+1e47856712dc4fcae40856d27ce8ce2360037a12,bhupeshchawda,bhupesh@apache.org,Dec-28-2016
+764ca7b285d5af4305b5c792cc1d9154da2f0c0d,Priyanka Gugale,priyag@apache.org,Dec-13-2016
+3b660c9c1dd639c49ae300fd3f70397d3f794d12,Sandesh Hegde,sandesh.hegde@gmail.com,Nov-4-2016
+58930cc5757a27ca8d93a651b19735f43a7cbb01,Thomas Weise,thw@apache.org,Mar-2-2017
+a6dd73b96b78f5c2509c025fca9fcc96e917f0c1,Vlad Rozov,v.rozov@datatorrent.com,Feb-24-2017
+911ccb269c575f759cd91fe154b05cbf8156bc2a,Pramod Immaneni,pramod@datatorrent.com,Feb-24-2017
+a98cc938bbfdac9cf0507ea379fdf71282d01814,Pramod Immaneni,pramod@datatorrent.com,Feb-24-2017
+de4c11fee820dbaec23c3217bf772af982e83baf,Sanjay Pujare,sanjaypujare@Sanjay-DT-Mac2.local,Feb-18-2017
+6f1e051c41ea65784f206dffcd03e587d05af89d,devtagare,devtagare@gmail.com,Feb-7-2017
+1e3d47bef8b32d678b2a726fb2aaf6854f4650b9,Vlad Rozov,v.rozov@datatorrent.com,Feb-20-2017
+7106b766a1f6774c62b56290547958e76bdcfb9a,deepak-narkhede,mailtodeepakn@gmail.com,Feb-7-2017
+32f229f21b3a6a3887d1cc52585e91b50a0c5491,Thomas Weise,thw@apache.org,Feb-18-2017
+d80501bdca9b28ae78476e4f3bf2e47c35f11ff8,Vlad Rozov,v.rozov@datatorrent.com,Feb-17-2017
+f2d539d4d88e76c86ea23b803ac38c7a2584a18f,Pramod Immaneni,pramod@datatorrent.com,Jan-14-2017
+283ebe232b3099b2339184b8a54dbcf6066680dc,Vlad Rozov,v.rozov@datatorrent.com,Jan-30-2017
+abc836ca18d63a895d431dc5acf4d3a1018b235d,Tushar R. Gosavi,tushar@apache.org,Jan-17-2017
+e233a26aa3ff08c564015ac700df4e3b15962226,Vlad Rozov,v.rozov@datatorrent.com,Feb-13-2017
+74f732a79d7e271af0820b3071a9619be97ddf39,Vlad Rozov,v.rozov@datatorrent.com,Feb-12-2017
+c687bb5e69e1ab9f3510d68dd726a1de20430908,Vlad Rozov,v.rozov@datatorrent.com,Jan-19-2017
+4302929e0ced8954901c32c55668a67d3e6820d9,Sandesh Hegde,sandesh.hegde@gmail.com,Feb-10-2017
+d18dae02811f1b02b5320fb4614f6636407dce8b,Sergey Golovko,sergey@datatorrent.com,Feb-9-2017
+f9101d9d23e502920bed1c2a4d20b5ed0c045301,Munagala V. Ramanath,ram@datatorrent.com,Feb-7-2017
+c68c7f636deca865dbc784d60cff5ec9946eae87,Sanjay Pujare,sanjay@datatorrent.com,Dec-2-2016
+f04e07c033b4794c0d6fd482982f89fe528b0e30,Thomas Weise,thw@apache.org,Feb-3-2017
+51076c6cb4e5abe333b207b5c5a821e683a8bfb0,Tushar R. Gosavi,tushar@apache.org,Jan-23-2017
+527c70bf8b4060d04d713f2b6e0ffb113a17ece6,Sergey Golovko,sergey@datatorrent.com,Jan-27-2017
+1e9896bb4bf3d1b4e2ad3772415e5f414a95cc9d,Vlad Rozov,v.rozov@datatorrent.com,Jan-30-2017
+6f0dffaf92e7121db9693cc84765ae1ab6198545,David Yan,davidyan@apache.org,Jan-29-2017
+a8b60f68e5711a9d365d2cf749a13f84aef18b0a,ajaygit158,ajaygit158@gmail.com,Jan-25-2017
+895633241640f2e29ca7b772f11d0e43eadb2519,Thomas Weise,thw@apache.org,Jan-27-2017
+42c695c6f4a2f7969680cbf0348dfdd612d54c36,David Yan,davidyan@apache.org,Jan-21-2017
+25f1ac5c84a6bd86879e5f947d11edafe351b25a,Vlad Rozov,v.rozov@datatorrent.com,Jan-21-2017
+0596d9606ba5e104b54d6936bfc76f3c040f6fae,Pramod Immaneni,pramod@datatorrent.com,Jan-20-2017
+a469dfb229c0d42c07048d95d070703331e2c429,francisf,francis.fsfsfs@gmail.com,Jan-5-2017
+76f55a826369d93e69617a18b6cb8babb1667305,Apex Dev,dev@apex.apache.org,Jan-20-2017
+44bc4b7a58298e228e749b58288e30187736ae86,Tushar R. Gosavi,tushar@apache.org,Jan-17-2017
+7ea7f6073310ea52fae22ab974d4ce08cdeecf1d,Tushar R. Gosavi,tushar@apache.org,Jan-12-2017
+99d3a95388a803951366bda8a94cdfeebe9c8574,Thomas Weise,thw@apache.org,Jan-9-2017
+d9bc67d5a62ca00d7ff1aea9a308fc8c6cf4be52,Vlad Rozov,v.rozov@datatorrent.com,Jan-9-2017
+51de67e61d2180b3152f3b320173dca03140c683,Vlad Rozov,v.rozov@datatorrent.com,Jan-9-2017
+4eb8a5dd57d1401ca87340cdb754eecf23f799b4,Vlad Rozov,v.rozov@datatorrent.com,Jan-9-2017
+f6f6d5f541bb88301a4b401392e848ee0d2bc3c9,Thomas Weise,thw@apache.org,Jan-3-2017
+893551b02a5ebe86abbb976dddd6f1d6d87aa2e3,Sandesh Hegde,sandesh.hegde@gmail.com,Dec-24-2016
+05c798d5cece45c292953bf4af771af120a5421c,Pramod Immaneni,pramod@datatorrent.com,Jan-5-2017
+ffab17ac6361d0048cbdcdf9dc16e1a75b856d12,Thomas Weise,thw@apache.org,Jan-5-2017
+72d640e341e9001043a537f830e6a43d40f1ea15,Pradeep A. Dalvi,prad@apache.org,Dec-16-2016
+7103e683ff37c5e20fe9bfe096e7852669553c66,Pramod Immaneni,pramod@datatorrent.com,Jan-3-2017
+b5c8e4bee839018867738f11ffe18ffa26b695d7,Tushar R. Gosavi,tushar@apache.org,Jan-3-2017
+97b298e934bcc5f452483e5dfaa0c956efe91612,Vlad Rozov,v.rozov@datatorrent.com,Dec-16-2016
+3f06ce71cf88c790070d4067766ec5662ac0231f,Pramod Immaneni,pramod@datatorrent.com,Dec-15-2016
+b74d68967a50102fb29116e5c08802417dbee86e,Tushar R. Gosavi,tushar@apache.org,Dec-15-2016
+5ee715ea5ec49130f6d9fae005404a332b420471,Vlad Rozov,v.rozov@datatorrent.com,Nov-4-2016
+a9e4e053b8de660b74c3b9006f949c38685cf135,Pramod Immaneni,pramod@datatorrent.com,Dec-12-2016
+24e547ebecb12046fd14a9e1399287dec52fb043,Apex Dev,dev@apex.apache.org,Dec-12-2016
+cc79b0c02f072ac2ce3c5ac49373232b82f40e3e,Apex Dev,dev@apex.apache.org,Dec-10-2016
+410674548d12834300e0713ade9c276ed0dce1cb,Apex Dev,dev@apex.apache.org,Dec-6-2016
+2e54dd0813ebd8f926fede49aef3ae664c645afd,Vlad Rozov,v.rozov@datatorrent.com,Sep-7-2016
+93f790aa7272a729ddcb2c296a280a2a9c95b88b,Vlad Rozov,v.rozov@datatorrent.com,Dec-7-2016
+b5ce0497e6239276d1e7cb16d1d5dd79907a4ea9,Apex Dev,dev@apex.apache.org,Dec-6-2016
+8b75f7a412454dd90b26c2553bb4d899934cbec6,Thomas Weise,thw@apache.org,Dec-6-2016
+92897a3af36adf5f1086b94bc43b35c7520c3b6f,Thomas Weise,thw@apache.org,Dec-6-2016
+5301fbf87b9a2c0950c2615964eb1a88a1a04e97,David Yan,david@datatorrent.com,Dec-2-2016
+d1646e42bdf5594ef34070594733a7ca10123a3f,Vlad Rozov,v.rozov@datatorrent.com,Dec-6-2016
+d514859a8d51464a8a849286444ea9863ea7077f,Thomas Weise,thw@apache.org,Dec-4-2016
+d28c0ddd9d259855c1d9ba623bfb970342bc40c4,Vlad Rozov,v.rozov@datatorrent.com,Dec-2-2016
+c97dd7ccc495e7ac17e263ea82338a06987aa435,Tushar R. Gosavi,tushar@apache.org,Nov-24-2016
+891ed3ae92c351f11e417b30a8ada5c6c56767fb,Tushar R. Gosavi,tushar@apache.org,Nov-28-2016
+0be03527e361b023e79c0d9f9e8ef5e2632d64bf,Thomas Weise,thw@apache.org,Nov-24-2016
+0727ec58039d9348b57c845be0ef40798a589bec,deepak-narkhede,mailtodeepakn@gmail.com,Oct-13-2016
+a54e0b7f84a4c5fe8e0f6fa3a6f6c3fe7b13b5b3,David Yan,david@datatorrent.com,Sep-30-2016
+cf81418464dc2fad2b75b68a9759c799ffff8b48,Thomas Weise,thw@apache.org,Nov-21-2016
+7ad1d75db581641916d3c7f68fb9dcd145d8cc66,Pramod Immaneni,pramod@datatorrent.com,Jun-24-2016
+5fb9d045d3072b1adc73c6f7c1cff7de39137060,Tushar R. Gosavi,tushar@apache.org,Nov-17-2016
+d52f4af9ebd7a09ae5c1df5f097575c08ce748d6,Pramod Immaneni,pramod@datatorrent.com,Nov-15-2016
+430efdfd5be6efd66c306297764806d64f025020,Vlad Rozov,v.rozov@datatorrent.com,Nov-15-2016
+e1ada7e2cf43a6b50b476ff03537d4eaa7879e50,deepak-narkhede,mailtodeepakn@gmail.com,Oct-14-2016
+d587b1404375fd511e48e8cd278fa8fe53bc6d54,Tushar R. Gosavi,tushar@apache.org,Nov-15-2016
+af9bf70e78223975ff90bdc51decbbafdc647809,Vlad Rozov,v.rozov@datatorrent.com,Oct-13-2016
+d07cf85b26272fbed494c5624623e0df9b14ec2f,twigglius,armccullough@gmail.com,Nov-11-2016
+fc3246e11afa426eefe1dcaf5b8aface079d7d10,Sandesh Hegde,sandesh.hegde@gmail.com,Nov-4-2016
+2c024cd84648d280611b179da9fbbbbec0ab8a6f,David Yan,david@datatorrent.com,Oct-24-2016
+ce74fe78eb0dae5250bccbf1bb4ada755c3c2ebe,Sanjay Pujare,sanjay@datatorrent.com,Sep-29-2016
+eaf04193168ecc43f53958d750ff8f69f6b2c75a,Tushar R. Gosavi,tushar@apache.org,Oct-3-2016
+fb91a589af1d89b73d4317f19523e78e731830b8,Priyanka Gugale,priyag@apache.org,Oct-19-2016
+81b8c922c6442cbf30104eba34ede826615ac7d4,David Yan,david@datatorrent.com,Oct-6-2016
+59bdc81f895460d50933026efb8043a76419795d,David Yan,david@datatorrent.com,Oct-3-2016
+edad2a8487cef47c050a63ee37a7d4a7dd99177c,Vlad Rozov,v.rozov@datatorrent.com,Oct-10-2016
+a9a90e0856ecd4d7a41fb63664aaeb0b5678d719,Sandesh Hegde,sandesh.hegde@gmail.com,Oct-5-2016
+a490ee04d028a4d8a6285ab75e13d663b1d671b7,Pramod Immaneni,pramod@datatorrent.com,Oct-5-2016
+4a4aebb7c469fd09f6ad569dee124aabaf9b51e4,Sandesh Hegde,sandesh.hegde@gmail.com,Oct-5-2016
+0bdf771f8c7d94df523ec381c4a92f5517e83dc9,Sandesh Hegde,sandesh.hegde@gmail.com,Sep-30-2016
+3d0cefce5d045ae664053a2a973e3dc632ca5585,Vlad Rozov,v.rozov@datatorrent.com,Oct-3-2016
+481e5298307d6e2923bf89af30d177699ed6c147,Pramod Immaneni,pramod@datatorrent.com,Sep-14-2016
+b102f59aa03cad50b4655618c1e9bcb6bb2f41c9,Sandesh Hegde,sandesh.hegde@gmail.com,Sep-28-2016
+86142d0f464f958ea7d9138a67f5b81a42a4da30,Thomas Weise,thomas@datatorrent.com,Sep-26-2016
+6fdd73d6f34c25c1ce091173f8def2b2a6768e4c,Thomas Weise,thomas@datatorrent.com,Sep-23-2016
+25ca79f0b78ee9c384b883b6fea06a802526646a,Vlad Rozov,v.rozov@datatorrent.com,Sep-22-2016
+b782835cce69c77449c689a5af87727d06edfaae,sandeshh,sandesh.hegde@gmail.com,Sep-21-2016
+fdfba966f6652722fb0371cbb8259969a44d7b2e,Pramod Immaneni,pramod@datatorrent.com,Sep-17-2016
+388bb38771263ceeec120fb1b75ecea7a5d4f95a,Thomas Weise,thomas@datatorrent.com,Sep-15-2016
+0b518dea649d941ea3efad3f2c4072169f69ab98,Thomas Weise,thomas@datatorrent.com,Sep-15-2016
+e924284ee026790bf60a0254d4bcdcf822a665ba,Vlad Rozov,v.rozov@datatorrent.com,Sep-14-2016
+bfc1eb87436a324c1fdee130cb5c66c839fc76a2,Pramod Immaneni,pramod@datatorrent.com,Sep-5-2016
+14cc547be939c3dc15fd18c7aafe4d319d7b8c0f,MalharJenkins,jenkins@datatorrent.com,Sep-13-2016
+1388bca782f88216c3888b7d6c260b89006fdcea,Vlad Rozov,v.rozov@datatorrent.com,Sep-12-2016
+0670eb3e0be01097123263406692238e974f142a,Pramod Immaneni,pramod@datatorrent.com,Feb-26-2016
+989536773e2f0c54b66b34a1680cb199c0e159b4,Vlad Rozov,v.rozov@datatorrent.com,Sep-8-2016
+eacb7a4cf4231cb7a4225c6a2b2f10d61c0a9863,Thomas Weise,thomas@datatorrent.com,Sep-2-2016
+70ceae3db50f9183862748bf9c81cbe17d588ffa,Pramod Immaneni,pramod@datatorrent.com,Sep-3-2016
+8b55fbe916994b2c0ab2f2d37f355eecf80d5110,Vlad Rozov,v.rozov@datatorrent.com,Sep-2-2016
+3c503a91f07ac076d5168f270cf783ef63aff008,CI Support,jenkins@datatorrent.com,Sep-1-2016
+5f06c7febec2412281f456d1f32c863a084a572e,Vlad Rozov,v.rozov@datatorrent.com,Sep-2-2016
+eea5c9c6aaa8f0c12a36b1e2287dfe9b4a8a206e,Vlad Rozov,v.rozov@datatorrent.com,Aug-12-2016
+c13b0dd417e805601169f090fdeebf5b42c78651,Vlad Rozov,v.rozov@datatorrent.com,Sep-1-2016
+dd5e95a090214bdcff3232cbdcad3dc59c24eff9,Pramod Immaneni,pramod@datatorrent.com,Aug-24-2016
+ae0ec246467266083ad7e4bc499b70458a36dc0f,Thomas Weise,thomas@datatorrent.com,Aug-31-2016
+9e3940fdc1e6a75f9a092c531bffaa2ee9c562f2,sandeshh,sandesh.hegde@gmail.com,Aug-30-2016
+65a721fb7356e319a745858d0d48acaa5f535701,sandeshh,sandesh.hegde@gmail.com,Aug-24-2016
+a53a5839cce5b40945bfe8e21062655c78c1fb05,Thomas Weise,thomas@datatorrent.com,Aug-29-2016
+6fa7b91ee2b1fdfc79ef36c9345485089583f371,Vlad Rozov,v.rozov@datatorrent.com,Aug-29-2016
+9c48c41e989b917a9e6c59e3fb284432cd1664d3,Vlad Rozov,v.rozov@datatorrent.com,Aug-25-2016
+80461746d9bbe8ee1070d455e2b32f8ef2b907c3,Vlad Rozov,v.rozov@datatorrent.com,Aug-25-2016
+d651edc608a14a6f0718b3022e4ad43bca21571e,sandeshh,sandesh.hegde@gmail.com,Aug-22-2016
+eedd467e0afc40ce0d8068563fde57742b642173,Thomas Weise,thomas@datatorrent.com,Aug-18-2016
+c210dc212a8ac2ecd3d83ce21e72960f35c2e9db,Vlad Rozov,v.rozov@datatorrent.com,Aug-16-2016
+8ae80fee1400c37fa3ad0dd891a4ddb24eb74d21,Thomas Weise,thomas@datatorrent.com,Aug-10-2016
+3119aba891676d936c76cd36acf5fb6833547a13,Vlad Rozov,v.rozov@datatorrent.com,Aug-16-2016
+a42c67bc213d7b58c6924426cb07d71fe701ce1b,sandeshh,sandesh.hegde@gmail.com,Aug-1-2016
+9bcde2e306ce7f6c3199112ad5bb737370f6624e,Chandni Singh,csingh@apache.org,Aug-5-2016
+130ce6ba8af9bc9c68c7940bbaeb06c7d0f32784,Chandni Singh,csingh@apache.org,Aug-3-2016
+49dd3c4c58e0336fb97e5d95c02244fea0fdd9d7,David Yan,david@datatorrent.com,Jul-29-2016
+cba9a6abde68ad91333df8540043dcb609cb63e4,Thomas Weise,thomas@datatorrent.com,Jul-28-2016
+ba6ffc2e41ddb036d65f8b2fe65412dce9e97fa1,Pramod Immaneni,pramod@datatorrent.com,Jul-28-2016
+7ca1ed12d022e7d99e2dde3dc305b4b39ae46c26,Pramod Immaneni,pramod@datatorrent.com,Jul-18-2016
+d32ea3c04498ed473364140ce444b6fe6e732149,sandeshh,sandesh.hegde@gmail.com,Jun-27-2016
+4f3ab00ac6738b5ec491dd1a6ec7ce6a201cd203,Pradeep A. Dalvi,prad@apache.org,Jul-11-2016
+1b1813f9646a7e578775c9d17272f6f1696b0d31,David Yan,david@datatorrent.com,Jul-11-2016
+4fd51ca1ed539d27748376b84c4aedb5733cf9e5,David Yan,david@datatorrent.com,Jul-11-2016
+68be2f81ca41aea885620ebd6f3cd3c8eac22b07,Vlad Rozov,v.rozov@datatorrent.com,Jul-11-2016
+113dd91e513e92043eed6bff3904a93dcf1e9c5b,Vlad Rozov,v.rozov@datatorrent.com,Jul-11-2016
+8007b863b0a565f393f95ba2e18a5e3ec7fbe40c,Vlad Rozov,v.rozov@datatorrent.com,Jul-10-2016
+b01f1f783822057f0fffc99b2ad285d84a90df56,Pramod Immaneni,pramod@datatorrent.com,Jul-9-2016
+c03f05da96c66cd1a25cffcd5f15d2b22f5e2b4c,gaurav gupta,gaugupt3@cisco.com,Jul-7-2016
+558942aa584aad9d9de72fbae466e8a2039e79c2,sandeshh,sandesh.hegde@gmail.com,Jun-7-2016
+9e89de445bcb122542b56b2b61959c8698c735f0,Pramod Immaneni,pramod@datatorrent.com,Jun-6-2016
+b4bc94d098c8787cf1a1240e1e97b776ca778410,David Yan,david@datatorrent.com,Apr-25-2016
+205ac46d7b3b50516bbf971974bef8f7004f881a,David Yan,david@datatorrent.com,May-20-2016
+ae46b47cdfcd839cce69f01681af56764e16b2ca,shubham,shubham-pathak22@github.com,May-19-2016
+b12e8b01c7f471a91d7891a11e04cdae93c03a90,Ilya Ganelin,ilya.ganelin@capitalone.com,May-26-2016
+19733c05761b9cc5af3985bb7810ad6d1033ce22,bhupesh,bhupeshchawda@gmail.com,May-24-2016
+45ef53078289e7690042c35da95f2dde7a2cd60e,Ilya Ganelin,ilya.ganelin@capitalone.com,May-25-2016
+8f0d31544b259baea506d6d9c4260ac11f3b0b95,gaurav gupta,gaugupt3@cisco.com,May-19-2016
+976a5317917e44757a631411ccb29913e1dc955c,Pramod Immaneni,pramod@datatorrent.com,May-19-2016
+7813d860d93b840910552a8ac4e5b9575e340422,Vlad Rozov,v.rozov@datatorrent.com,May-17-2016
+d0c4604af8b119df2d11467bc9af43989f812b16,Pramod Immaneni,pramod@datatorrent.com,May-16-2016
+0ead5f1e351c16646131226dbb0ae513eefc182b,Vlad Rozov,v.rozov@datatorrent.com,May-17-2016
+87907df81367c3cdd2688baf55890ff24a4b8f57,Pramod Immaneni,pramod@datatorrent.com,May-12-2016
+1ad7c2ecc06221a3e3e06deb841cbcc925cf02a3,Pramod Immaneni,pramod@datatorrent.com,May-15-2016
+41e3975f62da287084df81c1a2c5302c3f9b2bfc,David Yan,david@datatorrent.com,May-9-2016
+fdbc3f0722cf414b70cc2fab746f2952cd21f3ef,Thomas Weise,thomas@datatorrent.com,May-10-2016
+e4332bf33d3dae9b5b6e38138aa78efa8fb64a89,Thomas Weise,thomas@datatorrent.com,May-5-2016
+228c795d5bfd3670811c40a6a9475f2f76ec3da9,David Yan,david@datatorrent.com,May-10-2016
+2ad07ee1a0f32aeb70f7bae22b2a096f89c3709d,Tatu Saloranta,tatu.saloranta@iki.fi,May-9-2016
+85a0af214111db1b2634a0fe3be4d7831ba54de6,Thomas Weise,thomas@datatorrent.com,May-6-2016
+41666de8e95a3a580578f08b3e7ed68ddcde0a7b,shubham,shubham-pathak22@github.com,May-5-2016
+7c4f308654b9ef72fd9ad5a41074b5b03d4a0825,Thomas Weise,thomas@datatorrent.com,May-5-2016
+da46ec18624f66afe782714df4a4159d46c18074,Thomas Weise,thomas@datatorrent.com,May-4-2016
+c77ea114e0bf0a04606f47bbaa585d635658ead1,Thomas Weise,thomas@datatorrent.com,May-4-2016
+dac56acd25f85d61c8cdea2092292ae4aa6bdb1a,David Yan,david@datatorrent.com,May-4-2016
+d4f3a506aa200c91a0dc6698645415d54dd67562,Tushar R. Gosavi,tushargosavi@gmail.com,May-5-2016
+39e9beeebd55482c75167c000adaaf73ad9bdb35,Thomas Weise,thomas@datatorrent.com,May-4-2016
+18d90d91d26d82ba564fb9f57e236f8d51688562,Thomas Weise,thomas@datatorrent.com,May-4-2016
+a703921e81507094e8782497e193ff16c752e9ca,David Yan,david@datatorrent.com,May-3-2016
+ffb051757933630667aa95e80b6b0ccc6c5a776f,ishark,icarkatkar@gmail.com,May-3-2016
+c2903da2f19fab19728e8f6683fdf0424b4cabf8,David Yan,david@datatorrent.com,May-3-2016
+ac7d673ad89e1fda27fcf418022dbd74430326c2,sandeshh,sandesh.hegde@gmail.com,Apr-24-2016
+752f4397d7715196def8c0fa2a5aa47a44375471,Thomas Weise,thomas@datatorrent.com,May-3-2016
+923dfe7f41968386d4c28f32b7790564c205168d,David Yan,david@datatorrent.com,Apr-25-2016
+cae4dc5374d9b3ce28d14439375cb6330a71029f,Thomas Weise,thomas@datatorrent.com,May-2-2016
+0be8665bfbb24388199cf99fd72d03250a2b0cc0,Vlad Rozov,v.rozov@datatorrent.com,Mar-21-2016
+9a726fd898c34ee7a60161c0c2c5529a29fdb044,Sasha Parfenov,sashap@apache.org,Apr-29-2016
+37e4c74ecc2b89fba69b42f01ceead3ec2fe5734,Thomas Weise,thomas@datatorrent.com,Apr-28-2016
+f71bb0edfd5e10fdf55343a151e0a41e2c4cba7a,chinmaykolhatkar,chinmay@datatorrent.com,Apr-21-2016
+79c5c8c84bb683a667111565f4f420708aa78f12,Chandni Singh,csingh@apache.org,Apr-28-2016
+20607b59a00e276887886c0e7a8c79ae071d06f5,Thomas Weise,thomas@datatorrent.com,Apr-27-2016
+4a83c6db95e8b7a84f74929ef586fcd3497de08c,Vlad Rozov,v.rozov@datatorrent.com,Apr-26-2016
+f452cd022646512c777f867587c10021e96bfd42,David Yan,david@datatorrent.com,Apr-26-2016
+5786866e5e7740917dadad1c99962c6353982d76,David Yan,david@datatorrent.com,Apr-25-2016
+95bca45ada1816243320d7c89e17b1701bf0a048,Pramod Immaneni,pramod@datatorrent.com,Apr-15-2016
+ddb7471edd37ef228432c7d80e1e118368e68450,Pramod Immaneni,pramod@datatorrent.com,Apr-23-2016
+9b6f65d758667b926f84790162aafbe09375e431,Thomas Weise,thomas@datatorrent.com,Apr-23-2016
+43add78907c41d6cb8320c09a9e89ec9c0dd21af,Thomas Weise,thomas@datatorrent.com,Apr-23-2016
+59a7fc21043c0e80c2fdb4bd407c2c3080882ff7,David Yan,david@datatorrent.com,Mar-14-2016
+369e8f434ed18e7f1570caaf1e9b0ef0a7dcebcc,Chandni Singh,csingh@apache.org,Apr-18-2016
+c2008f27a18d4324974823d7fcde7be2820365d5,Thomas Weise,thomas@datatorrent.com,Apr-18-2016
+170eb470696ac35a437b0c978eea521782440a4f,Chandni Singh,csingh@apache.org,Apr-14-2016
+8a122e8bc45500c84b89184c4b567fc29c7f9d76,David Yan,david@datatorrent.com,Apr-15-2016
+676ab4101f091bea0cdffde125e64ddcaf7d991f,Vlad Rozov,v.rozov@datatorrent.com,Mar-31-2016
+0b124a5f8e14075d2aef702ded788b5eed5e4b44,chinmaykolhatkar,chinmay@datatorrent.com,Apr-11-2016
+b52f5b1813b5ee2257d5d9ed634e7cfdcba873ef,Pramod Immaneni,pramod@datatorrent.com,Apr-12-2016
+a2c13791900d97b1fe5331e11e3d92785a2f4984,Vlad Rozov,v.rozov@datatorrent.com,Apr-8-2016
+d027118cdecdf8b2255dc0a623ccebba2c09af2c,David Yan,david@datatorrent.com,Apr-11-2016
+750d90d4626177d6cbc579a2b588da738c833c45,CI Support,jenkins@datatorrent.com,Apr-11-2016
+85db448ef11ca3573f721e1f1235d967e0e9da66,CI Support,jenkins@datatorrent.com,Apr-6-2016
+2af925cd090cffcf7c7ce44028f8a3a9e9009a94,David Yan,david@datatorrent.com,Apr-4-2016
+7167aac48f638e527050b2a6cfd74aa192da0783,ishark,isha@datatorrent.com,Feb-29-2016
+613b49767f7cb8b852fd0967d376e78f2d4ab984,David Yan,david@datatorrent.com,Apr-7-2016
+c1b2475403159c18fd50332b9c4cec902c9cc650,Sasha Parfenov,sashap@apache.org,Apr-7-2016
+381de3a2930739aa7dda52d0addd864d929e5f17,Chandni Singh,csingh@apache.org,Apr-7-2016
+f1229d47f39a14dff32742add5ad85ee8872c6b5,Timothy Farkas,tim@datatorrent.com,Apr-5-2016
+197831a531d6e3b7a700fd4af546e6a47d0fbb85,Chandni Singh,csingh@apache.org,Apr-6-2016
+25dc359a48d197dc7a523ba1842a8e450ffd7978,Munagala V. Ramanath,ram@datatorrent.com,Apr-6-2016
+ef61f102713f4b1d563b1054e5830e5b4346d39b,Munagala V. Ramanath,ram@datatorrent.com,Apr-6-2016
+2c061f8246377b424ee3e1018b62682cb671006d,Munagala V. Ramanath,ram@datatorrent.com,Apr-6-2016
+47d66b0007186df0d5542312bf0d9a89fc4a0d36,David Yan,david@datatorrent.com,Apr-5-2016
+061176656c1c529ea929d6e6332d88cc54cda84d,Thomas Weise,thomas@datatorrent.com,Apr-4-2016
+f8b4d499c61de2d4acd7710e63f52d11020eda2c,Timothy Farkas,tim@datatorrent.com,Apr-1-2016
+bcc9c9683792e5411329b1ac660a69fddfa37249,David Yan,david@datatorrent.com,Apr-4-2016
+5d3fe7876788f81c2ea15aab16309de712f2b840,Thomas Weise,thomas@datatorrent.com,Apr-2-2016
+a7c09fb66ef7ad040848b834f24c75cdfd2318aa,Thomas Weise,thomas@datatorrent.com,Apr-2-2016
+1853fbc7c27644ad769b3744565a03cc130f52d2,Chandni Singh,csingh@apache.org,Mar-31-2016
+54a6353deb97f1a1d1d745e8df19504113dff356,Thomas Weise,thomas@datatorrent.com,Apr-1-2016
+21dca7ce4cb84b8c9b48b540e07ebf66d37013a8,Vlad Rozov,v.rozov@datatorrent.com,Mar-30-2016
+2f64b5b29eef7c892c6c681cfca6dcc5f1e92279,sandeshh,sandesh.hegde@gmail.com,Mar-29-2016
+9e172111014611baf89069fd462c097edcc24a0e,Pramod Immaneni,pramod@datatorrent.com,Mar-29-2016
+48e179dd7ed9c814c0ed36cac0ee2e40bba5a092,David Yan,david@datatorrent.com,Mar-28-2016
+a784bf622442ead69b9fc1b7fd61e48e5b28ac47,Pramod Immaneni,pramod@datatorrent.com,Mar-29-2016
+e78b1f5aacb55e7b78689a5d63b6b9f70efa86ae,David Yan,david@datatorrent.com,Mar-29-2016
+062c01ae6e0bdc00801d7978a1a9774f98398d73,sandeshh,sandesh.hegde@gmail.com,Mar-28-2016
+48709d995f959cb15c8dc7e6d13be00c826b1b36,Pramod Immaneni,pramod@datatorrent.com,Mar-23-2016
+53aa51ec9755e536a805067dabc01d8c24f23425,David Yan,david@datatorrent.com,Mar-22-2016
+0f1e2bb038fbf66955990e9ff8772bef4ac2d874,ishark,isha@datatorrent.com,Mar-16-2016
+8549664399abdf3b646146f3db9e99d930ed8774,David Yan,david@datatorrent.com,Mar-22-2016
+348f1cfc55ba4108db1125fb9cf2760b6915728c,David Yan,david@datatorrent.com,Mar-22-2016
+e39c63142aaf35d36e384795e733bc543a53da83,Pramod Immaneni,pramod@datatorrent.com,Mar-22-2016
+2e22527463071cc059bdb676bde6241ee7fcfeec,trusli,teddy_rusli@yahoo.com,Mar-22-2016
+58e3a31d0d48ff19e44e5f545ef4842ac4c05f37,Pramod Immaneni,pramod@datatorrent.com,Mar-18-2016
+6de29c12e2e02d803d1b61d658ba267f22f4ae6f,David Yan,david@datatorrent.com,Mar-22-2016
+2047a8a8b02ed685976e282981cfb2ac84048fbd,Sasha Parfenov,sashap@apache.org,Mar-21-2016
+63fdfd0d0460d058b431fa211d384a4d4bf862d2,Thomas Weise,thomas@datatorrent.com,Mar-21-2016
+77877e528473b5954e9b2666d8411f0f78ac5d9b,Pramod Immaneni,pramod@datatorrent.com,Mar-21-2016
+6ff4743d0df8edeb16bfa62decfdbc552aa8a28a,Vlad Rozov,v.rozov@datatorrent.com,Mar-21-2016
+9eba29de8143efd716aba8d2a4bdb085e298ab5a,Pramod Immaneni,pramod@datatorrent.com,Mar-20-2016
+f0178e18a080e7411df2672bd7bd383c119a8923,bhupesh,bhupeshchawda@gmail.com,Mar-19-2016
+6130bca3868f19807c5f4e9352787a1ccd0d0b27,Thomas Weise,thomas@datatorrent.com,Mar-18-2016
+881d000afb796918bee683ba4679cdb80c5b59de,Thomas Weise,thomas@datatorrent.com,Mar-16-2016
+3ade9baee268dda9c1ed6b4d1b5f906b945f2043,Thomas Weise,thomas@datatorrent.com,Mar-16-2016
+84ddf18033c32def30be2739c839d5282b8491e2,Thomas Weise,thomas@datatorrent.com,Mar-16-2016
+623227ea3cb4c06f3c73940909c845313d65ea8d,Thomas Weise,thomas@datatorrent.com,Mar-16-2016
+03267b3de7cbbd53d1c8ccad21e45021f26e9c33,David Yan,david@datatorrent.com,Mar-16-2016
+d421a5abdb4e13c80d6cb1c5c5c75a37f9036249,Thomas Weise,thomas@datatorrent.com,Mar-14-2016
+2a16d10da1e6ee69108c52736f50da85d2ab1161,David Yan,david@datatorrent.com,Mar-14-2016
+a6fd80efbe4730aea233eccddc9061af953f24ac,Vlad Rozov,v.rozov@datatorrent.com,Mar-14-2016
+9fd27745a1ae74c975eae8af1d7a3ad037b22939,Vlad Rozov,v.rozov@datatorrent.com,Mar-14-2016
+fb04f62dde109ed5bae617dd827947c757e3c138,Sasha Parfenov,sashap@apache.org,Mar-14-2016
+08957596ad9e6fb377cdaf61ae1a923ed0453eca,Vlad Rozov,v.rozov@datatorrent.com,Mar-14-2016
+7c84e05e15f759d632597fc577431d4dc083e8b2,Vlad Rozov,v.rozov@datatorrent.com,Mar-10-2016
+6e6d6b1a23d053a622184c28759ac83503c14d7d,David Yan,david@datatorrent.com,Dec-29-2015
+a93fbf3e451c8da8c079d20bdb6d48ca029492c8,Thomas Weise,thomas@datatorrent.com,Mar-9-2016
+18fc36e33b354e9e7a02f6a60c1b158bdf0c9e49,Thomas Weise,thomas@datatorrent.com,Mar-9-2016
+30bb9e022f6508e293869fce482d3e64f5a4575a,Pramod Immaneni,pramod@datatorrent.com,Mar-7-2016
+9d8d9fd75733eb5b437f578fa3f3525e7f5c87dd,Vlad Rozov,v.rozov@datatorrent.com,Mar-7-2016
+b487b3b449963c4b0da0a063382846d4ff89db84,Vlad Rozov,v.rozov@datatorrent.com,Mar-6-2016
+5e932e281031a22a70720f73aa64fefae15ad9cd,Thomas Weise,thomas@datatorrent.com,Mar-4-2016
+0621bf7e01652dda54ca157e4955be240c6cd6ea,Sasha Parfenov,sashap@apache.org,Mar-4-2016
+e5e59ee1b19b2950d924ad74539d75acb49bd132,Pramod Immaneni,pramod@datatorrent.com,Mar-4-2016
+4fd1b5d0c33f40600e4b83dbe3f48e2abe9a91d2,Pramod Immaneni,pramod@datatorrent.com,Mar-4-2016
+735ec932e6f8cce55994a69aff428c5c1de40d2d,Sasha Parfenov,sashap@apache.org,Mar-4-2016
+58633c2fb32dba5378c6fb0415210a9de402bbb5,David Yan,david@datatorrent.com,Mar-4-2016
+39e67ddc8b8ba0ed1fa6f13f4cd221f49240e57e,David Yan,david@datatorrent.com,Mar-4-2016
+01a1f150f9e464828fb7b80157c1ba3ce531f9b3,David Yan,david@datatorrent.com,Mar-4-2016
+ef3ac7b07cc752ae849bb5bda913376086926960,Thomas Weise,thomas@datatorrent.com,Mar-4-2016
+7873cf0b3b63e2a63badd17845b3c2faa6279250,David Yan,david@datatorrent.com,Mar-3-2016
+c1e392385af864876738e0fb6dabc436c171e0e3,CI Support,jenkins@datatorrent.com,Mar-2-2016
+2de6943c4dd9bea1c5cab536e6b0f398393a6410,Thomas Weise,thomas@datatorrent.com,Mar-2-2016
+12927c95d268987b29e3b674e78454534891757e,Vlad Rozov,v.rozov@datatorrent.com,Mar-2-2016
+4afc02bc7fd58bcc97b5997e0a9822f511f34aad,Sasha Parfenov,sashap@apache.org,Mar-1-2016
+f883c668d96750a37a9229b4a07d1f91a32b251a,David Yan,david@datatorrent.com,Feb-29-2016
+6b78b57bd6d13cb855f7b767106d33c2b5f97885,Vlad Rozov,v.rozov@datatorrent.com,Feb-29-2016
+cf4e29ea364c8089e16790561d0971527cac9a22,Thomas Weise,thomas@datatorrent.com,Feb-29-2016
+36978ec6f3c098e55b3e0c04b999112eb65393b6,Vlad Rozov,v.rozov@datatorrent.com,Feb-29-2016
+139a9cac6397948bb63a53ea80188f2ffd6e5da2,Vlad Rozov,v.rozov@datatorrent.com,Feb-29-2016
+7bbb4cfd2af6d5c5c99c58222c44a848bc6534b2,Vlad Rozov,v.rozov@datatorrent.com,Feb-28-2016
+cfdacdf295ea1ce198dc17a07582b9441785eb9d,Sasha Parfenov,sashap@apache.org,Feb-26-2016
+7af835b012475a61d08e067cb35cec9b1429f225,sashadt,sasha@datatorrent.com,Jan-29-2016
+a10513d62bcdda925a8e9fd8377f061a0c28a857,sashadt,sasha@datatorrent.com,Nov-11-2015
+0093611724d053e9e1c923a592f1745520a64d99,sashadt,sasha@datatorrent.com,Nov-11-2015
+2a7d7c0d1b5c6ec7c80c46d2d356e26a7c6fe782,sashadt,sasha@datatorrent.com,Nov-9-2015
+b3d005bd836b3d3ad8b0cbe8cd3a3331437909cc,sashadt,sasha@datatorrent.com,Nov-9-2015
+2cec52659ce359b54ee03e665e405b332e1a98c8,sashadt,sasha@datatorrent.com,Nov-9-2015
+3422459b9222d2e7faae9d652f528644125750e5,trusli,teddy_rusli@yahoo.com,Nov-10-2015
+eab9a71dff7fa3bb6fc09ddf3f3f56fc4944609d,trusli,teddy_rusli@yahoo.com,Nov-9-2015
+a4d2b738f368677d033067eb86feb4cb85e7e4ad,sashadt,sasha@datatorrent.com,Nov-9-2015
+2136a3a97bfdc804e8df22156936074629c965c3,sashadt,sasha@datatorrent.com,Nov-5-2015
+aa044792453f5325b0efdcfe6c0da6addb3e40af,sashadt,sasha@datatorrent.com,Nov-5-2015
+8b3e3d8a7b76f8c4831d2e39e65b38337066884c,David Yan,david@datatorrent.com,Nov-5-2015
+c8cc637ea3963e731deba35feb54a0cb5a27b4f1,David Yan,david@datatorrent.com,Nov-5-2015
+c237a246ef3e07d68af408853a7b5a093519f38b,Chandni Singh,csingh@apache.org,Nov-5-2015
+fc9af11bc6b890544cf7928369cbfb935375d3cd,Chandni Singh,csingh@apache.org,Nov-5-2015
+cf750735c9d342ed826cb6868ee3810bd5328d59,Chandni Singh,csingh@apache.org,Nov-4-2015
+f64379e362fdef018e258a24c51c715b265d2b4c,Chandni Singh,csingh@apache.org,Nov-4-2015
+6b79095cf6547da41bc55d7ea2cacc4e18899c17,Chandni Singh,csingh@apache.org,Nov-4-2015
+d373226029a257311cabcbbfeedb7b7342990965,Chandni Singh,csingh@apache.org,Nov-4-2015
+affaff753ae8d191597a625db3c75c00e66fb06f,sashadt,sasha@datatorrent.com,Nov-4-2015
+528f6d71cd59c8008ae3ec6d2787940825c3abe9,bhupeshchawda,bhupeshchawda@gmail.com,Nov-4-2015
+707b9972a11b4628f1df6767463638594dfd4afa,sashadt,sasha@datatorrent.com,Nov-4-2015
+78af2e595ab048c99a2e888c149ae96d74c021e9,sashadt,sasha@datatorrent.com,Nov-4-2015
+b00e90713bca2be6fc3db6431ae81330610dba28,sashadt,sasha@datatorrent.com,Nov-3-2015
+57340bcc75a1dfb52a52a8ec1485c62fc00e984b,sashadt,sasha@datatorrent.com,Nov-3-2015
+841e482004d96249460a6ab73526b3d44376020f,Munagala V. Ramanath,ram@datatorrent.com,Nov-2-2015
+83d261885ac674350e6be8c7b59b54c088419944,Munagala V. Ramanath,ram@datatorrent.com,Nov-2-2015
+8f50fbf9292a97eb831d4649de666369c4c8ed12,Munagala V. Ramanath,ram@datatorrent.com,Nov-1-2015
+0454215b29fd32fbbcdfb70df93c9f469caeb0b6,sashadt,sasha@datatorrent.com,Oct-30-2015
+d7404aaaf97d4ae8c01993750e24c68f12157443,sandeshh,sandesh.hegde@gmail.com,Oct-28-2015
+9bbeccaa119aac67b027765afa866b7367853829,sandeshh,sandesh.hegde@gmail.com,Oct-28-2015
+ffe4471953f9ef8e06776359944c097415719e58,sandeshh,sandesh.hegde@gmail.com,Oct-28-2015
+1d16ac402ae00b23159e0e227cdab49ae1655c57,David Yan,david@datatorrent.com,Oct-28-2015
+21646996acc0f07e2e514c7923034d72db142f91,sandeshh,sandesh.hegde@gmail.com,Oct-27-2015
+95c9c1882f2acff308075cbd207a3c93296d5a3f,sandeshh,sandesh.hegde@gmail.com,Oct-27-2015
+ccf6b0449755812e8dedcdc9a23da0935ced5f88,sandeshh,sandesh.hegde@gmail.com,Oct-27-2015
+1e4fe84a6c82d6ad6c40270960ba86d2498cd367,sashadt,sasha@datatorrent.com,Sep-30-2015
+fb71ea01176fe8db1148ac51c48f005c869a8466,sashadt,sasha@datatorrent.com,Sep-23-2015
+00939d54b32541766319a105badbb611a6843111,Vlad Rozov,v.rozov@datatorrent.com,Feb-28-2016
+c6b3a925a408e767796230ff54055fd2d9f19480,Vlad Rozov,v.rozov@datatorrent.com,Feb-28-2016
+c2eb06c686e93419764140a0e07b046a73d172be,Thomas Weise,thomas@datatorrent.com,Feb-27-2016
+99466a3ad4664b9917d1639d134bc6ea6507ba45,David Yan,david@datatorrent.com,Feb-25-2016
+741c849fc18d87cdd7048884d030131cc8b11944,David Yan,david@datatorrent.com,Feb-25-2016
+1a372857765bfcae137b1d212f0ae73b8fa51897,Pramod Immaneni,pramod@datatorrent.com,Feb-18-2016
+52c16418ebd657d30896a527ec1c63776c8fa03f,ishark,isha@datatorrent.com,Feb-25-2016
+ee857e5c6843e1cfb290e7d0dea95c32edd3cfff,David Yan,david@datatorrent.com,Feb-25-2016
+5e0d4b7588b5cba7273ff5d37705d18db4f6f139,Vlad Rozov,v.rozov@datatorrent.com,Feb-23-2016
+184ea5e2c5584ad8572f2a6bf2c309b6a5701d4d,Thomas Weise,thomas@datatorrent.com,Feb-24-2016
+39092384011649caf68e3e7ef04bdcc7b4698738,Vlad Rozov,v.rozov@datatorrent.com,Feb-16-2016
+fbfa65b68eba0608e3bea3201b4d370d1a9fee0f,Pramod Immaneni,pramod@datatorrent.com,Feb-24-2016
+264a4f3a46309f916e458ee5203b293f70e57dd3,Chandni Singh,csingh@apache.org,Feb-24-2016
+3efd65900bd495efd6aa43ffa751a0579da21804,David Yan,david@datatorrent.com,Feb-24-2016
+470bdeb27b09e18c70bbda8cc96b6c5e4aabba15,David Yan,david@datatorrent.com,Feb-23-2016
+d99314da1be66e47b49595027052375e9888838a,David Yan,david@datatorrent.com,Feb-19-2016
+b81468c2f08f14cd1139d890839ac66bf7fd6736,Thomas Weise,thomas@datatorrent.com,Feb-19-2016
+e5512a3b798b189e4e2cb239bc096b0ec1ddbae4,David Yan,david@datatorrent.com,Feb-19-2016
+5790ea426d2a6b21fe00f8b97e2a48e14fc18c38,David Yan,david@datatorrent.com,Feb-17-2016
+9e30cf86da8b331e67d66bfa6b33a090c3845a7f,Thomas Weise,thomas@datatorrent.com,Feb-16-2016
+99aa417d964228ccadd6ee653ea6cf5f371eca94,Thomas Weise,thomas@datatorrent.com,Feb-9-2016
+4437a614fadf9e36d557b2e10fc480e72990bea5,Thomas Weise,thomas@datatorrent.com,Feb-9-2016
+8856939b3007e4a7d47cb566e26da046daa87479,Vlad Rozov,v.rozov@datatorrent.com,Feb-9-2016
+43711f34790475323aef4b3ea4fd4374bc9a414c,Vlad Rozov,v.rozov@datatorrent.com,Feb-8-2016
+b3768f38c5db4fce7e3c5d4e23b966fd3fe91185,Vlad Rozov,v.rozov@datatorrent.com,Feb-9-2016
+058833c31f36bc9ce871eba3350100893ecaa74c,Vlad Rozov,v.rozov@datatorrent.com,Feb-9-2016
+bbc4257b083b2b899f387fc220b6d2ae931a12d3,Thomas Weise,thomas@datatorrent.com,Jan-31-2016
+9f52c9b58d09ba30b3417b2e0cc13d1b5a41e873,Thomas Weise,thomas@datatorrent.com,Jan-29-2016
+d5c29fea83028480eb6c70a5208c3219f9925f56,Vlad Rozov,v.rozov@datatorrent.com,Nov-17-2015
+7cb6e93b8e3f2393d0c4192de772e2f7b4d8c10e,Vlad Rozov,v.rozov@datatorrent.com,Nov-10-2015
+2d175ff0f79302ebba3fab0d16fd55d787dfc3ba,Vlad Rozov,v.rozov@datatorrent.com,Nov-10-2015
+809066668105a4f54d04571dcc89f103d8c23d3f,Pramod Immaneni,pramod@datatorrent.com,Jan-30-2016
+9ffbc73e7fa877bddbb0b3849b87c9149a1b00a2,Thomas Weise,thomas@datatorrent.com,Jan-28-2016
+f32fa1b862ada333c31746ea3cb5510b198591d3,Thomas Weise,thomas@datatorrent.com,Jan-25-2016
+d58de0c803131109f970885d69a9f6c97546d5c6,Vlad Rozov,v.rozov@datatorrent.com,Jan-18-2016
+50b0855d840eb99d03cf8877e4b208e9a0ec85f1,Thomas Weise,thomas@datatorrent.com,Jan-23-2016
+5371bc7b7cf33e5d5c96775e241af002fc22d5ed,Thomas Weise,thomas@datatorrent.com,Jan-23-2016
+b3402be5a45728515f4a8328fec5a76ddede0350,Thomas Weise,thomas@datatorrent.com,Jan-21-2016
+4d5828c6ca48f5d28cd8c77c5706c6f72c7cd1ad,Gaurav,gaurav@datatorrent.com,Dec-16-2015
+f7e1ccf14154eca92b24c5f6b5387fe56c516829,David Yan,david@datatorrent.com,Dec-9-2015
+d0908e4bc226216805975ade997469dcd65b0b42,ishark,isha@datatorrent.com,Jan-20-2016
+d0b4bdb24e77a08181e07f13d7c5794d39c6203c,Thomas Weise,thomas@datatorrent.com,Jan-20-2016
+c284c39cd7dd6ff3aba04290f9d4612a1108dbbe,Thomas Weise,thomas@datatorrent.com,Jan-15-2016
+d82d76698873facf58567ef42b84cad75ef8e810,Gaurav,gaurav@datatorrent.com,Jan-11-2016
+ff198ae9705aa1897b161ce95370e923ac1323ea,Gaurav Gupta,gauravgopi123@apache.org,Jan-14-2016
+59770d0647bedbe81e794e3f3fd476e581c4339c,Vlad Rozov,v.rozov@datatorrent.com,Jan-11-2016
+3b6c252fe2a1855a6044b122a69fbb6f9376a1fe,Vlad Rozov,v.rozov@datatorrent.com,Jan-11-2016
+aded30c45cc7bd2dba08243c5d0536fe9fe13bb1,Vlad Rozov,v.rozov@datatorrent.com,Jan-10-2016
+42ac8ae05b1b4fb2cffc09dcc9dcb17e2c2665c7,David Yan,david@datatorrent.com,Jan-8-2016
+ec0c88b183d82257da185d42e664bd95474ad206,David Yan,david@datatorrent.com,Jan-8-2016
+9da2e852f559d4c916d0d25a2c168810d2951eb0,MalharJenkins,jenkins@datatorrent.com,Jan-8-2016
+778436f76a21f655d844c18b7a2956115c3853a9,MalharJenkins,jenkins@datatorrent.com,Jan-8-2016
+b14583c4d86a2e6f6efec7b484f3804e9fc73f98,Thomas Weise,thomas@datatorrent.com,Jan-8-2016
+f6e2930d4368d5abf63fdd96f03ae6e477a9e865,Vlad Rozov,v.rozov@datatorrent.com,Jan-8-2016
+d5e82468cfd27cdfd09135f8e6956147ac5d9dc3,Pramod Immaneni,pramod@datatorrent.com,Dec-11-2015
+7629be8f42b58485c97332087a68e13e3f23cdf8,Chandni Singh,csingh@apache.org,Jan-7-2016
+ffa844732e5cd31710ebdf9d827aef2ace530244,Vlad Rozov,v.rozov@datatorrent.com,Jan-7-2016
+3f3afeaa102dfe1603e0d788ed9feaa956a71915,siyuan,hsy541@gmail.com,Jan-5-2016
+fadb6f4f702315ea7123911d330e3e9711f439db,Chandni Singh,csingh@apache.org,Jan-4-2016
+2da1000656b23f0ada2eb7f5a64a3f7cb76c7255,Thomas Weise,thomas@datatorrent.com,Dec-31-2015
+4b2c88444b7d5029bd64ff7f7485af8aeeb97de3,Thomas Weise,thomas@datatorrent.com,Dec-31-2015
+be075b81d5f5a7b4d5b556cfa3c5f28f349333f5,Tushar R. Gosavi,tushar@apache.org,Dec-23-2015
+07bc9690e2517be4dd7ba04c3a30c55202f4f1f0,MalharJenkins,jenkins@datatorrent.com,Dec-28-2015
+3f76dcbfa04d74ca34da0d360b533f8f3d4536f3,Thomas Weise,thomas@datatorrent.com,Dec-30-2015
+845796abc5f5d1f92f43b40e105f1b18cb2d8632,David Yan,david@datatorrent.com,Dec-29-2015
+587912450b49d59ce8850063b6b56a385d567854,Gaurav,gaurav@datatorrent.com,Dec-30-2015
+ecb96bad0aa2e5c959d7626ebdd93e0fb265c424,Chandni Singh,csingh@apache.org,Dec-22-2015
+56b55fe1da241f3131b3fe1396401b06414d4ffb,Thomas Weise,thomas@datatorrent.com,Dec-22-2015
+47b3ce8e4019f325c2e91968cb120763f18bb174,shubham,shubham-pathak22@github.com,Nov-17-2015
+c1314eafaac239b420d085a4584d5c5acaf3e69b,bhupeshchawda,bhupeshchawda@gmail.com,Oct-6-2015
+14a09bb51cb30585e7979ec022ec762ac2ba91e5,chinmaykolhatkar,chinmay@datatorrent.com,Oct-7-2015
+b0360d45a361e462124db9c3000977987ca830e6,Tushar R. Gosavi,tushar@apache.org,Oct-6-2015
+2f1e1dfeb400bd7f01275a95522766abe909d936,Vlad Rozov,v.rozov@datatorrent.com,Sep-23-2015
+02c43eea28d27fd71fe3f551dfaceb0c3c931db8,Ashish Tadose,ashish.tadose@gmail..com,Dec-18-2015
+c5780754c0f5b5ffc9fdb2a75f52ea58ba7ceb86,David Yan,david@datatorrent.com,Dec-15-2015
+0d5bfa5be27128de0be89335346c7c3cac40e31a,Thomas Weise,thomas@datatorrent.com,Dec-14-2015
+0b0f914cdf4ba77e435164561c077a215cd1c4cf,Timothy Farkas,timothy.farkas@ge.com,Dec-2-2015
+60aa9bf290fb4fe78f2bd2aa5fe0d53f9e6a9862,Chandni Singh,csingh@apache.org,Dec-2-2015
+994f868e95f738c2a863c5440e7284ddc7a2a2fe,Chandni Singh,csingh@apache.org,Dec-2-2015
+c3369486607a74299c4340bcd84b89c6b147e354,Thomas Weise,thomas@datatorrent.com,Dec-1-2015
+564888e5930e0cddf0b5037696fe2ba0cdd0e515,Vlad Rozov,v.rozov@datatorrent.com,Dec-1-2015
+38a6f4e3bec2412f0b98ce18dd727c2d335c4d1f,Gaurav Gupta,gauravgopi123@apache.org,Dec-1-2015
+2c4254f95eb40aa18b3daa09c382e2158909b2e3,Timothy Farkas,tim@datatorrent.com,Nov-15-2015
+c30dd952c5d99102c6626bcc1aec96febdc4aeb5,Thomas Weise,thomas@datatorrent.com,Nov-23-2015
+9656248cf63c3be12ba06d01c0caef9fd061664d,Timothy Farkas,tim@datatorrent.com,Nov-23-2015
+d71473dafb5d501fcb5b71ecc799dc63e6ecfacc,David Yan,david@datatorrent.com,Nov-19-2015
+d29ce95bdffa395f69901af697b8757b5b8a8915,ishark,isha@datatorrent.com,Nov-22-2015
+799df6c0aba94c20bef0eb2d975d3f5649b02f54,MalharJenkins,jenkins@datatorrent.com,Nov-19-2015
+892355ca18084130d8b2044e38b14528ec1bf546,Thomas Weise,thomas@datatorrent.com,Nov-20-2015
+2f51b4f087139c496cbc7d457e24f96ef623864d,Vlad Rozov,v.rozov@datatorrent.com,Nov-19-2015
+bf8d3edaa9a2d5b5d71af4357f9316117b7545dd,David Yan,david@datatorrent.com,Nov-19-2015
+0710f926c7b933a0c124f2b808f3d8d4f0145d78,David Yan,david@datatorrent.com,Nov-19-2015
+ca542e3d8a6bf6f9fe2a9bc886a279b47bcf3c51,Timothy Farkas,tim@datatorrent.com,Nov-17-2015
+93d715a5c3ad7e7666637dc20e80ae9b36e01e95,Chandni Singh,csingh@apache.org,Nov-17-2015
+3befce7ec9de9127aea1e760f8d6e5d19b38c715,David Yan,david@datatorrent.com,Nov-17-2015
+cb5e8a2dd8b9f443ab8e6e0078bce348820c7d6f,Chandni Singh,csingh@apache.org,Nov-16-2015
+5b8a4d5028ed769318794b59bdece4ae3afe633d,Pramod Immaneni,pramod@datatorrent.com,Nov-16-2015
+93bdf2d10f1949d58b4ca1dc9391c931aa2612a2,Pramod Immaneni,pramod@datatorrent.com,Nov-16-2015
+a4207c5685822a22020d253c0a00231bd83af2c0,Timothy Farkas,tim@datatorrent.com,Nov-14-2015
+61fd64df294e215e91455eada2e3aa2c81a0528e,Timothy Farkas,tim@datatorrent.com,Nov-12-2015
+1873f55623fbcf0e8c9f3ec1c35e4d3776a03768,siyuan,hsy541@gmail.com,Nov-11-2015
+3d98664ee3689e31af7e3c6ee69d2f946b57c13a,Timothy Farkas,tim@datatorrent.com,Nov-11-2015
+30f4e21f1b1c9e5b2eb821c2aab26af9555de323,Chetan Narsude,chetan@apache.org,Nov-11-2015
+aaa21a3be739e9674f96329e9e2f78197aa654d7,Chandni Singh,csingh@apache.org,Nov-11-2015
+49eb57e4334027240f1fd91f6bd2d2534d817548,Ilya Ganelin,ilya.ganelin@capitalone.com,Nov-11-2015
+d14ab1e570cf76d6849109751354276176354c35,Ilya Ganelin,ilya.ganelin@capitalone.com,Nov-5-2015
+a198a622fd489a1b1ffd06339176d5c250c12030,Chandni Singh,csingh@apache.org,Nov-11-2015
+71ebf1724323c91103c6947205031ed21277e370,ishark,isha@datatorrent.com,Nov-11-2015
+0631c9b98fc266d1f43ebfb21e378c3676a2af84,siyuan,hsy541@gmail.com,Nov-11-2015
+eb46bfece818db24f474fef489586f57796d887d,Chetan Narsude,chetan@apache.org,Nov-10-2015
+b3863b24b6c58ed8cb8bd63c6ba660f4743315c8,David Yan,david@datatorrent.com,Nov-6-2015
+29a4e223e1944576836a4419cbd79e7e24c64cab,David Yan,david@datatorrent.com,Nov-4-2015
+82fd8c36db74981e8a57f3c362a8912466755706,Chandni Singh,csingh@apache.org,Nov-6-2015
+f35522b5ac2426967f916c627fe57ae823f03a3b,Thomas Weise,thomas@datatorrent.com,Nov-2-2015
+b6d80ca52a94ae1ae10f06f79c55a126e5915fb5,Thomas Weise,thomas@datatorrent.com,Nov-2-2015
+b1af72403ea37d087d3b9504b328d2da876d6e0d,Thomas Weise,thomas@datatorrent.com,Nov-2-2015
+18d437315689aeea32c391a9670f7fc17554fed2,Pramod Immaneni,pramod@datatorrent.com,Oct-27-2015
+b0aab1adf7f00f170c954ea5cd7d731a9fe8dfa3,Ilya Ganelin,ilya.ganelin@capitalone.com,Nov-1-2015
+b4b7c071736031ff2cbe32134e6eaf2c6738c1c8,Thomas Weise,thomas@datatorrent.com,Oct-31-2015
+af7179cba6290926e782f65466f4efabb3e89a34,Thomas Weise,thomas@datatorrent.com,Oct-30-2015
+5731d22c2908231720b1e445c1e777d570547fb8,Thomas Weise,thomas@datatorrent.com,Oct-20-2015
+2c8639e944a26e48aae420a1d80c31e954c942b1,Thomas Weise,thomas@datatorrent.com,Oct-30-2015
+8a960152d4a290c547affff00e0227d5e3753e1a,Vlad Rozov,v.rozov@datatorrent.com,Oct-28-2015
+9049be71697897fb6fa136e443cd4ffbfc089b26,Chandni Singh,csingh@apache.org,Oct-27-2015
+ec51e8b639cc1a53ef8748c86955f157dab272a4,Chandni Singh,csingh@apache.org,Oct-27-2015
+eb7d721f66b5a22840678c55602eeb82e03a2aba,Timothy Farkas,tim@datatorrent.com,Oct-26-2015
+8d9aa4b32ec253721c92b3d2590f6f39085d42d2,David Yan,david@datatorrent.com,Oct-27-2015
+aa288871c9e8cc0313becf63a9be129b3e42e083,Vlad Rozov,v.rozov@datatorrent.com,Oct-25-2015
+7f1f81fd5326cd4ac776c33cb18c16d5cf41d90f,Thomas Weise,thomas@datatorrent.com,Oct-22-2015
+40fba973ea333c8c10d3d5fa0e2b6a876d917e6f,Thomas Weise,thomas@datatorrent.com,Oct-22-2015
+b44c6468f1b30570898c257c922543d9fb417dd6,Vlad Rozov,v.rozov@datatorrent.com,Oct-22-2015
+a190e86e8f508308af539f5b473996e5fd4d6834,Thomas Weise,thomas@datatorrent.com,Oct-22-2015
+625131017d4ba01cc542ff6d787f52c450c95abe,Thomas Weise,thomas@datatorrent.com,Oct-22-2015
+3b3d068ff86180744fd5c7adb3d456c3c8d77ca3,Thomas Weise,thomas@datatorrent.com,Oct-21-2015
+2e8ffc6be9905dc2165965445a2122caa9b49776,Ilya Ganelin,ilya.ganelin@capitalone.com,Oct-21-2015
+83f95d82db4549ea48be4965257605c147998187,ishark,isha@datatorrent.com,Oct-21-2015
+eb0a95fed5243495bdbecf6ea159467d92d698aa,Chandni Singh,csingh@apache.org,Oct-21-2015
+496161ac2d936e2c67f1ec6317cc440bebaf9148,Chandni Singh,csingh@apache.org,Oct-20-2015
+e3cecc2664e760931837c8caa399beb3518795de,Thomas Weise,thomas@datatorrent.com,Oct-21-2015
+807e470e8b2d25c00981c7ce24fd7a1fd945fb96,Pramod Immaneni,pramod@datatorrent.com,Oct-21-2015
+42dd9f84412675916bc1f0c487f106551b453d79,MalharJenkins,jenkins@datatorrent.com,Oct-20-2015
+5b6e4281865dd64baf8b12f87fd6b4225dcd0216,Vlad Rozov,v.rozov@datatorrent.com,Oct-9-2015
+72eda3d4ca3543750e3ad2348071582647af4570,Munagala V. Ramanath,ramapex@apache.org,Oct-20-2015
+2c5ccb0166addee37cedaa495de29824e0f499a0,David Yan,david@datatorrent.com,Oct-20-2015
+15ff42d8d0d7d99e47e34aab6633756f046d270c,Chandni Singh,csingh@apache.org,Oct-19-2015
+529597fc02ead77900ab661738405ca9b36e5e9b,Thomas Weise,thomas@datatorrent.com,Oct-18-2015
+d7afe728091ff6d795dda202d0a3579d1ede88a9,Thomas Weise,thomas@datatorrent.com,Oct-17-2015
+dac8fa8f73b53533937fea1d3d34b4cb496f3e67,Thomas Weise,thomas@datatorrent.com,Oct-17-2015
+ccee82fd0a2dc2c3a5dcd682705d38f392613fec,Thomas Weise,thomas@datatorrent.com,Oct-17-2015
+7d0a6442e4c343dcc161d4ea84f9b205956ca9e5,ishark,isha@datatorrent.com,Oct-14-2015
+f48074ae04de0e7e84e54faa4eed1a9f245cf6e0,Thomas Weise,thomas@datatorrent.com,Oct-16-2015
+b1e7ea48311e375f4487a7276d982e120fa6a5ab,Thomas Weise,thomas@datatorrent.com,Oct-13-2015
+3e3618668d672252a7b884fd80fb9da8c90378b9,David Yan,david@datatorrent.com,Oct-15-2015
+b336f64df18907caab50957313cbd7270535c62d,Andy Perlitch,andy@datatorrent.com,Oct-15-2015
+722fd6720f44af166cc1bcbd54e1cd8fed0b993f,Thomas Weise,thomas@datatorrent.com,Oct-15-2015
+330a2841c51736bf1ac7aded90c46e1947b4f56f,Chandni Singh,csingh@apache.org,Oct-14-2015
+ecb19fa783c0d5eaecfd9056681557d3343a44e7,Chandni Singh,csingh@apache.org,Oct-14-2015
+265e9088d2a3a4776cb8c7a1d2d1f35e561eb63b,Thomas Weise,thomas@datatorrent.com,Oct-13-2015
+14f5269ef6bcdb5a27db0c88dd8bbc05cc73254e,Thomas Weise,thomas@datatorrent.com,Oct-13-2015
+fb33c23e141c422c85eefc06e680e9ecbf459936,ishark,isha@datatorrent.com,Oct-12-2015
+8767377927d60ab8e3d483043170f7376bd81c57,David Yan,david@datatorrent.com,Oct-12-2015
+3c35cccbd574d2a28e543b644deeb9f7c8a886e5,Vlad Rozov,v.rozov@datatorrent.com,Oct-12-2015
+809e6f6db5bbbc34bead94cfd1b19b18d6ae9903,Vlad Rozov,v.rozov@datatorrent.com,Oct-10-2015
+14df1c6d6bc222759655fde4a125e181cdc43630,Thomas Weise,thomas@datatorrent.com,Oct-9-2015
+48cd2e8ffd7afd9cc7aa2aa8a8a44235616ece43,David Yan,david@datatorrent.com,Oct-8-2015
+3d0dd624a1b83b819fa64ab1f9fc3da6402db7fb,David Yan,david@datatorrent.com,Oct-7-2015
+c442568a9f2ec995434d27ef263838c2822cbb41,David Yan,david@datatorrent.com,Oct-7-2015
+423402420dd616d35ba2e7f445cf98f1995cb6a9,Pramod Immaneni,pramod@datatorrent.com,Oct-7-2015
+12af6140fe89c688b9add8dfe07f27fcd4c8ffa3,David Yan,david@datatorrent.com,Oct-5-2015
+5086212928f341581ca94cf415ae6ebd42a4bc31,Vlad Rozov,v.rozov@datatorrent.com,Oct-5-2015
+e5a01842b1604b6d037843b0893a50e8d08775f3,Thomas Weise,thomas@datatorrent.com,Oct-5-2015
+b986f70e45e6ab091fff6f0f9cae625eccccd8b7,Chandni Singh,csingh@apache.org,Oct-4-2015
+8104e25b6e0111d839038ac0c30e25593f2cb013,Vlad Rozov,v.rozov@datatorrent.com,Oct-4-2015
+5324f10827afa9693a8def66d4f5c554185888c9,Vlad Rozov,v.rozov@datatorrent.com,Oct-4-2015
+2bd6a8db567964037dad0c5b8fcbe2bdcec88fb7,Vlad Rozov,v.rozov@datatorrent.com,Oct-4-2015
+45e891c7cd7f83a34a4eefc0de10306ba139d2da,Pramod Immaneni,pramod@datatorrent.com,Sep-25-2015
+0aa700634e0a1d487ee90f7545d4195d934ba841,Thomas Weise,thomas@datatorrent.com,Oct-3-2015
+ec03f12cd0f1b9994a878237ca649d4c4a9c0423,MalharJenkins,jenkins@datatorrent.com,Oct-3-2015
+88ee4ad16a5a3daba98a5e39d3eedda81c97e3ac,Chetan Narsude,chetan@datatorrent.com,Oct-2-2015
+9193ec81ac2e41c06bc71e73643eca2bcc458bc8,Timothy Farkas,tim@datatorrent.com,Sep-30-2015
+dec20032b42d424b14b683ef7816f8c0f49bfa8f,Chandni Singh,csingh@apache.org,Sep-29-2015
+cf97d0b7119edd1feea9ad5c9aac23aa9bf6732b,Timothy Farkas,tim@datatorrent.com,Sep-29-2015
+b799bd2d3edd7af3bdf4631129601e68ce349bf4,ishark,isha@datatorrent.com,Sep-24-2015
+7957570e02edfd4221bfcc015922b5c660518158,Vlad Rozov,v.rozov@datatorrent.com,Sep-28-2015
+4adac06d3d79e3731a86a958194fefea9cf69a9f,Chetan Narsude,chetan@datatorrent.com,Sep-28-2015
+8e49cfb1a9f1ccd818016ad6f169ebfde0256775,Thomas Weise,thomas@datatorrent.com,Sep-27-2015
+fb53705d928f18087675a1bfb8b45c9580129682,Thomas Weise,thomas@datatorrent.com,Sep-27-2015
+0fc22a094d5ae67e249f8dbc728c5e6a32eecfbc,Vlad Rozov,v.rozov@datatorrent.com,Sep-26-2015
+0a89c83c48c207cd282f264a8bf515621768eceb,Pramod Immaneni,pramod@datatorrent.com,Sep-26-2015
+9990e159599998bb3a6f574c8b51a73d5eaf2c3a,Vlad Rozov,v.rozov@datatorrent.com,Sep-26-2015
+0a85586dfd194a0b77cb438e68a54c16e99d2cf7,Vlad Rozov,v.rozov@datatorrent.com,Sep-25-2015
+e6263b5cf0c79d8506dc2a396cce441dd23f84e1,Chetan Narsude,chetan@datatorrent.com,Sep-25-2015
+d8e1e74da00619a3c0e021ecd167de57fcc0e262,ishark,isha@datatorrent.com,Sep-23-2015
+90bda5e212c69a9a2dcf093c4d5f64bd126ce5f8,ishark,isha@datatorrent.com,Sep-25-2015
+70d42741d6cf057352be9bbc204e872c9c26ac47,Thomas Weise,thomas@datatorrent.com,Sep-25-2015
+77aa6a2e339cf0ff16956b062040634e98ba38fe,Chandni Singh,csingh@apache.org,Sep-24-2015
+3d30347a0fd376322e92818b3e6a7d0d5b4f5aa9,Chandni Singh,csingh@apache.org,Sep-25-2015
+38226e666c6239d8eb3da7e01f0f88ba9217ee1d,David Yan,david@datatorrent.com,Sep-25-2015
+381ee94854e264461e167357284c9ff5392fb871,David Yan,david@datatorrent.com,Sep-22-2015
+730e57f78d44874db7be7ecf89497cf0010e1c55,MalharJenkins,jenkins@datatorrent.com,Sep-24-2015
+6345be337b0b83c7a44ccb94c78c1be4aae91870,MalharJenkins,jenkins@datatorrent.com,Sep-24-2015
+d79258f80f6323055db8b31363d6546f768d63dc,Thomas Weise,thomas@datatorrent.com,Sep-24-2015
+a9486515ce5450afc1be9e63555e714c14a427b5,Thomas Weise,thomas@datatorrent.com,Sep-24-2015
+12970c4f216f6cd1a35fbc5de517a24185c01890,Thomas Weise,thomas@datatorrent.com,Sep-24-2015
+1b88ad8a8d7e5f87dff83bc6ab69ed36c747ea2f,Thomas Weise,thomas@datatorrent.com,Sep-24-2015
+78cef72dc17c5e8262b3750536b979f4f05b3fc0,Chris Nauroth,cnauroth@hortonworks.com,Sep-24-2015
+bf7221554dfe52abff6475e5de6ac8dbe5f818dd,Chetan Narsude,chetan@datatorrent.com,Sep-24-2015
+84425caadc814eb0fc9c09a2e514a046c71a8ff6,Thomas Weise,thomas@datatorrent.com,Sep-24-2015
+7c14f7c2ea1d947b2b45a48f95fd805252865c6a,siyuan,siyuan@datatorrent.com,Sep-24-2015
+29bc834733616b20f5804ea1f6ee0316a22dff9f,Chandni Singh,csingh@apache.org,Sep-24-2015
+3f2581ec1d6bc68054a23afdd9b46ca1aa363d0c,Chetan Narsude,chetan@datatorrent.com,Sep-23-2015
+eb0e9286106c778da02eed858b521cca39bcf30e,Chandni Singh,chandni@datatorrent.com,Aug-10-2015
+44d1bfc340b3bb90a513fe9c8a4aefe86dae8f29,Vlad Rozov,v.rozov@datatorrent.com,Sep-20-2015
+507fac34baebdd5cc2e96a4baf29a77fc12bd9fe,Chetan Narsude,chetan@datatorrent.com,Sep-21-2015
+de1d0032af89b03b5bd39442e6b692937a84857b,Chetan Narsude,chetan@datatorrent.com,Sep-21-2015
+bb11094631287919476a130d61957a6f046f6fdc,Munagala V. Ramanath,ramapex@apache.org,Sep-21-2015
+9b78c67b68dd42b8216457e886c3cf221b9275b2,Chaitanya,chaitanya@datatorrent.com,Sep-21-2015
+282c43b2e6c031700bb0754e36b2680f1846bf63,bright,bright@bright-mac.local,Sep-18-2015
+e482804a856f2a5c8e3591af14cf552093017fe4,Brennon York,boyork@apache.org,Sep-18-2015
+d2f73e3124e409979d1aca5900c5883a28482a5b,Vlad Rozov,v.rozov@datatorrent.com,Sep-17-2015
+2c081b45ebf4c57b66075a993f53fa721aa45c93,Gaurav,gaurav@datatorrent.com,Sep-15-2015
+041beb9fb5e38dc628db9b9a7cfaed8027824e0d,MalharJenkins,jenkins@datatorrent.com,Sep-16-2015
+454feccacd280996624db339e6270bb0f20ebccc,Chandni Singh,csingh@apache.org,Sep-16-2015
+b71878376379a9fd4a02a7cca239c5bc5dd578c5,Vlad Rozov,v.rozov@datatorrent.com,Sep-16-2015
+977093e171f1183985ae80d42b0d6dbc3af6cbc5,Timothy Farkas,tim@datatorrent.com,Aug-25-2015
+7503dde513489c74bad44c4e81e04bbafcfdfaff,Chetan Narsude,chetan@datatorrent.com,Sep-15-2015
+8578a714193196f485c5cec4e380373215679619,Vlad Rozov,v.rozov@datatorrent.com,Sep-15-2015
+cecdf4c7351eb3605acc7864bb50b1724993181d,siyuan,siyuan@datatorrent.com,Sep-15-2015
+2cd917d9b86471ef50ed69e286faddf9212a871e,siyuan,siyuan@datatorrent.com,Sep-15-2015
+0936445bd06f68abd899eff2cac5f2cbb01cbaf7,Chetan Narsude,chetan@datatorrent.com,Sep-15-2015
+b1666b778b54667023f5beba43e07227eb90298b,Chandni Singh,csingh@apache.org,Sep-14-2015
+7801b7a3af777afc26cda26fcbb0f11c25d3cbcd,Gaurav,gaurav@datatorrent.com,Sep-15-2015
+c0baa9d9bda1ffabba0bbc24f5dcb14b741b9eb4,Thomas Weise,thomas@datatorrent.com,Sep-14-2015
+91e63b5448ecbfb210e9311449c1d756cdbf0862,Gaurav,gaurav@datatorrent.com,Sep-14-2015
+eead2d178500437098ad70a95c591f4fa7ac1f2a,Thomas Weise,thomas@datatorrent.com,Sep-14-2015
+5e1d541154639372c62143e8f990762183721d14,David Yan,david@datatorrent.com,Sep-14-2015
+77e693c26962f90803b87212a512bfc3dd03c96b,Chandni Singh,csingh@apache.org,Sep-14-2015
+efaa8f282e2404344f95cb0f5ce9d401e28391de,Pramod Immaneni,pramod@datatorrent.com,Sep-14-2015
+9aa8514afd0c97f3561c25843da4ecdcdd5eeb80,DataTorrent CI,jenkins@datatorrent.com,Sep-10-2015
+f296129c34032ecaf5c456ffd047389b57d1f93e,Aniruddha Thombre,aniruddha@aniruddhas.com,Sep-14-2015
+8aae573318b74948478a1dd29d832d4daa1a9080,Aniruddha Thombre,aniruddha@aniruddhas.com,Sep-14-2015
+89aefea4c0b5ac8b40efd2a191b81142a8c302f9,Gaurav,gaurav@datatorrent.com,Sep-12-2015
+760039e81ec72de0d462b0d16f5961ed35648e83,Gaurav,gaurav@datatorrent.com,Sep-12-2015
+c349090049c14564ce9468c0c4ddae2c54d042f7,Gaurav,gaurav@datatorrent.com,Sep-11-2015
+4023ce01d9bd9b64bf7034e4bfcf591e4409febb,Gaurav,gaurav@datatorrent.com,Sep-11-2015
+928d36804b695e35e8a59cc8acf3aabc23b296a9,Chetan Narsude,chetan@datatorrent.com,Sep-10-2015
+97cbef6c7294e80f8966fd812fd1b642cba477cf,Chandni Singh,csingh@apache.org,Sep-10-2015
+ac25fbaa63844e6760a90711a956402388cd22fa,David Yan,david@datatorrent.com,Sep-10-2015
+6c2425948a50a6c76a93e359356cbb387155ed22,David Yan,david@datatorrent.com,Sep-10-2015
+9d83a44457ab7c30c4f8d521eec24b82780b1851,Gaurav Gupta,gauravgopi123@apache.org,Sep-10-2015
+b82f90523f01019443220db7ceefa9f44c055e8e,David Yan,david@datatorrent.com,Sep-9-2015
+b57972bd336f8db6f41c72d2c8c7c95ff5ca934b,Chandni Singh,csingh@apache.org,Sep-10-2015
+7888aa244b71f121f064800c64a2e823dff35f34,David Yan,david@datatorrent.com,Sep-9-2015
+065ddbef4d11a9179853341e9394183bac201a2b,David Yan,david@datatorrent.com,Sep-9-2015
+39d5d31e50c9e4fda863d0b0f620fc02f6f8382d,Chandni Singh,csingh@apache.org,Sep-9-2015
+8eb81f7c6bcb17d209542ab2221e6738353317dd,Chetan Narsude,chetan@datatorrent.com,Sep-9-2015
+3178f13f49695aa4f6910006ecd4efbca8dad6a9,ishark,isha@datatorrent.com,Sep-3-2015
+1b8aecf3b429069b92a790a4aae2e41490934de7,Vlad Rozov,v.rozov@datatorrent.com,Sep-9-2015
+09f716e004ef5b8cb990d94f8a8a10f65c6f4f0b,Chetan Narsude,chetan@datatorrent.com,Sep-9-2015
+243d5afd2d4396118f7099acc3dcf7e427e3287e,Chetan Narsude,chetan@datatorrent.com,Sep-9-2015
+e512610ed6a84f7a4d0d904bd9e010ac56cf109c,David Yan,david@datatorrent.com,Sep-8-2015
+9b2abe09228714bdffdde1991942c70d9a94b50a,Gaurav,gaurav@datatorrent.com,Sep-4-2015

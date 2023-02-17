@@ -1,0 +1,5 @@
+file_path,method,api
+/common/src/test/java/org/apache/shindig/common/cache/ehcache/EhCacheCacheProviderTest.java,getInternalState,org.powermock.reflect.Whitebox
+/common/src/test/java/org/apache/shindig/common/cache/ehcache/EhCacheCacheProviderTest.java,getInternalState,org.powermock.reflect.Whitebox
+/common/src/test/java/org/apache/shindig/common/cache/ehcache/EhCacheCacheProviderTest.java,getInternalState,org.powermock.reflect.Whitebox
+/common/src/test/java/org/apache/shindig/common/cache/ehcache/EhCacheCacheProviderTest.java,getInternalState,org.powermock.reflect.Whitebox

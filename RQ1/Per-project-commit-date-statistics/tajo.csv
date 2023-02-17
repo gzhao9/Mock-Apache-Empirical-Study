@@ -1,0 +1,962 @@
+commit_id,Author,Author_adress,Date
+b68fc2e4de90dfe4d9cff3cebafe07deab6ef2de,Jonathan Leitschuh,jonathan.leitschuh@gmail.com,May-11-2020
+c0361b92bb123124580d2fb4cf29be6940a76beb,Hyunsik Choi,hyunsik@apache.org,Sep-4-2019
+fb326195083959014c82c10187cb46de91ece33f,Jinho Kim,jhkim@apache.org,Jul-13-2018
+f07f0277ab627aa41b69dfb1c344dbd65a7fa3e5,Hyunsik Choi,hyunsik.choi@gmail.com,Jul-11-2018
+8b644e62feddd453d752355303d7dc8a698c1c2b,Jinho Kim,jhkim@apache.org,Jul-12-2018
+2dc0bb94d72cf0b95167f2e941aa044b5be985f8,Hyunsik Choi,hyunsik@apache.org,Mar-17-2018
+4f3c386eba4fc9ade3850805246e043dde85cbab,Jongyoung Park,jypark@apache.org,Dec-8-2017
+c405312447b7752b49dd4b0cf46c8ae63565c61e,Jongyoung Park,jypark@apache.org,Dec-6-2017
+d09fe51d9099f8a43a3a5c52d18eb40570f566f4,Hyunsik Choi,hyunsik@apache.org,Dec-3-2017
+505c258e85243e15251a45f0766a4f85b5976252,Lee Dongjin,dongjin@apache.org,Oct-18-2016
+a14d1e7ef8127dc73b1513d4021c95e313456a64,Hyunsik Choi,hyunsik@apache.org,Dec-3-2017
+4f35c28e8e0281beed0a457244fbb9144e791fee,JaeHwa Jung,blrunner@apache.org,Aug-29-2016
+0ef485ba73281abbd8d208c4bb1c890f4e524d1d,Jinho Kim,jhkim@apache.org,Aug-29-2016
+d3ab63bed6fc8ffe9c6a81141a4f019909892380,Lee Dongjin,dongjin@apache.org,Aug-29-2016
+fc147cf06e4128b60c54b4937a33a5ee96684c51,Byunghwa Yun,combine@combineads.co.kr,Aug-29-2016
+4e2d21c2e9de69430293c7a46bb71f1070accce8,Byunghwa Yun,combine@combineads.co.kr,Aug-28-2016
+ff4673c5b3d2437eaea419a46d6afacd99a53320,Lee Dongjin,dongjin@apache.org,Aug-28-2016
+1858c968c6376ea312fcd6459a080e29a9f1641a,Lee Dongjin,dongjin@apache.org,Aug-28-2016
+d5ffbe645c1fe47e24b3ffe2687cecdfc1ada1b4,Byunghwa Yun,combine@combineads.co.kr,Aug-28-2016
+fdd2ca2081a18950b831ce7db956d49b4af71917,Lee Dongjin,dongjin@apache.org,Jul-20-2016
+6a52ba93726ed24c7a3cbc67486e2db5d74b5666,Jihoon Son,jihoonson@apache.org,Jul-19-2016
+354ff85d2b5d065fd899940a792f0fcb6e99695c,Jongyoung Park,jypark@apache.org,Jul-16-2016
+ea777aabee64552b08178204709b033c54a4e4a5,Lee Dongjin,dongjin@apache.org,Jul-16-2016
+fab36f97eff330ec2f655536bb00d2ca2cc557e9,Lee Dongjin,dongjin@apache.org,Jul-11-2016
+9cf9f7516c41e9724c425c309c800c065a4d9002,Byunghwa Yun,combine@combineads.co.kr,Jul-6-2016
+78bde551772b8d7a7ce459e2cae2d1f73c4fa65b,Jihoon Son,jihoonson@apache.org,Jul-3-2016
+4d2bd647ff7ee2450e0b9ed920f8179d32178186,Jihoon Son,jihoonson@apache.org,Jun-28-2016
+8dbb8ca22520a0fd350ada2dd8a0c75294e0bc59,JaeHwa Jung,blrunner@apache.org,Jun-25-2016
+740720a2f5d170a0aacf867e1bb9d7242c54043b,Jongyoung Park,jypark@apache.org,Jun-15-2016
+83e8e343a6106b71ef3b4161145a58d286c71df1,Wonjun Hong,hong.wonjun@gmail.com,Jun-14-2016
+132124955d9af4a98ffb9893563be6f212a0c33a,Hyunsik Choi,hyunsik@apache.org,May-22-2016
+d819beee4a3f56c6da99dde5db72a4a5791a4cac,Hyunsik Choi,hyunsik@apache.org,May-20-2016
+d8e9ef3fe4cf46a847ca31ddba823d1ea23d63ed,Jongyoung Park,eminency@gmail.com,May-20-2016
+c0b15f2ab859f9ab9cb4ec286b16318c2bb7c3c1,Jinho Kim,jhkim@apache.org,May-19-2016
+fe57d32ae03451ec3d7aadbb3f9d5b775b6c1282,Jihoon Son,jihoonson@apache.org,May-19-2016
+44152316acfa78951b355866400e85911f2d5e35,Hyunsik Choi,hyunsik@apache.org,May-18-2016
+f97a5504bae2563157d426f103e60dd0a4632ddf,Hyunsik Choi,hyunsik@apache.org,May-18-2016
+1c44272bff0fc0022a1c8ce060b70d11a30c59e0,Jihoon Son,jihoonson@apache.org,May-18-2016
+3de37746113d6534963396616485d5cc5ff50501,Jinho Kim,jhkim@apache.org,May-18-2016
+1e540bbb20236274aa8187310b5117f834745dca,Hyunsik Choi,hyunsik@apache.org,May-16-2016
+30a46592c46a87cbbfba0486c72cc02f4a398369,Jihoon Son,jihoonson@apache.org,May-16-2016
+4594b6116f968af01a9bdabfec4a6fe2e244a469,Byunghwa Yun,combine@combineads.co.kr,May-16-2016
+f995e303b5a82121fbf2ecc16e06541937a17fa1,Jongyoung Park,eminency@gmail.com,May-16-2016
+8d2bf407f5e462216eb84d193c300b46dc2817f9,Hyunsik Choi,hyunsik@apache.org,May-12-2016
+01d2fe2a5afbaddb3b87b98159279a0962c3a124,Jihoon Son,jihoonson@apache.org,May-11-2016
+0f4bbb60cd6c6ce22771a22683cfb544e25abe46,Jongyoung Park,eminency@gmail.com,May-11-2016
+45802ccfb4439a3aebcd2dc4469769bec5858a17,Jongyoung Park,eminency@gmail.com,May-10-2016
+9da3e0d26ed13b1ab89897c3ba36b0bc199c0028,Jongyoung Park,eminency@gmail.com,May-10-2016
+96b19f12c1cf461c83717dd9817b685eee94a323,Janaka Chathuranga Thilakarathna,bjchathuranga@gmail.com,May-10-2016
+34c5d5f24c48683f59925cafbec04a832e532753,Jinho Kim,jhkim@apache.org,May-10-2016
+7f9c4c950fe28de7df6662a947733c7b8abeecb7,Jinho Kim,jhkim@apache.org,May-10-2016
+fafb70633a712c3f1147f1f7dc4e1252e8ebd5a5,Byunghoon Lim,seian.hoon@gmail.com,May-5-2016
+0a2535e677e192574221aa0547b4cbc1027a7c8b,Jihoon Son,jihoonson@apache.org,May-5-2016
+c156e5c936462857d26920b3c5863c9d38b3ac62,Jihoon Son,jihoonson@apache.org,May-4-2016
+16cbf69fe363de82e17bbb26f39ce7efa23d6546,Jinho Kim,jhkim@apache.org,Apr-28-2016
+aad78a4e7d8c2c2161bfb149e1d1343fb4352d59,Jinho Kim,jhkim@apache.org,Apr-27-2016
+73ac4b87d0f7389b79be8a847e4215fc59befaff,Jihoon Son,jihoonson@apache.org,Apr-27-2016
+71193b218f55d33fad0f255386165b8c88bb310e,Jihoon Son,jihoonson@apache.org,Apr-22-2016
+552376a80283edf8ac974d55291c4568ba17fc96,Hyunsik Choi,hyunsik@apache.org,Apr-22-2016
+dc96f7e274b810a038f33613b07cd67467505672,Jinho Kim,jhkim@apache.org,Apr-22-2016
+96507607d02fe993e26df5ddd2c5121897405d91,Jihoon Son,jihoonson@apache.org,Apr-21-2016
+4aef83a39adf1055c212df5fac8b9451e24315b4,Hyunsik Choi,hyunsik@apache.org,Apr-20-2016
+71d2825cd66591cd7f15f15fa74b0f000a5c2590,Jinho Kim,jhkim@apache.org,Apr-19-2016
+fe3663411d3e77b58c1b4f2f5dc0cf12e2987456,Jinho Kim,jhkim@apache.org,Apr-18-2016
+9afd9abe379cbef8c6ae2e17c19e280ed3ec2a07,Jihoon Son,jihoonson@apache.org,Apr-18-2016
+45100ced2c44e92eed1c24bc58a118e74f58d277,Jihoon Son,jihoonson@apache.org,Apr-15-2016
+36f691d9f782d915f3e2268997843f9f55ad48f2,Hyunsik Choi,hyunsik@apache.org,Apr-7-2016
+401f33b9c408462100e3714306123a8b13d468e6,Hyunsik Choi,hyunsik@apache.org,Apr-7-2016
+1e40b6ee7d2a2a9269e688f48f8c269e38c506f1,Hyunsik Choi,hyunsik@apache.org,Apr-7-2016
+394ce580b42319ff7bd9727f3316315d5cd27b50,Jongyoung Park,eminency@gmail.com,Mar-31-2016
+4046310a17100136540e9c1a3883aff8104e855e,Hyunsik Choi,hyunsik@apache.org,Mar-29-2016
+49d5920242581d86c292dca3f9263bf6d2a607a7,Hyunsik Choi,hyunsik@apache.org,Mar-28-2016
+8dad551ec54ee33f40bc355376ebcb4b370a5ada,Hyunsik Choi,hyunsik@apache.org,Mar-28-2016
+68263585296e30f93e541c36908a652df7398b9e,Jihoon Son,jihoonson@apache.org,Mar-23-2016
+9fcc9fd3af4479c3042e4907938b18b6e264b500,Hyunsik Choi,hyunsik@apache.org,Mar-21-2016
+dbaf9725a7063ed4185671a3beda436494a00bfd,Jinho Kim,jhkim@apache.org,Mar-18-2016
+17e61bd6917be93a5486c861f61e8ef2ab32ab29,Jongyoung Park,eminency@gmail.com,Mar-18-2016
+d25bec87ac0fe9c819cbcf79e823222fcdad239d,Jinho Kim,jhkim@apache.org,Mar-18-2016
+ae707c82d7aca73ba58bd4288c40e6031e617202,Hyunsik Choi,hyunsik@apache.org,Mar-16-2016
+87e2a7a22122d3d70b2f3aa83b09c2539426fdf7,Hyunsik Choi,hyunsik@apache.org,Mar-16-2016
+823508d7901bee4ba1c43cc24665f6c50e518534,Hyunsik Choi,hyunsik@apache.org,Mar-8-2016
+f115833b9ff97a178febf3753f516888a3161af7,JaeHwa Jung,blrunner@apache.org,Mar-8-2016
+6942fa39900bfd6c41ffb305844101ab9ea4c933,Jinho Kim,jhkim@apache.org,Mar-8-2016
+7b0af74483521615f302d2a3376556dad325297f,Jihoon Son,jihoonson@apache.org,Mar-4-2016
+fdb76ed2c7c06e7a9b43bbea18e202586b88606a,Jinho Kim,jhkim@apache.org,Mar-4-2016
+0d94efe0fbaea5a8d9eb042b912d0713af62bc16,Jihoon Son,jihoonson@apache.org,Mar-4-2016
+1138784fbd1e3e7b34ce616bd308250ef59ab859,Jihoon Son,jihoonson@apache.org,Feb-22-2016
+7a9a3ec47bd9793f006aa93c97b10f0ab0383c67,Dongkyu Hwangbo,hwangbodk@gmail.com,Feb-19-2016
+81ab265fdb77a2eedc0c9b4dccc2826b461daf56,Jinho Kim,jhkim@apache.org,Feb-17-2016
+294104d2805f8c8a18b92f9255403e73ae5fabb2,Dongkyu Hwangbo,hwangbodk@gmail.com,Feb-16-2016
+704a61ccb58452389ae993833b216add0ce8f397,Jinho Kim,jhkim@apache.org,Feb-16-2016
+df2b08033f1d87ac6cee85f8d4564d57533403ae,Jinho Kim,jhkim@apache.org,Feb-15-2016
+d73f129b4b2de5d753697f697c927b743db695fa,Jihoon Son,jihoonson@apache.org,Feb-15-2016
+4743c6ea3e2dfef8f27ee172bdcff9004bc7640b,Dongkyu Hwangbo,hwangbodk@gmail.com,Feb-15-2016
+ef43dfaa5a69de8d1f3df3c23598d7b92758bacd,Jinho Kim,jhkim@apache.org,Feb-15-2016
+ea1818ab93873e652aad6059b21585fdd4b0054d,Byunghwa Yun,combine@combineads.co.kr,Feb-5-2016
+2fc99117f5fe45f0d8cdc862601cba639da27956,Min Zhou,coderplay@gmail.com,Feb-5-2016
+fc55d2c6c232b8de398ee7f34a616afd8a002fde,Jinho Kim,jhkim@apache.org,Feb-5-2016
+5d5f733e904c47ba1dfbfb98878b5f2bcd02bfed,Jihoon Son,jihoonson@apache.org,Feb-4-2016
+041b309602a6e213d27a0e903d9c230cd8d4299a,Jinho Kim,jhkim@apache.org,Feb-4-2016
+74668a2ffc80016c87860b217bd5e100344e745e,Hyunsik Choi,hyunsik@apache.org,Feb-3-2016
+6717e3d1f4ff234bbb99da3224978693355a6221,Jongyoung Park,eminency@gmail.com,Feb-1-2016
+6debe7f8a292374f06861c7464a1dab20aa088d6,Jinho Kim,jhkim@apache.org,Jan-28-2016
+a3b347f99c975f78a1cb6d6ace65929a5f28e091,Jinho Kim,jhkim@apache.org,Jan-28-2016
+06a095f068664ae08b7431e4217428807ca5cd8c,Jinho Kim,jhkim@apache.org,Jan-28-2016
+e9e7a36c7b1814755e22a83e81c8ab0604064517,Byunghwa Yun,combine@combineads.co.kr,Jan-27-2016
+73a43d8b7bdba7c3963efd9df87f6e3d3a703cfd,Hyunsik Choi,hyunsik@apache.org,Jan-27-2016
+3cf7f24bc1133d3c0df1ef6031ce075bdf97fb7f,JaeHwa Jung,blrunner@apache.org,Jan-22-2016
+dfb308fdee3a5aeb5a354dcfa1c8b65fd65a1c1d,Jinho Kim,jhkim@apache.org,Jan-22-2016
+4c7c71f08a9dd2fc7596907a644c8771ccd70923,Byunghwa Yun,combine@combineads.co.kr,Jan-22-2016
+b8b7066a23d53dbf4456e15a0a7dd18162cb8254,Jinho Kim,jhkim@apache.org,Jan-22-2016
+1fc670cf9f92578a4a33c65f0b19f4d38958b033,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-20-2016
+72ebc43d6e685dad58b2bf238fae12e51c8dec96,combineads,combine@combineads.co.kr,Jan-19-2016
+6c87e8e9daba0a934c6dbba20b361788e42f2cda,JaeHwa Jung,blrunner@apache.org,Jan-18-2016
+1021e7502d5cf23f417af29698b05353ea4ac926,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-18-2016
+099c2cd837c71bf0d80a13ddc6e5bff8e5c8e3ae,Jinho Kim,jhkim@apache.org,Jan-18-2016
+845e7c35a5eb96b6c70375ee288324c0cb052226,Byunghwa Yun,combine@combineads.co.kr,Jan-14-2016
+0d434cdba4eb08bd1a0f394866b40345bec880b5,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-14-2016
+869dd2315af7475b942cd0162f306d7b518542d3,JaeHwa Jung,blrunner@apache.org,Jan-12-2016
+f62d34beab7fba2da6a54ad88eb37fed093c37b5,Jinho Kim,jhkim@apache.org,Jan-12-2016
+64c31a226339d981c17fcd9778446e702db205f5,Jinho Kim,jhkim@apache.org,Jan-7-2016
+7f4422473c135a9eeedecacfd386f374f58cc39a,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-7-2016
+9c14dc3ad794ace2d2ab46c0b0185f265cc703bf,Hyunsik Choi,hyunsik@apache.org,Jan-6-2016
+5853b47b4211bfd5437653eab345c1fcde6259cb,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-7-2016
+84ff9272e977ab45c8be6f9a5ac1a6b846084caf,Jihoon Son,jihoonson@apache.org,Jan-6-2016
+f44f92fb05cacea0bc78245220ec9ae1d24c55be,Jihoon Son,jihoonson@apache.org,Jan-6-2016
+68dd960652c754a6cbd41ac68065eeca74522ed5,Jongyoung Park,eminency@gmail.com,Jan-6-2016
+410a53c980605a5ecda1b3e4619ae1489849b5db,Dongkyu Hwangbo,hwangbodk@gmail.com,Jan-6-2016
+f9825e71bcfca9e187206756d369ee14bcb9be2e,Jinho Kim,jhkim@apache.org,Jan-6-2016
+62cc6f686021c91c85edcde00383297b711af248,charsyam,charsyam@apache.org,Dec-26-2015
+1f9ae1da0424731567cea18e975c47d4479b0ae9,Jihoon Son,jihoonson@apache.org,Dec-24-2015
+e8ee7f2bf4d7cd3145626ab1383c9c53c566222b,Byunghwa Yun,combine@combineads.co.kr,Dec-24-2015
+34508a76db5e846df8271d2c8ad3ab3275d2a33b,Jongyoung Park,eminency@gmail.com,Dec-21-2015
+c577102eefa941e1b9ba3d36f4506431ac865e3d,Hyunsik Choi,hyunsik@apache.org,Dec-17-2015
+d306534e9a5605b5b6cd1c38a670ec4942c82a1a,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-17-2015
+1515e388a764a55b7b37ce2c23ddfab21fe8115d,Hyunsik Choi,hyunsik@apache.org,Dec-16-2015
+cc1efb66d2945a371a698de22e1e9e493d74889a,Hyunsik Choi,hyunsik@apache.org,Dec-15-2015
+67b50f2f8563650bb487642fb1ff2fe48ea1e8db,Byunghwa Yun,combine@combineads.co.kr,Dec-16-2015
+afa9b432fd357a2e958ece7917a7704aadb9b3ab,Jongyoung Park,eminency@gmail.com,Dec-15-2015
+bfc70203b6a938013fc67b60016e677558d0ad58,Hyunsik Choi,hyunsik@apache.org,Dec-14-2015
+2aefa0dada15fbfe1f2c45534a160521f00c0758,Hyunsik Choi,hyunsik@apache.org,Dec-13-2015
+252c311eae4e763f58cd30a932bb9eff0e9392e2,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-14-2015
+b677b988fd6ddda3516f4f9f3298dd7bf8f5d99d,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-14-2015
+394879e0f01273b2c8a66aef01d6cc313a5e5f3d,Jinho Kim,jhkim@apache.org,Dec-10-2015
+3d59eebd57c3af9809a7ea9199472925904ecc1c,Jinho Kim,jhkim@apache.org,Dec-10-2015
+b1959116a7c129bc7de4156c366c81cebc14958a,Jinho Kim,jhkim@apache.org,Dec-9-2015
+c1beaa71c0406d8afa86bde4c036e9a4b55b16b1,Jongyoung Park,eminency@gmail.com,Dec-9-2015
+5d6c1af954443fefa07767c476821bc6f8bb902a,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-9-2015
+17af809cc15c5cd43a4547d733955432f38c4c3d,Jinho Kim,jhkim@apache.org,Dec-7-2015
+ee6c2b5fe75753ea0b5b54e833e86e368b7ef3b2,Jinho Kim,jhkim@apache.org,Dec-7-2015
+c770fe75caa44887ffb2bd17ad1d6b627f8e643e,charsyam,charsyam@apache.org,Dec-6-2015
+4b53643d47f9afbd8ec52db9cb7d7fae8b03875d,charsyam,charsyam@charsyamui-MacBook-Pro.local,Dec-6-2015
+158bf1df931d92fc937e53af96ea382055424643,Hyunsik Choi,hyunsik@apache.org,Dec-4-2015
+80218d03dffbb16eaaf8eb8b82010c3e98e617d5,Jinho Kim,jhkim@apache.org,Dec-4-2015
+0ec2a890c73c79944fb6a0233226c00a0d0b06d1,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-2-2015
+f775d7d29d2a7cc5fa7a8e9753548006fac8719f,Dongkyu Hwangbo,hwangbodk@gmail.com,Dec-3-2015
+e8dc34375d4fac329d5e79d17a221af007de814e,Jinho Kim,jhkim@apache.org,Dec-3-2015
+8c8048a44cb63073a1a5fda1a653e239558b96cb,JaeHwa Jung,blrunner@apache.org,Dec-3-2015
+8d513a5e8c8c8d5b69ba9630329736bb2bb7b86e,Jinho Kim,jhkim@apache.org,Dec-3-2015
+3852ae3d0d3fcb30ebff73f087ce34f3e1fc5bfb,JaeHwa Jung,blrunner@apache.org,Dec-3-2015
+f2552bfb9c0a3b57f66e89a9e635a0d1afbeebc8,Jongyoung Park,eminency@gmail.com,Dec-2-2015
+0af53d025150d7126fda2117e42a40e2e7f31fb5,Jihoon Son,jihoonson@apache.org,Dec-2-2015
+068c79e7b6df5539598fe68249c2196016c472f6,Jinho Kim,jhkim@apache.org,Dec-2-2015
+ce44234365c585c1f1444aa2b00aaf12e96de229,Jinho Kim,jhkim@apache.org,Nov-30-2015
+821fc172b93125170aed85aa6f9ff19a727999d4,Yongjun Park,thehp.keybod@gmail.com,Nov-27-2015
+ee7279d237b17401a144778a1bcbf9bbccf220f2,Jongyoung Park,eminency@gmail.com,Nov-27-2015
+e52c33089608f6621c590066d429bf11de3a4843,Jihoon Son,jihoonson@apache.org,Nov-27-2015
+a1e852b9fba64e9085b704792293647dd52180f9,JaeHwa Jung,blrunner@apache.org,Nov-26-2015
+492588d62e1f1300854e51c61b79c4e875d7f15a,JaeHwa Jung,blrunner@apache.org,Nov-26-2015
+550c0189b9ac06f20d4ef70feb7ef743c0b06d0f,Jinho Kim,jhkim@apache.org,Nov-26-2015
+4e0a7a33cb055a77f6a29f1e7520d6344616ec7b,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-26-2015
+0dcb702a0b92ce0585a788c0fe49a2ef5bcbb79d,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-25-2015
+149a44d85c5bcd7677dfd5db3a3d39644a4c8194,Jongyoung Park,eminency@gmail.com,Nov-26-2015
+8457d85a3d138f62dd7803ea1aacc7bffdc66cdd,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-25-2015
+b3d4a34029acb6edca83e3a41422c914dfd88ee1,Hyunsik Choi,hyunsik@apache.org,Nov-24-2015
+8b2fe11451c432b58f48a0173e433c12865d5a8c,Hyunsik Choi,hyunsik@apache.org,Nov-24-2015
+0be254c8bd5de1f992bcefb129b0b02904909f0a,Hyunsik Choi,hyunsik@apache.org,Nov-23-2015
+ef682ccc9e3b187ccc52810eac184ad2b149c4ba,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-22-2015
+090ce1710ffc8b6131f942af3b77cc6ffdd0ba40,Jihoon Son,jihoonson@apache.org,Nov-18-2015
+a2a5c14e412cfab316c87bfeadcddf11e6391e08,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-18-2015
+4fd1739d491f547757eaa9d26e37a496eca02d92,Jinho Kim,jhkim@apache.org,Nov-18-2015
+411a26d5d45fb466d4c3c22806c67aedde14b623,Jinho Kim,jhkim@apache.org,Nov-17-2015
+10159c7f84a203194e7124a5cbbcbcc6ce2f9b95,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-17-2015
+74bde9c640053ebcd212a987310d5dd172a0f776,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-16-2015
+011fcd922d0a809e8d6d88de441594fd13f649a0,Jihoon Son,jihoonson@apache.org,Nov-13-2015
+ed660379263add03f50fb68016c57ac40e5897a4,Jinho Kim,jhkim@apache.org,Nov-10-2015
+8ad250eb9c81e6dec204bfddfcca85cca2937b54,Jihoon Son,jihoonson@apache.org,Nov-10-2015
+254c923944a4859ca1f5180c122420c750c8154c,Jihoon Son,jihoonson@apache.org,Nov-10-2015
+46bc8bf7901ca124c76a6c1cfb0c3b161c8ad7d2,Jihoon Son,jihoonson@apache.org,Nov-9-2015
+e84df9ccb1d5e30a08de136efd6f5842b2555a16,Jihoon Son,jihoonson@apache.org,Nov-9-2015
+68d2c702074660bf45f60bfaf0b0bff1fbe7d5d5,Jinho Kim,jhkim@apache.org,Nov-6-2015
+6c3ae723f4613d36d05a76d01cd394aa788857ba,Jinho Kim,jhkim@apache.org,Nov-6-2015
+3b0b68375245c5123f9891e0f25bcbe15e9a2a20,Jinho Kim,jhkim@apache.org,Nov-6-2015
+c6ad554e52355a0604c8883cf02bb1579214b42e,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-3-2015
+e5a01e0935e7816fb89a3a2c7fc97630e1d226d5,Hyunsik Choi,hyunsik@apache.org,Nov-2-2015
+3224addb3707855bb8326157e873a3faa0761ac3,Jihoon Son,jihoonson@apache.org,Nov-3-2015
+90cb945accc7c23282e0603312c954663df8f06f,Hyunsik Choi,hyunsik@apache.org,Nov-2-2015
+0f1e1df48aa3d393764b172b42a1458f3ab8a2ae,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-2-2015
+4189f91d78e01d2a9524b44990093db4c435dc17,Dongkyu Hwangbo,hwangbodk@gmail.com,Nov-2-2015
+f4abd4e993f149b8d796da43d2dfdb47d1701dba,Jinho Kim,jhkim@apache.org,Nov-2-2015
+3ca900d7a01b60f689d8ecd411e30b7e36620d80,Jihoon Son,jihoonson@apache.org,Oct-30-2015
+690bc0974234fffb6657d9be003d8516faafe03e,Jihoon Son,jihoonson@apache.org,Oct-28-2015
+c865074eb05c078ddfeefbc33886b0cb1d10f13e,Jihoon Son,jihoonson@apache.org,Oct-28-2015
+94d005532932c96ed357a5d1d25dfe26c60dc8ce,Jihoon Son,jihoonson@apache.org,Oct-28-2015
+8491b5dfa1ea000f75fcb2d4db4d0f53fe34fa36,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-27-2015
+6947bc5a9f3e8590f1177c64354e5646b222c56d,Hyunsik Choi,hyunsik@apache.org,Oct-22-2015
+a89b52337ef7d7c728e071766ccee6436ccde6a5,Hyunsik Choi,hyunsik@apache.org,Oct-22-2015
+ab0d0948966ae905bc46419a164fa672af813716,charsyam,charsyam@charsyamui-MacBook-Pro.local,Oct-20-2015
+1842ee194b2dcb295ebf875a6193e295ac3974a8,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-20-2015
+f29c007a97a30a181062fc3f725511111d84733a,Hyunsik Choi,hyunsik@apache.org,Oct-19-2015
+0006536bdee8d94ed319187360cd300e6b20e0f8,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-19-2015
+a647f37c967cf7a8e49a0bc02edead43838e5b13,Jihoon Son,jihoonson@apache.org,Oct-17-2015
+ec1337ff22c1aaff51918f786ff559a2cd8b6f29,Jinho Kim,jhkim@apache.org,Oct-16-2015
+54bf51678e883583964bde6a405adbbd9b343f6a,Jihoon Son,jihoonson@apache.org,Oct-15-2015
+f8065b960848f93af75462c4237968ff54d65d45,Jongyoung Park,eminency@gmail.com,Oct-14-2015
+a74134d33907f2b37b8617921e56c38cdcebf934,JaeHwa Jung,blrunner@apache.org,Oct-13-2015
+2aaa991c9998b600bb9027d791e6f9de3bc3f8ab,Jihoon Son,jihoonson@apache.org,Oct-9-2015
+5d470bc6001bb4fe096d7a8d221e51c18c683899,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-8-2015
+ccca8c6876e6b352522fba50fa834eae731a2adb,Jihoon Son,jihoonson@apache.org,Oct-8-2015
+b05ade6a68403cb4f075eb5c2cbe0c4f69f98cf5,Jinho Kim,jhkim@apache.org,Oct-8-2015
+145c17f74b08877d19800b8e4da63a788f0021df,Jihoon Son,jihoonson@apache.org,Oct-8-2015
+51198d0407e868ee788ea36a458642eebcef90c0,Jongyoung Park,eminency@gmail.com,Oct-8-2015
+21c44800efa4cc9f8866be86f5effc9b344d845f,Jihoon Son,jihoonson@apache.org,Oct-7-2015
+829d83ac5d0796e5d56a264817d9dd434dc4c52c,Jihoon Son,jihoonson@apache.org,Oct-7-2015
+6dc1c55571c44761551675cf95820f120c6ad2f3,Jihoon Son,jihoonson@apache.org,Oct-7-2015
+f7a3fe0d642e6016a99b0731b1d8d56ef81eb1ec,Hyunsik Choi,hyunsik@apache.org,Oct-6-2015
+1e149127d814b2d3f60b126238d702ca500a0c61,Hyunsik Choi,hyunsik@apache.org,Oct-6-2015
+513aff422aa362ed5bc485274fba837497a9f11d,Hyunsik Choi,hyunsik@apache.org,Oct-6-2015
+4bed490dd3a60033f8d5fd742905e310bb0986a6,Jihoon Son,jihoonson@apache.org,Oct-7-2015
+356c48efa21a1e6b0c98791ccc3578393d96f5ff,Hyunsik Choi,hyunsik@apache.org,Oct-5-2015
+dd16f119c200b23e23e6859d6adf1b3e630bc825,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-5-2015
+f32804742541df21711d587223939c0de010a484,Dongkyu Hwangbo,hwangbodk@gmail.com,Oct-5-2015
+8ae851cb3f1d6b13bdd9acca713727df866bd8ac,JaeHwa Jung,blrunner@apache.org,Oct-4-2015
+94197c38a5d2bf053f5bebcae4c524e8aa1b552e,Hyunsik Choi,hyunsik@apache.org,Oct-3-2015
+ef94bb38d225deaff2d1eeb3d916fbe765412c3a,JaeHwa Jung,blrunner@apache.org,Oct-1-2015
+4564c37fa7a54888424134d75ec06adcbb8c10c0,JaeHwa Jung,blrunner@apache.org,Sep-29-2015
+3035b0143d1900439ac186480a748f36556aa72c,Jihoon Son,jihoonson@apache.org,Sep-29-2015
+67c4541ee43d00a1418919827cb9065ecc541170,Hyunsik Choi,hyunsik@apache.org,Sep-28-2015
+72dd1c025fa0fe54a0161c26c01e2ae5d03d8bcb,Jihoon Son,jihoonson@apache.org,Sep-29-2015
+54e848e56b6194974360564fa147c9463dfa94f8,Jihoon Son,jihoonson@apache.org,Sep-29-2015
+cd01b739dfd0fd616e7dc75efc132793a30fcfab,Hyunsik Choi,hyunsik@apache.org,Sep-28-2015
+dfec6a07f6ec4529451b47cd4258e04bbffd1a9a,Hyunsik Choi,hyunsik@apache.org,Sep-25-2015
+bf04b56c52a53d6465d0eff97eef3dcf9b0187e3,JaeHwa Jung,blrunner@apache.org,Sep-25-2015
+d8b99cc989079ca4c969a33a8c4998c1df94874b,Hyunsik Choi,hyunsik@apache.org,Sep-24-2015
+b5aacb917b71ae610aed9d0aa4eb76888ccc804e,JaeHwa Jung,blrunner@apache.org,Sep-24-2015
+5af330d228991b9a2a7a9ce49979fd6feb84d464,JaeHwa Jung,blrunner@apache.org,Sep-24-2015
+5defb26c436a199eb690a98f9e0366b32e9acddf,Jinho Kim,jhkim@apache.org,Sep-24-2015
+20174415cc36fc96235940c5687972046c4a0634,Hyunsik Choi,hyunsik@apache.org,Sep-23-2015
+aa699c70943f7563e77f5828683cd0399998a0f9,Dongkyu Hwangbo,hwangbodk@gmail.com,Sep-22-2015
+1eb10045908a8c5c6304e10379fa08a68bd61dad,Hyunsik Choi,hyunsik@apache.org,Sep-22-2015
+5a15586139c5fed29b66cbfc03b54e0bed09f5b7,Jihoon Son,jihoonson@apache.org,Sep-23-2015
+4a9628858ee5632a2eaaac1959645689e4189e20,Hyunsik Choi,hyunsik@apache.org,Sep-22-2015
+cf3eef92ce30a956900e8247d5e485bd325ec160,Dongkyu Hwangbo,hwangbodk@gmail.com,Sep-22-2015
+eef7878bd3d82dc0468e3e977e43a46d3903781a,Jinho Kim,jhkim@apache.org,Sep-22-2015
+08def97c45140d8ffcf50eeef989e2b5760a2195,Jihoon Son,jihoonson@apache.org,Sep-22-2015
+21b4797e2eabb08ce99af7e206a80f2641b0502a,Jihoon Son,jihoonson@apache.org,Sep-21-2015
+8f00bf7433e7dd99d843e9c97894bdabd81ccb50,Jinho Kim,jhkim@apache.org,Sep-21-2015
+de1b7d42d0afaeac6cd8e1c51f9bd3cf664c7e3b,Jinho Kim,jhkim@apache.org,Sep-18-2015
+024b3c3dd4678e95abbf3149fd021b95291dcdf0,Jinho Kim,jhkim@apache.org,Sep-18-2015
+61b6ec8e6baa8792b01e4e8f1de4f58f05134105,Hyunsik Choi,hyunsik@apache.org,Sep-17-2015
+aca5593a7bffaca782c3e95b3805a6df7be7dfdf,Hyunsik Choi,hyunsik@apache.org,Sep-17-2015
+94709cbb155fb036b8857b27a5e6e8b9c7b04b44,Hyunsik Choi,hyunsik@apache.org,Sep-17-2015
+0e4ad5635be05bdde8dac5feb6c9a85fb3cf0e06,Hyunsik Choi,hyunsik@apache.org,Sep-17-2015
+e1c2d352e15f67d148700fe61d78a37640341dab,JaeHwa Jung,blrunner@apache.org,Sep-17-2015
+b0c0a390e3e774c4004156ad0027cf8d3de4c876,Jongyoung Park,eminency@gmail.com,Sep-17-2015
+616414a519c6c5368f0aa262411c35404c1d0df8,YeonSu Han,hanyounsu@gmail.com,Sep-17-2015
+78fee98db2c989135a75d88e138f17228aa2fb14,Jihoon Son,jihoonson@apache.org,Sep-17-2015
+8ef49f0186ce813d44ba997b0fdde91497c87cda,Dongkyu Hwangbo,hwangbodk@gmail.com,Sep-17-2015
+b68329101b412649149f261002c53a45f2711d75,JaeHwa Jung,blrunner@apache.org,Sep-17-2015
+9d59e06b185061ed2b116c00f9e51eff2d2af93e,YeonSu Han,hanyounsu@gmail.com,Sep-16-2015
+8763d42b90c5078232ac09bda479f97667ffb143,Jongyoung Park,eminency@gmail.com,Sep-16-2015
+8baaa481ee6c627b88ecc21097aaf51f571c4e14,JaeHwa Jung,blrunner@apache.org,Sep-16-2015
+a6334e989e43f9aae5b8c65428c99249d2f77a1d,Jinho Kim,jhkim@apache.org,Sep-16-2015
+7d97284a97a1ca7338406ef70747af4993329f02,Jihoon Son,jihoonson@apache.org,Sep-16-2015
+59fe6784187a5940622c52f537844f235d1c5b61,Hyunsik Choi,hyunsik@apache.org,Sep-14-2015
+882eaa66a2a4def989e39bd9bf9f64e92a833abb,Hyunsik Choi,hyunsik@apache.org,Sep-14-2015
+8bbd51df292e4d74c95a54cb610754e1d6d77756,Jinho Kim,jhkim@apache.org,Sep-14-2015
+fb5da6647f0b60b4cc1d353e3cc3fe68a617950f,Hyunsik Choi,hyunsik@apache.org,Sep-13-2015
+738feac8e2c4a2e1d638ba0a96353ff6e76af3e5,Jihoon Son,jihoonson@apache.org,Sep-13-2015
+60d8d4bc80444402c2b4ad61644859d7bda8b380,Jinho Kim,jhkim@apache.org,Sep-11-2015
+cea832acaf36398ddf32392d7b13493911ba6014,Jinho Kim,jhkim@apache.org,Sep-11-2015
+cc6917804a090c277ffe3ad876c59f3f489d9df1,Hyunsik Choi,hyunsik@apache.org,Sep-11-2015
+f5fdc240e9c915df98f7d05e3505596999e95e73,JaeHwa Jung,blrunner@apache.org,Sep-11-2015
+238f0b3662b919e9b20bdc0bcda647c0d0650ffc,JaeHwa Jung,blrunner@apache.org,Sep-11-2015
+508d17a2d7fdb3f5ac9a9dabec46b6ec4e5fb1cb,Jihoon Son,jihoonson@apache.org,Sep-10-2015
+fe99e0fff2fcdd0d0341d2f3d22b5d03fa4bea56,Hyunsik Choi,hyunsik@apache.org,Sep-10-2015
+7f7f4d1195ad0d0b60059d9729f318556ed66a10,Jinho Kim,jhkim@apache.org,Sep-10-2015
+bd90521eff872355b20cc8e2da7bd23d459a2623,Jongyoung Park,eminency@gmail.com,Sep-9-2015
+745818b7f921b2b3bc400cdc272526e132ec4ac9,Dongkyu Hwangbo,dkhwangbo,Sep-9-2015
+1cdd018d92f0400ffbfc09d07a1dfd18d9b13d87,Jinho Kim,jhkim@apache.org,Sep-9-2015
+c66d0b4708814ed8f7a1ae530338e1fcf87caddc,Jinho Kim,jhkim@apache.org,Sep-9-2015
+bdd8e76855eb0a79f22c67832edc5ce535a1a938,Hyunsik Choi,hyunsik@apache.org,Sep-9-2015
+a460978d996f95259b2935d479ccfc676b141e05,Dongkyu Hwangbo,dkhwangbo,Sep-8-2015
+b3a65b5eb3cf4b2e8f1e4c3d66795bf6011fffa2,Jihoon Son,jihoonson@apache.org,Sep-8-2015
+8a27a43ffe13c3b72d57b66f5fda82d6bb75357c,Jihoon Son,jihoonson@apache.org,Sep-8-2015
+579e9de810f65e6f657cb0abc7300af729149191,Hyunsik Choi,hyunsik@apache.org,Sep-8-2015
+52161f8347ac3c94e2526cfac710691b32d97ab9,Hyunsik Choi,hyunsik@apache.org,Sep-8-2015
+b1d08f8961f6d9fb40b7b7993230a8c6e85127f9,Hyunsik Choi,hyunsik@apache.org,Sep-7-2015
+c0e193d71ba3bf478d352b0a341d12ac6c8ac1d2,Hyunsik Choi,hyunsik@apache.org,Sep-7-2015
+da40cb080facf468510392e6399a38acdf0bdffb,Hyunsik Choi,hyunsik@apache.org,Sep-7-2015
+8db6928a47a044f83c30027a2749906d2797a030,Jihoon Son,jihoonson@apache.org,Sep-7-2015
+33b8893fe99f412e39e6db7b22c403f1f452d024,Hyunsik Choi,hyunsik@apache.org,Sep-7-2015
+6c9ddeaac9513c7c332b9dc264e1c738edb796b4,Hyunsik Choi,hyunsik@apache.org,Sep-7-2015
+fd4a3f80c8adb65233ff3fbb1b99dd8585d44a7b,Hyunsik Choi,hyunsik@apache.org,Sep-5-2015
+ea4443d8df6ffb02e328304dc5681dbd54f62501,Jongyoung Park,eminency@gmail.com,Sep-4-2015
+7e0a4a1e4686314feed22c7a352c9c70ef8a0e40,Jihoon Son,jihoonson@apache.org,Sep-4-2015
+d794c1d7b0825a50522dc20aa77a284c2f3e4eff,Jihoon Son,jihoonson@apache.org,Sep-3-2015
+688bc5c1111054cb486cdc915edc8fc0097add4a,Hyunsik Choi,hyunsik@apache.org,Sep-3-2015
+3e8f4a0307cb857434e8a0c6415e39453f97cabe,Hyunsik Choi,hyunsik@apache.org,Sep-3-2015
+3a30f45c7befca5baf1aca59eda76ad8231ba005,Jinho Kim,jhkim@apache.org,Sep-3-2015
+8c50410dcf370290982719f8add9aad814a5d4e0,Jinho Kim,jhkim@apache.org,Sep-3-2015
+22ab1cf974031bc58d2ff1a6d34102c0c4997184,Jinho Kim,jhkim@apache.org,Sep-3-2015
+ace0480feacab917e6c73dd37314994050ab6207,Jihoon Son,jihoonson@apache.org,Sep-2-2015
+f2c434332822fbf53d9b22810509baf5c9718e56,Jinho Kim,jhkim@apache.org,Sep-2-2015
+2c9305add8f7839463c689f1c68660153c3845e2,Jihoon Son,jihoonson@apache.org,Sep-2-2015
+77dc88c074646c2673d11b1c026b33ead2640d1b,Jihoon Son,jihoonson@apache.org,Sep-1-2015
+848a8c3d58fa219dee09baa808191d65fff61ffe,Jihoon Son,jihoonson@apache.org,Aug-28-2015
+4be6746102d026dcf47b12a0548ddb15f33bde3e,JaeHwa Jung,blrunner@apache.org,Aug-26-2015
+1a7c353c203b10b28f028a3fad44eacb2010dae1,Jihoon Son,jihoonson@apache.org,Aug-25-2015
+cb6fe80760c60ca6b89dc7b46a028c71c407f37a,Jinho Kim,jhkim@apache.org,Aug-24-2015
+45ca4993db3659206846b8815ae9a4c091ca0c36,Jinho Kim,jhkim@apache.org,Aug-22-2015
+f21d5d677c2ba1b9c493498ecb512d1ddcfe2221,Jinho Kim,jhkim@apache.org,Aug-21-2015
+0b59a93ba534434501edbc1bb2c2282f407239b7,Hyunsik Choi,hyunsik@apache.org,Aug-20-2015
+65283b541b7bd4779cdf9b32cc794f24c3123adb,Hyunsik Choi,hyunsik@apache.org,Aug-20-2015
+e296a0d1f0696a52e95d8b34e016d7a272c9a1a6,Hyunsik Choi,hyunsik@apache.org,Aug-20-2015
+2d2f192d78249d8acc812a1a3d08f5caceee9208,Jongyoung Park,eminency@gmail.com,Aug-20-2015
+5852cb3b9c1c1786a54125f596fc5ab48c0a34eb,Hyunsik Choi,hyunsik@apache.org,Aug-20-2015
+044455528baa8930d5f00cc05248d6c250016e79,Jinho Kim,jhkim@apache.org,Aug-20-2015
+f057343ee037d4f9ed51cd2b791fb0ce438c20a5,Jihoon Son,jihoonson@apache.org,Aug-19-2015
+9ddda140587e83f849bbd78d7cb79d31952df641,JaeHwa Jung,blrunner@apache.org,Aug-19-2015
+de1ca380e599ec01a8dae673c36b496c5850c446,Hyunsik Choi,hyunsik@apache.org,Aug-19-2015
+2a850cfc5adbf48f982b63a79e6b759d16ef425b,JaeHwa Jung,blrunner@apache.org,Aug-19-2015
+6f28fa58bac658be2b9b659276245eed1d86d5e8,Hyunsik Choi,hyunsik@apache.org,Aug-19-2015
+b4098353d142c84d5fa881b25b8334650212ffed,Hyunsik Choi,hyunsik@apache.org,Aug-19-2015
+57be230e921ca93029181a9983684d2fa80f8f06,Jinho Kim,jhkim@apache.org,Aug-18-2015
+ca7e3fde0f272add2e1db621bc4160804f3d089e,Jihoon Son,jihoonson@apache.org,Aug-18-2015
+175f3f01684483b60c6afd48a0f50f1c3ae74953,Jinho Kim,jhkim@apache.org,Aug-17-2015
+384aca59f32dfed2287726e585f387bef4787daf,Hyunsik Choi,hyunsik@apache.org,Aug-17-2015
+41f75332ccdb6cf9cfd55d4698e59035eb7dc688,Hyunsik Choi,hyunsik@apache.org,Aug-17-2015
+39cb27d44777997a9f91750c97e6fb5eb1b6a8e7,Hyunsik Choi,hyunsik@apache.org,Aug-16-2015
+c9f61e42d406cf4b0dba70e399384843a78e2d09,Hyunsik Choi,hyunsik@apache.org,Aug-15-2015
+a4106883dda73802548dc867ba25e69df630dc9b,Hyunsik Choi,hyunsik@apache.org,Aug-14-2015
+ab60d02e14cfd9e774abfdf27f72c582ca952b55,Jihoon Son,jihoonson@apache.org,Aug-14-2015
+042c3e882fbb45fffc6fc2988588282ed085614c,Jihoon Son,jihoonson@apache.org,Aug-14-2015
+f0ab0ca208a341625bc0334b061d63c6e0960194,Jihoon Son,jihoonson@apache.org,Aug-13-2015
+9114485b594b89616f240267fc3b3cf5d2a02370,Jihoon Son,jihoonson@apache.org,Aug-13-2015
+903151eadc457ed7f29e96ca3acf46e73324d844,Hyunsik Choi,hyunsik@apache.org,Aug-13-2015
+fd6a95180ecfa05df7cd0b1a8a957057c9788ad6,Jihoon Son,jihoonson@apache.org,Aug-12-2015
+5982cf1ff31fedc4ad889ffd7e209907f0514dde,Jinho Kim,jhkim@apache.org,Aug-12-2015
+7d060837703244c40eff5c1e3b62f165de0887d3,Jinho Kim,jhkim@apache.org,Aug-11-2015
+080bcf772c10e868f363d80f326d91b56a4e9f62,Jinho Kim,jhkim@apache.org,Aug-11-2015
+45882b62435489bda580cff655525ba9c214468a,Jinho Kim,jhkim@apache.org,Aug-11-2015
+caf8cca94699a687f28e7fcf2c8f6efb67773983,Jihoon Son,jihoonson@apache.org,Aug-11-2015
+f87f6672991cabfcb80332d0a0fb9869751ea665,Jinho Kim,jhkim@apache.org,Aug-10-2015
+f868c0e237f7523f429d0196e67652e980ca5907,Hyunsik Choi,hyunsik@apache.org,Aug-6-2015
+2056aaa8111cf2ef81fc4c71fd7c085a59a043bd,Jinho Kim,jhkim@apache.org,Aug-5-2015
+68ecc098528949812b5037baa3afc51ad27b5225,Hyunsik Choi,hyunsik@apache.org,Aug-5-2015
+a94936ae569983bb89b4a5270d0203d7b5e591c2,Hyunsik Choi,hyunsik@apache.org,Aug-4-2015
+89892d0bc7b8bc5ff6cf188c0ca151d003a6df85,Hyunsik Choi,hyunsik@apache.org,Aug-4-2015
+4253f1b60429adb9558f0b7b194754557eebcf15,Hyunsik Choi,hyunsik@apache.org,Aug-4-2015
+08efcf279140b4f5bd0e5aca4de19e792fc961a9,Hyunsik Choi,hyunsik@apache.org,Aug-3-2015
+d8ce5626342e64bf02be92905e8ed2a147ef85ca,Jinho Kim,jhkim@apache.org,Aug-3-2015
+1be0e66b298bd969f331719d71785655839810f7,Hyunsik Choi,hyunsik@apache.org,Aug-3-2015
+e44bca79ddc4afdae6898f75f07bda0d3830db53,hys9958,hanyounsu@gmail.com,Aug-3-2015
+bf8731921679bfd9a653927c900c400f334d801c,Jihoon Son,jihoonson@apache.org,Jul-31-2015
+d80c32b28738a69c3a512108e65ed5c7a3e3adc6,JaeHwa Jung,blrunner@apache.org,Jul-31-2015
+00ccb8ba91f04ad6eca3a8348665ebc3b339d38d,Hyunsik Choi,hyunsik@apache.org,Jul-30-2015
+9840d378522ae921d32c04f21b3e0673fc9dd90c,Jihoon Son,jihoonson@apache.org,Jul-30-2015
+97e61e6f4e9ff1ebeac388dd22e139e1fd486e99,Jihoon Son,jihoonson@apache.org,Jul-30-2015
+18b898ffbab0462ae26c0cf374b119dcee5f1c6f,Jongyoung Park,eminency@gmail.com,Jul-27-2015
+22d2ba4db5c2623a1f8e77fb4028c923631f3536,Hyoungjun Kim,babokim@gmail.com,Jul-29-2015
+aa8969ac810e3341fb87b41e521f196e425ad069,Jinho Kim,jhkim@apache.org,Jul-29-2015
+c46dc1a64f9528adc5f2a54db3bc6aa247252b84,Jinho Kim,jhkim@apache.org,Jul-29-2015
+33f4b7a061d0b4f7867f89b32b880f686fe1dc51,Jihoon Son,jihoonson@apache.org,Jul-29-2015
+2950d8ec60fa769819b60e7e516387259b1491da,Jihoon Son,jihoonson@apache.org,Jul-29-2015
+ae9a8c9cb608c5f95d68a06e07e5969b8c9cf2d6,DaeMyung Kang,charsyam@naver.com,Jul-28-2015
+59cb66fc40b78d1f884f008796b85312d6ae8c72,Jinho Kim,jhkim@apache.org,Jul-24-2015
+c294d88e12216a0ccee695957d01b51d57edeb87,Hyunsik Choi,hyunsik@apache.org,Jul-24-2015
+a1d5aeee7241281ff64945b7d30399b9c76ad363,Jinho Kim,jhkim@apache.org,Jul-24-2015
+009e8e5aee3a28cbfb1e380204bc65fe81acbea2,Jinho Kim,jhkim@apache.org,Jul-24-2015
+bcec5eb7e247dc983184b37a3dbb4143afd19ac8,Jihoon Son,jihoonson@apache.org,Jul-24-2015
+61d1d33047f316cf032714e4dd9bd7e145cd9ade,Hyunsik Choi,hyunsik@apache.org,Jul-24-2015
+c2aef7d367859b3c6a08ef82c5024bd73bb5d62b,Hyunsik Choi,hyunsik@apache.org,Jul-24-2015
+fa063f0e84d4ce9cb7e690a50a6a269289052779,Jongyoung Park,eminency@gmail.com,Jul-23-2015
+3919896e10822929ead6ceb797acfc067137ef05,Hyunsik Choi,hyunsik@apache.org,Jul-23-2015
+6d852081e082803e833fd87e8b96aa51bf5e642b,Jinho Kim,jhkim@apache.org,Jul-22-2015
+83228ce670370e7a8b2fa74c8683b8f1bd7b0ae3,Jinho Kim,jhkim@apache.org,Jul-22-2015
+1706746cee6dc51f5013aa46f14db0fcfffd1728,Jihoon Son,jihoonson@apache.org,Jul-22-2015
+4820610f4a2a384372aaecf5212bd486c79a65b2,Jihoon Son,jihoonson@apache.org,Jul-22-2015
+e5b30e542a409ec0378a787c76f6387fd3ca84a9,Jongyoung Park,eminency@gmail.com,Jul-22-2015
+95f708ac9e0f723780fac259110ec8a737ecd0b9,Jihoon Son,jihoonson@apache.org,Jul-22-2015
+62534a8775ede8949b4b738b99807d4f7a91bd03,Jinho Kim,jhkim@apache.org,Jul-22-2015
+4841c656ff06dbab76ca59240623f956da2f4177,Hyunsik Choi,hyunsik@apache.org,Jul-22-2015
+c50a5dadff90fa90709abbce59856e834baa4867,Hyunsik Choi,hyunsik@apache.org,Jul-20-2015
+7481050e3d75eb860590f3237aca210fdd98190a,Hyunsik Choi,hyunsik@apache.org,Jul-20-2015
+008940ccbd8eb85365c37767581e427d4ea6400c,Hyunsik Choi,hyunsik@apache.org,Jul-20-2015
+bdd102c8f7446c43404ec9bd81d576e3be9dc90c,Hyunsik Choi,hyunsik@apache.org,Jul-20-2015
+5d62c409af47074ca2112a71e201a3127cd68878,Hyunsik Choi,hyunsik@apache.org,Jul-20-2015
+4bfd693acb1a294c6d52fa28e7c61b77f0a2034f,Jinho Kim,jhkim@apache.org,Jul-20-2015
+a06b5e56490116e345afc737de46bf1a4ed256a9,Jinho Kim,jhkim@apache.org,Jul-20-2015
+5a02873d5f0bd8fedd8527808bd3d4ecbe7d8af3,Jinho Kim,jhkim@apache.org,Jul-20-2015
+bedce3aa0ef3a3d337e7c054c9db0e3af2e15cf4,Jihoon Son,jihoonson@apache.org,Jul-20-2015
+a1a9d624d22d2e78d4726a69b27378da356281e6,Jongyoung Park,eminency@gmail.com,Jul-17-2015
+3dba8c7e6bc539b07b136b959aa91dc4402be380,JaeHwa Jung,blrunner@apache.org,Jul-17-2015
+92e3bc1b899036084bba29abe2ea82587cb76c12,Hyunsik Choi,hyunsik@apache.org,Jul-17-2015
+9c99f2ba0574ef7f8df6a8546c0e38745e310b39,JaeHwa Jung,blrunner@apache.org,Jul-14-2015
+2d7212c835c3faaee1004e1447644b722ec13c71,DaeMyung Kang,charsyam@naver.com,Jul-10-2015
+554ce5b76e4ae95a6650eed0035a6c764ac30304,Jihoon Son,jihoonson@apache.org,Jul-3-2015
+d39c93eec861af3211d3ea12ae4cf72376252f26,Hyunsik Choi,hyunsik@apache.org,Jul-3-2015
+dc80608f47e301d923c8b89378989f24071f98ea,Hyunsik Choi,hyunsik@apache.org,Jul-3-2015
+fec596185e5471c73f77af8dbe7cc8f7a1ab1a96,DaeMyung Kang,charsyam@naver.com,Jul-1-2015
+773c3eb94ad3c3a6bc3b8db7692a9a38a5f3e8af,DaeMyung Kang,charsyam@naver.com,Jun-29-2015
+8f3215d12346d71808a43bf4e2a22e1edd8874ff,Hyunsik Choi,hyunsik@apache.org,Jun-28-2015
+f57d6c43fd201326fef2a695b1d1e798d0f814e3,JaeHwa Jung,blrunner@apache.org,Jun-26-2015
+aa49dc4a8af9f836e44896c516d8b0cdb738e5dd,Jihoon Son,jihoonson@apache.org,Jun-25-2015
+2ec307d621828cc18627ef7bd98e9c3c6774c5af,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+03bf8430782a1a57de8b8cdd397fecd61c0a4fe5,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+90afaa468080d4f743ed2eee8326a38995900807,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+d44072762cb0b8e6dbb989e598074d160657ad0e,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+d0f37012faf1a8a3259210287e9bc7762ce62001,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+7c8477dd3ac15188353044981746ecfef87f2f02,Hyunsik Choi,hyunsik@apache.org,Jun-24-2015
+b24d18f5b3cf9ed3c4a4a41bff654c965521542f,JaeHwa Jung,blrunner@apache.org,Jun-24-2015
+0f7ff8f01170665000ac7d2edc1d28710de69af4,navis.ryu,navis@apache.org,Jun-23-2015
+fc92be782c9375b80c9cc4edfbb6cc8d7eb241b4,Jinho Kim,jhkim@apache.org,Jun-21-2015
+b0df5e0df1be78cd93b60db014a51a6dc6fed02e,clark.kang,clark.kang@kakao.com,Jun-17-2015
+ec46798c117130593ecbc0ec236ec9351f2aa1c3,Hyunsik Choi,hyunsik@apache.org,Jun-18-2015
+d926247dcaba0af8d810c54a7c668272c3c86ea5,Hyunsik Choi,hyunsik@apache.org,Jun-15-2015
+011de8bab375b01d8c2d07abebb6bf7ca94ae8c0,DaeMyung Kang,charsyam@naver.com,Jun-16-2015
+dc4904987dc16164dca4ff37c1178698537201c6,DaeMyung Kang,charsyam@naver.com,Jun-13-2015
+36da0dac7d90fa12b3d9cf11fa5b561a586e60ff,Jinho Kim,jhkim@apache.org,Jun-8-2015
+dfcf41d6f66044b15f478bb22feecccfdf742628,navis.ryu,navis@apache.org,Jun-3-2015
+5c2aee2369ebcbe5d2691c346bd7cd4207b68ff4,navis.ryu,navis@apache.org,Jun-2-2015
+03294e1453586f64fe96458461f149851b443b42,Hyunsik Choi,hyunsik@apache.org,May-28-2015
+39fdadcf760729e3b933a033aec52aaeadd7ec03,Hyunsik Choi,hyunsik@apache.org,May-28-2015
+f4680a933149bb49237e145afd36d2dc18bacbbe,Jihoon Son,jihoonson@apache.org,May-28-2015
+c2725a779c9f80d60a906657aaa95aff1a48edd0,navis.ryu,navis@apache.org,May-28-2015
+f124b87e6701481a93299bd283b00778da65710a,DaeMyung Kang,charsyam@naver.com,May-27-2015
+8fd9ae72c70b24c25eaf17d60a832cc7bd7d252c,Jihoon Son,jihoonson@apache.org,May-27-2015
+4f3a46c3646ca7a551916c57c980b2862a9dbb4e,Hyunsik Choi,hyunsik@apache.org,May-26-2015
+1872df94355bed50a3ac55ffd7632ab532bdb506,Jinho Kim,jhkim@apache.org,May-27-2015
+25bd5cb44a03ee425b02e2bc2553f7d0f8affff5,Jinho Kim,jhkim@apache.org,May-26-2015
+4b2ab61072031ee39565755c285ef267e9451b55,Jihoon Son,jihoonson@apache.org,May-26-2015
+bbfa076e1c2f379116d276d4b939fb757d798e2e,Jongyoung Park,eminency@gmail.com,May-25-2015
+c1fe41a0987fb8cc0decd6e40623c8a8725b05d0,Jongyoung Park,eminency@gmail.com,May-21-2015
+52641569e10207e4e2001467060f80ab34119744,Hyunsik Choi,hyunsik@apache.org,May-18-2015
+d261234ff1bc981c9f05b99650938ed2a9feb200,Hyunsik Choi,hyunsik@apache.org,May-18-2015
+4b1b7799d9852d8b75ccac00bec5543e1f0c859b,Jihoon Son,jihoonson@apache.org,May-19-2015
+3870a61b228f7c2dd3e3073dc033b03c248fab39,clark.kang,clark.kang@kakao.com,May-17-2015
+5491f0e7507c7efa1b2306d4c1f1d25240e482a9,Hyunsik Choi,hyunsik@apache.org,May-15-2015
+36a703c5dc2c2257dfd52232f204507fb4b79024,Hyunsik Choi,hyunsik@apache.org,May-14-2015
+f3acbdf5c69e7cf5a892ea2c07b9548c648cd64f,Jinho Kim,jhkim@apache.org,May-15-2015
+d3ca4bc1e59539896ddcb3b1075433a79f713114,DaeMyung Kang,charsyam@naver.com,May-14-2015
+31c4630d5d3ce0dee1df35491c557eefad15deeb,JaeHwa Jung,blrunner@apache.org,May-14-2015
+6977471e486ec9f77c24e17b51eef71f99978f13,DaeMyung Kang,charsyam@naver.com,May-13-2015
+53ed1c376f4969b5a2c54e30ddbd8113847a8768,Hyunsik Choi,hyunsik@apache.org,May-11-2015
+0d1bf41f3aff119af5d95270d735101a81d5721c,Hyunsik Choi,hyunsik@apache.org,May-11-2015
+70df3a8d2a5d6b6cef5ae233a546d8a405780964,Hyunsik Choi,hyunsik@apache.org,May-10-2015
+ddd39213d87fd76e9e80099e92010fd71b3d363e,Jinho Kim,jhkim@apache.org,May-8-2015
+d9776b32df0ef79b99087310ece41277ae517e9a,Hyunsik Choi,hyunsik@apache.org,May-8-2015
+1baf8dce6521fcab041c2e94b1ba5eb016611bb2,Hyunsik Choi,hyunsik@apache.org,May-8-2015
+285b179067fcd52fa1eead1a4f4b04da3813182b,Hyunsik Choi,hyunsik@apache.org,May-8-2015
+e6e1860c8e83f9db6c4c094fe703b21d45d86529,Jongyoung Park,eminency@gmail.com,May-8-2015
+863e53eae091bb6073efb31a1efd8acf4ff88ea0,Hyunsik Choi,hyunsik@apache.org,May-7-2015
+2b4c1610d2e60dfc9c50fbfdac22e12870c17163,navis.ryu,navis@apache.org,Apr-4-2015
+fab63900cf44b61d571fb9c2982285bb8b669702,Hyunsik Choi,hyunsik@apache.org,May-7-2015
+9b3824b5f0c64af42bfcf0a6bb8d3555c22c5746,Yongjin Choi,superpiggy@gmail.com,May-6-2015
+04167bdc3bb04b53c5a245a9c18b6426ade82a26,Jinho Kim,jhkim@apache.org,May-6-2015
+b6b9d46318d0aaa0346578b5ecf11b9d9ba74b0c,Jinho Kim,jhkim@apache.org,May-6-2015
+475541057891518e08e5a18ebbbf916c1ad60c10,Jinho Kim,jhkim@apache.org,Apr-30-2015
+9540f16edb0de1a66b016b8a7b65568cc2d64709,Jihoon Son,jihoonson@apache.org,Apr-29-2015
+9d73267cb308e1d4c2df60e1099322938f0559a5,Jihoon Son,jihoonson@apache.org,Apr-29-2015
+2e7d03dff9480ecb7a4e4ed09a5578ba618de2ae,Jinho Kim,jhkim@apache.org,Apr-28-2015
+1971d85fce473da5cec407adecf89117253eca45,Dongjoon Hyun,dongjoon@apache.org,Apr-27-2015
+b50831ffa66d94b67a419a95f81beed8fcab8ba2,JaeHwa Jung,blrunner@apache.org,Apr-27-2015
+9acb3a63c455723651f2275c853a121c67824a0b,Jinho Kim,jhkim@apache.org,Apr-27-2015
+50ac828a95beb7d09a4a0f9ae46ad182b2c269ff,Jongyoung Park,eminency@gmail.com,Apr-27-2015
+14340729b5039e20f170160ffe58b3c96a865c26,Dongjoon Hyun,dongjoon@apache.org,Apr-24-2015
+4865a41141b6c79c35726369fd8422830ee73c2b,Jongyoung Park,eminency@gmail.com,Apr-24-2015
+2a5d9128702d5ef5ab16405c0e4f4b296fa1d896,DaeMyung Kang,charsyam@naver.com,Apr-21-2015
+f072979fff681d57ece0ac64a867771bd64cd434,navis.ryu,navis@apache.org,Apr-20-2015
+044fd49a157424aef658d20025a9be094ff25334,DaeMyung Kang,charsyam@naver.com,Apr-20-2015
+0a1a41d258b083810601fb5790d423a5763f5051,Jinho Kim,jhkim@apache.org,Apr-20-2015
+374929d86ddf8f1bbe260b0d515b9db0507f1828,navis.ryu,navis@apache.org,Apr-20-2015
+1bceb0e11ae6626e0aa2a603fab984d16105c849,DaeMyung Kang,charsyam@naver.com,Apr-19-2015
+1f72d11f1d2bd48e895cbeb8a7228a854633fe2b,Jinho Kim,jhkim@apache.org,Apr-19-2015
+ad596bb1cf3948978a3233562638abdd34c969b7,Dongjoon Hyun,dongjoon@apache.org,Apr-19-2015
+333b6f784a7f237752f5d93b9235b2468aea3471,Jinho Kim,jhkim@apache.org,Apr-18-2015
+048af99fdd765fdcd0d3ab100a4773e89ca4efb2,Jinho Kim,jhkim@apache.org,Apr-18-2015
+a7453853975dc8b5f4162ae16a1669aeb7ed995c,Jihoon Son,jihoonson@apache.org,Apr-18-2015
+14a1e536c2848dbb9e1a714076d833a7ff1f5640,Dongjoon Hyun,dongjoon@apache.org,Apr-17-2015
+d2a4f9b3d668010d2adfddc9693efe4ef7d5bcb6,JaeHwa Jung,blrunner@apache.org,Apr-17-2015
+955a7bf84ec44e2ae301cd5775760166da5fbcc2,JaeHwa Jung,blrunner@apache.org,Apr-17-2015
+7b78668b7d90d268bb6065586fe880cda08571c4,Jinho Kim,jhkim@apache.org,Apr-16-2015
+338a2b777854de0ed8344d3d1fcbc5276f3e3cba,Keuntae Park,sirpkt@apache.org,Apr-16-2015
+c42d4b3c5c5b6452a82a81fd51dc8e2f30e0816c,Dongjoon Hyun,dongjoon@apache.org,Apr-14-2015
+7d720888fd02b44ed18738ac4da36866fac46fa7,Dongjoon Hyun,dongjoon@apache.org,Apr-13-2015
+d57b16fe68986d42a143da87162d89a672aec792,navis.ryu,navis@apache.org,Apr-13-2015
+daf55ea45572494d996dad7cb3e207fbc9489102,navis.ryu,navis@apache.org,Apr-13-2015
+6136142e370d9fba88c88379f67033312621c10f,navis.ryu,navis@apache.org,Apr-11-2015
+db912712d338fa61472a0b78f304d1ce8cff3ae0,navis.ryu,navis@apache.org,Apr-10-2015
+67a3117d98085aa1ffc636ed4889c74f71609cde,navis.ryu,navis@apache.org,Apr-10-2015
+3363d9c4d68fe6edba078825f7cfb8463ef71661,Jihoon Son,jihoonson@apache.org,Apr-8-2015
+69895422cf2f770d897a8cbe554ea739cd091b20,navis.ryu,navis@apache.org,Apr-8-2015
+a1cf24815c286b58601d1c1a0b2f745c633e4a9a,navis.ryu,navis@apache.org,Apr-7-2015
+d160f6e189d4de6275e169a3e0fd74d9647481c4,Jinho Kim,jhkim@apache.org,Apr-7-2015
+633109ac75bc8036e49eba8ea48c025fc0f342da,Jinho Kim,jhkim@apache.org,Apr-7-2015
+72948b63a79cd8902381c3443699c887b2740491,Jihoon Son,jihoonson@apache.org,Apr-6-2015
+4eb8713326d5f049df577e49c1a2e629b3ee8096,swlsw,soonwoong.lee@gmail.com,Apr-6-2015
+32b524d74f5e4a6a37a4b99c43830f8401fc9e45,Jihun Kang,jihun@apache.org,Apr-6-2015
+696d2aa7fe6a507209c5b4660d4c4efb934d49b6,Yeonsu Han,hanyounsu@gmail.com,Apr-5-2015
+dd43373418b1857a1f694a08c06da77a86d3cfeb,Yongjin Choi,superpiggy@gmail.com,Apr-5-2015
+b0abff8e896d7985eaf1aa48d9c2ab3a45618f01,Dongjoon Hyun,dongjoon@apache.org,Apr-4-2015
+70d5fdf86b14ea4242b3c98f8da826f80b4f4f40,Jongyoung Park,eminency@gmail.com,Apr-3-2015
+0a3a6b958f9ad348246729f48c6d13c9ef9d2599,Keuntae Park,sirpkt@apache.org,Apr-3-2015
+f4c9e54c88fb9e69023da2b0a74ead76ad2a6f8d,navis.ryu,navis@apache.org,Apr-2-2015
+bda2d6236df1db352206e831b0da93b31de701bf,JaeHwa Jung,blrunner@apache.org,Apr-2-2015
+d6735fb929daf86df3c8adb729a4e64bce95462b,DaeMyung Kang,charsyam@naver.com,Apr-2-2015
+6e7f1c7b0561c7299a498b81dfb6148883a76a0d,babokim,babokim@gmail.com,Apr-2-2015
+7c2a2409032c1bcd1fa9c636f0ef49982a995362,navis.ryu,navis@apache.org,Apr-2-2015
+fdb098b9b71d33e65d6dc788ec9366533f3a3f71,Jakob Homan,jghoman@gmail.com,Mar-31-2015
+968633ff06b29101586286980a2099fc3dd4c534,Jinho Kim,jhkim@apache.org,Apr-1-2015
+487a0e51af980eda1b00476cdc999f29b28cc8e3,JaeHwa Jung,blrunner@apache.org,Mar-31-2015
+652e4db7965e6452ad2a9778f8383141bb63e22f,Keuntae Park,sirpkt@apache.org,Mar-30-2015
+7f7759331a9ac0e6513c5870ef9127218da1360f,Dongjoon Hyun,dongjoon@apache.org,Mar-29-2015
+5c89130bac8229b0a51efcd6edb3dfe29682cec9,Dongjoon Hyun,dongjoon@apache.org,Mar-29-2015
+373d53cb93ac98fce07c0be0a626c08a86cf113e,Jongyoung Park,eminency@gmail.com,Mar-27-2015
+b1e174eec4c15142b6fa518b6803579bb0788e8e,Jihoon Son,jihoonson@apache.org,Mar-27-2015
+cad54428dd803cdb8caf3d51a9ba7e1d83a99b01,JaeHwa Jung,blrunner@apache.org,Mar-27-2015
+a01292f7e42966451ee333cd6d99ed0eaa21e793,Jongyoung Park,eminency@gmail.com,Mar-24-2015
+f9346e5093fdcbaab3927d192af25dea721b7956,Dongjoon Hyun,dongjoon@apache.org,Mar-25-2015
+12f30c5856e46d56e217ef0d3f48accc878600f5,Jihoon Son,jihoonson@apache.org,Mar-25-2015
+3e9a2dd2ba86653ec7b90394518a1a700bd937dc,Jihoon Son,jihoonson@apache.org,Mar-24-2015
+d7b5212ceb569ba145318d78cff46ca49bef973c,Jihoon Son,jihoonson@apache.org,Mar-24-2015
+a9215852d4bf9e5d7a29598a992ef1884f098d4b,navis.ryu,navis@apache.org,Mar-12-2015
+8d0146b8d8f5eeac37fe3f531ce1362af3b20c2f,Jihoon Son,jihoonson@apache.org,Mar-23-2015
+3aaff387c29adf1949d0a6ac4f0d6d7c7388f238,Jihoon Son,jihoonson@apache.org,Mar-21-2015
+154f5b9e1c619ce4327aa055fb3ef02d6030fc0d,Jihun Kang,jihun@apache.org,Mar-20-2015
+5260c1e064e09f14b686144bdfc136fe76e01f4d,navis.ryu,navis@apache.org,Mar-20-2015
+797138e61bf692de455f0a38580793cd190f46d5,navis.ryu,navis@apache.org,Mar-19-2015
+e15ac7e5596ad03aedc1168e422099e1d0ee9a1d,Dongjoon Hyun,dongjoon@apache.org,Mar-13-2015
+725448c5249cd8691ea167f595237ed7bcc22293,Jihun Kang,jihun@apache.org,Mar-19-2015
+a9ae3cab69526294475a771014e9c0e49c80462b,Jihun Kang,jihun@apache.org,Mar-18-2015
+82d44af32246c63a32c049292f0a229f16e85768,navis.ryu,navis@apache.org,Mar-11-2015
+286b956795a4dc2efb72c97896d86ed1049485e3,Keuntae Park,sirpkt@apache.org,Mar-17-2015
+0dc7d68071dcf7c9d01dde8ed7598ca422e4c50c,navis.ryu,navis@apache.org,Mar-16-2015
+e1e38e231867e4f6f953a7ec41f5f9d5ad242580,Jinho Kim,jhkim@apache.org,Mar-13-2015
+7f0569555332665141e71141d7a736371d038509,navis.ryu,navis@apache.org,Mar-6-2015
+d8db8b776113ad67a8e52829cebb920793b7fca9,Jihoon Son,jihoonson@apache.org,Mar-13-2015
+f48d4bd04ec46b6678773209a3397555eb2ce24d,Hyunsik Choi,hyunsik@apache.org,Mar-12-2015
+6defbda966912ee2dd42197c2a82e94439b25bd8,Jihun Kang,jihun@apache.org,Mar-12-2015
+4a9da73c6cc6ff670f867c13d60dd951bf8190bc,navis.ryu,navis@apache.org,Mar-12-2015
+607fdea458a0763325727b99ee2a0687b29b5160,Hyunsik Choi,hyunsik@apache.org,Mar-11-2015
+513a8c3086b889d9b701d5c97eda3fb8c5453834,Jihoon Son,jihoonson@apache.org,Mar-11-2015
+3b9a2e5f287db3fcfdf6b0578c8184c47b8b3ebd,navis.ryu,navis@apache.org,Mar-10-2015
+13316bd26cbd7eedcc97c74f317ca743bd2eba5b,Dongjoon Hyun,dongjoon@apache.org,Mar-10-2015
+69fd8d2a08ce7ec0d69c4f98a338f979a13aafd1,Hyunsik Choi,hyunsik@apache.org,Mar-9-2015
+f9d2fdefe87ad7145f49f287f59e4e18c5a86183,Hyunsik Choi,hyunsik@apache.org,Mar-9-2015
+14a7f82418d4169a43b35587f2b1154a13461806,Jihoon Son,jihoonson@apache.org,Mar-9-2015
+b839d372a46bf653854288872de5ce78bac586ef,Hyunsik Choi,hyunsik@apache.org,Mar-8-2015
+42ef0dc665db7bb806624b7fad0be9e943c1adfd,Hyunsik Choi,hyunsik@apache.org,Mar-8-2015
+6ba51c3cd3f20ce9c7e945d78b0cd2c4eaefc362,navis.ryu,navis@apache.org,Mar-5-2015
+f1aeb734a42dfe0ab756069e5380bb253e09b45c,Hyunsik Choi,hyunsik@apache.org,Mar-6-2015
+6e519bcf39a526b64e62d9957404bfd8a3888486,Jihun Kang,jihun@apache.org,Mar-6-2015
+1617fa9b4e99691499af9d62cebf2fe07b034a26,Hyunsik Choi,hyunsik@apache.org,Mar-4-2015
+398287908b8aad114b1852a7373dcb7a81ade816,Hyunsik Choi,hyunsik@apache.org,Mar-4-2015
+22876a825e9d19b0f599c342d4ae3902d85f2c4d,Jihun Kang,jihun@apache.org,Mar-3-2015
+64e47a401fca83bef46567631940ae206ebfb280,Jihun Kang,jihun@apache.org,Mar-3-2015
+f884e59a9862bafb5f85524ba4a98cab6e43d403,Jihoon Son,jihoonson@apache.org,Mar-3-2015
+c65bc3a298490b4305f9ac2031cd05a0ad116495,Jihun Kang,jihun@apache.org,Mar-2-2015
+862514d8ad044a08bed6999660e15ac8fbf01e75,Jihoon Son,jihoonson@apache.org,Mar-2-2015
+d769d7872dddf16c9e7618ecb8f69c4299f5e3bd,Jihun Kang,jihun@apache.org,Feb-24-2015
+fa20b6546322a8d4a7cbbe204726104c62890cc8,jhkim,jhkim@apache.org,Feb-23-2015
+7ca1e73bce7102d7bf84557cd785182c0383e7ef,Jihun Kang,jihun@apache.org,Feb-22-2015
+08f30345047ddf62dc51c33b9c350f08bf918a5c,Hyunsik Choi,hyunsik@apache.org,Feb-21-2015
+95d9cc455dd7d25da6dd0df709084d7346efb410,Jihoon Son,jihoonson@apache.org,Feb-17-2015
+dbf91f54c0bd9ee5a8d1ec7f71fdace1af868604,jhkim,jhkim@apache.org,Feb-14-2015
+161ee9ebc641f7e2ab326360b7fc26ab318ef72c,jhkim,jhkim@apache.org,Feb-6-2015
+42d79cf5b5dae99cd8af3b1244db1f709d4268e6,Hyunsik Choi,hyunsik@apache.org,Feb-5-2015
+3f336f500bd53b829467c9c7f6e3fe777554a423,JaeHwa Jung,blrunner@apache.org,Feb-5-2015
+901700b26f6862738adf5bfc8cbe718cd6a19627,Keuntae Park,sirpkt@apache.org,Feb-5-2015
+5e024f947b441fb49f5740deab119867eb655795,Jihun Kang,jihun@apache.org,Feb-4-2015
+ae7862b284371069522a853df6a1db8249428644,Jihun Kang,jihun@apache.org,Feb-4-2015
+8ac868352a2a3e5c26cf438e81ef4e23af88dc2b,jhkim,jhkim@apache.org,Feb-3-2015
+02c6c266c013d8174a287bc57a6d4131da51ba96,Keuntae Park,sirpkt@apache.org,Feb-3-2015
+9ad117f07b30874685e58e28b76f8d0a2650b0f5,jhkim,jhkim@apache.org,Feb-3-2015
+e9cd25a6cdf9d5359d84703a63600c312688d755,Jihun Kang,jihun@apache.org,Feb-2-2015
+58bbb1bb424288fdb3e731374de9938911d8e0f3,Jihoon Son,jihoonson@apache.org,Feb-2-2015
+1e007595dc4ebbcab42d8e32e9d519e7cbf6f96b,Jihun Kang,jihun@apache.org,Feb-2-2015
+fd73074f2198f92516a3eb8f5e786d31c1c071a5,jhkim,jhkim@apache.org,Feb-2-2015
+e656ee2872e660d95c25e7b080064f44a8d9d01e,jhkim,jhkim@apache.org,Feb-2-2015
+4595375f7e6b62436e0d4bf88a8aef1ca680c726,Hyunsik Choi,hyunsik@apache.org,Jan-28-2015
+015913b7a7eec922475a67d9455457f229367af7,JaeHwa Jung,blrunner@apache.org,Jan-28-2015
+b9719ba78ef441772ee7f5ffa44844627df95891,JaeHwa Jung,blrunner@apache.org,Jan-28-2015
+c429c9710ff0c5791a17419d29a5fc7fdea60e4d,JaeHwa Jung,blrunner@apache.org,Jan-27-2015
+d7ee6cd682769f4c56aa1c053dc0bb4071813202,jhkim,jhkim@apache.org,Jan-27-2015
+5ba8e383c61e6074e84dbd07a3b150370ccbaea1,jhkim,jhkim@apache.org,Jan-27-2015
+a15b5fab7b1475f5cb4e5eba842f1c4b17166b58,jhkim,jhkim@apache.org,Jan-23-2015
+17c6dff4e258d93e0ffaa1cc07368b2b5d8b8aa4,jhkim,jhkim@apache.org,Jan-23-2015
+0024c75e9a36c6c90ab168f002101725f753f945,Jihun Kang,jihun@apache.org,Jan-23-2015
+f80ec425dcdd8917d1408bd20f837de39e9f0c4b,jhkim,jhkim@apache.org,Jan-22-2015
+e22c1c57bc81e65af6a041e9f5afc9973ca70dae,Jihun Kang,jihun@apache.org,Jan-20-2015
+4d1006d56b7761500e16afe7be7826422850555a,Keuntae Park,sirpkt@apache.org,Jan-20-2015
+6f07cefd224c8da420ec7ec37974917993a05fc5,JaeHwa Jung,blrunner@apache.org,Jan-19-2015
+9d749d6b798d8a3cfb5c11f0b6ad9e8f98c52fd4,JaeHwa Jung,blrunner@apache.org,Jan-19-2015
+76ece8b874f4a0c5554e784d7bfcc1474b217c47,JaeHwa Jung,blrunner@apache.org,Jan-19-2015
+1bf71f6f5b2b4dae01ed72c33e2c910804d4071f,jhkim,jhkim@apache.org,Jan-15-2015
+9553edc9ba0d6a0d4ff6e75b6be5d06aef91eddb,Jihun Kang,jihun@apache.org,Jan-13-2015
+d1a46c6b6e3d4f6c74519cffab1c0562640fb0e5,Jihun Kang,jihun@apache.org,Jan-12-2015
+bc478ba834e9bba768155faa53f918e495a74671,Hyunsik Choi,hyunsik@apache.org,Jan-11-2015
+c45d0ef02df1aa59bb54e0da0205890cc050fcff,Jihoon Son,jihoonson@apache.org,Jan-10-2015
+5d5b152008d25d2605008cd896871b69fd472833,Hyunsik Choi,hyunsik@apache.org,Jan-10-2015
+3308aab4b64d36b805b0b0e6cc282a6dce97f6ad,Jihoon Son,jihoonson@apache.org,Jan-10-2015
+9eac34fe3121b8bc6bbe1b81ca76852ddedb2603,Hyunsik Choi,hyunsik@apache.org,Jan-10-2015
+807868bd4d1ca1c8bd3aee33d31cca3d43dd2273,Hyunsik Choi,hyunsik@apache.org,Jan-9-2015
+50a8a663c2c95f14ca59f3b01ffd79b2578f7f09,jhkim,jhkim@apache.org,Jan-9-2015
+533601eac6a21251485576ba693635d1650b63a4,Jihun Kang,jihun@apache.org,Jan-9-2015
+03801a3129301745e16f0a7b40102a56e9d13389,Keuntae Park,sirpkt@apache.org,Jan-9-2015
+307c6c9f558ae96ffa2f7351ffa3dc5788ba4dbb,Hyunsik Choi,hyunsik@apache.org,Jan-9-2015
+809cba3758564acd4def17928f95de7b4c913c45,jhkim,jhkim@apache.org,Jan-9-2015
+1c29c1cb4bd0e2d75954575717cb5cf05875fe51,Hyunsik Choi,hyunsik@apache.org,Jan-9-2015
+a1e03289b35d34115a449ab7d81b946f69400210,Keuntae Park,sirpkt@apache.org,Jan-8-2015
+6582d8656a3e8147984a86a9e62688b52ec1f681,jhkim,jhkim@apache.org,Jan-8-2015
+7615b7576d2d40758f55cae3f4ea3346322cef0f,JaeHwa Jung,blrunner@apache.org,Jan-8-2015
+54b2c645c454d54b6ef9ac1fb1cea621139fdf99,Jihoon Son,jihoonson@apache.org,Jan-7-2015
+4c7d8297076c54898ce45ecbbcfbc78a592911ab,Hyunsik Choi,hyunsik@apache.org,Jan-7-2015
+bc8e7243e1ed1b918f90e2ba0a18d4064ee604bb,Hyunsik Choi,hyunsik@apache.org,Jan-6-2015
+203a146b278a88853054bb6bd9ad7699e7268b8a,Hyunsik Choi,hyunsik@apache.org,Jan-6-2015
+cb9793b990f1c882e3371a44e6c3f28fe913c1a7,Hyunsik Choi,hyunsik@apache.org,Jan-5-2015
+7a1ac28dfd75ef584f3a300afc6f119d32025e9f,Hyunsik Choi,hyunsik@apache.org,Jan-5-2015
+c420ced1b8a9e777fd0d5558236050a4515d8a45,Jihoon Son,jihoonson@apache.org,Jan-5-2015
+14e7529e3a414766d5337919f377effaccf9ac4c,Jihoon Son,jihoonson@apache.org,Jan-5-2015
+9e329a5509b71fa412299169dd3c866e54f46c77,Keuntae Park,sirpkt@apache.org,Jan-2-2015
+5a97079cef13803a636de58e3e0bbcee568bc3ca,Jihun Kang,jihun@apache.org,Dec-31-2014
+021a6f0b216ca9f67a5a889e72d2a8ce81c047f2,Jihun Kang,jihun@apache.org,Dec-30-2014
+32be38d41affc498b01286938f3fea89a8def1a9,Hyunsik Choi,hyunsik@apache.org,Dec-30-2014
+6fde9e598b575b817e3086347b3ea5c2d700a931,Hyunsik Choi,hyunsik@apache.org,Dec-30-2014
+fd49bff19dd27262cc7abdd4bbf3cd0d5de14dfb,Hyunsik Choi,hyunsik@apache.org,Dec-26-2014
+4c713fb40464f651994926d3f56205e2e7cc2552,Jihoon Son,jihoonson@apache.org,Dec-25-2014
+533e709b75ab7cf8bc8a06b48870dcf2ebc8fe11,Jihoon Son,jihoonson@apache.org,Dec-25-2014
+db549655034c1eb79d8f5785bc00aeecfc53a593,Hyunsik Choi,hyunsik@apache.org,Dec-24-2014
+09cad22ee2f7c30a0f28ebe50e00612777e69c86,Hyunsik Choi,hyunsik@apache.org,Dec-24-2014
+c39ed5dc9e5b6ec80a87baf08d79fbb640fb886f,Hyunsik Choi,hyunsik@apache.org,Dec-24-2014
+3c833e2a8c3ff7ff8a2e1b4497afb390098856bf,Hyunsik Choi,hyunsik@apache.org,Dec-22-2014
+cf66a390060c79ba757097886703e30f93d31401,jhkim,jhkim@apache.org,Dec-22-2014
+a4c3484232e139d4d21d0cfb9c31e5d784de652b,Hyunsik Choi,hyunsik@apache.org,Dec-19-2014
+3413107469a3ce9eb9cf46b1ad3b81bbd4f97d9a,Hyunsik Choi,hyunsik@apache.org,Dec-19-2014
+b7c8cf7239483c6b44925175658f21dbbf252665,Hyunsik Choi,hyunsik@apache.org,Dec-19-2014
+af4083bfd337bfd6fe8278b0363c987d19088e50,Jihoon Son,jihoonson@apache.org,Dec-18-2014
+5c852b7984ba96cd60d528dd2086e2745cc8e3f5,Hyunsik Choi,hyunsik@apache.org,Dec-18-2014
+ff57c77ea6ea790a0689b59272600325e5b73345,jhkim,jhkim@apache.org,Dec-18-2014
+2548768cfed8f018727f6f054317b2adb4d7f485,JaeHwa Jung,blrunner@apache.org,Dec-18-2014
+e025e3cbe80ab39ca963333a7d4d71edea22ce0b,Jihoon Son,jihoonson@apache.org,Dec-17-2014
+82dfb17ca9878de90ab6b92b0c56a918789191cb,Hyunsik Choi,hyunsik@apache.org,Dec-15-2014
+5e043bd87bc6f84848d0745f435706421932cf60,jhkim,jhkim@apache.org,Dec-12-2014
+bee0fd86e07a77237c0644f708c220d7ed7fafe8,jhkim,jhkim@apache.org,Dec-12-2014
+c665ae1f6fc1e35e6a743e7e4e377c7885686b32,jhkim,jhkim@apache.org,Dec-12-2014
+5d9a130b7bb306ce49202f79704ec10e960829d4,Hyunsik Choi,hyunsik@apache.org,Dec-12-2014
+c7dd002a6e12b569e830396f84a32c832bf1e783,Hyunsik Choi,hyunsik@apache.org,Dec-12-2014
+06ed5dc9e086d25fb2f4f4fc1595ccd0d1320079,Hyunsik Choi,hyunsik@apache.org,Dec-12-2014
+4561711f0417eb3ee303f292b8ac44e4ecad8271,Hyunsik Choi,hyunsik@apache.org,Dec-12-2014
+758927e5aed12d390b02198525b812b838cd2ba3,Hyunsik Choi,hyunsik@apache.org,Dec-12-2014
+3c273b52dece0ed482775ec5b948a05da3116c77,Hyunsik Choi,hyunsik@apache.org,Dec-11-2014
+876adcfbe358c6d91d9a50ba81847ebba1f0184d,Hyunsik Choi,hyunsik@apache.org,Dec-11-2014
+adb34bdf84299228037d7706bf0c0209c3577846,Hyunsik Choi,hyunsik@apache.org,Dec-11-2014
+a0d67bb60ea995dc2c0ad014a8b71852e936cd56,Hyunsik Choi,hyunsik@apache.org,Dec-11-2014
+4bcd46427131c09bed9898a552efe416bbdbf442,Hyunsik Choi,hyunsik@apache.org,Dec-10-2014
+bebc78011798cd2fd691e8901141e94f1d445d6e,jhkim,jhkim@apache.org,Dec-10-2014
+72256fcff2c77222e278cb690efb8f669e926a29,jhkim,jhkim@apache.org,Dec-10-2014
+ac6799f0ebfdd56b484611ea28dada8880406d19,Jakob Homan,jghoman@gmail.com,Dec-9-2014
+661c7e216d664c71d2c889082703ecc6ae028dc3,jhkim,jhkim@apache.org,Dec-9-2014
+8f68b4bafdbb216365459d5bd118534d0031e548,Jihoon Son,jihoonson@apache.org,Dec-9-2014
+88e5c9e9a5cc067f7cc95899cd21394f2a2243c9,Hyunsik Choi,hyunsik@apache.org,Dec-8-2014
+b5aa780460fcfbf657541ee6c94d41b34b1b24b9,Hyunsik Choi,hyunsik@apache.org,Dec-8-2014
+facd1ddcc85a088ab8ba4e42dce2c99f6fe7e5de,Hyunsik Choi,hyunsik@apache.org,Dec-8-2014
+95cf4b9432a02fdbf9880b204c3db718e2bd2468,JaeHwa Jung,blrunner@apache.org,Dec-7-2014
+ab2efce8fb4015523a9a818f0e03fa57c6366585,Hyunsik Choi,hyunsik@apache.org,Dec-5-2014
+2a69bcc218a53eced0cdb9217de1fdd1837c0827,JaeHwa Jung,blrunner@apache.org,Dec-4-2014
+f6da07b03587d2bce5ca4ac53d86eae3a8ba23c2,JaeHwa Jung,blrunner@apache.org,Dec-4-2014
+97507e45883c9db2fec2f5a9a9e544384a86ccd0,Hyunsik Choi,hyunsik@apache.org,Dec-4-2014
+9f8be1a695298e2e9fe0d881ddfcb310b5a7460b,Hyunsik Choi,hyunsik@apache.org,Dec-4-2014
+20d1f0145b47e6c478bb55c79d670926e66f137c,Hyunsik Choi,hyunsik@apache.org,Dec-3-2014
+ea2dbf82c04d609dac46abd322241a15ccf30956,Hyunsik Choi,hyunsik@apache.org,Dec-3-2014
+f69938abecd3d53968e318d97aba53d9acd3de40,Hyunsik Choi,hyunsik@apache.org,Dec-3-2014
+5066ac3e80da390ff0f5733d345cbc63ec252843,Hyunsik Choi,hyunsik@apache.org,Dec-3-2014
+1cdbe467e3dc25d7af59afc116ff9e8e6273a1ac,Hyunsik Choi,hyunsik@apache.org,Dec-3-2014
+b4adc18cd25de550fe04a43ef69d715c146976db,Hyunsik Choi,hyunsik@apache.org,Dec-1-2014
+bf68b770e6abbb4c63d696e264a348bb1ddb5982,jhkim,jhkim@apache.org,Dec-1-2014
+cd38dffb908a3959472f5ddb705db71d0e48ad89,Hyunsik Choi,hyunsik@apache.org,Nov-28-2014
+7d41c67ca94493e38c67e62663dc097358a18539,JaeHwa Jung,blrunner@apache.org,Nov-27-2014
+4637f7fd126c46f0e6a4bcdf2d816511b690552b,JaeHwa Jung,blrunner@apache.org,Nov-27-2014
+f3291621c31bbc24aff47dbc363ddfe2a1a9b21c,JaeHwa Jung,blrunner@apache.org,Nov-27-2014
+72dd29c520981a3ffaac2150ee7306ca41192893,Hyunsik Choi,hyunsik@apache.org,Nov-27-2014
+3ae44b1d2a1cf49123eb1d1c30f081a8a8d0e7fb,JaeHwa Jung,blrunner@apache.org,Nov-27-2014
+3d485ecb0112af12258a5a2bdc4a400b8df4fae8,JaeHwa Jung,blrunner@apache.org,Nov-27-2014
+0c97fc0319b0f33c3a76f591d48cb52f1df92567,Hyunsik Choi,hyunsik@apache.org,Nov-25-2014
+f6e09a5ae6f35dd6fe7f9ae895f0517f902b9b4d,Hyunsik Choi,hyunsik@apache.org,Nov-25-2014
+a56f8b53b264ed3e0554e68b3f0a51e6966e2b56,jhkim,jhkim@apache.org,Nov-25-2014
+80afe993b82d57582fbeab64d20199f4dfa3d9af,jhkim,jhkim@apache.org,Nov-21-2014
+965cbd90778e2c6872e04456e94a19dd2e4f27f5,jhkim,jhkim@apache.org,Nov-20-2014
+c544ffc088d685f1ad66963351d71d7a925c7025,jhkim,jhkim@apache.org,Nov-20-2014
+ef282ebec579c512bbb3860a49d7322e1fb45199,jhkim,jhkim@apache.org,Nov-19-2014
+67bdc71b17b54da731eaf01b9fac51ad8983353b,JaeHwa Jung,blrunner@apache.org,Nov-19-2014
+8f38cc7b7fff0f49c8a2ad5a2cafab783ea66347,Jihoon Son,jihoonson@apache.org,Nov-18-2014
+491395a627dd527e43c469f00908dfc0f815de62,jhkim,jhkim@apache.org,Nov-18-2014
+95770e70bf4651b64a2ce79bd8f4bcea52d7ac90,Hyunsik Choi,hyunsik@apache.org,Nov-17-2014
+a0625a620bba9781c51f2ee0f47ec0aad1c36767,Hyunsik Choi,hyunsik@apache.org,Nov-17-2014
+6059a3dd15e05cf1364cab6b90796acfa0356dea,Hyunsik Choi,hyunsik@apache.org,Nov-15-2014
+2bc5e7f938b5c4e5a7712aa1d948d89beae6ef93,Hyunsik Choi,hyunsik@apache.org,Nov-15-2014
+17cb3120ed08749719515f21b741ea9551f7857b,Hyunsik Choi,hyunsik@apache.org,Nov-15-2014
+13af3d32febc1b2ece7a881d25ee650e50e1a64b,Jihoon Son,jihoonson@apache.org,Nov-14-2014
+c193cfaa8eb50a83bbbf46624bcccb81c0cc7445,jhkim,jhkim@apache.org,Nov-13-2014
+55084a8ae29a3650409c1f1dea68223d6f1c340d,jhkim,jhkim@apache.org,Nov-12-2014
+005556850e60f14d5e11ca74035b195461f31d29,Hyunsik Choi,hyunsik@apache.org,Nov-11-2014
+2b8d30ca2ca4fbf1dfda58f482c952441178390d,Hyunsik Choi,hyunsik@apache.org,Nov-11-2014
+f45e74f6efd1175c4eb97dbbcd38c702e29031a0,HyoungJun Kim,babokim@babokim-mbp.server.gruter.com,Nov-11-2014
+e01b00a7b05b98cc407ced04dad1c2f2144d0f88,HyoungJun Kim,babokim@babokim-mbp.server.gruter.com,Nov-11-2014
+a3e5bdd69833b87b666c1db567dbf464d84d35f7,Hyunsik Choi,hyunsik@apache.org,Nov-10-2014
+3e305b15fa94b1ed76dfa0e769825137ba1dfc1a,jhkim,jhkim@apache.org,Nov-10-2014
+5a72e2f626de3a93dce0264cb24dbfcc00a1cd83,Hyunsik Choi,hyunsik@apache.org,Nov-9-2014
+d65224293671501639772db2141a316752078d76,Hyunsik Choi,hyunsik@apache.org,Nov-8-2014
+5c82b7db42c718652d2a1fbb7bdd29d852e9565d,Hyunsik Choi,hyunsik@apache.org,Nov-8-2014
+514ed8474a843c92b2fb772971e41f53010f5a4e,Hyunsik Choi,hyunsik@apache.org,Nov-4-2014
+080f4e1454fb8dfabe1c15e58d3c1eff8ecd6f6d,jhkim,jhkim@apache.org,Nov-4-2014
+a23443570b92333e5d0e337576db68a842caef5f,Hyunsik Choi,hyunsik@apache.org,Nov-3-2014
+aa5e3b683120a8b1841c523232b7a8a28371e7c9,Hyunsik Choi,hyunsik@apache.org,Oct-31-2014
+c59baa3ad60e92da2ebd1fb636f301e5ca4f585d,Hyunsik Choi,hyunsik@apache.org,Oct-30-2014
+154da1e492e9e1ad4e752dbf396f9d4f1973ec21,Hyunsik Choi,hyunsik@apache.org,Oct-30-2014
+0319b1f0a71a65821408623f28f39ea4ec419bc9,Hyunsik Choi,hyunsik@apache.org,Oct-30-2014
+4b0f6befd45348b5b532cfa811c050b9efd9f473,Hyunsik Choi,hyunsik@apache.org,Oct-30-2014
+f728413fe36918a9b5e2381af951c05361900099,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+f80beaf64d33850ee79e8ae32b33a852f56712f0,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+8741e68291cb8dccb64d4c2e0b872cc56a4dbf3f,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+58b8eb45c0ef39047fb1738c10e2411a8cc0dc5e,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+1d63dca5e7724ff680c553b8616af6b0b001acf4,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+b3749a0931e4e2c5447d9ce4cdfe43245300ef61,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+7a65763554e556498b6d52dd2685636c3b6584b3,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+ee89c65b44142ca640020339e7ab5a608c1a8bf9,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+b5f3a7481eb7af0c4004a27f0d16bf203a8c4620,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+d9ba02bc1adebf12660d0af192d3d3c5441e7cd1,Hyunsik Choi,hyunsik@apache.org,Oct-27-2014
+3c3bcce8e3ddac4480499be3edae69bb0d2554a3,Hyunsik Choi,hyunsik@apache.org,Oct-25-2014
+b143f991242b79fa8479148cd79fad7d4f8f2146,Hyunsik Choi,hyunsik@apache.org,Oct-25-2014
+b636e8b8be623a87d291d7be7aa1dd645502469f,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Oct-22-2014
+0fb2285fb4ad054db16a18a75d2bbc2bf5317ce5,Hyunsik Choi,hyunsik@apache.org,Oct-20-2014
+0563a6a26fd97a3e8cfa9c6ae99772436c58da76,Hyunsik Choi,hyunsik@apache.org,Oct-19-2014
+2e32f5a6271d6952f77839ff639e11537af03ebf,Hyunsik Choi,hyunsik@apache.org,Oct-16-2014
+d56737b999ebb5ad822d32b336752f98cffb78f8,Hyunsik Choi,hyunsik@apache.org,Oct-15-2014
+8bc4582f17c1d987a8f8e13a5f90f8e69bb09e5c,Hyunsik Choi,hyunsik@apache.org,Oct-12-2014
+f531495c24e0f1899d7822bc6b463148d27d0068,Hyunsik Choi,hyunsik@apache.org,Oct-11-2014
+1e03c88e4f837e400b53e91a3338f559d2657a31,Hyunsik Choi,hyunsik@apache.org,Oct-11-2014
+3d334f3f45443b4d39a4d029de2482e5629a6e10,Hyunsik Choi,hyunsik@apache.org,Oct-11-2014
+22c43c0aded9b4689f863b38550c52d5ee5135c5,Hyunsik Choi,hyunsik@apache.org,Oct-10-2014
+0646eda5198680c17e66fc6e96eeeb283ffe342d,Hyunsik Choi,hyunsik@apache.org,Oct-9-2014
+27079643b5b62fc1f6196f3b6c2a794256097663,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+5f64cbb1a64e2bcc034fb3f82c65ae448cb824bd,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Oct-9-2014
+140083bfbaf6dafb330eebbc1c7f7447c5292c1e,jhkim,jhkim@apache.org,Oct-9-2014
+55d68ece60c5d05cabe1bce244e681f9347083e3,Jaehwa Jung,blrunner@apache.org,Oct-9-2014
+bbd7a768a161be0e529ef41dea325fae196a4c1d,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+0adc754d9c020abb4811eb4c0f70022460be7a79,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+d94727f893bcac2866da4232ee71fe1b435d4759,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+8967d113571fe72131433e39753e41c35abe2297,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+561edf3cb5328a5582d743e96ab596da347c1b90,Hyunsik Choi,hyunsik@apache.org,Oct-8-2014
+f42baa005dbf3f4fe64e3f3745616164df9aba65,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Oct-8-2014
+0b2ea889b06166539aabdc0fdd9029008e5f1f7a,jhkim,jhkim@apache.org,Oct-8-2014
+0dfa3972c6a52d785b8e55f91d0906456a3926b3,Jaehwa Jung,blrunner@apache.org,Oct-8-2014
+de28c82942ae0fd2d06b45bcf629d660c30a9888,jhkim,jhkim@apache.org,Oct-8-2014
+2eba8aa30e1266e15ad918e4b150259bff6b31df,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Oct-8-2014
+d0f9ebc1c501721ecee5422534b1740e38105996,Hyunsik Choi,hyunsik@apache.org,Oct-6-2014
+44e6fe595da28c6c06e5c82741478a8ff3031fa9,Jaehwa Jung,blrunner@apache.org,Oct-6-2014
+ca5fb301bff4b38d80a523d5bece9eaf74f64ec3,Jaehwa Jung,blrunner@apache.org,Oct-6-2014
+ca187bcf68ce81b984ccb7c2e2b5adc25ebff237,Jaehwa Jung,blrunner@apache.org,Oct-6-2014
+03847cf497779d18d323bf94a9e2f0d79dadcb96,Jaehwa Jung,blrunner@apache.org,Oct-5-2014
+28b4cbc036b05a109694e1dcbaeacd802d0c9f71,Jaehwa Jung,blrunner@apache.org,Oct-5-2014
+ecc2b05af60d9540c758839c1f5d691850ac772b,Hyunsik Choi,hyunsik@apache.org,Oct-4-2014
+029054b45c158159325a68ac1491256e3abe71f4,Hyunsik Choi,hyunsik@apache.org,Oct-4-2014
+68b44da57e53f53e88bedc0bb7ac763c97f069a9,Hyunsik Choi,hyunsik@apache.org,Oct-4-2014
+4e203f03fb533e04577f5c2947823fedd8680b8a,Hyunsik Choi,hyunsik@apache.org,Oct-4-2014
+a90438f9846519b63a80376ec09b760a22bbc951,Hyunsik Choi,hyunsik@apache.org,Oct-2-2014
+3d029fa90e483e6d0678b8b6c72c4a2410e97399,Hyunsik Choi,hyunsik@apache.org,Oct-2-2014
+d1022fbb8fb182ef1f83997c255f32c5f40f37d0,Hyunsik Choi,hyunsik@apache.org,Oct-1-2014
+2d4b0847ff13dced41d47fd740b6c699bba0c945,Hyunsik Choi,hyunsik@apache.org,Oct-1-2014
+0356a5257cd2426d783642e27478eaae95ddfe7d,Jaehwa Jung,blrunner@apache.org,Oct-1-2014
+b6c06138e756823daebf188174e63bead43c0c05,Jaehwa Jung,blrunner@apache.org,Oct-1-2014
+bccac701d5c3467ec7d7b39a1f1dd10b73cadf76,Hyunsik Choi,hyunsik@apache.org,Sep-30-2014
+e1f2b6b437fdb842166f8cf7a8c8fbf4bce19041,Jaehwa Jung,blrunner@apache.org,Oct-1-2014
+327a9c4edd5426521b86afac12dbab4640a7164a,Jaehwa Jung,blrunner@apache.org,Oct-1-2014
+35e49f039ccabf46d8cf20511c189aea7c15571a,jhkim,jhkim@apache.org,Oct-1-2014
+f295ddc39adc50fc61f48b5885b5845d0851501d,Hyunsik Choi,hyunsik@apache.org,Sep-30-2014
+706be644389f1223f5ea19d1418c6b6aa8b9bc96,Jaehwa Jung,blrunner@apache.org,Oct-1-2014
+a5402249a2f7df85aa01280ed359f1d1d3489281,Jaehwa Jung,blrunner@apache.org,Sep-27-2014
+e59fe460cc888bfebe968619405edd9b9e57e410,Jaehwa Jung,blrunner@apache.org,Sep-27-2014
+52e554390fa2b953304ee38006d74beac488f5c0,Jaehwa Jung,blrunner@apache.org,Sep-27-2014
+d384cf00d2288910b431cf61b1b74ccc9359ae24,jhkim,jhkim@apache.org,Sep-26-2014
+55bfa680bfac102e90a73c3f9c7436fabf85688e,jhkim,jhkim@apache.org,Sep-26-2014
+644b7cd991ea402115c6dc1d198e7f1d7f41771b,Hyunsik Choi,hyunsik@apache.org,Sep-24-2014
+9e026a9a26a1004d4742f0e44d5b5d71691195ad,jhkim,jhkim@apache.org,Sep-24-2014
+0e63abc71723c4c22f2c591ae60d892a9707973f,Jaehwa Jung,blrunner@apache.org,Sep-24-2014
+52a942136c549f197d6d1c3d1a13717e6f14a83f,Jaehwa Jung,blrunner@apache.org,Sep-24-2014
+5a7e27254b913b81c8199eff0ae3855375a07559,Hyunsik Choi,hyunsik@apache.org,Sep-23-2014
+7510f886e7f310dede3f9460ca40ad4bdd46e4cf,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Sep-22-2014
+cda6c897ab207ba73afa9d0dae7cecec9ba374aa,HyoungJun Kim,babokim@babokim-MacBook-Pro.local,Sep-22-2014
+e5f7c9591c71c998e702c789d249af20da3eeb6b,Hyunsik Choi,hyunsik@apache.org,Sep-21-2014
+1b3d51e149039db86d8c65f1fe3f0c8953b6faf4,jhkim,jhkim@apache.org,Sep-20-2014
+621d9145ff5f2d2551ebd3fce11a87f23413201e,jhkim,jhkim@apache.org,Sep-20-2014
+5b31fc4207ef1de2418cafbc6d3e714fa03849d0,jhkim,jhkim@apache.org,Sep-20-2014
+28282b561ad0a75f9603936bf04f2aa5c99b6b58,jhkim,jhkim@apache.org,Sep-20-2014
+469820db19aedcf10ea41807e4cbc7ade48d780c,jhkim,jhkim@apache.org,Sep-20-2014
+1cff979c28f5922c4a69a4295f49309358bd2d81,jhkim,jhkim@apache.org,Sep-19-2014
+200177482fbce1e33de22ad3a22f7c6b4c9cb7b7,Hyunsik Choi,hyunsik@apache.org,Sep-18-2014
+745131ee996b8d468479145de2069c4d34d6ffa0,Hyunsik Choi,hyunsik@apache.org,Sep-18-2014
+1a8a67ceb4224f3f0f3adab7d3e8956d3d12137c,jhkim,jhkim@apache.org,Sep-17-2014
+15450e868ae6a985deb988e679d19e1364c95526,jhkim,jhkim@apache.org,Sep-15-2014
+64416dea6f1ae64ef0c9f2e2d26a803c0d2065c2,jhkim,jhkim@apache.org,Sep-15-2014
+e6e164f15f485661932e4fb6e866f93a7c2f5935,Hyunsik Choi,hyunsik@apache.org,Sep-14-2014
+3a3850a296e8fc4b08be410bc089b68ede681e82,Hyunsik Choi,hyunsik@apache.org,Sep-15-2014
+b0d69d2322a71fd4a8eda8136f04dd3504bb6c66,Hyunsik Choi,hyunsik@apache.org,Sep-14-2014
+42a6c4ebeebe36aad6f7dc5f92c83baee398c85e,Jaehwa Jung,blrunner@apache.org,Sep-11-2014
+4efb45b1d84c08a471858441e698e316af04c51e,Jaehwa Jung,blrunner@apache.org,Sep-11-2014
+05c892448113db40daef54d2e06dad463dbae9c8,Jaehwa Jung,blrunner@apache.org,Sep-11-2014
+604eb32222d9bdfb4f6768a863472ec46776cb90,HyoungJun Kim,babokim@babokim-mbp.server.gruter.com,Sep-11-2014
+016507dd69e85f35134d8b2fe5e4054f28e762f3,jhkim,jhkim@apache.org,Sep-11-2014
+0f76a8ba0ef280875605b0e73a7c532b2f286ea0,HyoungJun Kim,babokim@babokim-mbp.server.gruter.com,Sep-11-2014
+bdc75750e9026a3c1bc0a9a7008505cb0bbedca4,Hyunsik Choi,hyunsik@apache.org,Sep-4-2014
+0e43627440e034b28f85fd91fb5b0286e23a0299,Hyunsik Choi,hyunsik@apache.org,Sep-4-2014
+b33a94509c1a007b56785435c8e16640ffde91b7,Jaehwa Jung,blrunner@apache.org,Sep-4-2014
+7c5ef87f6eedc13afb16311bbc3b27ea0d921eca,HyoungJun Kim,babokim@babokim-mbp.server.gruter.com,Sep-3-2014
+d3727c73560f4d4c0fd3d2ead84b577e6f3a51b1,Hyunsik Choi,hyunsik@apache.org,Aug-27-2014
+1ab39706ec3fafe4edeef857d49db8dcace9c2d6,Jihoon Son,jihoonson@apache.org,Aug-27-2014
+7603a3d4c9ebf1e98a9f2aba53ae1140cdd34497,Hyunsik Choi,hyunsik@apache.org,Aug-24-2014
+839081ac8a752de899ddeb0bcd15866722ae6c27,jhkim,jhkim@apache.org,Aug-22-2014
+aed97a8a5d5eac6e38103ea8356cec064cb251da,Hyunsik Choi,hyunsik@apache.org,Aug-21-2014
+a1711d16be579082fb57e5abb43ff1872d424451,Hyunsik Choi,hyunsik@apache.org,Aug-21-2014
+f3d63b46b7f66464aceb603bdce159e5b52904c4,Hyoungjun Kim,hjkim@apache.org,Aug-21-2014
+ea5ce54d812ac38dc23683c48d0ca24fb122a7ba,Hyunsik Choi,hyunsik@apache.org,Aug-20-2014
+2d6bff7e8ef2ca2a7dff39c70383f30b2e06e055,Hyunsik Choi,hyunsik@apache.org,Aug-20-2014
+7c84aeb298919ac0e6a1eb1c469ae830656f17fa,Hyunsik Choi,hyunsik@apache.org,Aug-20-2014
+49d52553c5e4ef37a6af4605befbe36b0dd36c3c,Hyunsik Choi,hyunsik@apache.org,Aug-20-2014
+b16d13addacc8c03f7b46b912a02231cea4c0861,Jaehwa Jung,blrunner@apache.org,Aug-19-2014
+35c24927b9edc19c91ceb3a0264188435195cde7,Jaehwa Jung,blrunner@apache.org,Aug-19-2014
+d3697d7633d6be9fd1f0d29182bf83dda11a2cab,Hyunsik Choi,hyunsik@apache.org,Aug-18-2014
+aa01e83859ef553ac4eb90c1678e3bc6be20c6c9,Jaehwa Jung,blrunner@apache.org,Aug-18-2014
+96b6c2aad76837c42d894b4aa217c6641e72ec86,Hyunsik Choi,hyunsik@apache.org,Aug-18-2014
+057bc6d362ee751f5b9a4f10f638c077191aeb98,Hyunsik Choi,hyunsik@apache.org,Aug-18-2014
+60858b25c46fceedf70b8583f1d7ef1383a19c6b,jhkim,jhkim@apache.org,Aug-18-2014
+23f81373fcd007e59556a5146485eba69ddeb95e,Hyunsik Choi,hyunsik@apache.org,Aug-14-2014
+fb4135a3bf16e61345ca2a5b6a6fea5b516e7a3e,jhkim,jhkim@apache.org,Aug-13-2014
+7e31a320144d2da6aae795f29d3bd9bbb16f9338,Hyunsik Choi,hyunsik@apache.org,Aug-13-2014
+bb482d8ee3363e0a9db18764af26ea68c0d3fae0,Hyunsik Choi,hyunsik@apache.org,Aug-11-2014
+fbf7166897b3b25d8319198216dc4ca529e677ce,jinossy,jinossy@gmail.com,Aug-11-2014
+45f5ed3adba931f4706f26dda1d3c03240ee11d3,Jaehwa Jung,blrunner@apache.org,Aug-11-2014
+87e7ba21491ac8a5a6a56357d7b4185c94f5dfd6,Hyunsik Choi,hyunsik@apache.org,Aug-11-2014
+ddfc3f33039ee15ab0a2d3fe5890b9acb40aec3d,Hyunsik Choi,hyunsik@apache.org,Aug-11-2014
+0603b49dddb5d2b3c6f6447fa672e0ea03eae09e,Jaehwa Jung,blrunner@apache.org,Aug-11-2014
+7a7b4fd26f61df89cacdb4fc41faf9c2abe456b2,Jaehwa Jung,blrunner@apache.org,Aug-11-2014
+fcc5da03ad1e9a692efad20aaf90a4005f9084d0,Hyunsik Choi,hyunsik@apache.org,Aug-11-2014
+189cf3ffe9d1b5c625c553f27fc5be37cd7522be,Hyunsik Choi,hyunsik@apache.org,Aug-11-2014
+415d0867ae4a4543f47360294bead1fc7f41e292,Jaehwa Jung,blrunner@apache.org,Aug-10-2014
+912df6f081b91785a56cb4b312e94b71228ecfd2,Jaehwa Jung,blrunner@apache.org,Aug-10-2014
+7c98709f0fcb06dfb675acae3d6489a6126f55b5,jinossy,jinossy@gmail.com,Aug-6-2014
+242d6ad656685b82f2c552aa09abe862107ae366,jinossy,jinossy@gmail.com,Aug-5-2014
+0f3412a74bb3c565df1259b19630bc17e1bc69e0,jinossy,jinossy@gmail.com,Aug-5-2014
+ae384685f5c16853d47cc4a9a611729dfe2b14fc,Hyunsik Choi,hyunsik@apache.org,Aug-4-2014
+6b16264c1860f7e8156466fd806ba9251147a702,Hyunsik Choi,hyunsik@apache.org,Aug-4-2014
+eeaf379a48030dd819a6daf2040c779379543ac8,Hyunsik Choi,hyunsik@apache.org,Aug-4-2014
+072b5a3ad2f21189ab3bdf159e666086957401d6,Hyunsik Choi,hyunsik@apache.org,Aug-1-2014
+650157c5907c43a2f9228cd9a3ff59619e24efb6,Hyunsik Choi,hyunsik@apache.org,Aug-1-2014
+8024f6ab324e9e3ba2c1968386292f9243f44b97,Hyunsik Choi,hyunsik@apache.org,Jul-31-2014
+b637416834951443e816fec930a8a08d8f2e17b7,Hyunsik Choi,hyunsik@apache.org,Jul-29-2014
+8be501f43fc1b20c2a57790259aceafb02987df5,Hyunsik Choi,hyunsik@apache.org,Jul-29-2014
+fe870851934e76cde745f84b0b8061480031a7d1,Hyunsik Choi,hyunsik@apache.org,Jul-29-2014
+b49ff30b9a3da97d347e8e08798affceac79e6bb,Jihoon Son,jihoonson@apache.org,Jul-29-2014
+3cfc1987e69130fa0232d09765c5c3582914884c,Hyunsik Choi,hyunsik@apache.org,Jul-28-2014
+1f6b5b38752f499ee6d70ea1be399df34442b4f3,Hyunsik Choi,hyunsik@apache.org,Jul-28-2014
+9880f06fd9e13402593a48a834df972e5b170fe2,Hyunsik Choi,hyunsik@apache.org,Jul-26-2014
+72808e06f02cbb0bd7d9cf345544c60205cf34b0,blrunner,blrunner@apache.org,Jul-24-2014
+326be451ded71099b88bdb6a50c40946df0af206,Hyunsik Choi,hyunsik@apache.org,Jul-23-2014
+45559ce60c1da55ac7be1a5900afab45cc9deb06,Hyunsik Choi,hyunsik@apache.org,Jul-23-2014
+a5de837209a8d6d9685ad1aa8132b3b4ecd99727,blrunner,blrunner@apache.org,Jul-23-2014
+2a6b38e8460a048ce09d18aefb8786627473fbf7,Jihoon Son,jihoonson@apache.org,Jul-22-2014
+862435bc9622f9a8dde07417158b904554c36e60,Hyunsik Choi,hyunsik@apache.org,Jul-22-2014
+85b7031aa58971365a526c44c1b31c3385b7993d,Hyunsik Choi,hyunsik@apache.org,Jul-22-2014
+6dac6a5b8764720a40740f7bb27ef48be1c0f7d5,Hyunsik Choi,hyunsik@apache.org,Jul-21-2014
+b1b16d5d6add3e03e0f4161da3373452065482d7,Jihoon Son,jihoonson@apache.org,Jul-20-2014
+40ae9c048e388ccb9e058fe27dc4f0b9d582fbff,Hyunsik Choi,hyunsik@apache.org,Jul-20-2014
+06935b392ce40264ae41e6486e5737f8c5c0593b,Hyunsik Choi,hyunsik@apache.org,Jul-20-2014
+4d0b445968a43ba9b83bcefab8241e3b9ea84c64,Hyunsik Choi,hyunsik@apache.org,Jul-20-2014
+3df7fda36bfcb3869878f72d90830315b0584f2e,jinossy,jinossy@gmail.com,Jul-17-2014
+1867c53e4de46bf5c6f2a69fe9d1fd27facac35b,Jihoon Son,jihoonson@apache.org,Jul-16-2014
+499d1081b66e0a785dce82430e90bce9d39caa7e,Hyunsik Choi,hyunsik@apache.org,Jul-15-2014
+9cf107191bac3592d55c59ae6b60ab6051d5656d,Hyunsik Choi,hyunsik@apache.org,Jul-15-2014
+47d4fe22b8e5594d82054fa5a7b5cdc23f578be6,Hyunsik Choi,hyunsik@apache.org,Jul-15-2014
+aee7874faa45e3ba2eda3157683cf20111cacea5,jinossy,jinossy@gmail.com,Jul-15-2014
+48dbfd92c4f424ffef6c9aa03e905882bd42bbec,blrunner,jhjung@gruter.com,Jul-15-2014
+5e2d6c3c74ec107e5c62359cedb602f940061c45,Hyunsik Choi,hyunsik@apache.org,Jul-14-2014
+fe557ad24a70f6d698cc85f0bb75765906eb3641,Hyunsik Choi,hyunsik@apache.org,Jul-14-2014
+0a39818f5ee29be56b23060c978915fd7287fd0a,jinossy,jinossy@gmail.com,Jul-12-2014
+01857dadd42bd55894ce6edb55159e80c30f6c30,jinossy,jinossy@gmail.com,Jul-11-2014
+9f873b129de3ac0fc8122528b7e10e46406704d1,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+c87fe2e8ca135778d3f9c91606bc41c4eb6da5a8,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+a17bd0f182d5405450b3e47be81f45dd6cdc362e,jinossy,jinossy@gmail.com,Jul-11-2014
+95292d29d96963c769ce2fd17a3350375145683e,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+329e508caf88b3f75e465581599a255eceabb16a,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+42f3b4dd8fbf1a5a46a4469c7ac919fb32089225,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+438010f92bdbde50447d9fbc3438e57ddaff776f,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+52c8600dd59247b9be95f338ade4ea5aee2fba06,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+29db645ad02067464ed3e9b94b3e62d44ab2adf4,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+101413e319cd1be0e2570c6759e52d98aee89725,Hyunsik Choi,hyunsik@apache.org,Jul-11-2014
+a5d14f8082fed000835520df6c9f12476039aea1,Hyunsik Choi,hyunsik@apache.org,Jul-9-2014
+d3ee50a95868a17cd69964adbd3f70149040ab6b,Hyunsik Choi,hyunsik@apache.org,Jul-9-2014
+a8bf9a36c7b9d7dd98802e102472b800ec05dcbd,Hyunsik Choi,hyunsik@apache.org,Jul-9-2014
+b9a39728f9a18f8a9f986f35a40c17005795257b,Hyunsik Choi,hyunsik@apache.org,Jul-8-2014
+10caff074e2f00887134f94b0dc918b3cef0e824,jinossy,jinossy@gmail.com,Jul-7-2014
+d84d5ca59dc0cd3ad86cad6b9ec31681b8249e9f,Hyunsik Choi,hyunsik@apache.org,Jul-7-2014
+9fdd1ebe120976df53de4cee890de88413847146,Hyunsik Choi,hyunsik@apache.org,Jul-7-2014
+844ffd7d2428209292e41dadbfed19ee03c37deb,Hyunsik Choi,hyunsik@apache.org,Jul-7-2014
+eae4c132363a63240d93c5522e48b44e45d9553d,Hyunsik Choi,hyunsik@apache.org,Jul-3-2014
+0953d7154753d2326ec1fb230d517e3a2aa83f69,Hyunsik Choi,hyunsik@apache.org,Jul-3-2014
+f5e999915a852473a77aa6958c46ae2389bafa2f,Hyunsik Choi,hyunsik@apache.org,Jun-30-2014
+88d043467a7da5971cc3e0f535eb158cfa1d1ac5,Hyunsik Choi,hyunsik@apache.org,Jun-30-2014
+38f1a57382d85217ffa6ce7501752146cb4e0ab5,Hyunsik Choi,hyunsik@apache.org,Jun-27-2014
+39645597a9bf0065436a8de2b0531f5c2336235e,Hyunsik Choi,hyunsik@apache.org,Jun-27-2014
+cdd358879051a19a421a9441550afbeac21c5709,Hyunsik Choi,hyunsik@apache.org,Jun-27-2014
+d5ef39949f029c94178fcf7e3cc37d68b35d795d,Hyunsik Choi,hyunsik@apache.org,Jun-27-2014
+6cfd448f7fb60a254a237230f071456f188f9179,Hyunsik Choi,hyunsik@apache.org,Jun-26-2014
+b3758361335a4cd26d8b7b9d18879b2b35f612fb,Hyunsik Choi,hyunsik@apache.org,Jun-26-2014
+d7c2c957a9b402f3847ef56bd1903d66c02b6bee,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+4165f33984368c3f0ff504ff65a3f3c0d6904712,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+26265c0609324b52f8e22bf803fddfa1413cf3a4,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+48c6d1a38fa28cef14bf610328004fc68a734b83,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+e52742d774b024985494911366aa1bbf854f8aea,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+fb2ea19c07bb08c96c816238613bf35cdfe5a32a,Hyunsik Choi,hyunsik@apache.org,Jun-25-2014
+dff6a30740bb2348868ebd527ced0a48973bf45c,Hyunsik Choi,hyunsik@apache.org,Jun-24-2014
+56d5daa5dc76949a3a905dd99c2d85e72f743bda,Hyunsik Choi,hyunsik@apache.org,Jun-24-2014
+8cf508aad4cfa631f86229d7ed2875e2a0929c70,Hyunsik Choi,hyunsik@apache.org,Jun-24-2014
+be21bc706d9ebade71e976ecb966149cf1272385,Hyunsik Choi,hyunsik@apache.org,Jun-24-2014
+8883f9fc28a51aa9db6242206f75db49043e176b,blrunner,jhjung@gruter.com,Jun-23-2014
+1613cd2c7917ffa8ecc8aee24729bd670f3b0ac8,blrunner,jhjung@gruter.com,Jun-23-2014
+4ec8f0dd44fb58279c00e896a1aebefc40bd8017,Hyunsik Choi,hyunsik@apache.org,Jun-20-2014
+9f54c4b73f676dbfd2e2c8e53d24e7e1430b8292,Jihoon Son,jihoonson@apache.org,Jun-18-2014
+d6e37127bb597fb9bceb745ee644ea43a25c2751,Jihoon Son,jihoonson@apache.org,Jun-17-2014
+07225fa3486546872fe1d6e5d917ee0857795317,jinossy,jinossy@gmail.com,Jun-17-2014
+43875ba36b577a9819bd1794f8ea864e8c95077d,Jihoon Son,jihoonson@apache.org,Jun-12-2014
+f3092c4205054e7be75f5729588c4accb1cf97c6,blrunner,jhjung@gruter.com,Jun-11-2014
+1474a2a273192c08d726eb431ddcb4eb34837a4b,Hyunsik Choi,hyunsik@apache.org,Jun-11-2014
+4feb53790dc748cc1de17ed3716e46450d076e94,Hyunsik Choi,hyunsik@apache.org,Jun-10-2014
+06be06085698e575414994a26956056f326f77dd,Hyunsik Choi,hyunsik@apache.org,Jun-10-2014
+500c683b0b1fa6ed3f1914528d60736e741c956e,Hyunsik Choi,hyunsik@apache.org,Jun-6-2014
+ace1d47effd83a4c9409c85ffaf14ba83c385b3f,Hyunsik Choi,hyunsik@apache.org,Jun-6-2014
+13af1fa129ac13f6f04eab7ef4b44d605a9fcc49,Hyunsik Choi,hyunsik@apache.org,Jun-6-2014
+692ae6648be0b50b4289ca395f7d9d659033907d,Hyunsik Choi,hyunsik@apache.org,Jun-5-2014
+47f6f56c7ba6feb20bc991cafdafd160ca53684d,Hyunsik Choi,hyunsik@apache.org,Jun-5-2014
+26dc6e926db3934ea7309cc4e93d24a5881de97d,Hyunsik Choi,hyunsik@apache.org,Jun-4-2014
+64106a3223c882c260ba39edd53c85d1900b83a0,blrunner,jhjung@gruter.com,Jun-2-2014
+f7810074378823cf70114d31548f52c08c63f7c5,Jihoon Son,jihoonson@apache.org,Jun-2-2014
+d365e9e17e0ee5074d98f9d9c2f20cbb2f326ec6,jinossy,jinossy@gmail.com,Jun-2-2014
+8e6502231c79de900bf2dc5c4f37cab521e50c2b,jinossy,jinossy@gmail.com,May-30-2014
+25c04db39d33d59b245730b5f2778a49e2042294,jinossy,jinossy@gmail.com,May-28-2014
+300fde0a6f26bab558d5bfe50498b1c4c5cccbfd,jinossy,jinossy@gmail.com,May-28-2014
+c2477f4167e48f5ded935d5c1a213cf22d06d9eb,Hyunsik Choi,hyunsik@apache.org,May-28-2014
+a191b1dc7ad3189c825069084fc6fc6167a4eb87,Hyunsik Choi,hyunsik@apache.org,May-28-2014
+31e247cd647e1e26c56c0fee9fc2c2821f8b4265,Hyunsik Choi,hyunsik@apache.org,May-27-2014
+e2d0464747a08dd1c0df5fd6010c878d66802ace,Hyunsik Choi,hyunsik@apache.org,May-27-2014

@@ -1,0 +1,360 @@
+commit 844e0e01b5ce13070e3d1dac1449ea7fdf664603
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-21 08:22:47 +0000
+
+    @trivial: removed redundant NOTICE text
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1612209 13f79535-47bb-0310-9956-ffa450edef68
+
+0	4	NOTICE
+
+commit 39d464d8c58b70d84d0eda967a3c4f279d3e4ee8
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-18 21:28:05 +0000
+
+    DMAP-45 - Prepare BrowserMap module for ASF releases
+    
+    * updated package.json to 1.4.1
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1611810 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	package.json
+
+commit 91adac845c46dedce58ea63fceadcc9ffca7e43b
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-17 16:15:59 +0000
+
+    DMAP-45 - Prepare BrowserMap module for ASF releases
+    
+    * removed redundant development dependencies
+    * updated README - jscoverage does not need to be installed globally
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1611399 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	README.md
+2	5	package.json
+
+commit a72a84ba1963f44bd6d563b86bae5ba413998ab2
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-16 11:49:43 +0000
+
+    @trivial: added a badge to BrowserMap's readme file; provided an artifact staging script
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1610972 13f79535-47bb-0310-9956-ffa450edef68
+
+10	7	README.md
+
+commit 0251b4c8317cdd2b2799b884f002ed7107460ed6
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-16 09:21:33 +0000
+
+    DMAP-45 - Prepare BrowserMap module for ASF releases
+    
+    * separated build artifacts into source artifact and dist artitfact
+    * moved dependencies license information from NOTICE to LICENSE
+    * improved package.json description file
+    * provided rat.exclude file for checking source files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1610949 13f79535-47bb-0310-9956-ffa450edef68
+
+28	16	Gruntfile.js
+68	0	LICENSE
+2	46	NOTICE
+13	4	package.json
+6	0	rat.exclude
+
+commit 836651889e7122f890eb9e682aab7731af5b6efd
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-15 19:29:03 +0000
+
+    DMAP-45 - Prepare BrowserMap module for ASF releases
+    
+    * added DISCLAIMER file
+    * updated package.json with correct information regarding the module's GitHub repository
+    * prepared the Gruntfile.js for easily creating release artifacts
+    * updated the travis.yml file for specifying a more up-to-date node.js version used for the build process
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1610823 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	.travis.yml
+7	0	DISCLAIMER
+33	18	Gruntfile.js
+12	12	package.json
+
+commit cee1990964961fdb67b689196643095552a340fc
+Merge: 2a2242d 135491b
+Author: Radu Cotescu <radu@apache.org>
+Date:   2014-07-15 18:41:15 +0000
+
+    @trivial: restored browsermap sub-tree to revision r1543048
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1610802 13f79535-47bb-0310-9956-ffa450edef68
+
+commit 2a2242d537cd18f1b20b935b4c4e773f3c3d7155
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-15 07:51:39 +0000
+
+    Trying to bring back the redundancies in Browsermap to allow adjustments to Git sync
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1610605 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	.gitignore
+33	0	.travis.yml
+211	0	Gruntfile.js
+176	0	LICENSE
+53	0	NOTICE
+82	0	README.md
+26	0	ci/jenkins_build.sh
+38	0	package.json
+626	0	src/main/js/bmap.js
+489	0	src/main/js/bmaputil.js
+105	0	src/main/js/devicegroups.js
+117	0	src/main/js/probes.js
+36	0	src/main/lib/matchMedia/matchMedia.js
+284	0	src/main/lib/modernizr/modernizr.custom.js
+98	0	src/main/resources/demo/css/style.css
+58	0	src/main/resources/demo/index.html
+68	0	src/main/resources/demo/js/showcase.js
+161	0	src/test/js/tests.js
+81	0	src/test/karma.conf.js
+231	0	src/test/resources/qunit/qunit-1.9.0.css
+1932	0	src/test/resources/qunit/qunit-1.9.0.js
+37	0	src/test/resources/tests.html
+
+commit 78737e5b31007df9a9c1fc052fe62f531814090b
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:18:51 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609372 13f79535-47bb-0310-9956-ffa450edef68
+
+0	161	src/test/js/tests.js
+0	81	src/test/karma.conf.js
+0	231	src/test/resources/qunit/qunit-1.9.0.css
+0	1932	src/test/resources/qunit/qunit-1.9.0.js
+0	37	src/test/resources/tests.html
+
+commit 4b6a893b9cbec2529449118bb79757120060ab9c
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:18:12 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609370 13f79535-47bb-0310-9956-ffa450edef68
+
+commit c1949262b6c043a67728886e62c5bca0c6dd698f
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:17:45 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609369 13f79535-47bb-0310-9956-ffa450edef68
+
+0	98	src/main/resources/demo/css/style.css
+0	58	src/main/resources/demo/index.html
+0	68	src/main/resources/demo/js/showcase.js
+
+commit 1e8ddc4b2894ab6a7bacdc5aefdd3d7b18684bd3
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:16:46 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609367 13f79535-47bb-0310-9956-ffa450edef68
+
+0	36	src/main/lib/matchMedia/matchMedia.js
+0	284	src/main/lib/modernizr/modernizr.custom.js
+
+commit 8eca9223262fd9e6a87ae6b621ce06e520b58ddf
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:15:41 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609365 13f79535-47bb-0310-9956-ffa450edef68
+
+0	626	src/main/js/bmap.js
+0	489	src/main/js/bmaputil.js
+0	105	src/main/js/devicegroups.js
+0	117	src/main/js/probes.js
+
+commit af2b877fcefef0a6b2a22c3fcb92d8b6ec36cab8
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:14:35 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609363 13f79535-47bb-0310-9956-ffa450edef68
+
+0	38	package.json
+
+commit 0a78b06a370f89a632991f7aadfd9aad9c17d09a
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:12:11 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609362 13f79535-47bb-0310-9956-ffa450edef68
+
+0	53	NOTICE
+
+commit bf8761a330e12a9326ee16488301b437a80acee9
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:11:41 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609361 13f79535-47bb-0310-9956-ffa450edef68
+
+0	176	LICENSE
+
+commit aaa6dff6c17fe602e6a5c64d4641b46dff5d0aaa
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:09:54 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609360 13f79535-47bb-0310-9956-ffa450edef68
+
+0	211	Gruntfile.js
+
+commit 8abc2066e1dd4e9bd928233bff0f9adcb2f4831c
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:09:17 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609359 13f79535-47bb-0310-9956-ffa450edef68
+
+0	33	.travis.yml
+
+commit 5e64915768c950659bec392d03fe56708ccfa388
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:08:50 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609358 13f79535-47bb-0310-9956-ffa450edef68
+
+0	82	README.md
+
+commit 5cd64e8a1ae8f4ddcf09ae0d0daa4d947a0762f7
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:08:18 +0000
+
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609357 13f79535-47bb-0310-9956-ffa450edef68
+
+0	4	.gitignore
+
+commit b44e5caef7449948d40e301b44bfc97650e418aa
+Author: Werner Keil <wkeil@apache.org>
+Date:   2014-07-10 01:07:34 +0000
+
+    Tagging
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1609356 13f79535-47bb-0310-9956-ffa450edef68
+
+0	26	ci/jenkins_build.sh
+
+commit 135491bd1a17dfb747152fda20cf07c36ea9c29c
+Author: Radu Cotescu <radu@apache.org>
+Date:   2013-11-18 14:40:32 +0000
+
+    DMAP-33 - BrowserMap is forwarding the client to a wrong language variant
+    
+    * extended the filter function used for getting the new url to which a client should be forwarded such that the current variant¡¯s
+    hreflang is taken into consideration
+    * cleaned some JSDoc typos and misuse of tags
+    * bumping version to 1.4.0
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1543040 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	package.json
+9	9	src/main/js/bmap.js
+2	2	src/main/js/bmaputil.js
+1	2	src/test/karma.conf.js
+
+commit f6307add25cf34f0234a8ae68e1b5484359f40a4
+Author: Radu Cotescu <radu@apache.org>
+Date:   2013-11-18 14:39:39 +0000
+
+    DMAP-34 - Add a current variant attribute to the site variants BrowserMap uses for forwarding clients
+    
+    * added BrowserMap.getCurrentVariant() which extracts the variant that has a ¡®data-bmap-currentvar¡¯ attribute with its value set to ¡®true¡¯
+    * updated tests
+    * bumped version to 1.4.0-dev (API changes)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1543039 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	package.json
+40	0	src/main/js/bmap.js
+16	10	src/test/js/tests.js
+
+commit ba76223f9558765980c710bae3ef274a6ad36a35
+Author: Andrew Savory <asavory@apache.org>
+Date:   2013-09-21 15:01:29 +0000
+
+    DMAP-28 Switch back to PhantomJS
+    
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1525249 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	Gruntfile.js
+1	0	README.md
+
+commit 969f89b066a5c9e57e72c17254b150ed8f0a12db
+Author: Andrew Savory <asavory@apache.org>
+Date:   2013-09-21 13:44:07 +0000
+
+    DMAP-28 - make grunt test work again
+    * Update karma.conf.js to latest format.
+    * Update list of npm modules.
+    * Switch test to use firefox as phantomjs is hanging.
+    * Tell svn to ignore target and node_modules
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1525237 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	Gruntfile.js
+15	9	package.json
+46	61	src/test/karma.conf.js
+
+commit ffc46003cd277ebec84664f97449376c5bf9b182
+Author: Radu Cotescu <radu@apache.org>
+Date:   2013-07-28 11:56:34 +0000
+
+    DMAP-27 - Fallback from alternate link to device group specific url not working
+    
+    * allow fallback to device group url or to selectors based url if no alternate link exists for current detected device group
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1507787 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	package.json
+0	9	src/main/js/bmap.js
+13	15	src/test/js/tests.js
+1	1	src/test/karma.conf.js
+
+commit 43d328bf52fad6cf998127bd07c10410a1158668
+Author: Radu Cotescu <radu@apache.org>
+Date:   2013-07-25 20:04:25 +0000
+
+    DMAP-26 - Provide necessary changes to the BrowserMap module for migration to ASF infrastructure
+    
+    * updated Travis CI config file to use the trunk branch
+    * updated README.md to remove migration notice and provide new demo URL
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1507109 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	.travis.yml
+9	6	README.md
+
+commit 323bd92a12bbdef76337e31b64e425d41842d34b
+Author: Radu Cotescu <radu@apache.org>
+Date:   2013-07-25 08:47:10 +0000
+
+    @trivial: reorganised browsermap folder for INFRA-6220
+    
+    git-svn-id: https://svn.apache.org/repos/asf/incubator/devicemap/trunk/browsermap/trunk@1506845 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	.gitignore
+33	0	.travis.yml
+211	0	Gruntfile.js
+176	0	LICENSE
+53	0	NOTICE
+78	0	README.md
+26	0	ci/jenkins_build.sh
+32	0	package.json
+595	0	src/main/js/bmap.js
+489	0	src/main/js/bmaputil.js
+105	0	src/main/js/devicegroups.js
+117	0	src/main/js/probes.js
+36	0	src/main/lib/matchMedia/matchMedia.js
+284	0	src/main/lib/modernizr/modernizr.custom.js
+98	0	src/main/resources/demo/css/style.css
+58	0	src/main/resources/demo/index.html
+68	0	src/main/resources/demo/js/showcase.js
+157	0	src/test/js/tests.js
+97	0	src/test/karma.conf.js
+231	0	src/test/resources/qunit/qunit-1.9.0.css
+1932	0	src/test/resources/qunit/qunit-1.9.0.js
+37	0	src/test/resources/tests.html

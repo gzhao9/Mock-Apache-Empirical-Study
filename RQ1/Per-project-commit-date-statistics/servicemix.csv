@@ -1,0 +1,408 @@
+commit_id,Author,Author_adress,Date
+894977f6e96b9a8992986e553bda1c9748629d1f,Andrea Cosentino,ancosen@gmail.com,Feb-11-2020
+c304fa59188d203e64677f3f9c6ab7f819e6e3e6,Jonathan Leitschuh,Jonathan.Leitschuh@gmail.com,Feb-10-2020
+1e01d84eaff4efdf79e28df4d1680193d9d0d8a7,Jean-Baptiste Onofré,jbonofre@apache.org,Jan-7-2019
+67f8a1f2ac224c21d43bc736e6bc717478f6e72d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-26-2017
+567c8c92f1d4473dbb1ec6d5b5794acd21a97da0,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-26-2017
+a0fb1441715a3ee5324d66145e3dfdff9d34cc66,Michael Gfeller,mgfeller@mgfeller.net,May-23-2017
+aab1bd1ffce9760f6846e8eff26677a2b3bd29b8,Michael Gfeller,mgfeller@mgfeller.net,May-19-2017
+aa62e2a07ee7151113c9a4ccef6bb4de7022e7c0,Michael Gfeller,mgfeller@mgfeller.net,May-19-2017
+15da2c080d99ebd2df93faa5071e622eb56fae0d,Michael Gfeller,mgfeller@mgfeller.net,May-18-2017
+07ff0189c36222af837df4d17db04b12d6e5ab71,Michael Gfeller,mgfeller@mgfeller.net,May-18-2017
+138042d416ce44112d4524f33c3bcfb26492e6fd,Michael Gfeller,mgfeller@mgfeller.net,May-18-2017
+4f9d97f51c677cbdfb937d183f63ee514e4ce6aa,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2017
+d938a2d00cdc301c59146c05d3503a2f1e045ee5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2017
+2cbd5fb06002a43c69225f438413bd8305bcbf22,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2017
+aecac2c71a6f9fe1cb0a028cd474fdf720ac9cb3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2017
+42dd6c70fccaf272f32efa2456110505fe67ba6b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+c583569e0f537495e8d602ac5760c6fe13c92bfa,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+1660c5aff22a466d004396a0d2aaad60d36ddbd9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+27f185836a5565b20b4222e19d84546b0399b332,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+2528571f5ad75bc4b61b3fb4f2808a8e662410f3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+fbead885f9624208c7b0634549280f01ae525fb4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-21-2017
+e9c185a62f8af50cbd335f2be69ef69bef934f2d,woczkowski,woczkowski@itkontekst.pl,Apr-19-2017
+def79e9a957a9ab55f9da45fb5905402e75abaf6,woczkowski,woczkowski@itkontekst.pl,Apr-19-2017
+7383aa9abb279c8d3a8ea24eb1b3280e052b68ea,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-20-2017
+c49b9f734f259ee88cf636de881b780e80e7f507,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-20-2017
+74bf68c9b7ada94a1e0bd5625aa9be5aaac694bc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-16-2017
+b764ccd7fc4d97650bc2010a055a3aa2a2399fb9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-16-2017
+06c2f9141e4a7eb71c2cfe4f68cecf191fb14e05,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-16-2017
+9ff0b37d4d4f6809b55e21ad8f3e66afdcab69c8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-16-2017
+acf6e10302fdb078a43e9ce7847b6a1b1281543d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-15-2017
+9dca5d60e21ce77e294aad8536acfb54dc4fbe30,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-15-2017
+9e5f3aeee4336c3411e830870c07b646325540d9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-14-2017
+ad3dbf8c46c97f3f0b97ad3636eb76ba872d69b7,Benjamin Graf,benjamin.graf@gmx.net,Nov-29-2016
+6ba49d80fc9249e4a946a6b5f054995a5190af12,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-26-2016
+b7c19d5b52e2ba9411899496baa816ca211687c4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-26-2016
+36b9502df3c9275ef1a301f24e68dbcc96d111e4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-26-2016
+cd6778c1794f97980b67c3dbcad7fb77653d3b64,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-16-2016
+7e635e08f4d7e2f98cb5856ae40243e87af4501c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-6-2016
+46b32cdca3db1a0e84f3d8810ae9e63286d2f2a9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-6-2016
+96a64699d49b09af0ad8f11765af091a77ff6c37,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-26-2016
+ab50fa3904020d14cbf03d6a54fb9e8f2d617cbe,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-26-2016
+99e651bf68434fd75e0b0d8596ef70dac65c82d2,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-19-2016
+3426b91745dd27f17422200694edddf007171fa5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-25-2016
+b5bf2f4daa8da19f0fa1561f4d626128785e452f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-25-2016
+a0172c9a152e2106e1df3568f8a0e376fca8b19e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-25-2016
+e749fce82c2fe9b10c0ae6d0bc8cc4d323d0d162,Maurice,maurice@betzel.net,Jul-7-2016
+901872281f6f6eca3995a876447775009cecb9e3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-10-2016
+f246fc42ef980d5ff0708b3293c56f2e387f172b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-10-2016
+ec51a7667945bf26d8b95fdab7e56858d83e6bea,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-10-2016
+d265e45fa4c4ba86f72ce700270a2fd46eeeb34a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-17-2016
+41624c7851b8ddfce7c7f4a33f386eb4022be58e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2016
+88592bdf9a4c860548add0d3c8046c5b0a5dbd63,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2016
+6b4eb059d0d9a8ca2160006207bc9bafb2264d1a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2016
+94aec1d4a71a49c0e35aab586c2fea9738d83505,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2016
+d7a93a8ac875c4849bfc5003e7ea1e795f984d28,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2016
+37a3de11c50cfae49a88a8376942a1a556f1ab2b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-27-2016
+5c2d29bc6687fb9fd1dca9e8a8e24a13dd1f2fe2,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-25-2016
+4c29dc2963d6ad4fba9a85a3d719d78a23af1159,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-21-2016
+6a8af4d0fb0de295357adfd9dfa5dcbd39c81b51,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-8-2016
+24e80f2c749b2a3ac7d93121382bf50db3e9123d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-19-2016
+e54bec1e082c0e471774b883122115e1f05fb737,Christian Schneider,chris@die-schneider.net,Apr-19-2016
+f804abc3d013884964b55a6f8f401e5aecf96341,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-10-2016
+0e7330fe7d4bebbf255c470626c2ce0aa9071915,Andrea Cosentino,ancosen@gmail.com,Apr-10-2016
+4ac0c9b0744d8717cb62bad8dee39640133e74b4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-19-2016
+e101be3fdd61f817b843248e4a9db33ca4f967f9,Andrea Cosentino,ancosen@gmail.com,Mar-15-2016
+e79866d7c97d2947fb5cdc60c62f8256e7cac8ac,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-23-2016
+0372131e580b5dba25a3d8f89c571f854f09cc5e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-13-2016
+6c768e7f371271898e8b6b1e03c7d32e34dc618a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-13-2016
+c48969d0edb429977156872b10fe2a5c52e5f240,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-13-2016
+84abd7a83516b9e3788f4f3e8fd60aa54d059a54,Christian Schneider,chris@die-schneider.net,Feb-5-2016
+bf0c6d7375844d9d42c62e1e64264c56211c280b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+c66b391cf8c7f63d63063e9b6d32a0fab1dc3325,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+ed141dcacea8f34f2e01be89f85bd7888573b85b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+30ddbe1778ad0c8cdbc8856baf2556c0d202c2e8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+87e4e728221be29359a83e838afb80f7e04a29f4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+08e27abde6ce00afa390d213216a588842d6b7f0,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+0f6cfe423a457c40fd1ef410f4dc74313f1d6a74,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+d0be4d91e27551834a3656c20f95ef4fe2b24053,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-3-2016
+dcfea610e0585b8ed9cf50d467957320eec1b43f,Christian Schneider,chris@die-schneider.net,Feb-1-2016
+21611fa550c477d4edf5ea19a79a2b72db05ea4b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-1-2016
+1659c6796995080e02c307d3e89e4b8a154a6ffb,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Feb-1-2016
+b9a966ccd1c87f5f2a3056d1c5933defa3aea285,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+f5757124d26b6c9f97381fe7e1fc6859b484d388,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+fecbbce85f2ae8413d5a52552efcbd9694541382,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+7bc0b3763e70b9c3c9bb8dfa0f7fa45f98b29631,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+f845dabded981418c594c8f942c76855725f956b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+2117b78a341cd13551c6b60d1ad1e1d8b267b483,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+4757f9e6a99c145ccd305c90ff7227e9c1eb616d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+0ba5db69b2a64c34836b47029ded1aeade4a3202,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+b7c721a224582f3d659c7465d8c98a8f09675f3e,Andrea Cosentino,ancosen@gmail.com,Jan-30-2016
+98fc9769f690bbd3f6cc17def13a3e083d75f843,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-30-2016
+331eeafa6dc218d5d4e03e3360304f715845c116,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-29-2016
+eab102970bea1b7af6321a74c399f4dc0f90b427,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-29-2016
+9dc21d3ede481205f7ef2a1a533daec7e9a0b284,Jean-Baptiste Onofré,jbonofre@apache.org,Jan-29-2016
+8288a53d7b20c7f2a36bd8d74fa2c6de1a0b5598,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-25-2016
+db6a819e9269d50e80dc2c4218e8363b7a13ebd8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+c03db04b34fd142b2b2dcac362c2c0c893959d12,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+13a1ebe2e40aeedcd2d30bee469392cf7a8a8220,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+a79969d3540f94d0b5ff3f210f349e9ff3b0a5de,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+d4b76b5b005e151cfe8ba817b69c151d6ca611ab,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+d0cc5ad7dc6cda2b1ef4db8fa2ae1b5865cfe6f7,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-24-2016
+0386b87ede03aad9aae8c69622e93aaccd6bda9d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-23-2016
+09ac07be903de3c1c1525c8521dd7adc7ce0cc12,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-22-2016
+0cac9573627db7d0e504064c1d834307ebace1a2,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-22-2016
+a5080efcdc49c2d1b28018adbb27e77ae3eb11d6,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-22-2016
+51e64756665b65e93cd898a34917c0fbc4044d7e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-19-2016
+c473f33c8efe19117d1875431e94931e6ae277ed,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-15-2016
+fa80608ba3f7cae9daea1083146fbe0729ca2f17,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-15-2016
+9cbacb4e38cb8db8a56c5836b7cd982278076742,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-15-2016
+5724a977f27e8516bd8b098c45077aff81284098,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-14-2016
+13c9b8184706116f885c2999896e149113b8f2a6,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-14-2016
+4c070f82038120b647232e415978e179fd71e788,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-14-2016
+30487359321c6dfd1ab99b391e5f08b664afc472,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-14-2016
+da7e9421799717fad19127326c0b8abd1fd23e95,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-9-2016
+376b87db43b2a4ad35e28624e5514d2ba8245342,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-9-2016
+8a030bb3aa94d4caa9ef05192c5b9528325fa482,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-6-2016
+5e45e3ed81c5f27df3ade737b490598e2ba9fd4d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-9-2016
+10f362b96451ba836ea0b414b422864fe0c6000e,Cedric Thiebault,cedric.thiebault@crossing-tech.com,Dec-23-2015
+4340378f04d220ab7fcb0fefc6dae1a0b68c0f55,Andrea Cosentino,ancosen@gmail.com,Dec-8-2015
+9bec19979150eac5ab543a90803520668a2a75dc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Dec-4-2015
+8fbe19d03cc9c738208c3ad1e6f10bd20318749c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Dec-4-2015
+8101f949b7754cb7513b12a1f956dda661f021ea,Cedric Thiebault,cedric.thiebault@crossing-tech.com,Nov-26-2015
+49d064346edefefcbe527f73a847565cce1578f8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Dec-2-2015
+213d516a473b27821fca4a63f421f3d84b83b0d5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-24-2015
+6e8819d82196f4631dabd342899badc40d9c0af6,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-24-2015
+0c6272c028712d609963490cab629d3ec3892a06,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-24-2015
+7110dec0dcccd45f209ae4e52f643aad7fdea3bf,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-23-2015
+0959a868ca066aa47d2dd2329330bdc122a61efb,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-20-2015
+7e2bd67bea0d0c165086092bdc9fada410bb31ed,Andrea Cosentino,ancosen@gmail.com,Nov-13-2015
+4758c360f8053f0d365573bfaab8cd1dd48d0657,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-12-2015
+aac21b1243511176680af7c46189bf8215fbb439,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-12-2015
+9eadcbbfe72850e8ee4b40f21709d646fc38843f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-3-2015
+bfad033e6ad827fc6463ff2dd6dc0f3bdf64d981,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-3-2015
+a5fe517ae70d920809d9ea9d4ad5847563a4e4fa,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-30-2015
+ccb0aaa59300e3f1d5fea22cf405643d1ff3c55c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-30-2015
+0c155b9ce02f173fb1952d2fc28ab45ad6fdee88,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-30-2015
+57b25ae35f612b49ad876d7339ff85ff1ab21e87,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-21-2015
+4750c638a12771f52d5fd64a28bcbb82bb43f810,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-21-2015
+826833bc7bfe7ec7f6456588b6e0047cf0de6df5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-21-2015
+1373ac2bd4ed69aa16088f774960f65a3c251b24,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-21-2015
+a68ad0c98b8303c114d8513aadf647ebeccb2874,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-21-2015
+c7d24357a4cc739f94a3c57a4d2c11191f2b9874,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-12-2015
+1f3e989b02b7b4442c5fe020291a049313cdd180,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-12-2015
+e4d7c1597ab82e49db38f62c87e586ac1ec24fad,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-12-2015
+88c753cb74edad261393906a7f0379145d0a0246,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-9-2015
+18fc90d9d18d44d88cb7ecaca7e2227513d4cee4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-9-2015
+d430f0b9c91e7ac3227f2b44848017e8fe8f6f00,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-9-2015
+bdbaed4a045e8887a46134c6419dec11bffbc3c3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Oct-5-2015
+045ab1f8f91496342cf4c989bb2f17f5526eee94,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-3-2015
+50daa490b7a929885760ccc12ca7aedc847477a3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-3-2015
+35da41fc3c14752aec1bb308593ba4d570be5649,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-3-2015
+b687ff3b3f4ec056a41952af3210235a4461b99e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-3-2015
+96bb1c32d63332279249aa5b9c2dd71b63702b1a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-30-2015
+255351e283cbbd5cec3b78ad863e4e61c6d912cd,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-19-2015
+8a333c865b73a638a45d6c53f7d3619dfcc8d48e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-15-2015
+4eb7dafb9b1a31329765661868fd1a23382ec81b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-8-2015
+3cffa715f67a05a00675277a83fb3e055f660ccc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-8-2015
+e73cd86d7ef1e568531dcba9d533c3e8c944a0cc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-8-2015
+ca3a0bcac88c69b1ae7e42ff447c2c26e698231f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-27-2015
+c979ef12d8b8018f71f96cabc18a9c7a877320bb,Grzegorz Halajko,ghalajko@gmail.com,May-27-2015
+8ae57000027797d0ca2ab4cef7b78b90a2023db4,Grzegorz Halajko,gh@linuxpolska.pl,May-26-2015
+f644027aa779cb390459160e541181ee3d8d76db,Grzegorz Halajko,gh@linuxpolska.pl,May-26-2015
+c928d62f03a36441f7be364f4ff81adb15ee156b,Grzegorz Halajko,gh@linuxpolska.pl,May-26-2015
+ae8a50de5adae3b29c541248e3feff7987e8c403,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+72f16e1768e336dbd6d70b96b9089c76e6d848cb,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+ef790ff99602a9b1bec9099d7e2bb8db1d9139d1,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+bad51bd3389d287b489c1c50d2997f6ece6ce754,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+9dbb2ba4553815bbeaab8ba13f7a7ae9674f3b5c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+92d434b004e8a7ec04759c2b10986569e5e8e9ae,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-11-2015
+4aabf4685c3d41e9b91d84aab04e7de515ee953c,Grzegorz Halajko,gh@linuxpolska.pl,Apr-30-2015
+cae255f7540720f24eaeec2918e61174cedebd70,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-7-2015
+c526707b5ecd86cd7b092b218ecc1e3f4196eb89,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-7-2015
+db0311adaa3f56c29569ed2617d28d69193861ce,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-7-2015
+4e6aaba558155747da4a278ddfb445ef636d1552,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-6-2015
+02d03e95e2933460ca3fdfabfc3c8fd1c8f00969,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-6-2015
+6f61273c6326f677f702545a3458026841b16084,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-6-2015
+d0651088d6e1ce1073a47de86eeac1d6b6d100d4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-5-2015
+532cfb48c73e687825e50a9ae4dd84c8cc8a0703,Grzegorz Halajko,gh@linuxpolska.pl,Apr-22-2015
+dc3801887a1837d5ac96da0d1e99730e5749f8e8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-27-2015
+e8129e0ebbb0dee30ecac51f1fba972de71fb728,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-27-2015
+e59a510ccfa4b073171de43fb32fc6dc33962e89,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-20-2015
+e6309c152578fd10e2d6ae1f51ccdec6640d4d73,Grzegorz Halajko,gh@linuxpolska.pl,Apr-20-2015
+027a0d1a6117abd7b50e865fc576bbf64bed327c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-19-2015
+5f12f4a9806419c148c11856f8a638bcbc96235f,Grzegorz Halajko,gh@linuxpolska.pl,Apr-14-2015
+4d126e4090f1d7b47fc60a6edf04894b871a6970,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-1-2015
+1423eba20070a88b3faa282fe192e1106ffc8599,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-31-2015
+9d1c08af32dfd90892072ed758adb9fc9fc4d439,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-30-2015
+f00a8b34a30d9b3bff289479cbf876497eef8f56,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-30-2015
+e18062420983e5cc7627542ee7938f2ab029c017,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-30-2015
+97dce1f591d22c53ac8437af46c2e434c558e1fe,Freeman Fang,freeman.fang@gmail.com,Mar-25-2015
+89983178457d7e45da8fdb9e905a7deedf239265,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-23-2015
+dc8cb05b58d31d67411a14a8657369ce09d4bece,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-16-2015
+ef1099aa4f1c18ab169d006c4b01c77b8eb72a09,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-16-2015
+33455a60a86d785b74b9826d8841778c31038daa,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-16-2015
+b5f1c7853c4237ba3aa6e9603f8e881f51fcca99,Jan Høydahl,jan.git@cominvent.com,Mar-10-2015
+b5fe8bcb34d4991c255470699867da02966521fc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-9-2015
+888917d110d194aaee68617ef264ee1629253f4a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-9-2015
+931ddd007ad6142f0362444a55774aa35a8ed207,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-9-2015
+12b0db39c0fcf4119918961fd6f596177865190d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-8-2015
+5542f6765555adfe949c44c3c8141ef929a92f2b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-8-2015
+207f7ad6cbf1fd4e2d66fa7dc7af33ad78de52d1,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+b205ddfa8816209228f98ba84a488f6d70a53bb3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+bcb0998b12e085a1d76f5ca8f8747cf8ca0c8a29,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+5851d1ff8171dcae1a44e2e8d9955adcec90432f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+ce7dd27b713007d44c077ba578ff1d87f0fb544e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+cdc9f93df765102145131dd496b78cf2dc020a7b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Mar-7-2015
+ccc8f3f144111a25e6a63ee55e558c8391fb15e0,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-27-2015
+d65fb6093df416228e020da69d7337be4993f99f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-27-2015
+fcac17b8b5fd09a23eeb63b005e2078a79b9842d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-27-2015
+7578b3d4c1443bcb07f7a3bab4fa4f8d7050ecb5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-26-2015
+a04c66426a70465b1f5830030319c1f9945ef42a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jan-26-2015
+ead7e67ddf176b7beabf759ce0f2c1268fa626d0,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Dec-18-2014
+119a894225265f1e7855a1b1582ba87d3a65e75b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Dec-18-2014
+4c4e35714d01548d587ca9db041718fcb11d9da9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-11-2014
+e47d4cc30af24c0f122001cfb60563a0e2882e92,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-11-2014
+4f39520ed475e79e98c95e435a3f2b610aa658b0,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-9-2014
+53e81af7f76f7abcc50c29e22c13118fe3a81c34,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-8-2014
+7104501374f831d5e75c2dd44b03d0a692b6cd62,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-8-2014
+abee1d242cea9ff2c501e2e1e20dc9de4aeb659d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-8-2014
+892a78cab777d98174a38454247aa610a7c1c5ed,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-8-2014
+6317f93fed662329616eaf9e5ca3468c8fca76cf,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-8-2014
+90186cc26749b8c94fe66a44d5cd58d2c2c019e5,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-7-2014
+63b39fbf353549e8ec5d5954d7bbba1f7b610beb,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-7-2014
+5eed29afc4fbf49f094b9026e5f2b5c5cb46b60f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-3-2014
+ba1ee8ea5296621e28fed4bc6ff803b5af8c8b26,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Nov-3-2014
+12a2aeb7462558d4a7e07648e7bcd6cb042e6e7f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-28-2014
+db73ca6c0e3148be0a4767f9b139b6fe7ee5d434,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-22-2014
+7fcdc95ce479fa32fa45d9a63e4ed5d94778e646,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-22-2014
+f42904059be538d8aa87f23dbe5e28588dbd7392,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-22-2014
+5d896ae7d0c7664c5706aac1c190716004fec432,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-22-2014
+270b3eca3c2d9c45f3c16e90229d7a2903c30d8c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-8-2014
+a58a761068ad304777c54532ecb1a2499eaa1470,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-7-2014
+3f55c31dbb3995581cc6d4a6d26294406f12bc1f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Sep-6-2014
+86ca1c54a58f545e0dd9d389c158b8f0a54ed453,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-7-2014
+5ea4412e1869aae2f6aa389f55dfba49f5b7702e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-7-2014
+2bcfe6afd1322ab121fe189b146412c88dbd274f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-3-2014
+2b9d0ec4ef77e22b3fb85e14c75fcc07a13587af,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-2-2014
+e014a76db78f0df4c1b06f0413005762cf9979c8,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Aug-2-2014
+74e2f96a911a98b5c05ee9930eebdba7902ac5c6,Gert Vanthienen,gert.vanthienen@gmail.com,Jul-18-2014
+dbe59b35b518c6fd1608667156ea2535367e1d22,Gert Vanthienen,gert.vanthienen@gmail.com,Jul-18-2014
+9ee693e80411aa143edabce22c308fb159811664,Freeman Fang,freeman.fang@gmail.com,Jul-17-2014
+9881d7b29c444bb92e3455e12c6b0caed0174b6a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-15-2014
+a041239b6a82d7250513df5855c8fd14393edea6,Jean-Baptiste Onofré,jbonofre@apache.org,Jul-14-2014
+8c300b33dea10b44f1edd997d7583047bf89b566,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jul-7-2014
+b3bd4750d2bdc4b75ca079217cbdc20a781add32,Freeman Fang,freeman.fang@gmail.com,Jul-8-2014
+02aeb58bc811c3817b2ef0ae36042fcadef8f241,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-18-2014
+37fa5ac243134f5bc9187b8b734d50670c42c21b,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-16-2014
+01535abf731b072edce028e5e0db7701bfcd2c8a,Wim Verreydt,wim@anova.be,Jun-16-2014
+71a92c6c5ac271827c5955718028e6dcf8ad51b8,Wim Verreydt,wim@anova.be,Jun-16-2014
+d164720e154352deaa5e7d9ef49e250e3798a767,Gregor Zurowski,gregor@zurowski.org,Jun-10-2014
+ec46de65a0ef04f9389310917b9049e3482c7299,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Jun-12-2014
+075ba7c056b4aad1da250910d5f0ad8cdf0186a7,Gregor Zurowski,gregor@zurowski.org,Jun-3-2014
+4facc7785821214c2afbae31a66f00f314f5b3e5,Gert Vanthienen,gertv@apache.org,May-14-2014
+9fa36afb05477aa9a68ccdd7815b826da6f96bbf,Gert Vanthienen,gertv@apache.org,May-28-2014
+090a619ed8a86f3f83e007e0f2ec9c26e39775de,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-28-2014
+0e01564d13570974219d58d284e48079130e1c89,Wim Verreydt,wim@anova.be,May-28-2014
+2ab8478edaa4f50989002ffba475396ed11cd9e3,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-26-2014
+0a95f1b44b1830a45e70188d6b49dbc77ae5616d,Wim Verreydt,wim@anova.be,May-13-2014
+97c37532c73c52ff92ac195de64493f28c81dbce,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-26-2014
+8731c2bb7826069db9fe8237550ad5e03332a8e1,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-26-2014
+7e244c736d85f6d13357378eefce9a5fa4c1599e,Wim Verreydt,wim@anova.be,May-9-2014
+e8e389310f343d19da80984e056c1ceca7468322,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-24-2014
+9aaca8f3d4194dbdd513eb0c63099c64813fb83b,Wim Verreydt,wim@anova.be,May-19-2014
+4b5330c1f5e7061bef3e11f76a79db9d5def08df,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-23-2014
+cd3deb9b937b038ee251fe8ac669eb7e883b31d4,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-23-2014
+61b3dcd4ce5b98c498f26af71bd18a340fc13b9f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2014
+8ca299c51e72224fbad1fdf7d98d3743cbc58d8c,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2014
+fb557e2629d1fd195eb32cde1f124b2c134f7cfc,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-22-2014
+c9dd91785f4149e6127a83bb1aafae10f635bda2,Wim Verreydt,wim@studentenleuven.be,May-5-2014
+9297055f3bcd841aba5060cc833693657a7c9f52,Wim Verreydt,wim@studentenleuven.be,May-5-2014
+18664fe858bfafd988897401b9302d66d787f43c,Wim Verreydt,wim@anova.be,May-6-2014
+8aadedf6cf3239c62f3efa1537811f2c316fdd51,Wim Verreydt,wim@anova.be,May-13-2014
+df42014d50549c3f6cd51f116f5005e6958036f2,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-9-2014
+e04e5a2031389aa2b9e8557eff240b6cc84a44db,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-8-2014
+d71da2ad2b43eef0c86d87a26f34b3e02529c55f,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-7-2014
+592b1126d9766f2ffb3305833374d4cafe5ea657,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-7-2014
+d55bc5eda7c9d7dd8b9dda9b99e2ea6381d3bacf,Gert Vanthienen,gertv@apache.org,May-7-2014
+f55eaf810c990078e06d0585821d5f645465aa10,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-6-2014
+337486fd7312bd191e864743cc5e92b5e5054f05,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-6-2014
+bf9f30d72525859e7043cc23b51ad1c9ff94aa97,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-2-2014
+c6cb8ad0dcb9ce82515d82d1755914c75ed9d72a,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,May-2-2014
+fff80c9d944d923ebc37cb3b3653cfc0fd954be9,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-16-2014
+4ca3c6802d956509d4d54cd6787dd43a2fd2cd51,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-14-2014
+78f9aea3661d180f9afea2fa6124a16f3f12e83d,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-14-2014
+f9f796669268b3ca0c99a88a4a3d3e714dc1fa4e,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-11-2014
+48de4db57b0a495518ad86144da4bc739240aa92,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-11-2014
+e7e375da4aa50ff109d9fba0d48648a171f5cb70,Krzysztof Sobkowiak,krzys.sobkowiak@gmail.com,Apr-11-2014
+f7f0a60326b93224d36f846d8ae9a918bbd44908,Wim Verreydt,wim@studentenleuven.be,Apr-5-2014
+9a139cedf88c02c7d161e79af24ddd4570b5b9db,Bart Horré,bart@anova.be,Mar-28-2014
+111751f59d8c0887265fa55649527cb7ac08319a,Gert Vanthienen,gertv@apache.org,Mar-31-2014
+904689d59dfcc28c8f108961651ae85a18d26de9,Gert Vanthienen,gertv@apache.org,Mar-28-2014
+707d1584deefea647f3588a584cebd57eb7cbed0,Gert Vanthienen,gertv@apache.org,Mar-28-2014
+35e5787a47f40e03fec92eed360ff4682e2fce99,Gert Vanthienen,gertv@apache.org,Mar-27-2014
+1dd8c1f6698064711186d2c1360a934d9edf08f8,Gert Vanthienen,gertv@apache.org,Mar-17-2014
+a64468304daf3b3a1d30a8c45bc842e92b8b7e9c,Gert Vanthienen,gertv@apache.org,Mar-17-2014
+e27d9f16377327f8db36a8669b06b6a109529c58,Gert Vanthienen,gertv@apache.org,Mar-17-2014
+2e8cc3de9ac40f8af1cdbe79915771fa3cb0e934,Gert Vanthienen,gertv@apache.org,Mar-16-2014
+4b23dd92955401d289580c9fa8f7d3a58bebd511,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+6e0b36c0056f23aa925b680508b7b73a21fb6a13,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+d6a070cd36f622b7f2e1136da5db613150052417,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+a8b9947860632050d78cc92d8ef82871cf9177dc,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+62663c4feaff89217810475ccd545cdcce4b9ad5,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+5943a64a9e9156631515e194db7d41a156236270,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+76f9a5d587813b058d5aaa8b27a182c6f51074c9,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+8f1f98b55d4ebdfd63f798d7defed74b668581b4,Gert Vanthienen,gertv@apache.org,Mar-14-2014
+4962c5473d42816f3b2636c5a215560143a417fd,Gert Vanthienen,gertv@apache.org,Mar-11-2014
+8ee07a9f80428ff13c0956fcb7608677223944e2,Gert Vanthienen,gertv@apache.org,Mar-10-2014
+9151a5de6a8ed5948d20f135389f7ce9b59cd166,Freeman Yue Fang,ffang@apache.org,Mar-6-2014
+70e15568bb36c464ea057b97eec8ac803fe32d2f,Freeman Yue Fang,ffang@apache.org,Mar-6-2014
+b8622df246fa2022e4cb28274d0f7cd0a0e56075,Freeman Yue Fang,ffang@apache.org,Mar-4-2014
+4ce6ff4f99e406d2c49616c70a57e1a128c3aeb5,Freeman Yue Fang,ffang@apache.org,Mar-4-2014
+63c979314df7edd801a5dcbc0d0b0540f6d386aa,Gert Vanthienen,gertv@apache.org,Mar-3-2014
+1a40d34f9d241d0e763ec33c3cb6b742d6ab000e,Gert Vanthienen,gertv@apache.org,Mar-3-2014
+eebd0c765129a5dcb9ed71642845d552301310a5,Gert Vanthienen,gertv@apache.org,Mar-3-2014
+0e0e49cda39b632690f207469cf902d87060641e,Freeman Yue Fang,ffang@apache.org,Mar-3-2014
+f0de74c870c2e328c5a58c68916d18b1f7b5ac8a,Gert Vanthienen,gertv@apache.org,Mar-1-2014
+f4dfab6732575b8755099ea92b9e2eecbdf992e2,Gert Vanthienen,gertv@apache.org,Feb-28-2014
+33d4e51f6bf7f21a7ca79edeeaad6694f79f3f2c,Gert Vanthienen,gertv@apache.org,Feb-28-2014
+d408d73ec7308472de4570574bdefecd1d36006c,Gert Vanthienen,gertv@apache.org,Feb-28-2014
+77aac0fa6cfb69d36c8f8c9864bf8cff5dae9c1f,Freeman Yue Fang,ffang@apache.org,Feb-27-2014
+da05bc804395baa1c5e2ca2db0d3f3bbfbd50023,Freeman Yue Fang,ffang@apache.org,Feb-27-2014
+3f988c2941059a624dcf5f081f0e6b0bcea4f0f7,Gert Vanthienen,gertv@apache.org,Feb-26-2014
+e46ddd889e46654e51234c0c91db3d13903d9763,Gert Vanthienen,gertv@apache.org,Feb-25-2014
+15b9d2bd6d3122d0d81a6b3cb6a98858039cf6a2,Freeman Yue Fang,ffang@apache.org,Feb-25-2014
+052c48f25b4c67dae72bee8c1b3f7723699397c4,Freeman Yue Fang,ffang@apache.org,Feb-24-2014
+9bee6dc72c1611fdb351a17f38c2264b54ae098e,Freeman Yue Fang,ffang@apache.org,Feb-24-2014
+b01c25627d8e0a7d652514fa38da9cff73a89399,Freeman Yue Fang,ffang@apache.org,Feb-24-2014
+d69b1c7cdae00647e79475459594dc4fecf41a3c,Freeman Yue Fang,ffang@apache.org,Feb-24-2014
+a9ce33c284d5c0bfa0b6bd5d9315232f6a3bacc7,Gert Vanthienen,gertv@apache.org,Feb-21-2014
+ec2d9b3f24756f1e5b5ce1073a1db1b055a60520,Gert Vanthienen,gertv@apache.org,Feb-20-2014
+9e1b2d9efb40c08e4c7e3b578dc4f4587ddfc722,Freeman Yue Fang,ffang@apache.org,Feb-20-2014
+575cd983b28505148667d7382de12ee7cec06f83,Freeman Yue Fang,ffang@apache.org,Feb-20-2014
+a414cb3292834d2f1a6cae4928ddfc2f7022f51c,Freeman Yue Fang,ffang@apache.org,Feb-20-2014
+78d5ccae73c38ce211b0fb58acf9345a4082c5e3,Gert Vanthienen,gertv@apache.org,Feb-18-2014
+9902ea4d7200f50ef67c5c66aa3243ec7517e193,Gert Vanthienen,gertv@apache.org,Feb-16-2014
+07ffe15608e9821154f7baa9d2f880e9001a290e,Gert Vanthienen,gertv@apache.org,Feb-15-2014
+e98e801b79c0d089e64947dca8b544bfdd8cf8af,Jonathan Anstey,janstey@apache.org,Feb-14-2014
+6ed2b22a88d194ab8ada7e72e250fc7e17ae8235,Gert Vanthienen,gertv@apache.org,Feb-13-2014
+73c95f72249c5c3a38f4e3bea8376b8f73bde727,Gert Vanthienen,gertv@apache.org,Feb-13-2014
+f3a694accf05cedaeea472ec38e89a697fedae7e,Gert Vanthienen,gertv@apache.org,Feb-13-2014
+6eca58e3d6511d72763b4a940f25edb29172a911,Jonathan Anstey,janstey@apache.org,Feb-13-2014
+41bb75ceaa50b97d409893704b91d076375ac7df,Jonathan Anstey,janstey@apache.org,Feb-13-2014
+7b30b659190f4fd10655512f6953bb6a7f8bdbb4,Freeman Yue Fang,ffang@apache.org,Jan-20-2014
+5b4e63e37dbf39782c3b676094e7410a72737cba,Freeman Yue Fang,ffang@apache.org,Jan-17-2014
+a801a774622903050f73ddc5a63337c853f69ed3,Freeman Yue Fang,ffang@apache.org,Dec-31-2013
+a5e82645b7b899ac77c9c211fb73b408741e46a3,Freeman Yue Fang,ffang@apache.org,Dec-31-2013
+f7eb0d74f9694bf230f0d8b0da08e8bfaeb9357b,Freeman Yue Fang,ffang@apache.org,Dec-31-2013
+2110f871c998095b7725695769db48f80f8541fa,Freeman Yue Fang,ffang@apache.org,Dec-31-2013
+dcbffab998d6b288fbcc413deb2e809837349e42,Freeman Yue Fang,ffang@apache.org,Oct-31-2013
+460c6a4eb3563d033da42a973105fc89fec1322d,Freeman Yue Fang,ffang@apache.org,Oct-31-2013
+2d43f712e352505c02e077cb800d1136d8cb498e,Gert Vanthienen,gertv@apache.org,Aug-5-2013
+e8e508f2018134faed5cc2b503f51865b2aa8597,Gert Vanthienen,gertv@apache.org,Aug-5-2013
+b68703bb0903c2165b02febafd768c8456a4de56,Freeman Yue Fang,ffang@apache.org,Jun-21-2013
+3194fa989fc55c9f9567922dd92f28428bc02bef,Freeman Yue Fang,ffang@apache.org,Jun-20-2013
+4f2893999f01322402e184ea8bd88732c73ba474,Freeman Yue Fang,ffang@apache.org,Jun-13-2013
+9327e2793e1f5607b888395e34f18328edd76af1,Freeman Yue Fang,ffang@apache.org,Jun-13-2013
+a8b700cd1eb023fd4dd7f800a06d7b20ab1d910a,Freeman Yue Fang,ffang@apache.org,May-23-2013
+81dced6a7c89f0ba288c7803e9540412cc45e41e,Gert Vanthienen,gertv@apache.org,May-16-2013
+3911f9bc704546d986c15773ca7abbf920fc0fd6,Gert Vanthienen,gertv@apache.org,May-16-2013
+aba4215e3cc03068742735ca1a3bb21b287cfee9,Gert Vanthienen,gertv@apache.org,May-16-2013
+67ca3fafc84683145a7c4c38418e189e36f1bd4c,Freeman Yue Fang,ffang@apache.org,May-14-2013
+8d25aff7a9a624a5d092a513e2ee740ba8d8ec0f,Freeman Yue Fang,ffang@apache.org,May-10-2013
+b98c114f7e78ec34af808fc2a38503467992cb8c,Gert Vanthienen,gertv@apache.org,May-1-2013
+34aa94cc5603f32e060fc2a610badf61a882d5fc,Gert Vanthienen,gertv@apache.org,Apr-30-2013
+34e2044888e3cede6b77ad185566c6518b273e25,Gert Vanthienen,gertv@apache.org,Apr-30-2013
+360e9d78591cb54689d17896d6a432ed93db759d,Gert Vanthienen,gertv@apache.org,Apr-30-2013
+f2f3278d47a36e35f9f6ba31a080f17828f3bd59,Gert Vanthienen,gertv@apache.org,Apr-30-2013
+861b6bc3c0442078e39d7a558db8500356b80858,Gert Vanthienen,gertv@apache.org,Apr-26-2013
+e2668f06175e59112bf3096525932665e66c62ef,Freeman Yue Fang,ffang@apache.org,Apr-24-2013
+66d1724e50f0e62cc802bfcd86ad368f7b9f970c,Gert Vanthienen,gertv@apache.org,Apr-10-2013
+288eedb8f9046088cab783cbeb89cd63db20f2d0,Freeman Yue Fang,ffang@apache.org,Apr-10-2013
+126a8a488a369b3a806adf628f300b93e8226cfa,Gert Vanthienen,gertv@apache.org,Apr-3-2013
+ec19b687da025af3fef4f6cda046f9b15c9b94e4,Freeman Yue Fang,ffang@apache.org,Apr-2-2013
+38eb2b5c13fa8f3677cb5b3308b609cd4f9741ab,Jonathan Anstey,janstey@apache.org,Mar-29-2013
+70d04c719da0a85f55c6c9e7cea81b0ed5deec35,Jonathan Anstey,janstey@apache.org,Mar-26-2013
+28ac761bd485ebb469de5060d0e6b0cf6983a15f,Jonathan Anstey,janstey@apache.org,Mar-26-2013
+e44d62429ffa2cf591cb4295abeee295331101f5,Freeman Yue Fang,ffang@apache.org,Mar-25-2013
+bd4cded83ec0bc0568c4a43d60f6a9557814ea09,Gert Vanthienen,gertv@apache.org,Mar-19-2013
+1ddc76002d01658e2ef077238a0013877ae0f4eb,Gert Vanthienen,gertv@apache.org,Mar-19-2013
+f5fee309800e09753c6e520787a798bc6411a7a0,Freeman Yue Fang,ffang@apache.org,Mar-12-2013
+48e0ca390f7988f69f31fcfc65ef36d610b7e514,Freeman Yue Fang,ffang@apache.org,Mar-12-2013
+850c6a040b70eafc858678cb81ef2a80848eac38,Freeman Yue Fang,ffang@apache.org,Mar-12-2013
+c7bd6b7de313a823fa484a15114309465c96c450,Gert Vanthienen,gertv@apache.org,Mar-11-2013
+e0fba931a21d3ee2d1b5161728a4944c01e0832a,Gert Vanthienen,gertv@apache.org,Mar-6-2013
+951d3a28afa87f0dd041c6f4b8a550dc97a286ba,Gert Vanthienen,gertv@apache.org,Mar-6-2013
+adfd2e4fdde510b1f0d2a5feedfbfacf101f3c5e,Gert Vanthienen,gertv@apache.org,Feb-22-2013
+1722ca690d8d5330db6a42d7c4e78fb9d93d6e70,Gert Vanthienen,gertv@apache.org,Feb-22-2013
+f443b8fc274798be5b60135b30a86bb7adc8d0b1,Gert Vanthienen,gertv@apache.org,Feb-8-2013
+30187d5b0172445184f72eb849bbc65ed84b7f51,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+5ba73fb9c05ac731d5637bcce0da4d7f48fa5c8c,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+8eb01181d4c86969f5aabacd442af31f87913560,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+f3150cb94a82da9928532892a1b9b380e3adc36f,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+329328f3dc5fbeef328e0b04c1b34a50f4624a82,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+3da8ded5c15aaf23300bcc77e1d083030bd65dd4,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+4555ac3e9091588bf0a6461374e810df379a3ef0,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+69766aa085e2c128c92b9183e239b6f80617ac74,Gert Vanthienen,gertv@apache.org,Feb-6-2013
+e7e6e7c5e537f04d7b1507ec8c074d6d3b13b280,Gert Vanthienen,gertv@apache.org,Feb-5-2013
+35b17c62f9f9608b4bc8e48084b07b46e973699a,Gert Vanthienen,gertv@apache.org,Feb-5-2013
+501eadb7b17460b36d755be7e3eed1f8dbe89c36,Guillaume Nodet,gnodet@apache.org,Jul-27-2011
+4075df109a0de4259c434b23fb74d62194146941,Guillaume Nodet,gnodet@apache.org,Jul-22-2011
+3be3af39fed8dfa4a1b287ca7b6c6c87fd49712a,Jean-Baptiste Onofre,jbonofre@apache.org,Jul-22-2011
+699bd22d4a6b2dc023f4219c6ddd79eb9d1f2f69,Gert Vanthienen,gertv@apache.org,Jul-21-2011
+23063efeda68e1e689535af88192562d4cf23210,Gert Vanthienen,gertv@apache.org,Jul-21-2011
+d2726742feea1893196f3ef3053115eafa283947,Gert Vanthienen,gertv@apache.org,Jul-21-2011
+7e6bdc965b3a90d13818f2011ac73c545978dda9,Guillaume Nodet,gnodet@apache.org,Jul-8-2011
+ef57fd77233e31c5c6c61cf83b898070f5d4d5fa,Guillaume Nodet,gnodet@apache.org,Jun-29-2011
+1925087d1d509477da41886862b91b90a535782e,Guillaume Nodet,gnodet@apache.org,Jun-29-2011

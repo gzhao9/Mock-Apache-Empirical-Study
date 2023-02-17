@@ -1,0 +1,340 @@
+commit c53302f9e5fdcf804ea2fd9d44629939d57c4588
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 05:50:41 -0400
+
+    Bump junit from 4.12 to 4.13.1 (#26)
+    
+    Bumps [junit](https://github.com/junit-team/junit4) from 4.12 to 4.13.1.
+    - [Release notes](https://github.com/junit-team/junit4/releases)
+    - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.12.md)
+    - [Commits](https://github.com/junit-team/junit4/compare/r4.12...r4.13.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: junit:junit
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 888c05c95b92a52a625842ac00e38ee6202650e5
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-21 04:58:21 -0400
+
+    Bump logback-core from 1.1.3 to 1.2.9 (#27)
+    
+    Bumps logback-core from 1.1.3 to 1.2.9.
+    
+    ---
+    updated-dependencies:
+    - dependency-name: ch.qos.logback:logback-core
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit 67352f0b15926ce71238923a8dc1b16a1edb2bd7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   2022-05-20 16:52:23 -0400
+
+    Bump gson from 2.8.0 to 2.8.9 (#25)
+    
+    Bumps [gson](https://github.com/google/gson) from 2.8.0 to 2.8.9.
+    - [Release notes](https://github.com/google/gson/releases)
+    - [Changelog](https://github.com/google/gson/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/google/gson/compare/gson-parent-2.8.0...gson-parent-2.8.9)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.google.code.gson:gson
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+1	1	pom.xml
+
+commit c6756607c97adbf5e15c34f3d6f67b2053eae780
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-13 17:00:33 -0400
+
+    Upload test logs on build failure (#24)
+
+2	0	.github/workflows/maven.yaml
+
+commit 4ecf00b460844697de7868b32b9790c74555b1d7
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-09 10:42:15 -0400
+
+    Fix build on JDK 11 so CI build can run (#23)
+
+25	1	pom.xml
+
+commit 697400c010e888f8a3910afa80a42b1bd0207836
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-08 17:42:17 -0400
+
+    Migrate from TravisCI to GitHub Actions (#22)
+
+66	0	.github/workflows/maven.yaml
+0	31	.travis.yml
+2	2	README.md
+
+commit 6c47562524bff77f236fca638ac49433732bab38
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-10-05 17:52:56 -0400
+
+    Add .asf.yaml (#21)
+
+35	0	.asf.yaml
+
+commit 339f385ebec62a1a14fdaaaead19868aab32e09d
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2020-08-14 07:55:29 -0400
+
+    Update links to point to main branch (#20)
+
+2	2	README.md
+
+commit ed94d4f97bd976d0a14a7676ce9519d47bf65607
+Merge: 731420f ff6ee09
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-06 17:39:32 -0500
+
+    Merge remote-tracking branch 'origin/1.0.0-rc1-next'
+
+commit 731420faa6012a898012da42dc25d7b61193751b
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 17:44:30 -0500
+
+    Synchronize release-candidate scripts across repos (#19)
+
+24	17	contrib/create-release-candidate.sh
+
+commit 93929b4d0631963fcc8fdf516c3597b9b7260f11
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 16:33:19 -0500
+
+    Fix project name in release-candidate script (#18)
+    
+    Replace "Recipes" with "YARN" in create-release-candidate.sh script and
+    update the URL for the draft release notes.
+
+6	6	contrib/create-release-candidate.sh
+
+commit ff6ee091d603fa31c2c337289567d7ce283b16af
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 12:37:57 -0500
+
+    [maven-release-plugin] prepare for next development iteration
+
+2	2	pom.xml
+
+commit cf355220d2f8aeb0a8250714938dd477d6fda49c
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-03-01 12:37:47 -0500
+
+    [maven-release-plugin] prepare release rel/fluo-yarn-1.0.0
+
+2	2	pom.xml
+
+commit bc223f601ab476195c0d87852ba64b270029e523
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2018-02-28 19:56:52 -0500
+
+    Convert multi-module build to single module (#17)
+    
+    * Simplify build by consolidating the tarball assembly and the jar into a
+    single module Maven build
+    * Update copyright date
+    * Update travis build configuration
+    * Simplify assembly by removing unneeded configs
+    * Remove unused profiles and plugin config in the POM
+    * Add script to easily create release candidates
+    * Add script for creating release candidates
+    * Add missing scm and issueManagement sections to POM
+
+17	6	.travis.yml
+1	1	NOTICE
+287	0	contrib/create-release-candidate.sh
+0	60	core/pom.xml
+0	90	distribution/pom.xml
+68	91	pom.xml
+7	23	{distribution/src => src}/main/assembly/bin.xml
+2	2	{distribution => src/main/assembly/contents}/bin/fluo-yarn
+0	0	{distribution => src/main/assembly/contents}/conf/fluo-yarn-env.sh
+0	0	{distribution => src/main/assembly/contents}/conf/fluo-yarn.properties
+0	0	{distribution => src/main/assembly/contents}/conf/log4j.properties
+0	0	{distribution => src/main/assembly/contents}/conf/logback.xml
+0	0	{distribution => src/main/assembly/contents}/lib/fetch.sh
+1	1	{core/src/main/java/org/apache/fluo/yarn/core => src/main/java/org/apache/fluo/yarn}/FluoYarnEnv.java
+1	1	{core/src/main/java/org/apache/fluo/yarn/core => src/main/java/org/apache/fluo/yarn}/FluoYarnLauncher.java
+1	1	{core/src/main/java/org/apache/fluo/yarn/core => src/main/java/org/apache/fluo/yarn}/FluoYarnProperties.java
+
+commit bf71d313ac0cf51364f3d506ccc228853816427c
+Author: Mike Walch <mwalch@apache.org>
+Date:   2018-02-27 15:08:21 -0500
+
+    Minor update in preperation for 1.0.0 release (#16)
+
+1	3	README.md
+2	3	pom.xml
+
+commit 2d1643aef0e1390dbc26da1388cdbc7d69d20c6a
+Author: Keith Turner <keith@deenlo.com>
+Date:   2018-01-08 15:17:01 -0500
+
+    fixes apache/fluo#671 made reserved mem configurable (#15)
+
+20	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnEnv.java
+12	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnLauncher.java
+4	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnProperties.java
+10	5	distribution/conf/fluo-yarn.properties
+10	10	distribution/lib/fetch.sh
+1	1	pom.xml
+
+commit 4c8198a568f0f8d3fe91c819086c93387959e7be
+Author: Keith Turner <keith@deenlo.com>
+Date:   2018-01-05 11:36:24 -0500
+
+    fixes #13 Made YARN queue configurable (#14)
+
+4	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnEnv.java
+4	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnLauncher.java
+1	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnProperties.java
+3	0	distribution/conf/fluo-yarn.properties
+
+commit 2ba874f99baccd2315ec581b85a981330f3a5110
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-12-19 17:28:38 -0500
+
+    Fixes #11 Apps are failing to run on cluster (#12)
+    
+    * Created new property so that 'fs.defaultFS' is set in hadoop
+      config that is passed to YarnTwillRunnerService
+
+5	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnEnv.java
+2	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnProperties.java
+8	0	distribution/conf/fluo-yarn.properties
+
+commit 058d17598e9d091c81ebd1eca9af2537f71eb0df
+Author: Christopher Tubbs <ctubbsii@apache.org>
+Date:   2017-12-05 16:40:59 -0500
+
+    Update fluo-parent to version 3 (#10)
+    
+    * Update parent POM to fluo-parent version 3
+    * Apply formatter changes (usually would go in a separate commit, but
+    the changeset was small enough that it didn't matter here)
+
+7	8	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnLauncher.java
+1	1	pom.xml
+
+commit 322e03ff51dd1fda18c529d4e6d65e4b33faf2cd
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-10-06 12:10:34 -0400
+
+    Fixes due upstream changes in Fluo (#9)
+    
+    * Fixes due to changes in Fluo command line
+
+3	2	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnLauncher.java
+2	2	distribution/bin/fluo-yarn
+
+commit 34eaab823c3d241b08ae46bf1c701c2e10fcb4a8
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-10-06 12:09:01 -0400
+
+    Removing docs that were moved to website (#8)
+
+3	90	README.md
+
+commit 65f3f03a9705e6857884720c39fb5c3110f69a0b
+Author: Keith Turner <keith@deenlo.com>
+Date:   2017-09-28 16:43:13 -0400
+
+    Add CONTRIBUTING.md (#7)
+    
+    * Add CONTRIBUTING.md
+    
+    * Update CONTRIBUTING.md
+    
+    * Copied Fluo contrib.md, omitting testing section
+
+41	0	CONTRIBUTING.md
+
+commit 3f6471609ff183f0d4430b95af81d57e00d551ba
+Author: Keith Turner <keith@deenlo.com>
+Date:   2017-09-13 12:13:42 -0400
+
+    added WIP disclaimer (#6)
+
+2	0	README.md
+
+commit 2e0266de99000e827286a81f2c39576a68de5b39
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-08-28 10:43:23 -0400
+
+    Fixes #3 Check if application is running before starting (#5)
+    
+    * Also improved README.md
+
+9	6	README.md
+5	0	distribution/bin/fluo-yarn
+
+commit b58bc38bd6ce59dfb586bd9f6b7ac321d14f7844
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-08-16 09:40:16 -0400
+
+    Removed unused dependencies & add travis.yml (#4)
+    
+    * Removed unused Fluo dependencies in Maven pom
+    * Added a travis.yml file for TravisCI
+    * Added badges to README
+
+20	0	.travis.yml
+6	0	README.md
+0	8	core/pom.xml
+0	16	pom.xml
+
+commit 5df10b34e43f8ab600935102286dd298c0d77292
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-08-15 11:01:01 -0400
+
+    Initial implementation of Apache Fluo YARN launcher (#1)
+
+8	0	.gitignore
+90	0	README.md
+68	0	core/pom.xml
+132	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnEnv.java
+149	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnLauncher.java
+66	0	core/src/main/java/org/apache/fluo/yarn/core/FluoYarnProperties.java
+102	0	distribution/bin/fluo-yarn
+73	0	distribution/conf/fluo-yarn-env.sh
+51	0	distribution/conf/fluo-yarn.properties
+25	0	distribution/conf/log4j.properties
+35	0	distribution/conf/logback.xml
+83	0	distribution/lib/fetch.sh
+90	0	distribution/pom.xml
+73	0	distribution/src/main/assembly/bin.xml
+241	0	pom.xml
+
+commit cc3e89f87e058ae99124b6d2c510fccd26c652ff
+Author: Mike Walch <mwalch@apache.org>
+Date:   2017-08-04 11:49:55 -0400
+
+    Adding LICENSE, NOTICE and README.md
+
+202	0	LICENSE
+5	0	NOTICE
+20	0	README.md

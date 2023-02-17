@@ -1,0 +1,3 @@
+file_path,method
+/commons-email/src/test/java/org/apache/commons/mail/AbstractEmailTest.java,andThrow
+/commons-email/src/test/java/org/apache/commons/mail/AbstractEmailTest.java,expect

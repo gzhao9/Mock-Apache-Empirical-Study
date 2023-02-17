@@ -1,0 +1,12 @@
+file_path,method,api
+/core/src/test/java/org/apache/oozie/action/hadoop/TestScriptLanguageActionExecutor.java,mockStatic,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestScriptLanguageActionExecutor.java,when,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,withNoArguments,org.powermock.api.mockito.expectation.WithoutExpectedArguments<org.apache.oozie.action.hadoop.HCatCredentialHelper>
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,whenNew,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,doAnswer,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,withNoArguments,org.powermock.api.mockito.expectation.WithoutExpectedArguments<org.apache.oozie.action.hadoop.HCatCredentialHelper>
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,whenNew,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,doAnswer,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,withNoArguments,org.powermock.api.mockito.expectation.WithoutExpectedArguments<org.apache.oozie.action.hadoop.HCatCredentialHelper>
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,whenNew,org.powermock.api.mockito.PowerMockito
+/core/src/test/java/org/apache/oozie/action/hadoop/TestHCatCredentials.java,doAnswer,org.powermock.api.mockito.PowerMockito

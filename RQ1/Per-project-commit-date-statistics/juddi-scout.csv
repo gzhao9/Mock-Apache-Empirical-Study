@@ -1,0 +1,532 @@
+commit_id,Author,Author_adress,Date
+bee54e5ae62af85431d473798043e9142b0ce467,Alex O'Ree,alexoree@apache.org,Jan-18-2019
+4eee7905af970c60a6b9c54340e3f3efddfa64d0,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+929eea096731529cf629269f85312444c3aac4e6,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+bea2ac0f6d792c010e74a399337330956f72c933,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+495b4ce5bbad97bb9e668a7b8aa6355be8ca906e,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+db498d0d65f0f290b71a96d86ed70a7bf509220a,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+891f176add749136686e98b735ee37b784a41c43,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+f0aabc31875c2f8272d5f944716e6759e090f34e,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+a60f14e92f79a96063497ecc8dfcfeca66d30f6c,Alex O'Ree,alexoree@apache.org,Dec-5-2018
+d0baa6f2e8c854b4137cc909bc4bf70e6116e7e0,Alex O'Ree,alexoree@apache.org,Nov-26-2018
+0107df680132c80d29c1a9163617081c12134eb9,Alex O'Ree,alexoree@apache.org,Nov-25-2018
+a6219473f3e487b448c8ad79adf8bcf8e3aa9635,Alex O'Ree,alexoree@apache.org,Nov-25-2018
+9179674bf29b313c9db3cd99ccea16b35545448f,Alex O'Ree,alexoree@apache.org,Nov-24-2018
+8836df0d62819c773fed7ce6846fd2c2996af6e5,Alex O'Ree,alexoree@apache.org,Nov-24-2018
+2381cd31d62aa74a45c3c96913884185067a2b55,Kurt Stam,kstam@apache.org,Nov-26-2012
+bbeb4155447197566f967fc7fd5b197e8098de2e,Kurt Stam,kstam@apache.org,Nov-26-2012
+0cb66bc8e67c738d6ebf9e73e87f227e34e58e46,Kurt Stam,kstam@apache.org,Nov-26-2012
+a433ea3eb76104d3a9767413faae3f2e388fc84f,Kurt Stam,kstam@apache.org,Nov-20-2012
+8d69080ba91ff57016fd2d1939edd1aa9304b1ec,Thomas Cunningham,tcunning@apache.org,Nov-14-2012
+7f50c1039663cf1c32352a2857dccaaa42c7a051,Kurt Stam,kstam@apache.org,Mar-9-2012
+3a2bf801db847c163f73fb3e90387a106d9defb8,Kurt Stam,kstam@apache.org,Mar-6-2012
+445c6fd0dce9fbeeb82ec11b0043ef90c0fdbff3,Kurt Stam,kstam@apache.org,Mar-1-2012
+da4d71df6b70533a60d31f8c914ce32323092d12,Kurt Stam,kstam@apache.org,Mar-1-2012
+633654fde517b5951cb28176a45cdc5d4aab921c,Kurt Stam,kstam@apache.org,Mar-1-2012
+935d3289cfc7dff1b3f2e67480bb2ebdd0468b08,Kurt Stam,kstam@apache.org,Feb-29-2012
+e4ea4cb3fee16172181680af9bdfd9db63d52443,Kurt Stam,kstam@apache.org,Feb-29-2012
+b3cd0a4524875d2de38d63dad2de8a36ad87c6da,Kurt Stam,kstam@apache.org,Feb-29-2012
+4c64aad92330c001f8f7a95e772a0e116e73c7b7,Kurt Stam,kstam@apache.org,Feb-29-2012
+e2f4117a95ee0ea482ec608b4d0cad7c0342e99e,Kurt Stam,kstam@apache.org,Feb-6-2012
+7654ea1e65296cc3ef5f645748283acc508780d2,Kurt Stam,kstam@apache.org,Feb-4-2012
+bc879725f2b9dd1987f1f04072ce7974c31061d9,Kurt Stam,kstam@apache.org,Feb-4-2012
+1fcc10bb51fa2bdccc046aa4f846f752ce1ddcf2,Kurt Stam,kstam@apache.org,Feb-4-2012
+7983d58fb6a40442117ec5c2c0fbff4316e85615,Kurt Stam,kstam@apache.org,Feb-3-2012
+60576bbb38efa43e2ee59d30f2b55467a7deadaa,Kurt Stam,kstam@apache.org,Feb-3-2012
+512644644496b957d9f047f610aff63b0cd0e8b9,Kurt Stam,kstam@apache.org,Feb-3-2012
+340ea4362ca9dedf090b5ec027d8df9193ca5d01,Kurt Stam,kstam@apache.org,Feb-3-2012
+7322b7fc224dc86f4e336d1d78f92d4c77404d8a,Kurt Stam,kstam@apache.org,Feb-3-2012
+9c19bade8abb4ba5894b3b96d605d11bdfea7a7e,Kurt Stam,kstam@apache.org,Feb-3-2012
+9f3164fdcf1d188b4d5d480ee954e21ccec980cf,Kurt Stam,kstam@apache.org,Feb-3-2012
+de589573cfc3ddf9ab5f9c2d41268a6d218ed105,Kurt Stam,kstam@apache.org,Feb-3-2012
+b0ea8c17d5a880e45d8e4668735f803b725b1f47,Kurt Stam,kstam@apache.org,Feb-3-2012
+b1317c46bc89ca5c94f875e71094d3210b3a9a79,Kurt Stam,kstam@apache.org,Feb-3-2012
+bc0b02b19349f38cca7dadeb890abf9950ccbd60,Kurt Stam,kstam@apache.org,Feb-3-2012
+9e9a27fc14605b0701cb53f7ef759ca77a7455ec,Kurt Stam,kstam@apache.org,Feb-3-2012
+ed05b760a4ef9c7cfaa9373a7c0fc684f414f243,Kurt Stam,kstam@apache.org,Feb-3-2012
+077c437afade45eca3c79a84d3b7c5957b9e9427,Kurt Stam,kstam@apache.org,Feb-2-2012
+eedbda47a41999a672027e2cd040ac445e2ad227,Kurt Stam,kstam@apache.org,Jan-25-2012
+0e0156b3436adc9692194412eb864e53e6b8dadf,Kurt Stam,kstam@apache.org,Jan-25-2012
+433a2f2c9eb23eb2a1ffeb33421c2ccc230bc0cb,Kurt Stam,kstam@apache.org,Jan-25-2012
+4fd9844304792db4ea3e50140d081b4742628a6e,Kurt Stam,kstam@apache.org,Jan-25-2012
+1591d275560187f148f47474a12a55745aa5d31e,Kurt Stam,kstam@apache.org,Jan-25-2012
+6a7e47226abc6aa84cb41ada12830e88da1d2638,Kurt Stam,kstam@apache.org,Jan-25-2012
+d2c96a483ff7f90682982231e834947ca8ef32f4,Kurt Stam,kstam@apache.org,Jan-25-2012
+489ea2fdb494bfaa7792149df1aa3c39449bfb8e,Kurt Stam,kstam@apache.org,Jan-25-2012
+126758224ec0cf03ce93dcd14ce730a240488795,Kurt Stam,kstam@apache.org,Jan-25-2012
+f58330c4545e8c4da8b23be054adcdeb9b31b0f1,Kurt Stam,kstam@apache.org,Jan-25-2012
+57f64f27ed13e79f4de6b9c2ae0a2dae8e0cc235,Kurt Stam,kstam@apache.org,Jan-25-2012
+2d6846c711cad4b55be6559db3914e17048791dc,Kurt Stam,kstam@apache.org,Jan-25-2012
+6cea3c4f7d4878da52e91543671d7f5a61e80748,Kurt Stam,kstam@apache.org,Jan-25-2012
+b3b1d063558c3221d0ac24ee49d1050f68eb01ef,Kurt Stam,kstam@apache.org,Jan-25-2012
+16b7a7f8f731a827feeb604147c6b6fd1dc83b37,Kurt Stam,kstam@apache.org,Jan-25-2012
+bf2e35f1c2bed12d4bf9bd476f0507325907f51a,Kurt Stam,kstam@apache.org,Jan-25-2012
+7bda17e1cdaca97d2d341e978d4ef1d51dc4341d,Kurt Stam,kstam@apache.org,Jan-25-2012
+6020f3444ffd7e676c852752fbc167946b62d2b9,Kurt Stam,kstam@apache.org,Jan-25-2012
+d2ec21e6f6916cffc18379da236eba6dbd123eb2,Kurt Stam,kstam@apache.org,Jan-25-2012
+86c242c9db27d5c999404100448d0f434331c9cf,Kurt Stam,kstam@apache.org,Jan-24-2012
+2bc3c7b8a505e1be79620f71a07a96586c8e0ba7,Kurt Stam,kstam@apache.org,Jan-24-2012
+f3e17a9d61b8d30825fbb937d0b0ed7f98d11e94,Kurt Stam,kstam@apache.org,Jan-24-2012
+15c979a133cf1727b7b5a5a576ff317fccbd78f4,Kurt Stam,kstam@apache.org,Jan-24-2012
+0cd34d848c3938de5260e11d301323dfad34be7c,Kurt Stam,kstam@apache.org,Jan-24-2012
+8e3bd0968ef3aa6c2ba6f1959da292bca57e0d51,Kurt Stam,kstam@apache.org,Jan-24-2012
+e7bd5dba22394f8783ffc2f6a51878626cbafda3,Kurt Stam,kstam@apache.org,Jan-24-2012
+d1793e25a5d428829f9e9ebaa0a5a93df857adba,Kurt Stam,kstam@apache.org,Jan-24-2012
+7746590eb3c6b4bac75972bf986ff933a0dbc3ee,Kurt Stam,kstam@apache.org,Jan-24-2012
+fc02dc1da24e0e993809a03adca2ecfb66e16c03,Kurt Stam,kstam@apache.org,Jan-24-2012
+37990c5f6c8942f0cb97ee7bdf8aa4690674a87b,Kurt Stam,kstam@apache.org,Jan-24-2012
+9ba330f6ccc20ad98f6a5a1e5ef01c99a72c5c45,Kurt Stam,kstam@apache.org,Jan-24-2012
+77d0e3368a0552945ee815c3293d4ca39c502dc2,Kurt Stam,kstam@apache.org,Jan-24-2012
+8397b6c00346eedb0c40c1d6bd39e4cbc1611621,Kurt Stam,kstam@apache.org,Jan-24-2012
+70402f9aeca9537289216561f2d4db5498a4098d,Kurt Stam,kstam@apache.org,Jan-24-2012
+1d1b951f6eea3f469859b1b943d4c9efbf40954a,Kurt Stam,kstam@apache.org,Jan-24-2012
+d3f92f56cded9b65e6b452fd28ec9d53a00c185f,Kurt Stam,kstam@apache.org,Jan-23-2012
+c1d62211da8372caa63877100cd2b46d93724164,Kurt Stam,kstam@apache.org,Jan-23-2012
+bbdbc3c53035c0bd3fc94daa791588e361a14fa7,Kurt Stam,kstam@apache.org,Jan-23-2012
+47473d5f1f557321550ee2ceec3cdbd655952867,Kurt Stam,kstam@apache.org,Jan-22-2012
+0dbdaab710e5bfca37587bd3978704697c41477c,Thomas Cunningham,tcunning@apache.org,Jan-20-2012
+21ba474960d0c4f271bcc3096356e2accdb6afc7,Kurt Stam,kstam@apache.org,Jan-3-2012
+8aa72558f1ad134255aee3abb9c41562ebd87b98,Kurt Stam,kstam@apache.org,Jul-5-2011
+444f42987a3f1d6033a8037a32176af2b42af9e9,Kurt Stam,kstam@apache.org,Jun-30-2011
+e4a9bcdefa29ceca3d7cef5651fd54531db1bb58,Kurt Stam,kstam@apache.org,Jun-30-2011
+1140d4f98810266177613643592bde8540d55955,Kurt Stam,kstam@apache.org,Jun-30-2011
+236d65584022caa6a4d53cdcf900a051db7cf7ba,Kurt Stam,kstam@apache.org,Jun-30-2011
+f92c67f1d5f58fc5a3fcfaddc160b84fffaf58e2,Kurt Stam,kstam@apache.org,Jun-30-2011
+44eda340fe0b8d939d2cbdbfde3b11aff4bb05d2,Kurt Stam,kstam@apache.org,Jun-30-2011
+a1cd6114e1cdd396d14cf40506f7a3236273df22,Kurt Stam,kstam@apache.org,Jun-29-2011
+1d050ceafd45661e24a66363ea7b6824fa3a6c11,Kurt Stam,kstam@apache.org,Jun-29-2011
+a62b9b16e868f41eeeb73585837f4042e44b04a2,Kurt Stam,kstam@apache.org,Jun-29-2011
+27fcfe6b27cbd38c3d460f4eef47b72f24bc1e6d,Kurt Stam,kstam@apache.org,Jun-29-2011
+38a940054239206f64d4763159267607f0f21245,Kurt Stam,kstam@apache.org,Jun-29-2011
+e33ca7246d94e825578cfbd76094629d4fb9b3f9,Kurt Stam,kstam@apache.org,Jun-29-2011
+a7086d2c1caca7ab6f740f40151b0b63ab4df5f1,Kurt Stam,kstam@apache.org,Jun-29-2011
+364afacdcb5c4bbb8de9b120cf11a0dffdf69a41,Kurt Stam,kstam@apache.org,Jun-29-2011
+e275dd2a49e3dba8da86a94086a6ba2f603bcf51,Kurt Stam,kstam@apache.org,Jun-28-2011
+e0be77b89a59f75c52af6daf9e3f617096613fe4,Kurt Stam,kstam@apache.org,Jun-28-2011
+08b16d0f6bfe51d4fe7747cad08cf1b181c56489,Kurt Stam,kstam@apache.org,Jun-28-2011
+680ee93b2234ad59a04eb12441ee5e25a6da777c,Kurt Stam,kstam@apache.org,Jun-28-2011
+74b9154f1e68581e119c2547f21dbce5bf2121cf,Kurt Stam,kstam@apache.org,Jun-28-2011
+00de2545bbc545aa57b6fb7e4f765b4c9f5de1a9,Kurt Stam,kstam@apache.org,Jun-20-2011
+567a848605c5e2572fb1f4a27035d6a08d7f4029,Kurt Stam,kstam@apache.org,Jun-18-2011
+4b47c70e19362851c888a75dd73325862ce5adf6,Kurt Stam,kstam@apache.org,Jun-18-2011
+8b7afa75ffb876031e7d72f5d6528f774088fe3c,Kurt Stam,kstam@apache.org,Jun-18-2011
+e0e1e0d9924ce0ef262af5f7214c92a7ffd2411b,Thomas Cunningham,tcunning@apache.org,Apr-6-2011
+2596e51673c3e5f1b5c0607ffbc7815098749824,Thomas Cunningham,tcunning@apache.org,Oct-14-2010
+a24d944303ec0985ea75651d545f6f4f210ada14,Thomas Cunningham,tcunning@apache.org,Oct-14-2010
+d059d59a785821434e9bef926d9c311168f31c64,Thomas Cunningham,tcunning@apache.org,Oct-14-2010
+6c16d7c5152515c489ed40c8e0d3042f0550ffec,Gavin McDonald,gmcdonald@apache.org,Oct-8-2010
+04f6cf70f3f1a2ec8af61dd97ae8bb63309b147a,Kurt Stam,kstam@apache.org,Jul-14-2010
+b742bd9c5636ae6eb9dcb055a690efc44d93a5aa,Kurt Stam,kstam@apache.org,Jul-14-2010
+6ec30afc3fa6744ca1fe5cb30664deac56fc3c24,Kurt Stam,kstam@apache.org,Jul-14-2010
+19b68e278ce2f0eb21f656d599a9a24e79e193d4,Kurt Stam,kstam@apache.org,Jul-14-2010
+3e42e573dc0909c5410d13bf329567664bcac9a6,Kurt Stam,kstam@apache.org,Jul-14-2010
+09897246c216326426ccc5af24443e706f8b23d2,Thomas Cunningham,tcunning@apache.org,Jun-16-2010
+dc8adca0967d69b409d0c6e03e836c1d863a21b4,Thomas Cunningham,tcunning@apache.org,Jun-16-2010
+2d2bcab5431cc9ffebce247b0deb990d1a3b2e51,Thomas Cunningham,tcunning@apache.org,Jun-15-2010
+e471a2e5be2628a23b816460c66acd3be0d99618,Thomas Cunningham,tcunning@apache.org,Jun-15-2010
+87fc561524b2ee5723203e5ec10fb311792c9496,Thomas Cunningham,tcunning@apache.org,Apr-16-2010
+c5ba1e64caadada6a735a53247d4c91094179f32,Thomas Cunningham,tcunning@apache.org,Apr-16-2010
+71e69697da92178d69263b11bb6e305da022d884,Thomas Cunningham,tcunning@apache.org,Apr-16-2010
+43e81a8baff295e36a4c62df6389c15edf654f82,Kurt Stam,kstam@apache.org,Feb-2-2010
+720a6e2bea03660eb9cc44ac24a80bc8dc9a18c8,Kurt Stam,kstam@apache.org,Feb-2-2010
+cf71177a3c5a70b4a14f223501624bd3b5b9d007,Kurt Stam,kstam@apache.org,Jan-22-2010
+d6b7bbfae109507045ee9dbc57d53d526c79557d,Kurt Stam,kstam@apache.org,Jan-22-2010
+28c450c12578b86db12491953c4fafae0929ffd0,Kurt Stam,kstam@apache.org,Jan-22-2010
+db598467b5ddcbd7b38c4ed5349dde180892f89e,Thomas Cunningham,tcunning@apache.org,Jan-22-2010
+b543e4a51c9e0bb022fdd3562c98dc93b84a8072,Kurt Stam,kstam@apache.org,Jan-22-2010
+a322129f26f30a1571bfd2106ca98e58e8914c51,Kurt Stam,kstam@apache.org,Jan-22-2010
+266a16ba1758f008e6366f6a9f7ba70c98bb0305,Thomas Cunningham,tcunning@apache.org,Jan-18-2010
+0ec62945f0efaec41b05f8b48290eb567d889b11,Kurt Stam,kstam@apache.org,Oct-23-2009
+2cae872a4bd23462cf6dc5efbc09767ea31fa998,Kurt Stam,kstam@apache.org,Oct-23-2009
+6a848effc4f0dd1313ac68f9feb8ca94928d6343,Thomas Cunningham,tcunning@apache.org,Oct-21-2009
+de33883cf1f0a8710be106d3579f686ffde675d6,Kurt Stam,kstam@apache.org,Oct-12-2009
+0f167ef67441451c2940f73ba0a6482ac17b70f5,Kurt Stam,kstam@apache.org,Oct-12-2009
+d456bc1b98929eabc9de1d2799211eeb97f58da8,Kurt Stam,kstam@apache.org,Oct-12-2009
+4f2f14c740bfa836aad2e6917c76ecb1d83eed59,Kurt Stam,kstam@apache.org,Oct-12-2009
+e0681c5b5bdd8ba906cfda31393fca2dda1fe903,Thomas Cunningham,tcunning@apache.org,Oct-5-2009
+f0333797d6881a5a409adfe4a0a4be48c3a4c76c,Thomas Cunningham,tcunning@apache.org,Sep-23-2009
+12e883db5cfcc8e59022dd28cc3324fdef383661,Thomas Cunningham,tcunning@apache.org,Sep-23-2009
+0a6976c760f04ef47d54e20ce1a1eabd254cd378,Thomas Cunningham,tcunning@apache.org,Sep-18-2009
+27d0fa670eea825ee77f68764a3be1a823c48fa8,Thomas Cunningham,tcunning@apache.org,Sep-16-2009
+4db8de5dbabbf80f5547105a2674f1adc9505679,Thomas Cunningham,tcunning@apache.org,Sep-6-2009
+c87578abdc15090e4ebee101304912bc4a2f1761,Kurt Stam,kstam@apache.org,Aug-7-2009
+fa4217fb261ab2c7846c4fc0e2b8a97fb32ed16b,Kurt Stam,kstam@apache.org,Aug-3-2009
+8dd36ff6702c4dbede48ea87c578f75b2805c4eb,Thomas Cunningham,tcunning@apache.org,Jul-30-2009
+6801ffec85520e854175cb38a45f320d0b13dab9,Thomas Cunningham,tcunning@apache.org,Jul-30-2009
+7a3aaf7ccbfe514951f02e619d305860e075df4d,Kurt Stam,kstam@apache.org,Jul-29-2009
+20a7651d8a97975d6230e1d731b809c49c37b6ba,Kurt Stam,kstam@apache.org,Jul-29-2009
+176ff107aacb8a4d3d1a585651d097b1affcae3a,Kurt Stam,kstam@apache.org,Jul-29-2009
+46ffeb43701800bd79fe273994413c0913afcba0,Kurt Stam,kstam@apache.org,Jul-29-2009
+0498b9ad599c2c24360166c931d938bcdba1b733,Kurt Stam,kstam@apache.org,Jul-29-2009
+f3e5dc6093c048e1f583b1779c0559c44ee8cd81,Kurt Stam,kstam@apache.org,Jul-29-2009
+a7e965848a6738efa42cddb6a011e8cbd92e9e90,Kurt Stam,kstam@apache.org,Jul-29-2009
+18408ebd1e932f66517bd1f16e14064413013a7d,Kurt Stam,kstam@apache.org,Jul-29-2009
+27e23e3f313e8f1170e1c7dd058bbfba17a9217b,Kurt Stam,kstam@apache.org,Jul-29-2009
+e01981b2bffc46ab4fb019e58d90ea0fa206ff95,Kurt Stam,kstam@apache.org,Jul-29-2009
+9380841ff1a67bf1e8a74cc71e2e595ba6762e13,Kurt Stam,kstam@apache.org,Jul-29-2009
+6e0394ee3ad062fe70943e389079e0f5471de135,Kurt Stam,kstam@apache.org,Jul-29-2009
+89e7496793bdcf8594425dc0c837cdf866487215,Kurt Stam,kstam@apache.org,Jul-29-2009
+b1a4b3a28d712bd1b570ebdc3bd0e0e52b610bc2,Kurt Stam,kstam@apache.org,Jul-29-2009
+234a3227821a603cd6041494c4f237a0e3218346,Kurt Stam,kstam@apache.org,Jul-28-2009
+16f5e432f21d6afe93e01c8c21d98840e7b4adff,Kurt Stam,kstam@apache.org,Jul-28-2009
+8c13e215a6fbc55a35a760900e0460aa043755c2,Kurt Stam,kstam@apache.org,Jul-28-2009
+3f6469a46e047f92c7cc97776054606aa6fd9c2e,Kurt Stam,kstam@apache.org,Jul-28-2009
+939357313f3fa143bbcc2ac411d200b4f04c49a4,Thomas Cunningham,tcunning@apache.org,Jul-28-2009
+cbecd866f6af7ec9d1cf846133ea220c6bbe6ed8,Kurt Stam,kstam@apache.org,Jul-28-2009
+b0b791d8ac33d1aa1ce04f5c1df96a5a0b8612c5,Kurt Stam,kstam@apache.org,Jul-28-2009
+0bd765ffc3984cd2afbc739f528bb39b87b42033,Kurt Stam,kstam@apache.org,Jul-28-2009
+b9ce1761d9720b1be36339899144f5a002f6a5a5,Kurt Stam,kstam@apache.org,Jul-28-2009
+d96273692848628aee8876ba95d9ced520e697bb,Kurt Stam,kstam@apache.org,Jul-28-2009
+d048df0065c207dc208c4b3b0886ef72eecdb790,Kurt Stam,kstam@apache.org,Jul-28-2009
+f4ca0f1bd8a60d77e093975ef8c7b92c488a2db7,Kurt Stam,kstam@apache.org,Jul-28-2009
+67b6946a1ac788cbd41d7171cc2771a0154bec33,Kurt Stam,kstam@apache.org,Jul-27-2009
+06ff406f48154aa838c0d63c61aae97a63078c23,Kurt Stam,kstam@apache.org,Jul-24-2009
+f98415b13e7bfead97e7728ebeffa8b3b6822fc9,Kurt Stam,kstam@apache.org,Jul-24-2009
+38b388a47be95bea19d152a8ce549421ee2886fb,Kurt Stam,kstam@apache.org,Jul-24-2009
+2d52b7d36eb72807f02c7e7a3db6f5b62a718e09,Kurt Stam,kstam@apache.org,Jul-24-2009
+71cd6d1c7aa02c2c353e9a0ed7e0b4c95f61238a,Kurt Stam,kstam@apache.org,Jul-23-2009
+6563cea256e982669290e3c3599a61175d0dae88,Kurt Stam,kstam@apache.org,Jul-22-2009
+cf97c921671408336148e37e38fdbcc6b4488989,Anil Saldhana,anil@apache.org,Jul-22-2009
+f0d678137f5b63a24904aed258c2eede2132a84f,Kurt Stam,kstam@apache.org,Jul-22-2009
+8bd49717bf28636e15c0dba82bc721a04eea2c12,Thomas Cunningham,tcunning@apache.org,Jul-22-2009
+523cc7c28eb1417fc48f53991452cf9870ace3ef,Anil Saldhana,anil@apache.org,Jul-21-2009
+8bbaddce963e6d2a7d0f6cb49fb5b11c3763e9b7,Anil Saldhana,anil@apache.org,Jul-21-2009
+b821df23e120a1038bd6c06f21568dd2c60e2bb1,Kurt Stam,kstam@apache.org,Jun-1-2009
+55f33676d4de5230ce51b220d5e55cd9f370e0ff,Kurt Stam,kstam@apache.org,Jun-1-2009
+44a9d4e4d7d1d146da0d229ae2692186c6513136,Kurt Stam,kstam@apache.org,Jun-1-2009
+e126a63ebc31109288c99f9d5e1d6aef76c0a6af,Kurt Stam,kstam@apache.org,May-5-2009
+20a3709e14c691f3d02ec8668c01b84cf8e34463,Kurt Stam,kstam@apache.org,May-1-2009
+66522a10bd828b72b9f4213c81ef32218c70bc6f,Thomas Cunningham,tcunning@apache.org,Apr-30-2009
+5bc86e13f3d937efdaa9b0b6c599f5fd6192b0ec,Kurt Stam,kstam@apache.org,Apr-30-2009
+bc7a4b26db2c23c082e69255d3972866b1ec6914,Kurt Stam,kstam@apache.org,Apr-30-2009
+4fe2283c7f3c96f7bf4c3bffab08abed33041a8d,Thomas Cunningham,tcunning@apache.org,Apr-16-2009
+d64a761f16babe4886500299501903a3e80e6e18,Thomas Cunningham,tcunning@apache.org,Apr-14-2009
+7217a8a3582d4ca24ea821e8838173fafa33d212,Thomas Cunningham,tcunning@apache.org,Apr-11-2009
+cb54f74e044c9993e54c1bc801972d25dd51d6a5,Thomas Cunningham,tcunning@apache.org,Mar-18-2009
+8a4da5108cd4e952ca90cf77cf4f8aa7a6647cc4,Thomas Cunningham,tcunning@apache.org,Mar-15-2009
+1f116e74a690a66bf15bf1ba3000e9704e1d5152,Thomas Cunningham,tcunning@apache.org,Feb-25-2009
+e001dc33ace582a6498ee7e3b6349ddcf907d6f3,Thomas Cunningham,tcunning@apache.org,Feb-24-2009
+359a451ed6aceb7d0e03ec0bde74c2085d52b768,Kurt Stam,kstam@apache.org,Feb-20-2009
+7b62ee2480b0230e7575e9a5d0abb4d635f88a5d,Thomas Cunningham,tcunning@apache.org,Feb-17-2009
+af56db71e7f427c2cc44fa8cfddb7c09bbfba5dc,Thomas Cunningham,tcunning@apache.org,Feb-17-2009
+ccb441136f7258aa7592678afaf949c7bd85ca8c,Thomas Cunningham,tcunning@apache.org,Feb-16-2009
+ca60ce294c3101f9bc3df8cb973b6ef35ba133a1,Thomas Cunningham,tcunning@apache.org,Feb-16-2009
+f266e1a199b8ff499f588d01ddc18268589f32fb,Kurt Stam,kstam@apache.org,Feb-8-2009
+83ad49c8806be16bda67ac22f00f3892253125eb,Kurt Stam,kstam@apache.org,Feb-8-2009
+576f4e70b23631f471daab0fff2b766b1beaaee7,Kurt Stam,kstam@apache.org,Feb-8-2009
+c96f269594df947af8584447363c3806156ba495,Kurt Stam,kstam@apache.org,Feb-8-2009
+dbec175ebaa7a3e20e706858b9aaece2d9ff2243,Kurt Stam,kstam@apache.org,Feb-6-2009
+a3a1a9aa6159aceec11c51a61de17bd88233b148,Kurt Stam,kstam@apache.org,Feb-6-2009
+d238c1d53528d9bfee6c1501e308757738ac19bb,Kurt Stam,kstam@apache.org,Dec-17-2008
+619e1c21e4f98c536d08d1a4360edc2dc170f9cf,Kurt Stam,kstam@apache.org,Dec-17-2008
+d71b75f1f05326d1e54ebc40c590c5ad02537b6c,Kurt Stam,kstam@apache.org,Dec-17-2008
+39298ff6e57dd36de40305094d8aff60d778b63a,Kurt Stam,kstam@apache.org,Dec-17-2008
+475a1c47f7caf4d28aeef9007b47e59b8d825f4b,Kurt Stam,kstam@apache.org,Dec-17-2008
+309b6218524b6f83b15bb8d176499a1a0e04ff89,Kurt Stam,kstam@apache.org,Dec-17-2008
+10123c61d22b792a867c1e7863e9119ec6f740ee,Kurt Stam,kstam@apache.org,Dec-17-2008
+0127926681949158acec3ba5b1ead89ea1c3bb5e,Kurt Stam,kstam@apache.org,Sep-11-2008
+22d63c7834a79868e979f25136318c1fac25d914,Kurt Stam,kstam@apache.org,Aug-28-2008
+c660fd7d925d793647103e792752d7b3202ca844,Kurt Stam,kstam@apache.org,Aug-28-2008
+d6c615cd83c97b6f71f2bef42542ea7614da7a2c,Kurt Stam,kstam@apache.org,Aug-23-2008
+a1b19b143d9c0705279608e7ba7a915f810221c8,Kurt Stam,kstam@apache.org,Aug-23-2008
+9a3060db47417a70be7f373f836b6f509de70bef,Kurt Stam,kstam@apache.org,Aug-15-2008
+33a6855f6e49a55f2f0fb2ec8504303135a44ac2,Kurt Stam,kstam@apache.org,Aug-15-2008
+1466525b0433f1d87728f3f1a6bf20cfce2b9b3a,Kurt Stam,kstam@apache.org,Aug-15-2008
+71cf3427411e1aaffeef82a46c12b67570d16da5,Kurt Stam,kstam@apache.org,May-30-2008
+12523a650903aaea00d74e42964e8de159bf46b1,Thomas Cunningham,tcunning@apache.org,May-22-2008
+72683f7b7f6d9f1562c1a8a7fd134f9093795691,Thomas Cunningham,tcunning@apache.org,May-22-2008
+8ed7a9511aef33376945a88bf3c7373208e66188,Thomas Cunningham,tcunning@apache.org,May-22-2008
+8aeced74b48e94f3de268872d1a206806d4031aa,Thomas Cunningham,tcunning@apache.org,May-22-2008
+bc9e8829800f15e33592c7f6bf902346b6dcbdc0,Thomas Cunningham,tcunning@apache.org,May-22-2008
+5417d27178b409927ce16ab54935eac83b086ba3,Thomas Cunningham,tcunning@apache.org,May-22-2008
+137658c6f5351843bfd8a4d27bf30543a095e0f9,Thomas Cunningham,tcunning@apache.org,May-22-2008
+aac456213270dbf974e6b5105e07aaf02605462c,Thomas Cunningham,tcunning@apache.org,May-22-2008
+bbf95b27fe1a495c7babce2357f0403ae5cf25f5,Thomas Cunningham,tcunning@apache.org,May-21-2008
+e6d17abb951f38f081b503d499189447c7cf7048,Thomas Cunningham,tcunning@apache.org,May-21-2008
+09071f8840231829ed0b1f05a46b983f0edfe52e,Kurt Stam,kstam@apache.org,Mar-19-2008
+9ef630559c5083fee408214f9d9bba23762898e8,Kurt Stam,kstam@apache.org,Mar-19-2008
+431f8aa6e730ba2e611431eb639de9002e2f39f8,Kurt Stam,kstam@apache.org,Mar-6-2008
+9ae21d1d68486bee550b27b8bfd9023e8d70a06b,Kurt Stam,kstam@apache.org,Mar-6-2008
+2e870f393dc9a1fdf3b00873852133d6f3b308ef,Kurt Stam,kstam@apache.org,Mar-6-2008
+4bc96cc0ab71ac8c62b6da8e30e528cfec83dd92,Kurt Stam,kstam@apache.org,Mar-6-2008
+7c7473a3202beb743413ec4466b00fbfb292b700,Kurt Stam,kstam@apache.org,Dec-21-2007
+047524b44b902f6db01833fb6f12b663cf0d16b3,Kurt Stam,kstam@apache.org,Nov-5-2007
+7ac53fec0ef38c49effdfcee339612b1704fc923,Kurt Stam,kstam@apache.org,Nov-5-2007
+604ef98c4621ae846aecc80192dcb1928ae5d89b,Kurt Stam,kstam@apache.org,Nov-5-2007
+0de4cd91c7486d2e50cbc6fb3246720fa5c02613,Kurt Stam,kstam@apache.org,Nov-5-2007
+11d7147269e2a1f7df25701ec62ad1aee44f61a7,Kurt Stam,kstam@apache.org,Nov-5-2007
+c772eed3f3a00bc2faade644a30ea6658d5a3975,Kurt Stam,kstam@apache.org,Nov-5-2007
+b465d8457af839617055988cb71c104841c7e5ce,Kurt Stam,kstam@apache.org,Nov-5-2007
+93f9be8618901ce69a063793ddc11f96baaa2f98,Kurt Stam,kstam@apache.org,Nov-5-2007
+f6f6ebb9778aee0c8675a116cbe73efd1045cf85,Kurt Stam,kstam@apache.org,Nov-5-2007
+8ad524bdb46a9b93701479487bdaf8484ee6cc2a,Kurt Stam,kstam@apache.org,Nov-5-2007
+ef13fe6b4825cf5905f5ca0d5d267c4d828f3f31,Kurt Stam,kstam@apache.org,Nov-5-2007
+e8f3a8119f0be0bbd449e40823f4a0e7c136d8e6,Kurt Stam,kstam@apache.org,Nov-5-2007
+4f18244e8f2319cef6a436c6d2976ea8b49ef649,Kurt Stam,kstam@apache.org,Nov-5-2007
+9ce64728a2628ffee7772a869a282080c9f526c8,Kurt Stam,kstam@apache.org,Nov-5-2007
+ab6c6d50fd31249e9b90b28bd549a2f151ed5604,Kurt Stam,kstam@apache.org,Nov-5-2007
+201fecb85579f6ef4d7c71774a1ae195cb64fbfd,Kurt Stam,kstam@apache.org,Nov-5-2007
+fe4c4afcded20c9cf74e02f5a9093007335969d3,Kurt Stam,kstam@apache.org,Nov-5-2007
+4d4463958378ce5aaaa9f5cca0abe29fab52e6b1,Kurt Stam,kstam@apache.org,Nov-5-2007
+6621895f79658c5b5439ca3342f429cd3498f3e2,Kurt Stam,kstam@apache.org,Nov-5-2007
+85c1330fc64d908281c551604baef3226d735811,Kurt Stam,kstam@apache.org,Nov-5-2007
+4a2a94aa3a1251cd08cb979f2df807ffc65a845d,Kurt Stam,kstam@apache.org,Nov-2-2007
+ac1c17384d8ce1a3e8df6dffe5ec9da148ace718,Kurt Stam,kstam@apache.org,Nov-2-2007
+bd13c30719b1b6a461388bd7c7a462f5f2199a90,Kurt Stam,kstam@apache.org,Oct-26-2007
+21d997ab3a12a08882e52428788835d07eb617c4,Kurt Stam,kstam@apache.org,Oct-26-2007
+7a3f5bec396c248eeefce7212584f0361139d644,Kurt Stam,kstam@apache.org,Oct-26-2007
+59db660c7e6b24ece89ee9b6f0dc1ac33f60e6a6,Kurt Stam,kstam@apache.org,Oct-26-2007
+872aad7d596cff9329812fe4ba6ea193a09e3528,Kurt Stam,kstam@apache.org,Oct-26-2007
+0fb2c49315098c0c6dab9f29bb70d64e7db0a3db,Kurt Stam,kstam@apache.org,Oct-26-2007
+bb40e9791dc6c83f9c48e30cce950b2b91ceda46,Kurt Stam,kstam@apache.org,Oct-26-2007
+f96a97d68381c4c7d810e16a8edc3f014c9b2caa,Kurt Stam,kstam@apache.org,Oct-26-2007
+cb32fd2e6e0627a093680ed844b3b95202f2509a,Kurt Stam,kstam@apache.org,Oct-5-2007
+d23791b5b8f47efaeaa75a5e41e80e8dfe56eaf5,Kurt Stam,kstam@apache.org,Oct-5-2007
+0583b3d075ba1c17707288f05baf245a030e2161,Kurt Stam,kstam@apache.org,Oct-5-2007
+898188b1ef85a4c082a889a42feaf351f75e7c96,Kurt Stam,kstam@apache.org,Oct-5-2007
+7164df1b87ee8cca48f96c828ffaceb23823ec15,Kurt Stam,kstam@apache.org,Jul-27-2007
+c4b199766c74d00f04de5d8bcdcaf94e87597bf4,Kurt Stam,kstam@apache.org,Jul-27-2007
+385d2b3f7b3d1ab0bbcc120cbbac3ff406bffcdf,Kurt Stam,kstam@apache.org,Jul-26-2007
+fc451f695f65f7f7cbbe0ce9d1caa1f140773476,Kurt Stam,kstam@apache.org,Jul-26-2007
+f77f1108bca322b8b0d1b98ce4a63bf79a239dce,Kurt Stam,kstam@apache.org,Jul-26-2007
+78f58f0f404ca40201f8591b0654a2ba36ac74bd,Kurt Stam,kstam@apache.org,Jul-26-2007
+4a0a3e5ac63593dcc262f4ce173254ff10b41bc5,Kurt Stam,kstam@apache.org,Jul-26-2007
+42a2fd6fe8c707f7d06546dfd426a40329fd9f8b,Kurt Stam,kstam@apache.org,Jul-23-2007
+3f1ffc7c445998bb0b7b9a77165c8f8229ed6bb1,Kurt Stam,kstam@apache.org,Jul-23-2007
+244142a289b1f899b8703225c38d73b56eea64eb,Kurt Stam,kstam@apache.org,Jul-23-2007
+8c65f88441422e0714afd9a89ece902064d835a6,Kurt Stam,kstam@apache.org,Jul-23-2007
+c802d013eaebfbdacff9b420418734a92e649365,Kurt Stam,kstam@apache.org,Jul-23-2007
+e0f7a676136211582d6a7acf4ecd8dd48acfa1e0,Kurt Stam,kstam@apache.org,Jul-23-2007
+154cb2a08ab2de0f07f8978a22188477b14a9123,Kurt Stam,kstam@apache.org,Jul-23-2007
+76120e1dac26fe2675291980478c7bf9055d6c8b,Kurt Stam,kstam@apache.org,Jul-23-2007
+386813a867743d36bc174fb610c35fd67c054353,Kurt Stam,kstam@apache.org,Jul-12-2007
+9e46b5e0d03a177e39279a1203fe7eacb3ec090f,Kurt Stam,kstam@apache.org,Jul-12-2007
+895edc4e214490ce36e97f7161004857947d327f,Kurt Stam,kstam@apache.org,Jul-11-2007
+a5719686543561fa25d6a227dabad1c158dd1b8b,Kurt Stam,kstam@apache.org,Jul-11-2007
+ad1a924dc78740ce5f03833450a2e731febac17d,Kurt Stam,kstam@apache.org,Jul-11-2007
+13c27fa6cb69518dc3f5369ee54cf55788001654,Kurt Stam,kstam@apache.org,Jul-11-2007
+cba1525abda96269a9ecd36024ea9131516c6ea8,Kurt Stam,kstam@apache.org,Jul-10-2007
+2bdc4a37155b7e4c8c41bce9eadea2cbf809a8e3,Kurt Stam,kstam@apache.org,Jul-10-2007
+3c1f29ab86bc167dfad0b24d0470765fbe60c0bc,Kurt Stam,kstam@apache.org,Jul-10-2007
+6f7339182835c5068fa573faab4204fd7c038422,Kurt Stam,kstam@apache.org,Jul-10-2007
+b8bda94a5a86299628ec20054bfac1546a84c5df,Kurt Stam,kstam@apache.org,Jul-10-2007
+e4ca929064d425b0508445984bc428201f2433de,Kurt Stam,kstam@apache.org,Jul-10-2007
+40eff6ed015fcfb74fb4f251ceb2122387582f11,Kurt Stam,kstam@apache.org,Jul-6-2007
+8d53f086f9f8b85ec4c06e3e4b6b41ca8356ecc9,Kurt Stam,kstam@apache.org,Jul-6-2007
+a9c106d9749615ed8163ba0ab076d085304003de,Kurt Stam,kstam@apache.org,Jul-5-2007
+2e2a16e4d3ad221875231fed3f426cbca5d7fdc8,Kurt Stam,kstam@apache.org,Jul-5-2007
+fcf963b4dd7d5d0b79de37e45d19ff5aa15608e8,Kurt Stam,kstam@apache.org,Jul-5-2007
+67a6d0f6136cece18ecc0db237622c730429cbbe,Kurt Stam,kstam@apache.org,Jul-5-2007
+26ad3d9411d1333e963c0688b762ce841c429fdc,Kurt Stam,kstam@apache.org,Jul-5-2007
+662f19b8a65bad6a38a908f4fe986d62b0c560dc,Kurt Stam,kstam@apache.org,Jun-30-2007
+a2dc4246732366df787f95019ae2abfd2fd76a34,Kurt Stam,kstam@apache.org,Jun-30-2007
+5d989ba25c5750252fbe8e82e7547eca03c86b32,Kurt Stam,kstam@apache.org,Jun-30-2007
+3935718ea23ac877ec7c7a3fce99928aac3db4f8,Kurt Stam,kstam@apache.org,Jun-29-2007
+2e3166860dcf915317b950d01445ff5a6de38413,Kurt Stam,kstam@apache.org,Jun-29-2007
+92059db34fb6033a22092fecb38256335b1f85bd,Kurt Stam,kstam@apache.org,Jun-29-2007
+042fc936b89971a89c3fb57436fde5c1f6640339,Kurt Stam,kstam@apache.org,Jun-29-2007
+277665016d18ba5ac86a1d9e75f0835d499c08fb,Kurt Stam,kstam@apache.org,Jun-29-2007
+b03abb01e87b2e79e3150620557451742bb16a85,Kurt Stam,kstam@apache.org,Jun-29-2007
+93b3dbb39404ddbff6fac73270ad6f965e5d4117,Kurt Stam,kstam@apache.org,Jun-26-2007
+6c48482b25fb1dfc92d0f2d36a5eb34808264bdb,Davanum Srinivas,dims@apache.org,May-15-2007
+645194b23a533d4df59daf0ad03900b91958eb77,Davanum Srinivas,dims@apache.org,May-15-2007
+5cff5bf17ef76ec13a9713ff2418ccf43564a881,Davanum Srinivas,dims@apache.org,May-9-2007
+caa0e6ac44251700885f7882cddfa14c3ed390d7,Davanum Srinivas,dims@apache.org,May-9-2007
+88f7e0ece49ac45735c80d76203b292dfd771366,Kurt Stam,kstam@apache.org,May-4-2007
+b0c69e2437d9f383553ed897212e5cf8ecdb15fe,Kurt Stam,kstam@apache.org,May-4-2007
+3485c279aa3254aceeac57888c3798de8afd03e4,Kurt Stam,kstam@apache.org,May-3-2007
+369295a6dc2e09b7fcebdc3c6c98003b314b7844,Kurt Stam,kstam@apache.org,May-3-2007
+011bbd9cbd20ca45c03124d8cf1e6c95689cb7fa,Kurt Stam,kstam@apache.org,May-3-2007
+1f7061ba816d3310a2897ee753bf2c7427e9e69f,Kurt Stam,kstam@apache.org,May-3-2007
+61e4d2885fa839ca1778af9333d2bf811ac58cf8,Kurt Stam,kstam@apache.org,May-3-2007
+af0edaa1c0b9bb6fbd481cbda7531fcb483a9c2b,Kurt Stam,kstam@apache.org,May-3-2007
+c9a15b6152e5d146382219d6b53b39d2b8a52c59,Kurt Stam,kstam@apache.org,May-1-2007
+296ea381069bca42adb3d25945cb3a28be0c4518,Kurt Stam,kstam@apache.org,May-1-2007
+8b2bf56179016dab427b0f55071fc7e98cb4864a,Kurt Stam,kstam@apache.org,Apr-26-2007
+2003286a90708e86e966499d88045f61271b3e86,Kurt Stam,kstam@apache.org,Apr-26-2007
+6c5d7abc99916c805e2c2aefb8581982e40246d5,Davanum Srinivas,dims@apache.org,Apr-12-2007
+edf04b0e081588798a518d79b31f50510263f6d9,Davanum Srinivas,dims@apache.org,Apr-12-2007
+0bc0aaade62eeb1cca850916ad6271d1b6a2367a,Davanum Srinivas,dims@apache.org,Mar-20-2007
+43852aef330921851486b853fb7fd42f9ce80798,Davanum Srinivas,dims@apache.org,Mar-20-2007
+e3ae4bd36778098846d5f484ec91c0d91b7c04cc,Kurt Stam,kstam@apache.org,Jan-18-2007
+fc4f3ad2198fb6ceeb06bf468516fe1333fca704,Kurt Stam,kstam@apache.org,Jan-18-2007
+3e9f1a7da68634fcc17967ba3e6a696875c0edb3,Kurt Stam,kstam@apache.org,Jan-15-2007
+ae1e1a8fb796203ee4ab2ddaf8132fba96d648da,Kurt Stam,kstam@apache.org,Jan-15-2007
+9d1d5d12bba9393a4867a41183eafb89436a7fd3,Kurt Stam,kstam@apache.org,Jan-15-2007
+13c27c10f7a49eab725cdf69dc4464982f6af736,Kurt Stam,kstam@apache.org,Jan-12-2007
+616dbb34ae733cef6ed73122676ce3633b3b62aa,Kurt Stam,kstam@apache.org,Jan-12-2007
+3c03282e38e5db4384215f05bc671c4710715617,Anil Saldhana,anil@apache.org,Mar-28-2006
+c39048addf73f6ddcf5d209f120c0c98df289e59,Anil Saldhana,anil@apache.org,Mar-28-2006
+21d56d12c431b2b4c0934cde3d918f36249ab119,Anil Saldhana,anil@apache.org,Feb-18-2006
+88eac4b35c4a3e22ae5621d2f268611a0104abbb,Anil Saldhana,anil@apache.org,Feb-18-2006
+ff6996da2c325438b2a2a13d226c39cb53d6083c,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+14701e71f5efa4148d32da2ed0d8025b6cdd943d,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+401cb5c48877f8433380befb12f0087d405de000,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+6dc7313ab972ca8a26acc8d6b68ab529f3bbf242,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+ddebd89da0e9ca439a7daac47754e6c381217e55,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+f1148ed61e35fb15300b6f0e6d7144ba55b3cd20,Deepak Bhole,dbhole@apache.org,Jan-17-2006
+61618b51f27d583aa9d3c79a7117afcb00a5f1e3,Geir Magnusson Jr,geirm@apache.org,Jul-30-2005
+f3b09fd4895ea3d279fc3e846d15f43a79239afc,Geir Magnusson Jr,geirm@apache.org,Jul-30-2005
+dd0cf4eed8ac43e13ec17e2e6927a2295108087b,Geir Magnusson Jr,geirm@apache.org,Jul-30-2005
+c705471e10a3055ab431b4fed6930122f30335d5,Geir Magnusson Jr,geirm@apache.org,Jul-29-2005
+a819caf093e28de583ef047ec0c36579c7133d8a,Geir Magnusson Jr,geirm@apache.org,Jul-29-2005
+734ad7ede9c7a25be438bfc772869bc85f7708a5,Geir Magnusson Jr,geirm@apache.org,Jul-29-2005
+a9529edeeb5049e0247826a53485dcc42ebddd87,Geir Magnusson Jr,geirm@apache.org,Jul-28-2005
+a51445407acfa4b0e7a8e0083fc87a5ad025e740,Geir Magnusson Jr,geirm@apache.org,Jul-28-2005
+80fd8c9aeea2b5ddbb3b5c73e5eaf84f6ee1277f,Anil Saldhana,anil@apache.org,Jun-16-2005
+ce78edf239f405baff6a07dedbb66b880fef87f2,Anil Saldhana,anil@apache.org,Jun-16-2005
+4461b7bcf5aafcce2a2f1232faf4fa3a0e2a7a1e,Anil Saldhana,anil@apache.org,Jun-16-2005
+9b8a8217bb35b5b064d90ecc53ff1ac889897365,Anil Saldhana,anil@apache.org,Jun-16-2005
+0e0b3e86ba975bb74abed8e97214b14a2c8c09ae,Anil Saldhana,anil@apache.org,Jun-16-2005
+e153d240984e0250ec9a3729188af74881c30ab7,Anil Saldhana,anil@apache.org,Jun-16-2005
+506dd544ce182257ef890a9ab97d9d303d199ad4,Geir Magnusson Jr,geirm@apache.org,Jun-13-2005
+d0814c29e7eee82184f1479f1b4e11b8b10b5408,Geir Magnusson Jr,geirm@apache.org,Jun-13-2005
+f47ceb8075ca4e71ce0ecbcc0f351f3783da32a4,Anil Saldhana,anil@apache.org,Mar-10-2005
+3a0ef0f55d75f8c6aa4e417496f89eb7af40ba33,Anil Saldhana,anil@apache.org,Mar-10-2005
+15f9682b8cd6464670fc5de657020e5d52d66e87,Anil Saldhana,anil@apache.org,Mar-10-2005
+1791e2708ede5150aef40bbcd3721b9b7f275843,Anil Saldhana,anil@apache.org,Mar-10-2005
+25a076e429d091c90246e4db2675df4a084fed45,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+7ac5c9095910cd0237fb2bc4d18b55f9e5e96bde,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+69fd0f143a5fd2c7765e50a22d880167b3c46976,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+660c32e3796a0aa3519070149507fc995a75e543,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+a78cd2b51b3de8db2e8ff6442f419848dddf7459,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+d9256ca9c34243bde982a7604750d22588b7600a,Geir Magnusson Jr,geirm@apache.org,Feb-12-2005
+b77dfacc7df0a16b790a109f27073afc05d7628e,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+735e9cb6bcfeba7f8958cec076eca6d398613b52,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+cf3dbe2585e499182fe9fc13d8f6f4f4b6c9297b,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+f18bc3c319c8b732de17bada2fc6353b3cadf9df,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+17f824976ef2fad97bc0bae6b7601c8b5bca17b8,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+fa02ca352412b3d57cd3bf5c7b648ddcf3dd6563,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+60389d837649ddcafa31c236ad78985db75021a2,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+bc68f5a90259e65b45e89f77a08d48b958837fe7,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+b89672bacfaf61789be81226b4b2dd904b19cb96,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+7bbb5d7dc28a340a84c950750b00f23a09470c72,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+7a2532761f8a18bca79bd807bfa2a1be0f82ddc1,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+6f0caae28de5b1b2f6e6b7c84703e9da0354deef,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+f093a95cc31b037ab7f12fd456db255dc260a63a,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+11bdac66c17ba33dc780e4b7b0a4131acbc3cf4e,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+9ab828cf6b4a5712fcc8e345e31e1ca7a0b698c2,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+44e1b4f594a72b7adebba8acdb428653d0573f2e,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+ef33a89099be16e8bde5b545d87df360dac63ac8,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+d1ef65dbe172c0c8f72e123c1f65382678319634,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+2f88d7d4d5d01876ead1ca21514c77d7a20baf39,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+26348677e5322c584bf707bf131d9e1cce695c0f,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+7bd5d4243cc0e440678db0cb9c423086de0c6a4a,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+63eba3412e4446c70d28dd1d995452aaef224d09,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+b78e28bacbcd82e75c71bde243b0d159fd666c88,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+fbb4d2db53faebeb0d906937191d649fb1564eb5,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+74a3575645092299675a596b12084dd40561fd17,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+1a17a554e16d4903f99ae79be0df52c6d27a4d3f,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+0186c2ac3c7252d50c482cb91e5a0d332f012b99,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+52283022046320d1a07f8ec0fe6d7b972278daf4,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+310fa11eb924bb5ff719c4ca87aaa1676d9c0ef4,Geir Magnusson Jr,geirm@apache.org,Feb-11-2005
+dd5441bbca3faf5470a8325e26f2b1e9f3b0de73,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+bccdb6f8fd2cfdf4af4ce7e5d32382607b3530da,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+65e5d4007db76ec8db61bf2f78ad6c075cbd003b,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+e9531a426aa8d6f4d1bfd6f42f8f5c0a04e0a0bf,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+90f443e20e98617c0b0d3e2ac98d94cc30a7faa8,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+c5eb0670b875fd1ae036be2d9113ba1fdaafb56d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+ca148e5707b2d22b8553e1950921ecc98731929d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+db94fc4f09501cc72c92815cff05719b66de918d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+48704e8b32a64dac431e5a88c289e93e309f1665,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+8e016642f389d2dd6cff87eed08e330d1225262d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+f034b67674e59f0b0c5fd7eaf6b118e7b3351b18,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+9e3de784be6bbda8edc143a99519a91a9cd0f91a,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+5ef26fcca4d00a7526f69ceb5639f0b7953915ed,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+c508d5622f9e460ee26463884f46c7339dc606f7,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+9e7acf9cf49f810af1e0910b8765c46c26bbea5f,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+7b5a69d38ff696dc32e57db5eec0bf665ca402c5,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+50e4ce00ccff0e56fadd02dd958c322941800a13,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+e95f08cdc39fabe9a21a296aed15fe5c95a49adb,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+44089378d0d8557a3fd05e9452b5d152dee572c5,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+f01abe509c4e9588f4f9b3bb86123f283b53f421,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+32f839d6c5689fa2667af33ad95a5192d9930286,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+2dcf1ec1d5d6ed42f6607fa3cc6ffc775648c9c0,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+ccd39ec7f36f683d4e99b226b4681067376a7357,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+a5f97cafa8869f2247546cca5348046626904021,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+cced363b5164926fb608af6eb1d9aca9e73f0902,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+6ef0e0e915ea46c5224dc02ba6b9c6c019afbcb7,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+f80da8d64cc7ffc019b6de9ca9c155b58f02f246,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+8efd04bff6346926c72d263f6f44677ff409cf68,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+81e1fd81729cec8c8c9cf52907fe4d40081d4fe7,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+e8425af78f8fe868cd2e4e185470293086093904,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+5075b067e5c27300a21cb844511bd28c80a6f3e1,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+a26b10edbb5ae02e32b56778ea1701e78aaaa507,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+5057f90e4961506271a3d6d9f653236a71a22b8e,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+cc15fde099b729cca189ac44e729efb0fb714c37,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+0db26e14383e4d7cf96502757b80e90e11560d5d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+31ecf7a630c1e11f2a9adf614df06651f4d92f35,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+85873599e6a770360d914e6cd8483110bef25ebe,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+9cd90cea5328d9f85d802e0da754eecac3c56873,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+b6ddd10d90ddd83e5a7b85a4d192b479dcc54ad1,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+e646fe57380b8cbefafb8cf77c3e238c8d0c634b,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+2d4440fad44e86d22680528ea3ed3f64d4727603,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+74b44514d70d63b710c7eb4d73fbb393d7db8bf9,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+f6c7335843687293ca600995129753a918624ab3,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+d38c9741c9bfadea6c1fef1a84b842884b1d4dfc,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+ec702f8a10fed4ef2bd707531d5898658e780a0d,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+a2392b536b9fc464a41a7607d71c226c7316496e,Geir Magnusson Jr,geirm@apache.org,Feb-10-2005
+9039dd47af3bc91525d1056a3276892937b18d7d,Davanum Srinivas,dims@apache.org,Feb-8-2005
+83432d71ebeb1f8eb5bd0745d833edac17d23ce6,Davanum Srinivas,dims@apache.org,Feb-8-2005
+90fcfd1e7a9bdd2f09da2dd8d59220816805629c,Anil Saldhana,anil@apache.org,Feb-7-2005
+aef7afb5d5b2f903dc67932de8a899c00dcaa5c2,Anil Saldhana,anil@apache.org,Feb-7-2005
+5b01ed1a9c5a2dda214fdc564bc99b3ce85462a0,Anil Saldhana,anil@apache.org,Jan-23-2005
+b795cc9aaa9c5b6a1c6414b5ca851db5532db581,Anil Saldhana,anil@apache.org,Jan-23-2005
+25954ae16e0aa3f383ab89abd181d91e34fa2edc,Anil Saldhana,anil@apache.org,Jan-21-2005
+4d2851c50af22eecb8252eef12cfe0f00f0b5411,Anil Saldhana,anil@apache.org,Jan-21-2005
+bb30368bd1e3df45b42b4b6d188374563052746c,Anil Saldhana,anil@apache.org,Jan-16-2005
+7c2d1a543ae1ca3391a5b39bbe397b5f4b46140c,Anil Saldhana,anil@apache.org,Jan-16-2005
+0611f8ad59c7b0f20cf74773ecaf749327817fba,Stephen Viens,sviens@apache.org,Jan-7-2005
+c79365f26afcafd849f9af15dc855972fe848817,Stephen Viens,sviens@apache.org,Jan-7-2005
+a76ab5040e77a8d678dbb396c72dde0968fe7df9,Anil Saldhana,anil@apache.org,Jan-5-2005
+2ad726bb08ba2ae31a3afbcb22b0ce658fe4a780,Anil Saldhana,anil@apache.org,Jan-5-2005
+275170f55991161f04462af07d46521d38e1c91c,Anil Saldhana,anil@apache.org,Jan-5-2005
+038a38087181b418a432cf32faa7f1177af09eef,Anil Saldhana,anil@apache.org,Jan-5-2005
+1df1f1ad4cc53aa8634c3f17981519455197563d,Jeremy Boynes,jboynes@apache.org,Dec-26-2004
+ea4c67574aee95e54e92098f6ac0c3a312a4dc05,Jeremy Boynes,jboynes@apache.org,Dec-26-2004
+5e1344144265f24bef5e127fffebe5394e778827,Jeremy Boynes,jboynes@apache.org,Dec-26-2004
+c263246dae889e8b03581cce26de257a9ed0eb0e,Jeremy Boynes,jboynes@apache.org,Dec-26-2004
+f7f871c1ac9ae842cb18c47f2cc3fdfe8bc925e5,Jeremy Boynes,jboynes@apache.org,Dec-25-2004
+38cc0ceefb0d332858f6cf1191d4d711824444e2,Jeremy Boynes,jboynes@apache.org,Dec-25-2004
+d15e7cf1f022f248b225538edadb9a740eb93b4b,Anil Saldhana,anil@apache.org,Dec-24-2004
+d85a5a303fe79860089d4cb60f172fc42ada0b59,Anil Saldhana,anil@apache.org,Dec-24-2004
+a65eec71b0d07ee189443a7c9a8d5916dbee82ed,Anil Saldhana,anil@apache.org,Dec-24-2004
+0367974b0ea1697a3bc0c932c8ca943e6ec498f8,Anil Saldhana,anil@apache.org,Dec-24-2004
+75847210a0a2783244080775018e16ad0407d3f4,Anil Saldhana,anil@apache.org,Dec-23-2004
+c3841887a0010cfe630b075e011283a3022db3e2,Anil Saldhana,anil@apache.org,Dec-23-2004
+758018dbce167cdb0ef734e238438156288fb153,Anil Saldhana,anil@apache.org,Dec-23-2004
+b7cba3a13d0deac32684808d8a9759b2c0b91400,Anil Saldhana,anil@apache.org,Dec-23-2004
+a4264cb42287e82216a3785a088ef5ed48617024,Anil Saldhana,anil@apache.org,Dec-21-2004
+b08ac667dee05d374e5a8ce1836ff78489c6da7e,Anil Saldhana,anil@apache.org,Dec-21-2004
+45b6a9eae991141c78fa6aa0936d05506eda940f,Anil Saldhana,anil@apache.org,Dec-21-2004
+7f894e589bfc60abb77a999d8a54089e95c003cc,Anil Saldhana,anil@apache.org,Dec-21-2004
+8c7e446d3c32b2acd2b9bfea477cb62ab469a169,Anil Saldhana,anil@apache.org,Dec-21-2004
+4c39b8bab9ab4fedb3095c34f98d7deee7f94a44,Anil Saldhana,anil@apache.org,Dec-21-2004
+04c5eddfb70acc5a1884950bd82860e80e24ed25,Anil Saldhana,anil@apache.org,Dec-21-2004
+ecf0e23f5eddbe0da29de9d31c9b3491e48d7227,Anil Saldhana,anil@apache.org,Dec-21-2004
+ce6a2bd23f135a40e92032244f293f6c38bf1c00,Anil Saldhana,anil@apache.org,Dec-21-2004
+63c87f11f368f22f7cda4baeb64d30137028be7e,Anil Saldhana,anil@apache.org,Dec-21-2004
+096044c21f076f61dfd19a531d0427ab059be382,Anil Saldhana,anil@apache.org,Dec-21-2004
+d6dacb8dbff2cc84f1c5fe8bba7f3969ddc4b13a,Anil Saldhana,anil@apache.org,Dec-21-2004
+d39c263bc4e33393f7ce77d27f87ced4d330521a,Anil Saldhana,anil@apache.org,Dec-21-2004
+a505ad22b63eb7f5b8adba738e9a59d5589e51f3,Anil Saldhana,anil@apache.org,Dec-20-2004
+a1d74bc06e51d7836859b066240b0879b4735eec,Anil Saldhana,anil@apache.org,Dec-20-2004
+69d230d4ade9921754919dbe4636a1a9d9b8d6fa,Anil Saldhana,anil@apache.org,Dec-20-2004
+1ae3dc2bfe1036763dd1a5639366ca977b457d45,Anil Saldhana,anil@apache.org,Dec-20-2004
+058f7630b4f4a58b6fcacce42092484b9d22c694,Anil Saldhana,anil@apache.org,Nov-10-2004
+b2f585aa027c73ea2aa3495cdbb987319a08aa1d,Anil Saldhana,anil@apache.org,Nov-10-2004
+1569cc9ae7048f8683823dad5e34a6b2ed0432da,Davanum Srinivas,dims@apache.org,Nov-10-2004
+4aba64490d07f3e53daf806b770ea2bcee27d176,Davanum Srinivas,dims@apache.org,Nov-10-2004
+bf8c607492784fd3895fae30fe766cd9b235255f,Davanum Srinivas,dims@apache.org,Nov-10-2004
+aaab8d152b96308375c2831060e0af172d83c356,Davanum Srinivas,dims@apache.org,Nov-10-2004
+aa14e99853491d45460201989871feb61415997b,Davanum Srinivas,dims@apache.org,Nov-10-2004
+433e6e3f52ee9a055a15e68df1794a9aba19eb71,Davanum Srinivas,dims@apache.org,Nov-10-2004
+4be84901307a2b4d6c8e27c93e49ba212ffd9112,Jeremy Boynes,jboynes@apache.org,Nov-10-2004
+2fcd238104d9be48107c69ff5b26f2aed8e401d1,Jeremy Boynes,jboynes@apache.org,Nov-10-2004
+856aad9ecd730447c5163f4a8523063d6f360a6b,Jeremy Boynes,jboynes@apache.org,Nov-10-2004
+e6896409595ad934c17a19d38410934a0ee3435e,Davanum Srinivas,dims@apache.org,Nov-9-2004
+1a5d11aa58d169f23ef1749ecff596f6446c0d7c,Davanum Srinivas,dims@apache.org,Nov-9-2004
+f842edaf47ce4ac8bc8e9d1001e4b227669d148f,Davanum Srinivas,dims@apache.org,Nov-9-2004
+e39c2411504781926eeeb13697269a4abb7aac5d,Davanum Srinivas,dims@apache.org,Nov-9-2004
+96c5d4c1223f634f90b19b844e1fbbaf57e5b319,Davanum Srinivas,dims@apache.org,Nov-9-2004
+b05f58e66cf0a9eb40485f3a9af2746fbf9c658c,Davanum Srinivas,dims@apache.org,Nov-9-2004

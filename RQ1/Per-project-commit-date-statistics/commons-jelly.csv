@@ -1,0 +1,1946 @@
+commit_id,Author,Author_adress,Date
+d1b877969e943da7b78f6d747dd0ff1076407f46,Sebb,sebb@apache.org,Mar-9-2021
+cb8e78a1eb0d7e90c5715f432578b8fc92a4afb9,Sebb,sebb@apache.org,Mar-9-2021
+ae04dbd05fb71a19a745698b0cb67c6ab47216d1,Sebb,sebb@apache.org,Mar-9-2021
+baa473155c7c86563b819dbe303c7599d9b474e6,Gary Gregory,garydgregory@users.noreply.github.com,May-26-2020
+22cd6b7a94e08d11e009b8da7af9b2af0e734871,XenoAmess,xenoamess@gmail.com,May-26-2020
+1704d00ea5fb368d87d7bc3e6f8fe8339321d57e,sebbASF,sebbASF@users.noreply.github.com,Aug-15-2019
+48c008cc2328402e0976295625b32c5197ba2324,Rob Tompkins,chtompki@apache.org,Sep-27-2017
+19ad9a8bdb77bb8ae717345c5ac58a143e15c822,Rob Tompkins,chtompki@apache.org,Sep-27-2017
+5b111dd43475dbdd3cfa9567600109bb8b30519c,Oliver Heger,oheger@apache.org,Sep-16-2017
+57a45153a8b2674f641f01d30ac2e788ead7b714,Oliver Heger,oheger@apache.org,Sep-16-2017
+2acac22c01c15b71475636ca5c29aed13c1a3a75,Oliver Heger,oheger@apache.org,Sep-16-2017
+3f5f1c32f06ec6fa2ecb4287847f4e6bfa81e1ae,Oliver Heger,oheger@apache.org,Sep-16-2017
+123687c7bd20a5ef5f9f19787df643fbf7bf7fe5,Oliver Heger,oheger@apache.org,Sep-16-2017
+f5dca1d128e6fd5573a5999800c38131bdfb11e7,Oliver Heger,oheger@apache.org,Sep-16-2017
+2671b22c2e91134d7d4189ac93e789ca8fbab505,Oliver Heger,oheger@apache.org,Sep-16-2017
+45da107432ebcfd0a9e45a5c55e7f877a8aa0dfc,Oliver Heger,oheger@apache.org,Sep-16-2017
+69bedae4a79b291565dfc6151fc5ab05ba95bb8a,Oliver Heger,oheger@apache.org,Sep-16-2017
+5a1807c25983968995e31fdd3786c883ce2cfc56,Oliver Heger,oheger@apache.org,Sep-16-2017
+c88389435967aa749f785cb50e98d6fdc04549e2,Oliver Heger,oheger@apache.org,Sep-16-2017
+480ce787ed07a6d5b307677a23125affe1c545b3,Oliver Heger,oheger@apache.org,Sep-16-2017
+c42966b65ee506fd4b812efbb06b66b74c49cf1d,Oliver Heger,oheger@apache.org,Sep-16-2017
+ff421701e74f3037c306493ede0f64e18a3bf01f,Oliver Heger,oheger@apache.org,Sep-16-2017
+a04eadf215542877119a7b4806c74bb5721a1fe7,Oliver Heger,oheger@apache.org,Sep-16-2017
+cee02f77e58373ecf476b3e14f067245af91b425,Oliver Heger,oheger@apache.org,Sep-16-2017
+d5900f7effda2f688273bd586d05693e46cdf80e,Oliver Heger,oheger@apache.org,Sep-16-2017
+45aba6102e7f834f5eef52c187d7164cb788a0f2,Oliver Heger,oheger@apache.org,Sep-16-2017
+b0b0ada874a7ebdcfacce6f3de7f739b29c9d025,Oliver Heger,oheger@apache.org,Sep-16-2017
+6e580689f8655f44ef259d525e9eaa554bc22ba0,Oliver Heger,oheger@apache.org,Sep-16-2017
+76940cf29b2c3340463e3b3b9eacea3683d3c10e,Oliver Heger,oheger@apache.org,Sep-16-2017
+508602317f3485ef876ad99732b7ce81c9284729,Rob Tompkins,chtompki@apache.org,Sep-1-2017
+e3ec3356ed733f25b2840542b29d77aff6cd5c7b,Rob Tompkins,chtompki@apache.org,Sep-1-2017
+a4fb9a05a1bd0501b8f442d50c06b0b9f07ab991,Pascal Schumacher,pascalschumacher@apache.org,Aug-11-2017
+4fefcd54a55548c8e2342f41e483c35c72ccc119,Pascal Schumacher,pascalschumacher@apache.org,Aug-11-2017
+9b03ba5ead1cafb511ae54fd66d86ec82bb11bcb,Oliver Heger,oheger@apache.org,Jul-5-2017
+4612b6aca505cd77eb7aeb46cb9b1375e0df8445,Oliver Heger,oheger@apache.org,Jul-5-2017
+2b28b7e29866a0d35b802aa35a505ef5514c161e,Oliver Heger,oheger@apache.org,Jul-5-2017
+6dfd87c85ff91c1021ed98a06c3bde8eafad5119,Oliver Heger,oheger@apache.org,Jul-5-2017
+08b13c7caa432b2a09b0469bd32881a9e21da7d4,Oliver Heger,oheger@apache.org,Jul-5-2017
+30ac9f55ac7d90424206484cbcca795b71a42226,Oliver Heger,oheger@apache.org,Jul-5-2017
+9cea90cf207ee0627270afe7726e4d11db320639,Oliver Heger,oheger@apache.org,Jul-5-2017
+f191c7312edeccdd5d794db374a2b5cc97364b17,Oliver Heger,oheger@apache.org,Jul-5-2017
+23568797494312e15bbed558efcf406721479a8d,Oliver Heger,oheger@apache.org,Jul-5-2017
+76018f65a6826e679a24e8583d8247fe683b87b3,Oliver Heger,oheger@apache.org,Jul-5-2017
+3bae6f0a22f67eacfdee37b7ff9d8d22a2b0279a,Oliver Heger,oheger@apache.org,Jul-5-2017
+b5d3879685a46baaed39baa312f1f86b5ab53a49,Oliver Heger,oheger@apache.org,Jul-5-2017
+889f40cbbaf617e2166635fce2ba9d9383de2453,Oliver Heger,oheger@apache.org,Jul-5-2017
+84dcdc5b555ace68d42b5903ac15e9dee14736f1,Oliver Heger,oheger@apache.org,Jul-5-2017
+db36f611a2de91359e95c6204569f576aeb9738d,Oliver Heger,oheger@apache.org,Jul-5-2017
+4a46723129e3112f8483c61a639c2095d7e07c77,Oliver Heger,oheger@apache.org,Jul-5-2017
+1807e24c35f06ee2bc104cb8c09b743fb64f9884,Oliver Heger,oheger@apache.org,Jul-5-2017
+d55646d49a0cc65357109170dacf1828dc9c83b8,Oliver Heger,oheger@apache.org,Jul-5-2017
+e2c80cfa7f43f4354a8d9e6d01d6d778ba7f6e9a,Oliver Heger,oheger@apache.org,Jun-14-2017
+994821de55bc8abfa0b643cb448a502499cf07aa,Oliver Heger,oheger@apache.org,Jun-14-2017
+73f8a4dc8170cba647171fe44f2afd4a6c6b68f1,Oliver Heger,oheger@apache.org,Jun-14-2017
+2a938940b29aa106933b4e78c3fa9c175933dfb9,Oliver Heger,oheger@apache.org,Jun-14-2017
+cfc7ca7cb8019a650fe72aa3e1d2c8782a6a866e,Oliver Heger,oheger@apache.org,Jun-14-2017
+e2822fdd729b94ee75c193d6a07fe320a6ac7c5c,Benedikt Ritter,britter@apache.org,Jun-5-2017
+bd11c153e0a27121ba3aab3cddce2d0349876347,Benedikt Ritter,britter@apache.org,Jun-5-2017
+9c2fc92fb6c61472b17aa37b217cb007d4e3a82a,Benedikt Ritter,britter@apache.org,Jun-5-2017
+4774194b54fdc6b64d03717a606a993fc7334f2f,Benedikt Ritter,britter@apache.org,Jun-5-2017
+fe3546f0041862d15b6e26309b452df6affb4a12,Benedikt Ritter,britter@apache.org,May-18-2017
+145aef133b9c1615f1d9444ef44c4cde74a7bebd,Benedikt Ritter,britter@apache.org,May-18-2017
+2b024eb4d28f66da5e95ed59022b79a201a6527c,Benedikt Ritter,britter@apache.org,May-18-2017
+48faf3032420592d8e8a72986e42b88c7304ed2c,Benedikt Ritter,britter@apache.org,May-18-2017
+2ba714466ee09ca9f5c3b887c086a4f62da7114c,Gary D. Gregory,ggregory@apache.org,Jun-7-2016
+57bca3f4b7b01dc9dc818caeaf24ba4a99ca3910,Gary D. Gregory,ggregory@apache.org,May-20-2016
+addaf40cb85d33132e9ed3210883c8779424708b,Gary D. Gregory,ggregory@apache.org,Jan-19-2016
+26cd062d3aa814cc9f80b431aef68ffce8b42e13,Sebastian Bazley,sebb@apache.org,Dec-9-2015
+541ef400554010e818fbaf4bf7256283a1923e65,Sebastian Bazley,sebb@apache.org,Dec-5-2014
+a5442abbb72908bb3f517441c609f5d581ce86b8,Gary D. Gregory,ggregory@apache.org,Nov-3-2014
+5bfd9b00a6efaa3d7b81aa7f7366089fd63b58dc,Sebastian Bazley,sebb@apache.org,Aug-20-2014
+7f1fb3c2cade375edb531237917c0383ccdd7443,Sebastian Bazley,sebb@apache.org,Oct-21-2013
+638eaa65503380c86aaf9cfc9715a333f476c411,David Brosius,dbrosius@apache.org,Oct-16-2013
+839e0882791dfbf968037fdf51c5b627dbaba941,David Brosius,dbrosius@apache.org,Oct-16-2013
+eb0d3e66f2829d2b0addb741def045c56f6ae583,Olivier Lamy,olamy@apache.org,Feb-26-2013
+0edb42f1bfbc1cb448276753dceabd2f39695cd0,Olivier Lamy,olamy@apache.org,Feb-26-2013
+c24ed3877bc5aabc9f61bb7822e9572d4a88dff3,Sebastian Bazley,sebb@apache.org,Jan-30-2013
+5973ee1ea46850d5dbd7a2b0ef45bfdba32226d8,Sebastian Bazley,sebb@apache.org,Mar-27-2012
+9159705da555b7ddfa5e18c01a83e2f33e66e70c,Sebastian Bazley,sebb@apache.org,Mar-30-2010
+977e00ee93895edec190ff9a6fb2b88e42ddc73a,Niall Pemberton,niallp@apache.org,Mar-15-2010
+462588f38057cd039771255b06d258a34b130a17,Niall Pemberton,niallp@apache.org,Mar-12-2010
+f9f4e2361e409f287452b88ca12e72c3ac4c4064,Paul Libbrecht,polx@apache.org,Jan-4-2010
+752078e292b67fcbd6b855b08efc622aa22aa671,Niall Pemberton,niallp@apache.org,Dec-18-2009
+df908fccf0f4a031358b6d48f0b4591a3af22b26,Niall Pemberton,niallp@apache.org,Dec-11-2009
+01e5cad9e5d3601ad3f7864b81b9a39d57b02232,Niall Pemberton,niallp@apache.org,Dec-6-2009
+4ad9f90fd4c52a9326db84c999e91ae4a40af9bb,Niall Pemberton,niallp@apache.org,Dec-6-2009
+e6962b4eeec6e313bc6153f90cc75af607668e86,Niall Pemberton,niallp@apache.org,Dec-6-2009
+4160766357c83ec6eff0776e8e89694b25d39ffc,Sebastian Bazley,sebb@apache.org,May-28-2009
+8e85ab81ef309153b32a0d3ffbdddd60bb1eca5e,Paul Libbrecht,polx@apache.org,Jan-26-2009
+3863e4a85e4b9bf8fc62a76e44087880323f6880,Paul Libbrecht,polx@apache.org,Jan-25-2009
+eaf06d934ecc6caee93150684b8c24d43f156729,Paul Libbrecht,polx@apache.org,Dec-8-2008
+1e7c6188d2ebd2a79e07c594968a8781c0bf20a7,Paul Libbrecht,polx@apache.org,Dec-6-2008
+2f81ee6475fc9f22ed147d51e1e6a7baba9a008a,Paul Libbrecht,polx@apache.org,Nov-22-2008
+fd94fb6a029d01935b127ca9c2b0cfaa36d92515,Paul Libbrecht,polx@apache.org,Nov-16-2008
+90504db411303ba03d3729aaf4f73869dfae0739,Paul Libbrecht,polx@apache.org,Nov-10-2008
+2bbffca870ba37da09b16a90db7ce992e98eeab7,Henri Yandell,bayard@apache.org,Mar-25-2008
+fee396aed32effa2bafa0522b962d0fb9bc55827,Henri Yandell,bayard@apache.org,Jan-19-2008
+0957a5712f6e1fdafa665cef4ac1069baf556e1f,Dennis Lundberg,dennisl@apache.org,Nov-2-2007
+92b4ac62cd204fb5122b03e7054c6bca4a49dba7,Dennis Lundberg,dennisl@apache.org,Sep-1-2007
+e7727a379acb4f2defd18954f4151f3e840b25e5,Dennis Lundberg,dennisl@apache.org,Jul-31-2007
+c9ce89b3a9a4ed9d0e4761c4b3e46aff0d6dbe6e,Dennis Lundberg,dennisl@apache.org,Jul-31-2007
+ba93a6381ebb88cca1f2e6f6e2c564e0c29d8352,Matthew Jason Benson,mbenson@apache.org,Jul-31-2007
+14f565299fd08a3ae6f5665352627782d5dba509,Niall Pemberton,niallp@apache.org,Jul-31-2007
+3dcc38a7e8dc00282d4a289a994a5ce9f646e0c2,Henri Yandell,bayard@apache.org,Jul-31-2007
+af9f8b84cb71faf13f49a8ab76cb4a29282c47d4,Rahul Akolkar,rahul@apache.org,Jul-31-2007
+9bb7f70dc255a7ded748cb576b80014405ce0a66,Henri Yandell,bayard@apache.org,Jul-30-2007
+98981a1321e0d5177c9b068c2b5415eee099dd82,Henri Yandell,bayard@apache.org,Jul-29-2007
+177e94511d2ee890018d79bdd16ea61591cd23c1,Henri Yandell,bayard@apache.org,Jul-29-2007
+838fc56bdf65dd71a334fb0a4f21efc044332d58,Henri Yandell,bayard@apache.org,Jul-29-2007
+a0be5e96d249b50ddbd46c3b85a8562cbc543111,Henri Yandell,bayard@apache.org,Jul-29-2007
+ab92d4d99a689c22bdd8d4b4cabde04496fc22aa,Henri Yandell,bayard@apache.org,Jul-28-2007
+b1e8f07bcd2308eae22183ea5de34cf8fe7ec854,Niall Pemberton,niallp@apache.org,Jul-27-2007
+4f151eee5e265c935dcca100a9d0df6037c422e4,Rahul Akolkar,rahul@apache.org,Jul-4-2007
+08926ce9b5d622268174f7e4e4a43f60fdcf8218,Henri Yandell,bayard@apache.org,Jun-14-2007
+af6f113ef45b28410c02c71360aacb75ddfdd8c7,Peter A Royal Jr,proyal@apache.org,Jun-3-2007
+74be5b03a6cc2a759f8252cf3be66859dd41a34d,Peter A Royal Jr,proyal@apache.org,Jun-2-2007
+2277c0f54a267a16ed1648008700df1a11a94212,Peter A Royal Jr,proyal@apache.org,Jun-2-2007
+cd0607ac47cd342cfd7f026f7ff4ec22bcb55e95,Stefan Bodewig,bodewig@apache.org,Apr-18-2007
+cac5381aa9a8108ea881f9031248c30fb1296ba4,Stefan Bodewig,bodewig@apache.org,Dec-19-2006
+c0b244f0cab1e65c16e5b7e54bb46b2392a95667,Stefan Bodewig,bodewig@apache.org,Dec-19-2006
+5a1f39813ed0cd1e34f31a77ae9f2c03a668e0b6,Henri Yandell,bayard@apache.org,Dec-12-2006
+b8ea3a2d17d795713b6302c87166d94f605ada5a,Henri Yandell,bayard@apache.org,Nov-29-2006
+2319c6e82615a054c59cf1ab477f3ead450d9ce5,Henri Yandell,bayard@apache.org,Nov-29-2006
+090d31777205a96ef23b5848d0cb5b64d925442d,Henri Yandell,bayard@apache.org,Nov-29-2006
+c05e6f4d4a53efaba0214d88ac824dd65391e120,Henri Yandell,bayard@apache.org,Nov-29-2006
+0e6d1f2d566f606842db00e9e791b4bf83eb4962,Henri Yandell,bayard@apache.org,Nov-29-2006
+0a2bb57ab0eb03d45f1852ab143044fcd3a2ccf7,Henri Yandell,bayard@apache.org,Nov-29-2006
+5b0eb441d59ba4ad12a402b5bb8049ee7cae4e80,Henri Yandell,bayard@apache.org,Nov-29-2006
+87014cec6e5a9a6fecb58d5c17e7ca23b86ef6a9,Henri Yandell,bayard@apache.org,Nov-29-2006
+7a926ae6b8e5dea19d3510f640c442c4386f4dfb,Rahul Akolkar,rahul@apache.org,Nov-9-2006
+c98ea29951e9eb7a2b976b0dd59e2f80bc81023f,Rahul Akolkar,rahul@apache.org,Nov-9-2006
+31c60e44cc48277eaf6c169f2800a9a33c694621,Paul Libbrecht,polx@apache.org,Sep-21-2006
+8c15c7b9bcb360415a4433e34d1339ff07e59d81,Henri Yandell,bayard@apache.org,Aug-10-2006
+c60307e083a06325c9de843fe06d14115a99997c,Henri Yandell,bayard@apache.org,Aug-10-2006
+a89706bb95f644df5318005a9c7da64952c3485d,Dion Gillard,dion@apache.org,Aug-6-2006
+b19b8560e0a99d6d3250075436282b76689a63db,Dion Gillard,dion@apache.org,Aug-6-2006
+f6fd9b233035ab9c215d6e6ac128c118b74947f1,Henri Yandell,bayard@apache.org,Jul-16-2006
+be25a8752619eaf1e25c6b182f12d0837adf9fc5,Paul Libbrecht,polx@apache.org,Jun-26-2006
+ff4325454d193398cad8b2ca67db1335d5995fa1,Paul Libbrecht,polx@apache.org,Jun-21-2006
+521e5d9ea3c9006b4c375962ef35faa46b500099,Paul Libbrecht,polx@apache.org,Jun-21-2006
+9678b8281aa7bc070fdf1eb5fde600bc3cf97555,Paul Libbrecht,polx@apache.org,Jun-21-2006
+e2f3e1cb040816579556e5eb6888644baccb1e53,Paul Libbrecht,polx@apache.org,Jun-18-2006
+61db458a880b584ddc6daee65b50dd354946747e,Paul Libbrecht,polx@apache.org,Jun-16-2006
+170d3e67f15137f44ff4c498b8364a09c9c825e6,Paul Libbrecht,polx@apache.org,Jun-16-2006
+1cce68196b98b31dc24433b5ed9bde79fb42ce53,Paul Libbrecht,polx@apache.org,Jun-13-2006
+e78f0803f1c7a1beea0a129c6016ec04830fb5fb,Paul Libbrecht,polx@apache.org,Jun-6-2006
+711b5a8dc2250ee3ac3194e3dee9512e767310ca,Paul Libbrecht,polx@apache.org,May-13-2006
+e33d5fb751749298856f5db3cfd43d9e83801142,Paul Libbrecht,polx@apache.org,May-13-2006
+3b058dde91dfd1eea9b9fc3aa5c04f7d1b993a59,Paul Libbrecht,polx@apache.org,May-13-2006
+fcdfc3947c9ada832cf45f3b1bb518df621cef75,Paul Libbrecht,polx@apache.org,May-13-2006
+bae70b6835a190d50ffac6358bced083db3768c1,Paul Libbrecht,polx@apache.org,May-13-2006
+1b46cd016f509f9506ee5caa9861052f42d0ed91,Paul Libbrecht,polx@apache.org,May-10-2006
+2f2a1328c065586d62d7bf00bfc1ad9f0b0e4ccb,Paul Libbrecht,polx@apache.org,May-9-2006
+9169d5bd0d13438a63be819c26ae93e423b9d252,Paul Libbrecht,polx@apache.org,May-9-2006
+335b226254347d46c16c85fdbee00b6048157183,Paul Libbrecht,polx@apache.org,Apr-15-2006
+ecaab6a2daa23ad112278a9f6f7bb25a9938af19,Felipe Leme,felipeal@apache.org,Apr-14-2006
+1af76a0010cbd921565b8b91e559737b0a723247,Felipe Leme,felipeal@apache.org,Apr-13-2006
+efebd819199e84be8e6f8df6a4ea906aa1c426e7,Felipe Leme,felipeal@apache.org,Apr-13-2006
+9b3e8d312b9d25c354e8077c0447cb5876001882,Felipe Leme,felipeal@apache.org,Apr-13-2006
+a38b99d22ee8b4fcc98810e4c2338d0409021775,Felipe Leme,felipeal@apache.org,Apr-13-2006
+64d0a50261eff036d3e7c93060dd4f4b282c1d45,Felipe Leme,felipeal@apache.org,Apr-13-2006
+b6f7f8c71700e54005911013121bf1fef3c48240,Felipe Leme,felipeal@apache.org,Apr-13-2006
+f2c57c5b4dab0bf95740dde0921dfa8c80da0c32,Felipe Leme,felipeal@apache.org,Apr-5-2006
+9d20c4d608b957020af191415190a9b07ec89089,Felipe Leme,felipeal@apache.org,Apr-5-2006
+f9a9e5c1cb61af5a4e82ad4c6c533652bbbff7f8,Brett Porter,brett@apache.org,Feb-15-2006
+01b3bd9fddc832ddb1b6875689df3f2af79ed735,Niall Pemberton,niallp@apache.org,Feb-14-2006
+6b3c383456c884e4edf3fae879aba7f7d9ae0a09,Henri Yandell,bayard@apache.org,Jan-24-2006
+34a7bf553d6fc20ef3b87739a44af2520159d88d,Henri Yandell,bayard@apache.org,Jan-23-2006
+040e5355dce1ae410a1275df171d7d85a2767734,Dion Gillard,dion@apache.org,Dec-1-2005
+f72d812dfc5bbfd279fb32b0069da0b01355b5e6,Dion Gillard,dion@apache.org,Dec-1-2005
+49f496200f43f2d0129914baba516fb1e70b2dcb,Dion Gillard,dion@apache.org,Dec-1-2005
+2413e2cf7159f50cb0c2d91f2e41555ce2c40a24,Dion Gillard,dion@apache.org,Dec-1-2005
+7ad306a9b14379f80e683f817db4a37f722fc8c3,Dion Gillard,dion@apache.org,Dec-1-2005
+028a0374558933f2a50362834bb5dbff3f0600a4,Dion Gillard,dion@apache.org,Nov-29-2005
+485a3360dd1335e49a63b067f6939a2e912c5d6b,Dion Gillard,dion@apache.org,Nov-29-2005
+066dd482cc80b0889e3c16accf006ea92ed0df08,Dion Gillard,dion@apache.org,Nov-29-2005
+1d7bbb3d638d7719425d6e7491b6ceb934b2c54c,Dion Gillard,dion@apache.org,Nov-29-2005
+d6e9105a3444b7f1392f3f8f0a763b663a3c62e9,Dion Gillard,dion@apache.org,Nov-29-2005
+a1b8094853b289f02ed1e2c14d058e9fe2b7ddd8,Dion Gillard,dion@apache.org,Nov-29-2005
+7be21be06a5196a0d05a83ab1c1448afb2c497d6,Dion Gillard,dion@apache.org,Nov-29-2005
+ec2780dad6c798d2c54adf86cb164711eaab3cf4,Dion Gillard,dion@apache.org,Nov-29-2005
+39a10a7081af639adef9d46ce841a7493c5764a9,Dion Gillard,dion@apache.org,Nov-29-2005
+c191d4200484a93c778df0de0917dd6df4801e3f,Dion Gillard,dion@apache.org,Nov-29-2005
+15e81780f1b4757f3d218fdf453466726b552a65,Dion Gillard,dion@apache.org,Nov-29-2005
+406ba8a36ef5a9ffb2828c43364a2cb7165698ba,Dion Gillard,dion@apache.org,Nov-29-2005
+a8b03cbba6233fbfcadf355fb640482103efd013,Dion Gillard,dion@apache.org,Nov-28-2005
+60889d84a0b78c5d03b33e8c66e1840f40e0c5f1,Dion Gillard,dion@apache.org,Nov-28-2005
+3227bcf86ad9020518f2dbc8422e85d8ee47e47f,Dion Gillard,dion@apache.org,Nov-28-2005
+f6fe31147a8e779787842b11b1b44a0b06e5b764,Dion Gillard,dion@apache.org,Nov-28-2005
+409031892b628f8df635e5679fc21f379013f381,Dion Gillard,dion@apache.org,Nov-28-2005
+eda9c1ec38bc5df58754e36e596a9bbbd94b0b86,Dion Gillard,dion@apache.org,Nov-28-2005
+71f3759bd19c37e09d469d013b2b29253a773012,Dion Gillard,dion@apache.org,Nov-27-2005
+ae481645a05fe63d13874d2f9a5e762f533a002f,Dion Gillard,dion@apache.org,Nov-27-2005
+436ed49dc6ba41d1e1c6513fea0c16a82ca87b6a,Dion Gillard,dion@apache.org,Nov-27-2005
+d8eb1b5f00ff0ff203d284391bfc2adccbd8fafd,Dion Gillard,dion@apache.org,Nov-27-2005
+72f6d9f8f8d0a0f8c893d0004875e32b95042671,Dion Gillard,dion@apache.org,Nov-27-2005
+cb8b527a8562afb07a9ede91f0ffa0a9c79b059b,Dion Gillard,dion@apache.org,Nov-27-2005
+22d4297e39bad7f4ff42c9274dbc30c3d1ad2d94,Dion Gillard,dion@apache.org,Nov-27-2005
+39e0bbcf2ae24291ff02285512f781476b79f479,Dion Gillard,dion@apache.org,Nov-27-2005
+fff64f7a999ebe4c57a9b3762ca6d18477683e3b,Dion Gillard,dion@apache.org,Nov-27-2005
+cdb135d200dd91d233f2bc9ea747d19c26c0e4b1,Dion Gillard,dion@apache.org,Nov-27-2005
+41304b6c92cf40c2884ba8bd8eef0c4c61fe65aa,Dion Gillard,dion@apache.org,Nov-27-2005
+3d5b6175d5f9d57c0aed2d5c82ffafb8acbdbe78,Dion Gillard,dion@apache.org,Nov-27-2005
+e84c1ff980d6e8fdb6e2a8dbc3d02cc993a32ff8,Dion Gillard,dion@apache.org,Nov-27-2005
+1f059d268cb932a74995bd21efc03f2568f855f4,Dion Gillard,dion@apache.org,Nov-27-2005
+61b0807ad37b33c7da66ff6e04f31cb64feba1b2,Dion Gillard,dion@apache.org,Nov-27-2005
+17a28976f6b920a18cc7a16674ecd8b29568a76c,Dion Gillard,dion@apache.org,Nov-27-2005
+df017d01ec8bcbf9770f77185bd31624bd4e6c3d,Dion Gillard,dion@apache.org,Nov-21-2005
+db53097579174685c60dab511c48dcb4afbb8bcc,Dion Gillard,dion@apache.org,Nov-21-2005
+fe5348b3319bd9fca5c77e33a7e98bcc79512732,Dion Gillard,dion@apache.org,Nov-21-2005
+4cc588d544becbff42790f7714d51f5cfd45790e,Dion Gillard,dion@apache.org,Nov-21-2005
+d59de795a070b0df057e4b5f67996f3b782a1441,Dion Gillard,dion@apache.org,Nov-21-2005
+78f817da5227f2afd781f8a1ff13e26a5067cb69,Dion Gillard,dion@apache.org,Nov-21-2005
+0728243a643f3ff675bc51eb3448ea26e10c6eb1,Dion Gillard,dion@apache.org,Nov-21-2005
+02a8c86d137ed906d1cc5ae179cb221c5524796d,Dion Gillard,dion@apache.org,Nov-21-2005
+23e3391924f93f7861ec3d96361f21fced253c8b,Dion Gillard,dion@apache.org,Nov-21-2005
+3d7f471d7a3889d0b688c802e7c0ca946677b145,Dion Gillard,dion@apache.org,Nov-16-2005
+f3cde3ee32aed04a2e59e996c73fc6434c080b2e,Dion Gillard,dion@apache.org,Nov-16-2005
+a91f1ecd56cd1ed39381f5e5dd5f58eeae116397,Dion Gillard,dion@apache.org,Nov-16-2005
+a7f70daf9103fdc92b8c364e36dbf205a90c837b,Dion Gillard,dion@apache.org,Nov-16-2005
+aae917ca8597c13ffb00727b371f5cb91380ebe9,Dion Gillard,dion@apache.org,Nov-16-2005
+09a9a38e554cfb385557ae10eab31aa3e084d7b5,Dion Gillard,dion@apache.org,Nov-16-2005
+32b4956f5549006981e8a282fe56e08b25bf697c,Dion Gillard,dion@apache.org,Nov-16-2005
+8dd48bdd3f7b165de23d8fd97edc87dd6c78b6a2,Dion Gillard,dion@apache.org,Nov-16-2005
+e7ae4cc9a79f57b8a5e57fc8aa8759bd2716e4dc,Dion Gillard,dion@apache.org,Nov-16-2005
+c839a266d27e174393b5d49c716b217037e76f71,Dion Gillard,dion@apache.org,Nov-16-2005
+8feaa9feba603002eae9b4aa9efe86a67e470b0d,Dion Gillard,dion@apache.org,Nov-16-2005
+a01acf3448498bd3530743213c5fce8a6d0ba0f8,Dion Gillard,dion@apache.org,Nov-16-2005
+85c06ca4be96a2685a7cf1a2b31580ea2c4130b2,Dion Gillard,dion@apache.org,Nov-16-2005
+71575e664d3e1c6a7db32dd1b1ddd02aa62dae1a,Dion Gillard,dion@apache.org,Nov-16-2005
+c117ac18376668a749881577c54f0b3401bb3158,Dion Gillard,dion@apache.org,Nov-16-2005
+4f23d35adf65311198b9add096c5c46c4de69a42,Dion Gillard,dion@apache.org,Nov-16-2005
+8ea0d6af94995f551cf6b42d82d27300875a6cdb,Dion Gillard,dion@apache.org,Nov-16-2005
+8baa204188bd8793418175d4490625c44fe6491f,Dion Gillard,dion@apache.org,Nov-16-2005
+f5087bbe105e3e04339e04e895b77d74f539ff86,Dion Gillard,dion@apache.org,Nov-16-2005
+42a6ebd84d3a18f4811385c37223df8cad610567,Dion Gillard,dion@apache.org,Nov-16-2005
+e3db3390eeb4e24f69d4509ff910b616605f902c,Dion Gillard,dion@apache.org,Nov-16-2005
+f361d8c5773e78dea774a420efe2448ba9746f3e,Dion Gillard,dion@apache.org,Nov-16-2005
+694d25b2aba82cb940987ed6f66bf0e4df276bcd,Dion Gillard,dion@apache.org,Nov-16-2005
+80e2fc642372f3cacb8d0bc2f08a7328fb616415,Dion Gillard,dion@apache.org,Nov-16-2005
+8bb3814137083dcb1c2af2db78b4c018a3f7a197,Dion Gillard,dion@apache.org,Nov-16-2005
+1f58d000103d4d59c4ec149a585e80ed0a3c27f8,Dion Gillard,dion@apache.org,Nov-16-2005
+c811255101d2c1aff4c2fd0a831995207d1aec4f,Dion Gillard,dion@apache.org,Nov-16-2005
+4fe725eba802f53d01ac58509672ec36cc8c4816,Dion Gillard,dion@apache.org,Nov-16-2005
+cc7fd8870af0a312453135e5a1b29d65f80c602e,Dion Gillard,dion@apache.org,Nov-16-2005
+c57aadb71c3d0b0bb3f5622f73be1ab9ad72b234,Dion Gillard,dion@apache.org,Nov-16-2005
+1179779f3fd0b934279e78b8e5b5223ec72e91e7,Dion Gillard,dion@apache.org,Nov-16-2005
+ee5eaff814adfb8d3949f847e9a78541bbcb4fd8,Dion Gillard,dion@apache.org,Nov-16-2005
+ef749bd1ba280873ca7fb9def9b42c06e6bf33e4,Dion Gillard,dion@apache.org,Nov-16-2005
+3902f7cf61fbdeab0d4cd449281756bd93599ec7,Dion Gillard,dion@apache.org,Nov-14-2005
+d63446a56cab95991b69e99c3d49c57c60bb400d,Dion Gillard,dion@apache.org,Nov-14-2005
+2ad7ff290d1a66185a952f7260517ae7e142f830,Dion Gillard,dion@apache.org,Nov-14-2005
+fe7eb17e30f727223212795980a010b09274c5b6,Dion Gillard,dion@apache.org,Nov-14-2005
+245fc55df2543e19bd41628ca081c40aaf7f0e24,Dion Gillard,dion@apache.org,Nov-14-2005
+3202d792f9f84ff25885c85cebacf5ac03512cfc,Dion Gillard,dion@apache.org,Nov-14-2005
+93130208912084c87be39b504419c78ddd669e2d,Dion Gillard,dion@apache.org,Nov-14-2005
+68922f4c40a1dd523d4e28b7a1babcb20ed45871,Dion Gillard,dion@apache.org,Nov-14-2005
+5ec549e8c5eaeae1df97bcc8d5535d5ac0940a9d,Dion Gillard,dion@apache.org,Nov-13-2005
+7dff73c876caaf39c556a87efc2ddcd43fc1cfa8,Dion Gillard,dion@apache.org,Nov-13-2005
+273793f0f873061be9f4a90b9b6da58fda6eed9d,Dion Gillard,dion@apache.org,Nov-13-2005
+6b70f78a200c49b7d8ff24b7bb85656a6512fac9,Dion Gillard,dion@apache.org,Nov-13-2005
+aacb2df45f1a0e9db20194a10c0ca57c26ae9ca2,Dion Gillard,dion@apache.org,Nov-13-2005
+e3c79ccbc8b099feb76670b4268be7311c73e01b,Dion Gillard,dion@apache.org,Nov-13-2005
+6bdb557cf5accc09f98c4000da696de07123731b,Dion Gillard,dion@apache.org,Nov-13-2005
+93cc16da60b721d5fe23d583320a58f46a90f72b,Dion Gillard,dion@apache.org,Nov-13-2005
+4f570de703138f38c2d3c683f7e432a0e6979f3b,Dion Gillard,dion@apache.org,Nov-13-2005
+3666d7d6df5db7cca155de0ce0fbf434d85d3b3e,Dion Gillard,dion@apache.org,Nov-13-2005
+f1f19ff0f7407cd87f532e3e2ef0f520db800292,Dion Gillard,dion@apache.org,Nov-13-2005
+61a723e297057b7ab071b5343d8d7da1ff5fead0,Dion Gillard,dion@apache.org,Nov-13-2005
+70194100625db3838e34a00a4ed0ba0f8175d068,Dion Gillard,dion@apache.org,Nov-13-2005
+ba7cbbaf6fdf3e44e97d6f5dd9ea41c9e52106ca,Hans Gilde,hgilde@apache.org,Nov-7-2005
+8633b04a9e67e0fbe16fb1c42630e9c1028181c3,Hans Gilde,hgilde@apache.org,Nov-6-2005
+0c8a5bf3b46ba7debc98ab13620ab08d4a785642,Hans Gilde,hgilde@apache.org,Nov-6-2005
+0badfd340753d7242dd6635aec9f7303189fda55,Hans Gilde,hgilde@apache.org,Nov-6-2005
+dda53c32ac6e46c7fb164940a7306d3798c9fdcc,Hans Gilde,hgilde@apache.org,Nov-6-2005
+1b4f842b78a60cd7a3786c354d59ed5afae22c2a,Hans Gilde,hgilde@apache.org,Nov-6-2005
+750555ca2edfd51f789f3df3d9110eb1bdf027b7,Paul Libbrecht,polx@apache.org,Aug-23-2005
+c9ada756d30797fbf63fde2d5c750c0bbda6d129,Peter A Royal Jr,proyal@apache.org,Aug-23-2005
+6989fec8d203e5299d5f7ded221b0717d7df16fd,Paul Libbrecht,polx@apache.org,Aug-11-2005
+31e00f213d2c3ac0c1a75eb76326388c93bc985b,Paul Libbrecht,polx@apache.org,Aug-10-2005
+48e1ca914d950939ec6ef3f49f52d3b85e0e7780,Peter A Royal Jr,proyal@apache.org,Aug-4-2005
+055aebaa49910e059baf94f4bebe785ffb61e985,Paul Libbrecht,polx@apache.org,Jul-27-2005
+4483bafc1a4fd652c2fc252ccb7e558de46766be,Paul Libbrecht,polx@apache.org,Jul-26-2005
+27e733b47d770efbc221a696ca57fb69ebb1e51a,Peter A Royal Jr,proyal@apache.org,Jul-21-2005
+357282dec062f82da2a86ddbe7b32607814e4e5d,Paul Libbrecht,polx@apache.org,Jul-19-2005
+a0bff270ff194d23084b9a3809447f5132694ff6,Paul Libbrecht,polx@apache.org,Jul-19-2005
+b7ffcd4dd0abd6a1f43337f64fa8875777154a77,Dion Gillard,dion@apache.org,Jul-10-2005
+86d0b8966436a18c95e9f8f07c85513cce965a3e,Dion Gillard,dion@apache.org,Jun-27-2005
+bf2a5fffa5c7e3f4a789e2db431b9c25615d2700,Dion Gillard,dion@apache.org,Jun-27-2005
+23af93f96914c4966ba6212fd330de790805c773,Dion Gillard,dion@apache.org,Jun-27-2005
+c5aaee7c35ddb9960b1ab480858167b404cc9a61,Dion Gillard,dion@apache.org,Jun-27-2005
+33daebed6e55b7606c3c6847db1857fc41857712,Dion Gillard,dion@apache.org,Jun-27-2005
+6805ad58c343b02ff4df174741279a6618de99e6,Dion Gillard,dion@apache.org,Jun-27-2005
+c894bb3216bcc3c558d0a052921efdc16bea2057,Dion Gillard,dion@apache.org,Jun-27-2005
+b8d3c877eb4a5db1dbf229822bc2313d5ac2402e,Brett Porter,brett@apache.org,Jun-16-2005
+118a748e74b5b984e48af334e660461705f6f074,Brett Porter,brett@apache.org,Jun-16-2005
+d313657dfb77cae870ce297018e82b3256f5518d,Brett Porter,brett@apache.org,Jun-16-2005
+2b435ca4adc4988e7d7c08e4bf87b6211efe8257,Brett Porter,brett@apache.org,Jun-16-2005
+07661dc53cb8b1228ee2db489cb7722ff3706206,Paul Libbrecht,polx@apache.org,Jun-15-2005
+41d6fab42eee1f97a88c59e8e545fea24231d02e,Brett Porter,brett@apache.org,Jun-12-2005
+c60e0bfa6a0915b490f052667f7cdb4cae93c0f8,Brett Porter,brett@apache.org,Jun-12-2005
+cf7b1a84b3cc016f4aa79cd5f47e6799562cedcf,Brett Porter,brett@apache.org,Jun-12-2005
+cfd63dfd4ccedac2ea65f8a428603cf54c7e6bb0,Brett Porter,brett@apache.org,Jun-12-2005
+8befd0e50ddb5aa32c4ebb8473d4cf52b0561e81,Brett Porter,brett@apache.org,Jun-12-2005
+64d88c230890f5a1d96e124ee8ebd81c5db9367f,Brett Porter,brett@apache.org,Jun-12-2005
+b0a2621bef423f99b93f6cfb4610832b268eed3b,Brett Porter,brett@apache.org,Jun-12-2005
+8a43920406c9989f13a081536f72f28328fb956d,Brett Porter,brett@apache.org,Jun-12-2005
+5196ca778cddd98f73945cc1aa9cb9b2a1f7f3be,Brett Porter,brett@apache.org,Jun-12-2005
+65d0fe0c54f5a4502145c5bad7f3c4e80fd82d6a,Brett Porter,brett@apache.org,Jun-12-2005
+37015d4b5109d64fdbc1c487c80d82cd16a351cd,Brett Porter,brett@apache.org,Jun-12-2005
+4505ecaf629b94d9047b035dc011cfbd4e20cb13,Brett Porter,brett@apache.org,Jun-12-2005
+9d6afa572ba672fc35532b725ca94d13bd32d62e,Brett Porter,brett@apache.org,Jun-12-2005
+9c7319df137f9cb3afdf82bc343c1308e2188bdf,Brett Porter,brett@apache.org,Jun-11-2005
+176345230c9ad32ef2c1cbd70719ce8ab67585db,Brett Porter,brett@apache.org,Jun-11-2005
+94642158dea78e5ea4b94b3e47a6f066d3fe8b50,Brett Porter,brett@apache.org,Jun-11-2005
+2aeb1f882df10078cb7446e57081e22f0aa91699,Brett Porter,brett@apache.org,Jun-11-2005
+1cf936a6c5dc0c9424129e4f8ff39625cd509a62,Brett Porter,brett@apache.org,Jun-11-2005
+fd98aa7eada6e8ec42b2c33bd198ea46d5cf63e7,Paul Libbrecht,polx@apache.org,Jun-8-2005
+746f05239f7355d7602c521a1f2b838f58237e59,Brett Porter,brett@apache.org,Jun-8-2005
+8a98282bfbac572bed2021aa32356c901c618b0c,Brett Porter,brett@apache.org,Jun-8-2005
+b1faa70dbb3487ae13890bdb35ec625f830a6da0,Brett Porter,brett@apache.org,Jun-8-2005
+e8d319bfe3ebd2ed31a0ce6999342235c21bd857,Brett Porter,brett@apache.org,Jun-8-2005
+8adaf6b889f2507de1a9038e7cea9c8f6087926a,Brett Porter,brett@apache.org,Jun-8-2005
+0219fba0fee5e64a1288913d644f3640ca2e447d,Brett Porter,brett@apache.org,Jun-2-2005
+fae3a31d984cb4fcd14c13988d0dd21a4866e960,Brett Porter,brett@apache.org,May-19-2005
+bbcb7a575893e8a20e7a71f530bd0db22a1d1cef,Brett Porter,brett@apache.org,May-19-2005
+5f35b24cc3eabcc010f9d7a59de9d6dc803862bf,Dion Gillard,dion@apache.org,May-16-2005
+1a9b83600a59a37c52c253e6d5b228a469418bba,Dion Gillard,dion@apache.org,May-16-2005
+652aa1d373f0070e358c37c2ceeca53d07bfa61e,Dion Gillard,dion@apache.org,May-16-2005
+a008f7f434adde3749921e10d2708278d0068e60,Dion Gillard,dion@apache.org,May-16-2005
+9c190499d0a7b035b79ed8b5d04575f936689ab5,Dion Gillard,dion@apache.org,May-16-2005
+7ea9a60d49cdba02dfd20fd66b8fd1a690f95db0,Dion Gillard,dion@apache.org,May-15-2005
+7a1d6c5b60628eff9ad2856888c87551795473e9,Brett Porter,brett@apache.org,May-12-2005
+7730f570ff9c857005e0f125116e6bbcc7f64af9,Brett Porter,brett@apache.org,May-1-2005
+d7aa8de9c72d20a69e238fed941827fb0d452330,Brett Porter,brett@apache.org,Mar-3-2005
+b899d4b0a3c1589eb59b561c908efb1d748ee65f,Brett Porter,brett@apache.org,Mar-3-2005
+d3893dbf6023805d9468315f992a2e82ef81dae0,Brett Porter,brett@apache.org,Mar-3-2005
+2b18e46c8c7fc5326f6311bca2af8c1f6e433ab4,Brett Porter,brett@apache.org,Mar-3-2005
+97a1b5644dd217ffd007d91d2ad03f422b880100,Brett Porter,brett@apache.org,Mar-3-2005
+508890bd1c0dc17ccbba88ccd4038b8571266bd6,Dirk Verbeeck,dirkv@apache.org,Feb-26-2005
+02eb8e13b97dd0eac72f3adf0d713c1ee0f7eb68,Dirk Verbeeck,dirkv@apache.org,Feb-26-2005
+eb315d0b7a36b93f98fdb3c2ac8f9cedf1c0d5b9,Robert Burrell Donkin,rdonkin@apache.org,Feb-5-2005
+4754520b5e8e3ca6087329bcc41c40fb3266a738,Dion Gillard,dion@apache.org,Feb-3-2005
+5e3044baa397fdcddf173698a8713c3208d0872a,Brett Porter,brett@apache.org,Feb-1-2005
+e580aa8e5ab41f04a2f80288c1f5caefb7fc5ab6,Brett Porter,brett@apache.org,Feb-1-2005
+c55f95dc698c0ec0fb5038cc6d7ffe92ed42d808,Dirk Verbeeck,dirkv@apache.org,Jan-31-2005
+2524a6b60e1788e0d9a1abe37f85b78dd1e881d5,Brett Porter,brett@apache.org,Jan-30-2005
+798a0ac305b3375be3a52351603feaec12cb52ed,Dirk Verbeeck,dirkv@apache.org,Jan-30-2005
+dfcf0e8cf601b6c8fe7bf4babd6ac8e0fc57e085,Paul Libbrecht,polx@apache.org,Jan-30-2005
+729b3029227d2de3ddd0327be77820d30cde2808,Brett Porter,brett@apache.org,Jan-30-2005
+f0568ac8655e989310f85acaf7a38a8fb9baf745,Brett Porter,brett@apache.org,Jan-29-2005
+7786ae9f7b448abdd2f06477c0a41fb67a3a5597,Paul Libbrecht,polx@apache.org,Jan-29-2005
+a24edbfa600485846db5ca35bc67131bae332832,Brett Porter,brett@apache.org,Jan-29-2005
+ba261629a2abb241533d00f84fb9128a3e678508,Paul Libbrecht,polx@apache.org,Jan-28-2005
+5298e982fc09978d956d6fb8c2e9ecd9357e7016,Paul Libbrecht,polx@apache.org,Jan-28-2005
+83f981e3e9a442409c9aad1c33aea0672e912101,Dion Gillard,dion@apache.org,Jan-28-2005
+246e03f00724564139403f32da88b7a019aee539,Dion Gillard,dion@apache.org,Jan-28-2005
+e8f58d857fd5b1e479e8115540e3c0927a325f91,Dion Gillard,dion@apache.org,Jan-28-2005
+d79ad304c301299088cbfcf7a4c7f927cf4570ac,Brett Porter,brett@apache.org,Jan-28-2005
+7aff25b282b2aedecb83c6fc2df3e22afd1111ac,Brett Porter,brett@apache.org,Jan-27-2005
+814d22f41b5698ff5b9484ef5b8bfcf48bd45f0b,Brett Porter,brett@apache.org,Jan-27-2005
+c721caeddda839b43173256a5a1f31b11ff4c163,Brett Porter,brett@apache.org,Jan-27-2005
+1de842ba12ec846e90461f6dfb98bd597e34f5f1,Brett Porter,brett@apache.org,Jan-27-2005
+7b62341e0bf4115385a3dd31a9ac79253c965fab,Brett Porter,brett@apache.org,Jan-27-2005
+a9badb61d7d7b77041afd61ff52a17d6feac24af,Hans Gilde,hgilde@apache.org,Jan-27-2005
+521db015a48e928eec4287fd77ee6d402378fd4c,Dion Gillard,dion@apache.org,Jan-26-2005
+c3a4d8264bf6f4b2200686101ebcce6267797e34,Paul Libbrecht,polx@apache.org,Jan-26-2005
+312ebcbcda8d8f9651f2009b652a93a2606f8b79,Paul Libbrecht,polx@apache.org,Jan-26-2005
+d3d3c5b5fc0ba3f00d612944e3285dbb750b9e85,Dion Gillard,dion@apache.org,Jan-26-2005
+9f7616057bc9e1a5849ddc5482c736325a95d8aa,Dion Gillard,dion@apache.org,Jan-26-2005
+c99876ec0a5974198f7f9d620a7b736aecd72214,Dion Gillard,dion@apache.org,Jan-26-2005
+5da630b812ad13819697aad124c25181124e77c0,Dion Gillard,dion@apache.org,Jan-26-2005
+d1ee86ee80b664b6d283ea42f29ab26e5ed05f87,Hans Gilde,hgilde@apache.org,Jan-25-2005
+647e75a27372a75472d56916c235a2426aa20172,Brett Porter,brett@apache.org,Jan-24-2005
+cc1f377b1afccdf425c732e3010b786c2fd8aa7a,Brett Porter,brett@apache.org,Jan-24-2005
+c673aaf8c152577f533b1775e5213b4d39a658e7,Paul Libbrecht,polx@apache.org,Jan-24-2005
+48385e7b305514d9099d38f67bb6b5f2003dd73f,Paul Libbrecht,polx@apache.org,Jan-23-2005
+acb3dd0d6792520db8ed443ee7917596051046f8,Brett Porter,brett@apache.org,Jan-23-2005
+c7af42bfc8460db9bbf5b9d8e886b5e616629867,Paul Libbrecht,polx@apache.org,Jan-21-2005
+bc932132f82a982146e85dfc318cc1de0084406d,Dion Gillard,dion@apache.org,Jan-21-2005
+aa7b4751f9779119d4388eb3c3697b0186759773,Hans Gilde,hgilde@apache.org,Jan-20-2005
+7eeff1b530364c01cc51c68ab4105f538d9c0fcd,Hans Gilde,hgilde@apache.org,Jan-20-2005
+c57f8318cb306d2a33f5f3dd788adb9c191ffb6e,Hans Gilde,hgilde@apache.org,Jan-20-2005
+6823367aa191f4df662378c773b33fad99de88bd,Hans Gilde,hgilde@apache.org,Jan-20-2005
+540f9b6619e75562863129fc1b40eea4a7bed235,Brett Porter,brett@apache.org,Jan-19-2005
+6be3dfa63fe1db765fb9d3ae06595f3da5f5220a,Brett Porter,brett@apache.org,Jan-19-2005
+62a123f7f3b3d358924aa4f01b224c7ff9ac93ff,Brett Porter,brett@apache.org,Jan-19-2005
+6c6641d67d5edddd7424dcb9b211650c51987e38,Brett Porter,brett@apache.org,Jan-19-2005
+e649b9f07c01986cb5680d5d90adfa985e4cde37,Paul Libbrecht,polx@apache.org,Jan-17-2005
+524d458f6070dfda4d89dd72ae11a81be8930f83,Paul Libbrecht,polx@apache.org,Jan-14-2005
+ca84495c8bf48fe5248dfaeb038bd43e5538d368,Brett Porter,brett@apache.org,Jan-12-2005
+82daf38f04024239fb30740b0296d90f08bd2bce,Paul Libbrecht,polx@apache.org,Jan-12-2005
+83ca0fc2d238350bf76175d7c1ed41d28b05a71c,Paul Libbrecht,polx@apache.org,Jan-12-2005
+0abc9593c6731ec17e793b9f281952b1f18ece32,Dion Gillard,dion@apache.org,Jan-12-2005
+a7f905d2a5f80b41799d34d878aae92588eb5ba4,Paul Libbrecht,polx@apache.org,Jan-11-2005
+b2cf484159191cf9d00c28f05528e40b4939d2c4,Paul Libbrecht,polx@apache.org,Jan-11-2005
+3b4c94f1da2256fd6e949b774c613b14a68fe4e2,Dion Gillard,dion@apache.org,Jan-10-2005
+7f90e5d4e77625372c5966e9a3e9e8cd581a5a75,Dion Gillard,dion@apache.org,Jan-10-2005
+36bd4355b8c36f5694dee2c746e78187804364c5,Dion Gillard,dion@apache.org,Jan-10-2005
+e434f020038585ed6902898a81cf558fd3af7f89,Dion Gillard,dion@apache.org,Jan-6-2005
+dd40c7d1e00417ce720587c3259b12fdcfa51347,Dion Gillard,dion@apache.org,Jan-6-2005
+41baa62e0dec9548c9a0f4f30ff904a4dfe32ab1,Brett Porter,brett@apache.org,Jan-2-2005
+1ff8a8bbd6435fd5f00cec032b1ce502431f1554,Dion Gillard,dion@apache.org,Jan-2-2005
+5bc08af5ed63ca419a17d4b0bb5327dcda1896b9,Dion Gillard,dion@apache.org,Jan-2-2005
+bf1417c55f96fd62d76dbc2ca1713d26b334c93f,Dion Gillard,dion@apache.org,Jan-2-2005
+50af9ff21f8266fc0868ea803f56b942a7c17015,Dion Gillard,dion@apache.org,Jan-2-2005
+3845bf18b104f1638e22f44be18fa7c3d172de02,Dion Gillard,dion@apache.org,Jan-2-2005
+f2fe0a60b4e5c4067e1c68a8bd4d2ee1a762ac6d,Dion Gillard,dion@apache.org,Jan-2-2005
+ff563fed30913f57d2137543690affb0cd447c2f,Dion Gillard,dion@apache.org,Jan-1-2005
+2eedbe9ae8187f02e12b6a017c12fed56d145237,Brett Porter,brett@apache.org,Jan-1-2005
+d31eee4b8f3d9a6baa23a9b3cee06227074e7666,Brett Porter,brett@apache.org,Jan-1-2005
+6bad837354cdcf714b5b7a5db1d28d26e421d532,Dion Gillard,dion@apache.org,Dec-31-2004
+b290e8486bc28220d70d26ce8c251a2978de7709,Dion Gillard,dion@apache.org,Dec-31-2004
+abb9149f2338d5a73dfb755a0012d80098927fad,Brett Porter,brett@apache.org,Dec-31-2004
+3d6f263b36270db320e4a92fdf205e4bd60829de,Paul Libbrecht,polx@apache.org,Dec-28-2004
+b8f2018d7c51d6d38f9dd12cfb789cb704dd20a0,Brett Porter,brett@apache.org,Dec-28-2004
+18c23c5aba8d0352fda140492f8ecd3227a16587,Brett Porter,brett@apache.org,Dec-28-2004
+363c6c73aabc35da9178fb6ed97b6499af4ada5c,Paul Libbrecht,polx@apache.org,Dec-28-2004
+551139d2abd59b5925c710048649ae4c252b8f86,Paul Libbrecht,polx@apache.org,Dec-28-2004
+243ca899da5d3d52c7a5b6d7ba25e4c042e5e4ab,Dion Gillard,dion@apache.org,Dec-26-2004
+05561c499b7413599a23df9a010ac94be3927b82,Dion Gillard,dion@apache.org,Dec-26-2004
+e9ddf0b783c877741829cdc9466428825e30a599,Brett Porter,brett@apache.org,Dec-21-2004
+e0ea0159b7472eac25cd457768c2a159760270ad,Paul Libbrecht,polx@apache.org,Dec-19-2004
+dcf75a79c9b45c7c65616ec1066410a73c92b0ec,Dion Gillard,dion@apache.org,Dec-10-2004
+044838149ad4bd2d36089595e7186e4ac7a10b19,Dion Gillard,dion@apache.org,Dec-10-2004
+d22f8b97b53d08cefdc7b426ee45b121dde2b472,Paul Libbrecht,polx@apache.org,Dec-8-2004
+58b1fc0f23479f46ed0804303a1698b0ddc95498,Paul Libbrecht,polx@apache.org,Dec-8-2004
+59a31840c87b5f1059e6be2d5b88c3903ec5085d,Brett Porter,brett@apache.org,Dec-5-2004
+8f149619ca7e88fbcf5794716832ef8498ca40b6,Dion Gillard,dion@apache.org,Dec-1-2004
+9d83ae808ca76555af5051de66ca65d59a81f68a,Dion Gillard,dion@apache.org,Nov-30-2004
+02340355680ef1988d3ac2ede4a8a5c32342d91e,Dion Gillard,dion@apache.org,Nov-30-2004
+8e6e521a3b1cb2efe25ff753e5292b55811fe4fb,Dion Gillard,dion@apache.org,Nov-30-2004
+2aa5b642d73beac6f65b880e6e2ea19b9c77f004,Dion Gillard,dion@apache.org,Nov-30-2004
+77ca5050047ec184600cc7efe9336d8d3f14f362,Dion Gillard,dion@apache.org,Nov-30-2004
+a46e2f0cdb953787c759fa0931df3432f30db476,Dion Gillard,dion@apache.org,Nov-30-2004
+fa7b96294082d09ed911b5b6f98e9925f3aebde2,Dion Gillard,dion@apache.org,Nov-30-2004
+570c07b4841970ebd14dca6ef6d3ef0a8340e275,Dion Gillard,dion@apache.org,Nov-22-2004
+07326ece5cef25df073da9dbe2385c612753c8f1,Dion Gillard,dion@apache.org,Nov-22-2004
+162fe5cedeae49d040adf7eb9510021bd5d841da,Dion Gillard,dion@apache.org,Nov-22-2004
+59bbc886d1a049053458fb450f368b3e14774bf6,Dion Gillard,dion@apache.org,Nov-22-2004
+e8883eb3da96f561eb2d1efa88adbda8bc36b480,Paul Libbrecht,polx@apache.org,Oct-29-2004
+d971b249b50d34651b2d88f9700b0c10c367c609,Dion Gillard,dion@apache.org,Oct-28-2004
+322db7f4e6631eb594621740a34dac916ea490cb,Dion Gillard,dion@apache.org,Oct-28-2004
+e102de18152ab688387c9f7f640b00d71d1afb51,Paul Libbrecht,polx@apache.org,Oct-28-2004
+23278e48086333e7a75922dbcb1c3baa705368f9,Paul Libbrecht,polx@apache.org,Oct-28-2004
+09ea5d93babb4a7227838c24599d985ff5747a4a,Dion Gillard,dion@apache.org,Oct-28-2004
+ef9e6e0de633440e7595ad98e77b80c5a4b79586,Dion Gillard,dion@apache.org,Oct-27-2004
+221ff6957b8253eddfd81938c85668a5f85a6ca6,Dion Gillard,dion@apache.org,Oct-27-2004
+8bc44b785fa31f0db8cf7c609e184220fdac9411,Dion Gillard,dion@apache.org,Oct-27-2004
+0617f3aed20583b2ba7d1395c0d52338c963f73b,Dion Gillard,dion@apache.org,Oct-27-2004
+67b66ecfb33eeb4b07423ce4e1c7f875bff3a949,Dion Gillard,dion@apache.org,Oct-27-2004
+ee2e20f3052f6eebb0f904f6de20131c501cc301,Dion Gillard,dion@apache.org,Oct-26-2004
+4f7dd2fce84f102e86435f094a0b4e2a083ba421,Dion Gillard,dion@apache.org,Oct-26-2004
+7e646f7daa7d8a6c34542365dc130e827e8714d6,Dion Gillard,dion@apache.org,Oct-26-2004
+0389610498bec323af33210370cc71ba9631c401,Dion Gillard,dion@apache.org,Oct-25-2004
+0990eb5ea49d11c8f456146ad4d6c17e4e782275,Dion Gillard,dion@apache.org,Oct-18-2004
+f1d5af4610364911dea927f2dbce930e2aece38e,Dion Gillard,dion@apache.org,Oct-18-2004
+4fb029dd66bce5c4c027f6bb6df46eecdfd17283,Dion Gillard,dion@apache.org,Oct-18-2004
+995ae53176ed1833be9c72e793faf1384b7ff949,Dion Gillard,dion@apache.org,Oct-18-2004
+a417539502da98c2718bb880741be1c1fc6416cf,Dion Gillard,dion@apache.org,Oct-18-2004
+2a03be8d0a0ea5735029a880603b37a4355e2cd5,Dion Gillard,dion@apache.org,Oct-18-2004
+0a707cfee876dbc0101a321104ac744a7530b38f,Dion Gillard,dion@apache.org,Oct-14-2004
+61e9869a7ebc88ffb4e614aeb9b1ea9b31e8131f,Dion Gillard,dion@apache.org,Oct-5-2004
+ba02c002e4abe4aa4fa59583a360c474107c5a3a,Dion Gillard,dion@apache.org,Oct-5-2004
+4f27733ce10f4e66f9b105d81b667204bcac84a1,Dion Gillard,dion@apache.org,Oct-5-2004
+3e7f606fa967a87a4ee6476370adf223e4de3242,Dion Gillard,dion@apache.org,Oct-5-2004
+b603ae1c0eaa9d923261a49d4bcc181565c9e7af,Dion Gillard,dion@apache.org,Oct-5-2004
+a111cba5d6c1b86cf53c76377bc6017c2daa052d,Dion Gillard,dion@apache.org,Sep-17-2004
+3ee075a7f7204d845bb385ff46d09cddad75731e,Dion Gillard,dion@apache.org,Sep-17-2004
+8c3569e40b83fef71726732545b969fcb8dd5538,Dion Gillard,dion@apache.org,Sep-16-2004
+6dd4cada8d24210c1f1cdbf29d3436d86cc89cb3,Dion Gillard,dion@apache.org,Sep-16-2004
+c032af868d5970652401c4a161adc50b6a94d8f2,Dion Gillard,dion@apache.org,Sep-16-2004
+6601d58f0e9528b5f092e4f71b5dccb8dbb42196,Dion Gillard,dion@apache.org,Sep-16-2004
+e4af41b01d4f27307e0931a510dbda7ebaab3de3,Dion Gillard,dion@apache.org,Sep-16-2004
+564c7fd000c9faa345533fd33ff7f4d40bd9e0d8,Dion Gillard,dion@apache.org,Sep-16-2004
+29b5fe1f17fc46efcddbb54da6d2fc41e97dd0bd,Dion Gillard,dion@apache.org,Sep-14-2004
+23aa1997f87ff3b7b3382b3e55431814fcab04b9,Dion Gillard,dion@apache.org,Sep-13-2004
+212816b7f74a035fcc676d09f655afbdec573340,Dion Gillard,dion@apache.org,Sep-13-2004
+91c460a1269ab7b6715ec2003c7372e6377ccffa,Dion Gillard,dion@apache.org,Sep-12-2004
+d0f98fb4800991603f2bf9a45a27187e603d87aa,Dion Gillard,dion@apache.org,Sep-12-2004
+096a06079e4eacfe3ee1cfa8b4e7089b3e167e1e,Dion Gillard,dion@apache.org,Sep-12-2004
+e6d4a46cd81d8b70887e554bfa306dd0b9bf868c,Dion Gillard,dion@apache.org,Sep-12-2004
+ec2c65e345f70a9f13afa3087bb0955b165611a8,Dion Gillard,dion@apache.org,Sep-12-2004
+281074f1e2720885e2dd81332e5e9dba7b8d6ca5,Dion Gillard,dion@apache.org,Sep-12-2004
+5991bc8a5e66177010b7e72e91601aab0ff3015a,Dion Gillard,dion@apache.org,Sep-12-2004
+9162a6da6fe75a58f75bae48d4f56a98845243ab,Dion Gillard,dion@apache.org,Sep-12-2004
+d1700dae01e30dfef217e223ca447346109a48b3,Dion Gillard,dion@apache.org,Sep-12-2004
+7e3474eeccbccbc6e36059e054b3aee85ca3e0e4,Dion Gillard,dion@apache.org,Sep-12-2004
+f3a3c39b355bbde0999cd39a22926c5c1a74e950,Dion Gillard,dion@apache.org,Sep-12-2004
+7193424312cf395a8868c87caf99bc0fde5cc4c3,Dion Gillard,dion@apache.org,Sep-12-2004
+44cba301d64abd1816a7e3ca35597db616e601ff,Dion Gillard,dion@apache.org,Sep-12-2004
+28a9b48cd5d1319ffa2f214877eeb8d9d3d81a6c,Dion Gillard,dion@apache.org,Sep-12-2004
+b6c82df11a7502620fbaed02e8b6cde385dd93da,Dion Gillard,dion@apache.org,Sep-12-2004
+d8374c28328f3d7f426b6ff8c972757f29ac0ffb,Dion Gillard,dion@apache.org,Sep-12-2004
+d8851d3058cf4b660f53e42b4c870a2de066426e,Dion Gillard,dion@apache.org,Sep-12-2004
+3dfe76dba8f9fb76e62fdc4e8a43c16b26b0509d,Dion Gillard,dion@apache.org,Sep-12-2004
+e21342ad44a58d04b294035ce9d65dd83e107023,Dion Gillard,dion@apache.org,Sep-12-2004
+5ec4a38664bf70f86e1d3fc408db659efabf3221,Dion Gillard,dion@apache.org,Sep-12-2004
+e022c4cabd4f857d4556e206c1e9117333050d4e,Dion Gillard,dion@apache.org,Sep-12-2004
+03848c4b1ab4288a852508847c4214600b1ab1b6,Dion Gillard,dion@apache.org,Sep-12-2004
+dca571e75d0794aa47d020e5f4ecb29cb879ce4e,Dion Gillard,dion@apache.org,Sep-12-2004
+e01ffde690a6e3044e1ee12943d7ef14732da94d,Dion Gillard,dion@apache.org,Sep-12-2004
+12c55c41c42c0825292875522d7a14dcb57e51e0,Dion Gillard,dion@apache.org,Sep-12-2004
+afc92d584ea57514de59661e1077f77c31278a9f,Dion Gillard,dion@apache.org,Sep-12-2004
+4466676d71ba9f0dba83f91478618465ec2e64c7,Dion Gillard,dion@apache.org,Sep-12-2004
+5948858f155b045a3989b8f37b14b164d78c2a34,Dion Gillard,dion@apache.org,Sep-12-2004
+61abec23e5a63e507504b4c39e24147bef2966d7,Dion Gillard,dion@apache.org,Sep-12-2004
+6bdbc5012331707a5fbe884494ed9db8ea0b6bcf,Dion Gillard,dion@apache.org,Sep-11-2004
+1cea56ef7ec8276fc8cfaa093f29763990739518,Dion Gillard,dion@apache.org,Sep-11-2004
+78f83545e120d5fb297076169edaa3e0f0f0c7ba,Dion Gillard,dion@apache.org,Sep-11-2004
+07b6e562aecdb7431f09f8ab4c969c9e049352ab,Dion Gillard,dion@apache.org,Sep-11-2004
+3aa42d33d8e7f7b46a84d7c798b9e3628b1bbcbc,Dion Gillard,dion@apache.org,Sep-11-2004
+a0b25867b7eba80f8074fc6106c9f751eb07e976,Dion Gillard,dion@apache.org,Sep-11-2004
+7a432a84cf057563b621749e94550c81a35b2d44,Dion Gillard,dion@apache.org,Sep-11-2004
+6d0f7c2337d7d168c741479e6ff481fe24f51a18,Dion Gillard,dion@apache.org,Sep-11-2004
+f815acaa8ab765fcba07c9160b07c88e59252658,Dion Gillard,dion@apache.org,Sep-11-2004
+4b12ff3d285c8b45d3a1d56b46e2ebc4765e7932,Dion Gillard,dion@apache.org,Sep-11-2004
+fef0ac0bee06553fa31152e7d76f6cd4fc4f8b24,Dion Gillard,dion@apache.org,Sep-11-2004
+d68cef7c32d7a66b402bf462fd779e4b1b1aff76,Dion Gillard,dion@apache.org,Sep-11-2004
+681be43facab285c611e97fffa668dbbfea195e0,Dion Gillard,dion@apache.org,Sep-11-2004
+302e51cc5d58a312cdc03d32ab1f368539945b14,Dion Gillard,dion@apache.org,Sep-11-2004
+44addc5c530a9ada8a014aec62606104d24a1fe4,Dion Gillard,dion@apache.org,Sep-11-2004
+f62b347a681308a641740c32379e0ccedda1ca48,Dion Gillard,dion@apache.org,Sep-11-2004
+d4b79c06ffcf37b890bc85e3b05045db3153e376,Dion Gillard,dion@apache.org,Sep-11-2004
+0630d868ec043e39bf86418de537a221e82a9bab,Dion Gillard,dion@apache.org,Sep-10-2004
+46c146fdc9c8cdf82cda8308eb501accc3b74679,Dion Gillard,dion@apache.org,Sep-10-2004
+97de5cdbd5002f2369ccd9f568cdb308ea977575,Dion Gillard,dion@apache.org,Sep-10-2004
+b9745398554c0df9775dbf20b0b49b4d32b19a5b,Dion Gillard,dion@apache.org,Sep-10-2004
+81e68ffc902bb5e6883618c117b1a07310c74913,Dion Gillard,dion@apache.org,Sep-10-2004
+8ba036245ea92cec462e9914206e4165130d5708,Dion Gillard,dion@apache.org,Sep-10-2004
+3209b0e2daa99699ba99cfc8f5665a6879da872e,Dion Gillard,dion@apache.org,Sep-10-2004
+753bfc898a5b3b98894a258da815a93a634fc400,Dion Gillard,dion@apache.org,Sep-10-2004
+3db34247eab869690d4647d1c9dee153bcf5e34f,Dion Gillard,dion@apache.org,Sep-10-2004
+fad6da2b8370f8fec703046b5b98a7df802ae06d,Dion Gillard,dion@apache.org,Sep-10-2004
+24a4bf694b107bcde6e95691c33b5f16fa666557,Dion Gillard,dion@apache.org,Sep-10-2004
+49a20387668801e95f3960bef26c4b4981de6f97,Dion Gillard,dion@apache.org,Sep-10-2004
+708fea5b815370ced39a71f17bb8023f7ec00ddf,Dion Gillard,dion@apache.org,Sep-10-2004
+be87e030d87ef564e30eed2f9ed6c8ba6c8e2016,Dion Gillard,dion@apache.org,Sep-10-2004
+93754afbc1c45f97907d8b573d1672d196ecf369,Dion Gillard,dion@apache.org,Sep-10-2004
+8654ef1f8396368e88f53b4a5b43d616816ae1fb,Dion Gillard,dion@apache.org,Sep-10-2004
+e4ced6d6c1635c36b39f9b28da0140c850a9da91,Dion Gillard,dion@apache.org,Sep-10-2004
+d8527525a3b1231de385e769e38c8c2b51a6e4c5,Dion Gillard,dion@apache.org,Sep-10-2004
+27bc578fa936e6c22d5f4b7f657e8fdd4b8df309,Dion Gillard,dion@apache.org,Sep-10-2004
+3a5e3a4208ea469d309ae731173640ad7a9d4f9d,Dion Gillard,dion@apache.org,Sep-10-2004
+b970bd417d0921176a4c16b93cebfe6726db515c,Dion Gillard,dion@apache.org,Sep-10-2004
+e340de8d91936afdc6c4896663d9708224d80f63,Dion Gillard,dion@apache.org,Sep-10-2004
+7c4cd0b1a5cc33c0a222378325a5fc27911566be,Dion Gillard,dion@apache.org,Sep-10-2004
+f2f6abe9ac20b86cb401b26992562707189075b0,Dion Gillard,dion@apache.org,Sep-10-2004
+0378dd85f3efb613e73e92217943eb538692361a,Dion Gillard,dion@apache.org,Sep-10-2004
+ba9deddd76989c1686ad3e143c88cca512fdca43,Dion Gillard,dion@apache.org,Sep-10-2004
+b25dba54128ca4b7c7f316156a1380c99a354edf,Dion Gillard,dion@apache.org,Sep-10-2004
+8aa09412820f06c8fbe154c9e14fb80121ccad14,Dion Gillard,dion@apache.org,Sep-10-2004
+2c4a1eb92133342d2e14dbf9979fc05513c7c21f,Dion Gillard,dion@apache.org,Sep-10-2004
+3fd19101901f770f45e31a89901261ea314bb628,Dion Gillard,dion@apache.org,Sep-10-2004
+b541a5eb1605e1b18e5337a978df3466acb2a2ca,Dion Gillard,dion@apache.org,Sep-10-2004
+4829403d1432118d59b10363e83db6d0f4e11430,Dion Gillard,dion@apache.org,Sep-9-2004
+823f2041f510e3c50aa962fd08e4a58a4811a65d,Dion Gillard,dion@apache.org,Sep-9-2004
+9029049ae019d4f20fc47e19bc7f3150c262899e,Dion Gillard,dion@apache.org,Sep-9-2004
+eabcc4b3b766d73ff4f2f9f63b014dfd6333831d,Dion Gillard,dion@apache.org,Sep-9-2004
+074d7a17d801619be2a0d47023e1735945c15a78,Dion Gillard,dion@apache.org,Sep-9-2004
+fcc6fad9841fa5357c1fc4311e570b56e648f7d9,Dion Gillard,dion@apache.org,Sep-9-2004
+a8f8c19cb2eee71afe3b505e8072dbcea6e0e768,Dion Gillard,dion@apache.org,Sep-9-2004
+33ec12240987ebd0cff85c60d9d56715120c3e14,Paul Libbrecht,polx@apache.org,Sep-9-2004
+cbaa8d2430c2bf467e589a423fee7c83e3f0eb2f,Dion Gillard,dion@apache.org,Sep-9-2004
+30daf48eb040383c6322a1469ee95646ac6c8eb4,Dion Gillard,dion@apache.org,Sep-9-2004
+a83fc7db2de90e1a66b7549bd7175547aeb7a70f,Dion Gillard,dion@apache.org,Sep-9-2004
+3486130ca2e6fce6798b90c7a80bc54e4df17e51,Dion Gillard,dion@apache.org,Sep-9-2004
+9cc67b05fb1c01c19fec95ab7e2b1b4e709b0ba8,Dion Gillard,dion@apache.org,Sep-9-2004
+6402e5aafda332429e553e4e29e47e555b9d8045,Dion Gillard,dion@apache.org,Sep-9-2004
+6d62f401e987734bdea8a8dd619af8c54bda45d6,Dion Gillard,dion@apache.org,Sep-9-2004
+07dda16d1ee82e94ab207374a11ee82971be70a6,Dion Gillard,dion@apache.org,Sep-9-2004
+293f5819bd3029bfc867c1b4906911ba85ee2589,Dion Gillard,dion@apache.org,Sep-9-2004
+7b7215d3e381b04a7e8d937c876253fb4b0c5b15,Dion Gillard,dion@apache.org,Sep-9-2004
+cfc92a66e357ceca500397c496408be547eb5308,Dion Gillard,dion@apache.org,Sep-9-2004
+8f893ed447d62e5cc5389b906efaf43640cec2fe,Dion Gillard,dion@apache.org,Sep-9-2004
+edc235e5e2bd652d3e400dab437336ddb8f399cd,Paul Libbrecht,polx@apache.org,Sep-8-2004
+b6d3127fcf4ebddfa30f247659a7b8a4cec1c893,Dion Gillard,dion@apache.org,Sep-8-2004
+acbe5eeb29eeb52755fda205f5f35be93781e482,Dion Gillard,dion@apache.org,Sep-8-2004
+31187ec4dc402b3d8d950e6782bfc03204d5676a,Dion Gillard,dion@apache.org,Sep-8-2004
+2cb10acb444d054b95db72ae851e06844e02379a,Dion Gillard,dion@apache.org,Sep-8-2004
+6c3e4dab84cd1807f1686839b17d4c01dfa38896,Dion Gillard,dion@apache.org,Sep-8-2004
+e5a6320364cf9a792fec5d5facd8a6c329713ed6,Dion Gillard,dion@apache.org,Sep-8-2004
+0ea675613ffd2cf68a98a7c9e9dd3cb01606eebe,Dion Gillard,dion@apache.org,Sep-8-2004
+c19f7f713cfcfb97873e690c73e97f1f16bf2ef5,Dion Gillard,dion@apache.org,Sep-8-2004
+5d4dfbf378edef67427f07fb62ddadc00b587554,Dion Gillard,dion@apache.org,Sep-7-2004
+3a8dcb8186657f2514347f2792812b24198411fc,Dion Gillard,dion@apache.org,Sep-7-2004
+1b3bd0d9705f7cf2ef9f0b1b6407012d2cf890a8,Dion Gillard,dion@apache.org,Sep-7-2004
+6fc184e7b4c759133d43fc1927178221a762cfdd,Dion Gillard,dion@apache.org,Sep-7-2004
+cfe0c88c95ed3eee176419efee21bd9004565e9c,Dion Gillard,dion@apache.org,Sep-7-2004
+88a374f3a7522e3f9b73eee2436ec4c0b0801b1d,Dion Gillard,dion@apache.org,Sep-7-2004
+368684cbb168345609c8cb7039a2cb1d0aaf3fa1,Dion Gillard,dion@apache.org,Sep-7-2004
+d3bde9510e6f103df08201214a9f667285788c83,Dion Gillard,dion@apache.org,Sep-7-2004
+b81488153b8779b1b5f44a10b5875913d8fa9146,Dion Gillard,dion@apache.org,Sep-7-2004
+5de1e5eb01d4d1ab8b991942b5f99b94582ae960,Dion Gillard,dion@apache.org,Sep-7-2004
+40336967b2ad384fbfff51e257de87f0028554e7,Dion Gillard,dion@apache.org,Sep-7-2004
+cacd53232bd81875623c64beb2165650c68bfe4c,Dion Gillard,dion@apache.org,Sep-7-2004
+14df51dbf611cf25c59cb435c2e462ea78db8656,Dion Gillard,dion@apache.org,Sep-7-2004
+a31231305f587b4805e1296587d65e1520d6f03f,Dion Gillard,dion@apache.org,Sep-7-2004
+c7556837960a8d1e07eed499c9a7e4bffb7ee6ef,Dion Gillard,dion@apache.org,Sep-7-2004
+0fcbdbb2e2f2359089a55a66d4c05ef9ac32e07f,Dion Gillard,dion@apache.org,Sep-7-2004
+f9bc721e42a60def1bc0d48b5477707a5f77ae74,Dion Gillard,dion@apache.org,Sep-7-2004
+ded2c2272f2a95c7a99f48159f21cedc0c86713a,Dion Gillard,dion@apache.org,Sep-7-2004
+686a22de2965f6ecd988b399549796d80d784da1,Dion Gillard,dion@apache.org,Sep-7-2004
+417263c1029d45af5bd27f06dfb9a97ee478b11c,Dion Gillard,dion@apache.org,Sep-7-2004
+868e9bdc414ee52c0585f70a00e1d2d555dd005a,Dion Gillard,dion@apache.org,Sep-7-2004
+b025b6eafe74fd54e8323a8179c9a85350075e42,Dion Gillard,dion@apache.org,Sep-7-2004
+d12a7dc3000602217009a3aeaf888caf2bad77c2,Dion Gillard,dion@apache.org,Sep-7-2004
+c6255dfd33c1ca94228c074d8e8468dcb333f673,Dion Gillard,dion@apache.org,Sep-7-2004
+211b02b483a7480598ced30832e8babcec0d0926,Dion Gillard,dion@apache.org,Sep-7-2004
+374f6bb438c576e3d6d143945e686e170580d1d8,Dion Gillard,dion@apache.org,Sep-7-2004
+20329957b74e38ca837be135481edc3329a8c064,Dion Gillard,dion@apache.org,Sep-7-2004
+fd8b55fac65058831c2c36358d8aba630b6d61dd,Dion Gillard,dion@apache.org,Sep-7-2004
+561fbe0858bf7367e3a3d76030cfb839a78eb406,Dion Gillard,dion@apache.org,Sep-7-2004
+4a503183c8b8bd89c8b31ebf01011eaee9e02e6a,Dion Gillard,dion@apache.org,Sep-7-2004
+85a20edc0b5e792ae7db4c037f678beb3c0aa22e,Dion Gillard,dion@apache.org,Sep-7-2004
+87c43bacb06309468edf67c98160a28caaac190a,Dion Gillard,dion@apache.org,Sep-7-2004
+9032fe71847882493e0d3a797b281f45913567e1,Dion Gillard,dion@apache.org,Sep-7-2004
+936d92fb743753386395e811560baa837e0f81d9,Dion Gillard,dion@apache.org,Sep-7-2004
+f890092324c39085c90d1aaebf6288534b44ff19,Dion Gillard,dion@apache.org,Sep-7-2004
+8a1a95b317db6c50564ff6fa34e346b9bb925d9f,Dion Gillard,dion@apache.org,Sep-7-2004
+26ef5dfd1f36941bb1dae405fd87136c9f9cd733,Dion Gillard,dion@apache.org,Sep-7-2004
+9ffa43828e3980a2dfebe626eebab674e4ba8393,Dion Gillard,dion@apache.org,Sep-7-2004
+eb18248dd508d7a56e4ab93bc5c22c1737e71168,Dion Gillard,dion@apache.org,Sep-7-2004
+39d5a1a2d398772499784daf1d5e9b15365c4816,Dion Gillard,dion@apache.org,Sep-6-2004
+cbd50bf0a35e7efdf2cee9fb1be7e9e4d2cf9a99,Dion Gillard,dion@apache.org,Sep-6-2004
+6bd8a01707e76bce1d5f79d23bab1b4e18a12b82,Dion Gillard,dion@apache.org,Sep-6-2004
+bb714418fa3f6e9dac6cf2ca2d69741dc2c2a691,Dion Gillard,dion@apache.org,Sep-6-2004
+94a1feb5137c10c57cc2345d5d757c6404cbdc5d,Dion Gillard,dion@apache.org,Sep-6-2004
+bb8244022b6481ae290af928080e9dafc391657f,Dion Gillard,dion@apache.org,Sep-6-2004
+27cdc122321bef8821f1c2d6030d42a3aec588cd,Dion Gillard,dion@apache.org,Sep-6-2004
+2d2b7dcf20aada4166830ccec199216be7f5ef1d,Dion Gillard,dion@apache.org,Sep-6-2004
+c911dc1f5d1d892da945a115e9f29b8ac23cf595,Dion Gillard,dion@apache.org,Sep-6-2004
+63540011ecd90a7c89b58ddfc2b79c333b0f54c8,Dion Gillard,dion@apache.org,Sep-6-2004
+45f46b8c040dccea4da6f6c3c1e1150583d78484,Dion Gillard,dion@apache.org,Sep-5-2004
+cf09f2221759e2a2dbfec7e0ced3a950b750bfd3,Dion Gillard,dion@apache.org,Sep-5-2004
+c1ebe88814b8e5bd6a5a73a9ac796d1f3230c292,Dion Gillard,dion@apache.org,Sep-5-2004
+2c537058d9abfef583b1dfdb28fda7ee4e063ec9,Dion Gillard,dion@apache.org,Sep-5-2004
+316d371ed2d09a895e23cd207b398613f8ff471e,Dion Gillard,dion@apache.org,Sep-5-2004
+9e40903eef53cac7af5458650cc8761b443e02a8,Dion Gillard,dion@apache.org,Sep-5-2004
+30c3bddef271ada1144022f3eef9bb53bafa002c,Dion Gillard,dion@apache.org,Sep-5-2004
+0a2468b27e1e400cebb839322ff68440fea0b8c8,Dion Gillard,dion@apache.org,Sep-5-2004
+b4d65cc88c9dbc98b11e5a3fc24b1aaba1708481,Dion Gillard,dion@apache.org,Sep-5-2004
+4e0a5cb44b32ff0d18b2f5cffd0ada00f34e6221,Dion Gillard,dion@apache.org,Sep-5-2004
+239cb3581ca4cd09af4288e40be775b8332a4aad,Dion Gillard,dion@apache.org,Sep-5-2004
+1d99fd3ed4162849a662ef6c800d4de5dd6a2d68,Dion Gillard,dion@apache.org,Sep-5-2004
+0ed4ef03022d8ecbf6749235b32b653892a0689f,Dion Gillard,dion@apache.org,Sep-5-2004
+54c62a0a10d9b24b73f97b88d529381c52bd6cba,Dion Gillard,dion@apache.org,Sep-5-2004
+e677293cbd36f839818623dec3e8d82fa3e2a6d5,Dion Gillard,dion@apache.org,Sep-5-2004
+961b01535670ead0e35a9bc58fa5c9a3682dd419,Dion Gillard,dion@apache.org,Sep-5-2004
+58ba68fe303bb1f4dfbf2b35a6cb393320fd39fd,Dion Gillard,dion@apache.org,Sep-5-2004
+72c3ffdddd759a3655c8e216ba8892aca19a3f18,Dion Gillard,dion@apache.org,Sep-5-2004
+2f652b953d1045ab48ecbf7e64d4415d8768db9f,Dion Gillard,dion@apache.org,Sep-5-2004
+3f7ca8651a8d0766295d8c0fd607cc320ded188a,Dion Gillard,dion@apache.org,Sep-5-2004
+87c59bfaea0ac6e04b65eca2e51174cb69cd7337,Dion Gillard,dion@apache.org,Sep-5-2004
+e47ec7a63e68dfdf602f750633673ae047b8d27b,Dion Gillard,dion@apache.org,Sep-5-2004
+17673c4f3f7aa64d3a139e0bce930b2f54210e97,Dion Gillard,dion@apache.org,Sep-5-2004
+38b4acd952198ab2e469c8be2204ac1f53220523,Dion Gillard,dion@apache.org,Sep-5-2004
+3d566e6c60705b0679276e55498b49c44d607a2e,Dion Gillard,dion@apache.org,Sep-5-2004
+76ee44acabad50235c7cce3ad7b520b2ae1c5f61,Dion Gillard,dion@apache.org,Sep-2-2004
+238244a77265b2ee5141fd56b626148eda2010ce,Dion Gillard,dion@apache.org,Sep-2-2004
+8784fffa0808fc671742c01d6ee28f2e5f87681f,Dion Gillard,dion@apache.org,Sep-2-2004
+51a31f11a9b68a72274454c4b828a1aa8f757830,Dion Gillard,dion@apache.org,Sep-2-2004
+22194caa9300bdf7e2ee57cde0a986374206ca97,Dion Gillard,dion@apache.org,Sep-2-2004
+5a3d46784b11a5f45ae837e0646bfb44a53a8dfd,Dion Gillard,dion@apache.org,Sep-2-2004
+eaca3a7babf52fe515d09a5ed36be9de1f1d6b34,Dion Gillard,dion@apache.org,Sep-2-2004
+9a385b7ca52be505b144ba575d5767c60674667b,Dion Gillard,dion@apache.org,Sep-2-2004
+99c5cb8d767aec2e08308187c95277ecf22a82f3,Dion Gillard,dion@apache.org,Sep-2-2004
+e71953dab350323be07bf3a18e778d5a0333d218,Dion Gillard,dion@apache.org,Sep-2-2004
+a56b74e8d3ed3d1d5810c2fbdee1d050c78102a2,Dion Gillard,dion@apache.org,Sep-2-2004
+46389b4db1473dffbf70ef5ae9c1bdb792e61282,Dion Gillard,dion@apache.org,Sep-2-2004
+0b0a70a529a9db5b128bd06c36ce56e429564509,Dion Gillard,dion@apache.org,Sep-2-2004
+e388142dba9faf44d2f00ab3102725d2a0c419a8,Dion Gillard,dion@apache.org,Sep-2-2004
+88bb7c6ad4bfa2b0c3713734f9fd79e1cd49e284,Dion Gillard,dion@apache.org,Sep-2-2004
+6624bef93c36029a6429ab669770f744854b074b,Dion Gillard,dion@apache.org,Sep-1-2004
+b44ae9e8732e08af43bd0fcfce802a62d6f0d6f2,Dion Gillard,dion@apache.org,Sep-1-2004
+2cdc4833c562f17b0e6561da0bda9c6770ef1993,Dion Gillard,dion@apache.org,Sep-1-2004
+1ca21a15ca8e923260e09e9bb86138b8ed892a3e,Dion Gillard,dion@apache.org,Sep-1-2004
+9a39fc8ee99fc961988f348d8869539837ec467c,Dion Gillard,dion@apache.org,Sep-1-2004
+696cd9e8192b7332ff9fc03729000c2fb368db52,Dion Gillard,dion@apache.org,Sep-1-2004
+5e03075b75155653ca379f0a9fa6a8ee3a7ad59d,Dion Gillard,dion@apache.org,Sep-1-2004
+5a72ba7fa0fddfadaefd91833d3bd16dfc8cd72e,Dion Gillard,dion@apache.org,Sep-1-2004
+c634314dffecc4782bc4bb83a98d6e333af99733,Dion Gillard,dion@apache.org,Sep-1-2004
+94dc0171e5112bd1c768423a8112a7b37dcdc7e5,Dion Gillard,dion@apache.org,Sep-1-2004
+10e046d55dbeaf22a05bc536133a592f9babfae5,Dion Gillard,dion@apache.org,Sep-1-2004
+48f2add07bb279b30e5614ecf5cbd3bd87fc1967,Dion Gillard,dion@apache.org,Sep-1-2004
+8d3db24c1297f8d5ab9578b1707d31b64a2786b6,Dion Gillard,dion@apache.org,Sep-1-2004
+e7933d45246e8250f376971c8cba1fffdc9a2a62,Dion Gillard,dion@apache.org,Sep-1-2004
+65bdff293148def49c3347f4a6cb0b3bac1cc914,Dion Gillard,dion@apache.org,Sep-1-2004
+3b509aa9885524754c14df47e666ec8c86eb9f06,Dion Gillard,dion@apache.org,Sep-1-2004
+a223db80de5da53309b8fd74fffc6877a697f6fa,Dion Gillard,dion@apache.org,Sep-1-2004
+56b8fafb488d83e78134bea2f783c3a7919d421d,Dion Gillard,dion@apache.org,Sep-1-2004
+c74f4d6c01a915db9a36bdd5974b7217245dd176,Dion Gillard,dion@apache.org,Aug-31-2004
+d3cfa0132600ff19db5e914e22b4d524695462d0,Dion Gillard,dion@apache.org,Aug-31-2004
+02c904c138092d440b0cd94388081b707ee558ec,Dion Gillard,dion@apache.org,Aug-31-2004
+634d23e8eab4f85f57133032c567fd540e3fff85,Dion Gillard,dion@apache.org,Aug-31-2004
+0dcab2a3f323ef053cd6bd848a6fa71bcb9ea404,Dion Gillard,dion@apache.org,Aug-31-2004
+ba9911c30e7cf3df94dd5c2dde3d8846cf2d1d8a,Dion Gillard,dion@apache.org,Aug-31-2004
+3b2e2c5eae066f59c8f22e06e9c6b3a89ecac44b,Dion Gillard,dion@apache.org,Aug-31-2004
+7c85587f85157171c48a2a6ac525434e41d0b73f,Dion Gillard,dion@apache.org,Aug-31-2004
+46d53b6b02779b62917a018013b6bc75374b5c12,Dion Gillard,dion@apache.org,Aug-31-2004
+3cb284f33a459a7c29f5143e545fc4c6f397a183,Dion Gillard,dion@apache.org,Aug-31-2004
+de3f993b8aeeb4889f447212607e1deb947243cf,Dion Gillard,dion@apache.org,Aug-31-2004
+43ca932fc24bf4b5f9ffd83cbc863e54bd866b50,Dion Gillard,dion@apache.org,Aug-31-2004
+0213ae9ec49bfe56008a771d98c097c0777b0fac,Dion Gillard,dion@apache.org,Aug-31-2004
+7a44b5a9ccd04715159e032206ec408558450545,Dion Gillard,dion@apache.org,Aug-31-2004
+245ebe36ec7aafa50d8e443912d9ed621565d79b,Dion Gillard,dion@apache.org,Aug-31-2004
+b00eb3afce83da580757a097500b14edde7fb75c,Dion Gillard,dion@apache.org,Aug-31-2004
+61e0110562a18ddd6cf8f2a13f3d8b7e9b4039f5,Dion Gillard,dion@apache.org,Aug-30-2004
+ab1fd5e96bea7b5afb0c7b3434f9de2ff3ae1b7b,Dion Gillard,dion@apache.org,Aug-30-2004
+03e34068af90e4e69719652539615a60e93d2655,Dion Gillard,dion@apache.org,Aug-30-2004
+87a5b8e1e4fcd97b6e614bcd0792ab19b3f8b2bb,Dion Gillard,dion@apache.org,Aug-30-2004
+9f963cfb9e2a52b1a62799995d0fc1f40c3612a8,Dion Gillard,dion@apache.org,Aug-30-2004
+1ce1a3c03c3c6c9af85801989aa9d528930b7a57,Dion Gillard,dion@apache.org,Aug-30-2004
+e67f173812930e76d8843bf05e6608454f1e716f,Dion Gillard,dion@apache.org,Aug-30-2004
+35da66d0c362863f414b9a503a56b7c47c116df5,Dion Gillard,dion@apache.org,Aug-30-2004
+f53f0caef1875e9f35740e3d0f9b0b09059dcb6a,Dion Gillard,dion@apache.org,Aug-29-2004
+97d01f2577ff47d986e7cf6e8e1d208ab82eda02,Dion Gillard,dion@apache.org,Aug-29-2004
+99ff1fce7607937ec84cd650428da4301c24398a,Dion Gillard,dion@apache.org,Aug-29-2004
+1c36970b7617c0d686a2919e49222d41ddf6e6cc,Dion Gillard,dion@apache.org,Aug-29-2004
+f12be763b06c533c4a9a2e7cbd1f7ba7a8c69195,Dion Gillard,dion@apache.org,Aug-27-2004
+0011172d8d6f8e5d74228b0974a7ae7918fd681c,Dion Gillard,dion@apache.org,Aug-27-2004
+03728adc4580a744bd5bfa8569a8e74e87fd2c96,Dion Gillard,dion@apache.org,Aug-27-2004
+c682209f94e26cfe5071ff6f6de1a56b3c815de0,Dion Gillard,dion@apache.org,Aug-27-2004
+8b1e82f8b0737412a3c57d76666a91930a4c3e04,Dion Gillard,dion@apache.org,Aug-27-2004
+6a5fbe8a18e3868e5898911deb928364ceeeea52,Dion Gillard,dion@apache.org,Aug-27-2004
+f76983a71525872f89faeed02d0dff499ba8bbf5,Dion Gillard,dion@apache.org,Aug-27-2004
+4b1b187ef6b6246f2a979a796b5867dbedc0f280,Dion Gillard,dion@apache.org,Aug-27-2004
+f8a3128ef0b77e4f37bac2111ef65a209e229117,Dion Gillard,dion@apache.org,Aug-22-2004
+756e3860187dca4a4a2c1afdebc87accaf415552,Dion Gillard,dion@apache.org,Aug-22-2004
+7d761a93bd1b1e871189f20eb645ecc49ccfaffe,Brett Porter,brett@apache.org,Aug-20-2004
+2af0c03dc89dea16a67752cff975c8f7cced5faa,Dion Gillard,dion@apache.org,Aug-17-2004
+737ce76198e7566a2f2bbe19a21466ba986dae21,Mark R. Diggory,mdiggory@apache.org,Aug-17-2004
+0b60f87e57a2f585db5ba60a74bd65a0799aedc4,Dion Gillard,dion@apache.org,Aug-17-2004
+b2dde6745141adfef1a532a67a0e68f5a6f7ae71,Dion Gillard,dion@apache.org,Aug-17-2004
+2d9c761acdfd8967ed7f71472cae97795967b2a0,Dion Gillard,dion@apache.org,Aug-17-2004
+cd727f35176fe0f31c3f03945fb32abda6915601,Dion Gillard,dion@apache.org,Aug-17-2004
+6cf224675ee67e28b6432dbc192149b5df0f5c3b,Dion Gillard,dion@apache.org,Aug-17-2004
+81091d8b32f23d51a0259693d5a4c2930adfdd3d,Dion Gillard,dion@apache.org,Aug-17-2004
+76e9ccb35173c06ddf6cac28a2b1b5dc57a8ac74,Dion Gillard,dion@apache.org,Aug-17-2004
+d1d95a5a0e293ad55ce04729a1b31a4d4086f8b8,Dion Gillard,dion@apache.org,Aug-16-2004
+dcb33f4a5c6fcbe0fe5d082845be2f99073f3471,Dion Gillard,dion@apache.org,Aug-16-2004
+90f1d211360ed8959130650f9c023cb86cc332d6,Dion Gillard,dion@apache.org,Aug-16-2004
+5fcf79e03559b80a7696f55d7dec97536026bba7,Dion Gillard,dion@apache.org,Aug-16-2004
+b8789d0b9bb9f4d8dc045195b63008e0f62849d7,Dion Gillard,dion@apache.org,Aug-16-2004
+02898c72a4d876d48b0d0c7f9580b272d9c45c98,Dion Gillard,dion@apache.org,Aug-16-2004
+3140c5202007f6cb4aa1e22d06553f98137217f3,Dion Gillard,dion@apache.org,Aug-16-2004
+ea29d1667fca3a540557be150326766a1120a8c6,Dion Gillard,dion@apache.org,Aug-16-2004
+ef28754c3650067b9bbece95265d017fab084477,Dion Gillard,dion@apache.org,Aug-16-2004
+4beca208c9c63d4091c90703642d9a6e2a0591b5,Dion Gillard,dion@apache.org,Aug-16-2004
+1e1523a7547cff5d8a45c44dc693ed834db970cc,Dion Gillard,dion@apache.org,Aug-16-2004
+d8e7de3c31b328f065bb0b96335f52ea55580d38,Dion Gillard,dion@apache.org,Aug-16-2004
+02196293248fb0e3082a25fd1d2701fcc91773f7,Dion Gillard,dion@apache.org,Aug-16-2004
+d08ae31bbb0130535145398a216f71d9166b58e4,Brett Porter,brett@apache.org,Aug-14-2004
+19aa3aa5fbf64e533448fce557d5bc20a9c0b4a0,Dion Gillard,dion@apache.org,Aug-12-2004
+15578327ab6bda6635c729c9c088bf22491547e9,Dion Gillard,dion@apache.org,Aug-12-2004
+87aafcaa6b7c70067f8e5dc21bb673909d9b0760,Dion Gillard,dion@apache.org,Aug-12-2004
+06d3cef5fcc46162fb140b18db7aed69ffea4f4a,Dion Gillard,dion@apache.org,Aug-12-2004
+9ba3faae125523c1fc20b4fb86bccafbda9a4db2,Dion Gillard,dion@apache.org,Aug-12-2004
+f724d5d3d15ef3fb4e4ebcc7066569c08ceb944a,Dion Gillard,dion@apache.org,Aug-12-2004
+63f0cb5c2f8953ae1aeb00aa00b91b7f68e35d1d,Dion Gillard,dion@apache.org,Aug-12-2004
+9fa80b8fb36cb264e065ddae53bbe3f1165b285d,Dion Gillard,dion@apache.org,Aug-12-2004
+3fb6714999c8851bc0631965ad28913a8268bc2f,Dion Gillard,dion@apache.org,Aug-12-2004
+67acad2c853a50b19cd7416f279a06c48c9948d0,Dion Gillard,dion@apache.org,Aug-12-2004
+8c7fec67b04325c96f96198f03c51dc88785f48d,Dion Gillard,dion@apache.org,Aug-12-2004
+0920ccec808c77fed4d82f0729999bc382a731f9,Dion Gillard,dion@apache.org,Aug-12-2004
+34a695ba052fe5f78a573803ee1c59a0dbc408da,Dion Gillard,dion@apache.org,Aug-12-2004
+17ce4dab11959783b78862ba37f93a68c67bec1c,Dion Gillard,dion@apache.org,Aug-12-2004
+37c1e4f7ac0a6e379bffb45d4b7bc9b21d797596,Dion Gillard,dion@apache.org,Aug-12-2004
+900c682666613f260a173aaf64127cea6f23be23,Dion Gillard,dion@apache.org,Aug-12-2004
+1d2d73709a5c9a2819dd081f7a5eaeb743aae0fa,Dion Gillard,dion@apache.org,Aug-12-2004
+c50c324c72a6dab6a29c4f1be5a5f43bc1debebf,Dion Gillard,dion@apache.org,Aug-12-2004
+cbaf947175bc1ebe1a39318e6ff7a291458d30e2,Dion Gillard,dion@apache.org,Aug-11-2004
+a2cd177adf23c2d010b55a4262e1123354bbb083,Dion Gillard,dion@apache.org,Aug-11-2004
+1b174573075619e6821818d6f1da3e2dfa191407,Dion Gillard,dion@apache.org,Aug-10-2004
+48b5d2e42a162615b41390e29a9802fb438d9e30,Dion Gillard,dion@apache.org,Aug-10-2004
+95d0ac65428f8c9f4e28e21ce5740fa5e4a0a9c5,Brett Porter,brett@apache.org,Jul-10-2004
+4cf54527c0bddf41cad19e6df46d7591dd97ebec,Brett Porter,brett@apache.org,Jul-10-2004
+095729650759724680a39cb3c8ad0069b4cb38fd,Brett Porter,brett@apache.org,Jul-10-2004
+a65acf7bb5b9af685ee58184b0ec00e6941ca390,Paul Libbrecht,polx@apache.org,Jun-23-2004
+66525a00767866811d6a105a8d083e19b2337f8d,Paul Libbrecht,polx@apache.org,Jun-21-2004
+f080c79bcbd4367abf5e34f06ec94a6053844d3a,Paul Libbrecht,polx@apache.org,Jun-21-2004
+9413f98301dc521074cc51fe45183b51d21debe1,Paul Libbrecht,polx@apache.org,Jun-21-2004
+65139474e2161ae154357b0da6fb5e5c9600b1b8,Paul Libbrecht,polx@apache.org,Jun-15-2004
+609129926889642198cbe2ad21cc16ef94411855,Paul Libbrecht,polx@apache.org,Jun-15-2004
+0c7e65524730eb8dc3fe2710b4daa75580fb3336,Daniel Savarese,dfs@apache.org,Jun-5-2004
+0511b07a5d801eed0c54930da1d20abaad8c75ea,Daniel Savarese,dfs@apache.org,Jun-5-2004
+1ea1273c61ac9f406df43e944f11d783d3df901b,Daniel Savarese,dfs@apache.org,Jun-5-2004
+92400ff387a181de2ef0d42dead04db39d9fb1ee,Daniel Savarese,dfs@apache.org,Jun-5-2004
+b6d0419db6950b47ea77d84ead9f60eb3ef9627d,Dion Gillard,dion@apache.org,May-26-2004
+19f649056ef80bc9bae806c6805be9189dbf3587,Paul Libbrecht,polx@apache.org,May-24-2004
+29f07463d6370c6203b0686ddcc2c2fc7a823d6e,Paul Libbrecht,polx@apache.org,May-19-2004
+3e25fbb5601b0bca6d9d9d59d3b8548613142e44,Robert Burrell Donkin,rdonkin@apache.org,May-1-2004
+dc3e0e891d6fab6eee50c34b614e96fac8d22972,Dion Gillard,dion@apache.org,Apr-15-2004
+679d2314bedc1baa1815fd30b2c1c5822063988f,Mark R. Diggory,mdiggory@apache.org,Apr-6-2004
+f05f2fabb6ff45e2065dcb64847dded0dc0fe736,Robert Burrell Donkin,rdonkin@apache.org,Apr-1-2004
+543a8af9cb44f98541488e28352e03cc34e302a2,Robert Burrell Donkin,rdonkin@apache.org,Mar-31-2004
+e1478f40d67f850aeb8959e6ce15acf98bef4c5d,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+b2772aa6fd7d58a6705264ba895f19dbd3bec14a,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+93410ca3311d1d2ed34b2dcaaa89ee58daffcb62,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+de92b47b9323c5065d30d955d85039d5c1d415d8,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+48207109c585f8f300dfa58cf2f89687f709bbfe,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+c73a6a16d53e1169ccd76cf6b185a0960e973ae2,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+e07b64a816f46c8b6e500abbb279dc46381d4481,Robert Burrell Donkin,rdonkin@apache.org,Mar-28-2004
+f4c37841d245b613b3b13643cde53dea1ecaeda9,Paul Libbrecht,polx@apache.org,Mar-26-2004
+4aec3d4c264921edea749c6d88fa7f077b10500a,Robert Burrell Donkin,rdonkin@apache.org,Mar-25-2004
+73cbbaae02235af0e4c5a0f8bd641e266d518832,Robert Burrell Donkin,rdonkin@apache.org,Mar-25-2004
+2954a3b0a85b31ef995b0e17e86497e9e9c3c494,Robert Burrell Donkin,rdonkin@apache.org,Mar-25-2004
+6badcab8e1de79352adb867a5b33a55432850cc1,Mark R. Diggory,mdiggory@apache.org,Mar-2-2004
+f7e1a967b288a8421c053077c8f79ecbc73153c0,Dion Gillard,dion@apache.org,Mar-1-2004
+bbce27eebff99837de177fe130819adaa3f05026,Dion Gillard,dion@apache.org,Mar-1-2004
+8170dabfce53be8d8c25720fd3343912e7767e30,Dion Gillard,dion@apache.org,Mar-1-2004
+a6a377918a87af6fc2c4e59bd6c6bc42ac3a34b1,Dion Gillard,dion@apache.org,Mar-1-2004
+a082b7a4592161e5080a9f4bb48b633fd9f7055c,Dion Gillard,dion@apache.org,Mar-1-2004
+fd66fa448a8bd44f99b46acbdb83c38d1e76e1b2,Dion Gillard,dion@apache.org,Mar-1-2004
+2171250fcef3faa21895dda44f35669bdec4c458,Dion Gillard,dion@apache.org,Mar-1-2004
+2cf91dbc2f5c22e75d11a02d4f9b7a61db2557fe,Dion Gillard,dion@apache.org,Mar-1-2004
+c031861301dd9a286b754009d05be1afa08d76f6,Dion Gillard,dion@apache.org,Mar-1-2004
+85859b53c88581422ef46a97354ca810103daf65,Dion Gillard,dion@apache.org,Mar-1-2004
+c1543002e731923f716e3d323d1da7cef6f46ea2,Dion Gillard,dion@apache.org,Mar-1-2004
+a1acbfe16158f5f02b6f53fe1466774d4351fac0,Yoav Shapira,yoavs@apache.org,Feb-28-2004
+485d7de72531b4f6e60e98218c50a9e6784d8b83,Dion Gillard,dion@apache.org,Feb-26-2004
+8a07dd26b32be0d1e548bc011aa7338f25ce061f,Dion Gillard,dion@apache.org,Feb-25-2004
+7b7a233889ba0e8685f42b8d050aad61d18c310e,Dion Gillard,dion@apache.org,Feb-25-2004
+3b856ae853c8dc140ac96e08eb14159dcea8b422,Dion Gillard,dion@apache.org,Feb-25-2004
+4026e7f9f7067a1bb9cec520ae8dfbd54e2260e1,Dion Gillard,dion@apache.org,Feb-25-2004
+607fae694cff0f49239ec01aec9d06cb013644f0,Dion Gillard,dion@apache.org,Feb-25-2004
+4243487ce140794c95c010a94ccfb183081e5273,Dion Gillard,dion@apache.org,Feb-25-2004
+f6c5983c6785c10f0119197a02c86516952d0d66,Dion Gillard,dion@apache.org,Feb-25-2004
+5c6bc6f18bc2905d9839115adc094cc3e3c37ebe,Dion Gillard,dion@apache.org,Feb-25-2004
+2471b6d089e8e54902409a08abbcb507ab82fe55,Dion Gillard,dion@apache.org,Feb-25-2004
+2bca43c9f9b81b088680f3ad388e150560da3155,Dion Gillard,dion@apache.org,Feb-25-2004
+67bae3fb6afaf1faede662a51535250a187ade92,Dion Gillard,dion@apache.org,Feb-25-2004
+2d049a1cd2467f06a65009e6b85dd59ddd2070aa,Dion Gillard,dion@apache.org,Feb-25-2004
+3246c3d0b28be665dcb73584a1c02397986d1763,Dion Gillard,dion@apache.org,Feb-25-2004
+1747f620f8983779aba3078b737f2d22ecf16560,Dion Gillard,dion@apache.org,Feb-25-2004
+965c7fc88e70b4fef0ce7fefc3c700c40f720cf2,Dion Gillard,dion@apache.org,Feb-25-2004
+2762bc89098e0c62d922c9cd216a793a6e50833c,Dion Gillard,dion@apache.org,Feb-25-2004
+52be581202273498b6dca119774014f97fa00f15,Dion Gillard,dion@apache.org,Feb-24-2004
+d4cd9ff98f1ee0bab6a3389e2a218f571d5f97e4,Dion Gillard,dion@apache.org,Feb-24-2004
+2d4d771b1cfef15d634603077e18c11fcec82fa2,Dion Gillard,dion@apache.org,Feb-23-2004
+8490ef15bb3cf43cfe6be9f51f564cd555201fd0,Dion Gillard,dion@apache.org,Feb-23-2004
+d857ac593aa5b4cb6b326e46793032ac28821f74,Mark R. Diggory,mdiggory@apache.org,Feb-18-2004
+7d784d3480076741b09048578af8fe5cee821556,Paul Libbrecht,polx@apache.org,Feb-5-2004
+22f6ed67e91066f57cc56d04852b1526436ef929,Paul Libbrecht,polx@apache.org,Feb-4-2004
+88694dc3b52fc326425515b72453da03a2bc547a,Paul Libbrecht,polx@apache.org,Feb-3-2004
+5a73ffd00f3c24dc75d1412b491931e1cce72381,Paul Libbrecht,polx@apache.org,Feb-3-2004
+900a6cf4b5f8ca152c0ec4d58ef53e1ce2ec8b74,Paul Libbrecht,polx@apache.org,Jan-16-2004
+6b82886f93896ad3013d9c80fc836c98057c8fa9,Dion Gillard,dion@apache.org,Jan-8-2004
+c60486408e4262a19ef601e19c2cf413b1eab274,Paul Libbrecht,polx@apache.org,Dec-25-2003
+2dd3ed2a024aa87bb1f7a1fda398518d5909879a,Paul Libbrecht,polx@apache.org,Dec-25-2003
+8d71d991cd517d2f3e94029c421c919d2069c560,Paul Libbrecht,polx@apache.org,Dec-25-2003
+4a574f2d746adb0037efdbfe967936c1918ab255,Paul Libbrecht,polx@apache.org,Dec-25-2003
+b411ee19939a21f7d199a05fccc8e610f25b2159,Paul Libbrecht,polx@apache.org,Dec-25-2003
+ac3715e01c57e8444e108e39c31be4a7ee0ab11e,Paul Libbrecht,polx@apache.org,Dec-25-2003
+1d15e9a4daaf2cf5d10d0ffc119a8c036740cceb,Morgan James Delagrange,morgand@apache.org,Dec-18-2003
+2c1458163a8b2246f56b57c15df0b9e13cf957a5,Martin van den Bemt,mvdb@apache.org,Dec-8-2003
+130d3bd78f18ebc351186308965f78d811cf0c2e,Dion Gillard,dion@apache.org,Oct-30-2003
+607f35ad6c1e19b1f9e46e2dc8cf7076d42bb335,Robert Burrell Donkin,rdonkin@apache.org,Oct-9-2003
+56803428ef21d4748f3efd4fcf2867fc29aa67c1,Dion Gillard,dion@apache.org,Oct-8-2003
+02fce1a2d6e926ffebe24c293f212dcfeafaefc5,Dion Gillard,dion@apache.org,Oct-8-2003
+291a8cc750d3c60d6c6a437412ef4e53747a59a0,Dion Gillard,dion@apache.org,Oct-1-2003
+d10e99ce636e659e4aa585edd7271b8ee1e8a537,Dion Gillard,dion@apache.org,Sep-30-2003
+f8e2542220f7949fb7b24574f08fc6d7220038b2,Dion Gillard,dion@apache.org,Sep-22-2003
+c7e39e913919d07dc00cddee0c9ac500238b3704,Dion Gillard,dion@apache.org,Sep-22-2003
+d3fa489941eb7541cf01a5f1abc5d6e56357ac9d,Morgan James Delagrange,morgand@apache.org,Sep-15-2003
+3c6faab96e35a4a04f759feb73c4f98caab17c32,Morgan James Delagrange,morgand@apache.org,Sep-15-2003
+33819b019be6e97367fb0a39478429f46d32d051,Dion Gillard,dion@apache.org,Sep-15-2003
+a701f3ecc316f70ec5cab4e9a8df45f5f01d476c,Dion Gillard,dion@apache.org,Sep-15-2003
+cef46e7916932c5307e52df9170cea27abb35640,Dion Gillard,dion@apache.org,Sep-14-2003
+968e177f90f61a8c6cf17ec6131939e847f3d679,Dion Gillard,dion@apache.org,Sep-12-2003
+c201a3ef9d574200759ff1169a1da5956108e412,Dion Gillard,dion@apache.org,Sep-12-2003
+3d5dd6f7092d380f24e8393a9e006bc12ec51d31,Dion Gillard,dion@apache.org,Sep-10-2003
+d98fd33b5de208ec0fb8f9b89d22284073e9ce66,Dion Gillard,dion@apache.org,Sep-10-2003
+0581182aa7421c42b20432a608e191f8c683692e,Tim O'Brien,tobrien@apache.org,Sep-4-2003
+964b3f83527b3942507250bf90d984f1891df755,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+feafdf89b7f3577437a29ebda4f9e96b86df81e6,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+587f578ae746ac81ddea350d412c7432fa5e3f52,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+2553628c720710973ed1b140c5d9fbab2c224d5c,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+422a3801f7927eac53bbb2cec4157d52b3825cee,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+2c6fe09ef1ab2826fafa140a9770c29e76ec9735,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+02d8c60a0cc6932240b6a7ffd8d03bffbd99ab8f,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+4bcd770bf92b595628a6432b75c403e416923dc2,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+4c97b945bee298bcd6d0581ab623c20f14a85001,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+881c564db53be84cc7679a862d6ef3cffe163bf1,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+815e42b5b92b776efe3dc7cd79fb7dca0def42ac,Peter A Royal Jr,proyal@apache.org,Sep-4-2003
+b2f8f8e0bfeb72310b18431188c32d0b4704cfe8,Morgan James Delagrange,morgand@apache.org,Sep-3-2003
+717379e1b4db3edcc1404bd33242d6342530ad88,Dion Gillard,dion@apache.org,Sep-2-2003
+de1c7f959fb0a120b966f3602f7911a4d914aca2,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+d2c03de0a2596a10413910b990a137d22a47b9cb,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+3858d5ad40f0a3383bc43fb1546629ee794004ef,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+89ae4b5edbb8ab147720404d1c4157202286fe22,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+0b5d5cb7f17863b005dbaeb4dd010632d3aa7af0,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+68ebe638179deddd265d563bb6e5ce6634f8c314,Peter A Royal Jr,proyal@apache.org,Jul-28-2003
+7605322d070ff99b9e98805aaea6b5074ac2a470,Peter A Royal Jr,proyal@apache.org,Jul-27-2003
+5f1485094e9e12d4454aafe24f061d10501379b3,Peter A Royal Jr,proyal@apache.org,Jul-27-2003
+fb915ca5dad311789b2e21a31fd0e48815f4eb9b,Peter A Royal Jr,proyal@apache.org,Jul-27-2003
+6f4231f9113b02e5a0e38396b827ca34ee07ffee,Dion Gillard,dion@apache.org,Jul-24-2003
+b7fbe8c21fcf7da6405b63670633060e70b93dcd,Dion Gillard,dion@apache.org,Jul-11-2003
+08729cca1201e182e1d20c60a6c864473b127d15,Dion Gillard,dion@apache.org,Jul-10-2003
+25cf4ead5a140f92cb01fe448cef90bfafeb8c46,Dion Gillard,dion@apache.org,Jun-25-2003
+bff08440143b15aa1cc8728aff1b89f8e767ff3e,Dion Gillard,dion@apache.org,Jun-25-2003
+06dffa1ffac26439ed089e3a299814b5ebb25886,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+6103569f2ce1f967b70888205452c594b2750cee,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+7bb0dbe25b8fe96b1b794fdd9f9b1f2771472563,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+ad706dd4a6a6f0d07bf90d02acfabcb67237c6c0,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+26ac56f9f39660087ac386156866d51c987ee057,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+94fda45f9c2bf9a54df696d2b3eb201d1d48d447,Peter A Royal Jr,proyal@apache.org,Jun-23-2003
+e9095ffd334fb9a8a056d006427d29766fe0b450,Peter A Royal Jr,proyal@apache.org,Jun-22-2003
+c0c7a99b28259e26b0891518a2770bb3a19a0871,Peter A Royal Jr,proyal@apache.org,Jun-22-2003
+f050f08ed3caf44d38c1afe823d708c701dccc43,Peter A Royal Jr,proyal@apache.org,Jun-22-2003
+75d48a9640eac053ab5d220991317189f55d6550,Morgan James Delagrange,morgand@apache.org,Jun-11-2003
+7b02eedba5283448e0651402482ad279193159c1,James Strachan,jstrachan@apache.org,Jun-9-2003
+b24b30dab9dd987e48411f5228e3a49bf4038cf4,Bob McWhirter,werken@apache.org,May-22-2003
+af1e2be2983c4241abb28e605af79d8007913fd7,Dion Gillard,dion@apache.org,May-17-2003
+95b7406ba2262b3b25e8a61938db8155ca39c8c1,Morgan James Delagrange,morgand@apache.org,Apr-26-2003
+2951d563de3599561b40af31682f49807e7443f4,Dion Gillard,dion@apache.org,Apr-20-2003
+af56fa72aa3c5bb51dbf08ee5f8913b196c2e904,Dion Gillard,dion@apache.org,Apr-20-2003
+5991852e64afce6242c5885f65a867410a0a3581,Dion Gillard,dion@apache.org,Apr-20-2003
+636f7b0b216244f75b2ac45874a110707a4eb7f9,Dion Gillard,dion@apache.org,Apr-20-2003
+cf72d51b57041f9480cc75c3458fd29c817855c4,Dion Gillard,dion@apache.org,Apr-20-2003
+76ad70ecce9628c33a5751ab264ef1a1b4bf84fa,Dion Gillard,dion@apache.org,Apr-11-2003
+9e57c7c21f7b186ffc9fb2a2f74a875ef555603e,James Strachan,jstrachan@apache.org,Apr-4-2003
+9bc096c5fa19744ba77b5109789e4c175544d92d,James Strachan,jstrachan@apache.org,Mar-20-2003
+96f5de68f7d2a0fb02cd8e02279b49e842c528d9,James Strachan,jstrachan@apache.org,Mar-20-2003
+933a5de8a2a505c1d879164d762423a06dd18de0,James Strachan,jstrachan@apache.org,Mar-20-2003
+a930f90798867a0ad67eb2100c3aab276f6af39c,James Strachan,jstrachan@apache.org,Mar-20-2003
+1742c2232bca76c4e79a56bd0857a1d200fcf7ec,James Strachan,jstrachan@apache.org,Mar-20-2003
+d34f38dd853fe959afe444f1ffd8d8b4f3549d2a,James Strachan,jstrachan@apache.org,Mar-20-2003
+852bbc4550424ecc2f67cd6616834c39991efa20,James Strachan,jstrachan@apache.org,Mar-20-2003
+810238ee8fec27243dc343d5e20d3cbb2c6b9a08,James Strachan,jstrachan@apache.org,Mar-20-2003
+9192b43a1d47d4a38eca4b96cff4b20e37b4a103,Bob McWhirter,werken@apache.org,Mar-10-2003
+545bc988f84b32b1a4e3eba0055f1566b0d7eed1,James Strachan,jstrachan@apache.org,Mar-10-2003
+eb9cae52d7513353940c2cc9a325458b5ba28347,James Strachan,jstrachan@apache.org,Mar-8-2003
+325cfeadc56d1383f3fdd2a4a80d485d936a649c,James Strachan,jstrachan@apache.org,Mar-7-2003
+343459ce8877418d4fc1f47100222d5942967eb6,James Strachan,jstrachan@apache.org,Mar-7-2003
+66c9afc298b06349f21e18ee3707bb035773f6f0,James Strachan,jstrachan@apache.org,Mar-6-2003
+b77cf762e484f7ef5677ee93d90d332e5e112894,James Strachan,jstrachan@apache.org,Mar-6-2003
+1ce7bfcfab071b0e6ae58d76db40437a05792272,James Strachan,jstrachan@apache.org,Mar-5-2003
+e2efeda53ca1d07bbbc593223af21676a4b18b16,James Strachan,jstrachan@apache.org,Mar-5-2003
+65b964cf6400823b934ed3c29c6758593f08793d,James Strachan,jstrachan@apache.org,Mar-5-2003
+ce42b42e0cab25d1049f2be4aefad0dcb12df24b,James Strachan,jstrachan@apache.org,Mar-4-2003
+a3e028c414d43d34262e896d2548f18a9e8c5641,Bob McWhirter,werken@apache.org,Mar-3-2003
+decf03e3d327c7ad10ddd9fb8b740d003bd422e0,James Strachan,jstrachan@apache.org,Mar-3-2003
+c6e9e96baeac8a018a7d0f575c91c54a54a56006,James Strachan,jstrachan@apache.org,Mar-3-2003
+3c362600fd41a43453c750974011204dcc64f2bb,James Strachan,jstrachan@apache.org,Mar-3-2003
+b437feb04a4fbf0044ccde9bda2632089c712863,James Strachan,jstrachan@apache.org,Mar-3-2003
+2c8d60bad0aab028b8efe356019fd58e4548bbd7,Bob McWhirter,werken@apache.org,Mar-3-2003
+58d431cc42ee6a5281ee1f4cb21f0ff9c7ff4751,Bob McWhirter,werken@apache.org,Mar-1-2003
+6ee05b8f8fa3c20ea60c6f2712c95f854f91d50d,James Strachan,jstrachan@apache.org,Feb-26-2003
+b5dc981f985658e2a5ec5dc8fbd4320b2fc554c6,James Strachan,jstrachan@apache.org,Feb-26-2003
+4586bb597b2001acabf920e9341f5f7d435b3324,James Strachan,jstrachan@apache.org,Feb-26-2003
+72c8d6dc9e19ffda9acc104832ea5479995a51d2,James Strachan,jstrachan@apache.org,Feb-26-2003
+0e98daf62d0ca01b9eed39d6e26210850c3aa26b,James Strachan,jstrachan@apache.org,Feb-26-2003
+8fa67f6743edf5bcb3c23fe34c975bcdb7533731,James Strachan,jstrachan@apache.org,Feb-26-2003
+8bf5c44ac4dd9cd8da934b9260f0a291d70b170f,James Strachan,jstrachan@apache.org,Feb-26-2003
+905d93f7f8abc64a0eedfb2e59105058003cb0aa,James Strachan,jstrachan@apache.org,Feb-26-2003
+b76d2f877042935e7a532fb024d47bf5e894b24a,James Strachan,jstrachan@apache.org,Feb-26-2003
+e148f501f73d9393152e17acb91d0fba09afeb8c,James Strachan,jstrachan@apache.org,Feb-25-2003
+ead8c11a5c92330470597dfe3a3d6cfac9375e4d,James Strachan,jstrachan@apache.org,Feb-25-2003
+0f8cbec5f8a888952637f5b7b1614eb963f868b7,James Strachan,jstrachan@apache.org,Feb-20-2003
+bd8b639264469bf223532146dabf3b142709f0a8,James Strachan,jstrachan@apache.org,Feb-20-2003
+7123d2d5730ed16e612a183a5a56f5e55a5bb932,James Strachan,jstrachan@apache.org,Feb-20-2003
+754dfe332d3d492996b579889d4a4cabed487730,James Strachan,jstrachan@apache.org,Feb-20-2003
+edb1dca86ded178cd36bdf1ca964c1969319c5d5,James Strachan,jstrachan@apache.org,Feb-20-2003
+012dd2b607603fb2cf2f61de8e359183f41ada1b,James Strachan,jstrachan@apache.org,Feb-19-2003
+e4e7bf7f213f9fdb6fa8182eb3069834d7f945cd,James Strachan,jstrachan@apache.org,Feb-19-2003
+8c1482feb9787d08d7c13eb861da7fdf90b9e378,James Strachan,jstrachan@apache.org,Feb-11-2003
+360616e6a3b61d851045ba5d2f0efffc46cc6188,Dion Gillard,dion@apache.org,Feb-10-2003
+b9e13f8c68c74cd7c60ff0840409ebaf5e10b6dd,Dion Gillard,dion@apache.org,Feb-10-2003
+7cb1c0df6c14aed82c714e94f1f1f962f1485f6a,James Strachan,jstrachan@apache.org,Feb-8-2003
+1a3900c6e94d130d3064edce1f62d6fd311a43ce,James Strachan,jstrachan@apache.org,Feb-7-2003
+968841b15a22492d68141fc82cc167e12c4371cc,James Strachan,jstrachan@apache.org,Feb-7-2003
+fca92b6c1ae5425663278f33c6d7bea8afbb6c03,James Strachan,jstrachan@apache.org,Feb-7-2003
+8370f73aab550bbeb5f010bfc84b40699b9fd6c9,James Strachan,jstrachan@apache.org,Feb-7-2003
+fce6b91f2f64a2cc2a09d7701901d02b0789bb44,Martin van den Bemt,mvdb@apache.org,Feb-7-2003
+7e6cfdeb4cb15447e8b75797c285c41e67cf6c25,James Strachan,jstrachan@apache.org,Feb-7-2003
+17466d45f4f00ed02a8653cfa3889a7bf0737ffd,Morgan James Delagrange,morgand@apache.org,Feb-6-2003
+138a0bb514cbb936b6a3e1acda608199c8f63b5e,Jason van Zyl,jvanzyl@apache.org,Feb-3-2003
+f61801718ea40853b1e46accfed49469b9437106,James Strachan,jstrachan@apache.org,Feb-3-2003
+572c96baf9ad4aef980c762a3559495ab025b256,James Strachan,jstrachan@apache.org,Feb-3-2003
+4283b65f011793698f867b171f4c71e9e2b7dabe,Dion Gillard,dion@apache.org,Feb-2-2003
+e199d1268e2a1b21d071f2cd9c6719a59f72bc40,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+f712fb888ac4aa285510821ae42a9ad772130dfe,James Strachan,jstrachan@apache.org,Feb-1-2003
+8d9b4646bcfea83d67268ff91210de694fa3ee24,James Strachan,jstrachan@apache.org,Feb-1-2003
+93d5e521b121ed42ad190147bfb4f3575246a8ad,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+e137bc77ad505455faf6ee1cd6aca969a0c5f1b2,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+ab8cf84e07c57aa98f05db345451947c509ba80d,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+2d7f241dabadc0d5671d887fcf3ed1ea92f5b4f5,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+f3cb67b1c96f0fcbdf7344cfd6d12b030c2ae894,Morgan James Delagrange,morgand@apache.org,Feb-1-2003
+e017f80d333371834038ed3cb9f7e640bcb6ca1e,Morgan James Delagrange,morgand@apache.org,Jan-31-2003
+88f44422095eb484321d174c4d7a5de916614888,James Strachan,jstrachan@apache.org,Jan-31-2003
+517f281f87579a43374cdbc41f084e3657d67ce1,James Strachan,jstrachan@apache.org,Jan-31-2003
+8c036198e75e73575bf43fd972606becac031160,James Strachan,jstrachan@apache.org,Jan-31-2003
+f5e5f920281e44ab0dfafec5bd4dbec199609447,James Strachan,jstrachan@apache.org,Jan-31-2003
+7a78d9c1c17a985002df01380f7503886a2c5e77,Dion Gillard,dion@apache.org,Jan-31-2003
+17fb5317dd6452d829e785c0111fef8d27b1c574,Dion Gillard,dion@apache.org,Jan-31-2003
+f8879fa39a15008a27fbfae0c45c7b363cd72f6d,Dion Gillard,dion@apache.org,Jan-29-2003
+6e9a9410fa94e20e8ba340090e25bcd595f9d9d7,Dion Gillard,dion@apache.org,Jan-29-2003
+61cab73979bf0b2e2d4bd27945f9a77e86718e48,Dion Gillard,dion@apache.org,Jan-29-2003
+5ef36a2a9ae113fcc8e3185666fc1cdd08c3e11d,Dion Gillard,dion@apache.org,Jan-29-2003
+18fc57446bd1805a35b04aa9346993738083b68a,Dion Gillard,dion@apache.org,Jan-29-2003
+949f13e249d8a6e2804f3058bda895bf43d0cfcb,Dion Gillard,dion@apache.org,Jan-29-2003
+2d7503981258b241c0e4a90ce4df7efa51485f8b,Morgan James Delagrange,morgand@apache.org,Jan-27-2003
+a79ef9b740859e8b0cb207b58f59e9fb7639a51f,Morgan James Delagrange,morgand@apache.org,Jan-27-2003
+d4574f100df58271812b8fa1dfca1ffd35984268,Morgan James Delagrange,morgand@apache.org,Jan-27-2003
+8fbe4d03c57d664deffa9e4e66c50fee8abffe53,Morgan James Delagrange,morgand@apache.org,Jan-27-2003
+cf76fa4bc8f9aeebf6209d0950ff2df24894b4d0,Dion Gillard,dion@apache.org,Jan-27-2003
+5232141d2b5c14e4ca996561ca7c000929cfd528,Dion Gillard,dion@apache.org,Jan-27-2003
+747de4762e47d8f759af90cb362184e0ed2649a0,Dion Gillard,dion@apache.org,Jan-27-2003
+fb1e5260f80879c1f5da424824351f0bfec97651,Dion Gillard,dion@apache.org,Jan-27-2003
+c4fbd6c7e2f77fa4ebbcd11525d5caa300792f4d,Dion Gillard,dion@apache.org,Jan-26-2003
+aae765363192d6f7c351039dec2a677d956378b8,Dion Gillard,dion@apache.org,Jan-26-2003
+bfb92f3fc5bcd6d19bedd3b802bf5fc49bfade59,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+ae11bfb11d6fb7505bafeea820ec3ad460eb8f65,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+e6b653c3dc37105c3b273e4b5d8db330106d9896,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+a891e83f69f399428b49488e43933d0a14cbbd33,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+b2c008145f3424aa08af6f065bf2fcfab018a2db,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+37920c20f30f62df62ccca9f7d671b0f35a41fe1,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+88cc1e40d36a27087ebffdaf3b68025467b09ba7,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+7b9e3d67abbd8cfbed888f77a52ae8bd0249bece,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+32d7feda1a436c8780e673249bb54b2a481b2209,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+0c6a5fdf954734a52f898bf0bddd54d445c5a370,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+82e6f4c3f1e18bb87c1f2149aef8398910eac317,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+5e9946deb615dd3074b43877eec22495046ca414,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+873b1cee1079484fdd5528cf5a68e985bcb973bd,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+3ebf6828abe034d5730e82a9838cb8488bb064a1,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+a703834dda3918e215c054b9ea41714d5b2b7bac,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+70059581de703d5b34ca6c41b4a331619dbb3f00,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+99fdc218acae5f21f89ee1e281b58213d1ac27c7,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+c11b0ac9b7b1a3ccc423f3439058af262d29e396,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+c8d7d644b64c5ddc8ddec5cc0481dc42055ad0fc,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+b3824d268037d8689416a834dc76f8e1e8f886b4,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+5527a846d806eda5855cccf089de49fccbd3bb60,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+6d581c9ac849fc5e4ca29b5c0b07bf2812c1f596,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+39bc5b2ac0d1c9a249d98bbc6870d3549836c39c,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+eef2c82d58d0536e4a2122f6e116d8dd987d45aa,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+027713eba95f14d888183a38f44ad5cc51f7686b,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+e2cd6804cff410826e100b5e44e72fd3586e8efa,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+267853a9b622911627cec9b6ad1e1a05fb1d50c0,Morgan James Delagrange,morgand@apache.org,Jan-26-2003
+5af197c7a0c4137f39c05cb644c93b8d9868d1ec,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+4bc8b033aa8fa49f75e55a5e5a6a3bc322d989b7,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+8fbf2bdd525af991725d4668a5446883e4bdcd98,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+a3213a9886ed3af9b13e1a4a4ae22e8184b28b7a,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+85f2cf5c7ec4e8ea5038b8af8a76ea2531cde497,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+dc176b04765de9be10fb87f9723c598cc90149b2,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+246d8f0285d64e19356dc9dcf38ad8eca24c2685,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+ce8030077b1e10119cef0c44ed743531badea050,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+f816605a680e7cc3a8b94ba9d658a5d4f8925349,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+9600ce5cac94f81259b6377fcc5e2fedec0be10b,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+dd7742dbf27230de56d37308251d50e0ad0012a0,Morgan James Delagrange,morgand@apache.org,Jan-25-2003
+8e48f1d47ab8a2caaf7f654df776a94a51b9afb3,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+1588e7c897467eb5eb23ca464599d152eba8fe3c,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+34c1d7e6581ed8c3311f90a95fda82f7cf4303fd,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+e765101508268ea50f66a6a75dd880af1194f4d0,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+573a53170e659aabc566e535105ff91308e55d4e,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+434fe4597140eb79b819c58a3edf1ea6c93de04b,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+503d226b9496f14360af6f8741660300c54823f4,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+1476b0130e9eb63aa36f4004a786d55c005861b7,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+d1d08553746d9b8b70ccb664886bae072101c193,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+fd1122ca3fc019bba10f8bcd1a5808450a3051ad,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+0615122b02936ae0637874d9ece53d3871f20b14,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+ae0d340c9e57639acfa64d67a2b8c0e78fac5a7d,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+3ab4f84bbde272ddfd90e38e0f17454600b21aa2,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+23829582caee5b9573412d3018217f33e7f55fa0,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+61439e0951a3ef2c28995ab6329640a4287a50df,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+e2504e21e1513af4bcc3a59f9018a3a69e50edd8,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+502df92da469cd312cb214d3d3b3cce1e7c520ea,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+375f50d9cf93c77e86ed3fa060b6fd8a4643f9c3,Morgan James Delagrange,morgand@apache.org,Jan-24-2003
+ed148bb4f7a90b8f17a61e400e85816a70e5db28,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+fdc5d6b997da5916101b599e5c29f2c9e6718659,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+9b8449e3275cd7e35ba8c5f5232a4abb4392c544,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+82b75db0d38e7fba8d35bfdfd3997f761178bfa1,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+89c9d12f6a22118a787388c64bf80b8056179f41,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+a07b71fa4f634c83443fc1cfcabd0e484cc1cc26,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+38915f5f435aeaf57f8f3fb45a978c8b6963e431,Morgan James Delagrange,morgand@apache.org,Jan-23-2003
+3a30b02734dbf5270c3d09edb7cf7dcb3a27438a,Morgan James Delagrange,morgand@apache.org,Jan-22-2003
+2587c92827816e38decd2a20c6b4dda358776ffa,Morgan James Delagrange,morgand@apache.org,Jan-22-2003
+cc1cbc7ca6bbe969dcb5c638614ea5652b7e4ada,Morgan James Delagrange,morgand@apache.org,Jan-22-2003
+a86ebc359fb09fab39a3e28a3beaa26218d4087d,Morgan James Delagrange,morgand@apache.org,Jan-22-2003
+5e91f36690f5269f9f18624d82741786262cf8fd,James Strachan,jstrachan@apache.org,Jan-22-2003
+7c612e8a920f27ffd21f9ac2aa295bd5db6cadd4,James Strachan,jstrachan@apache.org,Jan-22-2003
+bb55845e7966f67c229332a1f22d1e7a4034a534,James Strachan,jstrachan@apache.org,Jan-22-2003
+dc98ab33b96d28937b29d75e0c35204861f0c871,James Strachan,jstrachan@apache.org,Jan-22-2003
+27f119caf1e3c6f9eafcbf025465dcc3abe26edd,James Strachan,jstrachan@apache.org,Jan-22-2003
+e67250d39b11ebfa8688525b0885fb0957c9faf0,James Strachan,jstrachan@apache.org,Jan-22-2003
+ee36d3d104f72f5acef41bf26a45253a518eaaef,James Strachan,jstrachan@apache.org,Jan-22-2003
+c1a82a8d6c5601948fd17d7e025222706a581ffa,James Strachan,jstrachan@apache.org,Jan-22-2003
+c06949eff68f5f42a9a787ea26a7490a3f465b58,James Strachan,jstrachan@apache.org,Jan-22-2003
+42d138634fecba932dcd20ce01c904e9c90c79d2,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+5b9ac82cba1d9e60b2f6b5be94bd72943e07817a,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+ea4a491396902336d9228137a473ff253e97ad1b,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+6a6b656a5b3c05af8095729d57a62f50d0efdae5,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+b6f3389f28251dc8c3ea1710aa1258b4009eb42f,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+e94db616158eb94d6cbdb7c1da8cb71a97491020,Dion Gillard,dion@apache.org,Jan-21-2003
+6d849526fc5069760edba57015f21ae32d755045,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+8403684bcef13519b352107d3880f90e822c4e0f,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+5edb0eff43f6e96cb43b743d5c85ed63ae83c81b,James Strachan,jstrachan@apache.org,Jan-21-2003
+183ed10805a790aab89eed6055a99856ae68101f,James Strachan,jstrachan@apache.org,Jan-21-2003
+8976cde9ec8ecbce1dcdd7e1b0d5e42f4c96ebd2,James Strachan,jstrachan@apache.org,Jan-21-2003
+399ae20a3ca68bcba8f94a27cc3edc5759c49e38,Morgan James Delagrange,morgand@apache.org,Jan-21-2003
+ccad36e074d0727f40564881101d601b56aa66d1,James Strachan,jstrachan@apache.org,Jan-21-2003
+8b6851fa5ecf4c5c27bf808da5f86ae9fc7d1208,James Strachan,jstrachan@apache.org,Jan-21-2003
+c927e2dbe92f625de17837ba2f44637200cb8c61,James Strachan,jstrachan@apache.org,Jan-21-2003
+36f1854d3eec2e5d9904ec602d5aa30eb422f04a,James Strachan,jstrachan@apache.org,Jan-21-2003
+ee551d10114ebef03740e3ac76f6071adaf07457,James Strachan,jstrachan@apache.org,Jan-21-2003
+0f5c5f9fccf52ac632182a777f92f71043c1aaeb,James Strachan,jstrachan@apache.org,Jan-21-2003
+494f14fc6ad10922ab85d9370fcc94b26c0ed911,James Strachan,jstrachan@apache.org,Jan-21-2003
+9a1e9095cab6b724eff33065a8c4978f2b938bc9,James Strachan,jstrachan@apache.org,Jan-21-2003
+408bdaceddbc0588c3323c502025cf9ce000e874,James Strachan,jstrachan@apache.org,Jan-21-2003
+fb8311e0736e63f51bbc22953d3a4424957cf401,James Strachan,jstrachan@apache.org,Jan-21-2003
+7eb8d5a0464df457d047d9e882ae838b9bc4c926,James Strachan,jstrachan@apache.org,Jan-21-2003
+f59c46fce0ca1e691f7d9f52030df34f2442d7ab,Dion Gillard,dion@apache.org,Jan-21-2003
+5af189ef8c9149fae86c201e85cde5e8424f79b2,Morgan James Delagrange,morgand@apache.org,Jan-20-2003
+85a9e962cffa0e434e84d1a6e9f7c675b1fbfd3f,Morgan James Delagrange,morgand@apache.org,Jan-20-2003
+1dd4fdd07bb43779c19bed403867935221fef4d1,Dion Gillard,dion@apache.org,Jan-20-2003
+908796e828a31748fef03b74aab177a4528be191,Dion Gillard,dion@apache.org,Jan-19-2003
+9dd5ef023aac0c25e0e81cf2226c47de2c28ebe7,Dion Gillard,dion@apache.org,Jan-19-2003
+4fad7614716f8ec3e58285037ccf2a2ff093df23,Dion Gillard,dion@apache.org,Jan-19-2003
+1fd377005873513e27b55bc64b37f11f8cb06b84,Dion Gillard,dion@apache.org,Jan-19-2003
+3703e77aec2b238671d0105649c60c2df92e5b01,Dion Gillard,dion@apache.org,Jan-19-2003
+3ccc29d1d1a5b2eaab30198fba05a1acd9928a30,Dion Gillard,dion@apache.org,Jan-19-2003
+301d2478c6196ba98c3fa0d4e6f935bf522d9dbe,Dion Gillard,dion@apache.org,Jan-19-2003
+d5d754464ebade7972a8dd48dd210f1bff0f85a0,Dion Gillard,dion@apache.org,Jan-19-2003
+6dd2c8eb28051f1f00d9e33f2955c1a7b3d0e5dc,Dion Gillard,dion@apache.org,Jan-19-2003
+2acd9992abf38bd90850e623a92407b504c5973c,Dion Gillard,dion@apache.org,Jan-19-2003
+7fc3ba85ad782c8a50bb4891fba7fa110e384aa2,Dion Gillard,dion@apache.org,Jan-19-2003
+56e13bd3e9ee2e3bbd3fde12e1102803a3b067fa,James Strachan,jstrachan@apache.org,Jan-18-2003
+f577e4e1dece57a65d7f492217006b0aac527559,Morgan James Delagrange,morgand@apache.org,Jan-18-2003
+88ad46225a85d442e505aa44e467b5e91256994a,Morgan James Delagrange,morgand@apache.org,Jan-18-2003
+1e58145511377a8dd7417a32270ebbf5fe6f6000,Dion Gillard,dion@apache.org,Jan-18-2003
+3d4d2acb0f3c22a03e09b5596eb0a978d884fd74,Dion Gillard,dion@apache.org,Jan-18-2003
+4be1a972c95d8b53b91b2d79460d19b88a07e0e4,Dion Gillard,dion@apache.org,Jan-18-2003
+c26e68278b96bbde527946917d15575acfa90c50,James Strachan,jstrachan@apache.org,Jan-18-2003
+3b649180e05af2ca49f508b6409c3e2d33726527,Dion Gillard,dion@apache.org,Jan-17-2003
+53a5ef02695850c486320b321761a6779dbf3327,James Strachan,jstrachan@apache.org,Jan-17-2003
+ee2f4e32b351ecdf704e24dfbb009ee750f1c2ec,Dion Gillard,dion@apache.org,Jan-17-2003
+1664e9e542162e728bb73f3acaf08cc13ada7341,Dion Gillard,dion@apache.org,Jan-17-2003
+a68b3db57a368d05a95a747a699076e9bc72a637,Dion Gillard,dion@apache.org,Jan-17-2003
+be1b6c0f3ddf21be5480d147e2b092bfc540a894,Dion Gillard,dion@apache.org,Jan-17-2003
+80ead9671200adf666b68154ad824a21d52ff2a9,Dion Gillard,dion@apache.org,Jan-17-2003
+7d39a4b3bc835e386839a4a9a2e4f0ce075e857a,Dion Gillard,dion@apache.org,Jan-17-2003
+b9a935d3582946e0567315d31b61c9a731f4a31c,Dion Gillard,dion@apache.org,Jan-17-2003
+ae69b33fe98e0ec16ec9893e48c0f2317eb326b8,Dion Gillard,dion@apache.org,Jan-16-2003
+c731a14e95590ab0f271a18b76a7661678d689ef,Dion Gillard,dion@apache.org,Jan-16-2003
+566a91b42efeb8c54aedcf31bcc02a801028a98a,Dion Gillard,dion@apache.org,Jan-16-2003
+a77f08e27c1babfdbc8d0144397d93d8c5c9903b,Dion Gillard,dion@apache.org,Jan-16-2003
+fa6a34e24a71264ffe4b7714dddc8427056bd135,Dion Gillard,dion@apache.org,Jan-16-2003
+5fd0d205ec69c9ac1a469a29253d96562534cd09,Dion Gillard,dion@apache.org,Jan-16-2003
+dc5e6662cdfd0f45c130b68f5e59bf62df12dc60,Dion Gillard,dion@apache.org,Jan-16-2003
+b86d13acb4d71dc99a25baf9227f55eb8614c968,Dion Gillard,dion@apache.org,Jan-16-2003
+f2d6df4089187ba5eb9f15f4fc8a812fed14a739,Dion Gillard,dion@apache.org,Jan-16-2003
+060574dc919f0e938d9406c3bca47500fe8392e1,Dion Gillard,dion@apache.org,Jan-16-2003
+d9a435c6a7169c2213f06b54dfb567df4ae33bb2,Dion Gillard,dion@apache.org,Jan-16-2003
+f0e3f329912431ba03726050bfd58a381acf71f9,Dion Gillard,dion@apache.org,Jan-16-2003
+a66f3a674c843cbd03565992fd9c5d421e75d181,Dion Gillard,dion@apache.org,Jan-16-2003
+63d19d04374c48442095248fce7ffb0afc3dd866,Dion Gillard,dion@apache.org,Jan-16-2003
+7453344f05fefdeb4d9f9a1c032eb31a9b905e85,Dion Gillard,dion@apache.org,Jan-16-2003
+23cba532a0609528a13c3e9108d4e201ddd55c48,Dion Gillard,dion@apache.org,Jan-16-2003
+913d144591bd9838977b1a361aec4f3c85cf2260,Dion Gillard,dion@apache.org,Jan-16-2003
+9347840caeb6af8e172ab139023cab388fe835c5,Dion Gillard,dion@apache.org,Jan-16-2003
+e10580f0a827874a99b140e59d58b72a706cf228,James Strachan,jstrachan@apache.org,Jan-16-2003
+6a66e7cd7a33a5201a6c4044cb2c6a60f75b1ae9,James Strachan,jstrachan@apache.org,Jan-16-2003
+911dd776b0303fa989fa18456870d8f474e15292,James Strachan,jstrachan@apache.org,Jan-16-2003
+58a99dbbba569d322d87c24b2470ae8069ab6113,James Strachan,jstrachan@apache.org,Jan-16-2003
+b1590ebe215d834f82675b7f64361cf06d2fb20c,James Strachan,jstrachan@apache.org,Jan-16-2003
+8274742078b74f421bdc9e393ae7c590b31e0760,James Strachan,jstrachan@apache.org,Jan-16-2003
+96b725bd7bb71340cf4239c3dcc628283e2d5205,James Strachan,jstrachan@apache.org,Jan-16-2003
+2a6eeaa88a2de09ea58bd562bdbfb9f1e474764a,James Strachan,jstrachan@apache.org,Jan-16-2003
+073f2967dab1781af713c51265cd7fe0a2b17d3d,Dion Gillard,dion@apache.org,Jan-16-2003
+5adf41e20d1802ee0830f7e53362910b469ea9a6,Dion Gillard,dion@apache.org,Jan-16-2003
+f33ef4d1acbe722ae1a1f430eb420ce1bc380fc6,Dion Gillard,dion@apache.org,Jan-16-2003
+c75c2014081841d904f8d9c5fe36d6341f1acae7,Dion Gillard,dion@apache.org,Jan-16-2003
+a9a5f6c53f0cb57477bc22667d7759febf833256,Dion Gillard,dion@apache.org,Jan-16-2003
+168f8ffe00e935992bd3a4158666d1760078c9bb,Dion Gillard,dion@apache.org,Jan-15-2003
+badae3c4f70065d60818c079d8043a52f61b79dc,Dion Gillard,dion@apache.org,Jan-15-2003
+f433b2def3db78b23b230a53413fa0f3bd4f720f,Dion Gillard,dion@apache.org,Jan-15-2003
+43e393071722fa8cec82d4ccb061d33812c2879f,Dion Gillard,dion@apache.org,Jan-15-2003
+868409e66bd4b997699126753241d0490092d72d,Dion Gillard,dion@apache.org,Jan-15-2003
+b560627ef990ccfe09ad29380c47e1c7eee8e609,Dion Gillard,dion@apache.org,Jan-15-2003
+e8ebd706023f2ebe589792f1da8979ed196e7294,Dion Gillard,dion@apache.org,Jan-15-2003
+950d3a2a28c5d7b2f283ec66766a1db346c82d7c,Dion Gillard,dion@apache.org,Jan-15-2003
+a287afa58be5dd5ab8e169b040b80b019677c5d9,Morgan James Delagrange,morgand@apache.org,Jan-15-2003
+3f9870279b222cca53c04fc5c74855014db565dd,Morgan James Delagrange,morgand@apache.org,Jan-15-2003
+c3d5782a00807f9935605321b066da7d6ab0697b,Morgan James Delagrange,morgand@apache.org,Jan-14-2003
+1840806aa45b817f85b1d8fcfa9c9d494b9eec70,James Strachan,jstrachan@apache.org,Jan-14-2003
+476d2711c196bd7bd17363543929718051d21607,James Strachan,jstrachan@apache.org,Jan-14-2003
+6325152003f0262be9d989f44458872b514e7749,James Strachan,jstrachan@apache.org,Jan-14-2003
+d85df5e1eac52834da07875105602381a6885aaa,James Strachan,jstrachan@apache.org,Jan-14-2003
+116b0d8a422defd2914c6370c2d31b3711c199be,Dion Gillard,dion@apache.org,Jan-14-2003
+f6b8ecd94195d9812b4bfbe004c07e8f85d2a375,Dion Gillard,dion@apache.org,Jan-13-2003
+ca3f5d114cd2976b9b07e463a88fd571dd2eaaed,James Strachan,jstrachan@apache.org,Jan-13-2003
+3c592f69415109c47473d8f80555e8440803986a,Dion Gillard,dion@apache.org,Jan-13-2003
+1e9a4aee8f0c73bd2f8d8c38e0070f0fe3ac1535,Dion Gillard,dion@apache.org,Jan-11-2003
+47de345cb7cfaef2e615e5e3534f4de34f3b940e,Dion Gillard,dion@apache.org,Jan-11-2003
+6ee484bf1c831c26cecb8043751d3a9a3ccfc820,Dion Gillard,dion@apache.org,Jan-11-2003
+502a644a064b833e1e12be3a0cbcc1fa8700d4d5,Dion Gillard,dion@apache.org,Jan-11-2003
+33ee7f47993bb870704721d1dbd4be88f00bbbfe,Dion Gillard,dion@apache.org,Jan-11-2003
+ab1c6e9a673a31d1e38436beae2c45d41b6a4c54,Dion Gillard,dion@apache.org,Jan-11-2003
+5a8898ca54356397fd3cb46d1e409a7c9eb22208,Dion Gillard,dion@apache.org,Jan-11-2003
+6faf63415577c3a991513b048b37f62f44b77b38,Dion Gillard,dion@apache.org,Jan-11-2003
+0b4bab5a5500d896a8d2764207bf88e37268e6db,Dion Gillard,dion@apache.org,Jan-11-2003
+3db98bc1ebc52d26794ad7dbca91192630f58c06,Dion Gillard,dion@apache.org,Jan-11-2003
+503ac94d0422c043248da30c5c4e908172f65fd0,James Strachan,jstrachan@apache.org,Jan-9-2003
+e6ca6765e7d9f04d843e5a845bc25aaf3b71e8c5,James Strachan,jstrachan@apache.org,Jan-8-2003
+9b2dd128198d67c492484e8c9d1d14714db4237f,Morgan James Delagrange,morgand@apache.org,Jan-8-2003
+00506abf8e20e99f5dece1eda96049f783142c17,Morgan James Delagrange,morgand@apache.org,Jan-8-2003
+e470372ffa542ad31d5e9caf1029ef6c34d6388b,Morgan James Delagrange,morgand@apache.org,Jan-8-2003
+c12fa96b6a2fd38bfae3442570968efe4582c52c,Morgan James Delagrange,morgand@apache.org,Jan-8-2003
+371c7f21468fdc94a348cb9db83160e88f82b2e0,Dion Gillard,dion@apache.org,Jan-8-2003
+cd4e4307d775bcdd2326d2d63b62b2f01ab14def,Dion Gillard,dion@apache.org,Jan-8-2003
+d9947d421eac164829abec25afeca36e56ee3f52,Dion Gillard,dion@apache.org,Jan-8-2003
+231d56d86d44180fbf7e1388441a447d07c30929,Dion Gillard,dion@apache.org,Jan-8-2003
+90cd2a1329ad0696be3bcac1b6e19f85df06b416,Dion Gillard,dion@apache.org,Jan-8-2003
+f720997b692a8dfca5368472bec5118c2f3a83d6,Dion Gillard,dion@apache.org,Jan-8-2003
+d35867ac1336c9971f6f2ffc24714d03d8a27d5e,Dion Gillard,dion@apache.org,Jan-8-2003
+110f7fc66b4ae263ab3e8c73178e96ce2e44c66a,Dion Gillard,dion@apache.org,Jan-8-2003
+22b2cc9db1ab5b3e29ca24c26bb30264cd564ab0,Dion Gillard,dion@apache.org,Jan-8-2003
+8d70afcad1c870ebed342db2d65b888f7d0f60b8,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+9f39964ae306b7c09c71db40babf1407d53ddf4d,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+0378312589f450580d7371b617bf242c2f6e0e6d,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+1c4a62c18693fc12d897800c1cc4697514ea3131,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+021d339ad391bf6d9efe9318399d6e13eaf49cfd,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+2767a5d5cb522ffbaf808c94cf76f0beaf84126c,Dion Gillard,dion@apache.org,Jan-7-2003
+f7c254d209477b58ccd4f0027b2689b1bb0693b1,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+940ff207dbff86c4ebf8ce49ac70d216d97ab6ef,Morgan James Delagrange,morgand@apache.org,Jan-7-2003
+43e7f0c560a7d9a573358224e8b07f1ed15d8170,Dion Gillard,dion@apache.org,Jan-7-2003
+2d8a3d569ef4d9bf5af5a10794a149cb4610471d,Dion Gillard,dion@apache.org,Jan-7-2003
+e7a3e149c8d93b610d01575e4212c5fa0ac28b02,Dion Gillard,dion@apache.org,Jan-7-2003
+7ad6ac2bf4fd28169c0bd0c2551c113d64e4e467,Dion Gillard,dion@apache.org,Jan-7-2003
+d98cd3ff6a9d908e04a49f11b967d3a4db90779c,Dion Gillard,dion@apache.org,Jan-7-2003
+2df6cae2c60ce38539b82f51f82e9220bb0e0c05,Dion Gillard,dion@apache.org,Jan-7-2003
+eed178543004172fe40e968b830a58dfa28d7292,Dion Gillard,dion@apache.org,Jan-7-2003
+d2b975bb7db395b849c3277da8d48e2e49859218,Dion Gillard,dion@apache.org,Jan-7-2003
+34cf9cf9441d14884ab66a785b1fbc37a89f4e15,Dion Gillard,dion@apache.org,Jan-7-2003
+ddc4a0b02bb7caac025303b03b37853f320ec34d,James Strachan,jstrachan@apache.org,Jan-7-2003
+3496442c6864f363204a4dff6705d1fa6a347943,James Strachan,jstrachan@apache.org,Jan-7-2003
+73e53a69214ad9816b42e24746627c819bc2aebd,James Strachan,jstrachan@apache.org,Jan-7-2003
+e67bc3ad013a933c8ac2d084f4043e69edd2fd9d,James Strachan,jstrachan@apache.org,Jan-7-2003
+52b2dbb138da5d22ee1c25dd02321a97912c290c,Dion Gillard,dion@apache.org,Jan-7-2003
+c59f605319315467b252e2e7193b2884b2b1737c,Dion Gillard,dion@apache.org,Jan-7-2003
+42492b08033831f1e442d7ae51ab07ad4d97a599,Dion Gillard,dion@apache.org,Jan-6-2003
+c33b3762432ed973e272bd6649e72bd702303a0b,Dion Gillard,dion@apache.org,Jan-6-2003
+8e9f2e413ca707318084a7a15cfe58acb5a95612,Morgan James Delagrange,morgand@apache.org,Jan-6-2003
+b3ea97c5a70a2570c4f799f1fc16fc6749a867bf,Dion Gillard,dion@apache.org,Jan-6-2003
+b14e34d9b2ece28b4dbb9ac2d49d8375e42a7fe6,Dion Gillard,dion@apache.org,Jan-6-2003
+fbc0d704e2fec9b6945fc8bbbc90111511434d87,Dion Gillard,dion@apache.org,Jan-6-2003
+602ddb9a4b5af7d6ea3bcdec25a545c47ebe1561,Dion Gillard,dion@apache.org,Jan-6-2003
+18e395699e424efd6c246f61d715aba77c98ae8e,Dion Gillard,dion@apache.org,Jan-6-2003
+ce9ae281ab87df0b6ffd3c8d793fdda2e0dfee3b,Dion Gillard,dion@apache.org,Jan-6-2003
+15aa714ea96c05fc7e85d827fa4831e5790faa50,Dion Gillard,dion@apache.org,Jan-6-2003
+33fa1519a01fdc8ad563c432f907c517b7562963,Dion Gillard,dion@apache.org,Jan-6-2003
+13ffe8b5edf990834ff90b4efad181d21ed76244,Dion Gillard,dion@apache.org,Jan-6-2003
+e00da837da8e78b98f0d6a57c3edc2f3f12442cd,Dion Gillard,dion@apache.org,Jan-6-2003
+bddc403855cc2cdf048ebb9c2ac2a3d591b0706e,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+1d6f85c04f1d1d9a7191810619484c2a29bfc258,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+adb9f87818f9147d218fcff426a8b471d637676e,Dion Gillard,dion@apache.org,Jan-5-2003
+5505e4f69349278654176c450fd5e785c3db89d4,Dion Gillard,dion@apache.org,Jan-5-2003
+ba372f9dc62391e9c213f54656270d24bae36f22,Dion Gillard,dion@apache.org,Jan-5-2003
+ac57bab9929b75cba0edecec22fb1f26edc5bb9d,Dion Gillard,dion@apache.org,Jan-5-2003
+c7706c34c10d3ae9edf2aef0f3ac006526a7057e,Dion Gillard,dion@apache.org,Jan-5-2003
+76f4c5fb2921091e8e03861e29b407ab0618d4c0,Dion Gillard,dion@apache.org,Jan-5-2003
+865b0e6f3f77d625de0d7744725b89f2f154fb4e,Dion Gillard,dion@apache.org,Jan-5-2003
+69b95173fac21a8f5ac0c38a608184c91c8e06cd,Dion Gillard,dion@apache.org,Jan-5-2003
+c118332117d8d0faf6f9f6c89f60ebdf2740bad7,Dion Gillard,dion@apache.org,Jan-5-2003
+3f0efed27d3601817c31de6f5ef3cabe874e9804,Dion Gillard,dion@apache.org,Jan-5-2003
+213f308b4675daeb63fa0b781b330caa372594f8,Dion Gillard,dion@apache.org,Jan-5-2003
+cefc10445d2f83d8276370754c521e431cabb162,Dion Gillard,dion@apache.org,Jan-5-2003
+62fea1f9274fbcc91cd96e37060c72b51e769834,Dion Gillard,dion@apache.org,Jan-5-2003
+16f7610ea57c559462e591eb6fe6139c739a045e,Dion Gillard,dion@apache.org,Jan-5-2003
+7ac6f83b73f5b956995cfc2ca1435fa15e849059,Dion Gillard,dion@apache.org,Jan-5-2003
+d561cdc0da98f92915e5e8b479ab2868cd078650,Dion Gillard,dion@apache.org,Jan-5-2003
+0d308ec147a79576a5fdb68a88d9224b44946266,Dion Gillard,dion@apache.org,Jan-5-2003
+79f24b58f670c893e74e3c4dbf2c7b05ce27cd9c,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+408da157c4880501086762df6d63b7cbadb2d66c,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+55cc936b76939ee19deb1435c3b755dc7bd46896,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+ee6f57cd113be6f27eee319c9d03601595660bbc,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+edad62c64284b27879fd99e813343b98db45295c,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+154bebbe98fd5cda783d6cc2a1b1416a9e3f7e01,Morgan James Delagrange,morgand@apache.org,Jan-5-2003
+e1d9ac2dc89c4186154dee27c71e0f2a518f745e,Morgan James Delagrange,morgand@apache.org,Jan-4-2003
+23f1ad87a5360fc27a36cf5cea0282b7bee7715b,Dion Gillard,dion@apache.org,Jan-4-2003
+d4fb769926155768c1fc1cec554705477fb67296,Dion Gillard,dion@apache.org,Jan-4-2003
+c339e3952627641b341f4014fb2f7fe9884e7433,Dion Gillard,dion@apache.org,Jan-4-2003
+2a37f2f74d6da63f3b6c495aad3d3680b637c8d7,Dion Gillard,dion@apache.org,Jan-4-2003
+13800dbf3cad7531298c2c76a3a395fa26ccac52,Dion Gillard,dion@apache.org,Jan-4-2003
+0845e59d2fade1f1cad92cb7587d017f2460ca6f,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+cf5de89777150bc96b53d1bb6140f29c82063125,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+614be67f297b03386c45bdb65a7cc06a9110ae84,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+7e2f65b2216809ca180859dcefa3ef2e3e5f91c1,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+41b494ce110a6058f60d57843604aee12b6b01df,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+ffebe357d64024f2f0f6b282a5bd3d4b83a9d0c9,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+ec816a80aa45dd429e13d585ddcbc059201414e3,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+64a6eebd845819b4720edf2d551de41bc8ca3197,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+7994a9bff01c1528a99214d3ef177826cc843d9e,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+a99a5a6e706fefad7a3de5878029163fef8a56b3,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+eabfea996ebee72128040da5719d31cd0be18ddc,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+a02191dc49c92b829bbad3a98cb115cfb61c3a12,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+fbb46b93275fcf4631b203a3e0489fab8b9c284f,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+156e0243c6d82893a6f2204b1ee53f2f5d55c495,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+208c99ee7226b6e53429b7b0ac0a43bfc5d6eb52,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+e83a72bc205b56f4027c480b54fa9b19343a5aeb,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+a474d8ea447e17a4870c38dc846449d6f61ad31f,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+75e78f03a8e7c6ea39ec6b4dd6b727c907d94db9,Morgan James Delagrange,morgand@apache.org,Jan-3-2003
+03161b891de1a02c66f20449f359a8a8eb351adf,Morgan James Delagrange,morgand@apache.org,Jan-2-2003
+880b39b55a4dca2c2350a94eeaad5591c72dea7d,James Strachan,jstrachan@apache.org,Jan-2-2003
+660cea1ee487be3796c54cb6c2067002801de6a5,James Strachan,jstrachan@apache.org,Jan-2-2003
+e3d234859366ecdc185eaae5507dddb24a648afd,James Strachan,jstrachan@apache.org,Dec-31-2002
+ab81e3a21de566a901354b895b77d34ecd48c801,James Strachan,jstrachan@apache.org,Dec-31-2002
+76105ce2462a8c6795960e0feab664b4c03d3f9c,Jason van Zyl,jvanzyl@apache.org,Dec-31-2002
+826499b42763557e37dfca9c953770b725a627f1,Dion Gillard,dion@apache.org,Dec-31-2002
+6c457832ff2765cb7e65353948bc94464951acba,Dion Gillard,dion@apache.org,Dec-31-2002
+6f4e8fda00785c08613fe0ff31afd4115f3eda78,Morgan James Delagrange,morgand@apache.org,Dec-27-2002
+afd2936f6f63f8c0660aba4f0b9b83f224f973ab,Bob McWhirter,werken@apache.org,Dec-24-2002
+bbd6e637af442b2452a9f6f8cc37868d2fe0486b,Dion Gillard,dion@apache.org,Dec-21-2002
+eb1af80b14829e87dafebf974cabd6a0e12c94c1,Dion Gillard,dion@apache.org,Dec-21-2002
+e405ec1759c83043746af9f90006ac6e66072b7f,James Strachan,jstrachan@apache.org,Dec-19-2002
+ed20c1b2d1bd27325f3ee9599fe80b5f451cad5a,James Strachan,jstrachan@apache.org,Dec-19-2002
+b36f44026999e85544731b83b6ad6609cba12847,James Strachan,jstrachan@apache.org,Dec-19-2002
+8a0173a1852d1aeea90e3a47e8479032d0e81641,James Strachan,jstrachan@apache.org,Dec-19-2002
+0eddca9e8553e93553871b288301290a408694a8,James Strachan,jstrachan@apache.org,Dec-19-2002
+573950e683e8afd5cc72bb95bf0a3f0e7259cbb2,James Strachan,jstrachan@apache.org,Dec-19-2002
+7e63830bcbd00f8879014032a2c85a29d6e21f02,Dion Gillard,dion@apache.org,Dec-19-2002
+78d14d7ec17449ec94bd7b94648302b7b8d8c858,Dion Gillard,dion@apache.org,Dec-18-2002
+a1e56f07bff0a30fc8c1c9f1e1ebd584e3a2ac14,James Strachan,jstrachan@apache.org,Dec-18-2002
+716f772255be957b6dc51c5a4fd1cb52fb01f0b3,James Strachan,jstrachan@apache.org,Dec-18-2002
+f57f88bbc8d1fbce662bb2aae68b5c9b49bb0feb,James Strachan,jstrachan@apache.org,Dec-18-2002
+2bd59d56040f48e745527f7a940144830f039dfc,James Strachan,jstrachan@apache.org,Dec-17-2002
+ebc764d168c1dd6363b0350fb07aefcdc4578b77,James Strachan,jstrachan@apache.org,Dec-16-2002
+d879c8340403005a4e1c04c3719f72f564a76b5f,James Strachan,jstrachan@apache.org,Dec-16-2002
+d18ef686392b36633c6b25c6724dced2d058c36f,James Strachan,jstrachan@apache.org,Dec-13-2002
+389888dc3575f2e3c6c8b63dfac4117c51b063cc,Martin van den Bemt,mvdb@apache.org,Dec-12-2002
+600132a8ae00b6fcf2880a6331423f7c38e5d6f7,James Strachan,jstrachan@apache.org,Dec-11-2002
+48c9d741eaf8384c0ba4eb41ad38be090b09e7a9,James Strachan,jstrachan@apache.org,Dec-11-2002
+7e09d8e665c21072234ba1d31cc5f5d9b284441c,James Strachan,jstrachan@apache.org,Dec-11-2002
+3df785cf4a4e4b0b88319bfb33f1e484b2aadbfd,James Strachan,jstrachan@apache.org,Dec-11-2002
+39d819b55b35ef75ec77f3c993db023e9ef776c3,James Strachan,jstrachan@apache.org,Dec-11-2002
+b24d4ee4dc4b9b10df3fe3bfeb87d92a556e3d0c,James Strachan,jstrachan@apache.org,Dec-11-2002
+2c72794730d51b76b6c47c79149e6e94e35137c1,James Strachan,jstrachan@apache.org,Dec-11-2002
+3fafa5fc7e131fe1ba5872ff9b55517de9b1b8fc,James Strachan,jstrachan@apache.org,Dec-11-2002
+ff51818c545b8b26228dc822ee219d4cbd608605,James Strachan,jstrachan@apache.org,Dec-10-2002
+55ec23821d62b22a927dc9dac82942df0be06d7c,James Strachan,jstrachan@apache.org,Dec-10-2002
+eccb6bdb2cc914744a74f5fb85beec38ff506d4d,Rodney Waldhoff,rwaldhoff@apache.org,Dec-10-2002
+05fb475bd4952fa34fcaf8c6fc17af2ecdddfcae,Rodney Waldhoff,rwaldhoff@apache.org,Dec-10-2002
+3d7d6b1b34d00aef89b816d22a6cbb8b376a8140,James Strachan,jstrachan@apache.org,Dec-9-2002
+1aadbddc8f01522e27816bc84d20ddf1c332b996,James Strachan,jstrachan@apache.org,Dec-9-2002
+740688cacc31ed352823904f111ed365633caeb1,James Strachan,jstrachan@apache.org,Dec-6-2002
+6aca2cc43b8f9ac89ee67b214a6742e6c5e06559,James Strachan,jstrachan@apache.org,Dec-4-2002
+1d88a67ded29926f088bf6ae0c8ab564279572c4,James Strachan,jstrachan@apache.org,Dec-4-2002
+f802e1d5514aa602e3c8d6b8c32d85ce2e4fec48,Rodney Waldhoff,rwaldhoff@apache.org,Dec-3-2002
+8cfd272ade82acfa132d03795229142111b8cf80,Rodney Waldhoff,rwaldhoff@apache.org,Nov-30-2002
+2fbbd39e71e462b1339b1fb227ce720f71da8908,Rodney Waldhoff,rwaldhoff@apache.org,Nov-29-2002
+5d2cb805f2323e53664a8ee45dc3ee1ff624c144,Rodney Waldhoff,rwaldhoff@apache.org,Nov-29-2002
+c1a62961f576758869ba9460ab8784fbaa24edfd,Rodney Waldhoff,rwaldhoff@apache.org,Nov-29-2002
+752c92ca6f418608c12e6c56dbd006c70c87c068,James Strachan,jstrachan@apache.org,Nov-28-2002
+3e75855c050ce2a3fd3b3ba901b5d53db6269ac4,James Strachan,jstrachan@apache.org,Nov-28-2002
+8bd7a94c8eb6984f506f91fd6fe632eed84b00e6,Rodney Waldhoff,rwaldhoff@apache.org,Nov-28-2002
+d71e0d02b968dca765170b145a058802275b573d,James Strachan,jstrachan@apache.org,Nov-27-2002
+de6fd8028c8bfde73bd4ede804e3e6111a2b877e,James Strachan,jstrachan@apache.org,Nov-27-2002
+98fd0c73757d5b1244b055139c3b32532b3bc067,James Strachan,jstrachan@apache.org,Nov-27-2002
+18803c303e480d803b69f2430c3bd0f8987291ee,James Strachan,jstrachan@apache.org,Nov-27-2002
+eb6905c8dd468baffb94c79f8e776009d315176d,James Strachan,jstrachan@apache.org,Nov-27-2002
+06083f0acd35f5dedc2f7cca80c1aaac403fec4e,James Strachan,jstrachan@apache.org,Nov-27-2002
+e9eb0e424c7a36bdb720a51c675d72d3ce085d52,James Strachan,jstrachan@apache.org,Nov-27-2002
+6dbd211a01fd07dd4a3f00e8a199b1cff9fdd78b,James Strachan,jstrachan@apache.org,Nov-27-2002
+aa038dcde8dd18fafebf8c84103b5689acffe6cd,James Strachan,jstrachan@apache.org,Nov-27-2002
+91b14b1d4db17f6ed83110713ea6ecbd626842ca,James Strachan,jstrachan@apache.org,Nov-27-2002
+9b94ee19e945a6b20dd0878ea8a039ed509107ab,James Strachan,jstrachan@apache.org,Nov-27-2002
+96ca5cfbc681af8a8fff136643efa3a6001b60aa,James Strachan,jstrachan@apache.org,Nov-27-2002
+b921c84891f6e646d27dbff7844fd41a253ab1ba,James Strachan,jstrachan@apache.org,Nov-27-2002
+cd5ca80a1e1a869baeccf73d5a114e4f4c00704e,Dion Gillard,dion@apache.org,Nov-26-2002
+859366eb7c5defe51a23accce48b0b1d4870ac8e,James Strachan,jstrachan@apache.org,Nov-26-2002
+1f666c8d43cc11b3f67088b103aa22c59a356355,James Strachan,jstrachan@apache.org,Nov-26-2002
+81b491f1bdc7db2b8ac85cbce5cc1a1e515d1823,James Strachan,jstrachan@apache.org,Nov-25-2002
+79aa2bd7ed276ce93be45cbbfd9f941ceb65c2e8,James Strachan,jstrachan@apache.org,Nov-25-2002
+59ab4f11de19377f431dedbd37bb0e354b24068a,James Strachan,jstrachan@apache.org,Nov-25-2002
+8cac7d28dd8fe255ad9fa30a8b34cc877f73f451,James Strachan,jstrachan@apache.org,Nov-25-2002
+c9250459ddaa1181f7ab9c12e07aba66987720e6,James Strachan,jstrachan@apache.org,Nov-25-2002
+8e0f7321c5231fe0f4543308ba57aa580a00862a,James Strachan,jstrachan@apache.org,Nov-21-2002
+14f507700a20dfe52c34336bf6ac9acf32f1f53e,James Strachan,jstrachan@apache.org,Nov-20-2002
+0dc7bc828e3c27a7ea9a3d4b2131f9a322f45080,James Strachan,jstrachan@apache.org,Nov-20-2002
+279784a42dbc0442de9e7ddb5c663aefeb2b92ec,Dion Gillard,dion@apache.org,Nov-20-2002
+f2a77f136c4aea68c305e084e41a68fba8534d1f,Dion Gillard,dion@apache.org,Nov-20-2002
+f4cc1b3d97e7734215fc2edc78408f3dd94b1e7c,James Strachan,jstrachan@apache.org,Nov-19-2002
+e284d995b0a84e37099d705a43f692eba0d94732,James Strachan,jstrachan@apache.org,Nov-19-2002
+4ea6739f9644f249d06b0643b750e553026d7c86,Dion Gillard,dion@apache.org,Nov-18-2002
+cabdad5b70f1ae3be5ed448072a8fa16f5ffe9b3,Dion Gillard,dion@apache.org,Nov-18-2002
+a046674f9eb720a12b96b89714d51affa83f1987,Dion Gillard,dion@apache.org,Nov-18-2002
+20a4f0abfe964fbdc9d1d9d0a42c37bb600ca965,Dion Gillard,dion@apache.org,Nov-16-2002
+ce55d4a0c59e7ef7a7f847d44f729596977a8834,Dion Gillard,dion@apache.org,Nov-16-2002
+7d2fdd18a94ca9b472ccf7ed69937d4c27a8d9e9,Dion Gillard,dion@apache.org,Nov-16-2002
+87df3d95cd207f725f4a66d2163f69707c975931,Dion Gillard,dion@apache.org,Nov-16-2002
+1160eb7e576ec011ca838b42c7156090a3a8fbcd,James Strachan,jstrachan@apache.org,Nov-14-2002
+210bd87a574831d16174fbf271e92600c0ab5045,James Strachan,jstrachan@apache.org,Nov-13-2002
+62fb6dccc8489123163a37d812a3cd8b831127d2,James Strachan,jstrachan@apache.org,Nov-13-2002
+a282efe8d86f4c2cb42eb0060e4c06bd622096b2,James Strachan,jstrachan@apache.org,Nov-13-2002
+3bd494812543c3085e653c70343510e9463364c3,James Strachan,jstrachan@apache.org,Nov-13-2002
+6fe6b6849f23fbc68eac44789ed3c4f2c5ac98b3,James Strachan,jstrachan@apache.org,Nov-13-2002
+e1d7b688c434a1c9b05157a77e08907e7e29a243,James Strachan,jstrachan@apache.org,Nov-12-2002
+39abdc4bd7bf2a58f708dd0751b08dde66abdea4,James Strachan,jstrachan@apache.org,Nov-12-2002
+6c5eab1f11149e447715a4d1db9bd0212b305233,James Strachan,jstrachan@apache.org,Nov-12-2002
+a2ccc5dfb38f49ca878abbf3cd5e868e5fb1f3d8,James Strachan,jstrachan@apache.org,Nov-12-2002
+8a11098f97b8dc9cbaf0c27f2f63e158eb9beb97,James Strachan,jstrachan@apache.org,Nov-12-2002
+c2581371d10c8a226594ef91a76c86ab418d1ff1,James Strachan,jstrachan@apache.org,Nov-11-2002
+3e1a4330aa6bc9bf8c17f54c9b33dbd453c76689,James Strachan,jstrachan@apache.org,Nov-11-2002
+75d059a6f760a29c2b55cb55f1334585ac515cd2,James Strachan,jstrachan@apache.org,Nov-11-2002
+5b86568c3c47971aaf4e35d5b2beea95b93db301,Vincent Massol,vmassol@apache.org,Nov-10-2002
+1fa82355312a60c80d83e9e28e033a68bbecc6f5,Vincent Massol,vmassol@apache.org,Nov-10-2002
+59a659013313e6d21fcd4795f379578fb62e6264,Vincent Massol,vmassol@apache.org,Nov-10-2002
+ebe89ee9a30f7612375561d27782fd9e4abfc27d,James Strachan,jstrachan@apache.org,Nov-8-2002
+dde4a6b3ce699ff58d615610fab6e4e724cceb31,James Strachan,jstrachan@apache.org,Nov-8-2002
+77bcc250c21f98c3c4522c2d8dffc6ee6ecfe7d3,James Strachan,jstrachan@apache.org,Nov-7-2002
+271d8a47ab13c597a0159ced9c7cd8b5980b69e3,James Strachan,jstrachan@apache.org,Nov-6-2002
+50966776b8f5b23df0377f4832ecf528a572ac87,James Strachan,jstrachan@apache.org,Nov-6-2002
+4fea1f94a4653165f18cf777d326d0e7d48dd63f,James Strachan,jstrachan@apache.org,Nov-5-2002
+8cf6b4701400daf491250377d73cd716e1eba4c8,James Strachan,jstrachan@apache.org,Nov-5-2002
+1ebaf9ccce446bfc0a5f659be6feb55c2506b94d,James Strachan,jstrachan@apache.org,Oct-31-2002
+652278bf8cd3079fe3738f26ed01449f7b4fa7fd,James Strachan,jstrachan@apache.org,Oct-31-2002
+adf773ff5768ea45b1499492a03c951664ba9be4,James Strachan,jstrachan@apache.org,Oct-30-2002
+0183fa5293e9981e577134c1d0391aec008a0683,James Strachan,jstrachan@apache.org,Oct-30-2002
+67486f20cedb0ba5f774aac6190070211c9b61a3,James Strachan,jstrachan@apache.org,Oct-30-2002
+291a78e8f3a128f9f24e97faa38f9d1952e71af5,James Strachan,jstrachan@apache.org,Oct-30-2002
+8e21126a588377d179195d4f4644115d351f6f18,James Strachan,jstrachan@apache.org,Oct-30-2002
+d5b120e45245b425bb4836bec10550196dbdec38,James Strachan,jstrachan@apache.org,Oct-30-2002
+cdb54fbe1174dea71fafcd9d2eb4c24a3c412706,James Strachan,jstrachan@apache.org,Oct-30-2002
+7f1cdf1e69ca3da7df9d1297d22fa617b432a2ef,James Strachan,jstrachan@apache.org,Oct-30-2002
+2e193ec7037deda36c0848eb36ad129a72e12355,James Strachan,jstrachan@apache.org,Oct-29-2002
+5b0122c5b7c77f619a6eac30482de3823136d976,Morgan James Delagrange,morgand@apache.org,Oct-29-2002
+847610fb9c2c5293bdad8358bb56af5cf0d65b9c,Dion Gillard,dion@apache.org,Oct-28-2002
+d216b3dd4ea7d12e7f220bc67a01d46a135fde78,James Strachan,jstrachan@apache.org,Oct-26-2002
+23d8fb1dd6decb4a6ccb21cce43bf0a79200db18,James Strachan,jstrachan@apache.org,Oct-26-2002
+f3b32dd97905fc5bb9ad2458a52dfa197c800bc3,James Strachan,jstrachan@apache.org,Oct-24-2002
+603530a114d543a5171ae228a80edf2976935658,James Strachan,jstrachan@apache.org,Oct-24-2002
+2f144b2717ec01ff1f1c83727e39b35bf464f746,Dion Gillard,dion@apache.org,Oct-24-2002
+cf9abe5fb9330a609e5853370d554ce2074b78fc,Rodney Waldhoff,rwaldhoff@apache.org,Oct-23-2002
+18c7f14373c3f1686fcc1091a3fdf9c3709cdb44,James Strachan,jstrachan@apache.org,Oct-23-2002
+a5f6faea04f9109e9faf0f3af19165c39974fc86,James Strachan,jstrachan@apache.org,Oct-23-2002
+7ce35ff296f646ee46b634a66fb877fdad62920b,James Strachan,jstrachan@apache.org,Oct-23-2002
+4eb4099e4b7800d3fb1fe7df5a79f017a6b53100,James Strachan,jstrachan@apache.org,Oct-23-2002
+ee6ade992123e51229d7ffe89605709ee82c5d96,James Strachan,jstrachan@apache.org,Oct-23-2002
+d96a2aaa0e3db6853e5dc8a04f96829f9fa04881,James Strachan,jstrachan@apache.org,Oct-23-2002
+6112487fbdc83eaaf0219ff2f45f6ad91aed1c6d,Rodney Waldhoff,rwaldhoff@apache.org,Oct-22-2002
+1db0d3a24e99b261a4c147f23e2a8002771d8c3a,Morgan James Delagrange,morgand@apache.org,Oct-22-2002
+7c1dc7e98923de8c2572aceb22c8196247e68f3c,Morgan James Delagrange,morgand@apache.org,Oct-22-2002
+ac6ebcdaf6a14a22842d4e608b22c5c5844d8924,James Strachan,jstrachan@apache.org,Oct-22-2002
+1667d2b927079027f35e043b1d593a0ae626b4d8,Rodney Waldhoff,rwaldhoff@apache.org,Oct-22-2002
+0a397dc645eee73989d1db763ea75f5882591250,Rodney Waldhoff,rwaldhoff@apache.org,Oct-22-2002
+13d0429b98d427e80835d2d5f654d6c853fae2ba,James Strachan,jstrachan@apache.org,Oct-22-2002
+2371cde00f8dc8ec39d921e0e54ef0b82397d914,Rodney Waldhoff,rwaldhoff@apache.org,Oct-22-2002
+0e978609e749829741603d48786b44a0fbdd62ce,James Strachan,jstrachan@apache.org,Oct-22-2002
+e677522c367cbe71426aa8e5f46837d193c41ae3,James Strachan,jstrachan@apache.org,Oct-22-2002
+ebd05d670ee5b0b517ca8f8c49fb769659ac67c8,James Strachan,jstrachan@apache.org,Oct-22-2002
+709868127d4b4e3d908290c508c721a9c2a899e1,James Strachan,jstrachan@apache.org,Oct-22-2002
+059a0961a0c25df8dd1abb8d8cf52971c308c405,James Strachan,jstrachan@apache.org,Oct-22-2002
+362101f1eb77ecdae91a48dee09a5a04109ab619,Bob McWhirter,werken@apache.org,Oct-21-2002
+28bd7644b217775577b42604cc6771128c8cdd0f,James Strachan,jstrachan@apache.org,Oct-21-2002
+f16e406586bffa8bd80f52538e7416f01934cdde,James Strachan,jstrachan@apache.org,Oct-21-2002
+9a60db8fe78e6300e49c600929cce4301e6ca67c,Ted Nathan Husted,husted@apache.org,Oct-18-2002
+b23fef891f24345665d54f0a35d8d4cd3ff2af9b,Morgan James Delagrange,morgand@apache.org,Oct-17-2002
+1ce8c2cc15c1e9642b1d948eac0105c49f8cc7f7,James Strachan,jstrachan@apache.org,Oct-17-2002
+79d783d8876a3f160ca0a970b07d227f0efdc9ac,James Strachan,jstrachan@apache.org,Oct-17-2002
+148513430ecee43021f0757f724bf1a605c76330,Morgan James Delagrange,morgand@apache.org,Oct-16-2002
+790750432da01f0b382a68d90bf7cdc8f9a59b4a,Morgan James Delagrange,morgand@apache.org,Oct-16-2002
+d04c2293a9899d911f4d33f99cb844a57f45c7d0,Morgan James Delagrange,morgand@apache.org,Oct-16-2002
+2dd6cebfd3954741f960238359531c0dec6480ac,James Strachan,jstrachan@apache.org,Oct-16-2002
+d44ede9332ef9030e93717a574a26e017be1c7cf,Morgan James Delagrange,morgand@apache.org,Oct-16-2002
+b6602aaf4d7208bb6da73dca5bde745e332b0fa6,James Strachan,jstrachan@apache.org,Oct-16-2002
+a3daef0bbc702c612452cabaf016ea889f41149b,James Strachan,jstrachan@apache.org,Oct-16-2002
+46f2ca1b5ab5310acb3f64be3174028aaab8ad64,Morgan James Delagrange,morgand@apache.org,Oct-14-2002
+d54e76a0130e970a311bb6f34f84b1108b01e3f3,Morgan James Delagrange,morgand@apache.org,Oct-14-2002
+16993c45edf5873f0d2dd0834ae95320a2c3187f,Morgan James Delagrange,morgand@apache.org,Oct-14-2002
+eb61a8198febb3dd3574472f904833d131709024,Morgan James Delagrange,morgand@apache.org,Oct-14-2002
+79b579b7604bfaafe895f6e1c0df93d1abc4471b,Morgan James Delagrange,morgand@apache.org,Oct-14-2002
+d527424c192c6ef6c2cd8147e5db8f5a772d5750,James Strachan,jstrachan@apache.org,Oct-12-2002
+9ef3b17082e249e5eb0e15d642c3b399bca9f561,James Strachan,jstrachan@apache.org,Oct-12-2002
+958cea18bd885d7bcfaf62f22120551d23025b80,James Strachan,jstrachan@apache.org,Oct-12-2002
+b11000f229bafc317506facc13d03e86809b7744,James Strachan,jstrachan@apache.org,Oct-12-2002
+2631ab316aca445a3010c738d3fdff186d833e08,James Strachan,jstrachan@apache.org,Oct-10-2002
+56b5cb8457af387ea48594c1ae9f18310dbdaf97,James Strachan,jstrachan@apache.org,Oct-10-2002
+09eab2d744c05bf66de4b3f024aca6f7b6a5cd4a,James Strachan,jstrachan@apache.org,Oct-10-2002
+abeaeea93eaf3d0421f1459982fabd0b63a8b43a,James Strachan,jstrachan@apache.org,Oct-10-2002
+b0af7b19e9f1c649cb438fa5efcc5d5043f7f5bc,James Strachan,jstrachan@apache.org,Oct-10-2002
+80e7babedfa0add32cf2b5ab7691ed22c1423395,James Strachan,jstrachan@apache.org,Oct-10-2002
+5a7d9e59d5e9091d915ec33786ef9c112b12415d,James Strachan,jstrachan@apache.org,Oct-10-2002
+42c18114dfdf786a213560f57707bdf2ef2282b8,James Strachan,jstrachan@apache.org,Oct-10-2002
+2818f73905340e1c46c35bd5969e2416af7b0174,Morgan James Delagrange,morgand@apache.org,Oct-9-2002
+cdecdccef16c5aa4be21e949850919f923915d47,Morgan James Delagrange,morgand@apache.org,Oct-9-2002
+e6dd74f271f6b9dffd94657b210d88188969ae23,Jeff Turner,jefft@apache.org,Oct-9-2002
+d26e53e5f809d5c73834b0c12d6f6ed70b8100a0,Bob McWhirter,werken@apache.org,Oct-8-2002
+c8b44e1979ddfc14f647677de8c6d5285b917a08,James Strachan,jstrachan@apache.org,Oct-8-2002
+937eeea0525250246f83aeb1b3cbf028238b6f49,James Strachan,jstrachan@apache.org,Oct-8-2002
+31192f752f5c3205b50c8db673afd724388119d4,James Strachan,jstrachan@apache.org,Oct-7-2002
+e806c3db24bc056b0baa0bb6fe8834464865f3d3,Dion Gillard,dion@apache.org,Oct-6-2002
+7b664f3ec06b6375d78f050178306ae52a911600,Jeff Turner,jefft@apache.org,Oct-5-2002
+d81db880d83f742755553618b54bce73b5b8a283,Dion Gillard,dion@apache.org,Oct-5-2002
+a6dc9c75a301e84cd980337f585366c1f0e098bd,Dion Gillard,dion@apache.org,Oct-5-2002
+f29e7088cdb2ce5e307d950524105053e30bf15d,Dion Gillard,dion@apache.org,Oct-5-2002
+5ceb4e03653e3ccb49dcdc0721371fedef45d1bb,Dion Gillard,dion@apache.org,Oct-5-2002
+e61c5fddcc9d9d445947bffd5addd3dcdd8ae5ac,James Strachan,jstrachan@apache.org,Oct-4-2002
+8638d31725de5ac786d6b403402907e83d8ffd67,James Strachan,jstrachan@apache.org,Oct-3-2002
+6d83d402b71db9f28901e6304dc0143d0717e7e8,James Strachan,jstrachan@apache.org,Oct-3-2002
+e5fe7ef4b07af82a4a83a41f7cfcae617fe42594,James Strachan,jstrachan@apache.org,Oct-3-2002
+3f849840d9d192fe374c0573ac69c211cc91f56c,James Strachan,jstrachan@apache.org,Oct-2-2002
+e69643235f1a6ed6fcfa685024ad0849c6f07a96,James Strachan,jstrachan@apache.org,Oct-2-2002
+e433f2c6dac66c398d153bce609a519adca94457,James Strachan,jstrachan@apache.org,Oct-2-2002
+3160efff3cee7ee8cc0accc95e1b38151bb9df4f,James Strachan,jstrachan@apache.org,Oct-2-2002
+8cc8404f94bb8f1fb1abcc12ac163d1ce5d429d6,James Strachan,jstrachan@apache.org,Oct-2-2002
+8d14a675d270af36b20ff0caea17233d706204b5,James Strachan,jstrachan@apache.org,Oct-2-2002
+d1f02e5debd5e43bea8250639969a453cf9015d6,James Strachan,jstrachan@apache.org,Oct-1-2002
+f3634ff3fe149ff518f707ac3806940dd7c4cc93,James Strachan,jstrachan@apache.org,Oct-1-2002
+13e4c09682bd625f19fcf013ca11ee6878fa06c6,James Strachan,jstrachan@apache.org,Oct-1-2002
+e3cbf26743612a7524b30dda571d2355f36f2860,James Strachan,jstrachan@apache.org,Sep-30-2002
+83c638617ff3f7870338b900eb94f2c235b1dbb6,James Strachan,jstrachan@apache.org,Sep-30-2002
+1887ddcafde09a882030123d170ecddc53f46db3,James Strachan,jstrachan@apache.org,Sep-30-2002
+9d1530f438906ec7b7ac3c5af44b9e45e2d83716,James Strachan,jstrachan@apache.org,Sep-30-2002
+928a4945402493779ad10c64415d0d57b43d65ee,James Strachan,jstrachan@apache.org,Sep-30-2002
+e539740035e27834236713ee7446fe78ff527588,James Strachan,jstrachan@apache.org,Sep-30-2002
+2c4c1b4b22796e1f81f1e11e98fcfb1444cd005a,James Strachan,jstrachan@apache.org,Sep-30-2002
+b4542deee71ae05b7e4049c3186bebe7369bf82e,James Strachan,jstrachan@apache.org,Sep-30-2002
+faafb3c9d396b1586f91acc92d5af276bf5f366a,James Strachan,jstrachan@apache.org,Sep-30-2002
+6b3ebb36246d4ec481d1d246df4b4f6f945e99ec,James Strachan,jstrachan@apache.org,Sep-30-2002
+fa853183aa430fe4a2d8c66d398aafd718b0493b,James Strachan,jstrachan@apache.org,Sep-30-2002
+5a2f356902c5bf02cdd34251f7950359a89766f3,James Strachan,jstrachan@apache.org,Sep-30-2002
+9a4c0df278183dfbb7f5a42dd707a06589e14567,James Strachan,jstrachan@apache.org,Sep-27-2002
+9f42d8db82eeaa4304458de8a9c690dc4ffc0b9b,James Strachan,jstrachan@apache.org,Sep-27-2002
+04ba400dade23ce67cb208ec2af04bb43bd09a05,James Strachan,jstrachan@apache.org,Sep-27-2002
+ee25035d34437fb77cba9c71b77a253e9f060f5b,James Strachan,jstrachan@apache.org,Sep-27-2002
+73e9c42b158af6e6ecbacd59371a4e181e7ffa97,Dion Gillard,dion@apache.org,Sep-27-2002
+b2548a2984900688af103941a6d11bc0b8796feb,Dion Gillard,dion@apache.org,Sep-27-2002
+47b8a1926a2ce3b586713f4c8e519559df54b467,Dion Gillard,dion@apache.org,Sep-27-2002
+ac399df99b9b62190c1cd64001dd0d2da85aeb40,Dion Gillard,dion@apache.org,Sep-26-2002
+6f1b2627dc9d30e3961a3bcb923a402423860d18,James Strachan,jstrachan@apache.org,Sep-26-2002
+76a8c8af0a3130b336eaa696cc6d7d5e8724f0ed,James Strachan,jstrachan@apache.org,Sep-26-2002
+705c159c5778016d485b030b389e9599e9bc6a2f,James Strachan,jstrachan@apache.org,Sep-26-2002
+c46348752956d69148fd5af041d98fab38bc521a,James Strachan,jstrachan@apache.org,Sep-26-2002
+49f34a3f51e911ded61b2cd86da59202c091077c,James Strachan,jstrachan@apache.org,Sep-25-2002
+e5ecdbaafa92d7dc304636107a12162a1acde0f2,James Strachan,jstrachan@apache.org,Sep-25-2002
+d5515a05450e8aec8dcb876af6b31849824838a8,James Strachan,jstrachan@apache.org,Sep-25-2002
+cfb5cf4530bf49184410162c2f0e050c2372eeaa,James Strachan,jstrachan@apache.org,Sep-25-2002
+5a3d6ed26ae2fec939d530017f1b70435e916125,James Strachan,jstrachan@apache.org,Sep-25-2002
+f1389ee704ec8ad6b0c94aabf075a713cd9507d2,James Strachan,jstrachan@apache.org,Sep-24-2002
+30e19e3b040bd28cefe7a5c16041ffef7caeafb5,James Strachan,jstrachan@apache.org,Sep-24-2002
+b3da0b9ba4832a660dbd171131186ed15a221d54,James Strachan,jstrachan@apache.org,Sep-24-2002
+434ee80e8d46a09e9d95cf9aff0290352d0c0031,James Strachan,jstrachan@apache.org,Sep-24-2002
+9c161c08f701003b5d101302d5f308d08675bbf6,James Strachan,jstrachan@apache.org,Sep-24-2002
+78b0ad5dba25ab01e4f2132d98f814f0f4700100,James Strachan,jstrachan@apache.org,Sep-24-2002
+b217a34e44eaa7bca08788c5d3a2f2af2650931e,James Strachan,jstrachan@apache.org,Sep-23-2002
+bf5a5207ec725a4b8203414f5e48423830082a53,Peter Lynch,plynch@apache.org,Sep-22-2002
+9552c76942b080c60df115acd025a4f368bf4ca6,Bob McWhirter,werken@apache.org,Sep-20-2002
+4e32814ffc6fab6b61d3893050d140a31c67ccd0,James Strachan,jstrachan@apache.org,Sep-20-2002
+e68422ac404dead033c67b454e7441a8dfad9e31,James Strachan,jstrachan@apache.org,Sep-20-2002
+55e94775a96c01324139fee6388c9bf6972b06f6,James Strachan,jstrachan@apache.org,Sep-20-2002
+9669ddf78f524049acde8c59f154c011d18efb6b,James Strachan,jstrachan@apache.org,Sep-20-2002
+d6a4de37ec5a3ca421a9497946bdfc43a77a69e2,James Strachan,jstrachan@apache.org,Sep-18-2002
+7e38090238daf314df0f6db5a497c6a14b1f9057,James Strachan,jstrachan@apache.org,Sep-18-2002
+2de4d3e3c0eba8547422804a48c8f89a86acd48b,James Strachan,jstrachan@apache.org,Sep-17-2002
+ebee365fac5cd6814e8048a995261bb130e0e0cd,James Strachan,jstrachan@apache.org,Sep-17-2002
+9672c34c43518059651ce8670f5a62dd455fdaae,James Strachan,jstrachan@apache.org,Sep-17-2002
+5aee480d8ea7c43bd175cabf6648ab35b63a6efe,James Strachan,jstrachan@apache.org,Sep-17-2002
+7f2ff5bd9738d2246788ba72632ae2d46bdd5d2c,James Strachan,jstrachan@apache.org,Sep-17-2002
+d2e9ec0e8c1d9ccd22b860a470535ef8403c457a,Jason van Zyl,jvanzyl@apache.org,Sep-13-2002
+d092dd552aa60a783696e56a6c5bc44723bbf316,Jason van Zyl,jvanzyl@apache.org,Sep-13-2002
+88dffa5149bf565cc0af9523d7b703513d942fa1,James Strachan,jstrachan@apache.org,Sep-11-2002
+8f0eb20be2a9237011523c9e960241a7bdcc91ba,James Strachan,jstrachan@apache.org,Sep-10-2002
+ced864ef84192c5151e34327bf1491dd95630741,James Strachan,jstrachan@apache.org,Sep-9-2002
+41b5e99eb4218a6ceeee2af509d10103193aa52e,James Strachan,jstrachan@apache.org,Sep-6-2002
+2db5b6cef1a7f9ca981f418c92337f230601d4f0,James Strachan,jstrachan@apache.org,Sep-6-2002
+6f04a60de9a841e94e0b5fc8ac2f61c2ca5d7d9e,James Strachan,jstrachan@apache.org,Sep-6-2002
+c82a3c46292d329780f677d2030c6c01df1e3868,James Strachan,jstrachan@apache.org,Sep-5-2002
+ed08bfbd761f8404c00c88e2599e11c5752cd6e3,James Strachan,jstrachan@apache.org,Sep-5-2002
+2d244549f2017d3a78a9b740ec72f2700b213edf,James Strachan,jstrachan@apache.org,Sep-5-2002
+8c055d83b67f88710a9b3627e170546d0cf60e1b,James Strachan,jstrachan@apache.org,Sep-5-2002
+490ba7d52aa37da5961a49f2b0b3871dca2f7e9f,James Strachan,jstrachan@apache.org,Sep-5-2002
+5abcfd7b5302b74c43306960fa094cb3d1a00052,James Strachan,jstrachan@apache.org,Sep-5-2002
+5db04f40319d97b48b33e9853b23aa789aede434,James Strachan,jstrachan@apache.org,Sep-5-2002
+183869b6d1b6e13f411a63c24c43c07c32a647b7,James Strachan,jstrachan@apache.org,Sep-5-2002
+53341bb9495b2dbfd700caec3da14bcc3d9c4358,James Strachan,jstrachan@apache.org,Sep-5-2002
+7a0dd2972e0e6f3d67522b91c7f36646a12f7f0b,James Strachan,jstrachan@apache.org,Sep-5-2002
+6d458270d146226c6501c33d6978d1f6858d8422,Bob McWhirter,werken@apache.org,Sep-4-2002
+2d90b6e1b9dd96539084bc5b7b8f645de624e2d9,James Strachan,jstrachan@apache.org,Aug-30-2002
+e6164fbe2d5213996b168366f3ac3909d8055347,James Strachan,jstrachan@apache.org,Aug-28-2002
+3333fd607518e5e2375135c2f3e9524d976956f2,Bob McWhirter,werken@apache.org,Aug-28-2002
+522cfc728d80f56b69df7db95da26436a616bb66,James Strachan,jstrachan@apache.org,Aug-28-2002
+1327699b024b4a63df9fe6b78dc5bfe35fb2713a,James Strachan,jstrachan@apache.org,Aug-28-2002
+77e3fa280435dea39899f64630a8d80ae94fd1f7,James Strachan,jstrachan@apache.org,Aug-28-2002
+009cb1390877138b9d845a10dfcc4e0c277b3c3c,James Strachan,jstrachan@apache.org,Aug-28-2002
+b0e2d074ee8188d8221873bc3b1226b6afdf4d95,James Strachan,jstrachan@apache.org,Aug-28-2002
+5a962f4415dc21acda2c860bc0e6bf3959adea61,James Strachan,jstrachan@apache.org,Aug-28-2002
+748d9c4939628caf1da4d974a193db38716c1df0,James Strachan,jstrachan@apache.org,Aug-28-2002
+93b7c1633d51887aba0bdc5db183d87452f535e5,James Strachan,jstrachan@apache.org,Aug-27-2002
+a4977fc0abd2c06fcc46090a70a47ab78b29e9d1,James Strachan,jstrachan@apache.org,Aug-27-2002
+93699b0091e02c5dd75d151510315df5f1a643e5,James Strachan,jstrachan@apache.org,Aug-27-2002
+bb29f5d3ba1281ba1c8285d8f872d938d19c2c58,James Strachan,jstrachan@apache.org,Aug-23-2002
+3f84b6b7b1447a8a6eb7395fb8518efbf86b51db,James Strachan,jstrachan@apache.org,Aug-23-2002
+c362430ac487414cadf96fadfd2da57ba0c92aca,James Strachan,jstrachan@apache.org,Aug-23-2002
+9e2451c5c10ef11e6bf52d3199c21ba03e042afa,James Strachan,jstrachan@apache.org,Aug-23-2002
+385983011bec6e4d63814970f52d6250ee50da81,James Strachan,jstrachan@apache.org,Aug-22-2002
+76c5ef3e88e55dda17dd1bf3f0f71ab0080c12a3,James Strachan,jstrachan@apache.org,Aug-20-2002
+724e17cb1cc753abc45d4706da94069f3817076c,Bob McWhirter,werken@apache.org,Aug-20-2002
+5f1d54d2343b2c9102f60a5c28b5e002a3b93645,James Strachan,jstrachan@apache.org,Aug-19-2002
+01d84acfc6432a79ad4b90671887b9668b92af49,James Strachan,jstrachan@apache.org,Aug-19-2002
+fae057085b7dc73d441c5a05afd4508a88b83529,James Strachan,jstrachan@apache.org,Aug-19-2002
+145e959460227ffd314c21467f588a1f8416d31a,James Strachan,jstrachan@apache.org,Aug-19-2002
+eb75f2cd825ae9bd7347a9065a7210456b9a04f1,James Strachan,jstrachan@apache.org,Aug-19-2002
+063c05049aa588acbd4cb0e8970b3c7e0351ffff,James Strachan,jstrachan@apache.org,Aug-19-2002
+2eb309123c99bc9242bfda753c1c67e134685ceb,James Strachan,jstrachan@apache.org,Aug-19-2002
+1d268a77eee74f62f9b909062184ebd34198f511,James Strachan,jstrachan@apache.org,Aug-19-2002
+0f5cb520d80832711b691cbdf5fc8f95d434205f,James Strachan,jstrachan@apache.org,Aug-19-2002
+4c5ac7b5186c39bca9ea010b95a53d236573f7c5,James Strachan,jstrachan@apache.org,Aug-19-2002
+b9fdf9b6143d021c921ea2898195f57f3ff5f009,James Strachan,jstrachan@apache.org,Aug-19-2002
+f91ac54ef582d055844fe3503530a1039afc9689,James Strachan,jstrachan@apache.org,Aug-15-2002
+6f4ba7bb0dd684db1af46d55703f99842700dcf0,James Strachan,jstrachan@apache.org,Aug-15-2002
+1506622b0c37b525d805f51cef901bdcfb2bd5db,James Strachan,jstrachan@apache.org,Aug-15-2002
+63f23f0357cc3523f73779d40cd6f0654280fa2d,James Strachan,jstrachan@apache.org,Aug-15-2002
+06b1266bc6965962f8a34ca13ab4e5d7671f4e02,James Strachan,jstrachan@apache.org,Aug-15-2002
+fe3e72421df243fbcb5707602fd9a531460c9139,James Strachan,jstrachan@apache.org,Aug-15-2002
+9c039d6937b17793e31776348878ae380e2e4d22,Jason van Zyl,jvanzyl@apache.org,Aug-14-2002
+deb1d34c26af18774230a725074b2b31961339b8,James Strachan,jstrachan@apache.org,Aug-13-2002
+3a5dba4b6c035e2eabd4ce682f178cf4269f0c0e,James Strachan,jstrachan@apache.org,Aug-13-2002
+7ed9285b4562e7c7866ed0a8c0476af63cffef1e,James Strachan,jstrachan@apache.org,Aug-12-2002
+3dd6705a368a8c00744f14db80eb35a54deef09e,James Strachan,jstrachan@apache.org,Aug-12-2002
+5907eeb86f9279bab074a60dad959c3b40d25bee,James Strachan,jstrachan@apache.org,Aug-12-2002
+1c175fdb9cbc503336aee0b33c50cd90814d9ad4,James Strachan,jstrachan@apache.org,Aug-12-2002
+51420d97ca63e6c10ad1f1f8d83054fbd9569d6d,James Strachan,jstrachan@apache.org,Aug-11-2002
+7cb17ff754920ae624c96975eb78b8d752d436d9,James Strachan,jstrachan@apache.org,Aug-11-2002
+657c90ba7a54cd2f8032dbdb5a432283ec6f8fc4,James Strachan,jstrachan@apache.org,Aug-9-2002
+546de10bbe22cb003d9c35b5eac4ccb2fcb427ed,James Strachan,jstrachan@apache.org,Aug-9-2002
+c98c581faffee8e0e84279b1e075409afac4f5a8,James Strachan,jstrachan@apache.org,Aug-9-2002
+6cc1b966a74162748e66d68d04425620bba224dc,James Strachan,jstrachan@apache.org,Aug-9-2002
+a088ac322a46d2417f6aea558c6e3e967ce73f35,James Strachan,jstrachan@apache.org,Aug-9-2002
+567368933e0695e88ce71dd20b25794f9f3bfba2,James Strachan,jstrachan@apache.org,Aug-9-2002
+c2e48fdb39ae8bed28596fd52eae2b7783f432d2,James Strachan,jstrachan@apache.org,Aug-9-2002
+de2ec2cb3252ed884dfb5d65f54de556eccffe67,James Strachan,jstrachan@apache.org,Aug-9-2002
+de87814f1f1c7895e07aef83c1fcb79d0230da4c,James Strachan,jstrachan@apache.org,Aug-9-2002
+e99351c0c319ca235bab813d0e7703897b6a23de,James Strachan,jstrachan@apache.org,Aug-9-2002
+e5cb1d89757757d054b3217c04885844c7c469c0,James Strachan,jstrachan@apache.org,Aug-9-2002
+ed35f0787c3688a327c7fa1e2599aa396dd51373,James Strachan,jstrachan@apache.org,Aug-9-2002
+65a749ed9221a0fe35eccfca6f98865febb439a8,James Strachan,jstrachan@apache.org,Aug-9-2002
+288504454ad74c80a5b6b6ab3f84d0a983e320e1,James Strachan,jstrachan@apache.org,Aug-9-2002
+9e19102b5ff4654dbee2b33b0f36e0fa1f6cdee1,James Strachan,jstrachan@apache.org,Aug-9-2002
+4d4f251b8ca6d84505d5ac4019abb1d5feada68e,James Strachan,jstrachan@apache.org,Aug-9-2002
+7a2525c6ef4e2221d07ab7491017ad7e52cd65e4,James Strachan,jstrachan@apache.org,Aug-9-2002
+461af45606e054c8fd5d3ffe6f9eef5c63af856c,James Strachan,jstrachan@apache.org,Aug-9-2002
+a3896fa455630755c8d2d755d1d4ec71f6facf90,James Strachan,jstrachan@apache.org,Aug-9-2002
+13ee83acb2042d8eeacf8dede07af73aab4ca9ba,James Strachan,jstrachan@apache.org,Aug-9-2002
+a13395b6cc85b2dc1ead1a4cf0df5375a58a91a9,Jeff Turner,jefft@apache.org,Aug-4-2002
+f0b2449c54e8c5694df5fc7cbe34a90cc7c64d34,James Strachan,jstrachan@apache.org,Aug-1-2002
+5a7f74c19545653462eb2c1acc6aceaac383a301,James Strachan,jstrachan@apache.org,Aug-1-2002
+ba1c9153352bee8ea8d6d9abeb769d52ac5ac237,James Strachan,jstrachan@apache.org,Aug-1-2002
+6e53b2d62d7da3b4f5d9cc54439380f0113273ca,James Strachan,jstrachan@apache.org,Jul-31-2002
+fd9460a04061f11f61ac69b20d1fe40b1ce14fe9,James Strachan,jstrachan@apache.org,Jul-31-2002
+56192edc103a69d5dbcf293456e1b3fab062913f,James Strachan,jstrachan@apache.org,Jul-31-2002
+9a569d79ccb8f6b45689dca4414ead7b15e20c68,James Strachan,jstrachan@apache.org,Jul-31-2002
+c4bf779bc975e0ca199358898dad0bbad84638ba,James Strachan,jstrachan@apache.org,Jul-31-2002
+aca5ec72f1d77285ff18025c0548f5c5cb4649c9,James Strachan,jstrachan@apache.org,Jul-31-2002
+f68c6872168e88ce11173f3560fea088eca356dc,James Strachan,jstrachan@apache.org,Jul-30-2002
+603c239925938386dddf80def57cc8670254a0db,James Strachan,jstrachan@apache.org,Jul-30-2002
+f1516a95046a287ee4bc0385b96418a357302c9c,James Strachan,jstrachan@apache.org,Jul-29-2002
+3595beee7e32bf6ed44e3eb9cfad534d31b83f94,Peter Donald,donaldp@apache.org,Jul-25-2002
+df1705ea5a98e745110163e4264318bb7e0f153d,Bob McWhirter,werken@apache.org,Jul-25-2002
+a966695bc9605861e22d613b17277af631ccfbf3,James Strachan,jstrachan@apache.org,Jul-24-2002
+6d4c473e3e9a6afa1a9f572e77db18859d8b62c0,James Strachan,jstrachan@apache.org,Jul-23-2002
+50ab74233722aa0418a1bd7b8dcab080a8c02776,James Strachan,jstrachan@apache.org,Jul-23-2002
+fe144e64fc6125e9a9cc7eae78ee8d49e604fec1,James Strachan,jstrachan@apache.org,Jul-23-2002
+3cefabc9d90d1d4384860d7fc995626e3a51adcd,James Strachan,jstrachan@apache.org,Jul-23-2002
+1d43ac4f4464e1ad320cd94afef38b842a6ea0aa,James Strachan,jstrachan@apache.org,Jul-23-2002
+fb023bbd0fe07831d106a1ff45fe11bfd61b28c5,James Strachan,jstrachan@apache.org,Jul-22-2002
+8de16b6a92e013897ee9afc6648c753c3d4684fc,James Strachan,jstrachan@apache.org,Jul-22-2002
+1c07d4552b8aac048fa353fe38353a638359610c,James Strachan,jstrachan@apache.org,Jul-22-2002
+d10b266ace26bb6fc500750fffa3394c244a95d5,James Strachan,jstrachan@apache.org,Jul-22-2002
+dfeb9f949739951f35a4c2534ccc92eed4ed1093,James Strachan,jstrachan@apache.org,Jul-22-2002
+71b29fc91a3a9f59d89f7204fbebb1aac9ab914c,James Strachan,jstrachan@apache.org,Jul-22-2002
+6a5366013122efc65f5c71fec4e387e436f01199,James Strachan,jstrachan@apache.org,Jul-22-2002
+df3844eb0581e7fe2860412bf033ac79debeb3ab,James Strachan,jstrachan@apache.org,Jul-22-2002
+0e277d253dc422e49b205284ede56f030ccb08a2,James Strachan,jstrachan@apache.org,Jul-22-2002
+f0ee781f99a3123ea3d17908e1d0b62e862eed96,James Strachan,jstrachan@apache.org,Jul-22-2002
+d55e20d5aa26380002ec49dbbe55da93c4b169c4,James Strachan,jstrachan@apache.org,Jul-22-2002
+b2eca8dccd6771d69ab08f99f25fe0a04845cd50,James Strachan,jstrachan@apache.org,Jul-22-2002
+aee1707f46cc79cde5f4d42c6f6acd60f543a7ec,James Strachan,jstrachan@apache.org,Jul-22-2002
+2a02635c9475f94014fc032b13c26c5f3f106348,James Strachan,jstrachan@apache.org,Jul-22-2002
+f70c820b2758fe38a05dddae3e258e142714e57c,James Strachan,jstrachan@apache.org,Jul-22-2002
+6f81c505e175c6521c3e0ab029c39977575a60af,James Strachan,jstrachan@apache.org,Jul-20-2002
+4c3bc34776208be0f7c332b3580b52b41ab32cd0,Peter Lynch,plynch@apache.org,Jul-20-2002
+cdbd983935f8946ba57d316c57da64659eb0914b,James Strachan,jstrachan@apache.org,Jul-19-2002
+444b061480cb6cac9e0219ed03e964ae2ac5d3bd,James Strachan,jstrachan@apache.org,Jul-19-2002
+3e62aca21310496caaa2d93dfde58e5d3cf211a3,James Strachan,jstrachan@apache.org,Jul-19-2002
+98afe6062831d16829092100e385afd8d2a30b99,James Strachan,jstrachan@apache.org,Jul-19-2002
+458663c3f38775ff8e4beea2f87fea13860d575d,James Strachan,jstrachan@apache.org,Jul-19-2002
+70c9336c261b4455002488fd8b7ca3292e475fb7,Stephane Mor,smor@apache.org,Jul-19-2002
+469a792bf2c4c28bdc7bad8997353f1b4839afe6,James Strachan,jstrachan@apache.org,Jul-18-2002
+dc2e94318113f23aaf5b537489c4de3ad27dab31,James Strachan,jstrachan@apache.org,Jul-18-2002
+f04c655e59d03fd2032987185e2d3f3da506681a,Peter Lynch,plynch@apache.org,Jul-18-2002
+fdb1f6fb10ca21a628e675896df1f3c8fa46ddf2,James Strachan,jstrachan@apache.org,Jul-17-2002
+b2600276c611915bfcfdd24ac7a996cf7d874faa,Bob McWhirter,werken@apache.org,Jul-16-2002
+c079296bf2a505b381573c919093c7d2fed9b650,Bob McWhirter,werken@apache.org,Jul-16-2002
+4e19564c84fa7edcd09a5bced23b62a7efea1fac,Bob McWhirter,werken@apache.org,Jul-15-2002
+fe5ee066c380cd37e6b5e257a3736f6289b62020,Jason van Zyl,jvanzyl@apache.org,Jul-15-2002
+edb5ae178106907e9e544a67ad42fdbfea7f06e9,Jason van Zyl,jvanzyl@apache.org,Jul-15-2002
+026102d1fba59f653071b3531f824b6012b9e9d5,James Strachan,jstrachan@apache.org,Jul-15-2002
+18716a545dd3517f3a4cadad9ac36b3e7523af48,James Strachan,jstrachan@apache.org,Jul-15-2002
+5923dfcb54a4cac7c0d1881de5c9c4a2257901f3,James Strachan,jstrachan@apache.org,Jul-15-2002
+29f0f8746911ea7ea21b89f02d46c7fa6566d0a3,Bob McWhirter,werken@apache.org,Jul-15-2002
+1d2fee596ef2b2e4258d9b4956f9dbf6dea655b9,James Strachan,jstrachan@apache.org,Jul-15-2002
+a89aeb86d8d42881af09208bc0dc1ece39a0d940,James Strachan,jstrachan@apache.org,Jul-15-2002
+b946b98e6e5c45f5248d8034d152e005b1a12f4a,James Strachan,jstrachan@apache.org,Jul-15-2002
+599a3d118f2250277e0eedad1d049bf1708074ce,James Strachan,jstrachan@apache.org,Jul-15-2002
+8c12e47bc7f272f00d2c2d4a74e19de8ea38b9d7,James Strachan,jstrachan@apache.org,Jul-15-2002
+852f5a93268cceb1cdd0632c91529e8c3e242819,Dion Gillard,dion@apache.org,Jul-14-2002
+d7d329f2af10f1a2958d32fd8d05d4b782a4cd7b,Dion Gillard,dion@apache.org,Jul-14-2002
+0ddd3760c1f6a7e050c4b7afd906554a368b5b0a,Dion Gillard,dion@apache.org,Jul-14-2002
+c6706cc07e428d02ce34ade70d940c9d5b0b7e1e,Stephane Mor,smor@apache.org,Jul-14-2002
+fcfc4adfcfc73f61a187459e8dc6cb4d83aba028,Peter Lynch,plynch@apache.org,Jul-13-2002
+04a298546d20f4586827fd37916d2a3311ca7cd9,Stephane Mor,smor@apache.org,Jul-13-2002
+a50d5b34517c5e8084053980962e5b77c57445c1,Jason van Zyl,jvanzyl@apache.org,Jul-10-2002
+97cc9ebef7bdb36f1f0e5d3e5d562738aba7a06f,Jason van Zyl,jvanzyl@apache.org,Jul-10-2002
+16a15c68a790149472877df35a7af29132209881,Jason van Zyl,jvanzyl@apache.org,Jul-10-2002
+f6158e6b6fad4c4265213feee382ad43a7a14a84,James Strachan,jstrachan@apache.org,Jul-10-2002
+e50a55bc553e311bb259f3c37958dcfb3f9bc37f,James Strachan,jstrachan@apache.org,Jul-10-2002
+7568cc12e3a3d2b3edde4f5a5288362ad979cb86,James Strachan,jstrachan@apache.org,Jul-10-2002
+abb756b5bf43e965f70846e0b7d95773825e910a,Bob McWhirter,werken@apache.org,Jul-9-2002
+1443485c8767808d9020bbf6d0ce627b2e8c6189,Bob McWhirter,werken@apache.org,Jul-9-2002
+ca6cd14205326ef30df2bf69d7d9d637f6d797d1,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+699fef0571eba2158fdea2872d41bafaf8768d76,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+f4de793141692b191a05f982f8ebfda8037d8563,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+e2e9acc871c9e17dbcd1f3d01578437162cb2499,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+ed32249e175dc41c7f7f4ff41a91f9fc5cdaced1,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+7c82524748b7a1a19b3d4a1a330cb5c17cb9831e,Jason van Zyl,jvanzyl@apache.org,Jul-8-2002
+bef83189f856a2c0db932410f05f2b6a335b0cd0,Bob McWhirter,werken@apache.org,Jul-7-2002
+26a4dc3142d15c49766b4dab6296b3ca5a0a0869,Dion Gillard,dion@apache.org,Jul-6-2002
+ec3b12832dd52ddcc83b010f5accca2bacb92b0d,Bob McWhirter,werken@apache.org,Jul-5-2002
+edeaa735b7dcf9c59aa13974ba811e4d6b1362a3,James Strachan,jstrachan@apache.org,Jul-5-2002
+5e99413b10bc36bea9f3a90f81d96c55d5de63bb,James Strachan,jstrachan@apache.org,Jul-5-2002
+806e19619c51f24bd431eacb7291a830bfd00181,James Strachan,jstrachan@apache.org,Jul-5-2002
+1fc3f608d8bae0ea5a797afab712ec873699993b,James Strachan,jstrachan@apache.org,Jul-5-2002
+64cd7996ff6d8e91b190f0ee95bab20248283418,James Strachan,jstrachan@apache.org,Jul-5-2002
+c3be5fc4c03f3c72dabaa83405a47e709a1e968d,James Strachan,jstrachan@apache.org,Jul-5-2002
+cf1db1131dd869b0cbd5537dcc476e84928934d6,James Strachan,jstrachan@apache.org,Jul-5-2002
+3752c6c36c0a3bf3b9048c31e137796456a171bb,James Strachan,jstrachan@apache.org,Jul-5-2002
+22193e8805fd206f0d1f1936316598add41692b7,James Strachan,jstrachan@apache.org,Jun-28-2002
+925a79cff62aff4ecd6a3c13586ac21b6410dd8f,James Strachan,jstrachan@apache.org,Jun-28-2002
+f3c999a318d5daaada0b49ec4c8938870b9c4302,James Strachan,jstrachan@apache.org,Jun-28-2002
+f15fdee0f4f8885cba1dc70cc51b3da6cf28377d,Bob McWhirter,werken@apache.org,Jun-28-2002
+accefc955e49db0f496f203b963073c0cd6d5ce1,Bob McWhirter,werken@apache.org,Jun-27-2002
+2f9d57fb1d86275c09a051dfbff3cc61af6228b6,Bob McWhirter,werken@apache.org,Jun-27-2002
+9a0c6003a81f19007243f4126fd3ef1fe9c8a83a,James Strachan,jstrachan@apache.org,Jun-27-2002
+ad3fe44d683e35a8c54c39fd92f9b967ac6705de,James Strachan,jstrachan@apache.org,Jun-27-2002
+c4138c82090498fb41ad909512736863670849f3,James Strachan,jstrachan@apache.org,Jun-27-2002
+92a09930ea0b2e7e7e3b8025d3306e4e891eaaec,James Strachan,jstrachan@apache.org,Jun-26-2002
+7323c912c288a68c2065e2d8579b8a297f9471c4,James Strachan,jstrachan@apache.org,Jun-26-2002
+fec8a5b7bd8190cbb22a9075362ec74f89c9eab0,James Strachan,jstrachan@apache.org,Jun-26-2002
+ce248088261b445aa958302ac1afafe4c17feef1,James Strachan,jstrachan@apache.org,Jun-26-2002
+0d5aec147baa5b0b5399591c7e9dd775bb22bcb4,James Strachan,jstrachan@apache.org,Jun-26-2002
+9688b7378ea6848c4f50de508b489f8b45d77e4b,James Strachan,jstrachan@apache.org,Jun-26-2002
+d439019b0bdc102e45f7bef94bed4502a8163c6b,Bob McWhirter,werken@apache.org,Jun-25-2002
+b843d0f7a20b7afdef2c0e4e36237ed32c75da7a,Bob McWhirter,werken@apache.org,Jun-25-2002
+0a6c53c891b3b4e9050b47bee442df029036b5d1,James Strachan,jstrachan@apache.org,Jun-25-2002
+dc0a8931a41765ecd8a2041cefa51542e71502ed,James Strachan,jstrachan@apache.org,Jun-25-2002
+673c047fdc8f4bd8c1627c2acd278c885bd0d043,James Strachan,jstrachan@apache.org,Jun-25-2002
+761d4aca6b62f143bb1a4ef09422d5f024aa96bd,James Strachan,jstrachan@apache.org,Jun-25-2002
+a47e5ec78898ca9e721e9c4b2c8e5d0196536fe4,James Strachan,jstrachan@apache.org,Jun-25-2002
+6a789be77cb4b2efe20cb22cf4a982ff810b0b71,James Strachan,jstrachan@apache.org,Jun-25-2002
+dc4a635c83627fc5336be6e327855bd0e3d40de9,James Strachan,jstrachan@apache.org,Jun-25-2002
+718dec56fbc669a3bebc583c7c8f368c679c3e9c,James Strachan,jstrachan@apache.org,Jun-25-2002
+0e115fd99a88f1cc510a9295f22fbe4f8dd93f27,James Strachan,jstrachan@apache.org,Jun-25-2002
+9512109ecd995834b8a80d574dc8d92f976ac17c,James Strachan,jstrachan@apache.org,Jun-25-2002
+bc1c93eebdf33102cd88d0eac57c6d304d49d515,James Strachan,jstrachan@apache.org,Jun-24-2002
+e4505e7a41f04b34df8f8ab17686bde58857e6c2,Dion Gillard,dion@apache.org,Jun-24-2002
+5fd0bbfec60440a0a94149152a80274a31a7484e,Dion Gillard,dion@apache.org,Jun-24-2002
+1cba6be96fb62d1d05defa409297a00b2111858e,James Strachan,jstrachan@apache.org,Jun-24-2002
+2cb2b80f5dc599476ea6024eec63590f62ab0d75,Bob McWhirter,werken@apache.org,Jun-24-2002
+760857eea7eb3176e20c2ac4b198cce2ac0cde34,James Strachan,jstrachan@apache.org,Jun-23-2002
+bb45094210c7a43b66246ae0692a851ffe9d9335,James Strachan,jstrachan@apache.org,Jun-22-2002
+a971041a521666f9d2b05ba6af54b35aa227ba5c,James Strachan,jstrachan@apache.org,Jun-22-2002
+bc791e3ccf939b1cadd5cc6db9a30bf795a4b0a8,James Strachan,jstrachan@apache.org,Jun-22-2002
+082d4653dd89eefc4add17fef8459f8abfbb19a8,James Strachan,jstrachan@apache.org,Jun-22-2002
+eccc1061874d788f5cc4d97573b25e83232d9d7a,James Strachan,jstrachan@apache.org,Jun-22-2002
+041afae8893a121607a4885c09e813a3d393f954,James Strachan,jstrachan@apache.org,Jun-22-2002
+cced481788fc62b9cb4debb35d35fa8e2e6c1153,James Strachan,jstrachan@apache.org,Jun-22-2002
+f67cb23b2d3eda989be31aed9157f572e7ef666b,James Strachan,jstrachan@apache.org,Jun-22-2002
+7a4f0e8a9759cca607012c39950737a17cce8f59,James Strachan,jstrachan@apache.org,Jun-22-2002
+1e37098a4fefebee2eb1bbb7bea52122c80d15dd,James Strachan,jstrachan@apache.org,Jun-22-2002
+20c0284ad866a39a17a1f2b2d87bff6aec1e1ab0,James Strachan,jstrachan@apache.org,Jun-21-2002
+8e08dc63df9dc1a0a197691631544309ed8c35ce,James Strachan,jstrachan@apache.org,Jun-21-2002
+904034b3e3796bb8878473c4246f3be7de1c808e,James Strachan,jstrachan@apache.org,Jun-21-2002
+34b9d6b2fd14c2316aaff2bf223d3fbc9d851d1e,James Strachan,jstrachan@apache.org,Jun-20-2002
+2b0b6f8587d4a38b0bcc70c16af7eafcc148e79e,Bob McWhirter,werken@apache.org,Jun-19-2002
+f2d64898ed0ebef29e3aa4247f56c753a84a66af,James Strachan,jstrachan@apache.org,Jun-19-2002
+97d22876fae9676000fc6e81edb76e4bcc440a04,Bob McWhirter,werken@apache.org,Jun-18-2002
+b6f30af08f2a62805c82d1ca8fe56e0900a95648,James Strachan,jstrachan@apache.org,Jun-18-2002
+2fe14459d49c656fcdc7a98f2685e3b4a614b2d6,James Strachan,jstrachan@apache.org,Jun-18-2002
+ce793d61eb01c033b32ea304b6fc9a6e99b4f0cb,James Strachan,jstrachan@apache.org,Jun-18-2002
+a36b4bea4c02404c82dcf04b8db496256a6f2476,James Strachan,jstrachan@apache.org,Jun-18-2002
+fa338aa39b2bd2a3fb10de139c7fa2e77179e7c7,James Strachan,jstrachan@apache.org,Jun-18-2002
+0f67a143365821ba620f9a16d7ec2808ab5f0fd9,James Strachan,jstrachan@apache.org,Jun-18-2002
+553ad080bdaff9404eb3b9b59af2afc0306405f2,James Strachan,jstrachan@apache.org,Jun-17-2002
+8675ba6d4c68773af9929d77a236dea7caad4fe0,James Strachan,jstrachan@apache.org,Jun-17-2002
+70eb30f086dcdaafa7de4dd06306fb85a0d715ac,James Strachan,jstrachan@apache.org,Jun-14-2002
+0234d64251cc3efd62247033f69f3a1335bbe166,James Strachan,jstrachan@apache.org,Jun-14-2002
+f6c986e03b765bb324acc757fdc65df34cc30972,James Strachan,jstrachan@apache.org,Jun-14-2002
+054c3a4e64699bc63429d8025828a06d2b042dcf,Bob McWhirter,werken@apache.org,Jun-14-2002
+13610cea63601a1a050a17c2969e255fffb6db0d,James Strachan,jstrachan@apache.org,Jun-14-2002
+885da5f2ec5a3fcf9292f442bdcf532f59b90b5b,James Strachan,jstrachan@apache.org,Jun-14-2002
+1fc502f277225fe2ada087e2dcda38968f9fa2c2,James Strachan,jstrachan@apache.org,Jun-14-2002
+f10ecf5b2ff938942f4f3400ecf3c30a18ea6d51,James Strachan,jstrachan@apache.org,Jun-14-2002
+3cadede6ec1c9c447827ac93c3b6a4cd9b79e9a9,James Strachan,jstrachan@apache.org,Jun-14-2002
+a437999acb65212e5850bfb3198b9797f399456f,James Strachan,jstrachan@apache.org,Jun-14-2002
+2b5f4824cd83b5b47d2b29a71f34701a6fb8b126,Bob McWhirter,werken@apache.org,Jun-14-2002
+ba5c6cb3cf797b3e09e58f832485bb61b3f80c38,Bob McWhirter,werken@apache.org,Jun-13-2002
+27f92dc8b4a2c6fc648fa28045ded1feaf4b5682,Bob McWhirter,werken@apache.org,Jun-13-2002
+7187733c4e911454e5767e96869b87f8462aac9c,James Strachan,jstrachan@apache.org,Jun-13-2002
+640cd76cab5dc8cd71df3cb82358402a7229007c,James Strachan,jstrachan@apache.org,Jun-13-2002
+cf58e7cf6f4bdd42a3df6bf33a3b76ca6e8a9eff,James Strachan,jstrachan@apache.org,Jun-13-2002
+dfe4c4d1b86a96011ee84b9e7b6ffdbe4b987389,James Strachan,jstrachan@apache.org,Jun-13-2002
+7aa6aec5a750063f685aa732a6b5222a513a29be,Bob McWhirter,werken@apache.org,Jun-12-2002
+bf9867c45d479f7fa0f394b177ceff39aa3b5645,Bob McWhirter,werken@apache.org,Jun-12-2002
+0cfc8d12a36aad54f5058fb0ae0015fa5a5dfe50,Bob McWhirter,werken@apache.org,Jun-12-2002
+4bb32434720a2106c7bc2911f1e7a0d9b013ba25,Bob McWhirter,werken@apache.org,Jun-12-2002
+854346456fe9d33f5dd97468690e93870d447303,Bob McWhirter,werken@apache.org,Jun-12-2002
+cdeb101aa6155b3613a3c6090241b772ba61fce8,Bob McWhirter,werken@apache.org,Jun-12-2002
+1760b746060d2809fcab9bf50f32f112ff74c76b,Bob McWhirter,werken@apache.org,Jun-12-2002
+73b6506a47bfb920f9f7d5c837496f7b5ee0bdb8,Bob McWhirter,werken@apache.org,Jun-12-2002
+b742b2ad5904d3eeafff7e7ca322d599c884ea95,Bob McWhirter,werken@apache.org,Jun-12-2002
+9dd810288a73df72b93d7f35fb4c2347df0dddb9,James Strachan,jstrachan@apache.org,Jun-12-2002
+234daeeb042e5fbc049e74aab18c3fda9c66bcc0,James Strachan,jstrachan@apache.org,Jun-12-2002
+d44a29c947cdf12bea55ae819c9348433790a983,James Strachan,jstrachan@apache.org,Jun-12-2002
+cc05a01c7d31b3509fe710fe996018385ce07c49,James Strachan,jstrachan@apache.org,Jun-12-2002
+722460ecdd26fcc91e763bcbcd27d6b3d439e009,James Strachan,jstrachan@apache.org,Jun-12-2002
+26226b072ba12f08635544df48b6956f700d5762,James Strachan,jstrachan@apache.org,Jun-12-2002
+e608f1f007d9621497b4a8139a3e73c02f55f0db,Bob McWhirter,werken@apache.org,Jun-12-2002
+b3dce30fc9730338fc03a75b9f8872139c3b4b11,Bob McWhirter,werken@apache.org,Jun-12-2002
+6cd4f395e51bd0462b4fe80ac6f1c370ef7c8d9f,Bob McWhirter,werken@apache.org,Jun-12-2002
+14e868e0ba71b91c13337f600184552e51a2af89,James Strachan,jstrachan@apache.org,Jun-11-2002
+aab51b4a017640d4589c6859aa8f07017e920d9c,James Strachan,jstrachan@apache.org,Jun-11-2002
+1b49fbce3c374a231bfda3bccef8bafed544e527,James Strachan,jstrachan@apache.org,Jun-11-2002
+2723d993afe1f93e67d4fd5dbe181f54e5f775e3,James Strachan,jstrachan@apache.org,Jun-11-2002
+f7fc3a68d2a489485bfce4ebde42f89317a62e3c,James Strachan,jstrachan@apache.org,Jun-8-2002
+8b83d1120bbf7bc73c41bb6dc499686323720181,Dion Gillard,dion@apache.org,Jun-7-2002
+34e048f8d6551f0ee5352e3a887a749955f3ca1f,Dion Gillard,dion@apache.org,Jun-7-2002
+61cfb212c3db5191e88d94e0fc1d5b71c469a697,James Strachan,jstrachan@apache.org,Jun-7-2002
+093f322c45bbe13d920ee58e5288b0ae012db72d,James Strachan,jstrachan@apache.org,Jun-7-2002
+88bce79957db694f5d47e433dbe18a15c0bbecbe,James Strachan,jstrachan@apache.org,Jun-7-2002
+427ae4a099c991047f317aa1e0ede247f9939f4b,James Strachan,jstrachan@apache.org,Jun-6-2002
+352dcab1476e3b004e6e58e391127b75a886a02d,James Strachan,jstrachan@apache.org,Jun-6-2002
+ac42719c0f5ace7b3bb7b145ff0c1a716c66d2d8,James Strachan,jstrachan@apache.org,Jun-6-2002
+0bbff9d2c9e61b3f245ad08fd70848951abebc68,James Strachan,jstrachan@apache.org,Jun-6-2002
+0ad65130797ff99ef618c48c8fcb8dceb5816dbf,Bob McWhirter,werken@apache.org,Jun-5-2002
+26f8fa5044164266439d5ff9ea661e42db5ef191,Bob McWhirter,werken@apache.org,Jun-5-2002
+7936828fa095e79a4e69e48f3cb3fb3b7d0c0bac,Bob McWhirter,werken@apache.org,Jun-5-2002
+8e6c3baf843495e13c156cb193d799cdabe90ee4,James Strachan,jstrachan@apache.org,Jun-5-2002
+ee2d433b53a76bb17b874d63b436bfa70fab04a8,Bob McWhirter,werken@apache.org,Jun-5-2002
+644a4a5a46ab04792b8d1602af80edb00aa0d054,James Strachan,jstrachan@apache.org,Jun-4-2002
+01f444b1a17962a776af44356ebdc3f0e401baf0,James Strachan,jstrachan@apache.org,Jun-4-2002
+c5ae64b616385e03125cf86ede1c821ae5844775,Jason van Zyl,jvanzyl@apache.org,Jun-3-2002
+e08f76daea397ad590103a0e8a07b81eaa3c6d1b,Jason van Zyl,jvanzyl@apache.org,Jun-3-2002
+f0bbca788d3d173331a546a8e8d3b76902ae6d0c,Jason van Zyl,jvanzyl@apache.org,Jun-3-2002
+43f40f85b8d3da96c311c738273423836aa478c4,James Strachan,jstrachan@apache.org,Jun-2-2002
+0e34790da9636036e933a8389166e68c6a1cac70,James Strachan,jstrachan@apache.org,Jun-2-2002
+60c8d94af1cc391c3c169688dbdbd4fc707f3614,James Strachan,jstrachan@apache.org,Jun-2-2002
+743a5c3d6bf6ade0efa30837e34fce36dbe0f752,James Strachan,jstrachan@apache.org,Jun-1-2002
+50705eabc9f27006982a44d9d2590d9da4f5bca4,Jeff Turner,jefft@apache.org,Jun-1-2002
+eacf0fc0c95d486497241c7ba298096f8759fdf6,James Strachan,jstrachan@apache.org,May-31-2002
+c2dc4036ddde37263f99f69b6d68f7a535452392,James Strachan,jstrachan@apache.org,May-31-2002
+7e7ecdb31649e89115d8b701ceff327b513d7769,James Strachan,jstrachan@apache.org,May-31-2002
+529a26b1184157a8362259b4a3ee195e2145bcc3,James Strachan,jstrachan@apache.org,May-31-2002
+ad7944098bd2f8bf8951beaea7247f433da5b0b3,James Strachan,jstrachan@apache.org,May-31-2002
+91ef160399081ab15002831535cd5ddd05948758,James Strachan,jstrachan@apache.org,May-31-2002
+01cbd6cf23fe353c374d6fd49b346b788efc1e92,James Strachan,jstrachan@apache.org,May-31-2002
+34fee5b3b7e5dfc4161d4345085fb63fd7ea8f17,James Strachan,jstrachan@apache.org,May-30-2002
+600eb24ed5eb58681525cbc62705041495ef4403,James Strachan,jstrachan@apache.org,May-30-2002
+0bc6dd143c16689b87f69ef44b5c518397f0a7df,James Strachan,jstrachan@apache.org,May-30-2002
+236547f9856ebb295ce09f6896bb1ed3f447ae75,James Strachan,jstrachan@apache.org,May-30-2002
+e7fe1dcd0fecef367bcd21623369ce9aa3d54074,James Strachan,jstrachan@apache.org,May-30-2002
+844a4067f0dd804cd8595c6b671c5560ae203865,James Strachan,jstrachan@apache.org,May-30-2002
+6e5f88d13be41b3238102fa723f07c1d26c16954,James Strachan,jstrachan@apache.org,May-30-2002
+20c553bd4ccc9ffc2a108bee1d09cfbde82d442e,James Strachan,jstrachan@apache.org,May-30-2002
+998bb500d8fd39e033a3a14de3662ee457d7bfda,James Strachan,jstrachan@apache.org,May-30-2002
+1ced4af240c8351b1ed012587050cbce577141b9,James Strachan,jstrachan@apache.org,May-30-2002
+db19bfb14c5a7f2774f5309094caff23e5d80165,James Strachan,jstrachan@apache.org,May-30-2002
+9700dfb7cfdaa38544fda64353bf412121e309d6,James Strachan,jstrachan@apache.org,May-30-2002
+006d3f5518b511b564cfb948db5c353ca88b80fc,James Strachan,jstrachan@apache.org,May-29-2002
+cfe889c73a81b5bc713d6f4a2abd1cd6f9d5d3aa,James Strachan,jstrachan@apache.org,May-28-2002
+7f685d6b17fcb7b8ad551d93626a0f8e7708f157,James Strachan,jstrachan@apache.org,May-28-2002
+086e5c7060ab47284915c8fe0bc939fed67ccd26,James Strachan,jstrachan@apache.org,May-28-2002
+ac9e943e95c4c8133a1b6d791a9b8740f182b671,James Strachan,jstrachan@apache.org,May-28-2002
+864931361b10a607a6a47ed06030d8ae8b51f71d,James Strachan,jstrachan@apache.org,May-28-2002
+1e41b03eb91734fa44abb1098c11de4966bf8bdb,James Strachan,jstrachan@apache.org,May-26-2002
+c3104c56199fab0988925d65a5bb0367a49cf236,James Strachan,jstrachan@apache.org,May-25-2002
+3e1c4f9b3642a6c021d98de14c190b4bc33403a9,James Strachan,jstrachan@apache.org,May-25-2002
+b855d0ada387d0f88bcabe34c3e1937b3881c0bb,James Strachan,jstrachan@apache.org,May-24-2002
+58f385b308c3a8d418eb2b87fbff1d9357981cc4,James Strachan,jstrachan@apache.org,May-23-2002
+b931fe44a7b8cdd791a1956781beac0742ee5413,James Strachan,jstrachan@apache.org,May-23-2002
+a3fc7357be49777d7f9ca99855c9603df4ae7e24,James Strachan,jstrachan@apache.org,May-23-2002
+15788623f10e535b628a617c0abca05327641a99,James Strachan,jstrachan@apache.org,May-23-2002
+605587f6f7e20ad2a5ded27782bc21d9e0b6202b,James Strachan,jstrachan@apache.org,May-23-2002
+c0661bda275822b8bf00d79b5b22d9dbb3d66b51,James Strachan,jstrachan@apache.org,May-23-2002
+bc1d4c5e06315ff747a482904961a42cd60b8633,James Strachan,jstrachan@apache.org,May-22-2002
+a5b6247db47deccabb23e044ffbb41d3bc2f6006,James Strachan,jstrachan@apache.org,May-22-2002
+c1468cb03d71be8bcd76b24b6b5762b37cfe2945,James Strachan,jstrachan@apache.org,May-22-2002
+833145fe23a86518739c2a051f0b36002cacf2f0,James Strachan,jstrachan@apache.org,May-22-2002
+2d620bb3b2d7a3ab00385383fe7777e421386434,James Strachan,jstrachan@apache.org,May-22-2002
+4157cd6bfbfe61d0b85f3dda233624523d3c9977,James Strachan,jstrachan@apache.org,May-21-2002
+431148908b52ff0f3d32bf5fe3b2514e2a5cc865,James Strachan,jstrachan@apache.org,May-21-2002
+67cc737280a6344b648af8650fdf5ae3a5297eca,James Strachan,jstrachan@apache.org,May-21-2002
+457e2a56e018e112685db3179d2fde49b182af58,James Strachan,jstrachan@apache.org,May-21-2002
+89f1c44bf38cc4f5d905b29ab0b311d4053c6be5,James Strachan,jstrachan@apache.org,May-21-2002
+00f19f08ff06f9b68704df11a167d6a9de3c2e9a,James Strachan,jstrachan@apache.org,May-20-2002
+babb62e178f8fcfc52bc66bac5f143429dedd93e,James Strachan,jstrachan@apache.org,May-20-2002
+ea31eef8056974fa5da4b6e39d71e85206fcee33,James Strachan,jstrachan@apache.org,May-20-2002
+1aa2f6066f17299931daee6866e2943e13f9c559,James Strachan,jstrachan@apache.org,May-17-2002
+cbe10c6f8ea0ac966269d676980aae154276ed53,James Strachan,jstrachan@apache.org,May-17-2002
+ed885dee7d315dcab3e18c17a0ba9823bcce7968,James Strachan,jstrachan@apache.org,May-17-2002
+c3821c1d3f1c6dd008dbdaa1c1ac10dafadf05e6,James Strachan,jstrachan@apache.org,May-16-2002
+476271e5698e92d943cc621947fa59ccd5dd9d92,James Strachan,jstrachan@apache.org,May-16-2002
+e7049c57dd6d80098bd885354dca5407586ba709,James Strachan,jstrachan@apache.org,May-15-2002
+490831d993842c3fb080deafe5858769c31d1dac,James Strachan,jstrachan@apache.org,May-15-2002
+ef3be984d7c983767a48a6e9c1d91fe742b2567b,James Strachan,jstrachan@apache.org,May-15-2002
+4ef3e5ec3acd1981b707bf977225874fb39c1fb9,James Strachan,jstrachan@apache.org,May-15-2002
+d5700bdfc4850f2a0e5826d8c255bc78be8a936a,James Strachan,jstrachan@apache.org,Apr-29-2002
+17189ad7e66bea0305d048e084d7837bdb07557d,James Strachan,jstrachan@apache.org,Apr-26-2002
+7f0e473b7b8334519ee55325b2998ddf587360a4,James Strachan,jstrachan@apache.org,Apr-26-2002
+cf087874a3eac5805826020137868119eab04a23,James Strachan,jstrachan@apache.org,Apr-26-2002
+26918df823ce5595a93378f74e0f43e77f50fc44,James Strachan,jstrachan@apache.org,Apr-26-2002
+5ec921520b6eb51de556b65d481ae0e374601921,James Strachan,jstrachan@apache.org,Apr-26-2002
+a36a178398d4a2fd034cdf979b8e66897c51046c,James Strachan,jstrachan@apache.org,Apr-26-2002
+889ee3bfc9c47a7575ec87ded614c1e7ec209a4b,Geir Magnusson Jr,geirm@apache.org,Apr-26-2002
+7ea9d4e49085592ef07a01959f184c71bfebd488,James Strachan,jstrachan@apache.org,Apr-25-2002
+55d765e63d282673affbf16c8dd67c223d9c4868,James Strachan,jstrachan@apache.org,Apr-25-2002
+46d647959f727b96037b08c7d30f44809a664ba9,James Strachan,jstrachan@apache.org,Apr-25-2002
+3ac7be63ef43ce3a82ce3dbb026f963782d7cc76,James Strachan,jstrachan@apache.org,Apr-25-2002
+f5ccf267cae9091a1a98b5d2204624edd07facae,James Strachan,jstrachan@apache.org,Apr-25-2002
+60680b5cbee3c95fdaa4e9fdfdb93a52d7097289,James Strachan,jstrachan@apache.org,Apr-24-2002
+e0060e392c83a285ed9710f27172b61585cb237d,James Strachan,jstrachan@apache.org,Apr-24-2002
+91a2dc9ff2a87d8f6b854c948875f2a9a3cca335,James Strachan,jstrachan@apache.org,Mar-10-2002
+1e5aba3cbead856781024b63348f6c984feaac9f,James Strachan,jstrachan@apache.org,Mar-9-2002
+01d74d63e2511ccf3884db5c77a55b5fc49b2a01,James Strachan,jstrachan@apache.org,Mar-7-2002
+5b15fe02cd65f534aa6415d463349b45cd77b9b1,James Strachan,jstrachan@apache.org,Mar-7-2002
+5324a6e3120a678f6e2877c3a233d60ea046fecd,James Strachan,jstrachan@apache.org,Mar-4-2002
+837597be95ff2f5151787350f942e7cd38636c44,Geir Magnusson Jr,geirm@apache.org,Feb-20-2002
+a2e862d38dc8936c68324f0ec1117fe63f12df4b,Geir Magnusson Jr,geirm@apache.org,Feb-20-2002
+6b8621be37eb4194385a8b25cf25c8fdf078674a,James Strachan,jstrachan@apache.org,Feb-19-2002
+105415fd32404cd24919cba4b7d431fe2a3006ae,James Strachan,jstrachan@apache.org,Feb-15-2002
+4fe257ac3d2586890bca7b1151e801b51f8d2cd0,James Strachan,jstrachan@apache.org,Feb-13-2002
+8b3348af653765f261b31fe81e349b935e0938f4,James Strachan,jstrachan@apache.org,Feb-13-2002
+889bbfd4eaed263324b63229aac289b021ca9f80,James Strachan,jstrachan@apache.org,Feb-12-2002
+e599fdcbb60836781c3a2256196d4965cb4c445e,James Strachan,jstrachan@apache.org,Feb-11-2002
+93d0a4435575eca9bafcb2f4b203e19344022c40,James Strachan,jstrachan@apache.org,Feb-11-2002
+bcf4ecc739215067cb264eb9b527670175934ee9,No Author,dev-null@apache.org,Feb-11-2002

@@ -1,0 +1,15 @@
+file_path,method
+/adb-tests/src/test/java/org/apache/axis2/schema/axis2_5771/IgnoreUnexpectedTest.java,mock
+/adb-tests/src/test/java/org/apache/axis2/schema/axis2_5771/IgnoreUnexpectedTest.java,verify
+/adb-tests/src/test/java/org/apache/axis2/schema/axis2_5771/IgnoreUnexpectedTest.java,any
+/adb-tests/src/test/java/org/apache/axis2/schema/axis2_5771/IgnoreUnexpectedTest.java,verifyNoInteractions
+/jaxws/test/org/apache/axis2/datasource/jaxb/JAXBCustomBuilderDisableStreamingTests.java,mock
+/jaxws/test/org/apache/axis2/datasource/jaxb/JAXBCustomBuilderDisableStreamingTests.java,mock
+/jaxws/test/org/apache/axis2/datasource/jaxb/JAXBCustomBuilderDisableStreamingTests.java,mock
+/jaxws/test/org/apache/axis2/datasource/jaxb/JAXBCustomBuilderDisableStreamingTests.java,mock
+/jms/src/test/java/org/apache/axis2/transport/jms/JMSUtilsTest.java,mock
+/jms/src/test/java/org/apache/axis2/transport/jms/JMSUtilsTest.java,mock
+/jms/src/test/java/org/apache/axis2/transport/jms/JMSUtilsTest.java,mock
+/jms/src/test/java/org/apache/axis2/transport/jms/JMSUtilsTest.java,thenReturn
+/jms/src/test/java/org/apache/axis2/transport/jms/JMSUtilsTest.java,when
+/kernel/test/org/apache/axis2/deployment/repository/util/DeploymentFileDataTest.java,mock

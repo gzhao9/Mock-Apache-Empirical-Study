@@ -1,0 +1,2774 @@
+commit 066ebab4347437600d9ba3802524c6681bb644bb
+Author: Matt Benson <mbenson@apache.org>
+Date:   2022-02-13 14:44:06 -0600
+
+    run antunit with optional classpath (compiles fine for what it's worth but proper functioning requires Ant with https://github.com/apache/ant/commit/ce494e8365658f76b2648f5d0ccfd6753c880249)
+
+34	0	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 35caae04d08e659f76a134bd8f29d08e6a496ff2
+Author: Matt Benson <mbenson@apache.org>
+Date:   2022-02-12 15:44:54 -0600
+
+    code cleanup/updates
+
+1	1	NOTICE
+2	2	build.xml
+54	77	src/main/org/apache/ant/antunit/AntUnit.java
+5	5	src/main/org/apache/ant/antunit/AntUnitExecutionNotifier.java
+40	35	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+6	8	src/main/org/apache/ant/antunit/LogCapturer.java
+16	22	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+16	16	src/main/org/apache/ant/antunit/junit3/AntUnitTestCase.java
+8	8	src/main/org/apache/ant/antunit/junit3/JUnitNotificationAdapter.java
+42	49	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+49	45	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+35	41	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+4	6	src/main/org/apache/ant/antunit/listener/PlainAntUnitListener.java
+7	6	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+4	5	src/tests/junit/org/apache/ant/antunit/LogCapturerTest.java
+11	18	src/tests/junit/org/apache/ant/antunit/LogContentTest.java
+8	8	src/tests/junit/org/apache/ant/antunit/SetUpAndTearDownTest.java
+21	26	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit b64de440278c3ec5d9e6b195478c74a5849fe434
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2021-07-03 12:47:52 +0200
+
+    prepare RC1 of AntUnit 1.4.1
+
+3	1	changes.xml
+1	1	version.properties
+
+commit e436acf88c08e7d131e4e008550090e55de4795c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2021-07-03 12:05:12 +0200
+
+    next release will be 1.4.1 rather than 1.5
+
+1	1	changes.xml
+1	1	version.properties
+
+commit 2d2e4d0dabc61be3db5c3dd886eda1baf82366d9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2021-05-23 10:59:02 +0200
+
+    we should do as we say, use ant:current in antlib descriptor
+    
+    https://bz.apache.org/bugzilla/show_bug.cgi?id=65315
+
+1	1	NOTICE
+5	0	changes.xml
+1	1	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 2c49ac7f4eb8676f09737482f2c784408a15fbbe
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 23:54:17 +0200
+
+    also https in NOTICE
+
+1	1	NOTICE
+
+commit 3d4c28fb10e765ee4f42e1c7d6dd205c38c23fe3
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 23:52:57 +0200
+
+    Removed unnecessary http references
+
+1	1	docs/antunit.html
+2	2	project-template.pom
+
+commit 932d318652146a54b7a2a894307f74ba3ef90032
+Merge: 7b53475 d87b05b
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:45:04 +0200
+
+    Merge branch 'master' of https://gitbox.apache.org/repos/asf/ant-antlibs-antunit
+
+commit 7b534753127dbced21827304bf47dc18f4bb84da
+Author: jkf <jm@famkruithof.net>
+Date:   2019-05-26 22:44:16 +0200
+
+    updated reference to license from http to https using find . -type f -exec sed -i s/http://www.apache.org/licenses/LICENSE-2.0/https://www.apache.org/licenses/LICENSE-2.0/ {} \;
+
+1	1	build.xml
+1	1	changes.xml
+1	1	contributors.xml
+2	2	docs/antunit.html
+1	1	docs/assert.html
+1	1	docs/assertions.html
+1	1	docs/expectfailure.html
+61	61	docs/failurelistener.html
+1	1	docs/index.html
+1	1	docs/logcontent.html
+1	1	docs/logforwarder.html
+1	1	docs/plainlistener.html
+1	1	docs/xmllistener.html
+2	2	ivy.xml
+1	1	prepare.xml
+2	2	project-template.pom
+1	1	src/etc/junit-frames.xsl
+1	1	src/etc/junit-noframes.xsl
+1	1	src/etc/testcases/antunit.xml
+1	1	src/etc/testcases/antunit/base.xml
+1	1	src/etc/testcases/antunit/copy.xml
+1	1	src/etc/testcases/antunit/echo.xml
+1	1	src/etc/testcases/antunit/java-io.xml
+1	1	src/etc/testcases/antunit/junit.xml
+1	1	src/etc/testcases/antunit/property.xml
+1	1	src/etc/testcases/antunit/reference-mapper.xml
+1	1	src/etc/testcases/antunit/reference-regex.xml
+1	1	src/etc/testcases/antunit/reference-set.xml
+1	1	src/etc/testcases/antunit/reference.xml
+55	55	src/etc/testcases/antunit/setupandteardown/both.xml
+1	1	src/etc/testcases/antunit/setupandteardown/bothsuite.xml
+1	1	src/etc/testcases/antunit/setupandteardown/errorsetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/errorsuitesetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/errorsuiteteardown.xml
+1	1	src/etc/testcases/antunit/setupandteardown/errorteardown.xml
+43	43	src/etc/testcases/antunit/setupandteardown/failedsetup.xml
+43	43	src/etc/testcases/antunit/setupandteardown/failedteardown.xml
+44	44	src/etc/testcases/antunit/setupandteardown/failedtest.xml
+1	1	src/etc/testcases/antunit/setupandteardown/failedtestsuite.xml
+1	1	src/etc/testcases/antunit/setupandteardown/failuresetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/failuresuitesetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/failuresuiteteardown.xml
+1	1	src/etc/testcases/antunit/setupandteardown/failureteardown.xml
+50	50	src/etc/testcases/antunit/setupandteardown/nosetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/nosuitesetup.xml
+1	1	src/etc/testcases/antunit/setupandteardown/nosuiteteardown.xml
+51	51	src/etc/testcases/antunit/setupandteardown/noteardown.xml
+1	1	src/etc/testcases/assert.xml
+1	1	src/etc/testcases/expectfailure.xml
+1	1	src/etc/testcases/listener/logforwarder.xml
+1	1	src/etc/testcases/listener/plainlistener.xml
+1	1	src/etc/testcases/listener/xmllistener.xml
+1	1	src/etc/testcases/setupandteardown.xml
+1	1	src/main/org/apache/ant/antunit/AntUnit.java
+1	1	src/main/org/apache/ant/antunit/AntUnitExecutionNotifier.java
+1	1	src/main/org/apache/ant/antunit/AntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+1	1	src/main/org/apache/ant/antunit/AssertTask.java
+1	1	src/main/org/apache/ant/antunit/AssertionFailedException.java
+1	1	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+1	1	src/main/org/apache/ant/antunit/LogCapturer.java
+1	1	src/main/org/apache/ant/antunit/LogContains.java
+1	1	src/main/org/apache/ant/antunit/LogContent.java
+1	1	src/main/org/apache/ant/antunit/ProjectFactory.java
+1	1	src/main/org/apache/ant/antunit/ResourceExists.java
+1	1	src/main/org/apache/ant/antunit/antlib.xml
+1	1	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+1	1	src/main/org/apache/ant/antunit/junit3/AntUnitTestCase.java
+1	1	src/main/org/apache/ant/antunit/junit3/ErrorTestCase.java
+1	1	src/main/org/apache/ant/antunit/junit3/JUnitNotificationAdapter.java
+1	1	src/main/org/apache/ant/antunit/junit3/MultiProjectDemuxOutputStream.java
+1	1	src/main/org/apache/ant/antunit/junit3/package.html
+1	1	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+1	1	src/main/org/apache/ant/antunit/junit4/package.html
+1	1	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/listener/LogForwarder.java
+1	1	src/main/org/apache/ant/antunit/listener/PlainAntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/listener/XMLConstants.java
+1	1	src/tests/antunit/antunit-base.xml
+1	1	src/tests/antunit/assertLogContains-test.xml
+1	1	src/tests/antunit/assertResourceContains-test.xml
+1	1	src/tests/antunit/assertResourceExists-test.xml
+1	1	src/tests/antunit/resourceexists-test.xml
+1	1	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/ExpectFailureTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/LogCapturerTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/LogContentTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/SetUpAndTearDownTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitSuiteTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitTestCaseTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/junit3/EatYourOwnDogFoodTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/listener/LogForwarderTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/listener/PlainListenerTest.java
+1	1	src/tests/junit/org/apache/ant/antunit/listener/XMLListenerTest.java
+1	1	version.properties
+
+commit d87b05bcce29f999e4ebcb667a2f35b036bd88f5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2019-05-25 16:12:22 +0200
+
+    TLS
+
+1	1	README
+1	1	common
+1	1	docs/antunit.html
+3	3	ivy.xml
+1	1	prepare.xml
+3	3	project-template.pom
+1	1	src/etc/junit-frames.xsl
+1	1	src/etc/junit-noframes.xsl
+1	1	src/etc/testcases/antunit.xml
+1	1	src/tests/antunit/assertResourceContains-test.xml
+2	2	src/tests/antunit/assertResourceExists-test.xml
+2	2	src/tests/antunit/resourceexists-test.xml
+
+commit cac02039dc3f06abd550ba5bacec5f5212b033eb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-12-17 09:24:42 +0100
+
+    moved to gitbox
+
+1	1	.gitmodules
+1	1	common
+1	1	docs/index.html
+
+commit ee72769dd01169c244458e45ce4e72ea2bb547be
+Merge: 1015e0a fd04cd6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-25 06:40:17 +0200
+
+    Merge tag 'rel/1.4' and prepare for next iteration
+    
+    Tagging version 1.4 of AntUnit
+
+commit 1015e0a32a5b9b850f76bc04cb8a8973fc640c20
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-22 11:43:46 +0200
+
+    compile target is set to Java5
+
+1	1	README
+
+commit fd04cd6899e7fa9dde8c1be04fef47b9bb458b35
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-22 07:23:35 +0200
+
+    prepare RC3 of AntUnit 1.4
+
+1	1	version.properties
+
+commit f66f1178dcb42af44f4008493262782afe7c9f4d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-22 06:44:05 +0200
+
+    AntUnit now requires Ant 1.8.1
+
+2	2	README
+3	0	changes.xml
+0	50	docs/assertions.html
+1	1	docs/index.html
+1	1	project-template.pom
+
+commit 592579abfdc3088e7203653424e5a40a55548e58
+Author: Jaikiran Pai <jaikiran.pai@gmail.com>
+Date:   2018-06-20 09:03:10 +0530
+
+    Fix assertTrue example in docs
+
+1	1	docs/assert.html
+
+commit a08cb64ca1aebfb166271ed60511fab508c51c02
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-19 19:58:20 +0200
+
+    fix source code link
+
+1	1	docs/index.html
+
+commit c21f08805b3369fa40fc3d8a3c4ddae56eb7171f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-19 16:42:45 +0200
+
+    welcome to 2018
+
+1	1	NOTICE
+
+commit befd3242837fbadfd35ec83bf9b8734650d5ae0f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-18 21:36:08 +0200
+
+    fix line-ends
+
+36	0	.gitattributes
+56	56	src/main/org/apache/ant/antunit/junit3/ErrorTestCase.java
+206	206	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+
+commit 4af0545d551f49cbf9c9c363e0fb84fee6abb371
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2018-06-18 21:28:52 +0200
+
+    upgrade commons for .gitignore/modules changes
+
+1	1	common
+
+commit 5c02d3c8e5da82dd6628aec990afa9819dc87300
+Author: Stefan Bodewig <stefan.bodewig@innoq.com>
+Date:   2018-06-16 15:50:21 +0200
+
+    update commons (to remeove md5/sha1)
+
+1	1	common
+
+commit 2014f42d7e9c9b352ee381a67e89ec0d35b98acb
+Author: Jaikiran Pai <jaikiran.pai@gmail.com>
+Date:   2018-05-14 11:13:26 +0530
+
+    Avoid potential thread safety issues in LogCapturer
+
+2	1	src/main/org/apache/ant/antunit/LogCapturer.java
+
+commit e22525b32113c102b2a1abf933cb64d0f178a8fa
+Author: Stefan Bodewig <stefan.bodewig@innoq.com>
+Date:   2018-04-27 07:55:06 +0200
+
+    we're not in svn anymore
+
+2	2	docs/index.html
+
+commit c3f86551a97f6b984d6d100588a70615277d40b4
+Author: Gintas Grigelionis <gintas@apache.org>
+Date:   2017-12-21 19:12:47 +0100
+
+    assertLogNotContaining missing in Ant 1.7; sync ivy.xml and pom.xml
+
+5	2	ivy.xml
+10	11	project-template.pom
+
+commit 7a6103ee50e5814516e69f54c6d7834ee57d2a8b
+Author: Stefan Bodewig <stefan.bodewig@innoq.com>
+Date:   2017-12-12 09:02:52 +0100
+
+    looks as if we had change an error message along the way
+
+0	1	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit 91184187048c19c325d01bbef73677d700e065d9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-13 13:16:12 +0200
+
+    DOAP file now lives in ant-site
+
+1	1	common
+0	74	doap_AntUnit.rdf
+
+commit 66206e00ce188209cb5125dfa02b03c0fcd244e0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2017-06-01 19:54:40 +0200
+
+    ensure the next release, if any, uses proper ivy coordinates
+
+4	0	changes.xml
+1	1	common
+1	1	ivy.xml
+
+commit b8dd17fb4cb0cece54451cf1ac8c15519e708880
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-07-11 18:41:17 +0200
+
+    debug logging
+
+2	0	src/main/org/apache/ant/antunit/ResourceExists.java
+
+commit 6da3499ff2ad5552c39cf3ffdb44611e4e2ba791
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 18:25:18 +0200
+
+    typo
+
+6	6	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit 2156501c49f380efd4382854afa6c401ac31502f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 18:23:48 +0200
+
+    Java6ism
+
+1	1	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit ac56fd4677ed0ed210e370eb81f68255e515e0c3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 18:18:20 +0200
+
+    make javadoc8 happy
+
+11	3	src/main/org/apache/ant/antunit/AntUnit.java
+13	1	src/main/org/apache/ant/antunit/AntUnitListener.java
+7	5	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+3	2	src/main/org/apache/ant/antunit/AssertTask.java
+3	1	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+10	0	src/main/org/apache/ant/antunit/LogCapturer.java
+3	0	src/main/org/apache/ant/antunit/LogContains.java
+7	4	src/main/org/apache/ant/antunit/LogContent.java
+6	5	src/main/org/apache/ant/antunit/ProjectFactory.java
+3	0	src/main/org/apache/ant/antunit/ResourceExists.java
+10	8	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+17	13	src/main/org/apache/ant/antunit/junit3/AntUnitTestCase.java
+0	3	src/main/org/apache/ant/antunit/junit3/ErrorTestCase.java
+5	5	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+9	2	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+1	1	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+3	3	src/main/org/apache/ant/antunit/listener/XMLConstants.java
+
+commit 08b3a72b2e7ba1df25643f90de02b5ed2d59a038
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 17:46:52 +0200
+
+    deal with proxies that mask 404s
+
+24	4	src/tests/antunit/assertResourceExists-test.xml
+
+commit 81f284f2c5552b9c0bc9f8550f2a7a126588be33
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 17:46:26 +0200
+
+    ignore target folder
+
+1	0	.gitignore
+
+commit 7d62d95ab3a3df61937d2f66ad07fa75ed61aa75
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2016-03-29 12:53:32 +0200
+
+    create a copy to prevent problems if list is modified during iteration
+
+2	1	src/main/org/apache/ant/antunit/LogCapturer.java
+
+commit 7396c8b6a61e0c2ca0d4d17f91627211988674bf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-12-26 12:55:24 +0100
+
+    Try to reduce the risk of StackOverflow/OOM in report
+    Submitted by: Ryan Bennitt
+    Bugzilla: https://issues.apache.org/bugzilla/show_bug.cgi?id=57341
+
+8	0	changes.xml
+4	0	contributors.xml
+17	0	src/etc/junit-frames.xsl
+17	0	src/etc/junit-noframes.xsl
+
+commit b2ef8c49bf5c66191959cad755d4d5fff84a95d5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-12-26 12:50:57 +0100
+
+    ignore some build time stuff
+
+4	0	.gitignore
+
+commit 13ec6e0b1ef9b7148466d5acce91ee31c5fdb29d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-07-26 07:26:55 +0200
+
+    add common as submodule
+
+3	0	.gitmodules
+1	0	common
+3	31	prepare.xml
+
+commit 18c48173bd7abab4e88496a10e5fadc30596802b
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-06 07:50:22 +0200
+
+    Add JUnit as dependency
+
+61	0	ivy.xml
+
+commit d67580a6303416dafef8637a6355c310babae986
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-05 08:20:58 +0200
+
+    Add prepare script
+
+93	0	prepare.xml
+
+commit 382a289c9025e1daca3dfa4e1ac2620fd1fc3c71
+Author: Jan Mat¨¨rne <jhm@apache.org>
+Date:   2014-06-04 09:51:35 +0200
+
+    update doap-file after git-migration
+
+4	4	doap_AntUnit.rdf
+
+commit 7ff37634d2ca80ea2d327e6a54ce5258387f80ee
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-14 11:46:02 +0000
+
+    version bump and post-release changes
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1594545 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+7	0	doap_AntUnit.rdf
+1	1	version.properties
+
+commit 43f3355f078e04d007e566a03e74b3df289a67b9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-07 04:00:43 +0000
+
+    properly document PR 56470
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1592938 13f79535-47bb-0310-9956-ffa450edef68
+
+7	6	changes.xml
+
+commit a906373e36caf2428d8ead8f97d8adb6215cedbe
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-06 20:11:49 +0000
+
+    PR 56470 - merge messages in logContent only when asked to
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1592860 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	docs/assertions.html
+8	0	docs/logcontent.html
+1	0	src/main/org/apache/ant/antunit/LogContains.java
+31	7	src/main/org/apache/ant/antunit/LogContent.java
+55	0	src/tests/junit/org/apache/ant/antunit/LogContentTest.java
+
+commit c3b4b5563d0b56e7bf370e12e7be2c649d37951a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-06 20:01:13 +0000
+
+    PR 56470 - merge messages in assertLogContains only when asked to
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1592859 13f79535-47bb-0310-9956-ffa450edef68
+
+14	0	docs/assertions.html
+14	5	src/main/org/apache/ant/antunit/LogContains.java
+6	2	src/main/org/apache/ant/antunit/antlib.xml
+52	0	src/tests/antunit/assertLogContains-test.xml
+
+commit 6a398bb0700e3d06c1325b69b6feed321cff4dc3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-06 19:45:47 +0000
+
+    since markers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1592851 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	src/main/org/apache/ant/antunit/LogCapturer.java
+
+commit 9acb72a9115f9a6bd90eb388352c2b4fd1948460
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-06 19:44:37 +0000
+
+    PR 56470 - merge messages in LogCapturer only when asked to
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1592848 13f79535-47bb-0310-9956-ffa450edef68
+
+77	31	src/main/org/apache/ant/antunit/LogCapturer.java
+29	1	src/tests/junit/org/apache/ant/antunit/LogCapturerTest.java
+
+commit 28abce3b1f6a8b3ffa11418656ce3a6ae6b6c596
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-02 16:59:56 +0000
+
+    dry things up a little
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1591973 13f79535-47bb-0310-9956-ffa450edef68
+
+9	5	src/main/org/apache/ant/antunit/LogCapturer.java
+
+commit 791b182df0d2224451714f497f8929fc628a7534
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-02 16:53:14 +0000
+
+    PR 56470 - add line breaks between the captured log messages
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1591972 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	changes.xml
+7	6	src/main/org/apache/ant/antunit/LogCapturer.java
+
+commit b9ec5ed5d91edbe3ba03e5f1560d552fccfc7b52
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-02 16:47:00 +0000
+
+    bump copyright year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1591968 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+
+commit 07c05b00343ce72d3b4ef6f6aad4bcff1ea97228
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-02 16:40:26 +0000
+
+    PR 43582 add a new AntUnitListener that immediately forwards all log output
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1591967 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+12	6	docs/antunit.html
+39	0	docs/logforwarder.html
+39	0	src/etc/testcases/listener/logforwarder.xml
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+64	0	src/main/org/apache/ant/antunit/listener/LogForwarder.java
+43	0	src/tests/junit/org/apache/ant/antunit/listener/LogForwarderTest.java
+
+commit 612c53203636675a8efad6f60d126f1396f04007
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2014-05-01 09:57:49 +0000
+
+    PR 53383 add new assertions that really work with non-file resoucres
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1591586 13f79535-47bb-0310-9956-ffa450edef68
+
+8	0	changes.xml
+254	8	docs/assertions.html
+44	5	src/main/org/apache/ant/antunit/ResourceExists.java
+75	0	src/main/org/apache/ant/antunit/antlib.xml
+34	0	src/tests/antunit/assertResourceContains-test.xml
+19	4	src/tests/antunit/assertResourceExists-test.xml
+14	6	src/tests/antunit/resourceexists-test.xml
+
+commit 039c52761eef86977b429664f3f94f0f1eacea0a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2013-12-05 19:06:03 +0000
+
+    fix NOTICE template
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1548243 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	NOTICE
+
+commit edae631d028527dcf1d58f7a1851dd51bcd326f1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-06-17 07:10:05 +0000
+
+    committed debugging line
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1351064 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/org/apache/ant/antunit/ResourceExists.java
+
+commit 1bdfe608f6e371344768cacbad80bb76e82a087f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-06-17 07:05:30 +0000
+
+    Actually, resources as attributes don't work very well
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1351063 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/org/apache/ant/antunit/ResourceExists.java
+39	0	src/tests/antunit/antunit-base.xml
+33	0	src/tests/antunit/assertResourceExists-test.xml
+59	0	src/tests/antunit/resourceexists-test.xml
+
+commit e9b4bb4ae99995771bebb440892cf326ac9983d3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2012-03-16 05:25:26 +0000
+
+    fix link
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1301341 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/antunit.html
+
+commit efc648b6210d93e0666495fa8776e0ea743fc2e0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-12-29 06:26:04 +0000
+
+    assertResourceExists doesn't work with Ant 1.7.x and never will, document workaround.  PR 52332.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1225447 13f79535-47bb-0310-9956-ffa450edef68
+
+30	0	docs/assertions.html
+
+commit e751bcabf68c48690161e58a87dddc13c28e6a4f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-16 07:38:07 +0000
+
+    1.2 released.  also update viewvc link while I was inside the doap file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1158138 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	changes.xml
+9	2	doap_AntUnit.rdf
+
+commit a762884c323a5115f33a8d915f61369ea3021b15
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-13 04:46:02 +0000
+
+    and move trunk back to 1.3alpha
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1157320 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 55442134b9624240ed7fb49479f8118d782d30c0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-13 04:42:59 +0000
+
+    prepare next attempt of AntUnit 1.2 release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1157318 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 88c2ed683530a9d417568a5ac986f1531227cb20
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-12 04:02:04 +0000
+
+    missing license headers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156960 13f79535-47bb-0310-9956-ffa450edef68
+
+20	0	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+20	0	src/main/org/apache/ant/antunit/ProjectFactory.java
+
+commit ad282b9f082162ac2d62874518f933cc157760ca
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-12 03:59:02 +0000
+
+    no longer needed now we use Nexus
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156958 13f79535-47bb-0310-9956-ffa450edef68
+
+0	30	maven-metadata.xml
+
+commit 8fc5823c564902327b3bdccd1379d4153707796f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-12 03:58:18 +0000
+
+    add license and organization to POM
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156957 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	project-template.pom
+
+commit 7dc2bce3368beff3f6af8ecfde24c9dd2f2cc422
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-11 02:55:51 +0000
+
+    and back to alpha again
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156459 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 3dce824e3628bff60fa650d129fd318e7afeb7f5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-11 02:52:28 +0000
+
+    prepare for AntUnit 1.2 release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156457 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 31fc48b724f8fd27ffd41af7dacd8af9338524ba
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-08-11 02:47:00 +0000
+
+    clarify status of JUnit adapters
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1156456 13f79535-47bb-0310-9956-ffa450edef68
+
+3	1	changes.xml
+27	0	src/main/org/apache/ant/antunit/junit3/package.html
+27	0	src/main/org/apache/ant/antunit/junit4/package.html
+
+commit 4b7f0604d8a5c49e4ead5856e27bb7a6c0864a8b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-25 09:43:27 +0000
+
+    verify a resource exists prior to validating its contents
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1063192 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	changes.xml
+1	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit eb13c80e596f46ea7c657baffb63a490799f8b11
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-25 09:39:06 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1063186 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 7a4cc46b0afed558c1ab309e30e6ad7ae85334fc
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-25 09:29:02 +0000
+
+    new assertResourceExists and assertResourceDoesntExist conditions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1063181 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+4	0	changes.xml
+74	0	docs/assertions.html
+16	0	src/etc/testcases/assert.xml
+65	0	src/main/org/apache/ant/antunit/ResourceExists.java
+25	0	src/main/org/apache/ant/antunit/antlib.xml
+14	0	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit 685acd90c6da0860f5ff742de313f82e006bfd82
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2011-01-25 09:17:12 +0000
+
+    make tests pass on Windows where each pathelement gets the drive letter added to the front
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@1063177 13f79535-47bb-0310-9956-ffa450edef68
+
+6	2	src/etc/testcases/antunit/reference-mapper.xml
+6	2	src/etc/testcases/antunit/reference-regex.xml
+6	2	src/etc/testcases/antunit/reference-set.xml
+10	2	src/etc/testcases/antunit/reference.xml
+
+commit 40d950fe3b432e73858a8006d05e41f02327ebbf
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-17 10:03:15 +0000
+
+    adapt to modified CDATA section escaping in trunk
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@955532 13f79535-47bb-0310-9956-ffa450edef68
+
+15	2	src/etc/testcases/listener/xmllistener.xml
+
+commit 048cade8bdf70d9347250ff906d37170cfbf2040
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-14 16:13:56 +0000
+
+    merge err/out changes from Ant's trunk (output to HTML rather than plain text)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@954537 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+22	7	src/etc/junit-frames.xsl
+1	1	src/etc/junit-noframes.xsl
+
+commit d522fdbd225fdc14d02b797e604aef619af02144
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-06-09 13:46:06 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@953004 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+
+commit 9ca0eebf4f2287f0a8382061742d6b8828f8bbfa
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-04-30 04:31:56 +0000
+
+    file name doesn't match class name
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@939556 13f79535-47bb-0310-9956-ffa450edef68
+
+0	0	src/main/org/apache/ant/antunit/junit3/{JunitNotificationAdapter.java => JUnitNotificationAdapter.java}
+
+commit 95b8daf2a75c1a28184a1b3ea8ae5e9b20c776cd
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-04-30 04:25:04 +0000
+
+    allow passing references from antunit task to tests.  PR 49168.  Submitted by Jason Trump
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@939555 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	changes.xml
+8	4	contributors.xml
+47	0	docs/antunit.html
+49	0	src/etc/testcases/antunit.xml
+37	0	src/etc/testcases/antunit/reference-mapper.xml
+42	0	src/etc/testcases/antunit/reference-regex.xml
+42	0	src/etc/testcases/antunit/reference-set.xml
+39	0	src/etc/testcases/antunit/reference.xml
+229	3	src/main/org/apache/ant/antunit/AntUnit.java
+16	0	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+
+commit 01c387ae3f00f3a0c1fd3e713df07906ce031632
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-12 10:09:05 +0000
+
+    whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@909330 13f79535-47bb-0310-9956-ffa450edef68
+
+88	88	project-template.pom
+
+commit 9e26f039da315a0cade0bbfadd8a45e435c62ffb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2010-02-12 10:07:17 +0000
+
+    use built-in POM mechanism of common/m2.xml
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@909328 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	pom.xml => project-template.pom
+
+commit 96347e9cd7d7ab709d84a2a04fd0bd79eef23ea3
+Author: Nicolas Lalevee <hibou@apache.org>
+Date:   2009-10-26 19:25:01 +0000
+
+    Add a fail task that makes a test case fail if no condition is provided or if the provided one is evaluated to false
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@829913 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+8	0	src/etc/testcases/assert.xml
+2	6	src/main/org/apache/ant/antunit/AssertTask.java
+1	1	src/main/org/apache/ant/antunit/AssertionFailedException.java
+38	27	src/main/org/apache/ant/antunit/antlib.xml
+6	0	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit 2e0ffe0ee85a9b4f0bf71620aff5f1022bd8bcc8
+Author: Nicolas Lalevee <hibou@apache.org>
+Date:   2009-10-17 10:41:04 +0000
+
+    fix: assertPropertyContains was not checking the value of the property but the name of the property.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@826221 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+10	0	src/etc/testcases/assert.xml
+1	1	src/main/org/apache/ant/antunit/antlib.xml
+6	0	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit fa15dbd2987db656aa7f4aa789084074315af4ba
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-07-21 05:03:02 +0000
+
+    Ant's Bugzilla issue 39492 applies to AntUnit as well.  Properly escape XML in stacktraces
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@796145 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+12	1	src/etc/junit-frames.xsl
+12	1	src/etc/junit-noframes.xsl
+
+commit 3176f752cbb25a022220fb3a9bc7683e5e80767f
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-06-19 20:46:16 +0000
+
+    clean warnings
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@786662 13f79535-47bb-0310-9956-ffa450edef68
+
+0	3	src/main/org/apache/ant/antunit/AntUnitExecutionNotifier.java
+0	1	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+2	4	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitTestCaseTest.java
+5	11	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit 718a09bd6ed29aadab763b6b26c368453fd72b24
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-04-24 15:02:42 +0000
+
+    organize import
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@768327 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/antunit/junit3/ErrorTestCase.java
+0	1	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+
+commit ef0dff3aad3f2a5e20957742419c219a004f1681
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-03-26 13:32:52 +0000
+
+    Report properly BuildException generated when parsing antunit script from Junit4
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@758630 13f79535-47bb-0310-9956-ffa450edef68
+
+12	16	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+59	0	src/main/org/apache/ant/antunit/junit3/ErrorTestCase.java
+18	11	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+1	0	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitSuiteTest.java
+23	3	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteRunnerTest.java
+
+commit 1d3f040ac84d9dc068fb3ae38ad1a20ba720dff9
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-03-26 10:08:19 +0000
+
+    Minimal pom helping to install latest antunit version on a maven repository
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@758576 13f79535-47bb-0310-9956-ffa450edef68
+
+97	0	pom.xml
+
+commit 6c62da28fa2ccb5284654ebda41809992b3ee30d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-03-20 20:24:39 +0000
+
+    remove redundant boilerplate code from NOTICE files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@756744 13f79535-47bb-0310-9956-ffa450edef68
+
+0	5	NOTICE
+
+commit c40850f3621d6b6cfc2eba3bb4f28c2ccffa6f09
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-02-18 19:47:08 +0000
+
+    handle more completely junit4 suites
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@745628 13f79535-47bb-0310-9956-ffa450edef68
+
+11	11	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+116	12	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+0	77	src/main/org/apache/ant/antunit/junit4/AntUnitTestCaseRunner.java
+63	2	src/tests/junit/org/apache/ant/antunit/junit4/{AntUnitSuiteTest.java => AntUnitSuiteRunnerTest.java}
+
+commit 54b8924c021efa76b9f6389ee131085510e58fe6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-02-16 08:37:54 +0000
+
+    eol-style
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@744863 13f79535-47bb-0310-9956-ffa450edef68
+
+commit f5e36a2c4e471ca7877ff25c1cd806ab4550c4d4
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-02-14 10:32:46 +0000
+
+    Add error handling in the initalisation of the project
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@744468 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+3	1	src/main/org/apache/ant/antunit/ProjectFactory.java
+60	21	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+50	6	src/main/org/apache/ant/antunit/junit3/AntUnitTestCase.java
+3	0	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+16	3	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitSuiteTest.java
+37	2	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitTestCaseTest.java
+
+commit 9fafac9d17a9a1594fd0f1611cb6af1b444b2d1a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-02-13 14:39:29 +0000
+
+    missing license headers
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@744127 13f79535-47bb-0310-9956-ffa450edef68
+
+19	0	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitTestCaseTest.java
+19	0	src/tests/junit/org/apache/ant/antunit/junit3/EatYourOwnDogFoodTest.java
+19	0	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteTest.java
+
+commit 5220af86b58156d2a960ac5ed9778a9f68e46e8b
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-02-12 22:21:28 +0000
+
+    Add Junit3 and Junit4 adapters allowing to launch AntUnit script from JUnit runner (I still have some weakness to fix in the junit4 runner)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@743906 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	build.xml
+3	0	changes.xml
+4	0	contributors.xml
+59	0	src/etc/testcases/antunit/junit.xml
+1	1	src/main/org/apache/ant/antunit/ProjectFactory.java
+168	0	src/main/org/apache/ant/antunit/junit3/AntUnitSuite.java
+133	0	src/main/org/apache/ant/antunit/junit3/AntUnitTestCase.java
+69	0	src/main/org/apache/ant/antunit/junit3/JunitNotificationAdapter.java
+72	0	src/main/org/apache/ant/antunit/junit3/MultiProjectDemuxOutputStream.java
+75	0	src/main/org/apache/ant/antunit/junit4/AntUnitSuiteRunner.java
+77	0	src/main/org/apache/ant/antunit/junit4/AntUnitTestCaseRunner.java
+87	0	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitSuiteTest.java
+71	0	src/tests/junit/org/apache/ant/antunit/junit3/AntUnitTestCaseTest.java
+22	0	src/tests/junit/org/apache/ant/antunit/junit3/EatYourOwnDogFoodTest.java
+110	0	src/tests/junit/org/apache/ant/antunit/junit4/AntUnitSuiteTest.java
+
+commit 0b6bc826c1c5eaa0063eb69e9a63c51fcb770bf6
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-02-03 21:13:59 +0000
+
+    Refactoring : - Move active/inactive state managment from AntUnitScriptRunner to AntUnit - Split AntUnitExecutionPlatform into a ProjectFactory (required to parse the script) and AntUnitExceutionNotifier (required to run the script) - Move the invocation of the sequence suiteSetUp, test targets  suiteTearDown from AntUnit to AntUnitScriptRunner
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@740452 13f79535-47bb-0310-9956-ffa450edef68
+
+19	30	src/main/org/apache/ant/antunit/AntUnit.java
+3	9	src/main/org/apache/ant/antunit/{AntUnitExecutionPlatform.java => AntUnitExecutionNotifier.java}
+87	124	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+20	0	src/main/org/apache/ant/antunit/ProjectFactory.java
+
+commit cf53bf4bf516053b13ebeeb001641f5fffa5b0f0
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-31 14:36:57 +0000
+
+    Give access to project name so that it can be used in junit adapter
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@739564 13f79535-47bb-0310-9956-ffa450edef68
+
+11	0	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+
+commit 6fd044277d19ded80190ae2ad3bd913de7b922b4
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-30 21:00:28 +0000
+
+    remove unsightly double catch
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@739408 13f79535-47bb-0310-9956-ffa450edef68
+
+10	20	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+
+commit cd5ca3a0b8b831c520f19e7e1cfe0f81b59c3e0a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-01-28 09:59:28 +0000
+
+    sync docs with antlib
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738428 13f79535-47bb-0310-9956-ffa450edef68
+
+50	3	docs/assertions.html
+
+commit 7ea805f7fb264b2f4c9caae4d10eef85a6e7140d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-01-28 09:55:10 +0000
+
+    make assertResource(Doesnt)Contain(s) casesensitive flag do something useful
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738426 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 0505298464f0c82d7ceca8cb114abe7af8d1b66a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-01-28 09:44:06 +0000
+
+    make assertPropertyContains casesensitive flag do something useful
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738418 13f79535-47bb-0310-9956-ffa450edef68
+
+2	1	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 66b173ace0168ad89aa2ce47dd39d5321ef14ada
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-01-28 05:10:54 +0000
+
+    untabify
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738367 13f79535-47bb-0310-9956-ffa450edef68
+
+29	29	src/main/org/apache/ant/antunit/AntUnitExecutionPlatform.java
+
+commit 7451331ff70a2976193241b289aa6b59fea09770
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-27 21:18:22 +0000
+
+    Finally extract AntUnitScriptRunner (I have also added assertion validating the proper sequence of method invocation)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738248 13f79535-47bb-0310-9956-ffa450edef68
+
+0	223	src/main/org/apache/ant/antunit/AntUnit.java
+326	0	src/main/org/apache/ant/antunit/AntUnitScriptRunner.java
+
+commit a4f26932b0664558c07eca7aceb3864744f48f9c
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-27 20:18:31 +0000
+
+    Decoupling AntUnitScriptRunner from the AntUnit task by introducing AntUnitExecutionPlatform interface
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738222 13f79535-47bb-0310-9956-ffa450edef68
+
+53	16	src/main/org/apache/ant/antunit/AntUnit.java
+65	0	src/main/org/apache/ant/antunit/AntUnitExecutionPlatform.java
+
+commit 0f2b8d63b813584a575b82e838cd81a210317543
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-27 19:57:07 +0000
+
+    merge the projectHandler and the AntScriptRunner in order to prepapre a class reusable by a junit runner
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@738204 13f79535-47bb-0310-9956-ffa450edef68
+
+26	27	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 8d5082b5f3cf29e3e609b51796ea4c83309820d1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2009-01-26 13:16:12 +0000
+
+    English spelling of actif
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@737688 13f79535-47bb-0310-9956-ffa450edef68
+
+16	12	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 8a3eac1d3548b786f8ea60c63d1b54969b3cb210
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-24 15:23:02 +0000
+
+    isolate project references to prepare extraction of AntUnitScriptRunner
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@737379 13f79535-47bb-0310-9956-ffa450edef68
+
+85	24	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 5e5b863cb9157144ba8fb7d4c08e75f585f8331c
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-24 13:05:51 +0000
+
+    add test that fails if antunit doesn't support io demux
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@737355 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	src/etc/testcases/antunit.xml
+39	0	src/etc/testcases/antunit/java-io.xml
+25	0	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+
+commit 566e104cb27b2743daa69fe38b617807c0c0f2f3
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 21:06:08 +0000
+
+    move more code in AntUnitScriptRunner
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736794 13f79535-47bb-0310-9956-ffa450edef68
+
+48	47	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 476517934265e764c3252c91a63273332f425b2c
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 20:21:10 +0000
+
+    indent the code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736776 13f79535-47bb-0310-9956-ffa450edef68
+
+57	57	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 07f9485f4de00fb412dfd0f5959cd1cbfda5a935
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 20:05:28 +0000
+
+    extract script 'scanning' and regroup methods in a class
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736770 13f79535-47bb-0310-9956-ffa450edef68
+
+35	24	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit aeba157d737ff9b3638f763350e0cdad19dd230a
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 19:50:33 +0000
+
+    move more code in startSuite and endSuite
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736758 13f79535-47bb-0310-9956-ffa450edef68
+
+6	7	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit e006c215fd01ba0a4ff7dad774c9a94556003e8f
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 19:30:59 +0000
+
+    extract suiteSetup, suiteTearDown and target execution
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736754 13f79535-47bb-0310-9956-ffa450edef68
+
+72	62	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit aba154292aa133e848d135fa1ba84d0b7f44d423
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-22 19:06:02 +0000
+
+    separate test target identification from test target execution (prepare further refactoring to extract part reusable in junit adapter)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@736745 13f79535-47bb-0310-9956-ffa450edef68
+
+11	3	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit eef127ec791d5bf433f1cc0a66b4f9985c9aeaa5
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2009-01-18 19:23:30 +0000
+
+    refactor duplicated code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@735525 13f79535-47bb-0310-9956-ffa450edef68
+
+29	73	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 6d3eaa3685d740a755d5ef51a8ae82f3c99ea180
+Author: Scokart Gilles <gscokart@apache.org>
+Date:   2008-11-18 10:58:47 +0000
+
+    expectfailure report the original build exception chained when failing
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@718551 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	changes.xml
+4	0	src/main/org/apache/ant/antunit/AssertionFailedException.java
+2	2	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+
+commit b9a640b0b010ef4727dae6b62612e42350347639
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-09-26 08:54:07 +0000
+
+    announce release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@699225 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	doap_AntUnit.rdf
+
+commit 30b53aff98ffe7d6c9be77f46dc8da7c66f01204
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-09-26 08:48:28 +0000
+
+    Add maven-metadata
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@699221 13f79535-47bb-0310-9956-ffa450edef68
+
+30	0	maven-metadata.xml
+
+commit 1b594c47c9a28860a84e32d11ddd24b3590fb14c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-09-19 09:23:06 +0000
+
+    open for new development
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@697005 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 21eb3ef5862f74a9ac62269b6db811e95afc59a5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-09-19 09:18:30 +0000
+
+    prepare for release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@697003 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	changes.xml
+1	1	version.properties
+
+commit 39591b115e5910a775aa1ccee1d8e0368734eb21
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-08-27 04:25:32 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@689355 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit 4added682fe317d3bce357c080e5cf80d6f39641
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-08-27 04:12:43 +0000
+
+    bump a few versions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@689353 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	README
+1	1	docs/index.html
+1	1	version.properties
+
+commit b015abd4165a6e7911e40bd6eee9019e9f52260c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-08-22 15:33:21 +0000
+
+    add a resourceDoesntContain assertion
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@688099 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+38	0	docs/assertions.html
+
+commit 7d90c2b1a092a723edb5edec1383e5475e6aafb4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-08-22 15:29:46 +0000
+
+    document assertResourceContains
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@688096 13f79535-47bb-0310-9956-ffa450edef68
+
+38	0	docs/assertions.html
+22	9	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 81a6051f78a76e6c7d5ddc4013681c1ab084ae43
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 13:13:20 +0000
+
+    Log properties in xmllistener, Submitted by David Jackman, PR 43614
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645897 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	changes.xml
+41	0	src/etc/testcases/listener/xmllistener.xml
+18	0	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+3	0	src/tests/junit/org/apache/ant/antunit/listener/XMLListenerTest.java
+
+commit 5481b979060beb17930621efc1352b1c92aed839
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 13:01:45 +0000
+
+    Document suiteSetUp and suiteTearDown
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645890 13f79535-47bb-0310-9956-ffa450edef68
+
+10	3	docs/antunit.html
+
+commit ed30b0142c698e59f6b0acaeca2125ed1a57c144
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 12:54:49 +0000
+
+    bookkeeping
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645887 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	changes.xml
+
+commit 0d488d0faf7652e84bdd9f8dae345edd3a75d43c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 12:52:42 +0000
+
+    add suiteSetUp and suiteTearDown targets, submitted by David jackman, PR: 43475
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645886 13f79535-47bb-0310-9956-ffa450edef68
+
+63	0	src/etc/testcases/antunit/setupandteardown/bothsuite.xml
+51	0	src/etc/testcases/antunit/setupandteardown/errorsetup.xml
+63	0	src/etc/testcases/antunit/setupandteardown/errorsuitesetup.xml
+63	0	src/etc/testcases/antunit/setupandteardown/errorsuiteteardown.xml
+51	0	src/etc/testcases/antunit/setupandteardown/errorteardown.xml
+52	0	src/etc/testcases/antunit/setupandteardown/failedtestsuite.xml
+51	0	src/etc/testcases/antunit/setupandteardown/failuresetup.xml
+63	0	src/etc/testcases/antunit/setupandteardown/failuresuitesetup.xml
+63	0	src/etc/testcases/antunit/setupandteardown/failuresuiteteardown.xml
+51	0	src/etc/testcases/antunit/setupandteardown/failureteardown.xml
+50	0	src/etc/testcases/antunit/setupandteardown/nosuitesetup.xml
+50	0	src/etc/testcases/antunit/setupandteardown/nosuiteteardown.xml
+0	0	src/etc/testcases/listener/plainlistener.xml
+0	0	src/etc/testcases/listener/xmllistener.xml
+281	119	src/etc/testcases/setupandteardown.xml
+74	0	src/main/org/apache/ant/antunit/AntUnit.java
+202	59	src/tests/junit/org/apache/ant/antunit/SetUpAndTearDownTest.java
+0	2	src/tests/junit/org/apache/ant/antunit/listener/PlainListenerTest.java
+0	2	src/tests/junit/org/apache/ant/antunit/listener/XMLListenerTest.java
+
+commit cc4c0a908304f202dcf30d7342ad8cbc4e9bfd00
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 10:44:46 +0000
+
+    Add logging of messages to xmllistener, based on code submitted by David Jackman
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645841 13f79535-47bb-0310-9956-ffa450edef68
+
+304	0	src/etc/testcases/listener/xmllistener.xml
+18	2	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+79	0	src/tests/junit/org/apache/ant/antunit/listener/XMLListenerTest.java
+
+commit f78bb6947ec10bc2c889d8cfe376891ee0a0fe3a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 10:30:44 +0000
+
+    Add logging of messages to plainlistener, based on code submitted by David Jackman
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645829 13f79535-47bb-0310-9956-ffa450edef68
+
+8	1	docs/plainlistener.html
+8	0	docs/xmllistener.html
+104	0	src/etc/testcases/listener/plainlistener.xml
+23	4	src/main/org/apache/ant/antunit/listener/PlainAntUnitListener.java
+148	0	src/tests/junit/org/apache/ant/antunit/listener/PlainListenerTest.java
+
+commit 70c430e51c7068c61215c772ee95363ac0b35597
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 10:07:08 +0000
+
+    Provide infrastructure for Plain- and XMLListener to capture log output
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645822 13f79535-47bb-0310-9956-ffa450edef68
+
+82	0	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+
+commit 23588271222c0a44ed29a3ddcf8fe019d1956eea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-04-08 08:57:39 +0000
+
+    Make AntUnitListener's aware of the Project instance executing the next test target
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@645799 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/main/org/apache/ant/antunit/AntUnit.java
+9	0	src/main/org/apache/ant/antunit/AntUnitListener.java
+10	0	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+
+commit 5bba63253a4ee23f1f32ed20e3a7fed33dfc0403
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2008-03-26 19:00:21 +0000
+
+    Add license
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@641483 13f79535-47bb-0310-9956-ffa450edef68
+
+16	0	changes.xml
+16	0	contributors.xml
+14	0	version.properties
+
+commit 34073166238507ce74df3cf7dd287e544bb79829
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-12-05 16:41:42 +0000
+
+    new assertDoesntMatch assertion, bugzilla issue 43639, submitted by David Jackman
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@601404 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+59	0	docs/assertions.html
+6	0	src/etc/testcases/assert.xml
+20	0	src/main/org/apache/ant/antunit/antlib.xml
+4	0	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit 98eab640664112576f0cc495721762892c0ad719
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-12-05 16:37:14 +0000
+
+    assertMatches casesensitive attribute has the wrong default, bugzilla issue 43639, Submitted by David Jackman
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@601402 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/antunit/antlib.xml
+
+commit b0e3a327098c3c4a109599235aa34192c0670e68
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-12-05 16:35:11 +0000
+
+    test for issue 43639
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@601400 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	changes.xml
+7	0	src/etc/testcases/assert.xml
+4	0	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit 1569b3786a9f4f786601990485988380c07e9d3b
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2007-10-04 04:15:55 +0000
+
+    -bugzilla #43466
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@581773 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	changes.xml
+
+commit e92de73a4bbd3b0e48e5bb6d27d4ccf3eb69d888
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2007-10-04 04:14:08 +0000
+
+    -whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@581772 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/tests/junit/org/apache/ant/antunit/SetUpAndTearDownTest.java
+
+commit cfbdfdedf7e9e6b76cd2762eca73d27b3a925eac
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2007-10-04 04:13:24 +0000
+
+    -bugzilla #43466
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@581771 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	contributors.xml
+55	0	src/etc/testcases/antunit/setupandteardown/both.xml
+43	0	src/etc/testcases/antunit/setupandteardown/failedsetup.xml
+43	0	src/etc/testcases/antunit/setupandteardown/failedteardown.xml
+44	0	src/etc/testcases/antunit/setupandteardown/failedtest.xml
+50	0	src/etc/testcases/antunit/setupandteardown/nosetup.xml
+51	0	src/etc/testcases/antunit/setupandteardown/noteardown.xml
+119	0	src/etc/testcases/setupandteardown.xml
+24	1	src/main/org/apache/ant/antunit/AntUnit.java
+60	0	src/tests/junit/org/apache/ant/antunit/SetUpAndTearDownTest.java
+
+commit 5f058a6a19e6bcc938ce5210bd7081ef01de9151
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 09:14:54 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574857 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 80e14894ff56a328818265ba679ae35fb2de573a
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 09:11:37 +0000
+
+    Add myself to contributors.xml
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574856 13f79535-47bb-0310-9956-ffa450edef68
+
+4	0	contributors.xml
+
+commit 6542c9233b1b6127ed020b77337966b308b90292
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 09:09:50 +0000
+
+    * Organize imports
+    * typos
+    * AntUnit: local "orig" was never read
+    * AntUnit: document "not read" local variable lc
+    * AssertionFailedException: add generated serialVersionUID
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574855 13f79535-47bb-0310-9956-ffa450edef68
+
+2	4	src/main/org/apache/ant/antunit/AntUnit.java
+1	0	src/main/org/apache/ant/antunit/AssertionFailedException.java
+1	4	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+0	1	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit 3473e654d9c420aa90b8530ed3a9cac46f113321
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 08:56:12 +0000
+
+    code clean up
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574851 13f79535-47bb-0310-9956-ffa450edef68
+
+4	6	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+
+commit 066c175333d2da3f9f45c475dd5f20c31c8c2364
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 08:49:57 +0000
+
+    New Failure Listener, like the new one for JUnit.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574848 13f79535-47bb-0310-9956-ffa450edef68
+
+61	0	docs/failurelistener.html
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+208	0	src/main/org/apache/ant/antunit/listener/FailureAntUnitListener.java
+
+commit 5fca9fae81174b61cb110da3e88fa07e03bb38c1
+Author: Jan Materne <jhm@apache.org>
+Date:   2007-09-12 08:47:48 +0000
+
+    Typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@574847 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/xmllistener.html
+
+commit 8254b09bb910156e0fc3e7233048f99d3fea2858
+Author: Peter Reilly <peterreilly@apache.org>
+Date:   2007-08-22 17:07:58 +0000
+
+    Change firing of starttest event.
+    Original code assumed that a targetstart event
+    would always happen. However, this is not the case
+    if the target depends on a SetUp target that fails.
+    In this case the resultant xml result file was malformed.
+    This change always fires a starttest event, matching
+    the endtest event which is always send (from a finally block).
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@568703 13f79535-47bb-0310-9956-ffa450edef68
+
+13	4	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit e71d9dfa2bf8dc045bb7a0260127dc79caa30065
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-07-02 04:20:52 +0000
+
+    autogenerate WHATSNEW from changes.xml
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@552398 13f79535-47bb-0310-9956-ffa450edef68
+
+0	15	WHATSNEW
+30	0	changes.xml
+
+commit 25098636608e2deb6f8d7cd9607009a2e61d8111
+Author: Jacobus Martinus Kruithof <jkf@apache.org>
+Date:   2007-06-30 21:04:24 +0000
+
+    Bug 42745 assertFileExists example wrong, should use @file instead of @name
+    
+    bug reported by Jim Fuller
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@552213 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	NOTICE
+15	0	WHATSNEW
+2	2	docs/assertions.html
+
+commit a43c4dca51e936ddd3798bc42d63eb7f67081d65
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2007-05-13 04:07:41 +0000
+
+    -resource may not be a file
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@537549 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/org/apache/ant/antunit/antlib.xml
+
+commit da212b721bc241b296c7a70092058574d284fa53
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2007-05-12 06:11:04 +0000
+
+    -add new macro based on resourcecontains
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@537346 13f79535-47bb-0310-9956-ffa450edef68
+
+14	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 7c2673b079603c35d5a2b300dabb733dd2e8a51f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2007-01-08 04:54:38 +0000
+
+    announce 1.0 release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@493950 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	doap_AntUnit.rdf
+
+commit 3d87293a3307bc209505ac142b5d92bb9f319e8f
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-12-30 12:06:47 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@491213 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit f2fdf3c2c2b74b448b661dc7bc47ff2598eb7ba7
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-10-29 20:36:00 +0000
+
+    bump versions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@468979 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	doap_AntUnit.rdf
+1	1	version.properties
+
+commit bc037a932e59671f9322007669500d8f4e83c0cc
+Author: Antoine Levy-Lambert <antoine@apache.org>
+Date:   2006-10-28 23:17:29 +0000
+
+    modified closing tag. Are attributes allowed on closing tags ?
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@468783 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/assertions.html
+
+commit bb1b7d04407ade7cad11342131a3971546e158a5
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-10-11 22:41:47 +0000
+
+    don't fork AntUnit tests as regexp impls are not seen by <junit>.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@463018 13f79535-47bb-0310-9956-ffa450edef68
+
+4	1	build.xml
+
+commit 9cd4d79bd76c9d83014c4e06a5ec888a554afdfb
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-10-11 22:17:47 +0000
+
+    Fix failure by making each test execute in its own Project just like we said.
+    This is a little kludgy, but the tests pass.
+    Also did some javadoc'ing and cleanup.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@463002 13f79535-47bb-0310-9956-ffa450edef68
+
+71	38	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 8d7498dff02aa79615775a9cb80508350780f0bd
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-10-11 22:16:00 +0000
+
+    add failing testcase b/c AntUnit doesn't do what it says
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@463000 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	src/etc/testcases/antunit.xml
+38	0	src/etc/testcases/antunit/property.xml
+4	0	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+
+commit 31285eb10ba47ec629a377100d84a9d40d901108
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-10-03 16:45:02 +0000
+
+    Hopefully make wording a little more clear.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@452566 13f79535-47bb-0310-9956-ffa450edef68
+
+3	2	docs/logcontent.html
+
+commit a3bc6e04fe26a8c84ac9dc8ca611d9f24950cdeb
+Author: Peter Reilly <peterreilly@apache.org>
+Date:   2006-09-28 22:12:58 +0000
+
+    add assertMatches assertion
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@451040 13f79535-47bb-0310-9956-ffa450edef68
+
+12	4	contributors.xml
+58	0	docs/assertions.html
+6	0	src/etc/testcases/assert.xml
+18	0	src/main/org/apache/ant/antunit/antlib.xml
+14	2	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+13	2	src/tests/junit/org/apache/ant/antunit/ExpectFailureTest.java
+
+commit 34314ee4f71eccaf5ef24034ac028f99db8c8631
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-26 20:16:27 +0000
+
+    fix spelling
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@450176 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	docs/assertions.html
+
+commit a05d5ff22d8ab04eebd6259daabdd502cbca4ffa
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-25 19:40:23 +0000
+
+    set all properties by calling initProperties().  System props were missing.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@449787 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 3256d9412fdd72e78b26d388b4c626646d1992df
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-22 20:48:20 +0000
+
+    add logcontent typedef and doco.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@449083 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	docs/antunit.html
+4	1	docs/index.html
+53	0	docs/logcontent.html
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 24824acda63bd10cad4b519dccbef970c9b07bef
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-22 18:43:25 +0000
+
+    add a new logcontent resource and a test
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@449047 13f79535-47bb-0310-9956-ffa450edef68
+
+124	0	src/main/org/apache/ant/antunit/LogContent.java
+87	0	src/tests/junit/org/apache/ant/antunit/LogContentTest.java
+
+commit e5a28cd3c52b6f46d416d59656a059bcbd74a89b
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-22 17:05:12 +0000
+
+    cleanup
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@449000 13f79535-47bb-0310-9956-ffa450edef68
+
+3	4	src/main/org/apache/ant/antunit/LogContains.java
+
+commit 50be1f0abbf2050a03839a7dee1771d0b58226e0
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-22 15:53:35 +0000
+
+    sp
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448972 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	docs/assertions.html
+
+commit 24299687450c7a1eb5e25f285b90ca059d81de74
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-22 03:53:13 +0000
+
+    Add release date
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448793 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	doap_AntUnit.rdf
+
+commit a394c3f3588a7a8465c76d3b87c37f68b68d8fb9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-22 03:52:29 +0000
+
+    bump version
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448792 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	version.properties
+
+commit c51e64f868b7f949f13a230f097c9902912217a3
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-20 17:10:17 +0000
+
+    add testcase for previous change
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448269 13f79535-47bb-0310-9956-ffa450edef68
+
+7	1	src/etc/testcases/antunit.xml
+4	0	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+
+commit 30635812387f51399c6703caedc5c8bfb09b4e2c
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-20 17:05:25 +0000
+
+    Differentiate between no RCs specified and no matching Resources.
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448264 13f79535-47bb-0310-9956-ffa450edef68
+
+8	4	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 97fe8bd3537533754984b401ae1827086b0ebfb8
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-20 15:53:32 +0000
+
+    add me
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448245 13f79535-47bb-0310-9956-ffa450edef68
+
+5	1	contributors.xml
+
+commit 1abf65b02e1efb11ae31b7feb3be15c34f8b4375
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-20 15:52:56 +0000
+
+    Closing outputStream
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@448244 13f79535-47bb-0310-9956-ffa450edef68
+
+3	2	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+
+commit 91c268f3bf691a5e0dc2271074851a1e87873bdb
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-19 04:31:21 +0000
+
+    update docs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447724 13f79535-47bb-0310-9956-ffa450edef68
+
+32	0	README
+26	14	docs/antunit.html
+1	1	docs/assert.html
+1	1	docs/assertions.html
+4	4	docs/index.html
+2	2	docs/plainlistener.html
+29	1	docs/xmllistener.html
+
+commit 8b41edd5acb617e92002b1c61321ad9117f81e98
+Author: Matthew Jason Benson <mbenson@apache.org>
+Date:   2006-09-18 21:42:18 +0000
+
+    correction and a couple of capitalizations
+    
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447580 13f79535-47bb-0310-9956-ffa450edef68
+
+4	4	docs/antunit.html
+
+commit eb24b0e8c5fa578c51da38136822ddd01f3a1aaa
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-18 19:47:04 +0000
+
+    use common CSS stylesheet
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447521 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	docs/antunit.html
+1	0	docs/assert.html
+1	0	docs/assertions.html
+3	1	docs/expectfailure.html
+1	0	docs/index.html
+1	0	docs/plainlistener.html
+1	0	docs/xmllistener.html
+
+commit a51df7e508867becf72d35f0595149ad7dfdb106
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-18 19:40:48 +0000
+
+    file has been renamed
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447520 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	libraries.properties
+
+commit ecf17c3aeb2e92ea41cf7d51e96202b8cd75f8ea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-18 19:39:55 +0000
+
+    will be generated during build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447519 13f79535-47bb-0310-9956-ffa450edef68
+
+0	43	pom.xml
+
+commit 7c82bf3dfa73da21ecbf5a2f28f35838394f82c3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-18 19:33:33 +0000
+
+    Add some information files pre-release
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@447518 13f79535-47bb-0310-9956-ffa450edef68
+
+53	0	doap_AntUnit.rdf
+1	0	version.properties
+
+commit 178e551ddb5c54bd6645df4998329742bff090a3
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-13 05:27:07 +0000
+
+    unwrapping is no longer necessary, now that macrodef and TaskAdapter pass the exceptions unchanged
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442854 13f79535-47bb-0310-9956-ffa450edef68
+
+3	14	src/tests/junit/org/apache/ant/antunit/AssertTest.java
+
+commit ad36e2022240495880c5983c7623a79606fe51ca
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-13 05:26:20 +0000
+
+    Add location information
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442851 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	src/main/org/apache/ant/antunit/AssertTask.java
+
+commit 3a7b253d9c29cfdcd4aa1a3d9c1251bf94db8273
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-12 04:30:58 +0000
+
+    Add license, remove copyright
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442446 13f79535-47bb-0310-9956-ffa450edef68
+
+16	1	docs/assert.html
+16	1	docs/assertions.html
+16	1	docs/expectfailure.html
+16	1	docs/index.html
+
+commit ca2564da9b133786dfd23f567a1c47e5d79a6c26
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-11 19:51:30 +0000
+
+    suppress backtraces for assertions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442308 13f79535-47bb-0310-9956-ffa450edef68
+
+15	15	src/main/org/apache/ant/antunit/antlib.xml
+
+commit d8a25af15ec1b93981d5da52fa56235cb3100f0d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-11 19:48:23 +0000
+
+    Add location-aware constructor
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442307 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	src/main/org/apache/ant/antunit/AssertionFailedException.java
+
+commit 6002fbef8b8968bf83a99b8600cf901eba6c8301
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-11 19:46:57 +0000
+
+    try to make more sense
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442304 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 249b65bafb58c47601e6fec23b287536f9acbb20
+Author: Jan Materne <jhm@apache.org>
+Date:   2006-09-11 07:41:31 +0000
+
+    typo
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@442117 13f79535-47bb-0310-9956-ffa450edef68
+
+5	5	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 90d2715be23a2bc05a6c4ffcccf3a5ea1a773a5c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-09 19:45:32 +0000
+
+    tweak JUnitReport stylesheets to work with AntUnit's XML output
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@441849 13f79535-47bb-0310-9956-ffa450edef68
+
+22	11	src/etc/junit-frames.xsl
+87	66	src/etc/junit-noframes.xsl
+6	0	src/etc/testcases/antunit.xml
+
+commit 577a3033bf7bdbd3b03c11e5ae15ce018e36f0a4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-09 19:44:57 +0000
+
+    Add some useful information to the reports
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@441848 13f79535-47bb-0310-9956-ffa450edef68
+
+19	5	src/main/org/apache/ant/antunit/listener/PlainAntUnitListener.java
+10	0	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+6	0	src/main/org/apache/ant/antunit/listener/XMLConstants.java
+1	1	src/tests/junit/org/apache/ant/antunit/AntUnitTest.java
+
+commit 2c58493f5a11a811a46a3d1a23c04d935f6efa82
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-09 19:44:17 +0000
+
+    make sure we get the [antunit] banner in plainlistener
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@441847 13f79535-47bb-0310-9956-ffa450edef68
+
+18	4	src/main/org/apache/ant/antunit/AntUnit.java
+7	0	src/main/org/apache/ant/antunit/AntUnitListener.java
+39	13	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+
+commit e26193d206208872e0c64c629adc9fbeeccbbd76
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-09-07 19:09:44 +0000
+
+    people who've committed stuff here
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@441179 13f79535-47bb-0310-9956-ffa450edef68
+
+29	0	contributors.xml
+
+commit 232ace0349403cd02d1a31da91c7e10d81d12507
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 19:07:44 +0000
+
+    Move JUnit tests into a separate directory structure, preparation to add AntUnit to the mix
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@437212 13f79535-47bb-0310-9956-ffa450edef68
+
+877	0	src/etc/junit-frames.xsl
+463	0	src/etc/junit-noframes.xsl
+14	5	src/etc/testcases/antunit.xml
+0	0	src/{testcases => tests/junit}/org/apache/ant/antunit/AntUnitTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/antunit/AssertTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/antunit/ExpectFailureTest.java
+0	0	src/{testcases => tests/junit}/org/apache/ant/antunit/LogCapturerTest.java
+
+commit 48df64c11f1c6c13e63cef6128e8cfbb2bef2864
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 18:50:56 +0000
+
+    whitespace
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@437206 13f79535-47bb-0310-9956-ffa450edef68
+
+6	4	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 02166c52be590320e778a1eeb6bb228398b4a689
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 18:48:48 +0000
+
+    Add an errorProperty attribute, document failOnError attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@437205 13f79535-47bb-0310-9956-ffa450edef68
+
+20	1	docs/antunit.html
+
+commit ebe4ec976aa9c9e5f9f2a3cbe5bef70f505acbe2
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-26 18:48:30 +0000
+
+    Add an errorProperty attribute, document failOnError attribute
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@437204 13f79535-47bb-0310-9956-ffa450edef68
+
+17	1	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit f0fd5ca05a0df338752419e8fa794c17ad50a626
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-22 05:00:55 +0000
+
+    make XML report a bit prettier
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@433519 13f79535-47bb-0310-9956-ffa450edef68
+
+2	0	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+
+commit 94670dc30af73dd061c3eb19e71d98ab7b879c99
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-22 04:55:07 +0000
+
+    improve testsuite-name attribute in XML report
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@433516 13f79535-47bb-0310-9956-ffa450edef68
+
+19	11	src/main/org/apache/ant/antunit/listener/BaseAntUnitListener.java
+8	4	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+5	0	src/main/org/apache/ant/antunit/listener/XMLConstants.java
+
+commit 8f66282084bee069b9de59123b53f2d161bbe3a1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-21 04:11:49 +0000
+
+    add documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@433145 13f79535-47bb-0310-9956-ffa450edef68
+
+5	3	docs/antunit.html
+51	0	docs/xmllistener.html
+
+commit 06778bc504851b99721dd40b3a7d8eddd2919cc8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-21 04:06:47 +0000
+
+    decouple antlib from ant-junit.jar
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@433144 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/main/org/apache/ant/antunit/listener/XMLAntUnitListener.java
+104	0	src/main/org/apache/ant/antunit/listener/XMLConstants.java
+
+commit ecc39c666ac57a3846b28034fd1cb0587b0d6428
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-21 04:01:26 +0000
+
+    move the listeners to a separate package
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@433143 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/main/org/apache/ant/antunit/antlib.xml
+4	1	src/main/org/apache/ant/antunit/{ => listener}/BaseAntUnitListener.java
+3	1	src/main/org/apache/ant/antunit/{ => listener}/PlainAntUnitListener.java
+3	2	src/main/org/apache/ant/antunit/{ => listener}/XMLAntUnitListener.java
+
+commit 89c2737633ebc634f6d09e301a104cb0dd443e72
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-19 20:33:08 +0000
+
+    XML listener, mostly complete.  I intend to add documentation and stylesheets that allow junitreport to work on the report format later.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432873 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	src/etc/testcases/antunit.xml
+179	0	src/main/org/apache/ant/antunit/XMLAntUnitListener.java
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit aede6a63edf9ba1e2ba0f1622bc31b179b1b5dd6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-19 19:34:26 +0000
+
+    need to make extension configurable
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432866 13f79535-47bb-0310-9956-ffa450edef68
+
+9	2	src/main/org/apache/ant/antunit/BaseAntUnitListener.java
+2	2	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit c4413d2f0109b527aaf05ab2f01671b373ff24e1
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-19 19:27:50 +0000
+
+    cleanup
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432865 13f79535-47bb-0310-9956-ffa450edef68
+
+0	8	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit fe56008d7beb03fca744daa95d6f4d60192864f5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-19 19:13:42 +0000
+
+    factor out some code that may come handy when implementing the XML listener
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432863 13f79535-47bb-0310-9956-ffa450edef68
+
+171	0	src/main/org/apache/ant/antunit/BaseAntUnitListener.java
+9	103	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit 11115b90e6be09e97be356797ef0f120623788b8
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-19 18:56:24 +0000
+
+    make report file name prettier
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432860 13f79535-47bb-0310-9956-ffa450edef68
+
+8	2	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit 77d58419c4c4d7e5dcceb6572e0f0d3ec0e81077
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-08-18 21:59:15 +0000
+
+    allow plainlistener to write reports to files
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@432741 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	docs/antunit.html
+56	0	docs/plainlistener.html
+3	1	src/etc/testcases/antunit.xml
+2	3	src/main/org/apache/ant/antunit/AntUnit.java
+3	10	src/main/org/apache/ant/antunit/AntUnitListener.java
+84	8	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit 52342dc3b5c048cc2965ff539ec476509c54f954
+Author: Steve Loughran <stevel@apache.org>
+Date:   2006-08-08 15:15:40 +0000
+
+    library version for this artifact
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@429681 13f79535-47bb-0310-9956-ffa450edef68
+
+1	0	libraries.properties
+
+commit 6d8263d69be2bfd71af5c6a98981017440ea5694
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-28 19:16:29 +0000
+
+    <propertyset> support for <antunit>
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@426650 13f79535-47bb-0310-9956-ffa450edef68
+
+6	0	docs/antunit.html
+17	0	src/etc/testcases/antunit.xml
+33	0	src/etc/testcases/antunit/echo.xml
+48	8	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 0165fa637cd24eb4ad37d82221be23c346e46aae
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-27 04:35:42 +0000
+
+    soon?
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@425957 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	docs/antunit.html
+
+commit f8eb6f6815443c938e4e925c7e3c10fe3774078a
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-26 04:58:57 +0000
+
+    'test' is not an AntUnit test target
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@425623 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	docs/antunit.html
+0	1	src/etc/testcases/antunit.xml
+4	0	src/etc/testcases/antunit/base.xml
+1	1	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit ec13c2d33fec765729cc87048a19fa600a2695ac
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-26 04:24:01 +0000
+
+    adapt to common NOTICE file format
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@425607 13f79535-47bb-0310-9956-ffa450edef68
+
+10	4	NOTICE
+
+commit b2994fbb768af32ea655ae7964407eab14c19f24
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2006-07-25 04:53:58 +0000
+
+    fixed dependencies
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@425278 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	pom.xml
+
+commit 059a6cfc99b8d1346bc9e5e2e25bbf025f2575ea
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-25 04:36:58 +0000
+
+    fine tune resource collection support
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@425273 13f79535-47bb-0310-9956-ffa450edef68
+
+36	18	docs/antunit.html
+20	1	src/etc/testcases/antunit.xml
+29	13	src/main/org/apache/ant/antunit/AntUnit.java
+18	0	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+
+commit 5b3d47a2dfc55f14ece8d361df54f49a37a84823
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2006-07-24 07:23:57 +0000
+
+    - add maven pom
+    - change to new license/notice style (added NOTICE)
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@424944 13f79535-47bb-0310-9956-ffa450edef68
+
+5	0	NOTICE
+16	13	build.xml
+43	0	pom.xml
+16	13	src/etc/testcases/antunit.xml
+16	13	src/etc/testcases/antunit/base.xml
+16	13	src/etc/testcases/antunit/copy.xml
+16	13	src/etc/testcases/assert.xml
+16	13	src/etc/testcases/expectfailure.xml
+15	12	src/main/org/apache/ant/antunit/AntUnit.java
+15	12	src/main/org/apache/ant/antunit/AntUnitListener.java
+15	12	src/main/org/apache/ant/antunit/AssertTask.java
+15	12	src/main/org/apache/ant/antunit/AssertionFailedException.java
+15	12	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+15	12	src/main/org/apache/ant/antunit/LogCapturer.java
+15	12	src/main/org/apache/ant/antunit/LogContains.java
+15	12	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+16	13	src/main/org/apache/ant/antunit/antlib.xml
+15	12	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+15	12	src/testcases/org/apache/ant/antunit/AssertTest.java
+15	12	src/testcases/org/apache/ant/antunit/ExpectFailureTest.java
+15	12	src/testcases/org/apache/ant/antunit/LogCapturerTest.java
+
+commit 9d8845b5fb294b04ae63c248157fcfb0793d1ff9
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2006-07-24 04:20:45 +0000
+
+    remove unused code
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@424898 13f79535-47bb-0310-9956-ffa450edef68
+
+0	1	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+1	2	src/testcases/org/apache/ant/antunit/ExpectFailureTest.java
+
+commit f004d66837cb6adc584f076e5e266cf0d502de46
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2006-07-24 04:07:55 +0000
+
+    Use ResourceCollections - integration tested, but not unit tested
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@424897 13f79535-47bb-0310-9956-ffa450edef68
+
+9	11	src/main/org/apache/ant/antunit/AntUnit.java
+
+commit 32f08f3fa561f4dcbbc56c222b9051c3f22ef3e9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-07-22 16:56:01 +0000
+
+    provide a bit more documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@424603 13f79535-47bb-0310-9956-ffa450edef68
+
+97	3	src/main/org/apache/ant/antunit/AntUnit.java
+25	1	src/main/org/apache/ant/antunit/AntUnitListener.java
+7	1	src/main/org/apache/ant/antunit/AssertTask.java
+2	2	src/main/org/apache/ant/antunit/LogCapturer.java
+10	1	src/main/org/apache/ant/antunit/LogContains.java
+9	18	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit b0bcfc9470c06621f46b767c2a39661412242f46
+Author: Steve Loughran <stevel@apache.org>
+Date:   2006-07-10 12:10:14 +0000
+
+    if you want to capture the logs, we'd better declare the relevant task
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@420506 13f79535-47bb-0310-9956-ffa450edef68
+
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 50ae6461ad6e3d938aa31499c35466289e0cd5f2
+Author: Kevin Jackson <kevj@apache.org>
+Date:   2006-06-22 07:15:53 +0000
+
+    remove unused imports change year
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@416289 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/main/org/apache/ant/antunit/LogCapturer.java
+1	2	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+
+commit 0d4d1d568091bd0555889d1f61bb10a6a2989c36
+Author: Steve Loughran <stevel@apache.org>
+Date:   2006-06-07 20:47:34 +0000
+
+    -Fix the test to expect the failure that is now thrown on an error.
+    -added 'all' targets to the various testcase build files that run antunit against themselves (neat trick, huh?)
+    Gump should be working now...
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@412531 13f79535-47bb-0310-9956-ffa450edef68
+
+5	2	src/etc/testcases/antunit.xml
+10	2	src/etc/testcases/antunit/base.xml
+8	2	src/etc/testcases/antunit/copy.xml
+5	2	src/etc/testcases/assert.xml
+8	2	src/etc/testcases/expectfailure.xml
+6	4	src/main/org/apache/ant/antunit/AntUnit.java
+5	2	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+2	1	src/testcases/org/apache/ant/antunit/ExpectFailureTest.java
+
+commit 9e21e1d5d35c5436886b96a5da6a4bcab4c7fa8a
+Author: Steve Loughran <stevel@apache.org>
+Date:   2006-06-04 22:34:30 +0000
+
+    1. typos in assertTask
+    2. ExpectFailure now does a substring check for the expectedMessage, not a simple exact match
+    3. AntUnit actually fails the build if the tests failed.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@411613 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	docs/expectfailure.html
+1	1	docs/index.html
+16	0	src/main/org/apache/ant/antunit/AntUnit.java
+2	2	src/main/org/apache/ant/antunit/AssertTask.java
+11	8	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+
+commit cfedbaaf14009e51fc989b6d0781f36f229e416d
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2006-05-04 03:35:00 +0000
+
+    Make test pass on Windows
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@399528 13f79535-47bb-0310-9956-ffa450edef68
+
+4	2	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+
+commit c2c373f7589ef01264d8351d335d10e3b4bcc683
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-11-23 10:29:17 +0000
+
+    fix test which assumed antunit was still in the sandbox
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@348409 13f79535-47bb-0310-9956-ffa450edef68
+
+1	2	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+
+commit 2404575bf0d27bdc4b94a3fdb6ffbbaed6b8f596
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-11-22 05:29:18 +0000
+
+    promote antlibs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/antlibs/antunit/trunk@348097 13f79535-47bb-0310-9956-ffa450edef68
+
+1	1	src/etc/testcases/antunit/copy.xml
+
+commit 77896a08c4567fa8ab9f0efff64b5d5f54153533
+Author: Steve Loughran <stevel@apache.org>
+Date:   2005-11-06 23:55:23 +0000
+
+    an extra test
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@331165 13f79535-47bb-0310-9956-ffa450edef68
+
+14	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 9d5ffa72947b6b8175b7870bd9a88d76dd7f5cfa
+Author: Steve Loughran <stevel@apache.org>
+Date:   2005-11-05 22:30:01 +0000
+
+    spelling correction, including that of index.html
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@331039 13f79535-47bb-0310-9956-ffa450edef68
+
+4	3	docs/antunit.html
+0	0	docs/{index.hmtl => index.html}
+
+commit 3b7ee9a0846c0d2e34f0b6397a7bd88e04cf9df4
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-05 18:55:47 +0000
+
+    No classloader issue, just me being unable to read 'name of the data-type'.
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209304 13f79535-47bb-0310-9956-ffa450edef68
+
+3	3	docs/assertions.html
+3	3	src/etc/testcases/assert.xml
+2	3	src/testcases/org/apache/ant/antunit/AssertTest.java
+
+commit d521b765bbf5db666e80e21b5fa7d5db5787f3a0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 14:13:16 +0000
+
+    Port more of copy's test suite
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209085 13f79535-47bb-0310-9956-ffa450edef68
+
+8	2	src/etc/testcases/antunit/copy.xml
+
+commit b5362524f186671c80fd8051133d0c3d8ce6ed9c
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 14:12:15 +0000
+
+    new assertions for log handling
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209084 13f79535-47bb-0310-9956-ffa450edef68
+
+52	0	docs/assertions.html
+24	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit 49defb13bef348e50c9f26211eb40d79ad38c474
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 13:56:09 +0000
+
+    logcontains condition - only usable during antunit runs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209080 13f79535-47bb-0310-9956-ffa450edef68
+
+76	0	src/main/org/apache/ant/antunit/LogContains.java
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+
+commit b87a7893b3cecd907c5b018947dc2d22abd0ec20
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 13:35:46 +0000
+
+    forgot to add testcase
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209074 13f79535-47bb-0310-9956-ffa450edef68
+
+66	0	src/testcases/org/apache/ant/antunit/LogCapturerTest.java
+
+commit bb23f0df317e576dad9e6154166be3ac0c662714
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 13:35:24 +0000
+
+    Make log output available to test runs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209073 13f79535-47bb-0310-9956-ffa450edef68
+
+55	0	docs/antunit.html
+4	0	src/etc/testcases/antunit/base.xml
+1	0	src/main/org/apache/ant/antunit/AntUnit.java
+135	0	src/main/org/apache/ant/antunit/LogCapturer.java
+3	1	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+
+commit 9d993df70f27dba665f54a90223d7fb61adce1e6
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 13:12:05 +0000
+
+    New assertions for references
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209070 13f79535-47bb-0310-9956-ffa450edef68
+
+72	0	docs/assertions.html
+22	0	src/etc/testcases/assert.xml
+24	0	src/main/org/apache/ant/antunit/antlib.xml
+18	0	src/testcases/org/apache/ant/antunit/AssertTest.java
+
+commit 8017ac020a59f27a03cb9767e8d5b3dd47743034
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 12:15:10 +0000
+
+    Port more of the copy tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209063 13f79535-47bb-0310-9956-ffa450edef68
+
+14	8	src/etc/testcases/antunit/copy.xml
+
+commit 74933f8b7e24a78cf1b250e8af9f9bed5869cbc9
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-04 12:07:49 +0000
+
+    New task expectfailure
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@209062 13f79535-47bb-0310-9956-ffa450edef68
+
+67	0	docs/expectfailure.html
+4	0	docs/index.hmtl
+58	0	src/etc/testcases/expectfailure.xml
+78	0	src/main/org/apache/ant/antunit/ExpectFailureTask.java
+3	0	src/main/org/apache/ant/antunit/antlib.xml
+64	0	src/testcases/org/apache/ant/antunit/ExpectFailureTest.java
+
+commit 112898e2edcc2e9227c1a9d45a4cc63d45944b85
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-01 09:59:49 +0000
+
+    Port parts of the copy testsuite
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@208741 13f79535-47bb-0310-9956-ffa450edef68
+
+7	0	src/etc/testcases/antunit.xml
+180	0	src/etc/testcases/antunit/copy.xml
+1	0	src/etc/testcases/antunit/expected/copy.filterset.filtered
+1	0	src/etc/testcases/antunit/expected/utf-8
+1	0	src/etc/testcases/antunit/input/copy.filterset
+1	0	src/etc/testcases/antunit/input/iso8859-1
+
+commit 1668fcf81c630bbc83764aefdc304e0a8bfd1568
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-07-01 09:39:53 +0000
+
+    Add two new assertions
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@208739 13f79535-47bb-0310-9956-ffa450edef68
+
+76	0	docs/assertions.html
+16	0	src/etc/testcases/assert.xml
+24	0	src/main/org/apache/ant/antunit/antlib.xml
+14	1	src/testcases/org/apache/ant/antunit/AssertTest.java
+
+commit 2684d535fb379a42cd97d3068e3a506cd57126d5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-06-30 04:48:49 +0000
+
+    Add some documentation
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@202481 13f79535-47bb-0310-9956-ffa450edef68
+
+119	0	docs/antunit.html
+54	0	docs/assert.html
+305	0	docs/assertions.html
+109	0	docs/index.hmtl
+
+commit a052a4f9bf5c9771b8f363fe8435f651685cfa75
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-05-20 11:55:34 +0000
+
+    Add <antunit> task and a very basic test listener
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@171106 13f79535-47bb-0310-9956-ffa450edef68
+
+28	0	src/etc/testcases/antunit.xml
+51	0	src/etc/testcases/antunit/base.xml
+241	0	src/main/org/apache/ant/antunit/AntUnit.java
+34	0	src/main/org/apache/ant/antunit/AntUnitListener.java
+149	0	src/main/org/apache/ant/antunit/PlainAntUnitListener.java
+6	0	src/main/org/apache/ant/antunit/antlib.xml
+57	0	src/testcases/org/apache/ant/antunit/AntUnitTest.java
+
+commit e95852fb9a73e24d5fa3976a5f99170df3899a54
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-29 11:11:56 +0000
+
+    fix tests
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@165293 13f79535-47bb-0310-9956-ffa450edef68
+
+8	8	src/etc/testcases/assert.xml
+2	2	src/testcases/org/apache/ant/antunit/AssertTest.java
+
+commit 59d3709306f264569d746e8a988a10e54520d8d0
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-29 11:05:19 +0000
+
+    Change package name
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@165291 13f79535-47bb-0310-9956-ffa450edef68
+
+2	2	src/etc/testcases/assert.xml
+2	2	src/main/org/apache/ant/{antlib => }/antunit/AssertTask.java
+2	2	src/main/org/apache/ant/{antlib => }/antunit/AssertionFailedException.java
+3	3	src/main/org/apache/ant/{antlib => }/antunit/antlib.xml
+2	2	src/testcases/org/apache/ant/{antlib => }/antunit/AssertTest.java
+
+commit 914d8d5961d0318fce9b50f05d63d5412e65596b
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-19 13:24:52 +0000
+
+    Make sandboxes build
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@161885 13f79535-47bb-0310-9956-ffa450edef68
+
+4	74	build.xml
+
+commit 922d7882dcd35f38d1121c1f4bb53e6b6aab6ac5
+Author: Stefan Bodewig <bodewig@apache.org>
+Date:   2005-04-15 14:32:50 +0000
+
+    Import sandbox antlibs
+    
+    git-svn-id: https://svn.apache.org/repos/asf/ant/sandbox/antlibs/antunit/trunk@161469 13f79535-47bb-0310-9956-ffa450edef68
+
+93	0	build.xml
+143	0	src/etc/testcases/assert.xml
+70	0	src/main/org/apache/ant/antlib/antunit/AssertTask.java
+32	0	src/main/org/apache/ant/antlib/antunit/AssertionFailedException.java
+117	0	src/main/org/apache/ant/antlib/antunit/antlib.xml
+138	0	src/testcases/org/apache/ant/antlib/antunit/AssertTest.java

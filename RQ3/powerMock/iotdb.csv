@@ -1,0 +1,11 @@
+file_path,method,api
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,mockStatic,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategyTest.java,when,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/engine/StorageEngineV2Test.java,mock,org.powermock.api.mockito.PowerMockito
+/server/src/test/java/org/apache/iotdb/db/engine/StorageEngineV2Test.java,mock,org.powermock.api.mockito.PowerMockito

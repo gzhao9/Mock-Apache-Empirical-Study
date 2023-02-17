@@ -1,0 +1,460 @@
+commit_id,Author,Author_adress,Date
+889ca60edc8afd85b4a594442883c1b5efdf3c6b,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-14-2022
+9bd32771e3983efdb0b135699a036c91e89b52dd,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-14-2022
+315a1a72a68e145d7a3a4c9bf28907a19ebdf710,Benedict Elliott Smith,benedict@apache.org,Jul-14-2022
+60f742c739ba4830a5d459bf3efa0783a9717bb6,Benedict Elliott Smith,benedict@apache.org,Jul-14-2022
+d51f90201b2d127166612384a75b4a49da9776d1,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-12-2022
+520fb2bb24cef6891ec9912690b0e94d2ff2016c,Andrés de la Peña,a.penya.garcia@gmail.com,Jul-14-2022
+27a31f4cfabb3faf65efc38ef866f7c1f78779ed,Andrés de la Peña,a.penya.garcia@gmail.com,Jul-12-2022
+dfd152cfa0c4f38b9b7d214f2520081abab98ab7,Bereng,berenguerblasi@gmail.com,Jul-14-2022
+14fc06a3ce007b0cbf3bc88c3d8c247da65fc036,Bereng,berenguerblasi@gmail.com,Jul-1-2022
+20815a31089447b0d4d1808ed8d6e522f068fae7,Bereng,berenguerblasi@gmail.com,Jul-14-2022
+ada958eaf7bd37c38cda55ef469c87f1e7e958bb,Bereng,berenguerblasi@gmail.com,May-27-2022
+5aec5a9103590400ff8483f5dd1f44706d7ccc78,Mick Semb Wever,mck@apache.org,Jul-13-2022
+c410247c072d0447b2e4bf03793f40c86fc67896,Mick Semb Wever,mck@apache.org,Jul-13-2022
+ec476e0e259efb62ee19804c3ff46dbbe4d1ded7,Mick Semb Wever,mck@apache.org,Jul-12-2022
+239b3e50798d80fe81ceb56db3c5c869d675a8e3,Benjamin Lerer,b.lerer@gmail.com,Jul-11-2022
+8468d33a31346a49123873019aa3f18efe6f4247,Benedict Elliott Smith,benedict@apache.org,Jul-12-2022
+067121da63c2a8ead48aeb9a4241af5306b14a37,Benedict Elliott Smith,benedict@apache.org,Jul-12-2022
+cdc0ce1fa33756f091785b58d4cc8f50fa9e7d0e,Blake Eggleston,blake@ultrablake.com,Jun-14-2022
+6fcaed8fd635f84acf402dbf86fe94af0a7406ca,Benjamin Lerer,b.lerer@gmail.com,Jul-11-2022
+f50862b434736ea33360559c7539a1a7bbcce2b2,Benjamin Lerer,b.lerer@gmail.com,Jul-11-2022
+12b588da08b51c5224add21701207719eaaf38c5,Benjamin Lerer,b.lerer@gmail.com,Jul-11-2022
+dd51df6734d9b8d8dca9c2a22659e74f674060e2,Marten Kenbeek,marten@blueconic.com,Mar-9-2022
+cc28e1a85e2e5760436030ca57667fa69d6de233,Bereng,berenguerblasi@gmail.com,Jul-11-2022
+1d80dd008677e0084b1530295207a568853badee,Bereng,berenguerblasi@gmail.com,Jun-9-2022
+89f3978dcde958fbad191b8cf628fd89ace64d7a,Caleb Rackliffe,calebrackliffe@gmail.com,Jun-27-2022
+2355ef08a2bf048f4db9d8b24e348ec36a680fcc,Mick Semb Wever,mck@apache.org,Jul-8-2022
+31eb6852e17bcb36d8276867c75394af5da6e490,Mick Semb Wever,mck@apache.org,Jul-8-2022
+5072bde5fb81580f7558031e50b2f6e988feaac2,Mick Semb Wever,mck@apache.org,Jul-8-2022
+ef6bce50842fa3dc0563603ff46e03df9749a678,Andrew Hogg,andrew.hogg@datastax.com,Jan-21-2022
+481fdde885e971733c1e72513b3ada90a6392cc1,Bereng,berenguerblasi@gmail.com,Jul-8-2022
+f77a7a29e8bbfc647dd69d42d2fa33ff6de765a5,Bereng,berenguerblasi@gmail.com,Jun-21-2022
+b29ad8823a20d910a0b9b984b06421f390cc0a17,Benjamin Lerer,b.lerer@gmail.com,Jul-7-2022
+50e7a3f5df1e8934ddfa56e8c3b00a79ea5a14c8,Benjamin Lerer,b.lerer@gmail.com,Jul-7-2022
+c378874a9fa123891d1d75177d99dba5c4d18f9b,Benedict Elliott Smith,benedict@apache.org,May-11-2022
+ab0a9b5f5ca9b5189da2834698897961aac39e87,Yifan Cai,ycai@apache.org,Jul-6-2022
+a250126f0f277b43a18cb665ccd02a105271bc33,Francisco Guerrero,frank.guerrero@gmail.com,Jul-6-2022
+5c7a47b384acf0f2cc38f9ebe8eff289afe48028,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-5-2022
+15bdf2e8e7e7a66dd85bf3f86cc58576a13657be,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-5-2022
+924cd8f52c2437d0a0ce8c48196bb6aa8976fbb8,Caleb Rackliffe,calebrackliffe@gmail.com,Jul-1-2022
+5616675b1fa7d5b979c0d345ea5f3a3182f6c2d7,Andrés de la Peña,a.penya.garcia@gmail.com,Jul-5-2022
+91d08e496ee439a2179e617f4db8804ab07c301a,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-8-2022
+33a9093c5cc2f8fcf913d1931415b697e52ec108,Eduard Tudenhoefner,eduard.tudenhoefner@datastax.com,Jul-1-2022
+7119cf8be1c32fa6ac015456965ae27a17cd828c,Jyothsna Konisa,jkonisa@apple.com,Jun-30-2022
+9c411d3f1ae6617380786cd5423151ee645ec209,Jon Meredith,jonmeredith@apache.org,Jun-30-2022
+5e4eeb2d0c69b920eadd83559f6ab771c7b6a8dc,Jon Meredith,jonmeredith@apache.org,Jun-30-2022
+008bf8607c55926d0aadb4602a8a854d396c7657,Jon Meredith,jonmeredith@apache.org,Jun-29-2022
+21591cf8305d6f473ec512ef31abe4a11da06f61,Yifan Cai,ycai@apache.org,Jun-29-2022
+a9725b681b948f2122f3d48b96a5c4e7403d2c39,Francisco Guerrero,frank.guerrero@gmail.com,Jun-29-2022
+f2faec9ff2107b3df9a920b02a1d1ddea38ba74a,Brandon Williams,brandonwilliams@apache.org,Jun-29-2022
+b75d56fd387a3af2706f75c0536cf112fdf6b788,Brandon Williams,brandonwilliams@apache.org,Jun-23-2022
+e966c45afcf8bef47df245ccb851386e5ce60505,jacek-lewandowski,jacek.lewandowski@datastax.com,Nov-6-2020
+4e8c83118963c1e142bd29eb997be73308a942c7,Branimir Lambov,branimir.lambov@datastax.com,Jun-29-2022
+60b54425edc0a328bc1baf00c2e5bf111d4b9da8,Jakub Żytka,jakub.zytka@datastax.com,May-11-2021
+8ffaf4af62b87e2b7a70aea88a850242eb522f9a,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-28-2022
+07e5876c43998fe7384df115c65749d668183130,Akın Tekeoğlu,akin.tekeoglu@gmail.com,Jun-21-2022
+63c6467746d144287e6d90190addb8c58160d7ef,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-28-2022
+495d609c89618e2c74cddd8bf6246a833852a64a,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-27-2022
+07d97d7905a441ce3c14f4a5ba40d8fedfcc0ba8,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-27-2022
+dcb4768345e0fe96420c4f4597e2eb822040d15a,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-24-2022
+f8207fe28748a168a76f73db37dec8d42dd67a7a,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-27-2022
+33730d9d0603cc110fb8da68d9663b4d52e9b7e6,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-27-2022
+90e2502c6c7826bdb14cebcece81440307a7420e,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-27-2022
+bc8a2604718284b95da52205a9b95b8a69483661,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-27-2022
+09692d5a58d96089c699f59e9b7daacd066e902d,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-17-2022
+39e89fd636ee4343eb2201820da87881cbc749e2,Savni Nagarkar,savni_nagarkar@apple.com,Apr-18-2022
+92069ec0932774357f5a7babaf3ec28ca1255286,Bereng,berenguerblasi@gmail.com,Jun-3-2022
+465547fdeda9c89199724ec2198f864cef413e9e,Attila Homoki,biotep@yahoo.com,May-20-2022
+a4796b65e366f4713dc29710504570c3278afdfd,Brandon Williams,brandonwilliams@apache.org,Jun-21-2022
+36d0c4e9ae195518df72d17fef97b420f451ded3,Brandon Williams,brandonwilliams@apache.org,Jun-21-2022
+48c1b7f9b47558b46e46694bf7583dd94ef1cd36,Brandon Williams,brandonwilliams@apache.org,Jun-21-2022
+34dce0066d934970ae5c082ca1a555dd009ab97a,Brandon Williams,brandonwilliams@apache.org,Jun-21-2022
+5ed63e0a5a01bf7709bb5adc9165ccc6e6d9a7cf,Brandon Williams,brandonwilliams@apache.org,Jun-17-2022
+081d42472d5ba7446fd7e2f6cecd4b0ec6d98214,Bereng,berenguerblasi@gmail.com,Jun-21-2022
+1d39a388ba2866b77a9fb262b5953ade851f4160,Bereng,berenguerblasi@gmail.com,Jun-21-2022
+c7202f9d84f238cc561c23f98989b76e74916cd3,Bereng,berenguerblasi@gmail.com,Jun-21-2022
+a508ac06e9a24272d2f69f7a7546640626c16fc4,Bereng,berenguerblasi@gmail.com,May-5-2022
+2c7f021c56d700a7a6acde837ec86cb066b8f697,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-20-2022
+b283f0602ee26fc49113331ebbdb79fddcb485a9,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-20-2022
+c8481836e6aeacef8041d9c790cc2cb138232877,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-8-2022
+53490acf65fd0bb51ffe0d6d22d6d63f31a44272,Mick Semb Wever,mck@apache.org,Jun-19-2022
+e50e2e93fb5a9f14ac1b3f6e0a2cb922095ffa1e,Mick Semb Wever,mck@apache.org,Jun-19-2022
+15ecaaed43da46406b3073d59a9896c3ffefbadc,Mick Semb Wever,mck@apache.org,Jun-19-2022
+51fb85a9db05efac231630e0e3621a6aa65483b6,Mick Semb Wever,mck@apache.org,Jun-19-2022
+87bdbb7182af2db4b868f1001cf10f1d0af763d0,Mick Semb Wever,mck@apache.org,Jun-19-2022
+e163146fd90f34c03ac8c2d58101f277874cc971,Mick Semb Wever,mck@apache.org,Jun-19-2022
+904f964e37fc55f3bb0b8415b9a3b45f3e1541d5,Stefan Miklosovic,smiklosovic@apache.org,Jun-16-2022
+89df37d4bb1541569f1f3ba9bda88a7387d69692,Stefan Miklosovic,smiklosovic@apache.org,Jun-16-2022
+7da28ef37848d14c0ff4597dfc6e116bd9febce6,Stefan Miklosovic,smiklosovic@apache.org,Jun-16-2022
+df5d8bfea08c22e54d62e00c935187cd2623f385,Brandon Williams,brandonwilliams@apache.org,Jun-16-2022
+96ef1d231c819d1b7c87902eac16b22a2534dbfd,Brandon Williams,brandonwilliams@apache.org,Jun-16-2022
+51ce71881c87df754969809b5f6b2a466abc1e35,Brandon Williams,brandonwilliams@apache.org,Jun-7-2022
+c3dc18d6984ee232c9da8aebd4161e5a13e1cb66,Brandon Williams,brandonwilliams@apache.org,Jun-16-2022
+7f38db348e62dbfb64944a2a78ad88485b2190a6,Brandon Williams,brandonwilliams@apache.org,Jun-16-2022
+c3998ef6018644ff4d3aebcd0b7e3e1d566663f0,Brandon Williams,brandonwilliams@apache.org,Jun-13-2022
+4b1996f5c1b69db9744891f771591c42d277f0d1,Sam Tunnicliffe,samt@apache.org,Jun-15-2022
+b12a9083a97b0eaa3fafb3ef71cf1a79bde14da6,Sam Tunnicliffe,samt@apache.org,Jun-15-2022
+28690e0ebc6c4df6e2e36c04c93c52f45abda9c9,Sam Tunnicliffe,samt@apache.org,Jun-13-2022
+fca2502e1dc05876640396732ec1728e16f1944d,Bereng,berenguerblasi@gmail.com,Jun-14-2022
+92aacd6673ce78cb891255e54653cbc9cbc19e32,Bereng,berenguerblasi@gmail.com,Jun-14-2022
+bb5b2d28896328df5996cb0fc870b012315f0e80,Bereng,berenguerblasi@gmail.com,Jun-14-2022
+f884dda75b1427b8cb9aa64c46d30fb4c1eeffee,Tanuj Nayak,tanujnay112@live.com,Jun-13-2022
+557b8e9982ad0964191abde810ef5c77a536f70a,Jyothsna Konisa,jkonisa@apple.com,Jun-13-2022
+56dbc68528c92b9ccaaa34ab19640a7613124828,Stefan Miklosovic,smiklosovic@apache.org,Jun-13-2022
+67632edc51d5fc40e204ba36e11376a89c1077aa,Stefan Miklosovic,smiklosovic@apache.org,Jun-13-2022
+2531dd1ebaeab4e71f970e27a5dd962ceb6b790b,Stefan Miklosovic,smiklosovic@apache.org,May-16-2022
+067f4c74612698881feec09039d71d12a5936418,Brandon Williams,brandonwilliams@apache.org,Jun-8-2022
+fd547aff5517d41589a99ad99d7d2cd0e426e5ec,Brandon Williams,brandonwilliams@apache.org,Jun-8-2022
+cd0a40d09e5c029e3cac260ecf4cb3dc02deabc7,Brandon Williams,brandonwilliams@apache.org,Jun-1-2022
+3fdd99e60bce2e08d9495dc339cee3d941751dce,Brandon Williams,brandonwilliams@apache.org,Jun-1-2022
+1b3aec8eef6d1348177dc5a1f0ef30d4ab8b79ee,Stefan Miklosovic,smiklosovic@apache.org,Jun-7-2022
+457e16c27ee65063fa15963c58bea3e9a63c5aa5,Stefan Miklosovic,smiklosovic@apache.org,Jun-2-2022
+99d034a2245c44becb6a730c77ad51ab9340f3a7,Yifan Cai,ycai@apache.org,Jun-6-2022
+29fea66c89cc1b378aafbaca8d68d21697e667b7,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-7-2022
+9b4784bdb7d70bf99c9c290d44b053902b00642d,Sathyanarayanan Saravanamuthu,sathya.kplm@outlook.com,May-11-2022
+96d0d658a59245994437ac5d975e2228f446373b,Brandon Williams,brandonwilliams@apache.org,Jun-7-2022
+f809b6753cbbd27deab40679b99d956c8193fcf8,Brandon Williams,brandonwilliams@apache.org,Jun-3-2022
+81f2aeb02062f7ca527bdd918516692600289e15,Bereng,berenguerblasi@gmail.com,Jun-7-2022
+3dc30eb45ef52368520102f471d53061676e72cc,Bereng,berenguerblasi@gmail.com,May-31-2022
+6247c9d966d7e3886fef0c7486013578407b37e4,David Capwell,dcapwell@apache.org,Jun-6-2022
+35e05dcebdb7f03166ba94951fbb42661745786e,David Capwell,dcapwell@apache.org,Jun-6-2022
+d3ce825bf2b376fd2516e4b594ddb69037c13159,David Capwell,dcapwell@apache.org,Jun-3-2022
+30d23f1cc30519501bfcbea2886ad06f399fd5af,Jon Meredith,jonmeredith@apache.org,Jun-6-2022
+9ad849337063b79308dddc05c2798794354ea035,Jon Meredith,jonmeredith@apache.org,Jun-6-2022
+943184b1948c57fcfecdcd968bab02e2fca2ea56,Jon Meredith,jonmeredith@apache.org,Jun-6-2022
+c9a7269874032381dfebeee61073e1a37378f49c,Jon Meredith,jonmeredith@apache.org,Jun-6-2022
+ba0555e965699d64099870c0288b31d1a15b2698,Jon Meredith,https://jonmeredith@apache.org,Jun-5-2022
+3a55e0cbd0ac8174a8e231e39cc928c4e597e5ba,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-6-2022
+5875cbe839f4b5bd8df9a01d7e1b703449a8fd3d,Andrés de la Peña,a.penya.garcia@gmail.com,Jun-6-2022
+52f6ac4af91bdda4e177fdfc6342944047ab2e3c,Andrés de la Peña,a.penya.garcia@gmail.com,May-31-2022
+ce4ae43a310a809fb0c82a7f48001a0f8206e156,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Jun-2-2022
+2eac2590bfe85b76c5fc1ea7c818082e124f5ed5,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-31-2022
+063a37699c3d5b8548b9b7d926daeab3e08eb7db,Caleb Rackliffe,calebrackliffe@gmail.com,Jun-2-2022
+663e51d92868cbd045a83d7fa53e373bb28721a0,Caleb Rackliffe,calebrackliffe@gmail.com,Jun-2-2022
+a00d8fd5ba9d73a377d1a11e6f540c56d66e9c8f,Caleb Rackliffe,calebrackliffe@gmail.com,May-25-2022
+740cec41d2d67783a463bd18f70221de331928df,David Capwell,dcapwell@apache.org,Jun-1-2022
+2ae2b5c75fec97a970579cb3149c9c0677a509f4,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-31-2022
+133ad50a840c67a0ae01461e470de7e313ebed7c,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-31-2022
+3d7d064cd297b88a327edff5091404679e11d6fd,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-30-2022
+770733367fd84e6f9cb29083bd8bffb698cb14f5,Andrés de la Peña,a.penya.garcia@gmail.com,May-31-2022
+a4196cfb30363b5a05d1ca54a5191f82e4ad64bd,Andrés de la Peña,a.penya.garcia@gmail.com,May-31-2022
+fbad08979edc6cb88169c92d071b000846d6974a,Andrés de la Peña,a.penya.garcia@gmail.com,May-31-2022
+8a9ba8866db6162a7b7352a260122d6e3c219567,Andrés de la Peña,a.penya.garcia@gmail.com,May-16-2022
+c7e7984008062aa2cf2de5a1fc080674bb2139ff,Stefan Miklosovic,smiklosovic@apache.org,May-29-2022
+a604c0d4defb50ffdf7f66c3ac372eb14f39ba3b,Paulo Motta,paulo@apache.org,May-10-2022
+044294fe0f83eabba887833f167caaffcaf18438,Mick Semb Wever,mck@apache.org,May-28-2022
+d27ab73641c532f502b60f82af76c297122cf48a,Mick Semb Wever,mck@apache.org,May-28-2022
+36b73d70fb3f3acb3c3a8591982a586b2192b6c0,Mick Semb Wever,mck@apache.org,May-28-2022
+bb0e63fc389f59b98713b762ecd49e9021b1c66f,Mick Semb Wever,mck@apache.org,May-28-2022
+2b533b28c263fce199ae6ab8ed3739d0be7f851f,Mick Semb Wever,mck@apache.org,May-28-2022
+136c8c0f65cc8f2db87bb683e6eaceb05016f00e,Mick Semb Wever,mck@apache.org,May-26-2022
+2032b2f37ee18b6c9d0522afcae938ad3d60edc0,Mick Semb Wever,mck@apache.org,May-27-2022
+1ca7a11dd05fcee5e62dfbcd1a86be58540c343a,Mick Semb Wever,mck@apache.org,May-27-2022
+1a668322f40d51c672c07f67707930f48b1650a1,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-27-2022
+0f83fff99247dd0a4246e1b08ea4a023772ace1c,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-27-2022
+041c33e2d48f2b38b61a02fc9fa7490be48707ef,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-19-2022
+72d5b4d1b117a4a86cd578197ecdba667aa56343,Brad Schoening,5796692+bschoening@users.noreply.github.com,May-12-2022
+42806047f7f4b195dc9386e044544e0676b8a6cc,Andrés de la Peña,a.penya.garcia@gmail.com,May-27-2022
+0f58db94658ee4fa4af49e9499fb2dbe85e8b075,Andrés de la Peña,a.penya.garcia@gmail.com,May-20-2022
+14fbab15bd264dd1cf894bf48170cf4f30ada8a0,Josh McKenzie,jmckenzie@apache.org,May-19-2022
+1f83985ef88fe0b85566e248f93a9b09fb388e47,Sam Tunnicliffe,samt@apache.org,May-26-2022
+577fb37c7ec41bf35b62cb1f93f35b47c59c0e92,Sam Tunnicliffe,samt@apache.org,May-26-2022
+1322f03afad6390f25a962369f27ccf446cbaa5f,Andrea leopardi,an.leopardi@gmail.com,May-24-2022
+dcf3d58c4b22b8b69e8505b170829172ea3c4f5c,David Capwell,dcapwell@apache.org,May-25-2022
+a849dbb458debf9a2d98ef5a08387917bffe6c36,David Capwell,dcapwell@apache.org,May-25-2022
+68406f07e424bb8f84fd11ba19d37513c1840a91,David Capwell,dcapwell@apache.org,May-25-2022
+76648a6534845765e5f79db5d7a9f60ec347c98b,David Capwell,dcapwell@apache.org,May-25-2022
+fb8bf30c6d1b6f893a77a74b9e8b4223e5497dd4,David Capwell,dcapwell@apache.org,May-25-2022
+e9edf16c7f49cf81a26339470465d46964acb869,Brandon Williams,brandonwilliams@apache.org,May-25-2022
+39d372539f224eb1eaa3b6209610142abe74712c,Brandon Williams,brandonwilliams@apache.org,Mar-30-2022
+80d94245be9806f1e8ae0ab3c6d4d4d6898383f8,Brandon Williams,brandonwilliams@apache.org,Mar-31-2022
+ed3901823a5fe9f8838d8b592a1b7703b12e810b,Jyothsna Konisa,jkonisa@apple.com,May-24-2022
+8c6b409116881a611623ac1a5a473003b18883f2,Brandon Williams,brandonwilliams@apache.org,May-24-2022
+00250199c0bbfc8c9cae367f835f9075354c6b91,Brandon Williams,brandonwilliams@apache.org,May-24-2022
+7ea24711cc10dd4d846427f76c30c347cbdf3d26,Brandon Williams,brandonwilliams@apache.org,Apr-20-2022
+12751587818de4ae586a02c7d8568d815a4c0956,Josh McKenzie,jmckenzie@apache.org,May-23-2022
+951aff25a1183f41fd146d674136399f3f25b3f0,Josh McKenzie,jmckenzie@apache.org,May-19-2022
+372d23b1fa2701a74eddb47ad93412f38ec0bfcf,Mick Semb Wever,mck@apache.org,May-20-2022
+6f05be447073925a7f3620ddbbd572aa9fcd10ed,Mick Semb Wever,mck@apache.org,May-20-2022
+c0b175595dcbb6aac65448d182f66cb12db3157f,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-20-2022
+a67a2a2441589e8bf41498c426fddacd7b9719cf,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-4-2022
+c2a5c923b8b077a69c307f0766abb6eb64538427,Mick Semb Wever,mck@apache.org,May-20-2022
+33b6a3d0f97b0ed49119ab570580af939340cdb0,Mick Semb Wever,mck@apache.org,May-20-2022
+56ce8d1f7f90fa9dd9d1b0e3507dab0cd2dec0cf,Andrés de la Peña,a.penya.garcia@gmail.com,May-20-2022
+c1d163abad7279c7d8bb4e76bb39de47c90bbec7,Andrés de la Peña,a.penya.garcia@gmail.com,May-20-2022
+5cf6db30f6b907e573c20b4f7b2958fb7e8995e1,Andrés de la Peña,a.penya.garcia@gmail.com,May-20-2022
+0e1d068d9237de39b53992522eba4b40afb0e72b,Andrés de la Peña,a.penya.garcia@gmail.com,May-20-2022
+ffc4c89c3df7ad0ae73ebefdcb7e15a2790c0a52,Doug Rohrer,drohrer@apple.com,May-17-2022
+23e5da93580401ea1b3203a64d875d992117ee57,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-19-2022
+c635f198f6ceca272e61b857b67fd91f23da3836,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-12-2022
+733a4a58ef1a285031d0dd62f427327f36f31120,Bereng,berenguerblasi@gmail.com,May-19-2022
+0a7084a05d17c94879873d91ec95dada8bd285a1,Bereng,berenguerblasi@gmail.com,May-19-2022
+af24242af913b63b29691251025d2aa54e3890bd,Bereng,berenguerblasi@gmail.com,May-12-2022
+26dd119679605bf61ad3caa24a70509e5be5aac9,Yifan Cai,ycai@apache.org,May-18-2022
+3c034e1bb57df01146158d6e6664de96630ddca9,Brandon Williams,brandonwilliams@apache.org,May-18-2022
+c47dbf0a478c7a5a8e0dddc3291d9eee460d4b30,Brandon Williams,brandonwilliams@apache.org,May-18-2022
+6158dccbcb7716d6f907311242b2693427340ec2,Brandon Williams,brandonwilliams@apache.org,May-18-2022
+01ebd9936f64e0733d587082c5facae1660fb08c,Brandon Williams,brandonwilliams@apache.org,May-18-2022
+a482e374356fa401829e5e562460087b1d79927a,Brandon Williams,brandonwilliams@apache.org,May-18-2022
+d84f78ff3455b8d0f580910668ced98fd83238a4,Bereng,berenguerblasi@gmail.com,May-18-2022
+21553a5199cc8c12ec520f66eadbaa9447d1fa78,Bereng,berenguerblasi@gmail.com,May-18-2022
+27b5a017eaeb692cead5266cef43175b729fbe88,Bereng,berenguerblasi@gmail.com,May-13-2022
+7b927eaad3c42657951df688673598b2594514d4,Mick Semb Wever,mck@apache.org,May-14-2022
+8ef34fd2b67991f98aae0e9b7ec1cc92c328ac7f,Mick Semb Wever,mck@apache.org,May-14-2022
+4b93dbcf84f0a513adb30f475beba499ee632b90,Mick Semb Wever,mck@apache.org,May-14-2022
+9810922cf1e1a4f63a4f7e0617a9fefefcb08fbe,Mick Semb Wever,mck@apache.org,May-14-2022
+756683c7cf1199b1a2af870b2f033b40cbd0bb6e,Mick Semb Wever,mck@apache.org,May-6-2022
+6ad666e3a845d12af62083f0c05326e01491a98a,Mick Semb Wever,mck@apache.org,May-6-2022
+f20f17b4a7e7a59841a125b13f2fb0074564033d,Mick Semb Wever,mck@apache.org,May-14-2022
+d6cfa3396bb1467b7b99ffc52c8777c1bfcc6a3e,David Capwell,dcapwell@apache.org,May-13-2022
+f451c2b02827fd1db34a14e7603a52ffe4fb188e,David Capwell,dcapwell@apache.org,May-12-2022
+b9101d21bd349be506522e055bc34efe1fba5a16,Brandon Williams,brandonwilliams@apache.org,May-13-2022
+7dbea1a8cb92d14f97532615b39d9aa20625b403,Brandon Williams,brandonwilliams@apache.org,May-13-2022
+ac0266be693f8f36df11fa5c62eb044014d23fa0,Brandon Williams,brandonwilliams@apache.org,May-13-2022
+d043217ff0e16ee3fa14e84def4ba33a458b542e,Brandon Williams,brandonwilliams@apache.org,May-13-2022
+5d427ff6e535ba60f0d2f3e07781de9fcdc8fd42,Maciej Sokol,maciej.sokol@ericsson.com,Apr-19-2022
+e0247d6833f59901e6849e168f6e2363351c6f4c,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-10-2022
+f57c8d2c25f3a7c2b845ad9205ad25a9b04cca34,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-17-2022
+9e49a2b21d7e7234d580df840d59a4f1e93a5ee9,David Capwell,dcapwell@apache.org,May-10-2022
+89fbb1acf42c97f57ce7301674ab6f9647320c65,David Capwell,dcapwell@apache.org,May-10-2022
+95848870403413e216135976a780596b8085b8d3,David Capwell,dcapwell@apache.org,May-10-2022
+6396562f71316838083618714b142fd982ae0155,David Capwell,dcapwell@apache.org,May-10-2022
+53a67ff2c36d90d337aba1409498de29931d4279,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-9-2022
+5b3e7b9994d84e8c0e48c179d97d86f2d13e4c3b,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-9-2022
+bbb11086c4e9a1bd889b4ba10f57f7dc3a6edd38,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-9-2022
+e5c96230aca5118d9307c9efc38bebf38d795e85,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-9-2022
+0bcc3549920aa218750dabdceb734430a3942882,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-7-2022
+60ee33ed06ad3dc0ff641fd5c86273569148bd0c,Yifan Cai,ycai@apache.org,May-9-2022
+8fc39685fbb6c963cf0d86fd458069ab80bbcece,Yifan Cai,ycai@apache.org,May-5-2022
+ce515a3d77c2042575827e8bdb1da639fc957491,Josh McKenzie,jmckenzie@apache.org,Mar-23-2022
+11bdf1bf8038fa7f872fe9161a0568d023e6cfac,Alex Sorokoumov,aleksandr.sorokoumov@gmail.com,May-9-2022
+9f3bc657273dfa9e20d233636adf662904f01f34,Alex Sorokoumov,aleksandr.sorokoumov@gmail.com,Apr-19-2022
+013acc641c5d487b07be5c082af1e85d26bd127f,Bernardo Botella Corbi,contacto@bernardobotella.com,Apr-18-2022
+c48906394e01460382f4070ecc34f6f9754fc567,Yifan Cai,ycai@apache.org,May-5-2022
+acb5337e92c3032297c7fb9cfa7af4ef578c7c27,Benjamin Lerer,b.lerer@gmail.com,May-6-2022
+596daeb7f08e14d69af90fd4f07b9e87f2816681,Benedict Elliott Smith,benedict@apache.org,May-6-2022
+2f1c7859106031a608394aeb2f9e6d565510b481,Josh McKenzie,jmckenzie@apache.org,May-6-2022
+030831c5f5457c37ba78f0539898bb6cbd676823,Josh McKenzie,jmckenzie@apache.org,May-2-2022
+6f612578891d8b1bc0cdb0ae0dc3c4c8f5ddb385,Brandon Williams,brandonwilliams@apache.org,May-5-2022
+c9ed13c4257c7e7f351c3d3e77b70cb62fb210cf,Brandon Williams,brandonwilliams@apache.org,May-5-2022
+a524cd4907bec475b71f1a9c75faecfadc6e6485,Brandon Williams,brandonwilliams@apache.org,May-5-2022
+aeced876b51ec9e9479948c39c6708a0d7a1dc07,Brandon Williams,brandonwilliams@apache.org,May-5-2022
+61d4cccb0b137422f8cc8e2a294700753c5a6247,Jermy Li,jermy@apache.org,Apr-25-2022
+0541e5b078a2fe6cb0199e72f1a735a6f565ef08,David Capwell,dcapwell@apache.org,May-4-2022
+559b17f71d3207158d34b1dd2414a531e362af20,David Capwell,dcapwell@apache.org,May-3-2022
+6c20fbca4a42dc0dde8910ce2b1096861957040c,Marcus Eriksson,marcuse@apache.org,May-4-2022
+3b648ca09ecfc100d5ad2e3b462d4949dbc03498,Marcus Eriksson,marcuse@apache.org,Apr-28-2022
+c6207171f283d595a8d00f7719a524b2329f413f,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,May-3-2022
+523d38095f6c7f33c602616db3a7373bbeb0cde9,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-29-2022
+99bf8ba465b15baa59d3dc4e0ed861721dabd191,Mick Semb Wever,mck@apache.org,May-3-2022
+2480a7e7ee64791acec6add38e134753b95236fd,Mick Semb Wever,mck@apache.org,May-2-2022
+963c24969e2d58840a53024d1f405fd6f83a71db,Mick Semb Wever,mck@apache.org,May-1-2022
+62af03dc84d3fe6d9dd23567394f8b2b5047794e,Mick Semb Wever,mck@apache.org,May-1-2022
+4bab12c5785da040ddd4403e29797b4333613e2c,Mick Semb Wever,mck@apache.org,May-1-2022
+413f1aed27baee6e543ad2992f7a829deaef670a,Mick Semb Wever,mck@apache.org,May-1-2022
+7741eacc546f80fe4324c7821fcf2c029f64b1f9,Paulo Motta,paulo@apache.org,Apr-29-2022
+31aa17a2a3b18bdda723123cad811f075287807d,Paulo Motta,paulo@apache.org,Apr-28-2022
+458bfd16c7ec759705f920e7ef9a8f2bb5a3f4b5,Jacek Lewandowski,lewandowski.jacek@gmail.com,Apr-26-2022
+e4e19e33faf9ac7cf27a9779c8083a7f5c5b865a,Branimir Lambov,branimir.lambov@datastax.com,May-14-2021
+77d6bbf25a59d44422f0cbee2631f2fca9170e1a,Jacek Lewandowski,lewandowski.jacek@gmail.com,Apr-28-2022
+bd36cb9f6b8cc6339f43382bf6625794b641552b,Stefan Miklosovic,smiklosovic@apache.org,Mar-28-2022
+7ce140bd1dea311b9f98cdfbcd07dcff9fbd457c,Marcus Eriksson,marcuse@apache.org,Apr-7-2022
+da7c66222740f02c6de5b563681dd381d28f8201,Savni Nagarkar,savni_nagarkar@apple.com,Apr-28-2022
+bb3749f2bb8282f67375c67712d8e3ca1f085879,Brandon Williams,brandonwilliams@apache.org,Apr-28-2022
+eac7b1de35dbae5b7507f422cce4cb1862bdad47,Brandon Williams,brandonwilliams@apache.org,Apr-28-2022
+4bb1a07b5be16b35d33ef5a4645a1209dffa9759,Brandon Williams,brandonwilliams@apache.org,Apr-13-2022
+2180a34bbb3443126168c733644b092aac1d731c,Stefan Miklosovic,smiklosovic@apache.org,Apr-27-2022
+bcf56629e821295a22371c2cf178faae0636c68e,Marcus Eriksson,marcuse@apache.org,Apr-26-2022
+0c37176673ca71a75990a26e421b5991db6eefe1,Jon Meredith,jonmeredith@apache.org,Apr-27-2022
+2405d523fa44d1379b4dd1df0874919299b00c44,Jon Meredith,jonmeredith@apache.org,Apr-27-2022
+804098e68be0f60e495715f745987b364a2e82d9,Jon Meredith,jonmeredith@apache.org,Apr-27-2022
+2fdbda6ac98f161513f80e7bbab4ea8ca1c8528a,Jon Meredith,https://jonmeredith@apache.org,Apr-26-2022
+6bd373f5d27754f80384caa31d1b2a4cfc43bc19,Josh McKenzie,jmckenzie@apache.org,Apr-18-2022
+381c2a4fa82db80543fd67da6669de022d7576c4,Bhouse99,bhouse99@protonmail.com,Mar-30-2022
+f444c4028680c78b6167161833d6564c3557618f,Savni Nagarkar,savni_nagarkar@apple.com,Feb-17-2022
+545809616c92a91e4c39d1eedfa65800f25a2a93,Marcus Eriksson,marcuse@apache.org,Dec-3-2020
+49cc352916f8dad23533b5328638aeb05ac04ea1,Andrés de la Peña,a.penya.garcia@gmail.com,Apr-23-2022
+3409e5d9b341de2114d6410225922843539d4172,David Capwell,dcapwell@apache.org,Apr-22-2022
+2b90ac1a1671b4071d9aa6f18e852021bc66702d,David Capwell,dcapwell@apache.org,Apr-21-2022
+003a96b6a6f649f99138b94c52d28b73c2c3547a,Benjamin Lerer,b.lerer@gmail.com,Apr-22-2022
+018c8e0d5e8bc55fc51d3361fcb27c3c1fd189f6,Benedict Elliott Smith,benedict@apache.org,Dec-10-2021
+2723c91878cfd7005a53f6118015c484dacc0f32,Andrés de la Peña,a.penya.garcia@gmail.com,Apr-22-2022
+2873c9126979e21a8089e9a18d96af802745dbc2,Andrés de la Peña,a.penya.garcia@gmail.com,Apr-13-2022
+b3842de5cf1fa1b81872effb4585fbc7e1873d59,Andrés de la Peña,a.penya.garcia@gmail.com,Apr-22-2022
+c26dc06a28b0e150384474001ac23026ae76e6d5,Tibor Répási,rtib@users.noreply.github.com,Apr-20-2022
+1ad8bf67a9c82cbb5ff38e5cf785f9fe2516d009,Benjamin Lerer,b.lerer@gmail.com,Nov-4-2021
+7db3285e7b745e591dc4c405ae9af6c1cddb0c79,David Capwell,dcapwell@apache.org,Apr-20-2022
+d80bb323c9dd8f814fe02e16dec510557c7d5101,ROCHETEAU Antoine,arocheteau@jouve.com,Jan-6-2022
+0d860ec662b0088ea7f77f98051121e198eb5692,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-22-2022
+dac738d2eba8629d4f482d7cbfd855d2c5b9df47,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Mar-22-2022
+03ef67c9d54a8cd52e120ffceb033fc49403dc2b,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-17-2022
+a46e4677373dbb8ea9daa62fae763e7d0d72b2e2,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-17-2022
+eeb89ea53bf4a99ffff04007045e5638c30941b5,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-17-2022
+fb66800a00aeaa8046cb3e6b1401fdc4f81848d5,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Apr-8-2022
+74bb6d8496d5a2a5b89a843ba764fe37b65ee331,Stefan Miklosovic,smiklosovic@apache.org,Apr-11-2022
+47cac5c49b93d205fa9b3a57ce55470887c5be45,Josh McKenzie,jmckenzie@apache.org,Mar-22-2022
+72af1f75fccf877f8996da0a0d8bc1a6adcd30e0,Josh McKenzie,jmckenzie@apache.org,Mar-31-2022
+634131961af9c1d88b34797c1c45000f71a76dae,Brad Schoening,5796692+bschoening@users.noreply.github.com,Apr-11-2022
+8d324f2aeb0e0871504ecac702b5b37f758dccb0,Brandon Williams,brandonwilliams@apache.org,Apr-13-2022
+b73b9bbd11a9da8321ff4f768f9a58d79eb88292,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+a76c7c1f1cd7b4703882c9c6576a52c1201ea9b3,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+d1270c204f31578212bfca5860ab46abeaec22b9,Brandon Williams,brandonwilliams@apache.org,Apr-13-2022
+c9e1f42dd683bd3bf3972370e04bd730abb68e4c,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+d23fa585c38abbd47fa02fcdee275564be0e082a,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+cde152cdb71a2d50ab3a8353bd61ef75d6e31284,Brandon Williams,brandonwilliams@apache.org,Apr-13-2022
+84bc0e8c3b126199653ba34a7aea81999de89dde,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+39c8d6aa57e825e5b7f55eb13c5cf7eebc18c6ad,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+62798f21436f0fbc0142bb48f9a0d17857c30d8b,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+02a7a1cd50b8f5ba860996afb32da6e38e4a969a,Brandon Williams,brandonwilliams@apache.org,Apr-4-2022
+2fe1c304835ef39093b70cbb89107383be3c3ee9,Bernardo Botella Corbi,b_botellacorbi@apple.com,Apr-12-2022
+6013f16de7ce79be30fbae29d8562b78e11cd325,David Capwell,dcapwell@apache.org,Apr-12-2022
+1ebdc7e758ea3ab87d31cbaee0b8c6eb5efb3b1c,David Capwell,dcapwell@apache.org,Apr-12-2022
+d7a9f41cf14e5b8177a08d36cb5477a3436f21b4,David Capwell,dcapwell@apache.org,Apr-12-2022
+850336217b438ca8623e26c7efe02c993f82c46b,David Capwell,dcapwell@apache.org,Apr-11-2022
+20175bf77e2c6f72c25240ee445b583805a37630,Savni Nagarkar,savni_nagarkar@apple.com,Mar-29-2022
+e3b3a59c6c2832bcbd3850340f0138e876cfcb5d,Jon Meredith,jonmeredith@apache.org,Apr-8-2022
+ce6a65cb294af3b68ab2f4bba7945b097de42576,Jon Meredith,jonmeredith@apache.org,Apr-8-2022
+2fde9af74f12179fd8b3d592adc9a24d8b2d8f23,David Capwell,dcapwell@apache.org,Apr-8-2022
+537321e9c7d2696cddc35e808a48846cb67ba52a,Marcus Eriksson,marcuse@apache.org,Apr-7-2022
+af90c3634007ba9b2967267d6f8383d38cdff85f,Caleb Rackliffe,calebrackliffe@gmail.com,Apr-5-2022
+910bbb9b5fced249696930c2e38240a9b0f51bb5,Josh McKenzie,jmckenzie@apache.org,Mar-29-2022
+105d69fdc531d0882f628cd4bf1e34288280c12b,Josh McKenzie,jmckenzie@apache.org,Mar-30-2022
+01c4404fff8c3dde071d4b9d0327acbb299be688,Josh McKenzie,jmckenzie@apache.org,Apr-1-2022
+828d98e9d7643501ee3ac9fa45d46d0b596cfb11,David Capwell,dcapwell@apache.org,Apr-6-2022
+885836bc492a09bba2f11cba3cddb7ab15a00dc1,Brad Schoening,5796692+bschoening@users.noreply.github.com,Apr-5-2022
+9711cd33c4d0d4a69279c8a79d8a8460accf1f12,Brad Schoening,5796692+bschoening@users.noreply.github.com,Apr-5-2022
+9d9c6d2750babc746f33f4b54f8f60a11d2ede86,Bereng,berenguerblasi@gmail.com,Apr-6-2022
+f28dd90feb215db85ac2e510c5657a49edd46e12,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-26-2022
+e137c7c34cc10d4f8c9124c6f9af17a44061ab1f,Jogesh Anand,jogeshanand@gmail.com,Nov-14-2021
+bdde665032679bd197566cfeea34b52538da4f1a,Bereng,berenguerblasi@gmail.com,Mar-29-2022
+fa7185ef02c313ff322fcc50d2de03186b9f96a7,Jon Meredith,jonmeredith@apache.org,Apr-1-2022
+ffa1e9cf5a5646707da282460fe765d56fa78cb0,David Capwell,dcapwell@apache.org,Apr-1-2022
+d70f6e0d597e888b3629c6c01d05685cf79a3d12,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-31-2022
+d44f527d70f0a8d254b7f76a8aa1b262618da5d5,Brandon Williams,brandonwilliams@apache.org,Mar-31-2022
+c22accc46458d0a583afcf6a980f731cdcc94465,Brandon Williams,brandonwilliams@apache.org,Mar-31-2022
+f32d2b06de63258888f28c0dba33db4912be6da8,Brandon Williams,brandonwilliams@apache.org,Mar-24-2022
+9808a4d8ed9c4319dac79dd1f13e2328e64b0a20,Ruslan Fomkin,ruslan.fomkin@gmail.com,Mar-16-2022
+1a4dccd3b9f9bfefbccbbe383982306d3aeea1d1,Josh McKenzie,jmckenzie@apache.org,Mar-29-2022
+768bdffe5298b937bfafc2eb42fb93454cfca521,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-10-2022
+b9d9f9c7dab9b39fb27a4be0b6d9ce2a8718167e,David Capwell,dcapwell@apache.org,Mar-29-2022
+57ab3afcf16970047d3df4656241cf0705e94bee,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-14-2022
+c6cf374c9636020bb6ee428aa88a8736d4a9f115,Brandon Williams,brandonwilliams@apache.org,Mar-29-2022
+897a2519bff89b4789ec128d9cfe7d6af9749a63,Brandon Williams,brandonwilliams@apache.org,Mar-29-2022
+a6864cccd4c0631a3ae88242739bc592755c349c,Brandon Williams,brandonwilliams@apache.org,Mar-28-2022
+2c625e10b8586cbde9f671f870a95b238140cda8,Brandon Williams,brandonwilliams@apache.org,Mar-29-2022
+fd1f245353584833b8569666c115c6c64755c2c9,Brandon Williams,brandonwilliams@apache.org,Mar-28-2022
+7b58b79fe24c612f8bbf7984c325e88496f482d6,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-28-2022
+0089858819c9f06b0bee5bccf993ae7f5977d7f1,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-15-2022
+813e6ae4a09b7172f3be276637ba7e29f6463405,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Mar-28-2022
+3d9365096bc579d10e417278576d650611105120,Josh McKenzie,jmckenzie@apache.org,Mar-23-2022
+8a3b9260a9494af56356f4c9829c4068b7ea182f,Andrés de la Peña,a.penya.garcia@gmail.com,Feb-11-2022
+7c1ed6c4092baf34bbfeda5c71b5b2ac25961ff1,Stefan Miklosovic,smiklosovic@apache.org,Mar-28-2022
+cd5f215c72dde43d367c065cdc9cd18d940623bd,Stefan Miklosovic,smiklosovic@apache.org,Mar-25-2022
+d0458abdb321a48771631278e3b09dd7aa4e2edc,Yash Ladha,yash@yashladha.in,Mar-25-2022
+dc521cca432a4a7f05cbd3c852c029536c123589,Brandon Williams,brandonwilliams@apache.org,Mar-25-2022
+4e19c9495142196e076ab2be73a30ce6a8e2cc9f,Brandon Williams,brandonwilliams@apache.org,Mar-25-2022
+3a7e5f8ed8bb3abd717c21dfa30074ba94516040,Brandon Williams,brandonwilliams@apache.org,Mar-25-2022
+cd870fe645305d934c5f1799c4c7c9e6b8b7d1e3,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-25-2022
+05fa92475ccb2beb70a96ddee83c04b65a2cdbfb,jacek-lewandowski,lewandowski.jacek@gmail.com,Mar-25-2022
+298abb458638a1ec41463e934d3dff2f4124ad69,Brandon Williams,brandonwilliams@apache.org,Mar-25-2022
+60269bff2bd2e11fefdbe11747cca75491e6c9df,Brandon Williams,brandonwilliams@apache.org,Mar-25-2022
+234bdc87a53a464596b3baae42777dab1e5f52b3,Brandon Williams,brandonwilliams@apache.org,Mar-24-2022
+e9ca46546875f0e1737ed88a6c5823b9b127c0bb,Stefan Miklosovic,smiklosovic@apache.org,Mar-21-2022
+10103d353c3d63505cb119cda0e38e692cdb1809,Josh McKenzie,jmckenzie@apache.org,Sep-30-2021
+a64e218d0f2403cb3e5e45eb9e1455138226e5c1,Brandon Williams,brandonwilliams@apache.org,Mar-23-2022
+4f5feac0dffe2e8b4ae1cb32670e4902fab11ccc,Brandon Williams,brandonwilliams@apache.org,Mar-22-2022
+0040fea3797ea3e497691e9d1e2660711c60ac4d,Jacek Lewandowski,lewandowski.jacek@gmail.com,Jan-24-2022
+30ad754d7e95501ffa916bf986e4cfda1aa5e441,Bereng,berenguerblasi@gmail.com,Mar-1-2022
+94580a272e77439e4150926a1bd1e723a36236e6,Jon Meredith,jonmeredith@apache.org,Mar-22-2022
+fbd6b047915d9810bf5e3131ba11c9374b3834a3,Josh McKenzie,jmckenzie@apache.org,Mar-22-2022
+305cb940c3be63f2eb74a745d60d70abaa0d2e2c,Brandon Williams,brandonwilliams@apache.org,Mar-22-2022
+592cee30640f7d5ca0fc80cefb1c9dad24a58a81,Brandon Williams,brandonwilliams@apache.org,Mar-21-2022
+94c2ad5304b687cf78a7ddbc660a2651c9d04dc1,Brandon Williams,brandonwilliams@apache.org,Mar-22-2022
+b465fec7707555a1bfc8ac80fd655550b9e97f1f,Brandon Williams,brandonwilliams@apache.org,Mar-21-2022
+6a3edecd21eba5001ebe5ffcf5397fc8a6c7c1e3,Erick Ramirez,erickramirezau@apache.org,Mar-22-2022
+a14700bf76dfdcc90ffb39ba5f56cd52a0ac74c4,Erick Ramirez,erickramirezau@apache.org,Mar-22-2022
+84f629752fea8fa060d24c912369d90070bcfc52,Erick Ramirez,erickramirezau@apache.org,Mar-22-2022
+952263dcea4f8d8072f03a341a03d001be0962ea,Sathyanarayanan Saravanamuthu,sathya.kplm@outlook.com,Mar-19-2022
+4ea3e4c5050ba11a5b7897af74bb54e7e8dad068,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-14-2022
+143a5e8b064e442970182cfb349b4f0826683e85,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-3-2022
+2f84f492a21ee4e6bfc581c07a5817591a783f76,Bereng,berenguerblasi@gmail.com,Mar-21-2022
+6946b304e94a8a8d1250680664ddc03b61a139c9,Bereng,berenguerblasi@gmail.com,Mar-1-2022
+212a76233ff5a5944faa86b26e976d5694c8abe4,Mick Semb Wever,mck@apache.org,Mar-21-2022
+9711f541b33ec2043de04cd4c47cafd122538b4a,Mick Semb Wever,mck@apache.org,Mar-6-2022
+8714f926857ac1507b69957139fe0429e4979c39,Stefan Miklosovic,smiklosovic@apache.org,Mar-20-2022
+d48df9169d920ab9208fd1a7b3cad6a625045047,Stefan Miklosovic,smiklosovic@apache.org,Mar-17-2022
+e417fea126f940b6d1f2a2fa22274aa4cf63b24f,Jon Meredith,jonmeredith@apache.org,Mar-19-2022
+f8be6ea60cb9320bdcf1354a34bba053f6501d91,Jon Meredith,jonmeredith@apache.org,Mar-19-2022
+311e26bf0589b5035e0ea2a75dd543a1da0f15bb,Jon Meredith,jonmeredith@apache.org,Mar-19-2022
+647ec92db17e1b1a3677e7880849a29c0c30adde,Jon Meredith,jonmeredith@apache.org,Mar-18-2022
+d67be0def4085863a039d5d3809a9457e883919b,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Feb-17-2022
+34a7eba4b8d1813ad782fe2432cdfd85fa24e6c1,Benjamin Lerer,b.lerer@gmail.com,Mar-18-2022
+e773bbd9c6c52a2fedc127cb7ab77a1fdbeb63d2,cclive1601,cclive1601@gmail.com,Jan-21-2022
+96cecdbaa685b86bd2ac1d10545f9b9a39bbfdea,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-16-2022
+302c6fcf59c5fa9fcd475b2c811ad57ae7c45f49,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-10-2022
+f1c1694e4329a1f6dba8b978edaed4312e235116,Doug Rohrer,drohrer@apple.com,Mar-17-2022
+69138553859277f9beff217a463703d36bca2e29,Stefan Miklosovic,smiklosovic@apache.org,Mar-17-2022
+431c692b884395b16beadac1d10f7e674b3e7ed5,Jon Meredith,https://jonmeredith@apache.org,Mar-15-2022
+f7009cf3409b005710e8a5c9cae66c3c56de6f66,Maciej Sokol,maciej.sokol@ericsson.com,Mar-14-2022
+7275443eca804f5dde405f45811441dbc0c1f9fb,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-10-2022
+61be4d836213f708d9a29e59b9ef1df0bebef29a,Francisco Guerrero,frank.guerrero@gmail.com,Mar-16-2022
+935bcf1e8732a4138c15205896945c2f02ddb844,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-15-2022
+56ec75cc6524e7c514c64a1db839d9da738e42b6,Jacek Lewandowski,lewandowski.jacek@gmail.com,Mar-15-2022
+6f2075acee9ef0041a043917497f59fec194d8ac,Stefan Miklosovic,smiklosovic@apache.org,Mar-15-2022
+f3123a6538af511421582e1596d3daa24d9df1d6,Brandon Williams,brandonwilliams@apache.org,Mar-14-2022
+951645a1fc4486f2b941c4eb72c429780badca07,Paulo Motta,paulo@apache.org,Mar-14-2022
+5f50c797bc2746c6e5d37389fa020e708d55b0b4,Paulo Motta,paulo@apache.org,Mar-14-2022
+95a622305722889c321204c4bca68a3517a29aab,Paulo Motta,paulo@apache.org,Mar-14-2022
+3b1ce69fc1609538be8eac81c4ac4da12af49bff,Brandon Williams,brandonwilliams@apache.org,Mar-14-2022
+d9bd03552d955a76c0800e659d45ce8f2aa6ef69,Brandon Williams,brandonwilliams@apache.org,Mar-14-2022
+541d769042c8677a17611b43a2cea88e1a64144b,Brandon Williams,brandonwilliams@apache.org,Mar-14-2022
+34f59904f59fb54ee6413127e57a3cbe57fbfa30,Brandon Williams,brandonwilliams@apache.org,Mar-10-2022
+0ecd48001fab88d2d53c717ef47cd3bc0d1369d0,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-11-2022
+7b91e4cc18e77fa5862864fcc1150fd1eb86a01a,Caleb Rackliffe,calebrackliffe@gmail.com,Mar-10-2022
+a41040ccdcec651bffb4d23843ab9be2d96ba1d1,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-11-2022
+2b2c6decfafc6235ad537e72073fab2fd4467e2f,Jacek Lewandowski,lewandowski.jacek@gmail.com,Sep-30-2021
+51e6f8ecc122279ea946b08c528e11105efb40f5,Ekaterina Dimitrova,ekaterina.dimitrova@datastax.com,Mar-10-2022
+d2923275e360a1ee9db498e748c269f701bb3a8b,Benedict Elliott Smith,benedict@apache.org,Mar-30-2020
+8960b4d8513e22c4c11c181c520380342935aee7,Benedict Elliott Smith,benedict@apple.com,Nov-30-2021
+5a0d6154d144b958404a4d7117602d35157848ba,Benedict Elliott Smith,benedict@apple.com,Nov-30-2021
+eb960b19170e36bd9c52365ef15514a4d1ed9419,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-10-2022
+bdeafa0b79697b481ef4272fee606e70dad6764c,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-10-2022
+fcdb3d154ed111dbeefe8283bf729d6bd172384a,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-10-2022
+c52b5ab95cf314a7983141f74c97744ff3ecbc81,Maciej Sokol,maciej.sokol@ericsson.com,Mar-10-2022
+852d7b667d28e5dbd7f20a3a16234b30da07ff56,Stefan Miklosovic,smiklosovic@apache.org,Mar-9-2022
+60675cc2759db0c5629604279e70c51e10dfefd6,Marcus Eriksson,marcuse@apache.org,Mar-2-2022
+ca218cc012dd8a345259bd75e945eeebdf77eef1,Brandon Williams,brandonwilliams@apache.org,Mar-8-2022
+04c1289bb96a656bfc9cbf9eb7eb1ff9358f4b6f,Brandon Williams,brandonwilliams@apache.org,Mar-8-2022
+b18a9f03377059d9caae8894e8734c2380344b66,Jan Karlsson,jan.karlsson@ericsson.com,Mar-1-2022
+da2b35b776fe5304611707b4fe3f65462346755f,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+59ea4f8efd83c90ff852fde3ae5a0e1866a6601e,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+67b14e47c344fcacba258298ac6a61dadc06817c,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+4a15c5ad5a1a6b29be9aac6a8133f4dd936e1379,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+c0c0f6186929068b87b5e0e3018e931f11fff3f1,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+d9766f5ade839fc741543fffab2d4837a8e8b551,Stefan Miklosovic,smiklosovic@apache.org,Mar-8-2022
+8def4fd7fb5fd73cb06e66381c3de3b99e397f07,Stefan Miklosovic,smiklosovic@apache.org,Mar-3-2022
+3233c823116343cd95381790d736e239d800035a,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-8-2022
+ac34f28e31bbc294db80e2b5d06f8904a7f41a46,Bereng,berenguerblasi@gmail.com,Mar-8-2022
+537d02d25f1953f1907d44106f83874ac73e06b4,Tibor Répási,rtib@users.noreply.github.com,Jan-4-2022
+27ab63f00501a6afda94e760efab8af3e90c598b,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-4-2022
+ae50cbd1ad2120bb070489e7b94d1f8ca393a4b9,Stefan Miklosovic,smiklosovic@apache.org,Mar-4-2022
+0d8126dd143898588f4efcdc40b8e2bb10597185,Andrés de la Peña,a.penya.garcia@gmail.com,Mar-7-2022
+a690f339ab0f2b98c69621ca5a0bad10ae9a7919,jacek-lewandowski,jacek.lewandowski@datastax.com,Mar-7-2022
+f0ae5364b4e953466e21b9720ff6bea3789097d1,Erick Ramirez,erickramirezau@apache.org,Mar-5-2022
+0b4d99b6aee8f41ed9542ad078aab086b6d5a021,Erick Ramirez,erickramirezau@apache.org,Mar-5-2022
+ac4cd09cce2886f3e7393cdcd1321152140ec6ec,Erick Ramirez,erickramirezau@apache.org,Mar-5-2022
+00cf266a8f6e94c90d255ee8545b4ac324c88638,Erick Ramirez,erickramirezau@apache.org,Mar-4-2022
+f1c7bf9a54e639666bacdadc28d8665d1ddd13d3,Erick Ramirez,erickramirezau@apache.org,Mar-4-2022
+477d006c6c7bf82a2b1abca1d675032de2f02114,Erick Ramirez,erickramirezau@apache.org,Mar-4-2022
+df9586da3323bcd817b658ed7cab8dc94a66c20d,Yifan Cai,ycai@apache.org,Mar-4-2022
+fd5e2ad74eff61e189c2abe87797c2690a45220c,Bernardo Botella Corbi,b_botellacorbi@apple.com,Mar-3-2022
+c408931aa262353845c926f367ad06d27d9f164e,Brad Schoening,5796692+bschoening@users.noreply.github.com,Mar-1-2022
+754fc5d075a8c969708551851235901d9db1394a,Brandon Williams,brandonwilliams@apache.org,Mar-2-2022
+2f3923a44f662bb9664c34711f847dc9970f10ea,Brandon Williams,brandonwilliams@apache.org,Mar-2-2022
+7daa65675f01a84788af178af5b7c08de14423e3,Brandon Williams,brandonwilliams@apache.org,Mar-2-2022
+3e6bbfb854697791be55c13ed3bfa578e400c9b4,Brandon Williams,brandonwilliams@apache.org,Mar-2-2022
+a8bbd22d3791c5d0b696f8c0ef5cedb4e82f01b5,Dmitry Potepalov,dmitry.potepalov@aiven.io,Feb-9-2022
+0e249fd15ee209594e6d85db7e81a19c67d6ad6f,Dmitry Potepalov,dmitry.potepalov@aiven.io,Feb-9-2022
+e87a1e0c0a19c64ed2edc2d340c0f8af16776e2c,David Capwell,dcapwell@apache.org,Mar-1-2022
+445e49a0c8e2fb52bf9e4370efd7f0495bc8e00a,Brandon Williams,brandonwilliams@apache.org,Feb-28-2022

@@ -1,0 +1,7 @@
+file_path,method
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,verify
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,times
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,verify
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,times
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,thenReturn
+/commons-compress/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStreamTest.java,when

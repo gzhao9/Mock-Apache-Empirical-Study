@@ -1,0 +1,14 @@
+file_path,method
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,initMocks
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,thenReturn
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,when
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,anyString
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,thenReturn
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,when
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,thenReturn
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,when
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,thenReturn
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,when
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,thenReturn
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,when
+/cookbook-examples/src/test/java/org/apache/commons/chain2/cookbook/mailreader/CatalogTest.java,verify

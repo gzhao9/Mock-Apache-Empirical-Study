@@ -1,0 +1,877 @@
+commit 4f7b49be7129170a4a274b7867e2fb5ee0965376
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-02-18 09:29:20 -0500
+
+    Readme.md now has slightly better formatting.
+
+3	1	README.md
+
+commit 3e9b95367130248d891c9cc283d2fe258149240f
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-02-18 09:27:40 -0500
+
+    Readme.md now has slightly better formatting.
+
+16	14	README.md
+
+commit 496e36fcbf192165a027343af29db09a7572a0e4
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-02-18 09:14:41 -0500
+
+    Readme.md now contains a "First Fifteen Minutes" guide to building and running the container and a 'hello-world' example.
+
+100	4	README.md
+5	0	product/src/main/root/profile/default/config.xml
+
+commit 33855de2556a78d42329e48b109bd949eb244dad
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-02-17 22:05:39 -0500
+
+    Admin Service is able to query all the ApplicationManager objects in the container context for application statuses.
+    
+    StarterServiceDeployer now creates a working directory for each service and places the File for that directory into the service's configuration as $workingDirectory.
+    
+    The StartupDeployer has been renamed to FolderBasedAppRunner which is more descriptive of its function.  It scans a folder at startup and runs any application archives that it finds.  Similarly, the ClientAppDeployer has been renamed to CommandLineAppRunner, since it runs the application specified on the command line.
+    
+    The Context class now supports getting all components that implement a given interface.  This functionality is used to find all the ApplicationManager implementations that can be polled for applications.
+
+37	6	admin-svc/admin-svc-api/src/main/java/org/apache/river/container/admin/api/ApplicationInfo.java
+55	13	admin-svc/admin-svc-impl/src/main/java/org/apache/river/container/admin/impl/AdminImpl.java
+3	0	admin-svc/admin-svc-module/src/assemble/module.xml
+6	0	admin-svc/admin-svc-module/src/main/root/admin-svc.config
+2	1	product/src/main/root/bin/logging.properties
+1	1	product/src/main/root/profile/admin-client/config.xml
+1	1	product/src/main/root/profile/client/config.xml
+6	3	product/src/main/root/profile/default/config.xml
+1	1	product/src/main/root/profile/outrigger/config.xml
+9	1	river-container-core/pom.xml
+30	26	river-container-core/src/main/java/org/apache/river/container/{deployer/StarterServiceDeployerMXBean.java => ApplicationManager.java}
+12	0	river-container-core/src/main/java/org/apache/river/container/Context.java
+1	0	river-container-core/src/main/java/org/apache/river/container/MessageNames.java
+2	1	river-container-core/src/main/java/org/apache/river/container/Strings.java
+22	0	river-container-core/src/main/java/org/apache/river/container/deployer/ApplicationEnvironment.java
+7	5	river-container-core/src/main/java/org/apache/river/container/deployer/{ClientAppDeployer.java => CommandLineAppRunner.java}
+31	6	river-container-core/src/main/java/org/apache/river/container/deployer/{StartupDeployer.java => FolderBasedAppRunner.java}
+43	5	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+3	0	river-container-core/src/main/java/org/apache/river/container/deployer/Strings.java
+1	0	river-container-core/src/main/resources/org/apache/river/container/Messages.properties
+1	0	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+73	0	river-container-core/src/test/java/org/apache/river/container/ContextTest.java
+1	1	test-container/src/main/root/profile/client/config.xml
+1	1	test-container/src/main/root/profile/default/config.xml
+
+commit e6828db5b36e56d6eef5c40f1b9cd3e79f2eb93f
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2014-01-27 01:50:17 -0500
+
+    ContextualWorkManager has been changed over to present a ScheduledExecutorService for applications to use, rather than a WorkManager.
+    
+    Starting up the Admin service now works.  AdminService is not yet fully implemented.
+
+12	7	admin-svc/admin-svc-impl/src/main/java/org/apache/river/container/admin/impl/AdminImpl.java
+4	0	river-container-core/src/main/java/org/apache/river/container/Bootstrap.java
+2	0	river-container-core/src/main/java/org/apache/river/container/Strings.java
+27	15	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+242	0	river-container-core/src/main/java/org/apache/river/container/work/BasicExecutor.java
+14	11	river-container-core/src/main/java/org/apache/river/container/work/ContextualWorkManager.java
+3	1	river-container-core/src/main/java/org/apache/river/container/work/WorkingContext.java
+60	0	river-container-core/src/site/markdown/WorkManager.md
+4	1	river-container-core/src/site/markdown/index.md
+8	8	river-container-core/src/test/java/org/apache/river/container/work/ContextualWorkManagerTest.java
+
+commit 317dac09de78169564215cef125a936abe99afe1
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-23 18:00:50 -0500
+
+    AdminSvc now starts up in privileged mode and joins the workgroup.
+    Classloader spec in deployer config now has an option to set "parent priority" or "application priority", in which setting "application priority" causes classes to be loaded from the application in preference to the parent loader.
+
+6	1	.gitignore
+44	0	admin-svc/admin-svc-api/pom.xml
+34	0	admin-svc/admin-svc-api/src/main/java/org/apache/river/container/admin/api/Admin.java
+24	0	admin-svc/admin-svc-api/src/main/java/org/apache/river/container/admin/api/ApplicationInfo.java
+29	0	admin-svc/admin-svc-api/src/main/java/org/apache/river/container/admin/api/ApplicationStatus.java
+38	0	admin-svc/admin-svc-api/src/test/java/org/apache/river/container/admin/api/AppTest.java
+52	0	admin-svc/admin-svc-api/src/test/java/org/apache/river/container/admin/api/ApplicationStatusTest.java
+49	0	admin-svc/admin-svc-dl/pom.xml
+18	0	admin-svc/admin-svc-dl/src/main/java/org/apache/river/container/admin/dl/AdminRemote.java
+38	0	admin-svc/admin-svc-dl/src/test/java/org/apache/river/container/admin/dl/AppTest.java
+65	0	admin-svc/admin-svc-impl/pom.xml
+100	0	admin-svc/admin-svc-impl/src/main/java/org/apache/river/container/admin/impl/AdminImpl.java
+61	0	admin-svc/admin-svc-module/pom.xml
+67	0	admin-svc/admin-svc-module/src/assemble/module.xml
+38	0	admin-svc/admin-svc-module/src/main/root/admin-svc.config
+20	0	admin-svc/admin-svc-module/src/main/root/start.properties
+38	0	admin-svc/pom.xml
+2	1	pom.xml
+5	0	product/pom.xml
+4	3	product/src/assemble/product-container.xml
+3	1	product/src/main/root/bin/logging.properties
+16	0	product/src/main/root/profile/default/config.xml
+100	0	product/src/main/root/profile/default/privileged-service-starter.cfg
+1	0	river-container-core/src/main/java/org/apache/river/container/MessageNames.java
+1	0	river-container-core/src/main/java/org/apache/river/container/Strings.java
+38	11	river-container-core/src/main/java/org/apache/river/container/Utils.java
+137	47	river-container-core/src/main/java/org/apache/river/container/classloading/VirtualFileSystemClassLoader.java
+23	19	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+16	0	river-container-core/src/main/java/org/apache/river/container/deployer/StartupDeployer.java
+16	14	river-container-core/src/main/java/org/apache/river/container/security/ContainerCodePolicy.java
+35	21	river-container-core/src/main/java/org/apache/river/container/security/SecurityInitializer.java
+28	2	river-container-core/src/main/jjtree/DeployerConfigParser.jjt
+1	0	river-container-core/src/main/resources/org/apache/river/container/Messages.properties
+1	0	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+3	0	river-container-core/src/test/java/org/apache/river/container/deployer/DeployerConfigParserTest.java
+2	0	river-container-core/src/test/resources/org/apache/river/container/deployer/sample.config
+
+commit f3245a2dd9f26571c360e91dfdaea7ba900cb70b
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-20 13:22:29 -0500
+
+    Admin client requires extended permissions (i.e. java.security.AllPermission) so it's now in a separate profile that includes AllPermission in the client-deploy.config.
+    
+    Client app deployer now has the ability to use a preset app name rather than reading the app name from the command line parameters.  Set 'clientAppName' property to invoke this behavior.
+    
+    Admin-client profile uses the above functionality to automatically startup the admin module.
+
+10	0	product/src/assemble/product-container.xml
+1	1	product/src/main/root/bin/logging.properties
+17	0	product/src/main/root/profile/admin-client/class-server.properties
+53	0	product/src/main/root/profile/admin-client/client-app.cfg
+57	0	product/src/main/root/profile/admin-client/config.xml
+2	0	product/src/main/root/profile/admin-client/deploy-privileged/readme.txt
+2	0	product/src/main/root/profile/admin-client/deploy/readme.txt
+59	36	river-container-core/src/main/java/org/apache/river/container/deployer/ClientAppDeployer.java
+
+commit 82f44f6b1c1389bd80a2da7c80b91ec3068b1b1d
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-20 02:15:32 -0500
+
+    Client-profile command line admin app now exists.
+    Files in product/root/bin now have correct file modes on Unix.
+    'run.sh' is renamed to 'run'.
+    river-container-core 'core-config.xml' is updated to include the river-hsm jar in runtime classpath.
+
+42	0	admin-app/pom.xml
+20	0	admin-app/src/main/java/org/apache/river/container/admin/app/CommandLineAdmin.java
+38	0	admin-app/src/test/java/org/apache/river/container/admin/app/AppTest.java
+61	0	admin-module/pom.xml
+67	0	admin-module/src/assemble/module.xml
+38	0	admin-module/src/main/root/admin.config
+20	0	admin-module/src/main/root/start.properties
+4	2	pom.xml
+6	0	product/pom.xml
+44	1	product/src/assemble/product-container.xml
+0	0	product/src/main/root/bin/{run.sh => run}
+2	1	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+
+commit 3b5a40ff841c6b1b4389e09b18d5371bab267eaa
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-20 00:50:01 -0500
+
+    There is now an Ideas page in river-container that describes the concepts of the plugin.
+    The river-container-maven-plugin project has a 'listApps' goal that one can install and then print out the configured container home.
+
+1	1	river-container-maven-plugin/pom.xml
+12	39	river-container-maven-plugin/src/main/java/org/apache/river/container/mvnplugin/{MyMojo.java => ListAppsMojo.java}
+69	0	src/site/markdown/Ideas.md
+5	0	src/site/markdown/index.md
+
+commit 2cbf9f244d6a571d4f319a1ff8415ed3de32fa70
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-19 22:32:35 -0500
+
+    Maven Plugin source is now in org.apache.river.container.mvnplugin package.
+
+1	1	river-container-maven-plugin/src/main/java/org/apache/river/container/{river/container/maven/plugin => mvnplugin}/MyMojo.java
+
+commit 4b3b01a6182f416c4a1b3e01462d087140f49255
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-12 22:23:26 -0500
+
+    river-container-core no longer has a dependency on OpenWebBeans.
+
+0	22	river-container-core/pom.xml
+
+commit 3e29cd2d958353a84faddca4846a703d9769617a
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-12 16:45:38 -0500
+
+    Hierarchical State Machine is now broken out to its own module (river-hsm) and clears almost all findbugs/pmd/etc checks.
+
+3	3	pom.xml
+5	1	river-container-core/pom.xml
+94	0	river-hsm/pom.xml
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Controller.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Guard.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Initial.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/InvokeAndTransitionOperation.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/InvokeGuardOperation.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/InvokeVoidAndTransitionOperation.java
+1	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/MessageNames.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/MetaState.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/MetaStateVisitor.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/OnEntry.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/OnExit.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Operation.java
+38	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/PlainStateMachineExecutor.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Retained.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/RootState.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/State.java
+4	19	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/StateMachineCompiler.java
+17	14	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/StateMachineException.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/StateMachineExecutor.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/StateMachineInfo.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/SubstateInfo.java
+0	0	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/Transition.java
+1	1	{river-container-core => river-hsm}/src/main/java/org/apache/river/container/hsm/TransitionOnSubstate.java
+78	0	river-hsm/src/main/java/org/apache/river/container/hsm/Utils.java
+1	0	{river-container-core => river-hsm}/src/main/resources/org/apache/river/container/hsm/Messages.properties
+63	0	river-hsm/src/site/markdown/StateMachine.md
+36	0	river-hsm/src/site/markdown/index.md
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/HSMTestSuite.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/InitializedMachineTest.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/InitializedTestSM.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/InitializedTestSMInterface.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/LoggingTest.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/PlainMachineExecutorTest.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/ReturnTypeTest.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/StateMachineCompilerTest.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/TestSM.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/TestSMInterface.java
+0	0	{river-container-core => river-hsm}/src/test/java/org/apache/river/container/hsm/TestSMSecondInterface.java
+
+commit 7c59758d4f504c6ea7217d3d6ea649dd8d076f53
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-03 21:17:58 -0500
+
+    Add/edit docbook documentation in user-docs.
+    
+    Add boolean shutdown variable in ShutdownListener.
+
+6	1	river-container-core/src/main/java/org/apache/river/container/ShutdownListener.java
+0	1	user-docs/pom.xml
+0	96	user-docs/src/docbkx/resources/xsl/custompdf/admon.xsl
+0	33	user-docs/src/docbkx/resources/xsl/custompdf/block.xsl
+0	60	user-docs/src/docbkx/resources/xsl/custompdf/highlight.xsl
+0	50	user-docs/src/docbkx/resources/xsl/custompdf/inline.xsl
+0	401	user-docs/src/docbkx/resources/xsl/custompdf/pagesetup.xsl
+0	51	user-docs/src/docbkx/resources/xsl/custompdf/table.xsl
+0	409	user-docs/src/docbkx/resources/xsl/custompdf/titlepage.xsl
+0	409	user-docs/src/docbkx/resources/xsl/fopdf.xsl
+124	7	user-docs/src/docbkx/userguide/Quickstart.xml
+
+commit f17fe38e7efce921da41d0df9974fb6fc110da9c
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2014-01-02 13:43:00 -0500
+
+    Add Apache License headers and one or two Rat exclusions.
+
+15	0	pom.xml
+24	0	river-container-core/pom.xml
+1	1	river-container-maven-plugin/pom.xml
+103	15	user-docs/pom.xml
+41	0	user-docs/src/docbkx/common/abstract.xml
+47	0	user-docs/src/docbkx/common/legalnotes.xml
+75	0	user-docs/src/docbkx/common/thirdparty.xml
+33	0	user-docs/src/docbkx/entities.ent
+374	0	user-docs/src/docbkx/resources/css/apache.css
+39	0	user-docs/src/docbkx/resources/css/highlight.css
+16	0	user-docs/src/docbkx/resources/css/html.css
+-	-	user-docs/src/docbkx/resources/images/admons/blank.png
+-	-	user-docs/src/docbkx/resources/images/admons/caution.gif
+-	-	user-docs/src/docbkx/resources/images/admons/caution.png
+-	-	user-docs/src/docbkx/resources/images/admons/caution.tif
+-	-	user-docs/src/docbkx/resources/images/admons/draft.png
+-	-	user-docs/src/docbkx/resources/images/admons/home.gif
+-	-	user-docs/src/docbkx/resources/images/admons/home.png
+-	-	user-docs/src/docbkx/resources/images/admons/important.gif
+-	-	user-docs/src/docbkx/resources/images/admons/important.png
+-	-	user-docs/src/docbkx/resources/images/admons/important.tif
+-	-	user-docs/src/docbkx/resources/images/admons/next.gif
+-	-	user-docs/src/docbkx/resources/images/admons/next.png
+-	-	user-docs/src/docbkx/resources/images/admons/note.gif
+-	-	user-docs/src/docbkx/resources/images/admons/note.png
+-	-	user-docs/src/docbkx/resources/images/admons/note.tif
+-	-	user-docs/src/docbkx/resources/images/admons/prev.gif
+-	-	user-docs/src/docbkx/resources/images/admons/prev.png
+-	-	user-docs/src/docbkx/resources/images/admons/tip.gif
+-	-	user-docs/src/docbkx/resources/images/admons/tip.png
+-	-	user-docs/src/docbkx/resources/images/admons/tip.tif
+-	-	user-docs/src/docbkx/resources/images/admons/toc-blank.png
+-	-	user-docs/src/docbkx/resources/images/admons/toc-minus.png
+-	-	user-docs/src/docbkx/resources/images/admons/toc-plus.png
+-	-	user-docs/src/docbkx/resources/images/admons/up.gif
+-	-	user-docs/src/docbkx/resources/images/admons/up.png
+-	-	user-docs/src/docbkx/resources/images/admons/warning.gif
+-	-	user-docs/src/docbkx/resources/images/admons/warning.png
+-	-	user-docs/src/docbkx/resources/images/admons/warning.tif
+-	-	user-docs/src/docbkx/resources/images/asf-logo.gif
+-	-	user-docs/src/docbkx/resources/images/callouts/1.png
+-	-	user-docs/src/docbkx/resources/images/callouts/10.png
+-	-	user-docs/src/docbkx/resources/images/callouts/11.png
+-	-	user-docs/src/docbkx/resources/images/callouts/12.png
+-	-	user-docs/src/docbkx/resources/images/callouts/13.png
+-	-	user-docs/src/docbkx/resources/images/callouts/14.png
+-	-	user-docs/src/docbkx/resources/images/callouts/15.png
+-	-	user-docs/src/docbkx/resources/images/callouts/2.png
+-	-	user-docs/src/docbkx/resources/images/callouts/3.png
+-	-	user-docs/src/docbkx/resources/images/callouts/4.png
+-	-	user-docs/src/docbkx/resources/images/callouts/5.png
+-	-	user-docs/src/docbkx/resources/images/callouts/6.png
+-	-	user-docs/src/docbkx/resources/images/callouts/7.png
+-	-	user-docs/src/docbkx/resources/images/callouts/8.png
+-	-	user-docs/src/docbkx/resources/images/callouts/9.png
+-	-	user-docs/src/docbkx/resources/images/river.png
+31	0	user-docs/src/docbkx/resources/xsl/customcommon/en.xml
+80	0	user-docs/src/docbkx/resources/xsl/customhtml/admon.xsl
+131	0	user-docs/src/docbkx/resources/xsl/customhtml/autoidx.xsl
+45	0	user-docs/src/docbkx/resources/xsl/customhtml/component.xsl
+82	0	user-docs/src/docbkx/resources/xsl/customhtml/highlight.xsl
+44	0	user-docs/src/docbkx/resources/xsl/customhtml/inline.xsl
+116	0	user-docs/src/docbkx/resources/xsl/customhtml/sections.xsl
+328	0	user-docs/src/docbkx/resources/xsl/customhtml/titlepage.xsl
+96	0	user-docs/src/docbkx/resources/xsl/custompdf/admon.xsl
+33	0	user-docs/src/docbkx/resources/xsl/custompdf/block.xsl
+60	0	user-docs/src/docbkx/resources/xsl/custompdf/highlight.xsl
+50	0	user-docs/src/docbkx/resources/xsl/custompdf/inline.xsl
+401	0	user-docs/src/docbkx/resources/xsl/custompdf/pagesetup.xsl
+51	0	user-docs/src/docbkx/resources/xsl/custompdf/table.xsl
+409	0	user-docs/src/docbkx/resources/xsl/custompdf/titlepage.xsl
+409	0	user-docs/src/docbkx/resources/xsl/fopdf.xsl
+133	0	user-docs/src/docbkx/resources/xsl/html.xsl
+102	0	user-docs/src/docbkx/userguide.xml
+35	0	user-docs/src/docbkx/userguide/ConfiguringTheContainer.xml
+52	0	user-docs/src/docbkx/userguide/PackagingAndDeploying.xml
+44	0	user-docs/src/docbkx/userguide/Quickstart.xml
+141	0	user-docs/src/docbkx/userguide/preface.xml
+
+commit afdf87ce5179cc521caa3f6932c4f341c1b1d52e
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-12-12 18:25:39 -0500
+
+    Add Apache License headers and one or two Rat exclusions.
+
+18	0	README.md
+16	0	browser-module/src/main/root/browser.config
+19	0	browser/pom.xml
+0	13	browser/src/main/java/org/apache/river/container/examples/browser/App.java
+0	38	browser/src/test/java/org/apache/river/container/browser/AppTest.java
+44	2	pom.xml
+16	0	product/pom.xml
+18	0	product/src/assemble/product-container.xml
+18	0	product/src/main/root/bin/logging.properties
+18	0	product/src/main/root/bin/run.sh
+16	0	reggie-module/src/main/root/reggie.config
+15	2	river-container-core/src/main/java/org/apache/river/container/hsm/MetaStateVisitor.java
+15	2	river-container-core/src/main/java/org/apache/river/container/hsm/StateMachineInfo.java
+15	2	river-container-core/src/main/java/org/apache/river/container/hsm/TransitionOnSubstate.java
+18	0	river-container-core/src/main/jjtree/ClasspathExpressionParser.jjt
+18	0	river-container-core/src/main/jjtree/DeployerConfigParser.jjt
+18	0	river-container-core/src/main/xsd/config.xsd
+18	0	river-container-core/src/site/markdown/Bootstrap.md
+18	0	river-container-core/src/site/markdown/ClientProfile.md
+19	0	river-container-core/src/site/markdown/Management.md
+18	0	river-container-core/src/site/markdown/Security.md
+18	0	river-container-core/src/site/markdown/ServiceStarterServices.md
+18	0	river-container-core/src/site/markdown/StateMachine.md
+18	0	river-container-core/src/site/markdown/SurrogateDeployment.md
+18	0	river-container-core/src/site/markdown/Todo.md
+19	0	river-container-core/src/site/markdown/index.md
+18	0	river-container-core/src/test/files/logging.properties
+18	0	river-container-core/src/test/files/reggie.config
+14	2	river-container-core/src/test/java/org/apache/river/container/hsm/HSMTestSuite.java
+13	2	river-container-core/src/test/java/org/apache/river/container/hsm/LoggingTest.java
+13	2	river-container-core/src/test/java/org/apache/river/container/hsm/ReturnTypeTest.java
+16	5	river-container-core/src/test/resources/org/apache/river/container/config/config-test-bad-doc.xml
+16	5	river-container-core/src/test/resources/org/apache/river/container/config/config-test-doc.xml
+132	0	river-container-maven-plugin/pom.xml
+55	0	river-container-maven-plugin/src/it/settings.xml
+52	0	river-container-maven-plugin/src/it/simple-it/pom.xml
+19	0	river-container-maven-plugin/src/it/simple-it/verify.groovy
+84	0	river-container-maven-plugin/src/main/java/org/apache/river/container/river/container/maven/plugin/MyMojo.java
+18	0	test-container/pom.xml
+18	0	test-container/src/assemble/test-container.xml
+18	0	test-container/src/main/root/bin/logging.properties
+18	0	test-container/src/main/root/bin/run.sh
+16	0	transient-mahalo-module/src/main/root/mahalo.config
+18	0	transient-outrigger-module/pom.xml
+16	0	transient-outrigger-module/src/main/root/transient-outrigger.config
+18	0	user-docs/pom.xml
+
+commit 1295a7055e2927ba8d2f935abf69d8cfe9f54be1
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-12-06 08:50:34 -0500
+
+    Added Maven reports - PMD, CheckStyle and Cobertura.
+
+6	0	product/pom.xml
+1	1	product/src/assemble/product-container.xml
+50	0	river-container-core/pom.xml
+
+commit b63e6d47b2f072ffb6b4cf88beba338a47de0b97
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-11-30 01:00:27 -0500
+
+    Added transient-outrigger module to river-container project.
+    Added outrigger profile to the 'product' container.
+
+2	1	pom.xml
+6	0	product/pom.xml
+8	0	product/src/assemble/product-container.xml
+17	0	product/src/main/root/profile/outrigger/class-server.properties
+60	0	product/src/main/root/profile/outrigger/config.xml
+2	0	product/src/main/root/profile/outrigger/deploy-privileged/readme.txt
+2	0	product/src/main/root/profile/outrigger/deploy/readme.txt
+95	0	product/src/main/root/profile/outrigger/service-starter.cfg
+55	0	transient-outrigger-module/pom.xml
+66	0	transient-outrigger-module/src/assemble/module.xml
+20	0	transient-outrigger-module/src/main/root/start.properties
+45	0	transient-outrigger-module/src/main/root/transient-outrigger.config
+
+commit 8d8d2c4e295866120f7f2527c9c7e9a50a49021f
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-11-29 23:20:02 -0500
+
+    Add functionality to launcher in StarterServiceDeployer to run main(String[] args) - mainly for client modules.
+
+85	19	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+
+commit 457ae74b47e8262f8a7c73d0f1ff295e0cefcd24
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-11-28 11:12:16 -0500
+
+    Add some quick instructions to the README.md file.
+
+4	2	README.md
+
+commit dfeedbf5549d0e8c761ab252d4a9e2ba8a9ac089
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-11-28 10:59:14 -0500
+
+    Add some quick instructions to the README.md file.
+
+49	0	README.md
+
+commit 60c5c7fe71d7a61b7f4d97688914cb708bef24f5
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-11-28 02:37:51 -0500
+
+    Added property setting to components called out in config.xml
+    Completed monitoring of deployment directory - services now auto-deploy while container is live.
+
+2	1	product/src/main/root/bin/logging.properties
+0	0	product/src/main/root/profile/client/{service-starter.cfg => client-app.cfg}
+1	3	product/src/main/root/profile/client/config.xml
+1	2	product/src/main/root/profile/default/config.xml
+1	1	product/src/main/root/profile/default/service-starter.cfg
+77	26	river-container-core/src/main/java/org/apache/river/container/Bootstrap.java
+10	1	river-container-core/src/main/java/org/apache/river/container/MessageNames.java
+39	12	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+1	0	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceLifeCycleSM.java
+165	46	river-container-core/src/main/java/org/apache/river/container/deployer/StartupDeployer.java
+9	0	river-container-core/src/main/resources/org/apache/river/container/Messages.properties
+
+commit 42f2ef2a97ab92bb81f4151e8d41700e48797bd7
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-25 03:39:30 -0500
+
+    "transient-mahalo" module now starts up transaction manager, which is then visible in the browser client.
+
+1	1	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+2	2	test-container/src/main/root/bin/logging.properties
+7	0	test-container/src/main/root/profile/default/service-starter.cfg
+2	2	transient-mahalo-module/pom.xml
+8	1	transient-mahalo-module/src/assemble/module.xml
+15	0	transient-mahalo-module/src/main/root/mahalo.config
+
+commit e8ab8bc4ff185a723bc6727d44ce2f15bcec2829
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-25 03:05:54 -0500
+
+    Add transient-mahalo module.  Continue work on switching to jsk 2.2.2.
+
+7	6	pom.xml
+1	0	product/src/assemble/product-container.xml
+14	4	product/src/main/root/profile/default/service-starter.cfg
+9	4	reggie-module/src/assemble/module.xml
+6	0	test-container/pom.xml
+2	0	test-container/src/assemble/test-container.xml
+4	4	test-container/src/main/root/profile/client/service-starter.cfg
+4	4	test-container/src/main/root/profile/default/service-starter.cfg
+73	0	transient-mahalo-module/pom.xml
+59	0	transient-mahalo-module/src/assemble/module.xml
+26	0	transient-mahalo-module/src/main/root/mahalo.config
+20	0	transient-mahalo-module/src/main/root/start.properties
+
+commit 63112350ce8658515dec60c8f7a77f285599a78c
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-21 13:14:15 -0500
+
+    Add "product" module for production of final product deliverable (bin).
+    Use Maven properties and filters to reduce hand-coding for jsk version.
+
+1	1	product/pom.xml
+2	7	product/src/assemble/product-container.xml
+4	4	product/src/main/root/profile/client/service-starter.cfg
+2	2	reggie-module/pom.xml
+6	0	river-container-core/pom.xml
+2	2	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+7	5	river-container-core/src/test/java/org/apache/river/container/classloading/VFSClassLoaderTest.java
+
+commit 67992683d943e93b2b336d7edecd118c10bbe953
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-20 15:10:32 -0500
+
+    Added "product" container that contains the set of files that forms the container for general use.
+
+3	3	browser/pom.xml
+5	1	pom.xml
+62	0	product/pom.xml
+53	0	product/src/assemble/product-container.xml
+61	0	product/src/main/root/bin/logging.properties
+1	0	product/src/main/root/bin/run.sh
+17	0	product/src/main/root/profile/client/class-server.properties
+56	0	product/src/main/root/profile/client/config.xml
+2	0	product/src/main/root/profile/client/deploy-privileged/readme.txt
+2	0	product/src/main/root/profile/client/deploy/readme.txt
+95	0	product/src/main/root/profile/client/service-starter.cfg
+17	0	product/src/main/root/profile/default/class-server.properties
+61	0	product/src/main/root/profile/default/config.xml
+2	0	product/src/main/root/profile/default/deploy-privileged/readme.txt
+2	0	product/src/main/root/profile/default/deploy/readme.txt
+85	0	product/src/main/root/profile/default/service-starter.cfg
+2	2	river-container-core/pom.xml
+1	1	test-container/pom.xml
+21	0	user-docs/pom.xml
+
+commit 7ff8b15a8b1c851363791de88dc76c63e2c8ab40
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-19 11:47:55 -0500
+
+    Ongoing work to add client profile and run browser inside it.
+
+2	9	browser-module/pom.xml
+4	11	browser-module/src/assemble/module.xml
+1	1	browser-module/src/main/root/browser.config
+1	1	browser-module/src/main/root/start.properties
+44	0	browser/pom.xml
+13	0	browser/src/main/java/org/apache/river/container/examples/browser/App.java
+1765	0	browser/src/main/java/org/apache/river/container/examples/browser/Browser.java
+292	0	browser/src/main/java/org/apache/river/container/examples/browser/EntryTreePanel.java
+106	0	browser/src/main/java/org/apache/river/container/examples/browser/Introspector.java
+348	0	browser/src/main/java/org/apache/river/container/examples/browser/MetalIcons.java
+316	0	browser/src/main/java/org/apache/river/container/examples/browser/ObjectNode.java
+282	0	browser/src/main/java/org/apache/river/container/examples/browser/ServiceBrowser.java
+1213	0	browser/src/main/java/org/apache/river/container/examples/browser/ServiceEditor.java
+787	0	browser/src/main/java/org/apache/river/container/examples/browser/package.html
+38	0	browser/src/test/java/org/apache/river/container/browser/AppTest.java
+2	1	pom.xml
+34	37	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+
+commit b8f2c0c00e32ef93694db8170ea58879d2c25fd0
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-18 05:54:47 -0500
+
+    Ongoing work to add client profile and run browser inside it.
+
+5	1	browser-module/src/main/root/browser.config
+4	0	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceLifeCycleSM.java
+1	1	river-container-core/src/main/java/org/apache/river/container/deployer/StatusEvents.java
+10	0	test-container/src/main/root/profile/client/service-starter.cfg
+
+commit 36463b4a7128dc70ea5ec64a29508b32e5e0be08
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-11-18 05:08:01 -0500
+
+    Ongoing work to add client profile and run browser inside it.
+
+1	0	.gitignore
+201	0	LICENSE
+7	0	NOTICE
+73	0	browser-module/pom.xml
+61	0	browser-module/src/assemble/module.xml
+22	0	browser-module/src/main/root/browser.config
+20	0	browser-module/src/main/root/start.properties
+23	11	pom.xml
+1	0	river-container-core/pom.xml
+4	0	river-container-core/src/main/java/org/apache/river/container/MessageNames.java
+40	0	river-container-core/src/main/java/org/apache/river/container/MessagesResource.java
+2	0	river-container-core/src/main/java/org/apache/river/container/Strings.java
+4	3	river-container-core/src/main/java/org/apache/river/container/codebase/ClassServer.java
+172	0	river-container-core/src/main/java/org/apache/river/container/deployer/ClientAppDeployer.java
+2	0	river-container-core/src/main/java/org/apache/river/container/deployer/ServiceLifeCycle.java
+4	4	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+41	1	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceLifeCycleSM.java
+1	1	river-container-core/src/main/java/org/apache/river/container/el/ArgsParser.java
+11	2	river-container-core/src/main/java/org/apache/river/container/el/ArgsParserImpl.java
+35	21	river-container-core/src/main/java/org/apache/river/container/security/ContainerCodePolicy.java
+4	0	river-container-core/src/main/resources/org/apache/river/container/Messages.properties
+1	0	river-container-core/src/main/resources/org/apache/river/container/core-config.xml
+26	0	river-container-core/src/site/markdown/Bootstrap.md
+25	0	river-container-core/src/site/markdown/ClientProfile.md
+7	0	river-container-core/src/site/markdown/Management.md
+48	0	river-container-core/src/site/markdown/Security.md
+57	0	river-container-core/src/site/markdown/ServiceStarterServices.md
+45	0	river-container-core/src/site/markdown/StateMachine.md
+20	0	river-container-core/src/site/markdown/SurrogateDeployment.md
+4	0	river-container-core/src/site/markdown/Todo.md
+44	0	river-container-core/src/site/markdown/index.md
+16	1	river-container-core/src/test/java/org/apache/river/container/el/ArgParserTest.java
+6	0	test-container/pom.xml
+11	0	test-container/src/assemble/test-container.xml
+1	1	test-container/src/main/root/bin/logging.properties
+17	0	test-container/src/main/root/profile/client/class-server.properties
+56	0	test-container/src/main/root/profile/client/config.xml
+2	0	test-container/src/main/root/profile/client/deploy-privileged/readme.txt
+2	0	test-container/src/main/root/profile/client/deploy/readme.txt
+85	0	test-container/src/main/root/profile/client/service-starter.cfg
+2	0	test-container/src/main/root/profile/default/service-starter.cfg
+
+commit dc58e6ea2a2d38e86e248af2172797a67bd0ef09
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-08-07 12:00:25 -0400
+
+    Sorted out a classloading issue that was introduced when we switched to Commons VFS 2.0 - basically it makes correct use of the context classloader, so we need to make sure we have the context loader set properly when we go to setup the liaison objects for the hosted service.
+    
+    So, we're back to the state we were at with RiverSurrogate in the skunk branch, except that the container is now built with Maven and source-controlled with Git.
+    
+    Container successfully starts Reggie.
+
+10	6	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+16	3	river-container-core/src/main/java/org/apache/river/container/liaison/VirtualFileSystemConfiguration.java
+1	0	river-container-core/src/main/resources/META-INF/services/net.jini.config.Configuration
+
+commit 92921c39870e9deb5d7223fee0e7a8cae4e98054
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-08-04 23:36:53 -0400
+
+    Test container builds but does not yet initialize.  When loading the reggie-module, it gives an exception starting up the module, because commons-vfs is not able to initialize the working directory.  Yet to be investigated.
+
+4	0	reggie-module/src/assemble/module.xml
+21	2	river-container-core/pom.xml
+1	1	river-container-core/src/main/java/org/apache/river/container/deployer/StartupDeployer.java
+1	0	river-container-core/src/main/java/org/apache/river/container/liaison/VirtualFileSystemConfiguration.java
+6	5	river-container-core/src/main/{java => resources}/org/apache/river/container/core-config.xml
+8	7	test-container/pom.xml
+20	3	test-container/src/assemble/test-container.xml
+61	0	test-container/src/main/root/bin/logging.properties
+1	0	test-container/src/main/root/bin/run.sh
+6	6	test-container/src/main/root/profile/default/service-starter.cfg
+
+commit bef344d5daf7b597ba0cc4243463439240c5a874
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-08-03 15:18:53 -0400
+
+    River-container-core now builds.  The unit tests run correctly (nothwithstanding a few tests that were in the RiverSurrogate project that are now commented out because they were exploratory in nature).
+
+18	0	reggie-module/pom.xml
+18	0	reggie-module/src/assemble/module.xml
+47	1	river-container-core/pom.xml
+42	0	river-container-core/src/test/assemble/copy-reggie-module.xml
+1	0	river-container-core/src/test/files/SampleSurrogate.MF
+20	0	river-container-core/src/test/files/hosted-reggie.properties
+61	0	river-container-core/src/test/files/logging.properties
+19	0	river-container-core/src/test/files/property-file-reader-test.properties
+12	0	river-container-core/src/test/files/reggie.config
+6	7	river-container-core/src/test/java/org/apache/river/container/CommonsVFSTest.java
+3	3	river-container-core/src/test/java/org/apache/river/container/PropertiesFileReaderTest.java
+6	6	river-container-core/src/test/java/org/apache/river/container/classloading/VFSClassLoaderTest.java
+2	6	river-container-core/src/test/java/org/apache/river/container/codebase/SocketAddressTest.java
+2	1	river-container-core/src/test/java/org/apache/river/container/config/ConfigurationParserTest.java
+2	1	river-container-core/src/test/java/org/apache/river/container/security/SecurityManagerTest.java
+2	1	river-container-core/src/test/java/org/apache/river/surrogate/SurrogateContextTest.java
+
+commit d9db78ac2b9429c996beb01d81fd852231906aaf
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-07-31 09:50:28 -0400
+
+    Continuing work on restructuring the River Surrogate Container skunkworks project into a Maven build.
+    
+    As of this commit,
+     - the classes in river-container-core build OK, but the tests fail because they are still looking for files in locations that are not yet present in the Maven build.
+    
+    - Reggie-module sub-project builds a jar file that contains the Reggie module.
+    -Work continues on building the test-container.
+
+3	1	pom.xml
+55	0	reggie-module/pom.xml
+39	0	reggie-module/src/assemble/module.xml
+12	0	reggie-module/src/main/root/reggie.config
+20	0	reggie-module/src/main/root/start.properties
+2	2	river-container-core/pom.xml
+60	0	test-container/pom.xml
+25	0	test-container/src/assemble/test-container.xml
+17	0	test-container/src/main/root/profile/default/class-server.properties
+61	0	test-container/src/main/root/profile/default/config.xml
+2	0	test-container/src/main/root/profile/default/deploy-privileged/readme.txt
+2	0	test-container/src/main/root/profile/default/deploy/readme.txt
+83	0	test-container/src/main/root/profile/default/service-starter.cfg
+
+commit 7e747be5f91ae31bc7e70c1169bb2a1ba799079e
+Merge: 5bbf0dc dc6791f
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-05-27 04:03:15 -0400
+
+    Merge branch 'master' of github.com:trasukg/river-container
+    
+    Conflicts:
+            .gitignore
+
+commit 5bbf0dcd46d4f814906e2574e36af94c3006dcd9
+Author: Greg Trasuk <trasukg@trasuk.com>
+Date:   2013-05-27 03:59:30 -0400
+
+    Added .gitignore to ignore maven target folders.
+
+1	0	.gitignore
+
+commit dc6791fdf27ba776249bb5a935bd3effe989f3a3
+Author: trasukg <trasukg@trasuk.com>
+Date:   2013-05-27 00:49:56 -0700
+
+    Initial commit
+
+6	0	.gitignore
+4	0	README.md
+
+commit 9ab0109300201db750163e443f87e5630737a080
+Author: Greg Trasuk <gtrasuk@apache.org>
+Date:   2013-05-27 03:01:50 -0400
+
+    Initial import of River Container project into git.
+    
+    River Container began as jtsk/skunk/RiverSurrogate.  This import does two things: It begins the process of implementing the appropriate poms and project structure to build with Apache Maven, and it moves the project to a git repository.
+    
+    Future work is required to finish the Maven build.  We need to add modules to build the reggie module sar, and to build the test container.  Later we need to add the module to build the default user container.
+
+12	0	pom.xml
+81	0	river-container-core/pom.xml
+48	0	river-container-core/src/main/java/org/apache/river/container/AbstractConnector.java
+518	0	river-container-core/src/main/java/org/apache/river/container/AnnotatedClassDeployer.java
+43	0	river-container-core/src/main/java/org/apache/river/container/AttributeStore.java
+52	0	river-container-core/src/main/java/org/apache/river/container/AttributeStoreImpl.java
+259	0	river-container-core/src/main/java/org/apache/river/container/Bootstrap.java
+60	0	river-container-core/src/main/java/org/apache/river/container/CommandLineArgumentParser.java
+34	0	river-container-core/src/main/java/org/apache/river/container/ConfigurationException.java
+84	0	river-container-core/src/main/java/org/apache/river/container/Context.java
+56	0	river-container-core/src/main/java/org/apache/river/container/ContextListener.java
+76	0	river-container-core/src/main/java/org/apache/river/container/DeployedObject.java
+28	0	river-container-core/src/main/java/org/apache/river/container/DeploymentListener.java
+49	0	river-container-core/src/main/java/org/apache/river/container/FileUtility.java
+63	0	river-container-core/src/main/java/org/apache/river/container/FileUtilityImpl.java
+70	0	river-container-core/src/main/java/org/apache/river/container/Host.java
+40	0	river-container-core/src/main/java/org/apache/river/container/Init.java
+62	0	river-container-core/src/main/java/org/apache/river/container/Injected.java
+26	0	river-container-core/src/main/java/org/apache/river/container/InjectionStyle.java
+43	0	river-container-core/src/main/java/org/apache/river/container/JarFilter.java
+107	0	river-container-core/src/main/java/org/apache/river/container/LocalizedRuntimeException.java
+60	0	river-container-core/src/main/java/org/apache/river/container/MBeanRegistrar.java
+124	0	river-container-core/src/main/java/org/apache/river/container/MessageNames.java
+37	0	river-container-core/src/main/java/org/apache/river/container/Name.java
+28	0	river-container-core/src/main/java/org/apache/river/container/Names.java
+62	0	river-container-core/src/main/java/org/apache/river/container/Optional.java
+78	0	river-container-core/src/main/java/org/apache/river/container/ProfileConfigReader.java
+79	0	river-container-core/src/main/java/org/apache/river/container/PropertiesFileReader.java
+39	0	river-container-core/src/main/java/org/apache/river/container/ServiceStarterArchiveFileFilter.java
+153	0	river-container-core/src/main/java/org/apache/river/container/SettableCodebaseClassLoader.java
+62	0	river-container-core/src/main/java/org/apache/river/container/ShowContextToConsole.java
+36	0	river-container-core/src/main/java/org/apache/river/container/Shutdown.java
+54	0	river-container-core/src/main/java/org/apache/river/container/ShutdownListener.java
+29	0	river-container-core/src/main/java/org/apache/river/container/ShutdownListenerMXBean.java
+80	0	river-container-core/src/main/java/org/apache/river/container/Strings.java
+95	0	river-container-core/src/main/java/org/apache/river/container/SurrogateInstaller.java
+53	0	river-container-core/src/main/java/org/apache/river/container/SystemClassloaderInitializer.java
+137	0	river-container-core/src/main/java/org/apache/river/container/Utils.java
+85	0	river-container-core/src/main/java/org/apache/river/container/classloading/ASTNode.java
+27	0	river-container-core/src/main/java/org/apache/river/container/classloading/Acceptor.java
+35	0	river-container-core/src/main/java/org/apache/river/container/classloading/AllAcceptor.java
+56	0	river-container-core/src/main/java/org/apache/river/container/classloading/ClasspathEntry.java
+77	0	river-container-core/src/main/java/org/apache/river/container/classloading/ClasspathFilter.java
+94	0	river-container-core/src/main/java/org/apache/river/container/classloading/ClasspathFilterBuilder.java
+92	0	river-container-core/src/main/java/org/apache/river/container/classloading/ResourceAcceptor.java
+44	0	river-container-core/src/main/java/org/apache/river/container/classloading/Strings.java
+298	0	river-container-core/src/main/java/org/apache/river/container/classloading/VirtualFileSystemClassLoader.java
+464	0	river-container-core/src/main/java/org/apache/river/container/codebase/ClassServer.java
+84	0	river-container-core/src/main/java/org/apache/river/container/codebase/ClassServerCodebaseContext.java
+46	0	river-container-core/src/main/java/org/apache/river/container/codebase/CodebaseContext.java
+39	0	river-container-core/src/main/java/org/apache/river/container/codebase/CodebaseHandler.java
+70	0	river-container-core/src/main/java/org/apache/river/container/codebase/DummyCodebaseHandler.java
+33	0	river-container-core/src/main/java/org/apache/river/container/codebase/Strings.java
+32	0	river-container-core/src/main/java/org/apache/river/container/codebase/UUIDEncoder.java
+75	0	river-container-core/src/main/java/org/apache/river/container/core-config.xml
+118	0	river-container-core/src/main/java/org/apache/river/container/deployer/ASTNode.java
+98	0	river-container-core/src/main/java/org/apache/river/container/deployer/ApplicationEnvironment.java
+100	0	river-container-core/src/main/java/org/apache/river/container/deployer/ClasspathFilterBuilder.java
+38	0	river-container-core/src/main/java/org/apache/river/container/deployer/ServiceLifeCycle.java
+473	0	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployer.java
+26	0	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceDeployerMXBean.java
+297	0	river-container-core/src/main/java/org/apache/river/container/deployer/StarterServiceLifeCycleSM.java
+156	0	river-container-core/src/main/java/org/apache/river/container/deployer/StartupDeployer.java
+36	0	river-container-core/src/main/java/org/apache/river/container/deployer/StatusEvents.java
+31	0	river-container-core/src/main/java/org/apache/river/container/deployer/Strings.java
+35	0	river-container-core/src/main/java/org/apache/river/container/el/ArgsParser.java
+45	0	river-container-core/src/main/java/org/apache/river/container/el/ArgsParserImpl.java
+36	0	river-container-core/src/main/java/org/apache/river/container/hsm/Controller.java
+43	0	river-container-core/src/main/java/org/apache/river/container/hsm/Guard.java
+40	0	river-container-core/src/main/java/org/apache/river/container/hsm/Initial.java
+80	0	river-container-core/src/main/java/org/apache/river/container/hsm/InvokeAndTransitionOperation.java
+87	0	river-container-core/src/main/java/org/apache/river/container/hsm/InvokeGuardOperation.java
+80	0	river-container-core/src/main/java/org/apache/river/container/hsm/InvokeVoidAndTransitionOperation.java
+46	0	river-container-core/src/main/java/org/apache/river/container/hsm/MessageNames.java
+106	0	river-container-core/src/main/java/org/apache/river/container/hsm/MetaState.java
+13	0	river-container-core/src/main/java/org/apache/river/container/hsm/MetaStateVisitor.java
+39	0	river-container-core/src/main/java/org/apache/river/container/hsm/OnEntry.java
+39	0	river-container-core/src/main/java/org/apache/river/container/hsm/OnExit.java
+34	0	river-container-core/src/main/java/org/apache/river/container/hsm/Operation.java
+391	0	river-container-core/src/main/java/org/apache/river/container/hsm/PlainStateMachineExecutor.java
+37	0	river-container-core/src/main/java/org/apache/river/container/hsm/Retained.java
+40	0	river-container-core/src/main/java/org/apache/river/container/hsm/RootState.java
+43	0	river-container-core/src/main/java/org/apache/river/container/hsm/State.java
+321	0	river-container-core/src/main/java/org/apache/river/container/hsm/StateMachineCompiler.java
+106	0	river-container-core/src/main/java/org/apache/river/container/hsm/StateMachineException.java
+40	0	river-container-core/src/main/java/org/apache/river/container/hsm/StateMachineExecutor.java
+15	0	river-container-core/src/main/java/org/apache/river/container/hsm/StateMachineInfo.java
+109	0	river-container-core/src/main/java/org/apache/river/container/hsm/SubstateInfo.java
+42	0	river-container-core/src/main/java/org/apache/river/container/hsm/Transition.java
+40	0	river-container-core/src/main/java/org/apache/river/container/hsm/TransitionOnSubstate.java
+33	0	river-container-core/src/main/java/org/apache/river/container/liaison/Strings.java
+176	0	river-container-core/src/main/java/org/apache/river/container/liaison/VirtualFileSystemConfiguration.java
+76	0	river-container-core/src/main/java/org/apache/river/container/security/ContainerCodePolicy.java
+67	0	river-container-core/src/main/java/org/apache/river/container/security/SecurityInitializer.java
+135	0	river-container-core/src/main/java/org/apache/river/container/work/BasicWorkManager.java
+73	0	river-container-core/src/main/java/org/apache/river/container/work/ContextualWorkManager.java
+65	0	river-container-core/src/main/java/org/apache/river/container/work/WorkManager.java
+47	0	river-container-core/src/main/java/org/apache/river/container/work/WorkingContext.java
+148	0	river-container-core/src/main/jjtree/ClasspathExpressionParser.jjt
+413	0	river-container-core/src/main/jjtree/DeployerConfigParser.jjt
+115	0	river-container-core/src/main/resources/org/apache/river/container/Messages.properties
+38	0	river-container-core/src/main/resources/org/apache/river/container/hsm/Messages.properties
+91	0	river-container-core/src/main/xsd/config.xsd
+258	0	river-container-core/src/test/java/org/apache/river/container/AnnotatedClassDeployerTest.java
+63	0	river-container-core/src/test/java/org/apache/river/container/BootstrapTest.java
+141	0	river-container-core/src/test/java/org/apache/river/container/CommonsVFSTest.java
+134	0	river-container-core/src/test/java/org/apache/river/container/PropertiesFileReaderTest.java
+126	0	river-container-core/src/test/java/org/apache/river/container/classloading/ClasspathFilterParserTest.java
+208	0	river-container-core/src/test/java/org/apache/river/container/classloading/VFSClassLoaderTest.java
+74	0	river-container-core/src/test/java/org/apache/river/container/codebase/SocketAddressTest.java
+94	0	river-container-core/src/test/java/org/apache/river/container/config/ConfigurationParserTest.java
+151	0	river-container-core/src/test/java/org/apache/river/container/deployer/DeployerConfigParserTest.java
+82	0	river-container-core/src/test/java/org/apache/river/container/el/ArgParserTest.java
+38	0	river-container-core/src/test/java/org/apache/river/container/hsm/HSMTestSuite.java
+101	0	river-container-core/src/test/java/org/apache/river/container/hsm/InitializedMachineTest.java
+67	0	river-container-core/src/test/java/org/apache/river/container/hsm/InitializedTestSM.java
+34	0	river-container-core/src/test/java/org/apache/river/container/hsm/InitializedTestSMInterface.java
+58	0	river-container-core/src/test/java/org/apache/river/container/hsm/LoggingTest.java
+238	0	river-container-core/src/test/java/org/apache/river/container/hsm/PlainMachineExecutorTest.java
+49	0	river-container-core/src/test/java/org/apache/river/container/hsm/ReturnTypeTest.java
+146	0	river-container-core/src/test/java/org/apache/river/container/hsm/StateMachineCompilerTest.java
+150	0	river-container-core/src/test/java/org/apache/river/container/hsm/TestSM.java
+50	0	river-container-core/src/test/java/org/apache/river/container/hsm/TestSMInterface.java
+29	0	river-container-core/src/test/java/org/apache/river/container/hsm/TestSMSecondInterface.java
+85	0	river-container-core/src/test/java/org/apache/river/container/security/SecurityManagerTest.java
+86	0	river-container-core/src/test/java/org/apache/river/container/work/BasicWorkManagerTest.java
+147	0	river-container-core/src/test/java/org/apache/river/container/work/ContextualWorkManagerTest.java
+68	0	river-container-core/src/test/java/org/apache/river/surrogate/SurrogateContextTest.java
+26	0	river-container-core/src/test/resources/org/apache/river/container/config/config-test-bad-doc.xml
+26	0	river-container-core/src/test/resources/org/apache/river/container/config/config-test-doc.xml
+54	0	river-container-core/src/test/resources/org/apache/river/container/deployer/sample.config
