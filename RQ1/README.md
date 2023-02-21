@@ -22,4 +22,3 @@ The .und file is obtained by the understand tool. You can get the dependencies o
 ### [RQ1_AllMockFrameworks.csv](../RQ1/RQ1_AllMockFrameworks.csv)
 
 The number of files that have been imported into the mock and the number of test files in each project are recorded.
-We define the file that imports the package of UnitTest as the test file.
