@@ -1,0 +1,12 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\iotdb\cli\src\test\java\org\apache\iotdb\cli\AbstractCliIT.java,True,True,False,False
+C:\Apache project\iotdb\flink-iotdb-connector\src\test\java\org\apache\iotdb\flink\IoTDBSinkBatchInsertTest.java,True,True,False,False
+C:\Apache project\iotdb\flink-iotdb-connector\src\test\java\org\apache\iotdb\flink\IoTDBSinkBatchTimerTest.java,True,True,False,False
+C:\Apache project\iotdb\flink-iotdb-connector\src\test\java\org\apache\iotdb\flink\IoTDBSinkInsertTest.java,True,True,False,False
+C:\Apache project\iotdb\jdbc\src\test\java\org\apache\iotdb\jdbc\BatchTest.java,True,True,False,False
+C:\Apache project\iotdb\jdbc\src\test\java\org\apache\iotdb\jdbc\IoTDBConnectionTest.java,True,True,False,False
+C:\Apache project\iotdb\jdbc\src\test\java\org\apache\iotdb\jdbc\IoTDBJDBCResultSetTest.java,True,True,False,False
+C:\Apache project\iotdb\jdbc\src\test\java\org\apache\iotdb\jdbc\IoTDBPreparedStatementTest.java,True,True,False,False
+C:\Apache project\iotdb\jdbc\src\test\java\org\apache\iotdb\jdbc\IoTDBStatementTest.java,True,True,False,False
+C:\Apache project\iotdb\server\src\test\java\org\apache\iotdb\db\conf\directories\strategy\DirectoryStrategyTest.java,True,False,False,True
+C:\Apache project\iotdb\server\src\test\java\org\apache\iotdb\db\mqtt\PublishHandlerTest.java,True,True,False,False

@@ -1,0 +1,24 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\callback\http\TestCallbackHttpClient.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\client\TestHoodieClientOnCopyOnWriteStorage.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\client\TestWriteStatus.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\execution\TestBoundedInMemoryQueue.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\execution\TestSparkBoundedInMemoryExecutor.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\index\hbase\TestHBaseIndex.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\index\hbase\TestHBaseIndexUsage.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\TestHoodieConsoleMetrics.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\TestHoodieJmxMetrics.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\TestHoodieMetrics.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\TestMetricsReporterFactory.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\datadog\TestDatadogHttpClient.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\datadog\TestDatadogMetricsReporter.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\datadog\TestDatadogReporter.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\prometheus\TestPrometheusReporter.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\prometheus\TestPushGateWayReporter.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\table\action\commit\TestCopyOnWriteActionExecutor.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\table\action\commit\TestUpsertPartitioner.java,True,True,False,False
+C:\Apache project\hudi\hudi-common\src\test\java\org\apache\hudi\common\table\view\TestPriorityBasedFileSystemView.java,True,True,False,False
+C:\Apache project\hudi\hudi-common\src\test\java\org\apache\hudi\common\util\TestParquetReaderIterator.java,True,True,False,False
+C:\Apache project\hudi\hudi-hadoop-mr\src\test\java\org\apache\hudi\hadoop\realtime\TestHoodieRealtimeFileSplit.java,True,True,False,False
+C:\Apache project\hudi\hudi-integ-test\src\test\java\org\apache\hudi\integ\testsuite\TestDFSHoodieTestSuiteWriterAdapter.java,True,True,False,False
+C:\Apache project\hudi\hudi-spark\src\test\java\org\apache\hudi\TestDataSourceUtils.java,True,True,False,False

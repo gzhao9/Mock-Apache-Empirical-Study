@@ -1,0 +1,13 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\RequestUtilsTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\dispatcher\ServletActionRedirectResultTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\dispatcher\StrutsResultSupportTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\interceptor\CookieInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\interceptor\MessageStoreInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\interceptor\ServletConfigInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\views\jsp\IncludeTagTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\views\util\ResourceUtilTest.java,True,False,True,False
+C:\Apache project\struts\plugins\portlet\src\test\java\org\apache\struts2\portlet\dispatcher\Jsr168DispatcherTest.java,True,False,True,False
+C:\Apache project\struts\plugins\portlet\src\test\java\org\apache\struts2\portlet\interceptor\PortletAwareInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\plugins\portlet\src\test\java\org\apache\struts2\portlet\interceptor\PortletStateInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\plugins\portlet\src\test\java\org\apache\struts2\portlet\util\PortletUrlHelperTest.java,True,False,True,False

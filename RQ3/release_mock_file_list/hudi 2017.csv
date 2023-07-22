@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hudi\hoodie-client\src\test\java\com\uber\hoodie\index\bloom\TestHoodieBloomIndex.java,True,True,False,False
+C:\Apache project\hudi\hoodie-client\src\test\java\com\uber\hoodie\metrics\TestHoodieMetrics.java,True,True,False,False
+C:\Apache project\hudi\hoodie-client\src\test\java\com\uber\hoodie\table\TestCopyOnWriteTable.java,True,True,False,False

@@ -1,0 +1,7 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\image\codec\tiff\ImageInfoTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\image\codec\tiff\ImageTypeTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\image\loader\impl\PreloaderJPEGTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\io\XmlSourceUtilTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\java2d\ps\PSGraphics2DTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-commons\src\test\java\org\apache\xmlgraphics\ps\ImageEncodingHelperTestCase.java,True,True,False,False

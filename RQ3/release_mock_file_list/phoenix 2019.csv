@@ -1,0 +1,21 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\phoenix\phoenix-core\src\it\java\org\apache\phoenix\rpc\TestPhoenixIndexRpcSchedulerFactory.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\hadoop\hbase\ipc\PhoenixIndexRpcSchedulerTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\expression\rewrite\RowValueConstructorExpressionRewriterTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\covered\LocalTableStateTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\covered\NonTxIndexBuilderTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\covered\TestCoveredColumnIndexCodec.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\covered\update\TestIndexUpdateManager.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\write\TestIndexWriter.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\write\TestParalleIndexWriter.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\hbase\index\write\TestParalleWriterIndexCommitter.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\iterate\OrderedResultIteratorTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\memory\MemoryManagerTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\query\ConnectionQueryServicesImplTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\query\GuidePostsCacheProviderTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\query\GuidePostsCacheWrapperTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\schema\stats\StatisticsScannerTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\tool\PhoenixCanaryToolTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\util\AbstractUpsertExecutorTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\util\LogUtilTest.java,True,True,False,False
+C:\Apache project\phoenix\phoenix-core\src\test\java\org\apache\phoenix\util\TenantIdByteConversionTest.java,True,True,False,False

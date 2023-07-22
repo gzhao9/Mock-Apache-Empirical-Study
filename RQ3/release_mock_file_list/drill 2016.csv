@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\TestDynamicUDFSupport.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\coord\zk\TestEphemeralStore.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\coord\zk\TestEventDispatcher.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\coord\zk\TestZookeeperClient.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\expr\fn\registry\FunctionRegistryHolderTest.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\physical\impl\partitionsender\TestPartitionSender.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\vector\accessor\GenericAccessorTest.java,True,True,False,False
+C:\Apache project\drill\exec\java-exec\src\test\java\org\apache\drill\exec\vector\complex\TestEmptyPopulation.java,True,True,False,False
+C:\Apache project\drill\exec\jdbc\src\test\java\org\apache\drill\jdbc\DrillColumnMetaDataListTest.java,True,True,False,False

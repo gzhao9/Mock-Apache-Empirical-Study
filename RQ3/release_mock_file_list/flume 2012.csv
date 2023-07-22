@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestLog.java,True,True,False,False
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestTransactionEventRecordV2.java,True,True,False,False
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestTransactionEventRecordV3.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\channel\TestChannelProcessor.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestMultiportSyslogTCPSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestStressSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sinks\flume-ng-hbase-sink\src\test\java\org\apache\flume\sink\hbase\TestRegexHbaseEventSerializer.java,True,True,False,False

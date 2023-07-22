@@ -1,0 +1,14 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\AbstractDatabaseAppenderTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\AbstractDatabaseManagerTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\AbstractJdbcAppenderTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\DataSourceConnectionSourceTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\FactoryMethodConnectionSourceTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-iostreams\src\test\java\org\apache\logging\log4j\io\AbstractLoggerOutputStreamTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-iostreams\src\test\java\org\apache\logging\log4j\io\AbstractLoggerWriterTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-nosql\src\test\java\org\apache\logging\log4j\nosql\appender\NoSqlAppenderTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-nosql\src\test\java\org\apache\logging\log4j\nosql\appender\NoSqlDatabaseManagerTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletContainerInitializerTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletContextListenerTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java,True,False,True,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java,True,False,True,False

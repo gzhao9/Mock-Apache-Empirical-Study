@@ -1,0 +1,3 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\tika\tika-parsers\src\test\java\org\apache\tika\parser\image\ImageMetadataExtractorTest.java,True,True,False,False
+C:\Apache project\tika\tika-parsers\src\test\java\org\apache\tika\parser\mail\RFC822ParserTest.java,True,True,False,False

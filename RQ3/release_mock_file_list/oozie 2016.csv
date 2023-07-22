@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\oozie\client\src\test\java\org\apache\oozie\cli\TestOozieCLIMethods.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\action\hadoop\TestHCatCredentials.java,True,True,False,True
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\action\ssh\TestSshActionExecutor.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\client\TestOozieClientWithFakeServlet.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\client\TestWorkflowClient.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\command\coord\TestCoordActionNotificationXCommand.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\command\wf\TestWorkflowNotificationXCommand.java,True,True,False,False
+C:\Apache project\oozie\core\src\test\java\org\apache\oozie\servlet\TestHostnameFilter.java,True,True,False,False
+C:\Apache project\oozie\login\src\test\java\org\apache\oozie\authentication\TestExampleAltAuthenticationHandler.java,True,True,False,False
+C:\Apache project\oozie\tools\src\test\java\org\apache\oozie\tools\FakeConnection.java,True,True,False,False

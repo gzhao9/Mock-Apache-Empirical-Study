@@ -1,0 +1,18 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestLog.java,True,True,False,False
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestTransactionEventRecordV2.java,True,True,False,False
+C:\Apache project\flume\flume-ng-channels\flume-file-channel\src\test\java\org\apache\flume\channel\file\TestTransactionEventRecordV3.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\channel\TestChannelProcessor.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\formatter\output\TestBucketPath.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestAbstractPollableSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestBasicSourceSemantics.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestMultiportSyslogTCPSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-core\src\test\java\org\apache\flume\source\TestStressSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-embedded-agent\src\test\java\org\apache\flume\agent\embedded\TestEmbeddedAgentEmbeddedSource.java,True,True,False,False
+C:\Apache project\flume\flume-ng-node\src\test\java\org\apache\flume\node\TestApplication.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sinks\flume-ng-hbase-sink\src\test\java\org\apache\flume\sink\hbase\TestRegexHbaseEventSerializer.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sources\flume-jms-source\src\test\java\org\apache\flume\source\jms\JMSMessageConsumerTestBase.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sources\flume-jms-source\src\test\java\org\apache\flume\source\jms\TestDefaultJMSMessageConverter.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sources\flume-jms-source\src\test\java\org\apache\flume\source\jms\TestIntegrationActiveMQ.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sources\flume-jms-source\src\test\java\org\apache\flume\source\jms\TestJMSMessageConsumer.java,True,True,False,False
+C:\Apache project\flume\flume-ng-sources\flume-jms-source\src\test\java\org\apache\flume\source\jms\TestJMSSource.java,True,True,False,False

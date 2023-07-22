@@ -1,0 +1,7 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\oodt\crawler\src\test\java\org\apache\oodt\cas\crawl\TestProductCrawler.java,True,False,True,False
+C:\Apache project\oodt\filemgr\src\test\java\org\apache\oodt\cas\filemgr\datatransfer\TestS3DataTransferer.java,True,True,False,False
+C:\Apache project\oodt\filemgr\src\test\java\org\apache\oodt\cas\filemgr\metadata\extractors\examples\TestDateTimeExpandMetExtractor.java,True,True,False,False
+C:\Apache project\oodt\metadata\src\test\org\apache\oodt\cas\metadata\extractors\TestDataSourceMetExtractor.java,True,True,False,False
+C:\Apache project\oodt\pge\src\test\java\org\apache\oodt\cas\pge\TestPGETaskInstance.java,True,False,True,False
+C:\Apache project\oodt\pge\src\test\java\org\apache\oodt\cas\pge\staging\TestFileStager.java,True,False,True,False

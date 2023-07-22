@@ -1,0 +1,2 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\fluo\modules\accumulo\src\test\java\org\apache\fluo\accumulo\iterators\TestIteratorEnv.java,True,False,True,False

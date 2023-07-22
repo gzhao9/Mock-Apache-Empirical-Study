@@ -1,0 +1,16 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\comm\ConnectionTest.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\comm\RequestFailureTest.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\comm\RequestTest.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\comm\SaslConnectionTest.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\io\TestAdjacencyListTextVertexOutputFormat.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\io\TestIdWithValueTextOutputFormat.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\io\TestLongDoubleDoubleAdjacencyListVertexInputFormat.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\io\TestTextDoubleDoubleAdjacencyListVertexInputFormat.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\partition\TestGiraphTransferRegulator.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\partition\TestPartitionStores.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\utils\MockUtils.java,True,True,False,False
+C:\Apache project\giraph\giraph-core\src\test\java\org\apache\giraph\zk\TestPredicateLock.java,True,True,False,False
+C:\Apache project\giraph\giraph-examples\src\test\java\org\apache\giraph\TestBspBasic.java,True,True,False,False
+C:\Apache project\giraph\giraph-examples\src\test\java\org\apache\giraph\aggregators\TestAggregatorsHandling.java,True,True,False,False
+C:\Apache project\giraph\giraph-examples\src\test\java\org\apache\giraph\examples\SimpleShortestPathsVertexTest.java,True,True,False,False

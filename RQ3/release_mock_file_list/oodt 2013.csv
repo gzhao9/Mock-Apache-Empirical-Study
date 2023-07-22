@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\oodt\crawler\src\test\org\apache\oodt\cas\crawl\TestProductCrawler.java,True,False,True,False
+C:\Apache project\oodt\pge\src\test\java\org\apache\oodt\cas\pge\TestPGETaskInstance.java,True,False,True,False
+C:\Apache project\oodt\pge\src\test\java\org\apache\oodt\cas\pge\staging\TestFileStager.java,True,False,True,False
+C:\Apache project\oodt\xmlps\src\test\java\org\apache\oodt\xmlps\structs\TestCDEResult.java,True,False,True,False
+C:\Apache project\oodt\xmlps\src\test\java\org\apache\oodt\xmlps\structs\TestCDEResultInputStream.java,True,False,True,False

@@ -1,0 +1,22 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\lucene-solr\solr\contrib\dataimporthandler\src\test\org\apache\solr\handler\dataimport\MockInitialContextFactory.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\contrib\dataimporthandler\src\test\org\apache\solr\handler\dataimport\TestJdbcDataSource.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\contrib\ltr\src\test\org\apache\solr\ltr\model\TestWrapperModel.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\analysis\TestReversedWildcardFilterFactory.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\AssignTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\OverseerCollectionConfigSetProcessorTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\OverseerTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\overseer\TestClusterStateMutator.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\rule\ImplicitSnitchTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\core\BlobRepositoryMockingTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\core\CoreSorterTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\handler\admin\TestCoreAdminApis.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\metrics\reporters\SolrGangliaReporterTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\schema\SchemaWatcherTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\schema\TestManagedSchemaThreadSafety.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\security\TestPKIAuthenticationPlugin.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\servlet\SolrRequestParserTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\update\processor\ClassificationUpdateProcessorFactoryTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\update\processor\ClassificationUpdateProcessorTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\update\processor\SkipExistingDocumentsProcessorFactoryTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\solrj\src\test\org\apache\solr\client\solrj\impl\CloudSolrClientCacheTest.java,True,True,False,False

@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\maven\maven-aether-provider\src\test\java\org\apache\maven\repository\internal\DefaultArtifactDescriptorReaderTest.java,True,True,False,False
+C:\Apache project\maven\maven-core\src\test\java\org\apache\maven\toolchain\DefaultToolchainManagerPrivateTest.java,True,True,False,False
+C:\Apache project\maven\maven-core\src\test\java\org\apache\maven\toolchain\DefaultToolchainManagerTest.java,True,True,False,False
+C:\Apache project\maven\maven-core\src\test\java\org\apache\maven\toolchain\DefaultToolchainTest.java,True,True,False,False
+C:\Apache project\maven\maven-core\src\test\java\org\apache\maven\toolchain\building\DefaultToolchainsBuilderTest.java,True,True,False,False

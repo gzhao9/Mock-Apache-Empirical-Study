@@ -1,0 +1,21 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\TransportRequestHandlerSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\TransportResponseHandlerSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\crypto\AuthEngineSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\crypto\AuthIntegrationSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\crypto\TransportCipherSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\protocol\MessageWithHeaderSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\sasl\SparkSaslSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\server\OneForOneStreamManagerSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-common\src\test\java\org\apache\spark\network\util\TransportFrameDecoderSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-shuffle\src\test\java\org\apache\spark\network\sasl\SaslIntegrationSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\AppIsolationSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleBlockHandlerSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\OneForOneBlockFetcherSuite.java,True,True,False,False
+C:\Apache project\spark\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\RetryingBlockFetcherSuite.java,True,True,False,False
+C:\Apache project\spark\core\src\test\java\org\apache\spark\launcher\SparkLauncherSuite.java,True,True,False,False
+C:\Apache project\spark\core\src\test\java\org\apache\spark\shuffle\sort\UnsafeShuffleWriterSuite.java,True,True,False,False
+C:\Apache project\spark\core\src\test\java\org\apache\spark\unsafe\map\AbstractBytesToBytesMapSuite.java,True,True,False,False
+C:\Apache project\spark\core\src\test\java\org\apache\spark\util\collection\unsafe\sort\UnsafeExternalSorterSuite.java,True,True,False,False
+C:\Apache project\spark\core\src\test\java\org\apache\spark\util\collection\unsafe\sort\UnsafeInMemorySorterSuite.java,True,True,False,False
+C:\Apache project\spark\launcher\src\test\java\org\apache\spark\launcher\SparkSubmitOptionParserSuite.java,True,True,False,False

@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\any23\core\src\test\java\org\apache\any23\extractor\ExtractionResultImplTest.java,True,True,False,False
+C:\Apache project\any23\core\src\test\java\org\apache\any23\extractor\rdfa\ExtractionExceptionTest.java,True,True,False,False
+C:\Apache project\any23\core\src\test\java\org\apache\any23\extractor\rdfa\RDFa11ParserTest.java,True,True,False,False
+C:\Apache project\any23\core\src\test\java\org\apache\any23\extractor\xpath\TemplateXPathExtractorRuleImplTest.java,True,True,False,False
+C:\Apache project\any23\core\src\test\java\org\apache\any23\filter\IgnoreAccidentalRDFaTest.java,True,True,False,False

@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\pig\contrib\piggybank\java\src\test\java\org\apache\pig\piggybank\test\evaluation\xml\XPathAllTest.java,True,True,False,False
+C:\Apache project\pig\contrib\piggybank\java\src\test\java\org\apache\pig\piggybank\test\evaluation\xml\XPathTest.java,True,True,False,False
+C:\Apache project\pig\test\org\apache\pig\test\TestMRJobStats.java,True,True,False,False
+C:\Apache project\pig\test\org\apache\pig\test\TestReadToEndLoader.java,True,True,False,False
+C:\Apache project\pig\test\org\apache\pig\test\TestRegisterParser.java,True,True,False,False

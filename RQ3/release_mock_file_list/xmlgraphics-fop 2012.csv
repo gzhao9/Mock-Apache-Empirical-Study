@@ -1,0 +1,21 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\afp\AFPGraphics2DTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\afp\ptoca\TransparentDataControlSequenceTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\FONodeMocks.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\pagination\PageSequenceMasterTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\pagination\RepeatablePageMasterAlternativesTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\properties\AltTextHolderTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\properties\CommonAccessibilityHolderTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\properties\PropertyListMocks.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fo\properties\PropertyMocks.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\fonts\type1\CharMetricsHandlerTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\layoutmgr\PageSequenceLayoutManagerTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\intermediate\IFStructureTreeBuilderTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\intermediate\SAXEventRecorderTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\pdf\ImageRawPNGAdapterTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\ImageEncoderPNGTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\PSPainterTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\PSRenderingUtilTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\fonts\PSTTFGlyphOutputStreamTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\fonts\PSTTFOutputStreamTestCase.java,True,True,False,False
+C:\Apache project\xmlgraphics-fop\test\java\org\apache\fop\render\ps\fonts\PSTTFTableOutputStreamTestCase.java,True,True,False,False

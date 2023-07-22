@@ -1,0 +1,25 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\ignite\modules\aws\src\test\java\org\apache\ignite\spi\discovery\tcp\ipfinder\s3\TcpDiscoveryS3IpFinderKeyPrefixSelfTest.java,True,True,False,False
+C:\Apache project\ignite\modules\cassandra\store\src\test\java\org\apache\ignite\tests\CassandraSessionImplTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\managers\GridManagerMxBeanIllegalArgumentHandleTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\managers\communication\GridIoManagerSelfTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\distributed\dht\GridCachePartitionsStateValidatorSelfTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\db\wal\reader\MockWalIteratorFactory.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\BPlusTreePageMemoryImplTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\BPlusTreeReuseListPageMemoryImplTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\IgnitePageMemReplaceDelayedWriteUnitTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\IgniteThrottlingUnitTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\IndexStoragePageMemoryImplTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\PageMemoryImplNoLoadTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\pagemem\PageMemoryImplTest.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cache\persistence\wal\memtracker\PageMemoryTracker.java,True,True,False,False
+C:\Apache project\ignite\modules\core\src\test\java\org\apache\ignite\internal\processors\cluster\GridUpdateNotifierSelfTest.java,True,True,False,False
+C:\Apache project\ignite\modules\kafka\src\test\java\org\apache\ignite\stream\kafka\connect\IgniteSinkConnectorTest.java,True,False,True,False
+C:\Apache project\ignite\modules\ml\src\test\java\org\apache\ignite\ml\dataset\impl\cache\util\DatasetAffinityFunctionWrapperTest.java,True,True,False,False
+C:\Apache project\ignite\modules\ml\src\test\java\org\apache\ignite\ml\dataset\primitive\DatasetWrapperTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\ProcessManagerWrapperTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\longrunning\LongRunningProcessManagerTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\longrunning\task\LongRunningProcessClearTaskTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\longrunning\task\LongRunningProcessPingTaskTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\longrunning\task\LongRunningProcessStartTaskTest.java,True,True,False,False
+C:\Apache project\ignite\modules\tensorflow\src\test\java\org\apache\ignite\tensorflow\core\longrunning\task\LongRunningProcessStopTaskTest.java,True,True,False,False

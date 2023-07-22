@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\lucene-solr\solr\contrib\dataimporthandler\src\test\org\apache\solr\handler\dataimport\MockInitialContextFactory.java,True,False,True,False
+C:\Apache project\lucene-solr\solr\contrib\dataimporthandler\src\test\org\apache\solr\handler\dataimport\TestJdbcDataSource.java,True,False,True,False
+C:\Apache project\lucene-solr\solr\contrib\map-reduce\src\test\org\apache\solr\hadoop\MorphlineReducerTest.java,True,True,False,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\ClusterStateTest.java,True,False,True,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\cloud\OverseerCollectionConfigSetProcessorTest.java,True,False,True,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\security\TestPKIAuthenticationPlugin.java,True,False,True,False
+C:\Apache project\lucene-solr\solr\core\src\test\org\apache\solr\servlet\SolrRequestParserTest.java,True,False,True,False

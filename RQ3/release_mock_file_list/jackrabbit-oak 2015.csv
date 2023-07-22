@@ -1,0 +1,18 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\jackrabbit-oak\oak-auth-external\src\test\java\org\apache\jackrabbit\oak\spi\security\authentication\external\ExternalLoginModuleFactoryTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\osgi\ObserverTrackerTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\osgi\OsgiWhiteboardTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\blob\datastore\DataStoreBlobStoreTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\property\OrderedIndexCostTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\property\OrderedPropertyIndexEditorTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\property\strategy\OrderedContentMirrorStorageStrategyTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\nodetype\TypeEditorTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\segment\CompareAgainstBaseStateTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\segment\MapRecordTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\segment\file\ExternalBlobReferenceTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\index\SolrIndexEditorTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\index\SolrIndexHookIT.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\query\FilterQueryParserTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\query\LMSEstimatorTest.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\query\SolrQueryEngineIT.java,True,True,False,False
+C:\Apache project\jackrabbit-oak\oak-solr-core\src\test\java\org\apache\jackrabbit\oak\plugins\index\solr\query\SolrQueryIndexTest.java,True,True,False,False

@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\cassandra\test\distributed\org\apache\cassandra\distributed\mock\nodetool\InternalNodeProbe.java,True,True,False,False
+C:\Apache project\cassandra\test\unit\org\apache\cassandra\db\KeyCacheTest.java,True,True,False,False
+C:\Apache project\cassandra\test\unit\org\apache\cassandra\db\marshal\EmptyTypeTest.java,True,True,False,False
+C:\Apache project\cassandra\test\unit\org\apache\cassandra\utils\memory\MemtableCleanerThreadTest.java,True,True,False,False

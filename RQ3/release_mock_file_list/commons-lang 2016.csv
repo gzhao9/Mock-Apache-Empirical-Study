@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-lang\src\test\java\org\apache\commons\lang3\concurrent\BasicThreadFactoryTest.java,True,False,True,False
+C:\Apache project\commons-lang\src\test\java\org\apache\commons\lang3\concurrent\ConcurrentUtilsTest.java,True,False,True,False
+C:\Apache project\commons-lang\src\test\java\org\apache\commons\lang3\concurrent\TimedSemaphoreTest.java,True,False,True,False
+C:\Apache project\commons-lang\src\test\java\org\apache\commons\lang3\event\EventListenerSupportTest.java,True,False,True,False

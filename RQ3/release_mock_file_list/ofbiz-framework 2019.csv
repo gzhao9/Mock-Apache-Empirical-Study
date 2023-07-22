@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\ofbiz-framework\framework\entity\src\test\java\org\apache\ofbiz\entity\util\EntitySaxReaderTests.java,True,True,False,False
+C:\Apache project\ofbiz-framework\framework\webapp\src\test\java\org\apache\ofbiz\webapp\control\ControlFilterTests.java,True,True,False,False
+C:\Apache project\ofbiz-framework\framework\webapp\src\test\java\org\apache\ofbiz\webapp\control\ExternalLoginKeysManagerTests.java,True,True,False,False
+C:\Apache project\ofbiz-framework\framework\webapp\src\test\java\org\apache\ofbiz\webapp\control\RequestHandlerTests.java,True,True,False,False
+C:\Apache project\ofbiz-framework\framework\widget\src\test\java\org\apache\ofbiz\widget\renderer\FormRendererTest.java,True,True,False,False

@@ -1,0 +1,12 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\RequestUtilsTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\dispatcher\ServletActionRedirectResultTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\dispatcher\StrutsResultSupportTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\impl\RequestContextTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\interceptor\MessageStoreInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\interceptor\ServletConfigInterceptorTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\portlet\context\PreparatorServletTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\portlet\context\ServletContextHolderListenerTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\portlet\util\PortletUrlHelperTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\views\jsp\IncludeTagTest.java,True,False,True,False
+C:\Apache project\struts\core\src\test\java\org\apache\struts2\views\util\ResourceUtilTest.java,True,False,True,False

@@ -1,0 +1,27 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-configuration\src\test\java\org\apache\maven\archiva\configuration\ArchivaConfigurationTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-consumers\archiva-database-consumers\src\test\java\org\apache\maven\archiva\consumers\database\DatabaseCleanupRemoveArtifactConsumerTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-consumers\archiva-database-consumers\src\test\java\org\apache\maven\archiva\consumers\database\DatabaseCleanupRemoveProjectConsumerTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-indexer\src\test\java\org\apache\maven\archiva\indexer\MockConfiguration.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-proxy\src\test\java\org\apache\maven\archiva\proxy\AbstractProxyTestCase.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-proxy\src\test\java\org\apache\maven\archiva\proxy\MockConfiguration.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-repository-layer\src\test\java\org\apache\maven\archiva\repository\MockConfiguration.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-base\archiva-repository-layer\src\test\java\org\apache\maven\archiva\repository\scanner\RepositoryContentConsumersTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-security\src\test\java\org\apache\maven\archiva\security\ArchivaServletAuthenticatorTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\appearance\AbstractOrganizationInfoActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\appearance\EditOrganizationInfoActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\connectors\proxy\AddProxyConnectorActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\connectors\proxy\DeleteProxyConnectorActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\connectors\proxy\EditProxyConnectorActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\connectors\proxy\ProxyConnectorsActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\connectors\proxy\SortProxyConnectorsActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\AddManagedRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\AddRemoteRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\DeleteManagedRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\DeleteRemoteRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\DeleteRepositoryGroupActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\EditManagedRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\EditRemoteRepositoryActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\RepositoryGroupsActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webapp\src\test\java\org\apache\maven\archiva\web\action\admin\repositories\SortRepositoriesActionTest.java,True,False,True,False
+C:\Apache project\archiva\archiva-modules\archiva-web\archiva-webdav\src\test\java\org\apache\maven\archiva\webdav\RepositoryServletSecurityTest.java,True,False,True,False

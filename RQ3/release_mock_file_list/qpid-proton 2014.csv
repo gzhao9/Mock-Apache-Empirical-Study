@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\qpid-proton\contrib\proton-jms\src\test\java\org\apache\qpid\proton\jms\JMSMappingInboundTransformerTest.java,True,True,False,False
+C:\Apache project\qpid-proton\contrib\proton-jms\src\test\java\org\apache\qpid\proton\jms\JMSMappingOutboundTransformerTest.java,True,True,False,False
+C:\Apache project\qpid-proton\proton-j\src\test\java\org\apache\qpid\proton\engine\impl\FrameParserTest.java,True,True,False,False
+C:\Apache project\qpid-proton\proton-j\src\test\java\org\apache\qpid\proton\engine\impl\SaslFrameParserTest.java,True,True,False,False
+C:\Apache project\qpid-proton\proton-j\src\test\java\org\apache\qpid\proton\engine\impl\ssl\SslHandshakeSniffingTransportWrapperTest.java,True,True,False,False

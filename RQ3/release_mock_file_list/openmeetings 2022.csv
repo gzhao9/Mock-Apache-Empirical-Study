@@ -1,0 +1,9 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\openmeetings\openmeetings-core\src\test\java\org\apache\openmeetings\core\remote\BaseMockedTest.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-core\src\test\java\org\apache\openmeetings\core\remote\TestRecordingFlowMocked.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-core\src\test\java\org\apache\openmeetings\core\remote\TestRoomFlowMocked.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-core\src\test\java\org\apache\openmeetings\core\remote\TestSetupFlowMocked.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-core\src\test\java\org\apache\openmeetings\core\util\TestStrongPasswordValidator.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-db\src\test\java\org\apache\openmeetings\db\entity\file\FileItemTest.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-web\src\test\java\org\apache\openmeetings\service\scheduler\TestJob.java,True,True,False,False
+C:\Apache project\openmeetings\openmeetings-web\src\test\java\org\apache\openmeetings\web\app\TestUserManagerMocked.java,True,True,False,False

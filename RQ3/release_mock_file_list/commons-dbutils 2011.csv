@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\AsyncQueryRunnerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\QueryRunnerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\BeanMapHandlerTest.java,True,True,False,False

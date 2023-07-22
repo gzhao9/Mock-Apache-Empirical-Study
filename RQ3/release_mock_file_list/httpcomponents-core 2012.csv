@@ -1,0 +1,23 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\impl\TestNoConnectionReuseStrategy.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\impl\entity\TestDisallowIdentityContentLengthStrategy.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\impl\io\TestSocketOutputBuffer.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\pool\TestConnPool.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\pool\TestPoolEntry.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\pool\TestRouteSpecificPool.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\protocol\TestHttpRequestExecutor.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\protocol\TestHttpService.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore\src\test\java\org\apache\http\protocol\TestStandardInterceptors.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\impl\nio\TestContentChannel.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\impl\nio\pool\TestBasicNIOConnPool.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\pool\TestNIOConnPool.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\pool\TestRouteSpecificPool.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncRequestConsumer.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncRequestExecutionHandler.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncRequestHandler.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncRequestProducer.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncResponseConsumer.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestBasicAsyncResponseProducer.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestHttpAsyncRequester.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestHttpAsyncRequestExecutor.java,True,True,False,False
+C:\Apache project\httpcomponents-core\httpcore-nio\src\test\java\org\apache\http\nio\protocol\TestHttpAsyncService.java,True,True,False,False

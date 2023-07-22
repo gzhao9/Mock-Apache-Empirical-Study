@@ -1,0 +1,24 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\tapestry-5\genericsresolver-guava\src\test\java\org\apache\tapestry5\internal\genericsresolverguava\AbstractBeanModelSourceImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\main\java\org\apache\tapestry5\test\TapestryTestCase.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\corelib\components\BeanEditorTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\corelib\components\LoopTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\corelib\components\SelectTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\corelib\components\SubmitTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\beaneditor\BeanModelUtilsTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\AbstractBeanModelSourceImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\ApplicationStateManagerImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\ClientPersistentFieldStorageImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\ComponentEventImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\DefaultRequestExceptionHandlerTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\FieldValidationSupportImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\FieldValidatorSourceImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\PageActivationContextCollectorImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\services\RenderQueueImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\structure\PageImplTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-core\src\test\java\org\apache\tapestry5\internal\test\InternalBaseTestCase.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-ioc\src\main\java\org\apache\tapestry5\ioc\test\IOCTestCase.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-test\src\main\java\org\apache\tapestry5\ioc\test\MockTester.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-test\src\main\java\org\apache\tapestry5\ioc\test\TestBase.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-upload\src\test\java\org\apache\tapestry5\upload\components\UploadTest.java,True,False,True,False
+C:\Apache project\tapestry-5\tapestry-upload\src\test\java\org\apache\tapestry5\upload\internal\services\ParametersServletRequestWrapperTest.java,True,False,True,False

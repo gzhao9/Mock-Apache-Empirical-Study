@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\tiles\tiles-api\src\test\java\org\apache\tiles\access\TilesAccessTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\context\enhanced\EnhancedTilesApplicationContextTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\factory\KeyedDefinitionsFactoryTilesContainerFactoryTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\factory\TilesContainerFactoryTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\impl\BasicTilesContainerTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\impl\KeyedDefinitionsFactoryTilesContainerTest.java,True,False,True,False
+C:\Apache project\tiles\tiles-core\src\test\java\org\apache\tiles\servlet\context\ServletSessionScopeMapTest.java,True,False,True,False

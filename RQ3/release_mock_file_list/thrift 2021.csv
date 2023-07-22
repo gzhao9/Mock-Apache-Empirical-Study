@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\thrift\contrib\thrift-maven-plugin\src\test\java\org\apache\thrift\maven\TestAbstractThriftMojo.java,True,True,False,False
+C:\Apache project\thrift\lib\java\test\org\apache\thrift\TestMultiplexedProcessor.java,True,True,False,False
+C:\Apache project\thrift\lib\java\test\org\apache\thrift\transport\sasl\TestDataFrameWriter.java,True,True,False,False

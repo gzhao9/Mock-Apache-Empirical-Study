@@ -1,0 +1,25 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\aop\AnnotationResolverTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\authc\AbstractAuthenticatorTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\authz\aop\RoleAnnotationHandlerTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\concurrent\SubjectAwareExecutorServiceTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\concurrent\SubjectAwareExecutorTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\realm\ldap\JndiLdapContextFactoryTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\realm\ldap\JndiLdapRealmTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\session\mgt\DefaultSessionManagerTest.java,True,False,True,False
+C:\Apache project\shiro\core\src\test\java\org\apache\shiro\subject\DelegatingSubjectTest.java,True,False,True,False
+C:\Apache project\shiro\support\spring\src\test\java\org\apache\shiro\spring\remoting\SecureRemoteInvocationFactoryTest.java,True,False,True,False
+C:\Apache project\shiro\support\spring\src\test\java\org\apache\shiro\spring\web\ShiroFilterFactoryBeanTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\WebTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\config\IniFilterChainResolverFactoryTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\authc\BasicHttpFilterAuthenticationTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\authz\AuthorizationFilterTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\authz\PortFilterTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\mgt\DefaultFilterChainManagerTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\mgt\PathMatchingFilterChainResolverTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\filter\mgt\SimpleNamedFilterListTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\mgt\CookieRememberMeManagerTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\mgt\DefaultWebSecurityManagerTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\servlet\IniShiroFilterTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\servlet\SimpleCookieTest.java,True,False,True,False
+C:\Apache project\shiro\web\src\test\java\org\apache\shiro\web\session\mgt\DefaultWebSessionManagerTest.java,True,False,True,False

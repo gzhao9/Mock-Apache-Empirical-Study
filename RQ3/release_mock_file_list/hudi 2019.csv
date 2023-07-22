@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\TestHoodieClientOnCopyOnWriteStorage.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\TestWriteStatus.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\func\TestBoundedInMemoryExecutor.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\func\TestBoundedInMemoryQueue.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\func\TestParquetReaderIterator.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\index\TestHbaseIndex.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\metrics\TestHoodieMetrics.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\table\TestCopyOnWriteTable.java,True,True,False,False
+C:\Apache project\hudi\hudi-client\src\test\java\org\apache\hudi\table\TestHoodieRecordSizing.java,True,True,False,False

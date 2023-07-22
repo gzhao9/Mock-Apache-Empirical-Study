@@ -1,0 +1,12 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hive\cli\src\test\org\apache\hadoop\hive\cli\TestCliDriverMethods.java,True,True,False,False
+C:\Apache project\hive\ql\src\test\org\apache\hadoop\hive\ql\io\TestHiveBinarySearchRecordReader.java,True,True,False,False
+C:\Apache project\hive\ql\src\test\org\apache\hadoop\hive\ql\io\orc\TestMemoryManager.java,True,True,False,False
+C:\Apache project\hive\ql\src\test\org\apache\hadoop\hive\ql\lockmgr\zookeeper\TestZookeeperLockManager.java,True,True,False,False
+C:\Apache project\hive\serde\src\test\org\apache\hadoop\hive\serde2\TestSerdeWithFieldComments.java,True,True,False,False
+C:\Apache project\hive\serde\src\test\org\apache\hadoop\hive\serde2\avro\TestAvroSerde.java,True,True,False,False
+C:\Apache project\hive\testutils\ptest2\src\test\java\org\apache\hive\ptest\api\server\TestTestExecutor.java,True,True,False,False
+C:\Apache project\hive\testutils\ptest2\src\test\java\org\apache\hive\ptest\execution\AbstractTestPhase.java,True,True,False,False
+C:\Apache project\hive\testutils\ptest2\src\test\java\org\apache\hive\ptest\execution\TestHostExecutor.java,True,True,False,False
+C:\Apache project\hive\testutils\ptest2\src\test\java\org\apache\hive\ptest\execution\TestPhase.java,True,True,False,False
+C:\Apache project\hive\testutils\ptest2\src\test\java\org\apache\hive\ptest\execution\context\TestCloudExecutionContextProvider.java,True,True,False,False

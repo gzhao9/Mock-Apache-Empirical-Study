@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\curator\curator-client\src\test\java\com\netflix\curator\TestEnsurePath.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\com\netflix\curator\framework\recipes\queue\TestDistributedPriorityQueue.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\com\netflix\curator\framework\recipes\queue\TestDistributedQueue.java,True,True,False,False

@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\mina-vysper\server\admin-console\src\test\java\org\apache\vysper\console\AdminConsoleControllerTest.java,True,True,False,False
+C:\Apache project\mina-vysper\server\core\src\test\java\org\apache\vysper\xmpp\delivery\inbound\DeliveringExternalInboundStanzaRelayTestCase.java,True,True,False,False
+C:\Apache project\mina-vysper\server\core\src\test\java\org\apache\vysper\xmpp\modules\extension\xep007_inbandreg\InBandRegistrationHandlerTestCase.java,True,True,False,False
+C:\Apache project\mina-vysper\server\core\src\test\java\org\apache\vysper\xmpp\modules\extension\xep0220_server_dailback\DbVerifyHandlerTestCase.java,True,True,False,False
+C:\Apache project\mina-vysper\server\core\src\test\java\org\apache\vysper\xmpp\server\response\ServerResponsesTestCase.java,True,True,False,False
+C:\Apache project\mina-vysper\server\extensions\websockets\src\test\java\org\apache\vysper\xmpp\extension\websockets\XmppWebSocketBackedSessionContextTest.java,True,True,False,False
+C:\Apache project\mina-vysper\server\extensions\websockets\src\test\java\org\apache\vysper\xmpp\extension\websockets\XmppWebSocketServletTest.java,True,True,False,False
+C:\Apache project\mina-vysper\server\extensions\xep0124-xep0206-bosh\src\test\java\org\apache\vysper\xmpp\extension\xep0124\BoshBackedSessionContextTest.java,True,False,True,False
+C:\Apache project\mina-vysper\server\extensions\xep0124-xep0206-bosh\src\test\java\org\apache\vysper\xmpp\extension\xep0124\BoshDecoderTest.java,True,False,True,False
+C:\Apache project\mina-vysper\server\extensions\xep0124-xep0206-bosh\src\test\java\org\apache\vysper\xmpp\extension\xep0124\BoshHandlerTest.java,True,False,True,False

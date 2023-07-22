@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\ClientReconnectTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\QuorumCnxManagerTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\WatchLeakTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\Zab1_0Test.java,True,True,False,False

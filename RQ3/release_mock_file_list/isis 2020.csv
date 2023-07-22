@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\facets\object\mixin\MixinIntendedAs.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\facets\param\name\ParameterNameFacetTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\services\ServiceInjectorLegacyTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\services\title\TitleServiceDefaultTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\specloader\SpecificationLoaderTestAbstract.java,True,True,False,False
+C:\Apache project\isis\persistence\jdo\datanucleus-5\src\test\java\org\apache\isis\persistence\jdo\datanucleus5\specloader\SpecificationLoaderTestAbstract.java,True,True,False,False
+C:\Apache project\isis\regressiontests\incubating\src\test\java\org\apache\isis\testdomain\shiro\ShiroSimpleTest.java,True,True,False,False

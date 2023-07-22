@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\axis-axis2-java-core\modules\adb-tests\src\test\java\org\apache\axis2\schema\axis2_5771\IgnoreUnexpectedTest.java,True,True,False,False
+C:\Apache project\axis-axis2-java-core\modules\jaxws\test\org\apache\axis2\datasource\jaxb\JAXBCustomBuilderDisableStreamingTests.java,True,True,False,False
+C:\Apache project\axis-axis2-java-core\modules\kernel\test\org\apache\axis2\deployment\repository\util\DeploymentFileDataTest.java,True,True,False,False
+C:\Apache project\axis-axis2-java-core\modules\transport\jms\src\test\java\org\apache\axis2\transport\jms\JMSUtilsTest.java,True,True,False,False

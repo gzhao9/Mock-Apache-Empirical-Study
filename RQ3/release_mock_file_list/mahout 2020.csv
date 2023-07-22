@@ -1,0 +1,22 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\mahout\community\mahout-mr\integration\src\test\java\org\apache\mahout\cf\taste\impl\similarity\jdbc\MySQLJDBCInMemoryItemSimilarityTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\hadoop\item\RecommenderJobTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\hadoop\item\ToUserVectorsReducerTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\hadoop\similarity\item\ItemSimilarityJobTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\impl\recommender\AllUnknownItemsCandidateItemsStrategyTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\impl\recommender\GenericItemBasedRecommenderTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\impl\recommender\PreferredItemsNeighborhoodCandidateItemsStrategyTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\impl\recommender\svd\SVDRecommenderTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\cf\taste\impl\similarity\precompute\MultithreadedBatchItemSimilaritiesTest.java,True,True,False,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\classifier\df\mapreduce\partial\Step1MapperTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\classifier\naivebayes\training\IndexInstancesMapperTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\classifier\naivebayes\training\ThetaMapperTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\classifier\naivebayes\training\WeightsMapperTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\common\DummyStatusReporter.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\math\hadoop\MathHelper.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\math\hadoop\similarity\TestVectorDistanceSimilarityJob.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\vectorizer\collocations\llr\CollocMapperTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\vectorizer\collocations\llr\CollocReducerTest.java,True,False,True,False
+C:\Apache project\mahout\community\mahout-mr\mr\src\test\java\org\apache\mahout\vectorizer\collocations\llr\LLRReducerTest.java,True,False,True,False
+C:\Apache project\mahout\core\src\test\java\org\apache\mahout\math\VectorBinaryAggregateCostTest.java,True,False,True,False
+C:\Apache project\mahout\core\src\test\java\org\apache\mahout\math\VectorBinaryAssignCostTest.java,True,False,True,False

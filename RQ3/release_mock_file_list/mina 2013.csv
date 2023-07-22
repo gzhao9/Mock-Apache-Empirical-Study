@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\mina\core\src\test\java\org\apache\mina\filter\codec\ProtocolCodecFilterTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\filter\query\RequestFilterTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\service\executor\HandlerCallerTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\service\executor\OrderedHandlerExecutorTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\service\executor\UnorderHandlerExecutorTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\service\idlecheker\IndexedIdleChekerTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\session\AbstractIoSessionTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\transport\nio\ProxySocketSessionConfigTest.java,True,True,False,False
+C:\Apache project\mina\core\src\test\java\org\apache\mina\util\AbstractIoFutureTest.java,True,True,False,False

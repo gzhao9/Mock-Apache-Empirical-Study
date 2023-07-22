@@ -1,0 +1,18 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\lens\lens-client\src\test\java\org\apache\lens\client\model\IdBriefErrorTemplateTest.java,True,True,False,False
+C:\Apache project\lens\lens-cube\src\test\java\org\apache\lens\cube\metadata\CubeFactTableTest.java,True,True,False,False
+C:\Apache project\lens\lens-cube\src\test\java\org\apache\lens\cube\query\cost\TestFactPartitionBasedQueryCostCalculator.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\QueryContextComparatorTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\collect\DefaultEstimatedQueryCollectionTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\collect\DefaultQueryCollectionTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\collect\QueryCollectUtil.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\collect\UnioningWaitingQueriesSelectorTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\collect\UserSpecificWaitingQueriesSelectionPolicyTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\constraint\DefaultQueryLaunchingConstraintsCheckerTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\constraint\ThreadSafeEstimatedQueryCollectionTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\query\constraint\TotalQueryCostCeilingConstraintTest.java,True,True,False,False
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\rewrite\TestRewriting.java,True,True,False,True
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\scheduler\TestSchedulerServiceImpl.java,True,True,False,True
+C:\Apache project\lens\lens-server\src\test\java\org\apache\lens\server\stats\TestStatisticsLogFileScannerTask.java,True,True,False,False
+C:\Apache project\lens\lens-server-api\src\test\java\org\apache\lens\server\api\query\collect\DriverSpecificWaitingQueriesSelectionPolicyTest.java,True,True,False,False
+C:\Apache project\lens\lens-server-api\src\test\java\org\apache\lens\server\api\query\constraint\MaxConcurrentDriverQueriesConstraintTest.java,True,True,False,False

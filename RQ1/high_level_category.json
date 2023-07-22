@@ -1,0 +1,72 @@
+{
+    "3-categories": {
+        "Data Management and Analytics": [
+            "big-data",
+            "data-management-platform",
+            "database",
+            "distributed-sql-database",
+            "geospatial",
+            "hadoop",
+            "sql",
+            "search"
+        ],
+        "Software Development and Testing": [
+            "build-management",
+            "library",
+            "templating",
+            "testing",
+            "identity-management",
+            "identity-provisioning",
+            "security",
+            "observability"
+        ],
+        "Network, Cloud, and Web Technologies": [
+            "cloud",
+            "content",
+            "html",
+            "http",
+            "iot",
+            "network-client",
+            "network-server",
+            "virtual-machine",
+            "web-framework",
+            "xml"
+        ]
+    },
+    "5-categories": {
+        "Data Management": [
+            "big-data",
+            "data-management-platform",
+            "database",
+            "distributed-sql-database",
+            "geospatial",
+            "hadoop",
+            "sql"
+        ],
+        "Development & Testing": [
+            "build-management",
+            "library",
+            "templating",
+            "testing"
+        ],
+        "Security & Identity Management": [
+            "identity-management",
+            "identity-provisioning",
+            "security"
+        ],
+        "Web Technologies & Content Management": [
+            "content",
+            "html",
+            "http",
+            "web-framework",
+            "xml"
+        ],
+        "Infrastructure, Networking & IoT": [
+            "cloud",
+            "network-client",
+            "network-server",
+            "virtual-machine",
+            "iot"
+        ]
+    }
+}

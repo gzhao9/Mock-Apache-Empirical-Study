@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-text\src\test\java\org\apache\commons\text\TextStringBuilderAppendInsertTest.java,True,True,False,False
+C:\Apache project\commons-text\src\test\java\org\apache\commons\text\lookup\ResourceBundleStringLookupTest.java,True,True,False,False
+C:\Apache project\commons-text\src\test\java\org\apache\commons\text\lookup\UrlDecoderStringLookupTest.java,True,True,False,False
+C:\Apache project\commons-text\src\test\java\org\apache\commons\text\lookup\UrlEncoderStringLookupTest.java,True,True,False,False

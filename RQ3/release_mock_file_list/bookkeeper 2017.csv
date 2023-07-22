@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\bookkeeper\bookkeeper-common\src\test\java\org\apache\bookkeeper\common\component\TestComponentStarter.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-common\src\test\java\org\apache\bookkeeper\common\component\TestLifecycleComponentStack.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-common\src\test\java\org\apache\bookkeeper\common\concurrent\TestFutureUtils.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-common\src\test\java\org\apache\bookkeeper\common\util\TestSharedResourceManager.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\bookie\BookieShellTest.java,True,True,False,True
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\bookie\SortedLedgerStorageCheckpointTest.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\client\MockBookKeeperTestCase.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\client\api\WriteAdvHandleTest.java,True,True,False,True
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\client\api\WriteHandleTest.java,True,True,False,False
+C:\Apache project\bookkeeper\bookkeeper-server\src\test\java\org\apache\bookkeeper\server\TestMain.java,True,True,False,True

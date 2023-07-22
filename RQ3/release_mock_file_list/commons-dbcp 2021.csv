@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-dbcp\src\test\java\org\apache\commons\dbcp2\TestDelegatingCallableStatement.java,True,True,False,False
+C:\Apache project\commons-dbcp\src\test\java\org\apache\commons\dbcp2\TestDelegatingDatabaseMetaData.java,True,True,False,False
+C:\Apache project\commons-dbcp\src\test\java\org\apache\commons\dbcp2\TestDelegatingPreparedStatement.java,True,True,False,False
+C:\Apache project\commons-dbcp\src\test\java\org\apache\commons\dbcp2\TestDelegatingResultSet.java,True,True,False,False
+C:\Apache project\commons-dbcp\src\test\java\org\apache\commons\dbcp2\TestDelegatingStatement.java,True,True,False,False

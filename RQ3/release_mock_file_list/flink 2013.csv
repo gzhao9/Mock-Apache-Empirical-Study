@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\flink\stratosphere-clients\src\test\java\eu\stratosphere\client\program\ClientTest.java,True,True,False,True
+C:\Apache project\flink\stratosphere-java\src\test\java\eu\stratosphere\api\java\record\io\CsvOutputFormatTest.java,True,True,False,False
+C:\Apache project\flink\stratosphere-runtime\src\test\java\eu\stratosphere\nephele\io\library\FileLineReadWriteTest.java,True,True,False,True
+C:\Apache project\flink\stratosphere-runtime\src\test\java\eu\stratosphere\nephele\profiling\impl\InstanceProfilerTest.java,True,True,False,True
+C:\Apache project\flink\stratosphere-runtime\src\test\java\eu\stratosphere\nephele\types\StringRecordTest.java,True,True,False,False
+C:\Apache project\flink\stratosphere-runtime\src\test\java\eu\stratosphere\pact\runtime\iterative\concurrent\BlockingBackChannelTest.java,True,True,False,False
+C:\Apache project\flink\stratosphere-tests\src\test\java\eu\stratosphere\test\testPrograms\tpch1\LineItemFilterTest.java,True,True,False,False

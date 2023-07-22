@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\manifoldcf\connectors\alfresco-webscript\connector\src\test\java\org\apache\manifoldcf\authorities\authorities\alfrescowebscript\AlfrescoAuthorityConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\alfresco-webscript\connector\src\test\java\org\apache\manifoldcf\crawler\connectors\alfrescowebscript\AlfrescoConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\confluence\connector\src\test\java\org\apache\manifoldcf\authorities\confluence\tests\ConfluenceAuthorityTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\confluence\connector\src\test\java\org\apache\manifoldcf\crawler\connectors\confluence\tests\ConfluenceConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\confluence-v6\connector\src\test\java\org\apache\manifoldcf\authorities\confluence\tests\ConfluenceAuthorityTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\confluence-v6\connector\src\test\java\org\apache\manifoldcf\crawler\connectors\confluence\tests\ConfluenceConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\kafka\connector\src\test\java\org\apache\manifoldcf\agents\output\kafka\KafkaConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\nuxeo\connector\src\test\java\org\apache\manifoldcf\authorities\authorities\nuxeo\NuxeoAuthorityTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\nuxeo\connector\src\test\java\org\apache\manifoldcf\crawler\connectors\nuxeo\NuxeoConnectorTest.java,True,True,False,False
+C:\Apache project\manifoldcf\connectors\webcrawler\connector\src\test\java\org\apache\manifoldcf\crawler\connectors\webcrawler\ProcessActivityHTMLHandlerTest.java,True,True,False,False

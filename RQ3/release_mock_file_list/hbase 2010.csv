@@ -1,0 +1,23 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\catalog\TestCatalogTracker.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\client\TestMetaScanner.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\mapreduce\TestHFileOutputFormat.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\master\TestCatalogJanitor.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\TestCompaction.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\TestSplitTransaction.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\TestStoreFile.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\TestStoreScanner.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\wal\TestHLogMethods.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\regionserver\wal\TestHLogSplit.java,True,True,False,False
+C:\Apache project\hbase\0.90\src\test\java\org\apache\hadoop\hbase\util\TestEnvironmentEdgeManager.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\catalog\TestCatalogTracker.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\client\TestMetaScanner.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\mapreduce\TestHFileOutputFormat.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\master\TestCatalogJanitor.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\TestCompaction.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\TestSplitTransaction.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\TestStoreFile.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\TestStoreScanner.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\wal\TestHLogMethods.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\regionserver\wal\TestHLogSplit.java,True,True,False,False
+C:\Apache project\hbase\src\test\java\org\apache\hadoop\hbase\util\TestEnvironmentEdgeManager.java,True,True,False,False

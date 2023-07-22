@@ -1,0 +1,26 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\entity\parser\ClusterEntityParserTest.java,True,True,False,False
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\entity\parser\FeedEntityParserTest.java,True,True,False,False
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\entity\parser\ProcessEntityParserTest.java,True,True,False,False
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\security\AuthenticationInitializationServiceTest.java,True,True,False,False
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\security\SecurityUtilTest.java,True,True,False,False
+C:\Apache project\falcon\messaging\src\test\java\org\apache\falcon\messaging\JMSMessageConsumerTest.java,True,True,False,False
+C:\Apache project\falcon\oozie\src\test\java\org\apache\falcon\oozie\logging\TaskLogRetrieverYarnTest.java,True,True,False,False
+C:\Apache project\falcon\oozie-el-extensions\src\test\java\org\apache\oozie\extensions\TestOozieELExtensions.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\resource\EntityManagerTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\ClientCertificateFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuditFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuthenticationFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuthorizationFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconCSRFFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\HostnameFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\service\BacklogMetricEmitterServiceTest.java,True,True,False,False
+C:\Apache project\falcon\rerun\src\test\java\org\apache\falcon\rerun\handler\TestLateData.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\execution\FalconExecutionServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\notification\service\AlarmServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\notification\service\DataAvailabilityServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\notification\service\SchedulerServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\state\EntityStateServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\state\InstanceStateServiceTest.java,True,True,False,False
+C:\Apache project\falcon\scheduler\src\test\java\org\apache\falcon\state\service\store\TestJDBCStateStore.java,True,True,False,False
+C:\Apache project\falcon\titan\src\test\java\com\thinkaurelius\titan\diskstorage\locking\LocalLockMediatorTest.java,True,True,False,False

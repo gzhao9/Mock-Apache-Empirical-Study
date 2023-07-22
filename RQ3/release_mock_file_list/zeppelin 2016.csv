@@ -1,0 +1,20 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\zeppelin\cassandra\src\test\java\org\apache\zeppelin\cassandra\CassandraInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\cassandra\src\test\java\org\apache\zeppelin\cassandra\InterpreterLogicTest.java,True,True,False,False
+C:\Apache project\zeppelin\geode\src\test\java\org\apache\zeppelin\geode\GeodeOqlInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\livy\src\main\test\org\apache\zeppelin\livy\LivyHelperTest.java,True,True,False,False
+C:\Apache project\zeppelin\livy\src\main\test\org\apache\zeppelin\livy\LivyInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\postgresql\src\test\java\org\apache\zeppelin\postgresql\PostgreSqlInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\python\src\test\java\org\apache\zeppelin\python\PythonInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-interpreter\src\test\java\org\apache\zeppelin\interpreter\LazyOpenInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-interpreter\src\test\java\org\apache\zeppelin\interpreter\remote\RemoteInterpreterProcessTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-interpreter\src\test\java\org\apache\zeppelin\interpreter\remote\RemoteInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-server\src\test\java\org\apache\zeppelin\server\CorsFilterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-server\src\test\java\org\apache\zeppelin\socket\NotebookServerTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\NotebookTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\NoteTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\ParagraphTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\repo\NotebookRepoSyncTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\repo\VFSNotebookRepoTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\repo\zeppelinhub\ZeppelinHubRepoTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\search\LuceneSearchTest.java,True,True,False,False

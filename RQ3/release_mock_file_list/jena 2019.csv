@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\jena\jena-core\src\test\java\org\apache\jena\graph\GraphEventManagerContractTest.java,True,True,False,False
+C:\Apache project\jena\jena-core\src\test\java\org\apache\jena\mem\BunchMapContractTest.java,True,True,False,False
+C:\Apache project\jena\jena-extras\jena-querybuilder\src\test\java\org\apache\jena\arq\querybuilder\ExprFactoryTest.java,True,True,False,False
+C:\Apache project\jena\jena-permissions\src\test\java\org\apache\jena\permissions\impl\SecuredItemImplTest.java,True,True,False,False

@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\ClientReconnectTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\ServerStatsTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\persistence\FileTxnLogTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\LeaderBeanTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\QuorumCnxManagerTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\QuorumPeerMainTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\WatchLeakTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\quorum\Zab1_0Test.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\server\util\SerializeUtilsTest.java,True,True,False,False
+C:\Apache project\zookeeper\src\java\test\org\apache\zookeeper\test\StaticHostProviderTest.java,True,True,False,False

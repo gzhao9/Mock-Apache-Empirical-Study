@@ -1,0 +1,18 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\ConsoleAppenderTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\AbstractDatabaseAppenderTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\AbstractDatabaseManagerTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\AbstractJdbcAppenderDataSourceTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\DataSourceConnectionSourceTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\db\jdbc\FactoryMethodConnectionSourceTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\mom\JmsAppenderTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\nosql\NoSqlAppenderTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\appender\nosql\NoSqlDatabaseManagerTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\lookup\Log4jLookupTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-core\src\test\java\org\apache\logging\log4j\core\lookup\Log4jLookupWithSpacesTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-iostreams\src\test\java\org\apache\logging\log4j\io\AbstractLoggerOutputStreamTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-iostreams\src\test\java\org\apache\logging\log4j\io\AbstractLoggerWriterTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletContainerInitializerTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletContextListenerTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java,True,True,False,False
+C:\Apache project\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java,True,True,False,False

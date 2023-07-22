@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\spark\network\common\src\test\java\org\apache\spark\network\TransportResponseHandlerSuite.java,True,True,False,False
+C:\Apache project\spark\network\shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleBlockHandlerSuite.java,True,True,False,False
+C:\Apache project\spark\network\shuffle\src\test\java\org\apache\spark\network\shuffle\OneForOneBlockFetcherSuite.java,True,True,False,False
+C:\Apache project\spark\network\shuffle\src\test\java\org\apache\spark\network\shuffle\RetryingBlockFetcherSuite.java,True,True,False,False

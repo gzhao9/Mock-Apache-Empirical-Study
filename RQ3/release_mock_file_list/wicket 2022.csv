@@ -1,0 +1,23 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\wicket\wicket-auth-roles\src\test\java\org\apache\wicket\authroles\authentication\AuthenticatedWebSessionTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-auth-roles\src\test\java\org\apache\wicket\authroles\authorization\strategies\role\annotations\AnnotationsRoleAuthorizationStrategyTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\DefaultExceptionMapperTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\ajax\AbstractDefaultAjaxBehaviorTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\core\request\cycle\RequestCycleUrlForTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\core\request\handler\render\WebPageRendererTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\core\request\resource\ByteArrayResourceTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\core\util\file\WebApplicationPathTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\core\util\resource\locator\CachingResourceStreamLocatorTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\markup\html\internal\HeaderResponseTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\http\SessionDestroyTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\http\WicketFilterTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\http\mock\MockHttpServletRequestTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\http\request\WebClientInfoTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\http\servlet\ServletWebResponseTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\protocol\https\HttpsMapperTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\resource\ResourceUtilTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\settings\def\SetCustomResourceSettingsTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-core\src\test\java\org\apache\wicket\validation\CompoundValidatorTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-ioc\src\test\java\org\apache\wicket\injection\CompoundFieldValueFactoryTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-request\src\test\java\org\apache\wicket\request\http\handler\RedirectRequestHandlerTest.java,True,True,False,False
+C:\Apache project\wicket\wicket-util\src\test\java\org\apache\wicket\util\file\FilesTest.java,True,True,False,False

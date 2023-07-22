@@ -1,0 +1,9 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\zeppelin\cassandra\src\test\java\org\apache\zeppelin\cassandra\CassandraInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\cassandra\src\test\java\org\apache\zeppelin\cassandra\InterpreterLogicTest.java,True,True,False,False
+C:\Apache project\zeppelin\geode\src\test\java\org\apache\zeppelin\geode\GeodeOqlInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\phoenix\src\test\java\org\apache\zeppelin\phoenix\PhoenixInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\postgresql\src\test\java\org\apache\zeppelin\postgresql\PostgreSqlInterpreterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-interpreter\src\test\java\org\apache\zeppelin\interpreter\remote\RemoteInterpreterProcessTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-server\src\test\java\org\apache\zeppelin\server\CorsFilterTest.java,True,True,False,False
+C:\Apache project\zeppelin\zeppelin-zengine\src\test\java\org\apache\zeppelin\notebook\repo\NotebookRepoSyncTest.java,True,True,False,False

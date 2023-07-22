@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\metamodel\core\src\test\java\org\apache\metamodel\MetaModelTestCase.java,True,False,True,False
+C:\Apache project\metamodel\core\src\test\java\org\apache\metamodel\data\DataSetIteratorTest.java,True,False,True,False
+C:\Apache project\metamodel\core\src\test\java\org\apache\metamodel\query\builder\GroupedQueryBuilderImplTest.java,True,False,True,False
+C:\Apache project\metamodel\excel\src\test\java\org\apache\metamodel\excel\ZeroBasedRowIteratorTest.java,True,False,True,False
+C:\Apache project\metamodel\jdbc\src\test\java\org\apache\metamodel\dialects\SQLServerQueryRewriterTest.java,True,False,True,False
+C:\Apache project\metamodel\jdbc\src\test\java\org\apache\metamodel\jdbc\JdbcDataContextTest.java,True,False,True,False
+C:\Apache project\metamodel\jdbc\src\test\java\org\apache\metamodel\jdbc\dialects\OracleQueryRewriterTest.java,True,False,True,False
+C:\Apache project\metamodel\jdbc\src\test\java\org\apache\metamodel\jdbc\dialects\PostgresqlQueryRewriterTest.java,True,False,True,False
+C:\Apache project\metamodel\kafka\src\test\java\org\apache\metamodel\kafka\KafkaDataContextTest.java,True,False,True,False

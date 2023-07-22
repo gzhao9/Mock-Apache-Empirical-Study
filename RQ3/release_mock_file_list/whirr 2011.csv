@@ -1,0 +1,12 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\MainTest.java,True,True,False,False
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\command\DestroyClusterCommandTest.java,True,True,False,False
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\command\DestroyInstanceCommandTest.java,True,True,False,False
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\command\LaunchClusterCommandTest.java,True,True,False,False
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\command\ListClusterCommandTest.java,True,True,False,False
+C:\Apache project\whirr\cli\src\test\java\org\apache\whirr\cli\command\RunScriptCommandTest.java,True,True,False,False
+C:\Apache project\whirr\core\src\test\java\org\apache\whirr\actions\BootstrapClusterActionTest.java,True,True,False,False
+C:\Apache project\whirr\core\src\test\java\org\apache\whirr\service\TemplateBuilderStrategyTest.java,True,True,False,False
+C:\Apache project\whirr\core\src\test\java\org\apache\whirr\util\WhirrUtilsTest.java,True,True,False,False
+C:\Apache project\whirr\services\elasticsearch\src\test\java\org\apache\whirr\service\elasticsearch\ElasticSearchConfigurationBuilderTest.java,True,True,False,False
+C:\Apache project\whirr\services\hadoop\src\test\java\org\apache\whirr\service\hadoop\HadoopConfigurationBuilderTest.java,True,True,False,False

@@ -1,0 +1,16 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\BaseContextTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\CayenneContextTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\access\DataContextTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\access\UserTransactionTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\cache\EhCacheQueryCacheTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\cache\EhCacheQueryCache_WithConfigTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\configuration\CayenneRuntimeTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\configuration\server\DataDomainProviderTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\configuration\server\DefaultDataSourceFactoryLoaderTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\configuration\server\DefaultDbAdapterFactoryTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\dba\AutoAdapterTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\reflect\PersistentDescriptorTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-jdk1.5-unpublished\src\test\java\org\apache\cayenne\remote\ClientChannelTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-lifecycle\src\test\java\org\apache\cayenne\lifecycle\audit\AuditableFilterTest.java,True,True,False,False
+C:\Apache project\cayenne\framework\cayenne-lifecycle\src\test\java\org\apache\cayenne\lifecycle\id\EntityIdCoderTest.java,True,True,False,False

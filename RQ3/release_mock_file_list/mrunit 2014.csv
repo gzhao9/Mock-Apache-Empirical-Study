@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\mrunit\src\test\java\org\apache\hadoop\mrunit\internal\io\TestSerialization.java,True,True,False,False
+C:\Apache project\mrunit\src\test\java\org\apache\hadoop\mrunit\internal\util\TestErrors.java,True,True,False,False
+C:\Apache project\mrunit\src\test\java\org\apache\hadoop\mrunit\mapreduce\TestMapDriver.java,True,True,False,False
+C:\Apache project\mrunit\src\test\java\org\apache\hadoop\mrunit\mapreduce\TestMultipleOutput.java,True,False,False,True
+C:\Apache project\mrunit\src\test\java\org\apache\hadoop\mrunit\mapreduce\TestReduceDriver.java,True,True,False,False

@@ -1,0 +1,7 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyInputFormat.java,True,False,True,False
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyOutputFormat.java,True,False,True,False
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyRecordReader.java,True,False,True,False
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyRecordWriter.java,True,False,True,False
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyValueRecordReader.java,True,False,True,False
+C:\Apache project\avro\lang\java\mapred\src\test\java\org\apache\avro\mapreduce\TestAvroKeyValueRecordWriter.java,True,False,True,False

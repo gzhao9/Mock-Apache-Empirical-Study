@@ -1,0 +1,19 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\karaf\admin\command\src\test\java\org\apache\karaf\admin\command\CreateCommandTest.java,True,False,True,False
+C:\Apache project\karaf\admin\command\src\test\java\org\apache\karaf\admin\main\ExecuteTest.java,True,False,True,False
+C:\Apache project\karaf\admin\management\src\test\java\org\apache\karaf\admin\management\codec\JmxInstanceTest.java,True,False,True,False
+C:\Apache project\karaf\admin\management\src\test\java\org\apache\karaf\admin\management\internal\AdminServiceMBeanImplTest.java,True,False,True,False
+C:\Apache project\karaf\deployer\kar\src\test\java\org\apache\karaf\deployer\kar\KarArtifactInstallerTest.java,True,False,True,False
+C:\Apache project\karaf\features\core\src\test\java\org\apache\karaf\features\FeaturesServiceTest.java,True,False,True,False
+C:\Apache project\karaf\features\core\src\test\java\org\apache\karaf\features\internal\FeaturesServiceImplTest.java,True,False,True,False
+C:\Apache project\karaf\features\obr\src\test\java\org\apache\karaf\features\obr\internal\ObrResolverTest.java,True,False,True,False
+C:\Apache project\karaf\main\src\test\java\org\apache\karaf\main\BaseJDBCLockTest.java,True,False,True,False
+C:\Apache project\karaf\main\src\test\java\org\apache\karaf\main\OracleJDBCLockTest.java,True,False,True,False
+C:\Apache project\karaf\main\src\test\java\org\apache\karaf\main\PostgreSQLJDBCLockTest.java,True,False,True,False
+C:\Apache project\karaf\management\server\src\test\java\org\apache\karaf\management\MBeanRegistererTest.java,True,False,True,False
+C:\Apache project\karaf\shell\config\src\test\java\org\apache\karaf\shell\config\EditCommandTest.java,True,False,True,False
+C:\Apache project\karaf\shell\config\src\test\java\org\apache\karaf\shell\config\UpdateCommandTest.java,True,False,True,False
+C:\Apache project\karaf\shell\log\src\test\java\org\apache\karaf\shell\log\SetLogLevelTest.java,True,False,True,False
+C:\Apache project\karaf\tooling\features-maven-plugin\src\test\java\org\apache\karaf\tooling\features\GenerateFeaturesFileMojoTest.java,True,False,True,False
+C:\Apache project\karaf\tooling\features-maven-plugin\src\test\java\org\apache\karaf\tooling\features\GenerateFeaturesXmlMojoTest.java,True,False,True,False
+C:\Apache project\karaf\webconsole\admin\src\test\java\org\apache\karaf\webconsole\admin\AdminPluginTest.java,True,False,True,False

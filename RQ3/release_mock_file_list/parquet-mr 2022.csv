@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\parquet-mr\parquet-column\src\test\java\org\apache\parquet\column\values\dictionary\TestDictionary.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-hadoop\src\test\java\org\apache\parquet\filter2\dictionarylevel\DictionaryFilterTest.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-hadoop\src\test\java\org\apache\parquet\hadoop\TestColumnChunkPageWriteStore.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-hadoop\src\test\java\org\apache\parquet\hadoop\TestInputFormat.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-hadoop\src\test\java\org\apache\parquet\hadoop\TestParquetFileWriter.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-protobuf\src\test\java\org\apache\parquet\proto\ProtoWriteSupportTest.java,True,True,False,False
+C:\Apache project\parquet-mr\parquet-thrift\src\test\java\org\apache\parquet\thrift\projection\TestStrictFieldProjectionFilter.java,True,False,True,False

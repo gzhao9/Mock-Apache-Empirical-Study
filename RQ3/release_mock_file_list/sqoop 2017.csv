@@ -1,0 +1,15 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\sqoop\src\test\org\apache\sqoop\hive\TestTableDefWriter.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\manager\TestDefaultManagerFactory.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\manager\oracle\OraOopDataDrivenDBInputFormatConnectionCloseTest.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\mapreduce\TestJdbcExportJob.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\mapreduce\TestJobBase.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\mapreduce\mainframe\TestMainframeDatasetFTPRecordReader.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\mapreduce\mainframe\TestMainframeDatasetInputFormat.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\orm\TestCompilationManager.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\tool\TestBaseSqoopTool.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\tool\TestExportToolValidateOptions.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\tool\TestImportTool.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\tool\TestValidateImportOptions.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\util\ExpectedLogMessage.java,True,True,False,False
+C:\Apache project\sqoop\src\test\org\apache\sqoop\util\TestMainframeFTPClientUtils.java,True,True,False,False

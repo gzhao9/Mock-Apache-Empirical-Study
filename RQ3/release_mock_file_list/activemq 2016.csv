@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\activemq\activemq-amqp\src\test\java\org\apache\activemq\transport\amqp\message\JMSMappingOutboundTransformerTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-http\src\test\java\org\apache\activemq\transport\util\HttpTransportUtilsTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-jdbc-store\src\test\java\org\apache\activemq\store\jdbc\adapter\DefaultJDBCAdapterDoCreateTablesTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-mqtt\src\test\java\org\apache\activemq\transport\mqtt\MQTTPingReqTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-mqtt\src\test\java\org\apache\activemq\transport\mqtt\MQTTProtocolConverterTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-stomp\src\test\java\org\apache\activemq\transport\stomp\LegacyFrameTranslatorTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-tooling\activemq-maven-plugin\src\test\java\org\apache\activemq\maven\StartBrokerMojoTest.java,True,True,False,False
+C:\Apache project\activemq\activemq-unit-tests\src\test\java\org\apache\activemq\network\NetworkRouteTest.java,True,False,True,False
+C:\Apache project\activemq\activemq-web\src\test\java\org\apache\activemq\web\LocalBrokerFacadeTest.java,True,True,False,False

@@ -1,0 +1,11 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\facets\collections\JavaCollectionFacetTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\objects\ObjectActionLayoutXmlDefaultTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\objects\OneToManyAssociationDefaultTest.java,True,True,False,False
+C:\Apache project\isis\core\metamodel\src\test\java\org\apache\isis\core\metamodel\services\ServiceInjectorLegacyTest.java,True,True,False,False
+C:\Apache project\isis\extensions\security\spring-oauth2\src\test\java\org\apache\isis\security\spring\authconverters\AuthenticationConverterOfOAuth2UserPrincipal_Test.java,True,True,False,False
+C:\Apache project\isis\persistence\jdo\spring\src\test\java\org\apache\isis\persistence\jdo\spring\test\integration\JdoTransactionManagerTests.java,True,True,False,False
+C:\Apache project\isis\persistence\jdo\spring\src\test\java\org\apache\isis\persistence\jdo\spring\test\integration\LocalPersistenceManagerFactoryTests.java,True,True,False,False
+C:\Apache project\isis\persistence\jdo\spring\src\test\java\org\apache\isis\persistence\jdo\spring\test\support\OpenPersistenceManagerInViewTests.java,True,True,False,False
+C:\Apache project\isis\regressiontests\incubating\src\test\java\org\apache\isis\testdomain\shiro\ShiroSimpleTest.java,True,True,False,False
+C:\Apache project\isis\viewers\wicket\ui\src\test\java\org\apache\isis\viewer\wicket\ui\pages\accmngt\SuccessFeedbackCookieUtilTest.java,True,True,False,False

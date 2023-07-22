@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\tomee\arquillian\arquillian-openejb-embedded-4\src\test\java\org\apache\openejb\arquillian\openejb\ArquillianAndMockitoTest.java,True,True,False,False
+C:\Apache project\tomee\examples\deltaspike-fullstack\src\test\java\org\superbiz\deltaspike\test\MockedPageBeanTest.java,True,True,False,False
+C:\Apache project\tomee\examples\rest-applicationcomposer-mockito\src\test\java\org\superbiz\composed\rest\GreetingServiceTest.java,True,True,False,False
+C:\Apache project\tomee\tomee\tomee-webapp\src\test\java\org\apache\tomee\webapp\installer\test\RunnerTest.java,True,False,True,False
+C:\Apache project\tomee\utils\openejb-mockito\src\test\java\org\apache\openejb\mockito\MockitoAndAppComposerTest.java,True,True,False,False

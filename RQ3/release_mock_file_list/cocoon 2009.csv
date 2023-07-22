@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\cocoon\cocoon-servlet-service-impl\cocoon-servlet-service-impl-1.0.0\src\test\java\org\apache\cocoon\servletservice\HttpServletResponseBufferingWrapperTestCase.java,True,False,True,False
+C:\Apache project\cocoon\cocoon-servlet-service-impl\cocoon-servlet-service-impl-1.1.0\src\test\java\org\apache\cocoon\servletservice\HttpServletResponseBufferingWrapperTestCase.java,True,False,True,False
+C:\Apache project\cocoon\cocoon-servlet-service-impl\cocoon-servlet-service-impl-1.2.0\src\test\java\org\apache\cocoon\servletservice\HttpServletResponseBufferingWrapperTestCase.java,True,False,True,False

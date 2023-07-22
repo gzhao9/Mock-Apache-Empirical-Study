@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-collections\src\test\java\org\apache\commons\collections4\IteratorUtilsTest.java,True,False,True,False
+C:\Apache project\commons-collections\src\test\java\org\apache\commons\collections4\MockTestCase.java,True,False,True,False
+C:\Apache project\commons-collections\src\test\java\org\apache\commons\collections4\functors\AbstractMockPredicateTest.java,True,False,True,False
+C:\Apache project\commons-collections\src\test\java\org\apache\commons\collections4\iterators\NodeListIteratorTest.java,True,False,True,False

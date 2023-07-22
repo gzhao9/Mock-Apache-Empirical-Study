@@ -1,0 +1,16 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\oltu\authzserver\src\test\java\org\apache\oltu\oauth2\as\OauthMockRequestBuilder.java,True,False,True,False
+C:\Apache project\oltu\authzserver\src\test\java\org\apache\oltu\oauth2\as\OAuthRequestTest.java,True,False,True,False
+C:\Apache project\oltu\authzserver\src\test\java\org\apache\oltu\oauth2\as\OAuthUnauthenticatedRequestTest.java,True,False,True,False
+C:\Apache project\oltu\authzserver\src\test\java\org\apache\oltu\oauth2\as\response\OAuthASResponseTest.java,True,False,True,False
+C:\Apache project\oltu\authzserver\src\test\java\org\apache\oltu\oauth2\as\validator\TokenValidatorTest.java,True,False,True,False
+C:\Apache project\oltu\client\src\test\java\org\apache\oltu\oauth2\client\response\OAuthAuthorizationResponseImplTest.java,True,False,True,False
+C:\Apache project\oltu\client\src\test\java\org\apache\oltu\oauth2\client\utils\TestUtils.java,True,False,True,False
+C:\Apache project\oltu\common\src\test\java\org\apache\oltu\oauth2\common\validators\AbstractValidatorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\OAuthAccessResourceRequestTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\extractor\BodyTokenExtractorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\extractor\HeaderTokenExtractorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\extractor\QueryTokenExtractorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\validator\BodyOAuthValidatorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\validator\HeaderOAuthValidatorTest.java,True,False,True,False
+C:\Apache project\oltu\resourceserver\src\test\java\org\apache\oltu\oauth2\rs\validator\QueryOAuthValidatorTest.java,True,False,True,False

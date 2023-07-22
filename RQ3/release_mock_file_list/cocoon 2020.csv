@@ -1,0 +1,25 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\cocoon\RELEASE_2_1_10\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_10\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_10\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_11\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_11\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_11\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_12\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_12\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_12\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_13\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_13\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_13\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_6\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_6\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_6\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_7\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_7\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_7\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_8\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_8\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_8\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_9\src\test\org\apache\cocoon\components\thread\AbstractTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_9\src\test\org\apache\cocoon\components\thread\DefaultRunnableManagerTestCase.java,True,False,True,False
+C:\Apache project\cocoon\RELEASE_2_1_9\src\test\org\apache\cocoon\components\thread\DefaultThreadPoolTestCase.java,True,False,True,False

@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\giraph\src\test\java\org\apache\giraph\comm\RPCCommunicationsTest.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\examples\SimpleShortestPathVertexTest.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\lib\TestAdjacencyListTextVertexOutputFormat.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\lib\TestIdWithValueTextOutputFormat.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\lib\TestLongDoubleDoubleAdjacencyListVertexInputFormat.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\lib\TestTextDoubleDoubleAdjacencyListVertexInputFormat.java,True,True,False,False
+C:\Apache project\giraph\src\test\java\org\apache\giraph\utils\MockUtils.java,True,True,False,False

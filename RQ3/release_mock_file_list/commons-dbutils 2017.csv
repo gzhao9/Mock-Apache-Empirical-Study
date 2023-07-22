@@ -1,0 +1,19 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\AsyncQueryRunnerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\DbUtilsTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\GenerousBeanProcessorTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\OutParameterTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\QueryRunnerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\ResultSetIteratorTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\BeanMapHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\BooleanColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\ByteColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\ColumnHandlerTestBase.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\DoubleColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\FloatColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\IntegerColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\LongColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\ShortColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\SQLXMLColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\StringColumnHandlerTest.java,True,True,False,False
+C:\Apache project\commons-dbutils\src\test\java\org\apache\commons\dbutils\handlers\columns\TimestampColumnHandlerTest.java,True,True,False,False

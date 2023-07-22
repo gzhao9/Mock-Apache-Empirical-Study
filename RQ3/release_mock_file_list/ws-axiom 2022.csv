@@ -1,0 +1,10 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\ws-axiom\components\core-streams\src\test\java\org\apache\axiom\core\stream\dom\input\DOMReaderTest.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\axiom-testsuite\src\main\java\org\apache\axiom\ts\om\comment\TestSerialize.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\axiom-testsuite\src\main\java\org\apache\axiom\ts\om\doctype\TestSerialize.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\axiom-testsuite\src\main\java\org\apache\axiom\ts\om\entref\TestSerialize.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\axiom-testsuite\src\main\java\org\apache\axiom\ts\om\pi\TestSerialize.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\axiom-testsuite\src\main\java\org\apache\axiom\ts\om\text\TestSerialize.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\dom-testsuite\src\main\java\org\apache\axiom\ts\dom\document\TestAppendChildForeignImplementation.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\dom-testsuite\src\main\java\org\apache\axiom\ts\dom\element\TestRemoveAttributeNodeForeignImplementation.java,True,True,False,False
+C:\Apache project\ws-axiom\testing\dom-testsuite\src\main\java\org\apache\axiom\ts\dom\element\TestSetAttributeNodeNSForeignImplementation.java,True,True,False,False

@@ -1,0 +1,16 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\turbine-core\src\test\org\apache\turbine\TurbineTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\annotation\AnnotationProcessorTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\modules\ActionLoaderTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\modules\LayoutLoaderTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DefaultACLCreationValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DefaultLoginValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DefaultSessionTimeoutValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DefaultSessionValidationValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DefaultSetEncodingValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DetermineActionValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\DetermineTargetValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\pipeline\ExecutePageValveTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\services\intake\IntakeToolTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\services\localization\LocalizationToolTest.java,True,True,False,False
+C:\Apache project\turbine-core\src\test\org\apache\turbine\test\BaseTestCase.java,True,True,False,False

@@ -1,0 +1,2 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\fluo-recipes\modules\core\src\test\java\org\apache\fluo\recipes\core\transaction\RecordingTransactionTest.java,True,False,True,False

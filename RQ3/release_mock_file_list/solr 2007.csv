@@ -1,0 +1,7 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\solr\contrib\gdata-server\src\core\src\test\org\apache\lucene\gdata\server\TestGDataRequest.java,True,False,True,False
+C:\Apache project\solr\contrib\gdata-server\src\core\src\test\org\apache\lucene\gdata\server\TestGDataResponse.java,True,False,True,False
+C:\Apache project\solr\contrib\gdata-server\src\core\src\test\org\apache\lucene\gdata\servlet\TestAbstractGdataServlet.java,True,False,True,False
+C:\Apache project\solr\contrib\gdata-server\src\core\src\test\org\apache\lucene\gdata\servlet\handler\TestAbstractFeedHandler.java,True,False,True,False
+C:\Apache project\solr\contrib\gdata-server\src\core\src\test\org\apache\lucene\gdata\servlet\handler\TestRequestAuthenticator.java,True,False,True,False
+C:\Apache project\solr\contrib\gdata-server\src\hivemind\src\test\org\apache\lucene\gdata\hivemind\webservice\HessianSkeletonProviderImplTest.java,True,False,True,False

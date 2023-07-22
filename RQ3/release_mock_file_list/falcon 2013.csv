@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\resource\EntityManagerTest.java,True,True,False,False
+C:\Apache project\falcon\rerun\src\test\java\org\apache\falcon\rerun\handler\TestLateData.java,True,True,False,False
+C:\Apache project\falcon\webapp\src\test\java\org\apache\falcon\security\BasicAuthFilterTest.java,True,True,False,False

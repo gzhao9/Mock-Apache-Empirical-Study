@@ -1,0 +1,18 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\httpcomponents-client\httpclient\src\test\java\org\apache\http\impl\auth\TestNegotiateScheme.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\client\cache\TestHttpCacheEntry.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\AbstractProtocolTest.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\DoNotTestProtocolRequirements.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\RequestEquivalent.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestCachedHttpResponseGenerator.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestCachedResponseSuitabilityChecker.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestCacheInvalidator.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestCachingHttpClient.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestCombinedEntity.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestProtocolDeviations.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestProtocolRecommendations.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestProtocolRequirements.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\TestURIExtractor.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\ehcache\TestEhcacheHttpCacheStorage.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\ehcache\TestEhcacheProtocolRequirements.java,True,False,True,False
+C:\Apache project\httpcomponents-client\httpclient-cache\src\test\java\org\apache\http\impl\client\cache\memcached\TestMemcachedHttpCacheStorage.java,True,False,True,False

@@ -1,0 +1,24 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\syncope\client\console\src\test\java\org\apache\syncope\client\console\AbstractTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\AbstractTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\IntAttrNameParserTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\PropagationByResourceTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\WorkflowResultTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\jexl\MappingTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\job\JobNamerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\propagation\PropagationTaskInfoTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\pushpull\ProvisioningProfileTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\AttributeDeserializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\AttributeSerializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\GuardedStringDeserializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\GuardedStringSerializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\POJOHelperTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\SyncTokenDeserializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\serialization\SyncTokenSerializerTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\utils\ConnPoolConfUtilsTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-api\src\test\java\org\apache\syncope\core\provisioning\api\utils\JexlUtilsTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-java\src\test\java\org\apache\syncope\core\provisioning\java\AbstractTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-java\src\test\java\org\apache\syncope\core\provisioning\java\pushpull\DBPasswordPullActionsTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-java\src\test\java\org\apache\syncope\core\provisioning\java\pushpull\LDAPMembershipPullActionsTest.java,True,True,False,False
+C:\Apache project\syncope\core\provisioning-java\src\test\java\org\apache\syncope\core\provisioning\java\pushpull\LDAPPasswordPullActionsTest.java,True,True,False,False
+C:\Apache project\syncope\core\rest-cxf\src\test\java\org\apache\syncope\core\rest\cxf\service\AnyObjectServiceTest.java,True,True,False,False

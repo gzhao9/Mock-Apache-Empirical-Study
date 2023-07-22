@@ -1,0 +1,9 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\entity\parser\ClusterEntityParserTest.java,True,True,False,False
+C:\Apache project\falcon\common\src\test\java\org\apache\falcon\security\AuthenticationInitializationServiceTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\resource\EntityManagerTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\ClientCertificateFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuditFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuthenticationFilterTest.java,True,True,False,False
+C:\Apache project\falcon\prism\src\test\java\org\apache\falcon\security\FalconAuthorizationFilterTest.java,True,True,False,False
+C:\Apache project\falcon\rerun\src\test\java\org\apache\falcon\rerun\handler\TestLateData.java,True,True,False,False

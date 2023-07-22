@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\reef\lang\java\reef-applications\reef-vortex\src\test\java\org\apache\reef\vortex\driver\TestUtil.java,True,True,False,False
+C:\Apache project\reef\lang\java\reef-common\src\test\java\org\apache\reef\runtime\common\driver\EvaluatorRequestorImplTest.java,True,True,False,False
+C:\Apache project\reef\lang\java\reef-io\src\test\java\org\apache\reef\io\network\group\impl\utils\ScatterCodecTest.java,True,True,False,False
+C:\Apache project\reef\lang\java\reef-runtime-local\src\test\java\org\apache\reef\runtime\local\driver\ResourceManagerTest.java,True,True,False,False
+C:\Apache project\reef\lang\java\reef-runtime-yarn\src\main\test\java\org\apache\reef\runtime\yarn\driver\YarnResourceRequestHandlerTest.java,True,True,False,False

@@ -1,0 +1,6 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\stratos\dependencies\jclouds\aws-ec2\src\test\java\org\jclouds\aws\ec2\compute\config\AWSEC2ComputeServiceContextModuleTest.java,True,False,True,False
+C:\Apache project\stratos\dependencies\jclouds\aws-ec2\src\test\java\org\jclouds\aws\ec2\compute\functions\PresentSpotRequestsAndInstancesTest.java,True,False,True,False
+C:\Apache project\stratos\dependencies\jclouds\aws-ec2\src\test\java\org\jclouds\aws\ec2\compute\loaders\AWSEC2CreateSecurityGroupIfNeededTest.java,True,False,True,False
+C:\Apache project\stratos\dependencies\jclouds\aws-ec2\src\test\java\org\jclouds\aws\ec2\compute\strategy\CreateKeyPairPlacementAndSecurityGroupsAsNeededAndReturnRunOptionsTest.java,True,False,True,False
+C:\Apache project\stratos\dependencies\jclouds\aws-ec2\src\test\java\org\jclouds\aws\ec2\functions\ImportOrReturnExistingKeypairTest.java,True,False,True,False

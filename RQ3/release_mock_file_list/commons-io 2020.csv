@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\input\CloseShieldReaderTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\input\TeeInputStreamTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\input\TeeReaderTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\output\CloseShieldWriterTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\output\ProxyCollectionWriterTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\output\TeeOutputStreamTest.java,True,True,False,False
+C:\Apache project\commons-io\src\test\java\org\apache\commons\io\output\TeeWriterTest.java,True,True,False,False

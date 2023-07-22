@@ -1,0 +1,5 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\lens\grill-driver-cube\src\test\java\com\inmobi\grill\driver\cube\TestRewriting.java,True,True,False,True
+C:\Apache project\lens\grill-driver-impala\src\test\java\com\inmobi\grill\driver\impala\TestImpalaDriver.java,True,True,False,True
+C:\Apache project\lens\grill-driver-impala\src\test\java\com\inmobi\grill\driver\impala\TestImpalaResultSet.java,True,True,False,True
+C:\Apache project\lens\grill-server\src\test\java\com\inmobi\grill\server\stats\TestStatisticsLogFileScannerTask.java,True,True,False,False

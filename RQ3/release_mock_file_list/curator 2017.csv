@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\curator\curator-client\src\test\java\org\apache\curator\BasicTests.java,True,True,False,False
+C:\Apache project\curator\curator-client\src\test\java\org\apache\curator\TestEnsurePath.java,True,True,False,False
+C:\Apache project\curator\curator-client\src\test\java\org\apache\curator\TestRetryLoop.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\org\apache\curator\framework\recipes\queue\TestDistributedDelayQueue.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\org\apache\curator\framework\recipes\queue\TestDistributedIdQueue.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\org\apache\curator\framework\recipes\queue\TestDistributedPriorityQueue.java,True,True,False,False
+C:\Apache project\curator\curator-recipes\src\test\java\org\apache\curator\framework\recipes\queue\TestDistributedQueue.java,True,True,False,False

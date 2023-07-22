@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\nodetype\TypeEditorTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\segment\CompareAgainstBaseStateTest.java,True,False,True,False
+C:\Apache project\jackrabbit-oak\oak-core\src\test\java\org\apache\jackrabbit\oak\plugins\segment\MapRecordTest.java,True,False,True,False

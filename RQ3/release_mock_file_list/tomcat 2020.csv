@@ -1,0 +1,12 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\tomcat\test\org\apache\catalina\core\TestApplicationContextFacadeSecurityManager.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\core\TestAsyncContextImpl.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\filters\TestRestCsrfPreventionFilter.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\realm\TestJNDIRealm.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\session\TestPersistentManager.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\startup\TestWebappServiceLoader.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\valves\TestCrawlerSessionManagerValve.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\valves\TestLoadBalancerDrainingValve.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\catalina\valves\TestSSLValve.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\coyote\TestRequest.java,True,False,True,False
+C:\Apache project\tomcat\test\org\apache\jasper\servlet\TestTldScanner.java,True,False,True,False

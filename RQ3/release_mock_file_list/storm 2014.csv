@@ -1,0 +1,8 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\storm\examples\storm-starter\test\jvm\storm\starter\bolt\IntermediateRankingsBoltTest.java,True,True,False,False
+C:\Apache project\storm\examples\storm-starter\test\jvm\storm\starter\bolt\RollingCountBoltTest.java,True,True,False,False
+C:\Apache project\storm\examples\storm-starter\test\jvm\storm\starter\bolt\TotalRankingsBoltTest.java,True,True,False,False
+C:\Apache project\storm\examples\storm-starter\test\jvm\storm\starter\tools\MockTupleHelpers.java,True,True,False,False
+C:\Apache project\storm\examples\storm-starter\test\jvm\storm\starter\tools\RankableObjectWithFieldsTest.java,True,True,False,False
+C:\Apache project\storm\external\storm-kafka\src\test\storm\kafka\ZkCoordinatorTest.java,True,True,False,False
+C:\Apache project\storm\external\storm-kafka\src\test\storm\kafka\bolt\KafkaBoltTest.java,True,True,False,False

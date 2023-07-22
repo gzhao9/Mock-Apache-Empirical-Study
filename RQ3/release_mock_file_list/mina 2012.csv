@@ -1,0 +1,9 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\core\IoServiceListenerSupportTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\filter\codec\DemuxingProtocolDecoderBugTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\filter\reqres\RequestResponseFilterTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\filter\stream\AbstractStreamWriteFilterTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\filter\util\WrappingFilterTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\handler\demux\DemuxingIoHandlerTest.java,True,False,True,False
+C:\Apache project\mina\mina-core\src\test\java\org\apache\mina\util\byteaccess\ByteAccessTest.java,True,False,True,False
+C:\Apache project\mina\mina-filter-compression\src\test\java\org\apache\mina\filter\compression\CompressionFilterTest.java,True,False,True,False

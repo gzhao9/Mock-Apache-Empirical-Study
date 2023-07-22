@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\clerezza\rdf.core\src\test\java\org\apache\clerezza\rdf\core\access\TcManagerTest.java,True,True,False,False
+C:\Apache project\clerezza\rdf.web\rdf.web.core\src\test\java\org\apache\clerezza\rdf\web\core\BackupAndRestoreTest.java,True,False,True,False
+C:\Apache project\clerezza\uima\uima.utils\src\test\java\org\apache\clerezza\uima\utils\AEProviderTest.java,True,True,False,False

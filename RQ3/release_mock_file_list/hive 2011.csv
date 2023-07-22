@@ -1,0 +1,4 @@
+file path,is mock,mockito,easymock,powermock
+C:\Apache project\hive\cli\src\test\org\apache\hadoop\hive\cli\TestCliDriverMethods.java,True,True,False,False
+C:\Apache project\hive\ql\src\test\org\apache\hadoop\hive\ql\io\TestHiveBinarySearchRecordReader.java,True,True,False,False
+C:\Apache project\hive\serde\src\test\org\apache\hadoop\hive\serde2\TestSerdeWithFieldComments.java,True,True,False,False
